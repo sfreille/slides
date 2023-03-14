@@ -1,0 +1,106 @@
+---
+title: Economía Política Internacional [UCC]
+author: Sebastián Freille
+date: (`r Sys.Date()`)
+slideNumber: true
+output:
+  revealjs::revealjs_presentation:
+    center: true
+    highlight: pygments
+    transition: slide
+    css: ..\style.css
+---
+
+## Bienvenida 
+
+Este es un **sitio de clases interactivas** de la materia Economía Política Internacional (cátedra A) del cuarto año de las carreras de Licenciatura en Ciencia Política y Licenciatura en Relaciones Internacionales de la Facultad de Ciencia Política y Relaciones Internacionales de la Universidad Católica de Córdoba.
+
+## Aspectos organizativos 
+
+En esta sección presentaremos los principales aspectos generales y organizativos de la materia. 
+
+## Equipo de cátedra
+
+- **Profesor Titular: FREILLE, Sebastián**
+    - Lic en Economía (UNC)
+    - PhD en Economía (University of Nottingham)
+- **Profesora Adjunta: GORONDY NOVAK, Melisa**
+    - Lic en Relaciones Internacionales (UCC)
+    - MA en Ciencias Sociales "Global Studies Programme" (Universidad Albert Ludwigs-FLACSO-Jawarhalal Nehru University)
+
+## Clases y dictado
+
+El curso se dicta íntegramente de manera presencial **usando una metodología tradicional** aunque complementada con:
+
+1. Material digitalizado y audiovisual en aula virtual
+3. Actividades para realizar en aula virtual
+
+## Clases y dictado (cont.)
+
+Los horarios de los encuentros sincrónicos semanales serán:
+
+1. Martes de 16:00 a 18:00 [MGN]
+2. Miércoles de 16:00 a 18:00 [SF]
+
+## Objetivo general
+
+El objetivo de la materia es estudiar y analizar la
+interacción entre las relaciones económicas internacionales de los
+países, las instituciones políticas y el proceso de agregación de
+preferencias de múltiples actores y las políticas económicas
+resultantes de esa interacción. 
+
+## Objetivos específicos
+
+- Estimular y desarrollar en los estudiantes la capacidad analítica para el estudio de los principales fenómenos económicos internacionales.
+- Proponer un enfoque y abordaje positivo que permita un  análisis riguroso de los temas 
+- Contribuir a una mayor integración de los elementos económicos y políticos que interactúan en la configuración de las relaciones económicas internacionales
+- Promover en los estudiantes una visión reflexiva y crítica de
+  los fenómenos estudiados
+
+## Programa de la materia
+
+1. Unidad 1: Introducción: Economía y política. Métodos y problemas
+2. Unidad 2: Política comercial: Factores y sectores. Votantes y
+  políticos. Instituciones
+3. Unidad 3: Integración de mercados globales
+4. Unidad 4: Economía política de la redistribución
+5. Unidad 5: Tópicos globales de economía política
+
+## Bibliografía y textos
+
+- La cátedra no sigue un texto único
+- Se dará una bibliografía detallada de papers y extractos de libro
+- Hay bibliografía en castellano pero mayoritariamente es en inglés
+
+## Evaluación
+
+- La evaluación tendrá dos instancias: parciales y finales. Habrá 2 (dos) parciales y se podrá recuperar
+  hasta uno ya sea por aplazo o ausencia.
+- El alumno obtendrá la **condición de regular (R) aprobando 2
+  (dos) parciales**. En caso contrario, quedará libre parciales (LP)/libre asistencia (LA). 
+- La evaluación final comprenderá todos los temas del programa y la modalidad a definir.
+- Cada evaluación (parcial/final) se aprobará con el 50\% del puntaje total
+
+## Fechas importantes
+
+- Parcial #1: a definir
+- Parcial #2: a definir
+- Parcial Recuperatorio: a definir
+
+## Puntos de encuentro
+
+1. Aula virtual de la materia: [Aula virtual](https://campusvirtual.ucc.edu.ar/course/view.php?id=2037)
+2. Web de S Freille: [Página de Economía Política Internacional](https://sfreille.github.io/teaching/epin)
+4. Mail y otros
+    - Se responden mails y mensajes en foros (no usamos grupos de whatsapp)
+    - Posible uso de Instagram Live (o similar) para sesiones de consulta cortas
+
+## Resumiendo
+
+1. Usen los espacios y metodologías dispuestos por la cátedra
+2. **Dificultad media/alta** pero la filosofía de la catedra es:
+    1. Explicamos los temas del programa 
+    2. Evaluamos sólo lo que explicamos
+    3. Explicamos cómo evaluamos y cómo corregimos
+    4. Mostramos evaluaciones y devoluciones

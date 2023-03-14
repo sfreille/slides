@@ -1,0 +1,117 @@
+---
+title: Finanzas Públicas
+subtitle: Cátedra Freille (Curso de Verano)
+author: Sebastián Freille
+slideNumber: true
+output:
+  revealjs::revealjs_presentation:
+    center: true
+    highlight: pygments
+    transition: slide
+    css: ..\style.css
+---     
+
+
+## Bienvenida 
+
+Este es un sitio de clases interactivas de la materia Finanzas Públicas (cátedra Freille) del tercer año de la carrera de Contador Público de la Facultad de Ciencias Económicas (FCE) de la Universidad Nacional de Córdoba (UNC).
+
+## Aspectos organizativos
+
+En esta sección presentaremos los principales aspectos generales y organizativos de la materia. 
+
+## Equipo de cátedra
+
+* Profesor Adjunto: FREILLE, Sebastián
+  * Lic en Economía (UNC)
+  * PhD en Economía (University of Nottingham)
+- Profesor Ayudante: GRIÓN, Néstor
+    - Lic en Economía (UNC) / Candidato Doctoral (FCE-UNC)
+- Adscripto: ARROYO, Mateo
+- Adscripto: LUCERO, Tobías
+
+## Clases y dictado
+
+El curso se dicta usando una **combinación de metodologías didácticas**:
+
+1. Clases teóricas y prácticas híbridas (transmisión por videoconferencia)
+2. Actividades a distancia en aula virtual
+3. Horas de consulta semanales en formato presencial remoto (transmisión por videoconferencia)
+
+## Clases y dictado (cont.)
+
+Los **horarios de las clases híbridas** semanales serán:
+
+1. Lunes a viernes de 17:00 a 21:00 [Freille/Grión]
+2. Sábados de 13:00 a 17:00 [Freille/Grión]
+
+## Objetivo general
+
+Desarrollar el **estudio de la actividad económica y financiera del sector público en la economía** y brindar a los alumnos **herramientas teórico-analíticas y empíricas** para comprender la naturaleza, el funcionamiento y los efectos de la actividad del sector público en el conjunto de la economía.
+
+## Objetivos específicos
+
+- Introducir y explicitar las **diferencias entre decisiones privadas y decisiones públicas**
+- Establecer y desarrollar las **diferentes metodologías y enfoques** de abordaje
+- Promover el **abordaje sistemático** de la actividad del sector público focalizando en los efectos sobre el resto de la economia
+- Estimular en los alumos el **espíritu reflexivo y crítico** en relación a las decisiones y evaluaciones de política pública
+
+## Programa de la materia
+
+1. U1. La economía del sector público: Introducción, conceptos y alcance
+2. U2. Las decisiones colectivas: Agregación de preferencias y decisiones sociales
+3. U3. El gasto público. El presupuesto público
+4. U4. Los recursos del sector público
+5. U5. Impuestos a los ingresos
+6. U6. Impuestos a los consumos
+7. U7. Impuestos a la riqueza y otros impuestos
+8. U8. Sostenibilidad fiscal: déficit público, endeudamiento y emisión monetaria
+9. U9. Federalismo fiscal y relaciones financieras inter-gubernamentales
+
+
+## Bibliografía y textos
+
+- La cátedra no sigue un texto único. Pero hay 2 (dos) libros principales:
+    1. Stiglitz, J.E. (2000). [*La economía del sector público*](https://www.amazon.com/-/es/Joseph-Stiglitz/dp/8495348055). (3ra edición). Barcelona: Antoni Bosch
+    2. Rosen, H. (2008). [*Hacienda pública*](https://www.amazon.com/-/es/Harvey-S-Rosen/dp/8448156625/). Madrid: McGraw-Hill
+- Libros complementarios
+    1. Musgrave, R., and Musgrave, P. (1992). [*Hacienda pública teórica y aplicada*](https://www.amazon.com/-/es/Richard-Musgrave/dp/8476157568/). (5ta edición). Madrid: McGraw-Hill
+    2. Garriga, M., y Rosales, W. (2013). [*Finanzas públicas en la práctica. Selección de casos y aplicaciones*](http://sedici.unlp.edu.ar/bitstream/handle/10915/30300/Documento_completo__.pdf?sequence=3). Buenos Aires: Editorial Dunken
+
+## Evaluación
+
+- Se obtiene la **regularidad aprobando 2 (dos) de 3 (tres) parciales**. Si aprueba los 2 (dos) primeros no rinde el restante. Los dos primeros parciales serán **presenciales físicos**; el parcial recuperatorio será **remoto en aula virtual**
+-  **Se aprueba la materia** (1) rindiendo y aprobando un examen en condición de regular; o (2) rindiendo y aprobando dos exámenes, uno en condición de libre y otro en condición de regular.
+- En todos los casos **se aprueba con 50 puntos sobre 100**, sin excepciones
+-  **No hay promoción** directa ni indirecta
+
+## Fechas importantes
+
+- El primer parcial será el **15/FEB de 19:00 a 21:00**
+    - Incluye U1 a U4 inclusive. Notas y muestra: 22/FEB
+- El segundo parcial es el **25/FEB de 15:00 a 17:00**
+    - Incluye U5 a U9 inclusive. Notas y muestra: 27/FEB
+- El recuperatorio será el **03/MAR de 17:00 a 19:00**
+    - Se recuperan los temas del parcial reprobado/ausente. Notas y muestra: 03/MAR (despúes del parcial). Cierre de condiciones. 
+
+## Puntos de encuentro
+
+1. Aula virtual de la materia
+    - Link directo: [Aula virtual Finanzas Públicas (Cat. Freille)](https://eco.aulavirtual.unc.edu.ar/course/view.php?id=176)
+2. Salas Google Meet
+    - Freille/Grión: [Sala Google Meet](https://meet.google.com/pny-rbue-qmi)
+3. Mail y otros
+    - Se responden mails y mensajes en foros a lo largo de la semana (no en el día)
+    - No usamos grupos de whatsapp y/u otro
+
+## Resumiendo
+
+1. Usen espacios y metodologías disponibles
+2. Sugerencia de consultar filminas y bibliografía antes de clases y sobre todo, antes de clases prácticas
+3. **Dificultad media/alta** pero nuestra filosofía es:
+    1. Explicamos los temas del programa 
+    2. Evaluamos sólo lo que explicamos
+    3. Explicamos cómo evaluamos/corregimos
+    4. Mostramos evaluaciones/damos devoluciones
+4. Se **promueve y estimula debates actuales** pero el foco es en la descripción y análisis y no en juicios de valor y opiniones
+

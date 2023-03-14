@@ -1,0 +1,846 @@
+---
+author:
+- Sebastián Freille (UNC-UCC)
+title: |
+  Universidad Nacional de La Plata (UNLP)\
+  Maestría en Finanzas Públicas Provinciales y Municipales\
+  La Política de las Finanzas Públicas\
+  Clase 9-10
+---
+
+# Instituciones
+
+::: {.frame}
+### Un cuento de dos ciudades
+
+![Un cuento de dos ciudades: el caso de Nogales](nogales2008)
+:::
+
+::: {.frame}
+### Un cuento de dos ciudades (cont.)
+
+::: {.block}
+El caso de las dos Nogales La ciudad de Nogales es una ciudad de
+frontera. Una mitad pertenece a Arizona (USA), la otra mitad a Sonora
+(MEX). Nogales (USA) tiene un PBI per capita de 30k, la mayoría de los
+adultos tienen título secundario, la mayoría de los adolescentes asisten
+a la escuela, las tasas de crimen son bajas y la corrupción e
+ineficiencia son relativamente bajas. Nogales (MEX) tiene un PBI per
+capita de 10k, la mayoría de los adultos no tiene titulo secundario y
+muchos adolescentes no asisten a la escuela, las tasas de crimen son muy
+altas y la corrupción y la ineficiencia son relativamente altas.
+:::
+:::
+
+::: {.frame}
+### Reglas del juego y juego del juego
+
+-   Instituciones (económicas, políticas, sociales) representan las
+    *reglas del juego* que agentes juegan. No hay una definición
+    aceptada y general en las ciencias sociales.
+
+-   En palabras de Douglas North, "las instituciones son las reglas del
+    juego y los métodos de hacerlas valer y los actores (organizacions)
+    son los equipos que juegan el juego".
+
+-   En este enfoque, las instituciones como reglas del juego podían ser
+    formales, informales y normas de comportamiento
+:::
+
+::: {.frame}
+### Tipos de instituciones
+
+-   Una clasificación
+
+    -   Instituciones económicas extractivas $\longrightarrow$
+        determinan las "reglas económicas del juego" --ausencia de ley y
+        orden; derechos de propiedad inseguros; barreras a la entrada;
+        regulaciones que previenen funcionamiento de mercados
+
+    -   Instituciones políticas extractivas $\longrightarrow$
+        absolutismo (límite). En general, aquellas que concentran el
+        poder en pocas manos, sin efectivos controles y "checks and
+        balances".
+
+    -   Instituciones económicas inclusivas $\longrightarrow$ ley y
+        orden; derechos de propiedad definidos; soporte de mercados y
+        Estado al mercado; libre entrada a mercados; acceso a educación
+        e igualdad de oportunidades
+
+    -   Instituciones políticas inclusivas $\longrightarrow$ pluralismo
+        (participación amplia); existencia de "checks and balances";
+        algun grado de centralización política.
+:::
+
+::: {.frame}
+### Tipos de instituciones (cont.)
+
+-   Otra clasificación
+
+    -   Instituciones predatorias (malas) $\longrightarrow$ aquellas que
+        no alientan la inversión y el desarrolo económico.
+
+    -   Instituciones promotoras del desarrollo (buenas)
+        $\longrightarrow$ aquellas que permiten y estimulan la inversión
+        y el crecimiento.
+:::
+
+::: {.frame}
+### Instituciones y poder político
+
+-   Diferentes conjuntos de instituciones crean diferentes grupos de
+    ganadores y perdedores.
+
+-   ¿Cómo decide una sociedad el conjunto de instituciones de
+    equilibrio? ¿Es una alternativa viable la compensación (de ganadores
+    hacia perdedores?
+
+-   La clave es el concepto de "poder político", entendido en contexto
+    democrático. Dos tipos de poder político: 1) de iure; 2) de facto.
+
+-   Instituciones de equilibrio resultado de la suma de ambos tipos de
+    poder político.
+:::
+
+::: {.frame}
+### Instituciones ineficientes pero estables?
+
+-   Suponemos una situacion donde alguien detenta el poder político
+    total:
+
+    -   Problema de *hold-up*: Político en el poder no puede
+        comprometerse a no bloquearlo una vez que la inversión este
+        hecha $\longrightarrow$ los productores no invertiran
+
+    -   Perdedores políticos: el riesgo de perder poder político
+        disminuirá el incentivo a adoptar instituciones eficientes
+
+    -   Perdedores económicos: diferentes instituciones implican
+        diferentes distribuciones de riqueza/ingresos. Ir de "malas" a
+        "buenas" instituciones implica perdedores económicos
+        $\longrightarrow$ motivos para bloquear.
+:::
+
+::: {.frame}
+### Implicancias
+
+-   Situaciones donde hay restricciones al poder político (balance de
+    poder, división de poderes) mas factibles de producir instituciones
+    protectoras de derechos de propiedad amplios.
+
+-   Si el poder está distribuido entre varios grupos con posibilidades
+    de inversión, mas factible que surjan "buenas" instituciones
+
+-   Cambios institucionales que no amenacen el poder político actual
+    tienen mas chances de ocurrir.
+:::
+
+::: {.frame}
+### Dinámica del sistema
+
+![Dinamica del sistema](ar1){#fig:ar1}
+:::
+
+::: {.frame}
+### Dinámica del sistema (cont.)
+
+-   Variables de "estado" $\longrightarrow$ instituciones políticas y
+    distribución de recursos. Dos motivos:
+
+    -   Cambian relativamente poco en el tiempo
+
+    -   Determinan instituciones económicas y resultados directa e
+        indirectamente.
+
+-   Efecto directo $\longrightarrow$ si las instituciones políticas dan
+    todo el poder a un individuo/grupo dificil tener instituciones
+    económicas "buenas"
+
+-   Efecto indirecto $\longrightarrow$ las instituciones políticas
+    determinan la distribución de poder de iure; y esto determina
+    instituciones economicas y resultados
+:::
+
+::: {.frame}
+### Dinámica del sistema (cont.)
+
+-   Pero no sólo las instituciones económicas son endógenas. Las
+    instituciones políticas también lo son $\longrightarrow$
+    transiciones democráticas; reformas constitucionales;
+
+-   Distribución del poder político principal determinante de
+    instituciones políticas. Formal:
+
+    -   $IP_{t}$ $\longrightarrow$ $PPdI_{t}$ $\longrightarrow$
+        $IP_{t+1}$. Pero $PPdF_{t}$ $\longrightarrow$ $IP_{t+1}$
+
+-   Suele suceder en revoluciones, crisis, y ante amenazas de revuelta.
+:::
+
+::: {.frame}
+### ¿Las instituciones realmente importan?
+
+-   Hace algunas décadas, existía prácticamente un consenso generalizado
+    $\longrightarrow$ las instituciones importan
+
+-   Al mismo tiempo, desde esa época, muchisimos trabajos adjudicaban a
+    las instituciones políticas (económicas) un rol fundamental en la
+    explicación de los diferentes resultados entre los países --i.e.
+    volviendo a la primer parte de la materia, los
+    intereses/preferencias pasan a segundo plano
+
+-   Esta visión fue incluso adoptada por organismos internacionales y
+    multilaterales $\longrightarrow$ consenso de Washington; reformas
+    estructurales e institucionales en países subdesarrollados
+
+-   Sin embargo, dos problemas persistían: 1) no podría explicar
+    resultados diferentes de implementar mismas instituciones en paises
+    diferentes; 2) no podría explicar si son verdaderamente las
+    instituciones las que determinan resultados
+:::
+
+::: {.frame}
+### Instituciones endógenas
+
+::: {.block}
+Instituciones y condiciones Un juego de basket. Dos equipos. Un conjunto
+universal de reglas y un referee imparcial. Un equipo todos miden 210cm,
+el otro 180cm. El resultado de este juego esta predeterminado. Las
+reglas del juego (instituciones) tratan a todos por igual pero la
+diferencia (resultado) se da en los recursos que cada equipo trae al
+juego $\longrightarrow$ poder bruto, pre-institucional. SALIDA: ¿Y si
+cambiamos reglas (ajustamos altura de los aros para igualar condiciones?
+¿Existirán condiciones para que ambos equipos acepten esto? Y si esto se
+así, las instituciones (nuevas) serán estables (self-enforcing)?
+:::
+
+::: {.block}
+Argentina El problema con Argentina es que no tiene una justicia
+independiente. Pues bien, pongamos una justicia independiente y
+aseguremos los derechos de propiedad y el maná caerá del cielo
+$\longrightarrow$ Wrong
+:::
+:::
+
+::: {.frame}
+### Instituciones endógenas (cont.)
+
+-   Problema principal $\longrightarrow$ si **diferentes instituciones**
+    son posibles sólo bajo **diferentes condiciones/situaciones**, ¿cómo
+    podemos saber si lo que importa realmente (en el sentido causal) son
+    las instituciones o las condiciones/situaciones?
+
+-   Ejemplo $\longrightarrow$ observancia y acatación de resultados
+    electorales por parte de partidos políticos.
+
+-   Cuando un partido A gana una elección, por qué los identificados con
+    el partido B aceptan el resultado? ¿No tendrían incentivo a no
+    acatar el resultado y tratar de usar la fuerza?
+:::
+
+::: {.frame}
+### Instituciones endógenas (cont.)
+
+::: {.block}
+Condorcet sobre el origen de la autoridad Cuando la práctica de acometer
+a todos los individuos a la voluntad de la mayoría se introdujo en las
+sociedades, y cuando los ciudadanos empezaron a mirar la decisión de la
+mayoría como la voluntad de todos, no fue porque adoptaron ese método
+para evitar errores y conducirse en base a decisiones basadas en la
+verdad, sino que descubrieron que en miras a la paz y bienestar
+generales, era necesario otorgar autoridad donde la fuerza estaba.
+:::
+
+-   La pregunta subsiste: ¿por qué los ganadores y perdedores observan
+    las reglas? ¿Estan obedeciendo reglas o están haciendo lo que
+    hubieran hecho incluso si no hubieran existido esas reglas?
+:::
+
+::: {.frame}
+### Instituciones endógenas (cont.)
+
+-   Evidencia $\longrightarrow$ en los países ricos, tanto los ganadores
+    como los perdedores respetan los resultados de las elecciones; en
+    los países pobres en general, pueden respetarlos o no.
+
+::: {.block}
+Elecciones arregladas Una elección muy pareja en Costa Rica en 1948 (PBI
+per capita 1500 dolares). Sospechas de fraude. El congreso dio por
+ganador al partido con menos votos. Hubo revueltas y 3000 muertos. Otra
+elección muy pareja en otro país (PBI per capita 20000 dolares). La
+Corte Suprema (elegida en parte por el padre de uno de los candidatos)
+dio por ganador al partido con menos votos. Cada uno se fue a su casa a
+en sus minivans a sentarse en el jardin. Los tenían por el alto ingreso
+per capita.
+:::
+:::
+
+::: {.frame}
+### El problema del "commitment"
+
+-   ¿No sería más eficiente resolver el conflicto de intereses a través
+    de una negociación/acuerdo entre las partes? Sería posible si no
+    existiera el problema del "commitment".
+
+-   Los grupos en el poder no pueden comprometerse a no usar su poder
+    para cambiar instituciones en su favor --ie. promesas campaña Menem
+
+-   Problema de inconsistencia inter-temporal $\longrightarrow$ aquellos
+    que toman las decisiones hoy no pueden comprometerse a ciertas
+    instituciones economicas en el futuro dado que serán (posiblemente)
+    otros los que tengan el poder. Por eso cambian instituciones hoy
+    --i.e. CFK reforma judicial.
+:::
+
+::: {.frame}
+### Instituciones: resumiendo
+
+-   Las instituciones importan $\longrightarrow$ influyen sobre las
+    normas, las creencias y los resultados.
+
+-   Las instituciones son endógenas $\longrightarrow$ el tipo y
+    funcionamiento de las instituciones dependerá de la configuracíon de
+    intereses y de las condiciones de las que surgen
+
+-   Condiciones $\longrightarrow$ Instituciones $\longrightarrow$
+    Resultados. Formalmente: $R=f(I)=f(f(C))$
+
+-   Entonces, ¿importan las instituciones?. Si es asi, ¿cuánto?
+:::
+
+# Aplicaciones - Casos de ilustración
+
+::: {.frame}
+### Caso I: Del medioevo a la revolución industrial
+
+-   El $PPdI$ y $PPdF$ estaba en manos de los Reyes y los derechos de
+    propiedad respondían a sus intereses. Instituciones económicas
+    atentaban contra la inversión y la tecnología. Perjudicó el
+    crecimiento pero aumentó el poder económico de reyes.
+
+-   En siglo XVII grandes cambios en $IP$ y $IE$ $\longrightarrow$
+    cambios en tenencia de tierras y comercio atlántico aumentó $PPdF$ y
+    poder militar de otros grupos --guerra civil inglesa y revolución
+    gloriosa.
+
+-   Cambios en $IP$ que redujeron el $PPdF$ del rey e introdujeron
+    derechos de propiedad de terratenientes y dueños de capital. Proceso
+    de crecimiento sostenido culminado en la RI.
+:::
+
+::: {.frame}
+### Caso II: El respeto a las elecciones
+
+-   La institución de elegir via elecciones
+
+-   Si todos los hombres fueran iguales e igualmente fuertes, ¿por qué
+    los perdedores aceptan el resultado? Porque lo dice la Constitución?
+    Porque serían derrotados (por la fuerza) si no lo hicieran?
+
+-   Refinando la pregunta $\longrightarrow$ los perdedores actuarían de
+    la misma manera (acatando el resultado) si no existiera la
+    institución legal?
+
+    -   No siempre. Evidencia sugiere que el ajustarse a las
+        instituciones depende de la riqueza del país --cfr casos de
+        fraudes en dos países \[Przeworski (2004)\]
+
+    -   Misma institución, diferentes condiciones $\longrightarrow$
+        diferentes resultados.
+:::
+
+::: {.frame}
+### Caso III: Historia colonial como determinante de desarrollo
+
+-   ¿Por qué no todos los países se desarrollaron? Algunas explicaciones
+    posibles: geografía; instituciones; cultura; otras ("policies")
+
+-   ¿Por qué pueden variar las instituciones? Geografía, accidentes
+    históricos, ideas\...y por qué persisten esas diferencias
+
+-   Hay basicamente dos tipos de explicaciones. La primera, asigna a la
+    geografía y a los accidentes históricos impacto sobre elección y
+    persistencia institucional. La segunda, a la cultura.
+
+-   Acemoglu, Robinston & Johnson (2001) y Nunn (2008) son ejemplos de
+    la primera. Clark (1987), ejemplo de la segunda.
+:::
+
+::: {.frame}
+### Caso III: Historia colonial como determinante de desarrollo (cont.)
+
+-   Acemoglu, Robinson & Johnson $\longrightarrow$ la mortalidad
+    potencial de los colonos (colonizadores/inmigrantes) influyó sobre
+    la estrategia colonizadora lo que influyó sobre las instituciones
+
+-   En lugares donde la mortalidad potencial de colonos era baja, se
+    desarrollaron colonias de inmigrantes (instituciones inclusivas).
+    Pero donde la mortalidad era alta, se instalaron colonias
+    extractivas (instituciones extractivas).
+
+-   En otras palabras, la mortalidad --condiciones preexistentes--
+    influyó sobre el tipo institucional adoptado.
+:::
+
+::: {.frame}
+![Mortalidad de colonos y riesgo de expropiación](arj1){#fig:arj1}
+:::
+
+::: {.frame}
+### Caso IIIA: Los efectos de la esclavitud
+
+-   Nunn usa datos sobre embarques con numero estimado de esclavos de
+    cada ciudad costera de Africa
+
+-   Supone que los esclavos embarcados en un determinado país son de ese
+    país o de países directamente colindantes
+
+-   Posibles errores de medición (esclavos del interior más mortalidad,
+    etc)
+
+-   También tienen posibles casos de sesgos $\longrightarrow$ areas
+    menos desarrolladas mas afectadas por comercio de esclavos.
+    Controlar por esto. x
+:::
+
+::: {.frame}
+### Caso IIIA: Los efectos de la esclavitud (cont.)
+
+![Embarques de esclavos](nunn1){#fig:ar1}
+:::
+
+::: {.frame}
+### Caso IIIA: Los efectos de la esclavitud (cont.)
+
+![Embarques de esclavos](nunn2){#fig:ar1}
+:::
+
+::: {.frame}
+### Caso IIIA: Los efectos de la esclavitud (cont.)
+
+![Esclavitud y desarrollo estatal en siglo 19](nunn3){#fig:arj1}
+:::
+
+::: {.frame}
+### Caso IIIA: Los efectos de la esclavitud (cont.)
+
+![Esclavitud y trayectorias de PBI](nunn4){#fig:arj1}
+:::
+
+::: {.frame}
+### Caso IV: La mita en Perú
+
+-   Un excelente trabajo de Dell (Econometrica, 2010) muestra efectos de
+    largo plazo de persistencia institucional. Su principal conclusión
+    es que los distritos sujetos a la mita muestran peores resultados
+    educacionales, peor integración a infraestructura de caminos y
+    economías más precarias
+
+-   Toma el caso de Perú y la institución de la *mita* $\longrightarrow$
+    sistema extendido de trabajo forzado en Perú y Bolivia impuesto por
+    la Corona española entre 1573 y 1812.
+
+-   Utiliza un sistema de experimento natural entre distritos coloniales
+    sujetos a la institución de la mita y los que no.
+:::
+
+::: {.frame}
+### Caso IV: La mita en Perú (cont.)
+
+![Distritos coloniales de mita en Perú](mita1){#fig:ar1}
+:::
+
+::: {.frame}
+### Caso IV: La mita en Perú (cont.)
+
+-   Distritos "mita" asociados a 25% menor consumo que distritos "no
+    mita" en 2001.
+
+-   Distritos "mita" asociados a un 6% de mayor prevalencia de retrasos
+    en el crecimiento de niños
+
+-   Identifica que los canales a través de los cuales se dio la
+    causalidad: a) régimen de tenencia de la tierra (distritos "mita"
+    menos propietarios y más area luego de reforma agraria); b)
+    provisión de bienes públicos (mejores derechos de propiedad en
+    distritos "no mita"); c) participación en el mercado (persistía
+    agricultura de subsistencia en distritos "mita"; rutas peores,
+    mayores costos de transporte, menor incentivo a participar en el
+    mercado).
+
+-   Efecto causal (de largo plazo) de instituciones económicas.
+:::
+
+# Una mirada a la evidencia
+
+::: {.frame}
+### Instituciones políticas y resultados económicos
+
+Un área central de la nueva economía política es la comprobación
+empírica de las hipótesis teóricas desarrolladas\
+
+En el contexto actual de disponibilidad de datos, hay dos enfoques
+principales:
+
+-   comparaciones entre países
+
+-   comparaciones intra-país (longitudinal)
+
+Problema $\longrightarrow$ una gran cantidad de factores históricos y
+culturales deben ser tenidos en cuenta
+:::
+
+::: {.frame}
+### La democracia promueve el desarrollo?\...
+
+-   Los países más ricos son más democráticos pero\...
+
+-   \...la evidencia es débil para casos de antes y después de reformas.
+    Es difícil identificar el efecto de mayor democracia mirando a la
+    variación intra-país.
+
+-   Se requiere más estudio de las reformas democráticos: mas estudios
+    comparativos
+:::
+
+::: {.frame}
+### \...o son otros factores los que lo promueven?
+
+-   La evidencia es que tanto las condiciones democráticas como la
+    liberalización están asociados a mayor desarrollo. Ambas tienen un
+    efecto separado e independiente.
+
+-   Pero lo que *realmente* importa es la secuencia de las reformas:
+
+    -   Liberalización antes de reforma democrática: el crecimiento
+        aumenta un 3.5% y el efecto a largo plazo es mayor a 50% (Chile,
+        Corea del Sur)
+
+    -   Reforma democrática y luego liberalización: efecto marginal
+        (Filipinas, Argentina)
+:::
+
+::: {.frame}
+### Y el tipo de democracia importa?
+
+-   Para una muestra de 138 países se concluye que los sistemas
+    presidencialistas tienen un efecto positivo sobre el crecimiento no
+    así los sistemas parlamentarios. En cambio, no parece haber
+    diferencias sustanciales en cuanto al crecimiento si los países
+    tienen sistemas mayoritarios o de representación proporcional.
+
+::: {#tab:dm}
+  Variable                    Crecimiento
+  -------------------------- -------------
+  Democracia                    1.00\*
+  Democracia Parlamentaria      -1.61\*
+  Democracia Proporcional        0.16
+  Países                          138
+
+  : Tipos de democracia y crecimient
+:::
+:::
+
+::: {.frame}
+### Diseño constitucional y resultados
+
+-   Myerson(2000) inicia esta línea de análisis $\longrightarrow$
+    entender el diseño constitucional y evaluar el impacto de reformas.
+
+    -   emocracias presidencialistas $\longrightarrow$ el ejecutivo es
+        elegido por el pueblo (directa o indirectamente) y democracias
+        parlamentarias −- el ejecutivo es elegido por la Legislatura
+
+    -   Sistemas de representación proporcional $\longrightarrow$
+        escaños legislativos asignados en districtos multi-miembro
+        (minorías representadas) y sistemas mayoritarios
+        $\longrightarrow$ cada escaño legislativo es asignado en una
+        elección donde el candidato con la mayoría gana todo.
+:::
+
+::: {.frame}
+### Diseño constitucional y resultados (cont.)
+
+-   Cada diseño institucional le imprimirá ciertas características al
+    sistema. Así por ejemplo:
+
+    -   En los sistemas PR se observa una mayor representación política
+        en la Legislatura y una mayor fraccionalización legislativa
+
+    -   Esto también tiene implicancias para la existencia y estabilidad
+        de coaliciones políticas.
+
+-   Es sumamente importante estudiar los efectos diferenciales de los
+    distintos sistemas electorales \[Lijphart (1999)\]
+:::
+
+::: {.frame}
+### Diseño constitucional y resultados (cont.)
+
+-   Una diferencia fundamental entre ambos sistemas es en relación a la
+    forma de targeting del electorado:
+
+    -   Los sistemas mayoritarios ("winner takes all") tienden a
+        concentrarse en aquellos distritos swing debido a que pueden ser
+        cruciales en establecer mayorías
+
+    -   Los sistemas proporcionales ("PR systems") favorecen un
+        targeting más amplio y menos focalizado
+
+-   Algunos autores \[Persson and Tabellini (2003)\] encuentran
+    evidencia que avala estas predicciones teóricas.
+:::
+
+::: {.frame}
+### Sistemas electorales en el mundo
+
+![Sistemas electorales](elec1){#fig:elec1}
+:::
+
+::: {.frame}
+### Sistemas electorales en el mundo (cont.)
+
+![Sistemas electorales](elec2){#fig:elec1}
+:::
+
+::: {.frame}
+### Releccion vs no-reeleccion
+
+-   La reciente literatura también se ha preocupado en investigar el
+    impacto de restricciones al período de mandato y/o límites a la
+    reelección sobre el comportamiento político
+
+-   Hay dos efectos importantes aquí:
+
+    -   Efectos de incentivo $\longrightarrow$ los políticos enfrentan
+        un horizonte temporal más corto y están menos obligados a
+        satisfacer a los votantes
+
+    -   Efectos de selección $\longrightarrow$ ocurre ya que en
+        presencia de límites a la reelección el político será elegido
+        sólo para ese período ("lame duck term") y los votantes
+        racionales deberían anticipar esto
+:::
+
+::: {.frame}
+### Reelección vs no-reelección (cont.)
+
+-   Varios estudios han analizado los efectos de los límites a la
+    reelección para el caso de los estados americanos.
+
+-   Besley and Case (1995) encuentran que las políticas se ven afectadas
+    por la presencia de estos límites: impuestos y gastos más altos en
+    el segundo mandato cuando el límite se vuelve operativo
+
+-   List and Sturm (2001) encuentran que los gobernadores en su último
+    mandato son más proclives a gastar en protección ambiental.
+:::
+
+::: {.frame}
+### Reelección vs no-reelección (cont.)
+
+![Terminos de mandato](elec3){#fig:elec1}
+:::
+
+::: {.frame}
+### Reelección vs no-reelección (cont.)
+
+![Terminos de mandato](elec4){#fig:elec1}
+:::
+
+::: {.frame}
+### Instituciones políticas y resultados económicos (cont.)
+
+Otros problemas:
+
+-   muestra limitada a las democracias --puede ser un error
+
+-   riesgo potencial de variables omitidas
+
+-   multicolinearidad $\longrightarrow$ muchas de las variables
+    constitucionales relacionadas fuertemente con otras variables
+    socioeconómicas
+
+-   variación a través del tiempo limitada (no hay cambios en PRES, sólo
+    cinco en MAJ, y diez entre MAJ y MIXED --esto para 30 años!
+:::
+
+::: {.frame}
+### Instituciones políticas y resultados económicos (cont.)
+
+Más problemas!
+
+-   ¿Podemos inferir efectos causales o son meras correlaciones?
+
+-   Heterogeneidad en las relaciones propuestas --i.e. la relación entre
+    democracia y crecimiento puede no ser lineal
+
+-   Hay un potencial problema de endogeneidad también --i.e. ¿es la
+    concentración en la propiedad de los medios lo que lleva a mayor
+    corrupción o viceversa?
+:::
+
+::: {.frame}
+### Instituciones políticas y resultados económicos (cont.)
+
+EJEMPLO: La relación democracia-crecimiento es compleja. En los últimos
+200 años:
+
+-   cambio económico sin precedentes (cambio tecnológico, productividad,
+    etc) pero crecimiento dispar y diferencias importantes en las
+    experiencias de crecimiento según regiones
+
+-   cambio político sin precedentes (introducción de condiciones
+    democráticas, libertades civiles, etc) pero no siempre al mismo
+    tiempo y diferencias importantes en las experiencias democráticas
+
+¿Podemos relacionar la experiencia de crecimiento con la experiencia de
+democracia?
+:::
+
+::: {.frame}
+### Instituciones políticas y resultados económicos (cont.)
+
+![image](democracia)
+:::
+
+::: {.frame}
+### Instituciones políticas y resultados económicos (cont.)
+
+Pueden darse tres posibles explicaciones para el sugerente gráfico
+anterior:
+
+-   La democracia promueve el crecimiento económico (condiciones más
+    estables para el ahorro y la inversión en la democracia debidas a
+    mejores políticas)
+
+-   El crecimiento promueve la democracia (mayor demanda de libertad y
+    valores no materiales al mejorar las condiciones de vida)
+
+-   Algún otro factor está detrás de ambos hechos --la relación es
+    espuria (pueden ser circunstancias históricas o simple casualidad lo
+    que está por detrás de ambas)
+:::
+
+::: {.frame}
+### Instituciones políticas y resultados económicos (cont.)
+
+Este es un claro ejemplo donde la mera relación lineal entre estas dos
+variables no provee un panorama certero sobre la verdadera relación
+existente $\longrightarrow$ necesidad de introducir al estudio la
+**dinámica conjunta** de ambas evoluciones\
+Dos ideas:
+
+-   **capital democrático** influencia la dinámica conjunta
+
+-   no sólo importa el régimen actual (democ/autoc) para el crecimiento
+    $\longrightarrow$ también importa el **régimen político esperado**
+    (i.e. la probabilidad de que haya cambio de régimen)
+:::
+
+::: {.frame}
+### Instituciones políticas y resultados económicos (cont.)
+
+![image](elecrules)
+:::
+
+::: {.frame}
+### Instituciones políticas y resultados económicos (cont.)
+
+![image](tabla1)
+:::
+
+::: {.frame}
+### Instituciones políticas y resultados económicos (cont.)
+
+Resumen de efectos encontrados:
+
+-   distritos electorales grandes asociados a menor corrupción (e
+    ineficiencia)
+
+-   votación por listas asociada a mayor corrupción (e ineficiencia)
+
+-   evidencia débil de menor corrupción en sistemas
+    presidencialistas\...
+
+-   \...pero sólo parece regir para submuestras de los países más
+    democráticos
+:::
+
+::: {.frame}
+### Evidencia: Latinoamérica y Argentina
+
+Existen varios trabajos que analizan la relación entre instituciones
+políticas y resultados económicos para la región de LA y para el caso
+particular de nuestro país.\
+Tres trabajos principales:
+
+-   Bercoff y Nougués (2005)
+
+-   Stein y Tommasi (2007)
+
+-   Stein, Talvi y Grisanti (1998)
+:::
+
+::: {.frame}
+### Evidencia: Latinoamérica y Argentina (cont.)
+
+Stein, Talvi y Grisanti \[1998\]:
+
+-   Muestra de 26 países latinoamericanos y Caribe
+
+    -   Evidencia de que sistemas electorales PR (e.g. tamaño del
+        distrito electoral grande y alto grado de fragmentación
+        política) tienen mayores gastos del gobierno, mayores déficits y
+        una respuesta más procíclica al ciclo de negocios
+
+    -   Países con procesos presupuestarios más transparentes y
+        jerárquicos están asociados con menores déficits y deuda.
+:::
+
+::: {.frame}
+### Evidencia: Latinoamérica y Argentina (cont.)
+
+![Capacidades del Congreso y calidad de las políticas](grafico1)
+:::
+
+::: {.frame}
+### Evidencia: Latinoamérica y Argentina (cont.)
+
+![Indice de independencia judicial](grafico2)
+:::
+
+::: {.frame}
+### Evidencia: Latinoamérica y Argentina (cont.)
+
+![Independencia judicial y la política económica](grafico3)
+:::
+
+::: {.frame}
+### Evidencia: Latinoamérica y Argentina (cont.)
+
+Trabajo de Bercoff y Nougués:
+
+-   Provincias argentinas para 1991-2001
+
+-   Proceso presupuestario estricto asociado a menor gasto público
+    provincial (per cápita)
+
+-   Provincias con regímenes bicamerales (Corrientes, Entre Ríos, Buenos
+    Aires, Mendoza) tienen menores niveles de gasto per cápita
+
+-   No hay evidencia de correlación significativa entre cláusulas que
+    limitan la reelección y los niveles de gasto per cápita
+:::
+
+::: {.frame}
+### Evidencia: Latinoamérica y Argentina (cont.)
+
+![image](tabla2)
+:::
+
+::: {.frame}
+### Evidencia: Latinoamérica y Argentina (cont.)
+
+![image](tabla3)
+:::

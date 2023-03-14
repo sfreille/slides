@@ -1,0 +1,36 @@
+
+---
+title: Economía Política
+subtitle: Unidad 1. Es la política, estúpido! Introducción a la economía política
+author: |
+  | **Sebastián Freille**
+  | sfreille@unc.edu.ar
+  | Licenciatura en Economía
+  | FCE-UNC
+
+output:
+  revealjs::revealjs_presentation:
+    center: true
+    highlight: pygments
+    transition: slide
+    css: ..\style.css
+header-includes:
+  - \usepackage{amsmath}
+  - \usepackage{tcolorbox}
+  - \newtcolorbox{myquote}{colback=cyan!35!white, colframe=cyan!85!black}
+  - \renewenvironment{quote}{\begin{myquote}}{\end{myquote}}
+---
+
+## Modelos espaciales de votacion
+
+- Downs (1957)
+- Grofman (1985)
+- Weisberg (1974)
+- Matthews (1979)
+- Rabinowitz and Macdonald (1989)
+- Macdonald, Listhaug, and Rabinowitz (1991)
+- Rabinowitz and Macdonald (1989)
+- Iversen (1994)
+- Merrill and Grofman (1997)
+
+

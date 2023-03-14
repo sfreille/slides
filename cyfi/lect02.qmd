@@ -1,0 +1,212 @@
+---
+title: U2. Productividad del trabajo y ventaja comparativa. El modelo ricardiano 
+subtitle: Comercio y Finanzas Internacionales [UCC]
+author: |
+  | **Sebastián Freille**
+  | 0933217@ucc.edu.ar
+  | Licenciatura en Ciencia Política y Licenciatura en RRII
+  | FCPyRRII - UCC
+format:
+  revealjs:
+    slide-number: true
+    chalkboard:
+      buttons: false
+    preview-links: auto
+    css: ..\quarto.css
+    width: 1500
+    center-title-slide: true
+    center: true
+    tbl-cap-location: bottom
+    toc: true
+    toc-depth: 1
+    toc-title: Contenidos
+---
+
+# ¿Por qué comercian los países entre sí? {background="#43464B"}
+
+## Ganancias del comercio
+
+- Existen dos razones básicas para que los países comercien
+  - Porque son diferentes entre sí
+  - Para conseguir economías de escala en la producción
+- La primera razón obedece a que en una relación comercial puede haber
+  ganancias mutuas si ambas partes se enfocan en lo que hacen
+  *relativamente* bien
+- La segunda razón tiene que ver con que es más *eficiente* producir
+  pocos bienes en gran cantidad que producir muchos bienes en poca
+  cantidad
+- En las unidades 2 a 4 el foco estará puesto en la primera razón
+
+## La ventaja comparativa
+
+- Cultivar rosas --o cualquier flor- en invierno requiere de
+  condiciones climáticas adecuadas que son posibles gracias al uso de
+  recursos como energía, capital y otros necesarios para un
+  invernadero
+  - En otras palabras para producir rosas en invierno es necesario
+    renunciar a producir cierta cantidad de computadoras
+- **Costo de oportunidad** $\longrightarrow$ el costo de oportunidad
+  de las rosas en términos de computadoras es la cantidad de
+  computadoras que se podrían haber producido con los recursos usados
+  para producir una cierta cantidad de rosas
+  
+## La ventaja comparativa (cont.)
+
+- EEUU $\longrightarrow$ con los recursos usados para producir 10
+  millones de rosas se podrían producir 100 mil computadoras
+  - EEUU podría considerar *importar* las rosas de otro país --Argentina
+- Argentina $\longrightarrow$ con los recursos usados para producir 10
+  millones de rosas se podrían producir 30 mil computadores
+  - Podría producirse una situación mutuamente
+    beneficiosa si se reordena la producción mundial de manera que EEUU
+    sólo produzca computadores y Argentina sólo produzca rosas
+	- ¿Por qué es beneficiosa? ¿Quién gana? ¿Quién pierde?
+- La tabla ilustra las ganancias asociadas a esta
+  reorganización de la producción
+
+## La ventaja comparativa (cont.)
+
+| **Pais**  | **Rosas (mill)** | **Computadores (mil)** |
+|-----------|:----------------:|:----------------------:|
+| EEUU      |        -10       |          +100          |
+| Argentina |        +10       |           -30          |
+| Total     |         0        |           +70          |
+
+## La ventaja comparativa (cont.)
+
+> Un país tiene una **ventaja comparativa** en la producción de un
+> bien si el costo de oportunidad en la producción de este bien en
+> términos de otros bienes es menor que el del otro país
+
+- ¡El comercio entre 2 (dos) países *puede* beneficiar a ambos si cada
+  uno exporta los bienes en los que tiene una ventaja comparativa!
+  - Claro está nada garantiza que esto suceda --sin embargo esta idea
+    dio origen al primer y más tradicional modelo de comercio
+    internacional $\longrightarrow$ **el modelo ricardiano*
+
+# El modelo ricardiano {background="#43464B"}
+
+## El modelo ricardiano: producción
+
+- Una economía con 1 (un) sólo factor productivo, trabajo, $L$
+- Sólo se producen 2 (dos) bienes: *vino (V)* y *queso (Q)*
+- Tecnología $\longrightarrow$ requerimientos unitarios de trabajo
+  --horas de trabajo necesarias para producir un kilo de queso o un
+  litro de vino
+- Estos requerimientos se denotan como $a_{LV}$ y $a_{LQ}$. El trabajo
+  es limitado --ie. para producir más *vino* hay que renunciar a *queso*
+
+## El modelo ricardiano: producción (cont.)
+
+- Esto permite trazar la **frontera de posibilidades de producción (FPP)**
+  --cantidad máxima que se puede producir de $V$ dada una cierta
+  cantidad de $Q$ y viceversa
+  - Tiene pendiente negativa y es una línea recta [¿por qué?]
+- Si se produce $Q_{V}$ (cantidad de vino) y $Q_{Q}$ (cantidad de
+  queso) entonces:
+\begin{equation}
+a_{LQ}Q_{Q}+a_{LV}Q_{V} \leq L
+\end{equation}
+- Esa es la **expresión algebraica de la FPP**
+
+## El modelo ricardiano: producción (cont.)
+
+![](fig/fig-02-001.png){fig-align="center"}
+
+## El modelo ricardiano: producción (cont.)
+
+- Suponga: $a_{LQ}=1$, $a_{LV}=2$, y $L=1000$. El total de $V$ y $Q$
+  que se puede producir:
+\begin{align}
+\frac{L}{a_{LQ}}&=1000 \\
+\frac{L}{a_{LV}}&=500 
+\end{align}
+- Para producir un kilo más de queso se necesitan $a_{LQ}$
+    personas-hora y a su vez cada una de estas personas-hora podría
+    producir $1/a_{LV}$. 
+- Por ello el **costo de oportunidad de queso en términos de vino** es
+  $\frac{a_{LQ}}{a_{LV}}=\frac{1}{2}$ --constante!
+  
+## El modelo ricardiano: producción (cont.)
+
+- La FPP nos dice *qué puede producir* la economía; necesitamos
+  precios para saber *qué producirá* la economía --lo que importa es
+  el **precio relativo**
+- Suponga $P_{Q}=4$ por kilo y $P_{V}=7$ por litro, ¿qué producirán los trabajadores?
+  - Un trabajador gana $4$ *por hora* produciendo queso y $3.5$ *por hora*
+    produciendo vino [¿por qué? ¿por qué no gana $7$?]
+- La economía se especializará en la producción de $Q$
+  - pero...
+  
+## El modelo ricardiano: producción (cont.)
+
+- ...si $P_{Q}=3$ en ese caso a ningún trabajador le conviene producir
+  $Q$y la economía se especializaría en la producción de $V$
+- ¿Cuáles son los salarios en cada sector?
+  - El salario será el *valor* de lo que un trabajador puede producir
+    en una hora --$\frac{P_{Q}}{a_{LQ}}$ y $\frac{P_{V}}{a_{LV}}$
+
+\begin{align}
+\textrm{El país producirá:}
+\begin{cases}
+Q & si \quad \frac{P_{Q}}{P_{V}} > \frac{a_{LQ}}{a_{LV}} \\
+Q \quad y \quad V & si \quad \frac{P_{Q}}{P_{V}} = \frac{a_{LQ}}{a_{LV}} \\
+V & si \quad \frac{P_{Q}}{P_{V}} < \frac{a_{LQ}}{a_{LV}}  \\
+\end{cases}
+\end{align}	
+	
+## El modelo ricardiano: producción (cont.)
+
+> La economía se especializará en la producción de $Q$ si
+> $\frac{P_{Q}}{P_{V}}$ --el precio relativo del $Q$ es mayor que su
+> costo de oportunidad; y se especializará en la producción de $V$ si
+> $\frac{P_{Q}}{P_{V}}$ es menor que su costo de oportunidad en
+> términos de vino
+
+\
+
+> Si no existe comercio internacional, el precio relativo de los
+> bienes es igual a la relación de sus requerimientos unitarios de
+> trabajo --es decir una teoría de determinación de precios según el
+> contenido de trabajo!
+
+
+## El modelo ricardiano: comercio
+
+- Hay 2 (dos) países: 1) $L$, $a_{LV}$, $a_{LQ}$; 2) $L^{*}$, $a^{*}_{LV}$, $a^{*}_{LQ}$
+- Suponemos que:
+\begin{align}
+\frac{a_{LQ}}{a_{LV}} < \frac{a^{*}_{LQ}}{a^{*}_{LV}} \\
+\frac{a_{LQ}}{a^{*}_{LQ}} < \frac{a_{LV}}{a^{*}_{LV}} 
+\end{align}
+- idea $\longrightarrow$ *productividad relativa* de queso de
+  nuestro país es mayor que la de vino
+  - nuestro país **tiene una ventaja comparativa en la producción de
+    queso**
+	
+## El modelo ricardiano: comercio (cont.)
+
+> **Ventaja comparativa y ventaja absoluta.** Si un país puede
+> producir una unidad de un bien con menos trabajo que otro, se dice
+> que tiene una *ventaja absoluta* en la producción de ese
+> bien. Comparando los requerimientos unitarios de producción entre
+> ambos países, sólo podemos decir si una país tiene ventaba absoluta
+> o no; para afirmar que un país tiene *ventaja comparativa* en la
+> producción de algún bien necesitamos contar con los 4 (cuatro)
+> requerimientos de trabajo
+
+## El modelo ricardiano: comercio (cont.)
+
+::: {#exm-1}
+Suponga que $a_{LQ}=2$, $a^{*}_{LQ}=3$, $a_{LV}=1$, y $a^{*}_{LV}=2$,
+¿qué país tiene ventaja absoluta y comparativa en la producción de cada bien?
+:::
+
+::: {#exm-2}
+¿Puede un país tener ventaja absoluta en la producción de ambos bienes?
+:::
+
+::: {#exm-3}
+Suponga que $a_{LQ}=2$, $a^{*}_{LQ}=4$, $a_{LV}=1$, y $a^{*}_{LV}=2$,
+¿qué país tiene ventaja absoluta y comparativa en la producción de cada bien?
+:::

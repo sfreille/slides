@@ -1,0 +1,810 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <title>Diseño institucional, congruencia electoral y efectos de arrastre</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="slides_files/reveal.js-3.3.0.1/css/reveal.css"/>
+
+
+
+<link rel="stylesheet" href="slides_files/reveal.js-3.3.0.1/css/theme/simple.css" id="theme">
+
+
+  <!-- some tweaks to reveal css -->
+  <style type="text/css">
+    .reveal h1 { font-size: 2.0em; }
+    .reveal h2 { font-size: 1.5em;  }
+    .reveal h3 { font-size: 1.25em;	}
+    .reveal h4 { font-size: 1em;	}
+
+    .reveal .slides>section,
+    .reveal .slides>section>section {
+      padding: 0px 0px;
+    }
+
+
+
+    .reveal table {
+      border-width: 1px;
+      border-spacing: 2px;
+      border-style: dotted;
+      border-color: gray;
+      border-collapse: collapse;
+      font-size: 0.7em;
+    }
+
+    .reveal table th {
+      border-width: 1px;
+      padding-left: 10px;
+      padding-right: 25px;
+      font-weight: bold;
+      border-style: dotted;
+      border-color: gray;
+    }
+
+    .reveal table td {
+      border-width: 1px;
+      padding-left: 10px;
+      padding-right: 25px;
+      border-style: dotted;
+      border-color: gray;
+    }
+
+
+  </style>
+
+    <style type="text/css">code{white-space: pre;}</style>
+
+    <link rel="stylesheet" href="..\style.css"/>
+
+<!-- Printing and PDF exports -->
+<script id="paper-css" type="application/dynamic-css">
+
+/* Default Print Stylesheet Template
+   by Rob Glazebrook of CSSnewbie.com
+   Last Updated: June 4, 2008
+
+   Feel free (nay, compelled) to edit, append, and
+   manipulate this file as you see fit. */
+
+
+@media print {
+
+	/* SECTION 1: Set default width, margin, float, and
+	   background. This prevents elements from extending
+	   beyond the edge of the printed page, and prevents
+	   unnecessary background images from printing */
+	html {
+		background: #fff;
+		width: auto;
+		height: auto;
+		overflow: visible;
+	}
+	body {
+		background: #fff;
+		font-size: 20pt;
+		width: auto;
+		height: auto;
+		border: 0;
+		margin: 0 5%;
+		padding: 0;
+		overflow: visible;
+		float: none !important;
+	}
+
+	/* SECTION 2: Remove any elements not needed in print.
+	   This would include navigation, ads, sidebars, etc. */
+	.nestedarrow,
+	.controls,
+	.fork-reveal,
+	.share-reveal,
+	.state-background,
+	.reveal .progress,
+	.reveal .backgrounds {
+		display: none !important;
+	}
+
+	/* SECTION 3: Set body font face, size, and color.
+	   Consider using a serif font for readability. */
+	body, p, td, li, div {
+		font-size: 20pt!important;
+		font-family: Georgia, "Times New Roman", Times, serif !important;
+		color: #000;
+	}
+
+	/* SECTION 4: Set heading font face, sizes, and color.
+	   Differentiate your headings from your body text.
+	   Perhaps use a large sans-serif for distinction. */
+	h1,h2,h3,h4,h5,h6 {
+		color: #000!important;
+		height: auto;
+		line-height: normal;
+		font-family: Georgia, "Times New Roman", Times, serif !important;
+		text-shadow: 0 0 0 #000 !important;
+		text-align: left;
+		letter-spacing: normal;
+	}
+	/* Need to reduce the size of the fonts for printing */
+	h1 { font-size: 28pt !important;  }
+	h2 { font-size: 24pt !important; }
+	h3 { font-size: 22pt !important; }
+	h4 { font-size: 22pt !important; font-variant: small-caps; }
+	h5 { font-size: 21pt !important; }
+	h6 { font-size: 20pt !important; font-style: italic; }
+
+	/* SECTION 5: Make hyperlinks more usable.
+	   Ensure links are underlined, and consider appending
+	   the URL to the end of the link for usability. */
+	a:link,
+	a:visited {
+		color: #000 !important;
+		font-weight: bold;
+		text-decoration: underline;
+	}
+	/*
+	.reveal a:link:after,
+	.reveal a:visited:after {
+		content: " (" attr(href) ") ";
+		color: #222 !important;
+		font-size: 90%;
+	}
+	*/
+
+
+	/* SECTION 6: more reveal.js specific additions by @skypanther */
+	ul, ol, div, p {
+		visibility: visible;
+		position: static;
+		width: auto;
+		height: auto;
+		display: block;
+		overflow: visible;
+		margin: 0;
+		text-align: left !important;
+	}
+	.reveal pre,
+	.reveal table {
+		margin-left: 0;
+		margin-right: 0;
+	}
+	.reveal pre code {
+		padding: 20px;
+		border: 1px solid #ddd;
+	}
+	.reveal blockquote {
+		margin: 20px 0;
+	}
+	.reveal .slides {
+		position: static !important;
+		width: auto !important;
+		height: auto !important;
+
+		left: 0 !important;
+		top: 0 !important;
+		margin-left: 0 !important;
+		margin-top: 0 !important;
+		padding: 0 !important;
+		zoom: 1 !important;
+
+		overflow: visible !important;
+		display: block !important;
+
+		text-align: left !important;
+		-webkit-perspective: none;
+		   -moz-perspective: none;
+		    -ms-perspective: none;
+		        perspective: none;
+
+		-webkit-perspective-origin: 50% 50%;
+		   -moz-perspective-origin: 50% 50%;
+		    -ms-perspective-origin: 50% 50%;
+		        perspective-origin: 50% 50%;
+	}
+	.reveal .slides section {
+		visibility: visible !important;
+		position: static !important;
+		width: auto !important;
+		height: auto !important;
+		display: block !important;
+		overflow: visible !important;
+
+		left: 0 !important;
+		top: 0 !important;
+		margin-left: 0 !important;
+		margin-top: 0 !important;
+		padding: 60px 20px !important;
+		z-index: auto !important;
+
+		opacity: 1 !important;
+
+		page-break-after: always !important;
+
+		-webkit-transform-style: flat !important;
+		   -moz-transform-style: flat !important;
+		    -ms-transform-style: flat !important;
+		        transform-style: flat !important;
+
+		-webkit-transform: none !important;
+		   -moz-transform: none !important;
+		    -ms-transform: none !important;
+		        transform: none !important;
+
+		-webkit-transition: none !important;
+		   -moz-transition: none !important;
+		    -ms-transition: none !important;
+		        transition: none !important;
+	}
+	.reveal .slides section.stack {
+		padding: 0 !important;
+	}
+	.reveal section:last-of-type {
+		page-break-after: avoid !important;
+	}
+	.reveal section .fragment {
+		opacity: 1 !important;
+		visibility: visible !important;
+
+		-webkit-transform: none !important;
+		   -moz-transform: none !important;
+		    -ms-transform: none !important;
+		        transform: none !important;
+	}
+	.reveal section img {
+		display: block;
+		margin: 15px 0px;
+		background: rgba(255,255,255,1);
+		border: 1px solid #666;
+		box-shadow: none;
+	}
+
+	.reveal section small {
+		font-size: 0.8em;
+	}
+
+}  
+</script>
+
+
+<script id="pdf-css" type="application/dynamic-css">
+    
+/**
+ * This stylesheet is used to print reveal.js
+ * presentations to PDF.
+ *
+ * https://github.com/hakimel/reveal.js#pdf-export
+ */
+
+* {
+	-webkit-print-color-adjust: exact;
+}
+
+body {
+	margin: 0 auto !important;
+	border: 0;
+	padding: 0;
+	float: none !important;
+	overflow: visible;
+}
+
+html {
+	width: 100%;
+	height: 100%;
+	overflow: visible;
+}
+
+/* Remove any elements not needed in print. */
+.nestedarrow,
+.reveal .controls,
+.reveal .progress,
+.reveal .playback,
+.reveal.overview,
+.fork-reveal,
+.share-reveal,
+.state-background {
+	display: none !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	text-shadow: 0 0 0 #000 !important;
+}
+
+.reveal pre code {
+	overflow: hidden !important;
+	font-family: Courier, 'Courier New', monospace !important;
+}
+
+ul, ol, div, p {
+	visibility: visible;
+	position: static;
+	width: auto;
+	height: auto;
+	display: block;
+	overflow: visible;
+	margin: auto;
+}
+.reveal {
+	width: auto !important;
+	height: auto !important;
+	overflow: hidden !important;
+}
+.reveal .slides {
+	position: static;
+	width: 100%;
+	height: auto;
+
+	left: auto;
+	top: auto;
+	margin: 0 !important;
+	padding: 0 !important;
+
+	overflow: visible;
+	display: block;
+
+	-webkit-perspective: none;
+	   -moz-perspective: none;
+	    -ms-perspective: none;
+	        perspective: none;
+
+	-webkit-perspective-origin: 50% 50%; /* there isn't a none/auto value but 50-50 is the default */
+	   -moz-perspective-origin: 50% 50%;
+	    -ms-perspective-origin: 50% 50%;
+	        perspective-origin: 50% 50%;
+}
+
+.reveal .slides section {
+	page-break-after: always !important;
+
+	visibility: visible !important;
+	position: relative !important;
+	display: block !important;
+	position: relative !important;
+
+	margin: 0 !important;
+	padding: 0 !important;
+	box-sizing: border-box !important;
+	min-height: 1px;
+
+	opacity: 1 !important;
+
+	-webkit-transform-style: flat !important;
+	   -moz-transform-style: flat !important;
+	    -ms-transform-style: flat !important;
+	        transform-style: flat !important;
+
+	-webkit-transform: none !important;
+	   -moz-transform: none !important;
+	    -ms-transform: none !important;
+	        transform: none !important;
+}
+
+.reveal section.stack {
+	margin: 0 !important;
+	padding: 0 !important;
+	page-break-after: avoid !important;
+	height: auto !important;
+	min-height: auto !important;
+}
+
+.reveal img {
+	box-shadow: none;
+}
+
+.reveal .roll {
+	overflow: visible;
+	line-height: 1em;
+}
+
+/* Slide backgrounds are placed inside of their slide when exporting to PDF */
+.reveal section .slide-background {
+	display: block !important;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: -1;
+}
+
+/* All elements should be above the slide-background */
+.reveal section>* {
+	position: relative;
+	z-index: 1;
+}
+
+/* Display slide speaker notes when 'showNotes' is enabled */
+.reveal .speaker-notes-pdf {
+	display: block;
+	width: 100%;
+	max-height: none;
+	left: auto;
+	top: auto;
+	z-index: 100;
+}
+
+/* Display slide numbers when 'slideNumber' is enabled */
+.reveal .slide-number-pdf {
+	display: block;
+	position: absolute;
+	font-size: 14px;
+}
+
+</script>
+
+
+<script>
+var style = document.createElement( 'style' );
+style.type = 'text/css';
+var style_script_id = window.location.search.match( /print-pdf/gi ) ? 'pdf-css' : 'paper-css';
+var style_script = document.getElementById(style_script_id).text;
+style.innerHTML = style_script;
+document.getElementsByTagName('head')[0].appendChild(style);
+</script>
+
+    <script src="slides_files/header-attrs-2.13/header-attrs.js"></script>
+    <link href="slides_files/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+    <link href="slides_files/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+<section>
+    <h1 class="title">Diseño institucional, congruencia electoral y efectos de arrastre</h1>
+  <h1 class="subtitle">El caso de Argentina en 2003-2019</h1>
+    <h2 class="author"><div class="line-block"><strong>Sebastián Freille</strong><br />
+<a href="mailto:sfreille@unc.edu.ar" class="email">sfreille@unc.edu.ar</a><br />
+Instituto de Economía y Finanzas<br />
+FCE-UNC</div></h2>
+</section>
+
+<section>
+<section id="motivación-y-literatura" class="title-slide slide level1">
+<h1>Motivación y literatura</h1>
+<p><img data-src="output/figs/news1.png" id="fig:01001" style="width:50.0%" alt="Lealtades que van y vienen" /></p>
+<p><img data-src="output/figs/news2.png" id="fig:01002" style="width:50.0%" alt="La Liga de gobernadores" /></p>
+</section>
+<section id="visualizando-el-problema" class="slide level2">
+<h2>Visualizando el problema</h2>
+<p><img data-src="output/figs/map.jpg" id="fig:01000" style="width:100.0%" alt="Poder electoral relativo, por departamento" /></p>
+</section>
+<section id="evidencia-anecdótica" class="slide level2">
+<h2>Evidencia anecdótica</h2>
+<ul>
+<li>Lógica redistributiva en función de lógicas partidarias y fortaleza presidencial [González y del Trédici (2019)]
+<ul>
+<li>Presidentes fuertes favorecieron a distritos aliados (interior) y penalizaron a opositores (centrales) -“redistribución progresiva”</li>
+<li>Presidentes débiles favorecieron a aliados (centro) y penalizaron a opositores (interior)</li>
+</ul></li>
+<li>Distintas estrategias de presidentes
+<ul>
+<li>“Salteo” a gobernadores, foco en gobierno local</li>
+<li>Cooperación con gobernadores “fuertes” opositores para expandir coalicion nacional</li>
+</ul></li>
+</ul>
+</section>
+<section id="tradiciones" class="slide level2">
+<h2>Tradiciones</h2>
+<ul>
+<li>Federalismo electoral <span class="math inline">\(\longrightarrow\)</span> nacionalización versus desnacionalización partidaria
+<ul>
+<li>Desnacionalización (territorialización) partidaria <span class="math inline">\(\longrightarrow\)</span> dos efectos: 1) sobre número de partidos, competencia electoral; 2) desproporción de votos en diferentes distritos para un mismo partido [Calvo y Escolar (2005), Leiras (2007), Gibson and Suarez-Cao (2010)]</li>
+</ul></li>
+<li>Efectos arrastre y concurrencia de elecciones
+<ul>
+<li>Relacion entre poder electoral <em>relativo</em> entre niveles variable clave que influye en estrategias [Thorlakson (2006), Chhibber and Kollman (2004)]</li>
+</ul></li>
+</ul>
+</section>
+<section id="tendencias" class="slide level2">
+<h2>Tendencias</h2>
+<p><img data-src="output/figs/historic.jpg" id="fig:01003" style="width:80.0%" alt="Evolución del bipartidismo en votos y bancas" /></p>
+</section>
+<section id="las-leyes-de-duverger" class="slide level2">
+<h2>Las “leyes” de Duverger</h2>
+<blockquote>
+<p><strong>Ley 1.</strong> Los sistemas de votación por mayoría en una elección conducen a un sistema bipartidista</p>
+</blockquote>
+<blockquote>
+<p><strong>Ley 2.</strong> Los sistemas de votación por representación proporcional conducen a un sistema multipartidista.</p>
+</blockquote>
+<blockquote>
+<p><strong>Ley 3.</strong> Los sistemas de votación por mayoría en 2 vueltas llevan a un sistema multipartido con tendencia a formar coaliciones</p>
+</blockquote>
+</section>
+<section id="configuraciones-y-dinámicas" class="slide level2">
+<h2>Configuraciones y dinámicas</h2>
+<ul>
+<li>Si estas “leyes” tienen algun sustento empírico, uno debería esperar observar que en Argentina haya una configuración tal que:
+<ul>
+<li>En elecciones ejecutivas nacionales, un sistema multipartido con tendencia a formar coaliciones de gobierno</li>
+<li>En elecciones legislativas nacionales, un sistema multipartido</li>
+<li>En elecciones ejecutivas sub-nacionales, un sistema compuesto por un mix entre sistemas bipartidistas y multi-partidistas con coaliciones</li>
+</ul></li>
+</ul>
+</section>
+<section id="conflicto-y-cooperación" class="slide level2">
+<h2>Conflicto y cooperación</h2>
+<ul>
+<li>Fragmentación partidaria alta entra en conflicto con un sistema presidencialista puro (<em>hiper-presidencialismo</em>) –inexistencia de mecanismos institucionales para la formación de coaliciones</li>
+<li>Accoplado con heterogeneidad en el diseño electoral sub-nacional, es posible surjan situaicones de <em>ejecutivo nacional con bajo apoyo electoral</em> con un <em>legislativo nacional fragmentado y opositor</em> y <em>gobernadores fuertesl</em>.
+<ul>
+<li>Contexto propicio para “juego” de ejecutivos nacionales y provinciales con posibles equilibrios de ganar-ganar [Gibson and Calvo (2000), Jones, Meloni and Tommasi (2012), Bonvecchi and Lodola (2009)]</li>
+</ul></li>
+</ul>
+</section></section>
+<section>
+<section id="diseño-institucional" class="title-slide slide level1">
+<h1>Diseño institucional</h1>
+
+</section>
+<section id="diseño-institucional-complejo" class="slide level2">
+<h2>Diseño institucional: Complejo!</h2>
+<ul>
+<li>Ejecutivo (nacional) <span class="math inline">\(\longrightarrow\)</span> elección directa en distrito único nacional con sistema de dos vueltas condicional</li>
+<li>Ejecutivo (provincial) <span class="math inline">\(\longrightarrow\)</span> elección directa en distrito único provincial y varias formas (pluralidad, <em>ballotage</em> clásico y atenuado)</li>
+<li>Legislativo (nacional)
+<ul>
+<li>Diputados <span class="math inline">\(\longrightarrow\)</span> PR en distrito único provincial plurinominales con tamaño de distrito variable, sistema D’Hont con umbral de 3% en cada provincia</li>
+<li>Senadores <span class="math inline">\(\longrightarrow\)</span> representación proporcional con lista incompleta en distrito único trinominal con 2 senadores para ganador y 1 uno para el segundo</li>
+</ul></li>
+</ul>
+</section>
+<section id="diseño-institucional-agregación" class="slide level2">
+<h2>Diseño institucional: Agregación</h2>
+<ul>
+<li><strong>Regla de agregación:</strong>
+<ol type="1">
+<li><strong>Pluralidad sin ballotage</strong> <span class="math inline">\(\longrightarrow\)</span> 17 provincias –Misiones, Formosa, Salta, Jujuy, Catamarca, Santiago del Estero, La Rioja, San Juan, Mendoza, San Luis, La Pampa, Córdoba, Tucumán, Entre Ríos, Buenos Aires, Chubut y Santa Cruz</li>
+<li><strong>Pluralidad simple sin ballotage, con intervención de PL en caso de empate</strong> <span class="math inline">\(\longrightarrow\)</span> 3 provincias –Río Negro, Neuquén y Santa Fe</li>
+<li><strong>Ballotage condicional</strong> <span class="math inline">\(\longrightarrow\)</span> Chaco y Corrientes</li>
+<li><strong>Mayoría absoluta</strong> <span class="math inline">\(\longrightarrow\)</span> Tierra del Fuego</li>
+</ol></li>
+</ul>
+</section>
+<section id="diseño-institucional-mandatos" class="slide level2">
+<h2>Diseño institucional: Mandatos</h2>
+<ul>
+<li><strong>Duración de mandato:</strong>
+<ol type="1">
+<li><strong>4 años y sin reelección</strong> <span class="math inline">\(\longrightarrow\)</span> 2 provincias –Santa Fe y Mendoza.</li>
+<li><strong>4 años y 1 (una) reelección inmediata</strong> <span class="math inline">\(\longrightarrow\)</span> 14 provincias –Misiones, Jujuy, Santiago del Estero, Chaco, Corrientes, Entre Ríos, Córdoba, Buenos Aires, San Luis, La Pampa, Neuquén, Río Negro, Chubut, y Tierra del Fuego.</li>
+<li><strong>4 años con 2 (dos) reelecciones inmediatas</strong> <span class="math inline">\(\longrightarrow\)</span> 3 provincias –Salta, San Juan y La Rioja</li>
+<li><strong>4 años con reelección indefinida</strong> <span class="math inline">\(\longrightarrow\)</span> 3 provincias – Catamarca, Formosa y Santa Cruz</li>
+</ol></li>
+</ul>
+</section>
+<section id="diseño-institucional-simultaneidad" class="slide level2">
+<h2>Diseño institucional: Simultaneidad</h2>
+<ul>
+<li><strong>Concurrencia de elecciones de diferente nivel:</strong>
+<ul>
+<li>Prohibe simultaneidad <span class="math inline">\(\longrightarrow\)</span> sólo 4 provincias prohiben explícitamente simultaneidad con otras elecciones –Santa Fe, Tierra del Fuego, Chaco y Corrientes</li>
+<li>Permite simultaneidad <span class="math inline">\(\longrightarrow\)</span> el resto
+<ul>
+<li>Importante <span class="math inline">\(\longrightarrow\)</span> fecha de elección provincial manipulable</li>
+</ul></li>
+</ul></li>
+</ul>
+</section></section>
+<section>
+<section id="caracterización-y-descripción-de-los-datos" class="title-slide slide level1">
+<h1>Caracterización y descripción de los datos</h1>
+
+</section>
+<section id="reelección-de-gobernadores-partidos-y-nombres" class="slide level2">
+<h2>Reelección de gobernadores: partidos y nombres</h2>
+<ul>
+<li>Alta tasa de reelección de ejecutivos provinciales (partido)</li>
+</ul>
+<table>
+<thead>
+<tr class="header">
+<th>reelec_P</th>
+<th>2003</th>
+<th>2007</th>
+<th>2011</th>
+<th>2015</th>
+<th>2019</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>No</td>
+<td>6</td>
+<td>8</td>
+<td>6</td>
+<td>7</td>
+<td>4</td>
+</tr>
+<tr class="even">
+<td>Yes</td>
+<td>17</td>
+<td>15</td>
+<td>17</td>
+<td>16</td>
+<td>19</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>Pero mayor rotación de gobernadores (nombres)</li>
+</ul>
+<table>
+<thead>
+<tr class="header">
+<th>reelec_N</th>
+<th>2003</th>
+<th>2007</th>
+<th>2011</th>
+<th>2015</th>
+<th>2019</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>No</td>
+<td>16</td>
+<td>16</td>
+<td>9</td>
+<td>20</td>
+<td>12</td>
+</tr>
+<tr class="even">
+<td>Yes</td>
+<td>7</td>
+<td>7</td>
+<td>14</td>
+<td>3</td>
+<td>11</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="competencia-electoral-efectiva-encp" class="slide level2">
+<h2>Competencia electoral <em>efectiva</em>: ENCP</h2>
+<ul>
+<li>Medida muy usada de competencia electoral <span class="math inline">\(\longrightarrow\)</span> <strong>numero efectivo de partidos (NEP/ENCP)</strong> [Laakso and Taagepera (1979)] <span class="math display">\[\begin{align}
+NEP=\frac{1}{\sum_{i=1}^{n} sh_{i}^2}
+\end{align}\]</span></li>
+<li>donde <span class="math inline">\(sh_i\)</span> es el porcentaje de votos del partido <span class="math inline">\(i\)</span> –i.e en un sistemabipartidista perfecto, <span class="math inline">\(ENP=\frac{1}{0.5^{2}+0.5^{2}}=\frac{1}{0.25}=2\)</span></li>
+</ul>
+</section>
+<section id="competencia-electoral-efectiva" class="slide level2">
+<h2>Competencia electoral <em>efectiva</em></h2>
+<p><img data-src="output/figs/encp.jpg" id="fig:01004" style="width:95.0%" alt="Reelecciones y escala de poder de gobernadores" /></p>
+</section>
+<section id="gobernadores-reelecciones" class="slide level2">
+<h2>Gobernadores: Reelecciones</h2>
+<p><img data-src="output/figs/gpp.jpg" id="fig:01005" style="width:95.0%" alt="Effective electoral competition" /></p>
+</section>
+<section id="crouching-tiger-hidden-dragon" class="slide level2">
+<h2><em>Crouching tiger, hidden dragon</em></h2>
+<p><img data-src="output/figs/narrowing.jpg" id="fig:01006" style="width:80.0%" alt="Limitación de oferta partidaria sub-nacional" /></p>
+</section>
+<section id="desnacionalización" class="slide level2">
+<h2>¿Desnacionalización?</h2>
+<p><img data-src="output/figs/convergence.jpg" id="fig:01007" style="width:95.0%" alt="¿Nacionalización o desnacionalización?" /></p>
+</section>
+<section id="poderío-electoral-relativo" class="slide level2">
+<h2>Poderío electoral relativo</h2>
+<p><img data-src="output/figs/relative.jpg" id="fig:01008" style="width:90.0%" alt="Electoral strength: Presidents and governors" /></p>
+</section></section>
+<section>
+<section id="estimación-y-relaciones-empíricas" class="title-slide slide level1">
+<h1>Estimación y relaciones empíricas</h1>
+
+</section>
+<section id="consideraciones-metodológicas" class="slide level2">
+<h2>Consideraciones metodológicas</h2>
+<ul>
+<li>Se comparan <strong>resultados electorales a nivel de departamento</strong> para diferentes cargos ejecutivos -Presidente y gobernador para el período 2003-2019</li>
+<li>Instituciones políticas <span class="math inline">\(\longrightarrow\)</span> claves para analizar comportamiento estratégico y resultados electorales</li>
+<li>En todos los casos, los porcentajes de votos involucrados son aquellos a correspondientes a <em>ejecutivos ganadores</em> -foco no en competencia electoral</li>
+</ul>
+</section>
+<section id="estimacion" class="slide level2">
+<h2>Estimacion</h2>
+<ul>
+<li>Efecto arrastre muy estudiado entre elecciones a <em>diferentes cargos</em> (ejecutivas y legislativas) de un <em>mismo</em> nivel
+<ul>
+<li>Menos estudiado para elecciones de <em>mismo</em> cargo para <em>diferente nivel</em></li>
+</ul></li>
+<li>Proponemos investigar si existe un efecto arrastre invertido –<em>reverse coattail effect</em>
+<ul>
+<li>¿Fortaleza electoral de gobernadores arrastra Presidentes?</li>
+</ul></li>
+<li>Importante <span class="math inline">\(\longrightarrow\)</span> en nuestra estimación el partido es irrelevante –pero importa la pertenencia a la coalición nacional</li>
+</ul>
+</section>
+<section id="estimación-cont." class="slide level2">
+<h2>Estimación (cont.)</h2>
+<p><img data-src="output/figs/reg01.png" id="fig:01009" style="width:110.0%" alt="Presidential vote share: Pooled OLS" /></p>
+</section>
+<section id="estimación-cont.-1" class="slide level2">
+<h2>Estimación (cont.)</h2>
+<p><img data-src="output/figs/reg02.png" id="fig:01010" style="width:110.0%" alt="Presidential vote share: Fixed-effects (within)" /></p>
+</section>
+<section id="implicancias-y-limitaciones" class="slide level2">
+<h2>Implicancias y limitaciones</h2>
+<ul>
+<li>Simple ejercicio de aproximación a la relación entre caudal electoral de presidentes y gobernadores electos
+<ul>
+<li>Intuición <span class="math inline">\(\longrightarrow\)</span> presidentes débiles se apoyan en distritos electoralmente fuerte para expandir fortaleza electoral</li>
+</ul></li>
+<li>Aparente efecto arrastre invertido desde gobernadores a presidentes
+<ul>
+<li>Sobre todo importante en distritos que forman parte de la coalición nacional del presidente ante cada nueva elección</li>
+</ul></li>
+<li>Limitaciones <span class="math inline">\(\longrightarrow\)</span> solo variables políticas –no variables fiscales/financieras [continuará…]</li>
+</ul>
+</section></section>
+    </div>
+  </div>
+
+  <script src="slides_files/reveal.js-3.3.0.1/lib/js/head.min.js"></script>
+  <script src="slides_files/reveal.js-3.3.0.1/js/reveal.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+        // Push each slide change to the browser history
+        history: true,
+        // Vertical centering of slides
+        center: true,
+        // Transition style
+        transition: 'slide', // none/fade/slide/convex/concave/zoom
+        // Transition style for full page slide backgrounds
+        backgroundTransition: 'default', // none/fade/slide/convex/concave/zoom
+
+        menu: {
+   
+          numbers: true,
+    
+    
+    
+    
+    
+    
+ 
+          custom: false,
+          themes: false,
+          transitions: false
+        },
+
+
+
+        // Optional reveal.js plugins
+        dependencies: [
+          { src: 'slides_files/reveal.js-3.3.0.1/plugin/menu/menu.js', async: true },
+        ]
+      });
+    </script>
+  <!-- dynamically load mathjax for compatibility with self-contained -->
+  <script>
+    (function () {
+      var script = document.createElement("script");
+      script.type = "text/javascript";
+      script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+      document.getElementsByTagName("head")[0].appendChild(script);
+    })();
+  </script>
+
+<script>
+  (function() {
+    if (window.jQuery) {
+      Reveal.addEventListener( 'slidechanged', function(event) {  
+        window.jQuery(event.previousSlide).trigger('hidden');
+        window.jQuery(event.currentSlide).trigger('shown');
+      });
+    }
+  })();
+</script>
+
+
+  </body>
+</html>

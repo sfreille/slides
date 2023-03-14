@@ -1,0 +1,143 @@
+/*********************************************
+ * GLOBAL STYLES
+ *********************************************/
+.reveal {
+  font-family:'Helvetica', 'Arial', 'Sans-Serif';  
+  font-size: 40px;
+}
+
+
+/*********************************************
+ * HEADERS
+ *********************************************/
+.reveal h1.title {
+  color: #6500ad;
+  font-family:'Helvetica', 'Arial', 'Sans-Serif';
+  font-size: 2em;
+  text-transform: none;
+}
+.reveal h2.author {
+  color: #000;
+  font-size: 1em;
+  text-transform: none;
+}
+.reveal h3.date {
+  color: #000;
+  font-size: 1em;
+  text-transform: none;
+}
+.reveal h1,
+.reveal h2 {
+  color: #6500ad;
+  font-family:'Helvetica', 'Arial', 'Sans-Serif';
+  font-size: 1.5em;
+  text-transform: none;
+}
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  color: #6500ad;
+  font-size: 1em;
+  text-transform: none;
+}
+
+.reveal p {
+  margin: 0 0 0 1em;
+  line-height: 100%;
+  margin-bottom: 10px;
+}
+
+.reveal ul {
+  list-style-type: disc;
+  margin: 0 0 0 0.25em;
+  padding: 0.25em;
+  line-height: 100%;
+}
+
+.reveal ol {
+  margin: 0 0 0 0.25em;
+  padding: 0.25em;
+  line-height: 100%; 
+}
+
+.reveal li {
+    margin: 3px;
+    padding: 3px;
+    line-height: 100%;
+}
+
+
+
+/*********************************************
+ * BLOCKS
+ *********************************************/
+
+.reveal blockquote {
+  quotes: none; }
+
+.reveal blockquote {
+  display: block;
+  font-family:'Helvetica', 'Arial', 'Sans-Serif';
+  font: 35px Helvetica, Arial, normal;
+  position: relative;
+  width: 90%;
+  margin: 10px auto;
+  padding: 10px;
+  font-style: bold;
+  border-radius: 15px;
+  background: rgba(101, 0, 173, 0.5);
+  box-shadow: 0px 0px 2px rgba(10, 50, 50, 0.6); }
+
+.reveal blockquote p:first-child,
+.reveal blockquote p:last-child {
+  display: inline-block; }
+
+
+/*********************************************
+ * IMAGES
+ *********************************************/
+.reveal section img {
+  border: none;
+  box-shadow: None; }
+
+img.emoji {
+  margin: 0px !important;
+  height: 1em;
+  font-size: 0.9em;
+  vertical-align: -0.1em;
+}
+
+
+/*********************************************
+ * HEADER & FOOTER
+ *********************************************/
+.reveal .markdownreveal_header,
+.reveal .markdownreveal_footer {
+  font-size: 0.5em;
+  position: absolute !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  left: 0 !important;
+  right: 0 !important;
+  padding: 0.4em;
+  background: gray;
+  color: white;
+  z-index: 5;
+  text-align: center !important; }
+
+.reveal .markdownreveal_footer {
+  bottom: 0em !important; }
+
+.reveal .markdownreveal_header {
+  top: 0em !important; }
+
+.reveal .markdownreveal_header a,
+.reveal .markdownreveal_footer a {
+  color: white; }
+
+.reveal .logo {
+  position: absolute;
+  top: 0.5em;
+  right: 0.5em;
+  width: 4em; }

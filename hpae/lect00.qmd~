@@ -1,0 +1,142 @@
+---
+title: Historia del Pensamiento y del Análisis Económico
+subtitle: Presentación de la materia
+author: |
+  | **Sebastián Freille**
+  | sfreille@unc.edu.ar
+  | Licenciatura en Economía
+  | FCE-UNC
+output:
+  revealjs::revealjs_presentation:
+    center: true
+    highlight: pygments
+    transition: slide
+    reveal_options:
+  fig_width=2
+    css: ..\style.css
+header-includes:
+  - \usepackage{amsmath}
+  - \usepackage{tcolorbox}
+  - \newtcolorbox{myquote}{colback=cyan!35!white, colframe=cyan!85!black}
+  - \renewenvironment{quote}{\begin{myquote}}{\end{myquote}}
+  - \usepackage{beamerarticle}
+  - \setbeamertemplate{navigation symbols}{}
+  - \author[Freille]{Sebastián Freille}
+---
+
+# **Historia del pensamiento y del análisis económico**
+
+- Fundamentación y objetivos
+- Clases, materiales y dictado
+- Metodología de evaluación y aprobación
+- Programa abreviado
+
+
+
+---
+
+# **Fundamentación y objetivos**
+
+## Fundamentación
+
+> Este curso presenta una aproximación cronológica y sistemática al estudio de las principales teorías y doctrinas económicas. Los alumnos tendrán la posibilidad de vincular conceptos económicos familiares con diferentes etapas en la evolución de las ideas económicas a partir de la contribución de los grandes pensadores y podrán asimismo tener una visión más completa del proceso de desarrollo de la ciencia económica
+
+## Objetivos
+
+> El objetivo de la materia es introducir y exponer a los estudiantes a las principales corrientes del pensamiento económico desde la antigüedad hasta nuestros tiempos a través de una exposición rigurosa y analítica de las principales teorías y doctrinas económicas y promover la reflexión sobre la evolución de la disciplina al 
+
+
+# **Clases, materiales y dictado**
+
+## Equipo docente
+
+- **Sebastián Freille**
+  - Email: sfreille@unc.edu.ar
+  - Box 106 (IEF)
+  - Horario de consulta: miércoles 19 a 20
+
+- **Melisa Luc**
+  - Email: melisa.luc@unc.edu.ar
+  - Horario de consulta: a definir
+  
+- **Franco Godino**
+  - Email:
+  - Horario de consulta: a definir
+
+## Clases
+
+- Los **días y horarios de las clases** semanales serán:
+  - Lunes, 18:00 a 20:00 [Freille]
+  - Miércoles, 20:00 a 22:00 [Freille]
+  - Jueves, 18:00 a 20:00 [Luc]
+- Link para videotransmisión clases teóricas: https://meet.google.com/cfz-yaky-ugu
+- Link para videotransmisión clases aplicadas:
+
+## Bibliografía
+
+- El programa de la materia contiene las unidades temáticas, contenidos y bibliografía
+- Si bien no hay un libro de texto único que usamos durante el dictado, seguiremos 2 (dos) textos con bastante regularidad:
+  - Landreth, H. y Colander, D. (2006). *Historia del pensamiento económico*, McGraw-Hill:Madrid, Cuarta edición
+  - Ekelund, R. B., Hébert, R. F. (2005). *Historia de la teoría económica y de su método*, Tercera Edición. Barcelona: McGraw-Hill.
+- Adicionalmente, se usarán otros textos generales, textos de autores originales y artículos académicos
+
+## Recursos y materiales
+
+- El aula virtual de la materia está disponible en: a confirmar
+- Adicionalmente podrán encontrar recursos de la materia en: https://sfreille.github.io/teaching/hpea
+- Eventualmente se comunicarán recursos y material adicional
+- Se pondrá a disposición copias digitalizadas de los principales materiales.
+- Los foros de unidades en aula virtual serán exclusivamente para consultas de contenidos de la materia. Las consultas se responderán con periodicidad semanal
+
+
+## Dictado: modalidad híbrida
+
+- La modalidad de dictado de la materia será conforme al **modelo de educación híbrida**. Durante el dictado habrá 3 (tres) tipos de actividades:
+  1. Presencial en el aula física
+  2. Virtual sincrónico por videoconferencia
+  3. Virtual asincrónico en aula virtual
+- Todas las clases serán dictadas en modalidad híbrida **pudiendo los estudiantes elegir la forma de cursado**. Las clases no serán grabadas.
+- Nos gustaría poder "vernos" --**agradeceríamos que encendieran las cámaras** sobre todo cuando haya intervenciones
+
+## Dictado: asistencia y tipología
+
+- No hay requisito de asistencia
+- Las clases de lunes y miercóles serán en formato de exposición por parte del profesor. Se promueve la participación de estudiantes a partir de disparadores.
+- Las clases de jueves serán más participativas con mayor flexibilidad en cuanto al tipo de exposición del profesor
+- Las clases durarán 100 minutos. Los profesores podrán decidir otorgar un breve recreo de un máximo de 15 minutos durante la clase.
+
+
+# **Metodología de evaluación y aprobación**
+
+## Evaluacion y aprobación
+
+- La materia se **regulariza aprobando 2 (dos) parciales**. Se puede recuperar un sólo parcial, por aplazo o ausencia. Los parciales serán **presenciales físicos**.
+- La materia **se aprueba (1) rindiendo y aprobando un examen en condición de regular; o (2) rindiendo y aprobando dos exámenes, uno en condición de libre y otro en condición de regular**.
+- En todos los casos **se aprueba con 50 puntos sobre 100**, sin excepciones
+- **No hay promoción** directa ni indirecta
+
+## Fechas importantes
+
+- Parcial 1: 24-ABR
+- Parcial 2: 05-JUN
+- Parcial 3: 14-JUN
+
+# **Programa abreviado**
+
+## Programa abreviado
+
+- U1: Pensamiento y análisis económico: historia, métodos y el desarrollo de la economía
+- U2: Desde los inicios hasta fines de la edad Media.
+- U3: La economía pre-clásica: auge del comercio, el Estado nación y la transición a las ideas liberales.
+- U4: La economía política: El pensamiento clásico   --Smith, Ricardo, J.S. Mill.
+- U5: La economía política: El pensamiento clásico II –Reacciones y críticas.
+
+---
+## Programa abreviado (cont.)
+
+- U6: La escuela neoclásica: la revolución marginalista.
+- U7: Las reacciones  en el siglo XX: críticas al método y a los supuestos.
+- U8: El nacimiento de la macroeconomía: Keynes y la teoría general.
+- U9: La renovación teórica desde el período interguerras
+- U10: ¿Nada nuevo bajo el sol? Nueva economía institucional, la nueva economía política y la revolución de la credibilidad.
+

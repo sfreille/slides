@@ -1,0 +1,133 @@
+---
+title: Economía Política
+subtitle: Segundo Examen Parcial
+author: |
+  | Licenciatura en Economía
+  | FCE-UNC
+
+output: pdf_document
+fontsize: 12pt
+geometry: legalpaper,margin=1.1in
+header-includes:
+  - \usepackage{amsmath}
+  - \usepackage{tcolorbox}
+  - \newtcolorbox{myquote}{colback=cyan!35!white, colframe=cyan!85!black}
+  - \renewenvironment{quote}{\begin{myquote}}{\end{myquote}}
+---
+
+### Apellido y Nombre:
+### Legajo: 
+
+---
+
+|  **PR1**  |  **PR2**  |  **PR3**  |  **PR4**  |  **PR5**  | **PR6** | **PR7** | **PR8** | **PR9** | **PR10** |
+|:---------:|:---------:|:---------:|:---------:|:---------:|:-------:|:-------:|:-------:|:-------:|:--------:|
+|           |           |           |           |           |         |         |         |         |          |
+
+# **Multiple Choice [40 puntos]**
+
+1. Segun la dinámica las instituciones endógenas (Acemoglu/Robinson), cual de las siguientes es VERDADERA:
+    a. Las instituciones economicas del periodo "t" afectan el poder político de iure y el poder politico de facto del periodo "t"
+    b. Las instituciones políticas del período "t+1" afectan el poder político de iure y el poder político de facto del período "t"
+    c. La distribución de recursos del periodo "t" afecta las instituciones políticas del período "t"
+    d. El poder político de iure del periodo "t" afecta las instituciones políticas del periodo "t+1" pero no las instituciones economicas del periodo "t"
+    e. El poder político de facto del período "t" afecta las instituciones políticas del periodo "t+1" y las instituciones economicas del periodo "t"
+    f. La distribución de recursos del período "t+1" afectan las instituciones políticas del período "t+1"
+
+2. Indique cuál/es de los siguientes enunciados es FALSO
+    a. La corrupción colusiva es más difícil de erradicar por cuanto implica connivencia y beneficio mutuo entre ambas partes
+    b. La corrupción extorsiva es más fácil de erradicar por cuanto al haber conflicto entre los intereses del oferente y demandante de corrupción, existe un incentivo a denunciar
+    c. La corrupción colusiva implica en promedio un mayor costo TOTAL para el estado por cuanto las coimas suelen fijarse por abajo del precio oficial
+    d. La corrupción extorsiva implica en promedio un mayor costo TOTAL para el agregado de la economía por cuanto las coimas suelen fijarse por encima del precio oficial
+    e. La corrupción colusiva y extorsiva tienen efectos similares sobre el costo para el Estado y los incentivos a su erradicación
+    f. Ninguna de las anteriores es correcta
+
+3. El análisis económico de la corrupción enfatiza principalmente dos aspectos:
+    a. Incentivos; Castigos
+    b. Organizaciones, Valores
+    c. Incentivos; Equidad
+    d. Incentivos; Organizaciones
+    e. Organizaciones; Eficiencia
+    f. Incentivos; Moral
+
+4. Un acuerdo de corrupción puede ser visto como un contrato que tiene 3 (tres) partes:
+    a. Iniciación; Signaling; Ejecución
+    b. Iniciación; Ejecución; Control
+    c. Diseño; Implementación; Evaluación
+    d. Iniciación; Ejecución; Contractual
+    e. Iniciación; Pre-Ejecución; Ejecución
+    f. Iniciación; Ejecución; Post-contractual
+
+5. Cuál de las siguientes ES/SON una clasificación de instituciones de acuerdo al análisis de Acemoglu and Robinson:
+    a. Instituciones de iure e instituciones de facto
+    b. Instituciones inclusivas e instuciones extractivas
+    c. Instituciones formales e instituciones informales
+    d. Instituciones exógenas e instituciones endógenas
+    e. Instituciones coloniales e instituciones pre-coloniales
+    f. Instituciones oficiales e instituciones no oficiales
+
+6. Cuál de las siguiente/s es FALSA:
+    a. El número de muertes en conflictos basados en estados ha disminuido en los últimos 75 años
+    b. El número de conflictos basados en estados de mayor mortalidad ha disminuido en los últimos 75 años
+    c. El número de conflictos basados en estados de menor mortalidad ha aumentado en los últimos 75 años
+    d. El número de muertes en conflictos basados en estados relativo a la población ha subido en los últimos 75 años
+    e. Más de un 50% de países han experimentado al menos 10 años de guerra civil desde 1960
+    f. La proporción de países involucrados en conflictos civiles aumentó en los 1990s y bajó en los 2000s. 
+
+7. En el paper de Olken and Barron (2009) sobre peajes en rutas de Indonesia, cuál/es eran VERDADERAS
+    a. Las coimas pagadas representan, en relación al costo total del viaje, menos que el salario de los conductores
+    b. Mientras más agentes en los puestos de peaje, menores las coimas pagadas
+    c. El monto de la coima solía ser mayor mientras más cerca del final del trayecto se encontraba el peaje
+    d. Los camiones con mayor peso y mayor valor de mecadería tendían a pagar menos coimas
+    e. Los puestos de peaje que tenían agentes con armas tendían a evidenciar mayores coimas
+    f. Ninguna es correcta
+
+8. En términos de intensidad (menor a mayor), la clasificación de conlifctos según el Heidelberg Institute for International Conflict Research (HIIK) es
+    a. Crisis no violenta; Disputa; Crisis violenta; Guerra limitada; Guerra
+    b. Desacuerdo; Disputa; Crisis no violenta; Crisis violenta; Guerra limitada; Guerra
+    c. Disputa; Crisis no violenta; Crisis violenta; Guerra; Guerra total
+    d. Disputa; Crisis no violenta; Crisis violenta; Guerra limitada; Guerra
+    e. Pacto de no agresión; Crisis no violenta; Guerra limitada; Guerra
+    f. Ninguna es correcta
+
+9. ¿Cuál/es del/los siguiente/s NO ES uno de las factores que motivan las guerras según la argumentación de Blattman??
+    a. Problema del compromiso
+    b. Irracionalidad de lider
+    c. Intereses no controlados
+    d. Percepciones erróneas
+    e. Nivel de pobreza
+    f. Incentivos intangibles
+    g. Incertidumbre
+
+10. Cuál/es de los siguientes serían ejemplos del problema de  *hold-up* en economía política
+    a. Un político con posibilidad de reelección persigue a sus rivales políticos durante su mandato actual
+    b. Un político con posibilidad de reelección promete que este será su último período y que no va a modificar la constitución
+    c. Un político sin posibilidad de reelección toma decisions económicas irracionales e ineficientes durante su mandato actual
+    d. Un político con posibilidad de reelección toma decisiones económicas irracionales en su (eventual) mandato futuro
+    e. Un político con posibilidad de reelección promete que luego de este período va a finalmente tomar medidas para reducir el déficit fiscal
+
+    
+# **Verdadero-Falso [25 pts]** - No requiere justificación
+
+1. [   ] En la dinámica del sistema en el análisis institucional, lo único que importa para la determinación de las instituciones políticas y económicas es el poder político “de iure” y no el “de facto” [V/F]. 
+2. [   ] En el paper de Di Tella and Schargrodsky de hospitales públicos porteños, el efecto de los controles (auditorías) fue mas importante que el de los incentivos (aumentos salariales) para reducir la corrupción [V/F]
+3. [   ] El *payoff* de saquear una economía es mayor  que el de extraer recursos democráticamente tanto a corto como largo plazo [V/F]
+4. [   ] Las instituciones políticas determinan la distribución del poder *de facto* [V/F]
+5. [   ] En el trabajo de libertad de prensa y corrupción, las restricciones legales no son significativas y cuantitativamente importantes [V/F]
+6. [   ] Dado que hay una gran cantidad de estudios empíricos y de caso sobre episodios de guerra, esto implica que el estado de conflicto y guerra es prevalente y la norma [V/F]
+7. [   ] La corrupción colusiva es por naturaleza más fácil de erradicar que la colusión extorsiva [V/F]
+8. [   ] En casos de corrupción con robo, el precio bruto cobrado al consumidor es siempre mayor que el que regiría en casos de corrupción sin robo [V/F]
+9. [   ] Aun cuando las instituciones (reglas) cambien, si las condiciones que dan origen a las mismas se mantienen inalteradas, será muy dificil que las instituciones sean autosostenidas [V/F]
+10. [   ] La evidencia sugiere que en las últimas décadas los conflictos entre estados han aumentado mucho más que los conflictos intra-estados [V/F]
+
+# **Ensayos [35 puntos]**
+
+1. Ensayo 1 [10 pts] **Use un/dos diagrama/s** para ilustrar las diferencias entre corrupción colusiva (con robo) y corrupción extorsiva (sin robo). Interprete, compare y de algunos ejemplos de la práctica de ambos tipos. 
+
+2. Ensayo 2 [15 pts] Usando el marco intuitivo-conceptual de Acemoglu and Robinson de **dinámica institucional, elabore un ensayo aplicado a la evolución, desempeño y resultados de uno de los 4 (cuatro) siguientes temas**: 1) sistema de coparticipación Argentino; 2) grado de intervención del Estado en la economía desde 1990s hasta la actualidad; 3) relaciones entre el sector agropecuario (primario) y Estado a lo largo de la historia; 4) relaciones entre el sector industrial (secundario) y Estado a lo largo de la historia. NOTA: En cualquier caso, deberá suponer/simular una situación de la naturaleza inicial
+
+3. Ensayo 3. [10 pts] **Explique, ilustre y ejemplifique por qué el denominado sesgo del sobreviviente** es un problema frecuente cuando se analiza el fenómeno del conflicto y las guerras. ¿Qué otro/s problemas y análisis de política pública están sujetos al mismo problema?
+
+
+
+
