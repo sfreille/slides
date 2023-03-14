@@ -195,18 +195,3 @@ V & si \quad \frac{P_{Q}}{P_{V}} < \frac{a_{LQ}}{a_{LV}}  \\
 > producción de algún bien necesitamos contar con los 4 (cuatro)
 > requerimientos de trabajo
 
-## El modelo ricardiano: comercio (cont.)
-
-::: {#exm-1}
-Suponga que $a_{LQ}=2$, $a^{*}_{LQ}=3$, $a_{LV}=1$, y $a^{*}_{LV}=2$,
-¿qué país tiene ventaja absoluta y comparativa en la producción de cada bien?
-:::
-
-::: {#exm-2}
-¿Puede un país tener ventaja absoluta en la producción de ambos bienes?
-:::
-
-::: {#exm-3}
-Suponga que $a_{LQ}=2$, $a^{*}_{LQ}=4$, $a_{LV}=1$, y $a^{*}_{LV}=2$,
-¿qué país tiene ventaja absoluta y comparativa en la producción de cada bien?
-:::
