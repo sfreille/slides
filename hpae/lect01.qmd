@@ -136,8 +136,6 @@ format:
   - Si la caja que hoy vemos es demasiado pequeña y angosta,
     retroceder ayuda a recuperar vistas perdidas
 
-
-
 # Sobre el carácter y naturaleza de la disciplina --economía {background="#43464B"}
 
 ## Sobre método y naturaleza
@@ -307,3 +305,137 @@ format:
 
 ## El modelo hipotético-deductivo (cont.)
 
+# Problemas metodológicos centrales {background="#43464B"}
+
+## Problemas metodólogicos centrales
+
+1. Economía positiva versus normativa
+2. Razones versus causas
+3. Naturalismo científico-social
+4. Abstracción, idealización y las cláusulas *ceteris paribus*
+5. Causalidad en economía y econometría
+6. Estructura y estrategia en economía: paradigmas y programas de
+   investigación
+   
+## Economía positiva vs normativa
+
+- Contraste entre una *ciencia positiva* que estudia "los hechos" y
+  una *indagación normativa* acerca de los valores y de lo que
+  "debería ser". 
+- Gran mayoría de economistas creen que existe una línea clara entre
+  hechos y valores, entre lo que es y lo que debería ser
+- Varios problemas y cuestionamientos a esto
+
+## Economía positiva vs normativa (cont.)
+
+- Economistas deben interpretar y articular las incompletas
+    especificaciones de objetivos y restricciones provistas por el
+    *policy-maker*
+- La ciencia económica concierne la *actividad humana* y
+    como toda actividad humana está enmarcada en valores [diferentes
+    valores en economistas vs policy-makers
+- Gran parte de la economía construida alrededor de una
+    *teoría normativa de racionalidad*
+- Las opiniones individuales sobre lo que está "bien" o "mal" están
+  influenciados por sus creencias acerca de cómo se comportan los
+  individuos
+- Los opiniones y juicios individuales están influidos por el propio
+  interés --posible sesgos metodológicos
+  
+## Razones versus causas
+
+- Frecuentemente los economistas construyen teorías que ofrecen: 1)
+  **explicaciones causales** acerca de porqué los individuos eligen
+  como eligen; 2) relatos sobre las **razones** detrás de sus
+  elecciones
+- Las **explicaciones en términos de razones** tienen ciertas
+  diferencias con las **explicaciones en términos de causas**. 
+  - Las razones pretender *justificar las acciones* que explican sin
+    pretensión de *explicarlas*
+- Davidson [1963] dice que "lo que distingue las razones que
+  explican una acción de las razones que fallan en explicarla es que
+  las primeras son también causas de la acción"
+
+## Razones versus causas (cont.)
+
+- Otro problema: las creencias y preferencias que explican las
+  acciones suelen depender de *errores e ignorancia*
+  - la abstracción ayuda a simplificar --información perfecta
+- De esta manera, los economistas no se preocupan por como son las
+  creencias y preferencias 
+  - surgen problemas cuando agregamos realismo
+    - las elecciones pasan a depender de lo que la gente cree
+      ("beliefs")
+- Ejemplo --bolsa de valores, precios de viviendas durante burbuja
+  inmobiliaria
+  
+## Naturalismo científico-social
+
+- La economía es la que más se asemeja a
+  las ciencias naturales
+- Tres cuestiones centrales para reflexionar
+  1. ¿Hay diferencias fundamentales entre la estructura o conceptos de
+     teorías y explicaciones entre la economía y las ciencias
+     naturales
+  2. ¿Hay diferencias fundamentales en los objetivos de ambos tipos de
+     disciplinas? Ciencias naturales foco en objetivos explicativos y
+     predictivos; economía además foco en "entender" [Weber (1904)]
+     --fuerte elemento de subjetiviad
+  3. ¿Debido a la relevancia de las elecciones humanas, son los
+     fenómenos sociales demasiado irregulares para ser capturados en
+     un marco analítico de leyes y teorías?
+	 
+## Abstracción, idealización y las cláusulas *ceteris paribus*
+
+- Economía suele ser criticada por la fuerte dependencia de la
+  abstracción e idealización (racionalidad e información perfectas)
+- Por otro lado, sin una buena dosis de abstracción e idealización,
+  resulta difícil con todas las complicaciones del mundo real 
+  - ¿Cuánta abstracción, simplificación, e idealización es legítima?
+- Los enunciados y conclusiones de la economía son verdaderos
+  estrictamente bajo la cláusula *ceteris paribus*
+	  - ¿cuán validados están estas abstracciones y supuestos por la
+  evidencia empírica disponible?
+  
+## Causalidad en economía y econometría
+
+- Muchos enunciados económicos se asemejan a enunciados causales
+  --"Cuando sube $P$, baja $Qd"
+  - Pero causalidad no explorada explícitamente (ni conceptual ni
+    estadísticamente)
+- En décadas recientes, importante revolución empírica rescató el tema
+  de la causalidad
+  - Si *cambios en $M$ causan cambios en $P$, entonces la distribución
+  condicional de $P$ sobre $M$ debería permanecer estable con cambios
+  exógenos en M, pero debería cambiar con cambios exógenos en $P$*
+- Hoover [2001] propone usar indagación histórica junto a métodos
+  estadísticos para identificar cambios exógenos
+  
+## Causalidad en economía y econometría (cont.)
+
+- Reencarnación moderna del debate de causalidad $\longrightarrow$
+  **randomized controlled trials**
+  - experimentos que consisten en aleatorizar individuos en 2 (dos)
+    grupos --tratamiento, control- y variar 1 (un) sólo factor entre grupos
+	- en este contexto, la variación en los resultados dadas las
+      características similares de ambos grupos, se deben totalmente a
+      al factor
+- Problema $\longrightarrow$ representatividad --i.e si paper para
+  tribus de región de Uganda concluye algo sobre conflicto y violencia, no necesariamete aplica
+  para pandillas mejicanas
+- Cuestiones éticas sensibles $\longrightarrow$ experimentación en/con
+  humanos
+  
+## Estructura y estrategia en economía: paradigmas y programas de investigación
+
+- ¿Existe alguna estructura teórica que guíe y unifique la
+  investigación en economía?
+  - Economistas teóricos se acogen al marco de Kuhn y Lakatos con
+    motivo de mostrar una idea de unicidad y estructura de la
+    estructura económica
+- En cualquier caso, la comparación de la estructura económica al
+  marco de Kuhn y Lakatos ha echado alguna luz sobre las ventajas y
+  deficiencias de la estructura y estrategia de la teoría económica
+  --i.e equilibrio *existe* y *se logra*
+  
+  
