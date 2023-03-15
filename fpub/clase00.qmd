@@ -1,24 +1,31 @@
 ---
-title: Finanzas Públicas
-subtitle: Cátedra Freille
-author: Sebastián Freille
-slideNumber: true
-output:
-  revealjs::revealjs_presentation:
+title: Presentación
+subtitle: Finanzas Públicas (Cat. Freille)
+author: |
+  | **Sebastián Freille**
+  | sfreille@unc.edu.ar
+  | Licenciatura en Economía
+  | FCE-UNC
+format::
+  revealjs:
+    slide-number: true
+    chalkboard:
+      buttons: false
+    preview-links: auto
+    css: ..\quarto.css
+    width: 1500
+    center-title-slide: true
     center: true
-    highlight: pygments
-    transition: slide
-    css: ..\style.css
----     
+---
 
 
 ## Bienvenida 
 
-Este es un sitio de clases interactivas de la materia Finanzas Públicas (cátedra Freille) del tercer año de la carrera de Contador Público de la Facultad de Ciencias Económicas (FCE) de la Universidad Nacional de Córdoba (UNC).
+> Este es un sitio de clases interactivas de la materia Finanzas Públicas (cátedra Freille) del tercer año de la carrera de Contador Público de la Facultad de Ciencias Económicas (FCE) de la Universidad Nacional de Córdoba (UNC).
 
 ## Aspectos organizativos
 
-En esta sección presentaremos los principales aspectos generales y organizativos de la materia. 
+> En esta sección presentaremos los principales aspectos generales y organizativos de la materia. 
 
 ## Equipo de cátedra
 
@@ -48,7 +55,7 @@ Los **horarios de las clases híbridas** semanales serán:
 
 ## Objetivo general
 
-Desarrollar el **estudio de la actividad económica y financiera del sector público en la economía** y brindar a los alumnos **herramientas teórico-analíticas y empíricas** para comprender la naturaleza, el funcionamiento y los efectos de la actividad del sector público en el conjunto de la economía.
+> Desarrollar el **estudio de la actividad económica y financiera del sector público en la economía** y brindar a los alumnos **herramientas teórico-analíticas y empíricas** para comprender la naturaleza, el funcionamiento y los efectos de la actividad del sector público en el conjunto de la economía.
 
 ## Objetivos específicos
 
