@@ -16,14 +16,12 @@ format:
     width: 1500
     center-title-slide: true
     center: true
+    tbl-cap-location: bottom	
+    toc: true
+    toc-depth: 1
+    toc-title: Contenidos
+    link-external-newwindow: true
 ---
-
-# Contenidos {-}
-
-- El rol y utilidad del estudio la HPE
-- Los usos del pasado
-- Sobre el carácter y naturaleza de la disciplina --economía
-- Teorías y doctrinas
 
 # El rol y utilidad de la HPE {background="#43464B"}
 
@@ -45,16 +43,24 @@ format:
 ## Algunas razones escuchadas
 
 - Leer a los "clásicos"
-- Pedagógico
-- Entender la evolución
-- Formación integral
-
+  - manejaban un conjunto de hipótesis mucho más amplio del que en
+  general ha llegado a nuestros días; cómo piensan las "grandes mentes"
+  - nos generan "intuiciones" sobre cómo funciona(ba)n los mercados en
+  general
+- Pedagógico [Schumpeter (1954)]
+	- permite integrar y articular diferentes ideas en un sistema de ideas y pensamiento
+- Promueve crítica y reflexión
+  - ante una bifuración, se siguió un camino --¿qué hubiera
+    pasado si...? [ejemplos: costos de transacción y optimalidad de
+    Pareto "descubiertos" 30 años despúes]
+  
 ## El papel de las ideas
 
 > …<span style=" font-size:25px; line-height:0.5; padding:0">las ideas de los economistas y filósofos políticos, tanto cuando son correctas como erróneas, tienen más poder de lo que comúnmente se entiende. De hecho, el mundo está dominado por ellas. Los hombres prácticos, que se creen exentos de cualquier influencia intelectual, son usualmente esclavos de algún economista difunto. Locos con autoridad, que escuchan voces en el aire, destilan su histeria de algún escritorzuelo académico de uno años antes. Estoy seguro que el poder de los intereses creados es vastamente exagerado cuando se lo compara con el gradual avance de las ideas. No, por cierto, en forma inmediata, pero luego de un cierto intervalo; porque en el campo de la economía y la filosofía política no hay muchos que sean influenciados por nuevas teorías luego de sus veinticinco o treinta años de edad, por lo que las ideas que los funcionarios públicos y políticos, y aun los activistas aplican a los eventos actuales no es probable que sean las últimas. Pero, tarde o temprano, son las ideas, y no los intereses creados las que son peligrosas para bien o para mal\
 **[John Maynard Keynes, *Teoría general del empleo, el interés y el dinero* (1936)]** </span>
 
 
+	
 ## Argumentos y contra-argumentos
 
 ![](fig/fig-01-001.png){fig-align="center"}
@@ -83,16 +89,56 @@ format:
 
 - ¿Why study "the wrong opinions of dead mean"? [Pigou]
   - Válido plantearse la utilidad de la HPE para estudiantes y sus futuras carreras
-  - 
-
-
-
+  - no es un área vocacionalmente *útil*
+    --mercado de trabajo, competencias
+  - el tiempo es un recurso escaso incluso en la formación académica
+    	
+> Graduate students need at least 4 hours a night of sleep; that is a
+> universal law, so something had to give in the economics curriculum \
+**[Paul Samuelson (1988) *Out of the Closet: A Program for the Whig History of Science*]**
 
 ## ¿Está muriendo la HPE (cont.)?
 
 - Blaug (2001) en paper *"No History of Ideas, Please, We're Economists"* dice:
 
-> Ninguna idea o teoría en economía, física, química, biología, filosofía y aún matemática es completa y detalladamente comprendida excepto como el resultado final de una porción de la historia, el resultado de algún desarrollo intelectual previo...el conocimiento económico es dependiente del camino. Loque conocemos acerca del sistema económico no es algo que hayamos descubierto hoy y ahora, sino que es la suma de todos los descubrimientos, ideas, y arranques falsos en el pasado. Sin Hayek, Robbins y Pigou, no había Keynes; sin Keynes, no había Friedman; sin Friedman, no había Lucas; sin Lucas, no había...
+> Ninguna idea o teoría en economía, física, química, biología,
+> filosofía y aún matemática es completa y detalladamente comprendida
+> excepto como el resultado final de una porción de la historia, el
+> resultado de algún desarrollo intelectual previo...el conocimiento
+> económico es dependiente del camino. Loque conocemos acerca del
+> sistema económico no es algo que hayamos descubierto hoy y ahora,
+> sino que es la suma de todos los descubrimientos, ideas, y arranques
+> falsos en el pasado. Sin Hayek, Robbins y Pigou, no había Keynes;
+> sin Keynes, no había Friedman; sin Friedman, no había Lucas; sin
+> Lucas, no había...
+
+## Historia del análisis y de las doctrinas
+
+- Tentacion de reducir la enseñanza a estudiar *historia del análisis*
+  y dejar afuera las doctrinas --la relación entre teoría y política
+  - *reconstrucciones racionales* [Blaug (2001)]
+    - atractivo mostrar ideas teóricas del pasado y *aggionarlas* en lingo presente
+	- eventualmente fútil --si objetivo es usar las herramientas modernas
+
+> Si tu única herramienta es un martillo, tiendes a tratar cada
+> problema como si fuera un clavo. \
+**[Abraham Maslow (1966)]**
+
+## Historia del análisis y de las doctrinas (cont.)
+
+- Las *reconstrucciones históricas* requieren mayor compromiso con la
+    indagación
+- Hacen a los pensadores
+  menos parecidos a nosotros de lo que eran en realidad
+  - el progreso en la HPAE es palpalbe cuando los clásicos no tan
+    antiguos reescriben clásicos anteriores!
+- La HPAE enseña lecciones clave acerca del
+  *desarrollo* de las ideas económicas
+  - la interpretación moderna de "competencia perfecta" de Adam Smith
+  es errónea --no tiene que ver con estructura de mercadao
+  - la neutralidad del dinero en el LP y la no neutralidad del mismo
+    en el CP para Hume --énfasis en el CP totalmente ignorado por
+    Lucas
 
 # Los usos del pasado {background="#43464B"}
 
@@ -141,9 +187,15 @@ format:
 ## Sobre método y naturaleza
 
 - Cierta idea que la economía es comparable a una ciencia natural con progreso acumulativo y que sólo hace falta leer los últimos escritos
-  - Para entender conceptos de ventaja comparativa, eficiencia del mercado o los modelos de oligopolio no hace falta leer a Ricardo, Smith o Cournot
-- Pero también idea de que la economía no es enteramente como las ciencias naturales...
-  - la economía progresa no sólo refinando modelos (verticalmente) sino también expandiendo el rango de modelos (horizontalmente)
+  - Para entender ventaja comparativa no hace falta leer a Ricardo
+- Pero también que la economía no es *enteramente* como las
+  ciencias naturales...
+  - la economía progresa no sólo refinando modelos (verticalmente) 
+  sino también expandiendo el rango de modelos (horizontalmente)
+    - La realidad social a diferencia de la realidad física es el
+    resultado de elección humana en su totalidad y por lo tanto
+    inherentemente maleable [Rodrik (2015)]	
+    - modelos diferentes para diferentes tiempos y circunstancias
 
 ## Sobre método y naturaleza (cont.)
 
@@ -154,15 +206,38 @@ format:
 ## Sobre método y naturaleza (cont.)
 
 - Para los críticos, esta obsesión por los modelos representa todo lo que está mal con la economía --abstracción de la compleja realidad social, supuestos cuestionables, derivar recetas de política de modelos teóricos hiperstilizados
-- En la realidad, los modelos construidos por economistas son absolutamente **esenciales para entender** el funcionamiento de la sociedad. 
+- En la realidad, los modelos construidos por economistas son
+  absolutamente **esenciales para entender** el funcionamiento de la
+  sociedad --su simpleza es lo que los hace atractivos
   - Lo que los hace útiles es que capturan *un* aspecto de la realidad
   - Lo que los hace indispensables es que capturan *el aspecto más relevante de la realidad en un contexto específico*
 
+## Sobre método y naturaleza (cont.)
+
+> Different contexts...require different models. And this is where
+> economists typically get into trouble. They often discard their
+> profession-s most valuable contribution -the multiplicity of models
+> tailored to a variety of settings- in favor of the search for the
+> one and only universal model. When models are selected judiciously,
+> they are a source of illumination. When used dogmatically, they lead
+> to hubris and errors in policy. 
+**[Rodrik, Dani. *Economics rules: The rights and wrongs of the dismal science (2015)*]**
 
 ## Sobre método y naturaleza (cont.)
 
-- La realidad social a diferencia de la realidad física es el resultado de elección humana en su totalidad y por lo tanto inherentemente maleable [Rodrik (2015)]
-- 
+- Pensemos en 3 (tres) modelos conocidos
+  1. Oferta y demanda (Marshall) $\longrightarrow$ equilibrio
+     eficiente 
+	 - idealización: mercado perfectamente competitivo
+  2. Dilema del prisionero (Tucker) $\longrightarrow$ equilibrio no
+     eficiente 
+	 - idealización: acciones independientes
+  3. Caza del ciervo (Rousseau) $\longrightarrow$ equilibrios
+     múltiples, uno eficiente, otro ineficiente
+	 - idealización: información imperfecta
+- Ninguno de estos modelos **está bien o mal *per se*** --pero cada
+  uno brinda un mecanismo que puede ser válido (o no) en una situación del
+  mundo real 
 
 # Metodología de la ciencia: evolución. El caso de la economía {background="#43464B"}
 
@@ -189,7 +264,7 @@ format:
   comprobando la correspondencia de sus implicancias con los hechos
   - Este es el conocido como **modelo inductivo** 
   
-## El modelo hipotético-deductivo (cont.)
+## El modelo hipotético-deductivo
 
 - Este enfoque y modelo comenzó a ser cuestionado en la segunda mitad
   del siglo XIX y terminó siendo totalmente opuesto al nuevo modelo en
@@ -233,20 +308,16 @@ format:
     algo más
     - Una extrapolación lineal de una regresión lineal constituye una predicción
 - Implicancia $\longrightarrow$ se puede predecir bien sin explicar
-  nada
+  nada [¿machine learning, *anyone*?]
 - Relevancia de la **causación** $\longrightarrow$ conjunción
   constante de dos acontecimientos que aparecen uno (efecto) detrás
   del otro (causa) en
-  tiempo y espacio
-  - Ha sido rechazado por no explicitar un **mecanismo que conecte**
+  tiempo y espacio [Hume "modelo de bola de billar"]
+  - Esto ha sido rechazado por no explicitar un **mecanismo que conecte**
     causa y efecto
 	
 ## El modelo hipotético-deductivo (cont.)
 
-- Críticos $\longrightarrow$ la predicción no tiene que implicar
-  explicación y viceversa
-  - Predicción sólo exige correlación pero la explicación requiere
-    algo más
 - Alternativamente ¿podemos obtener explicación sin predicción? La
   respuesta es positiva
   - Ejemplo $\longrightarrow$ teoría evolutiva de Darwin que busca
@@ -257,7 +328,7 @@ format:
 
 ## El modelo hipotético-deductivo (cont.)
 
-> De acuerdo a esta concepción, La teoría de la gravedad de Newton
+> De acuerdo a esta concepción, la teoría de la gravedad de Newton
 > --los cuerpos se atraen con una fuerza que varía inversamente con el
 > cuadrado de sus distancias- no
 > es mas que un instrumento altamente eficiente para generar
@@ -267,43 +338,40 @@ format:
 > proporcionó mecanismo causa-efecto ni tampoco lo han hecho miles de
 > investigadores que sucedieron a Newton
 
-## El modelo hipotético-deductivo (cont.)
+## El falsacionismo de Popper
 
-- Como cualquier otra ciencia, la economía no sólo se contenta con
-  conocimiento de tipo descriptivo $\longrightarrow$ busca descubrir
-  **patrones de uniformidad** en la administración de recursos escasos
-- Los enunciados de la ciencia económica tiene validez objetiva
-  $\longrightarrow$ dos personas que comiencen con los mismos
-  supuestos terminarán derivando los mismos resultados y conclusiones
-  [a través de las reglas de la lógica]
-- El veredicto final en relación a cualquier enunciado económico está
-  sujeto en definitiva a la conformación a los hechos
-  
-## El modelo hipotético-deductivo (cont.)
+- Popper encabeza una revolución asentada entre su distinción entre
+  ciencia y no-ciencia y termina en su intento de **establecer normas
+  que permitan evaluar las hipótesis científicas** en términos de su
+  diferente grado de verosimilitud
+- Problema de justificación de la inducción $\longrightarrow$
+  generalizamos constantemente a partir de observaciones individuales;
+  sin embargo estas inferencias **no tienen una justificación lógica**
+  - famoso "problema de la inducción"
 
-- Imagine dos médicos tratando a un paciente. Nno hay necesidad de
-  acuerdo interpersonal en relación al objetivo del tratamiento --uno
-  puede querer curarlo, el otro matarlo
-- Pero una vez que el objetivo está decidido, los enunciados de ambos
-  sobre la eficacia de cada tratamiento en relación al objetivo tienen
-  validez interpersonal 
-- Sin embargo, los economistas difieren sobre muchas cosas y adscriben
-  a diferentes escuelas y tradiciones de pensamiento
-  
-## El modelo hipotético-deductivo (cont.)
-  
-- Los desacuerdos, sin embargo, se deben esencialmente a 3 (tres)
-  cosas
-  - Desacuerdo acerca de los objetivos sociales $\longrightarrow$ 
-  - Desacuerdo acerca de los hechos $\longrightarrow$ puede ser
-    resuelto por observación empírica adicional --si no hay data,
-    entonces se concluye en no "cerrar" la discusión
-  - Fallas en seguir las reglas de la lógica $\longrightarrow$ se
-    resuelve aplicando correctamente estas reglas
-- En efecto, los desacuerdos pueden últimamente resolverse apegándonos
-  a la aplicación estrictra de las reglas del procedimiento científico 
+## El falsacionismo de Popper (cont.)
 
-## El modelo hipotético-deductivo (cont.)
+- Asimetría clave entre inducción y deducción; entre verificación y falsación
+  - cualquier afirmación universal puede ser refutada por medio de la
+    lógica deductiva por una sóla afirmación particular pero...
+	- no es posible derivar afirmaciones universales a partir de
+      afirmaciones particulares aún por muchas que estas sean
+	  
+> Ningún número de observaciones acerca de que los cisnes son blancos
+> nos permitirá inferir que todos los cisnes son blancos, pero la
+> observación de un único cisne negro, nos permite refutar aquella
+> conclusión
+
+## El falsacionismo de Popper (cont.)
+
+- Popper demarca asi la linea entre ciencia y no-ciencia
+  - ciencia se caracteriza por su método de formulación de
+    proposiciones contrastables (y no por su contenido ni su
+    pretensión de certeza)
+- Esta línea no es absoluta: hay todo un continuo de conocimientos que
+  pueden ser clasificados según la nomenclatura popperiana
+  - la economía (como ciencia social) queda entre medio de las
+  ciencias naturales y las disciplinas como las artes y la literatura
 
 # Problemas metodológicos centrales {background="#43464B"}
 
@@ -380,7 +448,7 @@ format:
   2. ¿Hay diferencias fundamentales en los objetivos de ambos tipos de
      disciplinas? Ciencias naturales foco en objetivos explicativos y
      predictivos; economía además foco en "entender" [Weber (1904)]
-     --fuerte elemento de subjetiviad
+     --fuerte elemento de subjetividad
   3. ¿Debido a la relevancia de las elecciones humanas, son los
      fenómenos sociales demasiado irregulares para ser capturados en
      un marco analítico de leyes y teorías?
@@ -400,7 +468,7 @@ format:
 ## Causalidad en economía y econometría
 
 - Muchos enunciados económicos se asemejan a enunciados causales
-  --"Cuando sube $P$, baja $Qd"
+  --"Cuando sube $P$, baja $Qd$"
   - Pero causalidad no explorada explícitamente (ni conceptual ni
     estadísticamente)
 - En décadas recientes, importante revolución empírica rescató el tema
