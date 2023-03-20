@@ -195,3 +195,337 @@ V & si \quad \frac{P_{Q}}{P_{V}} < \frac{a_{LQ}}{a_{LV}}  \\
 > producción de algún bien necesitamos contar con los 4 (cuatro)
 > requerimientos de trabajo
 
+## El modelo ricardiano: comercio (cont.)
+
+- ¿Podemos determinar el patrón de comercio sólo a partir de la
+  ventaja absoluta? $\longrightarrow$ **no**
+- Ahora podemos dibujar la FPP de cada país una al lado de otro
+  - recuerde que **la pendiente de la FPP es el costo de oportunidad
+    del queso en términos de vino**
+	- $F*P*$ más inclinada que $FP$
+- Sin comercio $\longrightarrow$ precios relativos del queso y vino en
+  cada país dados por los requerimientos unitario de trabajo relativos
+  --$\frac{a_{LQ}}{a_{LV}}$ y $\frac{a^{*}_{LQ}}{a^{*}_{LV}}$
+- Con comercio $\longrightarrow$ precios relativos ya no dependen sólo
+  de precios nacionales
+
+
+## El modelo ricardiano: comercio (cont.)
+
+::: {layout-ncol=2 layout-valign="bottom"}
+![Local](fig/fig-02-001.png){ width=650px height=490px }
+
+![Extranjero](fig/fig-02-002.png){ width=600px height=440px}
+
+llladf
+:::
+
+## Precio relativo y oferta relativa
+
+- Es preciso usar **análisis de equilibrio general** $\longrightarrow$
+  relaciones entre mercados de $V$ y $Q$ 
+  - introducción de **oferta y demanda relativas** $\longrightarrow$
+    kgs de $Q$ ofrecidos(o demandados) dividido por lts de vino
+    ofrecios (o demandados)
+- Demandas relativa (DR) y oferta relativa (OR) dependen del precio
+  relativo 
+  - Equilibrio mundial requiere $DR=OR$
+- $OR$ forma de escalón con dos saltos
+
+## Precio relativo y oferta relativa (cont.)
+
+![](fig/fig-02-003.png){fig-align="center" height=550px}
+  
+## Precio relativo y oferta relativa (cont.)
+
+- Si $\frac{P_{Q}}{P_{V}} < \frac{a_{LQ}}{a_{LV}}$ entonces **no habrá
+  OR de queso** [recuerde que $\frac{a_{LQ}}{a_{LV}} <
+    \frac{a^{*}_{LQ}}{a^{*}_{LV}}$]
+- Si $\frac{P_{Q}}{P_{V}} = \frac{a_{LQ}}{a_{LV}}$ entonces **ofrecen cantidad relativa
+  cualquiera de ambos bienes**
+- Si $\frac{P_{Q}}{P_{V}} > \frac{a_{LQ}}{a_{LV}}$ (y menor a $\frac{a^{*}_{LQ}}{a^{*}_{LV}}$)   entonces **país se especializa en la
+  producción de $Q$** [Note que la **OR de queso** es igual a  $\frac{L}{a_{LQ}}/\frac{L^{*}}{a^{*}_{LV}}$]
+- Si $\frac{P_{Q}}{P_{V}} = \frac{a^{*}_{LQ}}{a^{*}_{LV}}$
+  $\longrightarrow$ **indiferencia entre $Q$ y $V$** (extranjeros)
+- Si $\frac{P_{Q}}{P_{V}} > \frac{a^{*}_{LQ}}{a^{*}_{LV}}$
+  $\longrightarrow$ ambos **se especialización en la produccion de
+  $Q$** [no habrá producción de $V$!]
+  
+## Precio relativo y oferta relativa (cont.)
+
+- ¿Qué sucede con la $DR$? 
+  - Pendiente negativa refleja efecto sustitución típico
+    $\longrightarrow$ a medida que precio relativo de $Q$ aumenta, DR
+    por $Q$ disminuye (al tiempo que aumenta la $DR$ de $V$)
+- Finalmente, el **precio relativo** de equilibrio se determina en la
+  intersección de $OR$ y $DR$
+- Note en figura los equilibrios posibles ante 2 (dos) curvas
+  alternativas de $DR 
+	
+## Precio relativo y oferta relativa (cont.)
+
+- Si $DR$ $\longrightarrow$ corta a $OR$ en sección vertical, es decir
+  un tramo **entre los precios pre-comercio** de ambos países
+  - cada país se especializa en producción del bien en que tiene
+    ventaja comparativa
+- Si $DR$ $\longrightarrow$ corta a $OR$ en sección horizontal, en
+  este caso, en un precio igual a $\frac{a_{LQ}}{a_{LV}}$ 
+  - esto implica que el país local **no tiene incentivos a
+    especializarse** --produce ambos $Q$ y $V$
+    - $OR$ en este caso menor a la de especialización $Q^{'} <
+      \frac{L}{a_{LQ}}/\frac{L^{*}}{a^{*}_{LV}}$
+- ...pero el país extranjero se especializa en la producción de vino
+  [note que $\frac{P_{Q}}{P_{V}} < \frac{a^{*}_{LQ}}{a^{*}_{LV}}$]
+
+## Precio relativo y oferta relativa (cont.)
+
+- El caso más normal y estándar es que **el precio del bien que se
+  exporta en relación (queso) con el precio del otro bien (vino) se
+  sitúe entre los *precios de autarquía* de ambos bienes**
+> **Implicancia.** Esta convergencia en precios desde los *precios de
+  autarquía* a *precios de comercio* tiene por efecto la
+  **especialización** de cada país en el bien en el que tiene un
+  requerimiento de trabajo *relativamente* menor. 
+  
+## Aplicación: La ventaja comparativa en el deporte
+
+> **El caso de Babe Ruth.** Considerado el mejor beisbolista de la
+> historia, Babe Ruth pasó a la fama como *bateador* y no como
+> *lanzador*. Originalmente, cumplia ambas funciones pero por las
+> características del juego no podía lanzar en todos los
+> partidos. Eventualmente, su equipo decidió usarlo casi
+> exclusivamente como bateador --su habilidad comparada en esta tarea
+> comparada con sus compañeros era aún mayor que como lanzador- y los
+> "beneficios de la especialización" pronto se vieron: no paró de
+> batir records de *home runs* y convirtió a los Yankees en el equipo
+> más popular de la historia
+
+## Las ganancias del comercio
+
+- ¿Es posible que **ambos países ganen** con el comercio? La respuesta
+  es sí!
+  - **Especialización como producción indirecta** $\longrightarrow$
+    podríamos producir vino directamente pero es **más eficiente**
+    producir sólo queso e intercambiar el excedente por vino 
+  - **Especialización como mayor consumo** $\longrightarrow$ si no se
+    comercia las posibilidades de consumo son las mismas que la de
+    producción
+	- con comercio esto cambia $\longrightarrow$ puedo producir mucho
+      $Q$ y poco $V$ pero consumir poco $Q$ y mucho $V$!
+	  
+## Las ganancias del comercio (cont.)
+
+![](fig/fig-02-004.png){fig-align="center"}
+
+
+## Las diferencias en los salarios relativos
+
+- El salario relativo de EEUU comparado con Méjico suele ser cercano a
+  5/6
+  - Según el modelo, una vez producida la especialización *todos los
+    trabajadores del país local* producen $Q$ --salario es igual al
+    $P_{Q}$ dividido la cantidad de horas de trabajo requeridas para
+    producir 1 kg de queso (1 hora en este caso); igual para el vino,
+    será $P_{V}$ dividido por cantidad de horas de trabajo requeridas
+    para producir 1 litro de vino (3 horas en este caso)
+  - Si los precios de $Q$ y $V$ son de 12 dolares cada uno
+    - Trabajadores locales ganarán $U$S$ 12 por hora; extranjeros
+      ganarán $U$S$ 4 por hora $\longrightarrow$ salario relativo de
+      país local será igual a 3
+	  
+# Ideas erróneas sobre la ventaja comparativa {background="#43464B"}
+
+## Mito 1: Productividad y competitividad
+
+- Libre comercio sólo beneficia a un país si es lo suficientemente
+  competitivo como para resistir la competencia internacional
+	  - "Si no hay nada que podamos producir más barato que en otro
+        lugar entonces el comercio viene a costa de una constante
+        reducción de costos laborales"
+		- Grave error de **confundir ventaja absoluta con ventaja
+          comparativa**
+	  - Tener ventaja absoluta no es condición ni necesaria ni
+        suficiente para tener ventaja comparativa
+- En nuestro caso, extranjero es menor productivo que local en
+  producción de vino; pero es aún mucho menos productivo que local en
+  producción de queso
+  
+
+## Mito 2: Los salarios paupérrimos
+
+- "La competencia exterior es injusta y perjudica a otros países
+  cuando se basa en salarios muy bajos" --cfr. China
+  - Argumento falaz $\longrightarrow$ país local más productivo que
+    extranjero en ambas industrias y el menor costo del extranjero en
+    la producción de $V$ se debe por completo a su inferior tasa
+    salarial
+- Lo importante aquí no son **las razones por la que el extranjero es
+  más barato sino el hecho de que es más barato *en términos de nuestro
+  propio trabajo* producir $Q$ e intercambiarlo por $V$ que producir
+  nuestro propio vino**
+  
+## Mito 3: Explotación
+
+- "El comercio explota a un país y lo empobrece si sus trabajadores
+  reciben unos salarios muy inferiores a los de los trabajadores de
+  otros páises". 
+  - la comparación útil es si valorar si los trabajadores y su país
+    tienen peores y menores rendimientos en la $X$ de bienes basados
+    en salarios reducidos que si rechazaran participar de este
+    comercio
+- ¿Cuál es la alternativa?
+  - en nuestro ejemplo, en autarquía, el extranjero tendría salarios
+    aún más bajos --de 1/3 a 1/6!
+	
+# *El caso con muchos bienes* {background="#43464B"}
+
+## *Ventaja comparativa con muchos bienes*
+
+- Hasta ahora hemos trabajado con un modelo tipo 2x2 --2 (dos) países
+  y 2 (dos) bienes
+- El mundo real tiene muchos países y muchos bienes
+- Seguimos suponiendo que hay 2 (dos) países por simplicidad y 1 (un)
+  factor productivo pero $N$ bienes
+- El requerimiento unitario de trabajo del país local es $a_{Li}$
+  donde $i=1...N$ y el del país extranjero es $a^{*}_{Li}$  
+- De tal modo que:
+\begin{align}
+\frac{a_{L1}}{a^{*}_{L1}} < \frac{a_{L2}}{a^{*}_{L2}} <
+\frac{a_{L3}}{a^{*}_{L3}} < ...  < \frac{a_{LN}}{a^{*}_{LN}} < 
+\end{align}
+
+## *Ventaja comparativa con muchos bienes (cont.)*
+
+- Ahora podemos considerar el **patrón de comercio** $\longrightarrow$
+  sólo depende de relación de salarios entre nuestro país y extranjero
+  - Sea $w$ tasa salarial local y $w^{*}$ tasa salarial en extranjero
+    y $\frac{w}{w^{*}}$
+- Regla $\longrightarrow$ *los bienes serán producidos siempre donde
+  su producción resulte más barata*. Será más barato producir el bien
+  $i$ en nuestro país si:
+\begin{align}
+wa_{Li}  &< w^{*}a^{*}_{Li} \\
+\frac{a^{*}_{Li}}{a_{Li}} &> \frac{w}{w^{*}}
+\end{align}
+
+## *Ventaja comparativa con muchos bienes (cont.)*
+
+- De este modo, cualquier bien para el que
+  $\frac{a^{*}_{Li}}{a_{Li}} > \frac{w}{w^{*}}$ será producido
+  localmente,  mientras que cualquier bien para el que
+  $\frac{a^{*}_{Li}}{a_{Li}} < \frac{w}{w^{*}}$
+- Esto implica un cierto "corte" en la división de bienes entre ambos
+  países --determinado exclusivamente por la relación salarial entre
+  ambos países
+  
+## *Ventaja comparativa con muchos bienes (cont.)*
+
+
+| **Bien**   | **$a_{Li}$** | **$a*_{Li}$** | **$(a*_{Li}/a_{Li})$** |
+|------------|:----------:|:-----------:|:--------------------:|
+| Manzanas   |      1     |      10     |          10          |
+| Plátanos   |      5     |      40     |           8          |
+| Caviar     |      3     |      12     |           4          |
+| Dátiles    |      6     |      12     |           2          |
+| Enchiladas |     12     |      9      |         0.75         |
+
+: Requerimientos de trabajo y ventaja relativa de productividad
+
+## *Ventaja comparativa con muchos bienes (cont.)*
+
+> **Idea central.** Nuestro país tendrá ventaja en el costo en los
+> bienes para los que su *productividad relativa sea mayor que su
+> salario relativo* y el extranjero tendrá ventaja en los demás
+
+- Así por ejemplo si la tasa salarial en nuestro país es 3 veces la
+  tasa salarial del extranjero, entonces nuestro país producirá
+  *manzanas*, *plátanos* y *caviar* mientras que el extranjero producirá
+  *dátiles* y *enchiladas*
+  - Muestre a partir de la tabla por qué es conviente para el país
+    local importar Dátiles y Enchiladas
+
+# El modelo ricardiano en la práctica  {background="#43464B"}
+
+## ¿Es útil el modelo ricardiano para explicar la realidad?
+
+- ¿Es este el patrón de comercio que se observa en la economía
+  internacional? ¿Es efectivamente el caso que algunos países se
+  especializan en ciertos productos y otros países en otros
+  diferentes?
+- La evidencia sugiere que no hay especialización extrema como predice
+  el modelo ricardiano. Hay 3 (tres) razones esenciales que explican
+  esto
+  1. Con 2 (dos) factores de producción, se reduce tendencia a
+     especializar
+  2. Países protegen sus economías ante competencia extranjera
+  3. El transporte de bienes y servicio es costoso; no siempre es
+     viable importar
+
+## Costos de transporte positivos
+
+- Si **no existen costos de transporte** país local exporta manzanas,
+  plátanos y caviar e importa dátiles y enchiladas
+- Suponga ahora que existe un costo de transporte y es una fracción
+  del costo de producción, digamos $100%$. 
+  - Recordemos el caso de *dátiles* $\longrightarrow$ producir una
+    unidad requiere 6 hs en país local o 12 hs en extranjero; para
+    salario relativo de 3, 12 hs extranjero equivalen a costo de 4 hs
+    en nuestro país --conviene importar
+	- ahora **con costo de transporte**, los *dátiles* cuestan 8 hs de
+      trabajo en nuestro país por lo que en este caso convendrá
+      producirlos localmente
+- Note porque **no se produce especialización completa**
+
+## Evidencia: Ventaja comparativa
+
+- Existen diversos aspectos en que el modelo ricardiano realiza
+  predicciones erróneas. 
+  1. Especialización extrema $\longrightarrow$ no observada en mundo
+     real
+  2. Abstracción de efectos de comercio sobre distribución de renta
+     *dentro * de cada país  $\longrightarrow$ "países siempre ganan
+     con el comercio"
+  3. Diferencias de factores (recursos) no tienen ningún rol
+     $\longrightarrow$ luego veremos otros modelos que incorporan esto
+  4. Ignora el papel de las economías de escala como causa de comercio
+- Aún así $\longrightarrow$ predicción básica del modelo ricardiano
+  que países tienden a exportar bienes en que su productividad es
+  *relativamente* alta ha sido confirmada
+  
+## Evidencia: Ventaja comparativa (cont.)
+
+![](fig/fig-02-005.png){fig-align="center"}
+
+## Evidencia: Ventaja comparativa (cont.)
+
+- Con datos de comercio entre EEUU y UK alrededor de 1950s para 26
+  industrias manufactureras, se
+  comprobó que EEUU era más productivo que UK en casi todas las
+  industrias (ventaja absoluta)
+  - Pero UK tenía ventaja comparativa en varios sectores
+- El gráfico confirma nuevamente ahora con datos que **el comercio entre dos países depende de la
+  ventaja comparativa y no de la ventaja absoluta** [cfr. "Mito 1"]
+  - En este caso, en 12 sectores UK tenía más exportaciones relativas
+    que EEUU
+	
+## Evidencia: Ventaja comparativa (cont.)
+  
+- Países emergentes con muy baja productividad total que se han
+  convertido en potencias exportadoras en *ciertas industrias*
+  $\longrightarrow$ Bangladesh en la industria textil
+- Productividad total de Bangladesh es muy baja comparada la de China 
+- ¿Explicación? La desventaja de productividad total es *aún más
+  grande* en el resto de sectores por lo que Bangladesh tiene una
+  ventaja comparativa de la industria textil relativa a otras
+  industrias
+  - Ha surgido como competidor importante y hasta está desplazandolo
+    como principar exportador a ciertos destinos (Europa)
+
+## Evidencia: Ventaja comparativa (cont.)
+
+| **Sector** | **Prod. per capita BAN (% China)** | **X BAN (% China)** |
+|------------|------------------------------------|---------------------|
+| Todas      |                28.5                |         1.0         |
+| Textiles   |                 77                 |         15.5        |
+
+: Bangladesh frente a China (2011)
