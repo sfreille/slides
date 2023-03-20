@@ -205,7 +205,7 @@ format:
 
 ## Sobre método y naturaleza (cont.)
 
-- Para los críticos, esta obsesión por los modelos representa todo lo que está mal con la economía --abstracción de la compleja realidad social, supuestos cuestionables, derivar recetas de política de modelos teóricos hiperstilizados
+- Para los críticos, esta obsesión por los modelos representa todo lo que está mal con la economía --abstracción de la compleja realidad social, supuestos cuestionables, derivar recetas de política de modelos teóricos hiperestilizados
 - En la realidad, los modelos construidos por economistas son
   absolutamente **esenciales para entender** el funcionamiento de la
   sociedad --su simpleza es lo que los hace atractivos
