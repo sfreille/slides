@@ -1,0 +1,332 @@
+---
+title: U3. La economía pre-clásica. La transición a las ideas liberales. La fisiocracia
+subtitle: Historia del Pensamiento y del Análisis Económico
+author: |
+  | **Sebastián Freille**
+  | sfreille@unc.edu.ar
+  | Licenciatura en Economía
+  | FCE-UNC
+format:
+  revealjs:
+    slide-number: true
+    chalkboard:
+      buttons: false
+    preview-links: auto
+    css: ..\quarto.css
+    width: 1500
+    center-title-slide: true
+    center: true
+    tbl-cap-location: bottom	
+    toc: true
+    toc-depth: 1
+    toc-title: Contenidos
+    link-external-newwindow: true
+---
+
+# La transición liberal y los primeros "padres fundadores" {background="#43464B"}
+
+## El siglo XVII
+
+> Fue uno de los siglos claves y mas trascendentales en la historia 
+> de la humanidad. La terrible brutalidad de la Guerra de los 30 Años 
+> (población en muchos países cayó en 50% o más) contrastó con los
+> increíbles avances en las ciencias naturales. Se formaron las
+> primeras sociedad científicas (Royal Society en UK). Esto marca
+> también un quiebre esencial en relación a *El Filósofo* --tanto en
+> Francia (Descartes) como en UK (Hobbes, Locke) lideraron un
+> movimiento de revulsión respecto de la dominancia de Aristóteles. El
+> cambio es significativo en muchos aspectos pero uno, que nos
+> concierne, es relevante: el cambio en el *estilo de la escritura*
+
+## Los precursores del economía política
+
+- Dos de las figuras más importantes en la larga transición entre las ideas
+  de la filosofía moral, de los "panfletistas" y de los hombres de
+  negocios del mercantilismo al nacimiento de la economía como
+  disciplina científica fueron **William Petty** y **Richard
+  Cantillon**
+- Tanto Petty como Cantillon han sido considerados por los padres
+  fundadores de la economía política: Karl Marx dijo sobre Petty y
+  Jevons dijo sobre Cantillon
+- La **fisiocracia** fue la otra manifestación de que la transición
+  entre la economía pre-científica y científica estaba madurando
+
+# Sir William Petty [1623-87] {background="#43464B"}
+
+## Un economista atípico y singular
+
+> El trabajo por tanto, no es la fuente única de los valores de uso
+> que produce, de la riqueza material. El trabajo es el padre de ésta,
+> como dice William Petty, y la tierra, su madre
+**[Karl Marx *El Capital, Libro I*(1867)]**
+
+> The method I take to do this is not yet very usual; for instead of
+> using only comparative and superlative Words, and intellectual
+> Arguments, I have taken the course (as a Specimen of the Political
+> Arithmetic I have long aimed at) to express myself in Terms of
+> Number, Weight, or Measure; to use only Arguments of Sense, and to
+> consider only such Causes, as have visible Foundations in Nature.
+**[Hull *The Economic Writings of Sir William Petty* (1899)]**
+
+## Sir William Petty [1623-87]: el primer *influencer*
+
+- Estos cambios se reflejan en muchas dimensiones. El pensamiento
+  económico y político no se mantuvo alejado como muestran los
+  escritos de Petty y Locke
+- Hijo de un sastre pobre en el sur de Inglaterra. Pasó mucho tiempo
+  arriba de barcos con la mala suerte de ser abandonado a su suerte en
+  las costas de Caen (Francia)
+- Fue ahí que tuvo su primera instrucción a cargo de jesuitas. Durante
+  la guerra civil inglesa, huye a Holanda por unos años y conoce a
+  Hobbes en París
+  - A su regreso a UK, inventó un método para escribir duplicado
+    (especie de copia carbónica) pero no tuvo suerte como empresario
+
+## Sir William Petty [1623-87]: el primer *influencer* (cont.)
+
+- Se insertó rápidamente en los círculos intelectuales ingleses --fue
+  uno de los miembros fundadores de la *Royal Society* y en 1650 le
+  dieron una posición en medicina en Oxford
+- Curiosamente o por casualidad su carrera tomó un giro inesperado en 1650
+  --para bien- cuando se documentó su participación como médico en el 
+  caso de la "resurrección" de una mujer condenada a muerte
+  - Para mayores detalles: [Back from the dead](https://www.darkoxfordshire.co.uk/explore/anne-greene-back-from-the-dead/)
+- Finalmente estuvo a cargo de la distribución de tierras en la
+  conquista de Irlanda, previo a un relevamiento territorial que el
+  mismo diseñó
+
+## Sir William Petty [1623-87]: el primer *influencer* (cont.)
+
+![](fig/fig-04-001.png){fig-align="center"}
+  
+## Sir William Petty [1623-87]: método y medición
+
+- En cuanto a su pensamiento en economía, la obra más importante es
+  *The Economic Writings of Sir William Petty* [Hull (1899)]. 
+- Su principal fama en la época era de ser uno de los fundadores de la
+  estadística (econometría), o como se le llamaba entonces, la *aritmética política*
+- Petty adjudicaba gran valor a la **medición cuantitativa** (producto
+  de su afinidad con la filosofía *baconiana*)
+- Sus métodos y técnicas fueron rudimentarias y muchos dudaban de la
+  calidad y veracidad de las estadísticas recopiladas por Petty
+
+## Sir William Petty [1623-87]: gastos, impuestos y empleo
+
+- Sus mejores contribuciones están en el libro [*A Treatise on Taxes
+  and Contributions* (1662)](https://e.pcloud.link/publink/show?code=XZAzeSZVch7MaQPugfDfAiD0BCJ4f3haJKX)
+  - Menciona los diferentes objetos del gasto (defensa, justicia,
+    instrucción en religión)
+  - Sugiere el cobro de escuelas y universidades; el cobro de ríos
+    navegables, acueductos, puentes y demás vías de comunicación; y el mantenimiento de
+    húerfanos y pobres en un notable precedente de gasto de
+    asistencialismo
+  - En un notable espíritu  keynesiano, recomienda dar "empleo a los
+    desempleados"
+	
+## Sir William Petty [1623-87]: gastos, impuestos y empleo (cont.)
+
+> ...if it be employed to build a useless Pyramid upon Salisbury
+> Plain, bring the Stones at Stonehenge to Tower Hill, or the like;
+> for at worst this would keep their mindes to discipline and
+> obedience, and their bodies to a patience of more profitable labours
+> when need shall require it
+**[Sir William Petty, *A Treatise on Taxes and Contributions* (1662)]**
+
+## Sir William Petty [1623-87]: gastos, impuestos y empleo (cont.)
+
+- Defiende la **necesidad de los impuestos** y su discusión gira
+  alrededor de los impuestos sobre la propiedad 
+- Elabora un predicción sobre el **movimiento y desplazamiento
+  (crecimiento) de las ciudades** 
+
+> before we talk too much of Rents, we should endeavour to explain the
+> mysterious nature of them, with reference as well to Money, the rent
+> of which we call usury; as to that of Lands and Houses afore-mentioned
+**[Sir William Petty, *A Treatise on Taxes and Contributions* (1662)]**
+ 
+## Sir William Petty [1623-87]: gastos, impuestos y empleo (cont.)
+
+- Se explaya sobre diferentes tipos de impuestos $\longrightarrow$
+  está **en contra de aranceles a las $M$** excepto en casos que las
+  $M$ causen "muchos problemas locales"
+- Concibió una suerte de "impuesto de capitación" (*poll money tax*) 
+
+> I shall speak of Poll-money more distinctly, and first of the simple
+> Poll-money upon every head of all mankinde alike; the Parish paying
+> for those that receive alms, Parents for their children under age, and
+> Masters for their Apprentices, and others who receive no wages
+**[Sir William Petty, *A Treatise on Taxes and Contributions* (1662)]**
+ 
+## Sir William Petty [1623-87]: gastos, impuestos y empleo (cont.)
+
+- Y sigue sobre este tipo de imposición:
+
+> The evil of this way is, that it is very unequal; men of unequal
+> abilities, all paying alike, and those who whave greatest charges of
+> Children paying most; that is, that by how much the poorer they are,
+> by so much the harder they are taxed 
+**[Sir William Petty, *A Treatise on Taxes and Contributions* (1662)]**
+
+- Finalmente sobre impuestos, recomendó un **impuesto al consumo**
+  (aunque no un impuesto al gasto personal)
+ 
+## Sir William Petty [1623-87]: valor, renta y excedente
+
+> Suppose a man could with his own hands plant a certain scope of Land
+> with Corn, that is could Digg, or Plough, Harrow, Weed, Reap, Carry
+> home, Thresh, and Winnow so much as the Husbandry of this Landr
+> requires; and had withal Seed wherewith to sowe the same. I say, that
+> when this man hath subducted his seed out of the proceed of his
+> Harvest, and also, what himself hath both eaten and given to others in
+> exchange for Clothes, and other natural necessaries; that the
+> remainder of Corn is the natural and true Rent of the Land for that
+> year; and the *medium* of seven years, or rather of so many years as
+> makes up the Cycle, within which Dearths and Plenties make their
+> revolution, doth give the ordinary Rent of the Land in *Corn*
+**[Sir William Petty, *A Treatise on Taxes and Contributions* (1662)]**
+
+## Sir William Petty [1623-87]:valor, renta y excedente (cont.)
+
+> a ...collaterall question may be, how much English money this Corn
+> or Rent is worth? I answer, ... so much as the money, which another
+> single man can save, whithin the same time, over and above his
+> expence, if he employed himself wholly to produce and make it;
+> *viz*. Let another man go travel intro a Countrey where is Silver,
+> there Dig it, Refine it, bring it to the same place where the
+> other man planted his Corn; Coyne it, &c. the same person, all the
+> while of his working for Silver, gathering also food for his
+> necessary livelihood, and procuring himself covering, &c. I say,
+> the Silver of the one, must be esteemed of equal value with the
+> Corn of the other: the one being perhaps twenty Ounces and the
+> other twenty Bushels. From whence it follows, that the price of a
+> Bushel of this Corn to be an ounce of Silver
+**[Sir William Petty, *A Treatise on Taxes and Contributions* (1662)]**
+
+## Sir William Petty [1623-87]: valor, renta y excedente (cont.)
+
+- Y he ahí basicamente una **premonición de la teoría del valor
+  trabajo** --Marx le estimaba tanto que consideró a Petty "el padre
+  de la economía política Inglesa
+- Y también gran agudeza sobre el valor de metales y las cosas
+
+> The world measures things by gold and silver, but principally the latter
+**[Sir William Petty, *A Treatise on Taxes and Contributions* (1662)]**
+
+> ...is, that all things ought to be valued by two natural
+> Denominations, which is Land and Labour 
+**[Sir William Petty, *A Treatise on Taxes and Contributions* (1662)]**
+
+## Sir William Petty [1623-87]: valor, renta y excedente (cont.)
+
+> [W]e ought to say, a Ship or garment is worth such a measure of
+> Land, with such another measure of Labour; forasmuch as both Ships
+> and Garments were the creatures of Lands and Labours thereupon: This
+> being true, we should be glad to finde out a natural Par between
+> Land and Labour, so as we might express the value by either of them alone
+**[Sir William Petty, *A Treatise on Taxes and Contributions* (1662)]**
+
+- esta es la expresión más cabal de que estuvo increíblemente cerca
+  casi 100 años antes de dar una teoría del valor trabajo de las cosas
+  
+## Sir William Petty [1623-87]: capitalización y el problema del tiempo
+
+- También se interesó por el problema de la capitalización --tiempo,
+  interés y renta. Está basicamente preguntándose por los precios de
+  los factores
+
+> Having found the Rent or value of the *usus fructus per annum* [of
+> land], the question is, how many years purchase (as we usually say) is
+> the Fee simple naturally worth? 
+**[Sir William Petty, *A Treatise on Taxes and Contributions* (1662)]**
+
+- y argumenta que si no hubiera descuento de rentas futuras y la
+  productividad se mantuviera, entonces 
+
+## Sir William Petty [1623-87]: capitalización y el problema del tiempo (cont.)
+
+> then an Acre of Land would be equal in value to a thousand Acres of
+> the same Land; which is absurd, an infinity of unites being equal to
+> an infinity of thousands. Wherefore, we must pitch upon some limited
+> number, and that I apprehend to be the number of years, which I
+> conceive one man of fifty years old, another of twenty eight, and
+> another of seven years old, all being alive together may be thought
+> to live; that is to say, of a Grandfather, Father and Childe; ...for
+> if a man be a great Grandfather, he himself is so much the nearer
+> his end, so as there are but three in a continual line of descent
+> usually co-existing together; and as some are Grandfathers at forty
+> years, yet as many are not till above sixty. Wherefore I pitch the
+> number of years purchase, that any Land is naturally worth, to be
+> the ordinary extent of three such persons their lives
+**[Sir William Petty, *A Treatise on Taxes and Contributions* (1662)]**
+
+## Sir William Petty [1623-87]: capitalización y el problema del tiempo (cont.)
+
+- Este párrafo es un antecedente increíblemente lúcido en relación al
+  problema financiero y la capitalización
+  - Es común considerar el límite inferior de la tasa *real* de
+    interés en un 2% [Cassel (1903)]. Razón $\longrightarrow$ si cayera por debajo de
+    eso convendría liquidar el capital y hacerlo ingreso en vez de
+    convertir ingreso en capital
+- Ciertamente no parece probable que Cassel hubiera leído a Petty
+  salvo que Petty hubiera usado sus habilidades para la resurrección,
+  imposible ciertamente que Petty hubiera leído a Cassel!!!
+  
+## Sir William Petty [1623-87]: interés y usura
+
+- Directamente relativizó el problema de la usura --como problema
+  moral 
+  
+> As for Usury, the least that can be, is the Rent of so much Land as
+> the money lent will buy, where the security is undoubted; but where
+> the security is causal, then a kinde of ensurance must be
+> enterwoven with the simple natural Interest, which may advance the
+> Usury very conscionably unto any height below the Principal itself
+**[Sir William Petty, *A Treatise on Taxes and Contributions* (1662)]**
+
+## Sir William Petty [1623-87]: dinero
+
+- Entendía cómo funcionaba la demanda de dinero
+
+> Parallel unto this, is something which we omit concerning the price
+> of Land; for as great need of money heightens Exchange so doth great
+> need of Corn raise the price of that likewise, and consequently of
+> the Rent of the Land that bears Corn, and lastly of the Land it
+> self; as for example, if the Corn which feedeth *London*, or an
+> Army, be brought forty miles thither, then the Corn growing within a
+> mile of *London*, or the quarters of such Army, shall have added
+> unto its natural price, so much as the charge of bringing it thirty
+> nine miles doth amount unto
+**[Sir William Petty, *A Treatise on Taxes and Contributions* (1662)]**
+
+## Sir William Petty [1623-87]: dinero
+
+- Reconoció las 3 (tres) funciones del dinero: 1) patrón de valor, 2)
+  medio de cambio y 3) depósito de valor. Hizo una analogía muy
+  "médica" del dinero
+  
+> El dinero es como la grasa del cuerpo político, que si abunda en
+> demasía a menudo impide su agilidad y si es poca significa que está
+> enfermo. Ciertamente, así como la grasa lubrica el movimiento de los
+> músculos, satisface la necesidad de víveres, llena las cavidades
+> desiguales y embellece el cuerpo, así hace el dinero en el Estado,
+> acelerando su acción, suministrandose en el extranjero en época de
+> escasez en el interior, facilita las cuentas en razón de su
+> divisibilidad y embellece al conjunto, aunque especialmente más a
+> las personas que lo poseen en abundancia
+**[Hull *The Economic Writings of Sir William Petty* (1899)]**
+
+## Sir William Petty [1623-87]: dinero
+
+- A pesar de que observó correctamente que existía una relación entre
+  la cantidad de dinero y el nivel de actividad económica, no se
+  percató (o al menos no lo expresó) de la relación
+  entre la cantidad de dinero y el nivel de precios
+- Si reconoció el concepto de velocidad de circulación del dinero y lo
+  vinculó con la cantidad óptima de dinero
+- Consideró correctamente que las prohibiciones de exportar dinero (y
+  de importar mercancias) eran inútiles
+  
+  
+  
+  
+# Richard Cantillon [1680-1734] {background="#43464B"}
