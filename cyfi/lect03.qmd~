@@ -1,0 +1,171 @@
+---
+title: U2 (cont.) Modelo de factores específicos y distribución del ingreso 
+subtitle: Comercio y Finanzas Internacionales [UCC]
+author: |
+  | **Sebastián Freille**
+  | 0933217@ucc.edu.ar
+  | Licenciatura en Ciencia Política y Licenciatura en RRII
+  | FCPyRRII - UCC
+format:
+  revealjs:
+    slide-number: true
+    chalkboard:
+      buttons: false
+    preview-links: auto
+    css: ..\quarto.css
+    width: 1500
+    center-title-slide: true
+    center: true
+    tbl-cap-location: bottom
+    toc: true
+    toc-depth: 1
+    toc-title: Contenidos
+---
+
+# ¿Es cierto que todos ganan con el comercio? {background="#43464B"}
+
+## Ganancias del comercio y efectos distributivos
+
+- El modelo ricardiano muestra claramente que **bajo ciertos supuestos
+  existen ganancias globales del comercio**
+  - ¿Por qué entonces los países introducen aranceles y restringen el
+    comercio y por qué también existe evidencia de que esto es
+    particularmente así en años eleccionarios?
+- Distinción entre **efectos sobre el total** (agregados) y **efectos sobre
+  la distribución del total** (parciales)
+  - efectos distributivos son importantes
+    - llevan a restricciones parciales(¿totales?) del comercio
+	
+## Guerras comerciales y la política
+
+![](fig/fig-02-006.png){fig-align="center"}
+
+## ¿Todos los factores ganan con el comercio?
+
+- Modelo ricardiano $\longrightarrow$ un sólo factor
+  - especialización total, trabajadores dejan la industria
+    *relativamente ineficiente* por la industria *relativamente
+    eficiente*
+	- "*Todos los paises* ganan con el comercio y *todos los
+      individuos* también"
+- El comercio **no afecta la distribución del ingreso**
+  - Ilustración $\longrightarrow$ caso de política comercial
+    restrictiva de Japón sobre importaciones de arroz [o también: De Mendiguren/Karagozian (textiles)]
+
+## Razones para efectos distributivos
+
+- Existen básicamente dos razones por las que el comercio
+  internacional tiene efectos distributivos
+  1. Los recursos (factores) no pueden reasignarse inmediatamente y
+     sin costo alguno entre industrias --**efectos del comercio a corto plazo**
+  2. Las industrias difieren entre las proporciones de recursos
+     (factores) que demandan; si el comercio induce a cambiar la
+     proporción de bienes que se produce, también cambia la demanda de
+     factores--**efectos del comercio a largo plazo**
+	 
+## Política y reformas anti-comercio
+
+![](fig/fig-02-007.png){fig-align="center"}
+	
+# El modelo de factores específicos {background="#43464B"}
+
+## El modelo de factores específicos: Supuestos
+
+- El **modelo de factores específicos** fue desarrollado por Samuelson
+  y Jones
+- Una economía con 3 (dos) factores productivos, $L$, $K$ y $T$$
+- Sólo se producen 2 (dos) bienes: *manufacturas*, $M$ y *alimentos*,
+  $A$
+- Supuestos sobre movilidad de los factores:
+  - $L$ $\quad$ $\longrightarrow$ **movil entre sectores**
+  - $K$ y $T$ $\rightarrow$ **inmóvil entre sectores** --de ahí el
+    nombre de factores específicos
+
+## El modelo de factores específicos: Supuestos (cont.)
+
+- Las **manufacturas $M$ se producen usando $L$ y $K$** mientras que
+  los **alimentos $A$ se producen usando $L$ y $T$**
+- Habrá una **función de producción** para cada sector
+\begin{align}
+Q_{M}&=Q_{M}(K,L_{M}) \\
+Q_{A}&=Q_{A}(T,L_{A})
+\end{align}
+- Y debe cumplirse que:
+\begin{equation}
+L_{M}+L_{A}=L
+\end{equation}
+
+## El modelo de factores específicos: Sobre la "especificidad" de un factor
+
+> El que un factor se considere **específico de un sector**
+> no debe ser entendido como un atributo (característica) inherente y
+> absoluta sino más bien relativa y dependiendo del
+> contexto. Podríamos decir que dada una suficiente cantidad de
+> tiempo, todos los factores eventualmente son móviles [NOTA: Piense
+> en cuán facil es reasignar un torno usado en la producción de
+> automóviles en un tanque de cerámica usado en el proceso de
+> producción de vino]
+
+## El modelo de factores específicos: Posibilidades de producción
+
+::: {layout-ncol=2}
+![Producción](fig/fig-02-008.png){ width=475px height=375px }
+
+![Productividad marginal](fig/fig-02-009.png){ width=450px height=350px }
+
+Producción y producto marginal
+:::
+
+## El modelo de factores específicos: Posibilidades de producción
+
+- Es útil representar las **funciones de producción** de ambos bienes 
+  - De estas se derivan los conceptos de **producto marginal del
+    trabajo** y **rendimientos decrecientes**
+- Pendiente de la función de producción, $Q_{M}=Q_{M}(K,L_{M})$ es el
+  producto marginal del trabajo, $PM_{g}L_{M}$
+  - Note que $PM_{g}L_{M}$ se hace cada vez más chico a medida que se
+    agrega mas $L$ [¿por qué?]
+- Esto equivale a decir que el $PM_{g}L_{M}$ es **decreciente en el
+  nivel de producción**
+  
+## El modelo de factores específicos: La FPP
+
+![](fig/fig-02-010.png){fig-align="center"}
+
+## El modelo de factores específicos: La FPP (cont.)
+
+- La **FPP se muestra en el cuadrante 1**, los **cuadrantes 2 y 4
+  muestran las funciones de producción de manufacturas y alimentos**
+  respectivamente [NOTA: ambas figuras están "giradas"] y el
+  **cuadrante 3** muestra la asignación de $L$  entre sectores. 
+- Note que la línea del cuadrante 3 tiene un pendiente constante
+  (igual a $-1$) --el trabajo es (perfectamente) móvil entre ambos
+  sectores y una unidad de trabajo quitada a $M$ equivale a una unidad
+  de trabaja brindada a $A$
+  
+## El modelo de factores específicos: La FPP (cont.)
+
+- La FPP muestras las posibilidades de producción de la economía de
+  las dotaciones de $L$, $K$ y $T$
+  - ¿Nota la principal diferencia con el modelo ricardiano?
+    $\longrightarrow$ **FPP no es una línea recta**
+- En otras palabras, el **costo de oportunidad de manufacturas en
+  términos de alimentos no será constante**
+  - Diferncia crucial con modelo ricardiano $\longrightarrow$
+    rendimientos decrecientes del trabajo en cada sector
+	
+## El modelo de factores específicos: La FPP (cont.)
+
+> ¿Qué está sucediendo cuando se reasigna trabajo entre sectores?
+> Suponga que desplazamos 1 (una) persona-hora de $L$ de la producción
+> de $A$ a $M$, esa unidad de $L$ aumentará la producción de $M$ en
+> $PM_{g}L_{M}$ (o lo que es equivalente, para aumentar la producción
+> de $M$ en 1 debemos aumentar la cantidad de $L$ en $1/PM_{g}L_{M}$
+> horas. Al mismo tiempo, debemos reducir la producción de $A$ en
+> $PM_{g}L_{A}/PM_{g}L_{M}$ unidades. La pendiente de la FPP es el
+> costo de oportunidad de $M$ en términos de $A$ es igual a
+> $-\frac{PM_{g}L_{a}}{PM_{g}L_{M}}$. Y puede observarse porqué es
+> *cóncava*: a medida que reasignamos todo el trabajo desde $A$ a $M$
+> el $PM_{g}L_{M}$ *disminuye* y el $PM_{g}L_{A}$ *aumenta*
+
+
