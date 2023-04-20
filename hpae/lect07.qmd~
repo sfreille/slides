@@ -1,0 +1,322 @@
+---
+title: U4. La economía política. El pensamiento clásico. Malthus,
+Bentham y Stuart Mill
+subtitle: Historia del Pensamiento y del Análisis Económico
+author: |
+  | **Sebastián Freille**
+  | sfreille@unc.edu.ar
+  | Licenciatura en Economía
+  | FCE-UNC
+format:
+  revealjs:
+    slide-number: true
+    chalkboard:
+      buttons: false
+    preview-links: auto
+    css: ..\quarto.css
+    width: 1500
+    center-title-slide: true
+    center: true
+    tbl-cap-location: bottom	
+    toc: true
+    toc-depth: 1
+    toc-title: Contenidos
+    link-external-newwindow: true
+---
+
+# El corazón de la economía clásica {background="#43464B"}
+
+## El sistema ricardiano
+
+- Adam Smith no sólo estableció los fundamentos de la teoría clásica
+  del valor y la primera teoría sobre crecimiento económico, sino que
+  generó una curiosidad e interés inusitado por las cuestiones
+  económicas
+- David Ricardo, Thomas Malthus, James y John Stuart Mill, Jeremy
+  Bentham y Nassau Senior fueron figuras realmente importantes de la
+  escuela clásica inglesa que ciertamente vieron en la obra de Smith
+  un oasis de curiosidad intelectual
+  
+## David Ricardo [1772-1823]
+
+- Hijo de inmigrantes y agente de bolsa con una muy elemental
+  educación comercial que sin embargo consiguió reunir una buena
+  fortuna gracias a su sagacidad para las inversiones
+- Fue tal vez el primer economista que logró articular un **sistema
+  analítico general** del que derivaba **conclusiones fundamentales**
+  a partir de unos **pocos principios básicos**
+
+## David Ricardo [1772-1823] (cont.)
+
+- El sistema de David Ricardo era un **monumento al proceso de
+  razonamiento deductivo**. Consistía fundamentalmente en 3 (tres)
+  principios básicos
+  1. la teoría clásica de la renta
+  2. el principio de la población de Malthus
+  3. la doctrina del fondo de salarios
+
+## La doctrina clásica de la renta
+
+- La primera vez que se sugiere la existencia de rendimientos
+  decrecientes es en un tratado de James Anderson, padre e inventor
+  del arado escocés
+- Uno de los elementos centrales que permitió aflorar esta discusión
+  fue el papel preponderante de las denominadas *Leyes de Granos*
+  durante las guerras napoleónicas
+  - Napoleón trazó un embargo sobre puertos británicos --escasez de
+    grano extranjero requirió de aumento de producción de grano en UK
+- El costo de producción era más alto lo que siguió fue un fuerte
+  aumento del principal alimento $\longrightarrow$ un 18% anual en
+  promedio entre 1790 y 1810!
+  
+## La doctrina clásica de la renta (cont.)
+
+- Al mismo tiempo las *rentas de la tierra* aumentaron --esto generó
+  intereses para seguir promoviendo (lobby) la protección
+- Aquí es donde entran las *Leyes de Granos* de 1815 $\longrightarrow$
+  proteccionismo agrícola y los efectos sobre la distribución de la
+  renta y el crecimiento dieron paso al análisis económico sobre estas
+  cuestiones
+  
+## La doctrina clásica de la renta (cont.)
+
+- Ya Malthus se había anticipado a Ricardo en una intuición poderosa 
+
+> La causa del precio monetario comparativamente alto del grano es su
+>  precio real comparativamente costoso...y la razón por la que el
+>  precio real del grano es más alto...en la necesidad de recurrir a
+>  tierras cada vez más pobres...que exigen un gasto mayor para
+>  trabajarlas...Se sigue el precio del producto en todo país
+>  progresivo debe ser exactamente igual al coste de producción de la
+>  tierra de peor calidad...
+**[Thomas Malthus, *An Inquiry into the Nature and Progess of Rent* (1815)]**
+
+## La doctrina clásica de la renta (cont.)
+
+- Ricardo **definía la renta como "lo que se paga...por el uso de las
+  energías originarias e indestructibles del suelo"**
+  - la renta no existía en el margen y sólo aparece en las mejores
+    tierras cuando se activan las peores tierras
+- Identifica correctamente el **margen extensivo** (ampliación de
+  frontera agrícola a tierras nuevas)y **margen intensivo** (caída de
+  rendimientos de tierra de misma calidad)
+- Efecto de las *Leyes de Granos* forzar una agricultura más
+  intensiva y extensiva $\longrightarrow$ Ricardo demuestra que **existían rendimientos decrecientes
+  tanto en el margen intensivo --mayor cantidad de factores aplicada a
+  la *misma* tierra- como en el margen extensivo --misma cantidad de
+  factores aplicada a diferentes clases de tierra**
+  
+## La doctrina clásica de la renta (cont.)
+
+![Rendimientos de las tierras](fig/fig-04-005.png){#fig-precios}
+
+
+## La doctrina clásica de la renta (cont.)
+
+> $K$ y $L$ se combinan en proporciones fijas. Cada columna denota
+> calidad de tierras (fertilidad) en orden descendente. $PM$ es la
+> variación del producto total (primera columna) que resulta de la
+> adición de 1 (una)> unidad de $K$-$L$. Siendo la renta "la
+> diferencia entre entre el producto obtenido por el empleo de dos
+> cantidades iguales de capital y trabajo", entonces vemos como
+> aparece en el *margen intensivo* --10 al agregar la 2da unidad, 30
+> al agregar la 3ra unidad y así. También aparece en el *margen
+> extensivo* --si se usan tierras 1, 2 y 3 con sólo 1 (una) unidad e
+> $K$-$L$, la renta sería de 60 para tierra 1 y de 30 para
+> tierra 2. La tierra 3 no tiene renta
+
+## La doctrina clásica de la renta (cont.)
+
+- Esta teoría permite encontrar la asignación óptima de recursos entre
+  diferentes tierras si contamos con información de $P$ de bienes y
+  factores
+  - Si precio por bushel de grano es $1$ y precio de cada dosis de
+    $K$-$L$ es igual a 100, sólo habría producción en la tierra 1
+  - Si precio de cada dosis de $K$-$L$ es igual a 60, se pondrían en
+    producción todas las tierras, incluso la 5
+	-- note que se emplearían 5 (cinco) unidades de $K$-$L$ en la
+    tierra 1, 4 (cuatro) unidades de $K$-$L$ en la tierra 2 y así. 
+
+## La doctrina clásica de la renta (cont.)
+
+- Un comentario importantes es que Ricardo **suponía que la tierra no
+  tiene usos alternativos** --grano o "barbecho" que no tiene valor
+  (i.e. la manufactura no tiene uso valioso para la tierra)
+- Esto es entendible por cuanto la principal preocupación de Ricardo,
+  Malthus et al era el de determinar la distribución del producto
+  total entre renta, salario y beneficios. 
+
+## La teoría del valor trabajo
+
+- Ricardo y Malthus fueron dos de los grandes titanes de la escuela
+  clásica inglesa pero frecuentemente tuvieron opiniones contrarias
+  -- Tenían visiones opuestas sobre las *Leyes de Granos* --Malthus a
+  favor, Ricardo en contra
+  - Malthus $\longrightarrow$ la libre importación de granos, reduciría
+  precios de cereales (y de salarios) y causaría depresión 
+  - Ricardo $\longrightarrow$ las *Leyes de Grano* implicaban aumento
+  de salarios y disminución de beneficios, menos acumulación de $K$ y
+  menos crecimiento
+  
+## La teoría del valor trabajo (cont.)
+
+- Ricardo elabora una teoría del valor trabajo como **una teoría del
+  coste real** 
+- Ricardo quería entender cómo los cambios en las proporciones
+  relativas en la renta correspondientes a $K$, $L$ y $T$ afectaban
+  la acumulación de capital y el crecimiento 
+- Criticó algunos aspectos de la teoría del valor trabajo de Smith
+  --particularmente su visión de que un aumento en el precio del
+	  factor aumentaría el precio de bienes producidos por ese factor
+	  
+## La teoría del valor trabajo (cont.)
+
+- La relación entre valor y tiempod e trabajo empleado en la
+  producción era simple
+  
+> cualquier aumento de la cantidad de trabajo debe elevar el valor de
+> este bien sobre el que se ha aplicado, así como cualquier
+> disminución debe reducir su valor 
+**[David Ricardo, *Principios de Economía Política y Tributación* (1817)]**
+	  
+- Si bien orientó su TVT a conclusiones generales hizo ciertas
+  consideraciones
+  
+## La teoría del valor trabajo (cont.)
+
+- **Bienes no reproducibles** $\longrightarrow$ "existen ciertos
+  bienes cuyo valor está determinado tan sólo por su escasez. Ningún
+  trabajo puede aumentar la cantidad de dichos bienes y, por tanto, su
+  valor no puede ser reducido por una mayor oferta de los mismos"
+- **Capital como trabajo incorporado** $\longrightarrow$ Ricardo
+  distinguió famosamente entre **capital fijo** y **capital
+  circulante**
+  - Capital circulante $\longrightarrow$ "perece rápidamente y tiene
+    que ser reproducido con frecuencia"
+  - Capital fijo $\longrightarrow$ "se consume lentamente"
+    --i.e. depreciación
+
+## La teoría del valor trabajo (cont.)
+
+- Reconoció las dos maneras en que el capital afecta al valor de los
+  bienes
+  1. el capital utilizado en la producción constituye una adición al
+     valor del producto
+  2. el capital utilizado por *unidad de tiempo* tiene que ser
+     compensado 
+- Uno de los primeros y lúcidos reconocimientos del *valor del tiempo*
+  como un factor importante del valor
+- Queda claro que Ricardo basó el valor en los costes reales de $L$ y
+  $K$
+  - Diferencia con TVT de Smith $\longrightarrow$ excluía la renta de
+    los costes
+	
+## La teoría del valor trabajo (cont.)
+
+- Pero esencialmente sostenía que las **cantidades relativas de
+  trabajo** usadas en la producción son los principales determinantes
+  de los valores relativos
+  - no omitió considerar otros factores que influían per ose encargó
+    establecer los **supuestos sobre los que derivaba sus
+    conclusiones**
+- ¿Era una TVT sin deficiencias? La respuesta es no. No trataba
+  adecuadamente las diferencias cualitativas en el trabajo. 
+  - Además, excluir la renta de los costes sólo puede justificarse si
+    la $T$ no tiene usos alternativos 
+  - Limitaba el rol de la demanda a una clase especial de bienes (no
+    reproducibles) --¿qué pasa con costos de producción no constantes?
+	
+## El progreso económico y el estado estacionario
+
+- En Ricardo, la teoría del valor junto con la teoría de la renta
+  proporcionaba la clave para el problema de la distribución de la
+  renta
+- Relacionó el precio de mercado con los costes de producción de la
+  empresa marginal (aquella que no produce renta)
+- Ideó el concepto de la *empresa media* --la proporción de $K$ y $L$
+  son iguales a las de la media de la economía
+  - de este modo pudo a su manera resolver el problema de la
+    distribución de la renta y sus variaciones
+
+
+## El progreso económico y el estado estacionario (cont.)
+
+> El valor de cambio de todos los bienes, ya sean manufacturados,
+> extraídos de las minas u obtenidos de la tierra, está siempre
+> reguladono por la menor cantidad de mano de obra que bastaría para
+> producirlos, en circunstancias ampliamente favorables y de las
+> cuales disfrutan exclusivamente quienes poseen facilidades
+> peculiares de producción, sino por la mayor cantidad de trabajo
+> necesariamente gastada en su producción, por quienes no disponen de
+> dichas facilidades, por aquellos que siguen produciendo esos bienes
+> en las circunstancias más desfavorables
+**[David Ricardo, *Principios de Economía Política y Tributación* (1817)]**
+
+
+## El progreso económico y el estado estacionario (cont.)
+
+![Distribución de la renta](fig/fig-04-006.png){#fig-precios}	
+    
+## El progreso económico y el estado estacionario (cont.)
+
+- Suponga que 3 (tres) dosis de $L$ y $K$ producen 270 bushels de
+  cereal por año. Cada unidad de $L$ es un gasto de *capital
+  circulante* (i.e. fondo de salarios)y cada unidad de $K$ es un gasto
+  de *capital fijo* (i.e. depreciación)
+- El *beneficio total* es el ingreso total menos la suma de capital
+  fijo y circulante. Suponga $\longrightarrow$ precio de cereal ($1),
+  $w$ de $10 bushels de cereal, $10 por otras necesidades, y
+  depreciación de $10
+  - la nómina es $60, la depreciación es $30 y la ganancia total es de
+    $180, la renta es $0 (tierra 1)
+
+## El progreso económico y el estado estacionario (cont.)
+
+- Ahora el cultivo se extiende a la tierra 2 $\longrightarrow$ ahora 3
+  (tres) dosis de $K$ y $L$ producen sólo 240, el precio del grano
+  debe aumentar a 1.125 (para obtener el mismo valor de producto)
+  - este aumento del precio eleva salarios monetarios y rentas
+    agregadas y disminuye beneficios
+- La renta sólo aparece en la tierra 1 cuando se pone en producción la
+  tierra 2
+  - el crecimiento económico perjudica a los capitalistas/empresarios
+    a costa del terrateniente --¿y los trabajadores/agricultores?
+    Salario real no cambia
+
+## El progreso económico y el estado estacionario (cont.)
+
+![Disminución de los beneficios](fig/fig-04-007.png){#fig-precios}
+
+## El progreso económico y el estado estacionario (cont.)
+
+> **Nota.** Recuerde que para David Ricardo la renta se calcula como
+> el valor del producto inicial de la empresa menos el valor del
+> producto de la empresa marginal
+
+## El progreso económico y el estado estacionario (cont.)
+
+- Ricardo estimaba que las tasas salariales se mantendrían al nivel de
+  subsistencia a largo plazo (por teoría poblacional)
+  - pero salarios más altos temporales presionan sobre beneficios a
+    medida que aumenta producto y eventualmente se llega a un **estado
+    estacionario**
+- ¡El resultado lógico del crecimiento es el estancamiento!
+  - Claramente no hay lugar para el progreso técnico aquí y también
+    acepta como válido el principio de la población
+- Lo que importa, no obstante, es que es un sistema lógicamente
+  consistente que deriva esas conclusiones a partir de supuestos dados
+  y de lógica deductiva
+  
+## El progreso económico y el estado estacionario (cont.)
+
+> **El mecanismo.** La tasa media de salarios determinada por
+> proporción entre capital fijo y circulante (fondo de salarios) y la
+> población Mientras los beneficios son positivos, el *stock* de
+> $K$ aumenta y el aumento en la demanda de trabajo aumenta
+> *temporalmente* la tasa media de salarios. Pero cuando la tasa media
+> de salarios sube por encima de la subsistencia, entonces aumenta la
+> procreación y la población. Población mayor exige más alimentos (y
+> en condiciones de restricciones a la $M$) deben ponerse en uso
+> tierras menos fértiles. Empiezan a aumentar las rentas agregadas,
+> disminuyen los beneficios, y los salarios vuelven a subsitencia
+> --**estado estacionario**

@@ -1,0 +1,325 @@
+---
+title: U4. La economía política. El pensamiento clásico. Malthus, Bentham y Stuart Mill
+subtitle: Historia del Pensamiento y del Análisis Económico
+author: |
+  | **Sebastián Freille**
+  | sfreille@unc.edu.ar
+  | Licenciatura en Economía
+  | FCE-UNC
+format:
+  revealjs:
+    slide-number: true
+    chalkboard:
+      buttons: false
+    preview-links: auto
+    css: ..\quarto.css
+    width: 1500
+    center-title-slide: true
+    center: true
+    tbl-cap-location: bottom	
+    toc: true
+    toc-depth: 1
+    toc-title: Contenidos
+    link-external-newwindow: true
+---
+
+# Temas centrales de la economía clásica: utilidad, población y dinero {background="#43464B"}
+
+# El interés individual y el utilitarismo {background="#43464B"}
+
+## El interés individual y el utilitarismo
+
+- Adam Smith y David Ricardo son dos de los nombres más importantes en
+  la historia de la economía --y merecidamente! Pero la escuela
+  clásica no se agotó en ellos
+  - Sus contribuciones nutrieron a otros pensadores que se enfocaron
+    en ciertos temas relevantes sobre la base de las contribuciones de
+    ambos
+- Uno de estos temas surge a partir del rol que da Smith al interés
+  individual ("self-interest") y derivó en la doctrina del
+  utilitarismo 
+  - Jeremy Bentham (1748-1832) es conocido como el padre del
+    utilitarismo 
+	
+## Jeremy Bentham [1748-1832]
+
+- El deseo individual de mejorar su situación se materializa cuando
+  las personas persiguen los beneficios y evitan los costos
+  
+> La naturaleza ha puesto a la humanidad bajo el gobierno de dos amos
+> soberanos, el *dolor* y el *placer*. Sólo ellos señalan lo que tenemos
+> que hacer, asi como determinan lo que haremos...El *principio de
+> utilidad* reconoce esta sujeción...
+**[Jeremy Bentham, *Introducción a los Principios de la Moral y
+la Legislación* (1789)]**
+
+## Jeremy Bentham [1748-1832] (cont.)
+
+- Esta idea de que el "egoísmo" era la motivación más fuerte y
+  dominante en la actividad humana fue una constante en la filósofía
+  del siglo XIX --desde Hume a Smith y el resto de los clásicos
+- El **principio de utilidad** se entiende de 2 (dos) formas
+  - basado en la creencia en una *identidad natural* de intereses (Smith)
+  - basado en la creencia en una *identidad artificial* de intereses (Bentham)
+- Bentham negaba cualquier armonía natural de los "egoísmos"
+  - ejemplo $\longrightarrow$ delito
+- Para el pues, el interés individual debía identificarse con el
+  interés general a través de mediación directa
+  
+## Jeremy Bentham [1748-1832] (cont.)
+
+- El utilitarismo añade a la filosofía del hedonismo la condición
+  normativa de
+  que la conducta individual *debía* dirigirse hacia la maximización
+  de la felicidad general --en esta corriente se anotaron Chadwick,
+  Mill y JS Mill
+- Hacía poca (casi nula) distinción entre *moral* y *legislación*
+  - Su teoría de la moral giraba en torno del principio de utilidad
+  - Intento dotar de caracter científico a la teoría de la moral
+    $\longrightarrow$ de ahi su preocupación por la *medición de la
+    utilidad*
+
+## Jeremy Bentham [1748-1832] (cont.)
+
+> Por el principio de utilidad se entiende aquel principio que aprueba
+> o desaprueba toda acción según la tendencia que demuestre tener
+> para aumentar o disminuir la felicidad de la parte cuyo interés
+> está en juego...no sólo de cada una de las acciones de un
+> individuo privado, sino de toda acción de gobierno
+**[Jeremy Bentham, *Introducción a los Principios de la Moral y
+la Legislación* (1789)]**
+
+## Jeremy Bentham [1748-1832] (cont.)
+
+- Para Bentham el interés general de la comunidad se medía por la suma
+  (agregación) de intereses individuales --mismos pesos y ponderación
+  del rey y del pobre
+  - idea de **aritmética moral**
+- Si una acción individual (gubernamental) aumenta el bienestar
+  general más de lo que lo disminuye la felicidad de uno/unos
+  individuos entonces la acción (intervención) queda justificada
+- Consideró al dinero como medida del dolor y placer $\longrightarrow$
+  problema de utilidad decreciente del dinero; Bentham lo reconoció
+  pero no pudo avanzar
+  
+## El cálculo de la felicidad
+
+- Bentham ideó un sistema original de dar cientificidad al principio
+  de utilidad
+  - el **cálculo de la felicidad**
+- Las condiciones y dimensiones que debían considerarse para medir
+  placeres y dolores eran: 1) intensidad; 2) duración; 3) certeza
+  (incertidumbre); 4) proximidad (lejanía); 5) fecundad; 6) pureza; 7)
+  extensión)
+- Bentham reconocía que su detallado cálculo era impractible en tanto
+  se aplicara a todas las decisiones morales/legislativas pero si como
+  principio rector de fondo era importante tenerlo presente
+ 
+ 
+## El cálculo de la felicidad (cont.)
+
+![El cálculo de la felicidad](fig/fig-04-008.png){#fig-precios}
+
+## El cálculo de la felicidad (cont.)
+
+> **Comparaciones inter-personales de utilidad.**. Este es un problema
+> del que Bentham se percató pero no vio forma de solucionarlo. Es
+> arbitrario comparar individuos en base a su felicidad por los gustos
+> objetivos y rentas diferentes. Su teoría del bienestar es
+> eminentemente normativa. Otro problema es la ponderación de los
+> (diferentes tipos de) placeres --mente, cuerpo. También el problema
+> de la *falacia de la composición* --si algo es cierto en relación
+> con una parte, también lo es en relación con el todo. Su teoría es
+> además esencialmente *pasiva* --la gente se ve empujada por lo que
+> no existirían deficiencias morales o motivos malos. En suma,
+> utilitarismo filosofía demasiado estrecha para el complejo
+> comportamiento humano.
+
+## El cálculo de la felicidad (cont.)
+
+- Bentham no logró nunca descubrir la medida cuantitativa exacta de la
+  utilidad para hacer operativo su principio. Aun hoy es un problema
+  el tema de las comparaciones inter-personales
+- Pero tuvo influencia importante en James Mill y sobre todo en John
+  Stuart Mill que utilizó su marco para sus propuestas de reforma
+  social. Y también en Jevons que lo usó para crear su análisis
+  marginalista
+- Finalmente, fue importante en política económica ya que permitió
+  pensar problemas de diseño institucional y reformas que contemplaban
+  cambios en incentivos a partir de un
+  marco conceptual definido aunque no medido
+  
+# El principio de la población {background="#43464B"}
+
+## El principio de la población
+
+- Thomas Robert Malthus (1766-1834) fue el padre de la teoría de la
+  población que fue usada por muchos economistas clásicos como
+  trasfondo de sus teorías
+- Publicado en 1798 como anónimo, el *Ensayo sobre el Principio de la
+  Población..*, la obra rechaza el optimismo imperante sobre todo en
+  Francia acerca de la evolución de la población
+- Afirmó que la capacidad biológica del hombre para reproducirse,
+  cuando no se ve limitada, supera los medios físicos de subsistencia
+  e imposibilita la perfectibilidad de la sociedad humana
+  
+## El principio de la población (cont.)
+
+- Thomas Robert Malthus (1766-1834) fue el padre de la teoría de la
+  población que fue usada por muchos economistas clásicos como
+  trasfondo de sus teorías
+- Publicado en 1798 como anónimo, el *Ensayo sobre el Principio de la
+  Población..*, la obra rechaza el optimismo imperante sobre todo en
+  Francia acerca de la evolución de la población
+- Afirmó que la capacidad biológica del hombre para reproducirse,
+  cuando no se ve limitada, supera los medios físicos de subsistencia
+  e imposibilita la perfectibilidad de la sociedad humana  
+
+## El principio de la población (cont.)
+
+- Elaboró dos proposiciones principales
+  1. "La población cuando no se ve limitada, aumenta en progresión
+     geométrica, de tal modo que se dobla cada 25 años"
+  2. "En las circunstancias más favorables, los medios de subsistencia
+     (oferta de alimentos) posiblemente no pueden aumentar más que en
+     progresión aritmética"
+- Evidente discrepancia entre ambas tasas de crecimiento --poblacional
+  y medios de subsistencia
+- Planteaba cuestión teórica (identificación de frenos al crecimiento)
+  y cuestión práctica (soluciones del problema)
+  
+## El principio de la población (cont.)
+
+- Malthus clasificó a los frenos al crecimiento de la poblacion en
+  **frentos positivos** y **frenos preventivos**
+  1. Los frenos positivos eran como la enfermedad, las guerras, y
+     demás, aumentan la tasa de mortalidad
+  2. Los frenos preventivos como la anticoncepción y el aborto, disminuyen tasa de
+     natalidad
+- Su contribución radicaba en presentar estas dinamicas y frenos en el
+  marco de una teoría que giraba alrededor de las fuerzas actuaban
+  para moderar el número de personas
+  
+## El principio de la población (cont.)
+
+- Si bien su teoría es general, Malthus se inclinó (desafortunadamente) por un resultado
+  particular --inevitable una economía de subsistencia
+	  - no sólo esto ha resultado contrario a la evidencia sino que
+        además no se deriva de su estructura teórica
+- Su teoría podía explicar crecimiento, estancamiento o despoblación
+  - pero se centró en el hecho de que la tendencia a procrear
+    dominaria de hecho al efecto acumulativo de los frenos
+- ¿Es invalido el principio de la población? No porque su estructura
+  general puede considerar los otros casos; si la predicción fue
+  errónea
+
+## El principio de la población (cont.)
+
+- No concibió otros frenos y no separo entre sexo y procreación --
+- Más grave aún, su teoría desconoció o de minima subestimó el rol de
+  la tecnología agrícola en cuanto posibilidad de aumentar la oferta
+  de alimentos
+  - rasgo compartido con mayoría de autores clásicos 
+- Basicamente adhirió al principio de rendimientos decrecientes sin
+  más y sin distinguir entre corto y largo plazo (crecimiento)
+  
+# Primeros problemas monetarios {background="#43464B"}
+
+## Primeros problemas monetarios
+
+- Hasta la obra de Adam Smith, había esencialmente dos corrientes
+  en relacion a la teoría del dinero
+  - Una que afirmaba que el *dinero estimulaba el comercio* (Law,
+    Vanderlint y Berkeley) $\longrightarrow$ destacaba el efecto del
+    dinero sobre empleo y producción pero ignoraba efectos sobre
+    precios
+  - La otra era la *teoría cuantitativa del dinero* $\longrightarrow$
+    proponía relación directa entre dinero y precios (Locke, Cantillon
+    y Hume)
+	
+
+## Primeros problemas monetarios (cont.)
+
+- La teoría del dinero-estimula-el-comercio fue una primera
+  aproximación util basada principalmente en el motivo transacción
+  $\longrightarrow$ para determinado volumen de comercio se necesita
+  cantidad adecuada de dinero
+- Dinero determina el gasto agregado que a su vez determina niveles de
+  producción y empleo
+- Problemas:
+  - No consideraba impactos sobre $P$
+  - No consdieraba rol de las expectativas en toma de decisiones
+  
+
+## Primeros problemas monetarios (cont.)
+
+- La versión que más circuló y se usó de la TCD fue la de
+  Hume. Intentó conciliar la teoría dinero-estimula-el-comercio con la
+  TCD. Aparece por primera vez el concepto de "dinero neutral"
+- Los problemas de aumentos de precios de la epoca pusieron el foco en
+	una moneda estable para limitar incertidumbre y no interferir con
+	preferencias y elecciones
+- Existian dos controversias
+  1. dinero fuerte vs papel moneda
+  2. neutralidad vs no neutralidad 
+- Tema de neutralidad refiere a si cambios son a nivel absoluto o
+  precios relativos
+  
+## Primeros problemas monetarios (cont.)
+
+- Mayoría de autores [Cantillon, Hume] reconocieron *efectos sobre precios relativos* y
+  *efectos a corto y largo plazo* s/ variables reales 
+- El pensamiento clásico en materia de dinero contenido en *Bullion
+  Report* (1810)
+  - con la instauración de papel moneda, aumentaron los precios
+    (también el precio del metal)
+- El *Bullion Report* decía que la cantidad excesiva de billetes
+  influía en el valor de los mismos (y naturalmente en el precio de
+  los metales)
+
+## Primeros problemas monetarios (cont.)
+
+- El informe concluía que la única forma de reestablecer la confianza
+	en el valor de la moneda era la vuelta a la convertibilidad
+	$\longrightarrow$ Ricardo reafirmaba la TCD y proponia
+	convertibilidad
+- Sostenía que aumentos/disminuciones de precios venían dados por la
+  *cantidad de dinero* [Recordar que el dinero para Ricardo es un mero
+  regulador del valor --sin lugar para la demanda de dinero]
+  - La TCD pasó a ser entonces una teoría ricardiana del dinero
+    $\longrightarrow$ Ricardo preveía creación de un BC que podía
+    emitir solo contra oro
+	
+## Primeros problemas monetarios (cont.)
+
+- Un pensador Henry Thornton fue quien más brilló entre los teóricos
+  monetarios clasicos. Tuvo dos contribuciones muy importantes y
+  fundamentales
+  1. Tasa de interés natural y bancaria
+  2. Doctrina del ahorro forzoso
+- Decía que la *cantidad óptima de prestamos bancarios se determina
+  comparando la tasa de rendimiento sobre el capital(tasa natural) y
+  la tasa sobre los préstamos bancarios
+- Elaboró una teoría que puede resumirse en el grafico
+
+
+## Primeros problemas monetarios (cont.)
+
+![Tasa natural y tasa bancaria](fig/fig-04-009.png){#fig-precios}
+
+
+## Primeros problemas monetarios (cont.)
+
+- La intersección de las curvas $S$ e $I$ determina la tasa de interés
+  natural ($r$) que será igual a la tasa de préstamos ($i$) cuando
+  existe equilibrio monetario
+- Si aumenta OM, baja tasa de interes de prestamos, $i$ (no $r$) y hay
+  un exceso de demanda de préstamos $\longrightarrow$ aparece presión
+  inflacionaria, aumenta $i$ y aumenta P
+  - Se recupera la TCD $\longrightarrow$ cambios en la OM producen
+    cambios en $P$ sin cambios en $r$
+- Doctrina del ahorro forzoso $\longrightarrow$ un aumento en $M$
+  produce un aumento de $K$ y un aumento de $P$ siempre y cuando parte
+  de eso vaya al sector empresario
+
+
