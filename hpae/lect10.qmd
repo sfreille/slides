@@ -1,0 +1,279 @@
+---
+title: U5. La economía política. El pensamiento clásico II. Socialismo
+subtitle: Historia del Pensamiento y del Análisis Económico
+author: |
+  | **Sebastián Freille**
+  | sfreille@unc.edu.ar
+  | Licenciatura en Economía
+  | FCE-UNC
+format:
+  revealjs:
+    slide-number: true
+    chalkboard:
+      buttons: false
+    preview-links: auto
+    css: ..\quarto.css
+    width: 1500
+    center-title-slide: true
+    center: true
+    tbl-cap-location: bottom	
+    toc: true
+    toc-depth: 1
+    toc-title: Contenidos
+    link-external-newwindow: true
+---
+
+# El socialismo científico: Crítica integral de la economía clásica {background="#43464B"}
+
+## Transición al socialismo científico
+
+- Tal vez uno de los primeros y más directos antecedentes de Karl Marx
+	fue Simone de Sismondi --por sus ideas de conflictos de clases, la
+	división entre proletarios y capitalistas, fallos y fluctucaiones del capitalismo
+- Pero no fue hasta Karl Marx que el rejunte variopinto de ideas
+  socialistas de rigor analítico y conceptual diverso fue puesto en un
+  marco unificado de pensamiento económico, político y social
+- En efecto, Marx desarrolló sus ideas de modo contribuir  una
+  estructura teórica y un movimiento social que tendrían impacto en la
+  sociedad
+  
+# El socialismo científico de Karl Marx {background="#43464B"}
+
+## Karl Marx [1818-1883]: Vida y obra
+
+- Fue economista, filósofo y sociólogo. Tuvo una enorme influencia en
+  el desarrollo de generaciones de pensadores económicos y políticos y
+  sus ideas sirvieron de inspiración a miles de personas
+- Nació en Treveris (Prusia) y era hijo de padres judíos de clase
+  media convertidos al cristianismo
+- Se enroló en la Universidad de Bonn pero abandonó rápidamente --y
+  terminó en Universidad de Berlín donde cayó bajo la influencia de
+  Hegel y Feuerbach
+- No ingresó a la docencia universitaria y se convirtió en editor de
+  *Reinische Zeitung* 
+
+## Karl Marx [1818-1883]: Vida y obra (cont.)
+
+- Se mudó a Paris donde continuó escribiendo sobre temas filosóficos
+  pero fue ahí que empezó a estudiar y escribir sobre economía
+  sistemáticamente
+  - en 1844 escribe *Manuscritos económicos y filosóficos*
+- Fue denigrado en su país de origen y luego expulsado de Francia
+  --entre 1844 y 1848 y radicado en
+  Bruselas, tuvo un período de gran productividad
+  - *Tesis sobre Feuerbach* (1845)
+  - *La ideología alemana* (1846) 
+  - *La miseria de la filosofía* (1847) 
+  - *El Manifiesto Comunista* (1848)
+  - *Trabajo asalariado y capital* (1849)
+
+## Karl Marx [1818-1883]: Vida y obra (cont.)
+
+- Se mudó a Londres en 1849 donde pasaría el resto de su vida. A
+  partir de 1857, se produce otro fenomenal brote de productividad:
+  publica los *Grundrisse* (1857), la *Contribución a la crítica de la
+  economía política* (1859) y la *Historia crítica de la teoría de la
+  plusvalía* (1863).
+- En 1867 se publicó el primer tomo de su obra magna, *El Capital*
+  --dado que murió en 1883, los restantes dos tomos se publicaron
+  póstumamente, cortesía de su amigo Friedrich Engels
+
+## Karl Marx [1818-1883]: Vida y obra (cont.)
+
+- Fue ante todo un filósofo preocupado no sólo por interpretar y
+  analizar sino también por impulsar y promover los cambios que
+  consideraba deseables
+- A diferencia de los clásicos, abogó por una revolución fundamental
+  de la sociedad y la economía
+  - sin embargo, hay una falsa concepción de que Marx se explayó los
+    sistemas socialistas y comunistas
+- Marx dedicó su vida a **estudiar el capitalismo** --sus referencias
+  a los principios y características del socialismo y comunismo como
+  sistema se agotan en el **Manifiesto Comunista** de 1848
+  
+## Karl Marx [1818-1883]: Vida y obra (cont.)
+
+![Principios del comunismo moderno](fig/fig-05-002.png){#fig-precios}
+  
+## Karl Marx [1818-1883]: Vida y obra (cont.)
+
+- La teoría económica de Marx es una aplicación de su teoría de la
+  historia a la economía capitalista $\longrightarrow$ quería revelar
+  las leyes de la dinámica del capitalismo
+- Otros economistas centran su atención en la **estática**; Marx se
+  focalizó en la **dinámica**, en el cambio. 
+- Algunos distinguidos autores marxistas como Sweezy y Lange
+  sugirieron que la economía marxista ayuda a comprender las fuerzas
+  que subyacen al mercado y el análisis clásico convencional es util
+  para organizar y gestionar la economía socialista 
+  - para Lange, análisis económico marxista y ortodoxo no eran excluyentes sino complementarios
+- "Sólo es posible comprender la evolución apelando a la economía
+  marxista"
+  
+# El sistema marxiano: filosofía, historia y economía {background="#43464B"}
+
+## El sistema marxiano: un análisis amplio e integrador
+
+- En el centro del pensamiento de Marx se encuentra una **teoría de
+  los procesos históricos** basada en las fuerzas económicas y
+  materiales y que culmina en el cambio económico y social
+- Esto marca un contraste y un precedente tanto con autores clásicos y
+  con las reacciones críticas anteriores a Marx --su análisis fue
+  general, amplio e integrador de filosofía, historia y economía
+
+## El sistema marxiano: filosofía
+
+- Figura dominante en la filosofía alemana $\longrightarrow$ Georg
+  Hegel [1770-1831]
+  - influyó sobre los historicistas alemanes y sobre Marx
+- Marx quedó fascinado con la **teoría del progreso** de Hegel
+- El progreso para Hegel no es un proceso de continuidad suave sino
+  que resulta de fuerzas opuestas, más específicamente, cuando se
+  enfrentan
+- En la lucha, ambas fuerzas desaparecen y son reemplazadas por un
+  tercera 
+  - idea de *tesis*, *antitesis* y *sintesis*
+- La *síntesis* prevalece y así es como la historia avanza
+
+## El sistema marxiano: filosofía (cont.)
+
+- Adoptó la **diálectica hegeliana** pero la modificó a la luz de la
+  **doctrina del materialismo** de Feuerbach
+  - Decía que los seres humanos no eran solo una clase de seres sino
+    seres sensuales 
+- Para Feuerbach toda la historia es el proceso de preparación de los
+  humanos para que lleguen a ser objetos de una actividad "consciente"
+  más que "inconsciente"
+- Distinguía actividades inherentemente inconscientes --la
+  religión. Era una realista y para el la religión era *irreal* y por
+  tanto una forma de *auto-alienación*
+  - Marx utilizó esta nomenclatura para referirse al proceso de
+    conversión de productos de la actividad individual y social en
+    algo independiente de la misma 
+	
+
+## El sistema marxiano: filosofía (cont.)
+
+- Lo realmente interesante en la adopción de Marx era que extendió el
+  concepto de *alienación* a toda clase de actividad económica y
+  política
+  - el Estado, para Marx se origina y deriva su poder del hecho de que
+    los seres humanos no pueden/no quieren enfrentarse con los
+    problemas que enfrentan en la interacción económica y social a
+    diario
+- Eventualmente esta estructura llamada Estado aumenta su poder sobre
+  la vida de la gente sólo porque esta permite que lo haga. 
+  
+## El sistema marxiano: historia
+
+- Marx inserta el materialismo de Feuerbach en la dialectica de Hegel
+  y patenta su **materialismo dialéctico** para aplicarlo a su teoría
+  de la historia
+- El **primer motor de la historia** es la forma en que los individuos
+  se buscan la vida $\longrightarrow$ *satisfacción de necesidades
+  materiales*
+
+> El primer acto histórico es...la producción de los medios para
+> satisfacer estas necesidades, la producción de la propia vida material
+**[Karl Marx, *La ideología alemana*]**
+
+## El sistema marxiano: historia (cont.)
+
+- Pero la producción no es sólo un acto histórico sino un acto
+  económico $\longrightarrow$ la producción para Marx es la fuerza
+  central de las fuerzas mutuamente condicionantes (producción,
+  distribución, cambio, consumo)
+  - la economía para Marx es **la ciencia de la producción**
+- Afirmaba que los *métodos de producción* contribuían a formar la
+  propia naturaleza humana
+  
+## El sistema marxiano: historia (cont.)
+
+> El modo como los hombres producen sus medios de vida depende, ante
+> todo, de la naturaleza misma de los medios de vida con que cuentan,
+> y que tratan de reproducir. Este modo de producción no puede
+> considerarse únicamente en el sentido de ser la reproducción de la
+> existencia física de los individuos. Es ya más bien un modo
+> determinado de la actividad de estos individuos, de manifestar su
+> vida, un determinado *modo de vida* de los mismos. Los individuos
+> son tal y como manifiestan su vida. Lo que son los individuos
+> coincide, por tanto, con su producción, es decir, tanto con *lo que*
+> producen como con el modo *como* producen. Lo que los individuos son
+> depende, por tanto, de las condiciones materiales de producción
+**[Karl Marx, *La ideología alemana*]**
+
+## El sistema marxiano: historia (cont.)
+
+- Marx reconocía que el *desarrollo de las fuerzas productivas*
+  dependía de la mayor/menor división del trabajo --pero hasta ahí
+  llegaban los acuerdos
+  - Marx argumentó que había una conexión entre mayor división del
+    trabajo y mayor conflicto de intereses
+- Habla de las separaciones graduales: 1) entre trabajo
+  industrial/comercial y trabajo agrícola (ciudad vs campo); 2) entre
+  trabajo industrial y comercial; 3) entre trabajadores de cada
+  clase/tipo de trabajo
+- Conflicto entre intereses individuales e intereses comunitarios
+
+## El sistema marxiano: historia (cont.)
+
+- El Estado aparece independiente de este conflicto
+  --es un poder independiente divorciado de intereses individuales y
+  comunitarios
+- Su lógica sería asi: 
+  - Clases sociales por la división del trabajo promueven
+    aparición del estado
+  - Cada clase que ocupa el poder busca promover su propio interés
+  - La comunidad ve este interés de clase como ajeno y que no controla
+- La situación tensiona cuando se dan 2 (dos) condiciones
+  1. grandes masas de la humanidad es desposeída de la propiedad al
+     tiempo que existe un mundo de riquezas y culturas
+  2. el desarrollo de las fuerzas productivas es universal --debe
+     ocurrir en todos lados o la revolución y el comunismo serán
+     fenómenos locales
+   
+## El sistema marxiano: economía
+
+- Las **fuerzas productivas --dinámicas** para Marx son fruto de la división del
+  trabajo y son: tierra, trabajo, capital y tecnología. 
+- Cada una está en constante cambio (dinámica) tanto en *cantidad*
+  como en *calidad* $\longrightarrow$ esto es por cambios
+  demográficos, tecnológicos, educación y demás
+- Pero están sujetas a ciertas **relaciones de producción
+  --estáticas** $\longrightarrow$ son las que considera las reglas de
+  juego capitalista y son de dos tipos:
+  1. relaciones de propiedad
+  2. relaciones humanas
+
+## El sistema marxiano: economía (cont.)
+
+- Las **relaciones de propiedad** existen entre las personas y las
+  cosas mientras que las **relaciones humanas** existen entre las
+  personas
+  - La suma total de estas relaciones da pie a la **estructura
+    económica de la sociedad**
+    - A su vez, sobre esta, se superpone una **superestructura
+      política y legal**
+ 	  
+## El sistema marxiano: economía (cont.)	  
+
+![La "pirámide social" de Karl Marx](fig/fig-05-003.png){#fig-precios}
+
+## El sistema marxiano: economía (cont.)
+
+- Puede resumirse el esquema de la **teoría de la sociedad de Marx**
+  1. A medida que la división del trabajo se profundiza, el trabajo se
+     hace cada vez más fragmentado
+  2. Conflictos de intereses cada vez más agudos via institución de
+     propiedad privada --partición del capital acumulado entre
+     diferentes propietarios, $K$ y $L$
+  3. Las **fuerzas dinámicas de la producción** entran en conflicto
+     con las **relaciones estáticas de la producción** 
+  4. En el punto más álgido, se produce **la lucha de clases y la
+     revolución** 
+  5. Se invierte la **pirámide de la sociedad** 
+
+# Sus escritos y contribuciones económicas {background="#43464B"}
+
+# Las leyes del movimiento capitalista y el fin del capitalismo {background="#43464B"}
+
