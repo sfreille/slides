@@ -164,6 +164,20 @@ format:
 - Eventualmente esta estructura llamada Estado aumenta su poder sobre
   la vida de la gente sólo porque esta permite que lo haga. 
   
+## El sistema marxiano: filosofía (cont.)
+
+> **El materialismo histórico.** Para Marx había solo dos tipos de
+> filosofías: el idealismo (da primacía al espíritu sobre la materia)
+> y el materialismo (da primacía a la materia sobre el espíritu). La
+> alienación es la pérdida del ser y la esencia del hombre --por eso
+> el hombre debe liberarse. Lo único existente es la materia y por su
+> propia esencia es dinámica, en constante cambio. Y actúa de manera
+> dialéctica: tesis-antitesis-sintesis. El materialismo histórico es
+> pues la aplicación del materialismo dialéctico a los fenomenos
+> históricos y sociales. Pretende explicar la evolución de la sociedad
+> humana y del hombre como individuo mediante factores principalmente
+> materiales, y concretamente, factores económicos. 
+  
 ## El sistema marxiano: historia
 
 - Marx inserta el materialismo de Feuerbach en la dialectica de Hegel
@@ -275,5 +289,345 @@ format:
 
 # Sus escritos y contribuciones económicas {background="#43464B"}
 
+## Sistema de Marx y metodología
+
+- El sistema de Marx es, como dijimos, una mezcla de análisis
+  filosófico, sociológico-histórico y económico. 
+- Estando convencido de la inevitable caída del capitalismo aplicó su
+  teoría de la historia a la sociedad de su epoca buscando descubrir
+  las **contradicciones entre las fuerzas productivas y las relaciones
+  de producción** que llevarían a la lucha de clases
+- 
+
+## Sistema de Marx y metodología (cont.)
+
+> Para Marx, la estructura institucional de una sociedad son las
+> fuerzas de producción. Así con el *molino manual* la estructura
+> institucional adecuada es el feudalismo. Del mismo modo, con el
+> *molino a vapor* la estructura institucional adecuada es el
+> capitalismo. La *lógica del progreso tecnológico* crea las
+> condiciones y las fuerzas que permitan pasar del molino manual al
+> molino a vapor. Y cuando cambian las fuerzas, las antiguas
+> relaciones de producción deben dejar paso a formas institucionales
+> más adecuadas. 
+
+## Los primeros escritos económicos
+
+- En sus *Manuscritos...* el tema central es que la historia es la
+  saga de alienación que se produce en la vida de las personas, en
+  tanto que productores, y que el comunismo, al que se llega a través
+  de una revolución contra la propiedad privada, es la escapatoria a
+  esa alienación
+- En esos escritos sugiere la idea de que a pesar de que **el trabajo
+  es la fuente de toda riqueza, el trabajador sólo obtiene una
+  pequeña parte de esa riqueza**
+  - la parte del león de la riqueza va para el capitalista
+- Basicamente postula que el capitalista se enriquece inevitablemente
+  a costa del trabajador
+
+## Los primeros escritos económicos (cont.)
+
+- Argumente que existe una tendencia hacia la concentración
+  monopolística del capital en un númerco cada vez menor de personas
+  - esto aumenta los beneficios totales y aumenta la miseria de los
+    trabajadores
+- Tambien en estos escritos elabora una **razonada crítica metodológica
+  a la economía política**
+  - critica el hecho de que los economistas clásico no explicaban
+    ("comprendían") las **causas** subyacentes del capitalismo
+- Además crítica las **contradicciones sociales reales** que se
+  observaban $\longrightarrow$ *"el trabajador se va haciendo cada vez
+  más pobre cuanta más riqueza produce...se convierte en una mercancía
+  cada vez más barata cuantas más mercancías crea"*
+
+## Los primeros escritos económicos (cont.)
+
+![Crítica metodológica a la escuela clásica](fig/fig-05-004.png){#fig-precios}
+  
+
+## Los primeros escritos económicos (cont.)
+
+- Y sigue desarrollando esta idea cuando dice que los trabajadores se
+  enfrentan en el proceso con los objetos de *su* trabajo (bienes)
+  como con cosas exteriores a sí mismos, cosas sobre las que ya no
+  ejercen ningún control ni propiedad
+  - *cosas ajenas* se han convertido en independiente de su productor
+- Su crítica a la economía política era porque ocultaba la *alienación
+  inherente a la naturaleza del trabajo* por no considerar la relación
+  directa *entre el trabajador y la producción*
+  - esta idea es el sello distintivo de la economia marxiana
+  
+## Los primeros escritos económicos (cont.)
+
+- Otras contribuciones las hizo en el marco de sus *Grundrisse*
+  $\longrightarrow$ discute por ejemplo las características de los
+  sistemas pre-capitalistas y de las interrelaciones entre las partes
+  del capitalismo (producción, distribución, cambio)
+- Se opuso a una visión ahistórica de la producción (economía clásica)
+  --intentó vincular el proceso de producción con la etapa de
+  desarrollo de la sociedad
+- Claramente se enfrentó con Mill acá (recuerde su distinción entre
+  "leyes invariables" de la producción y "leyes variables" de la 
+  distribucion)
+  - para Marx toda forma de producción crea sus propias relaciones
+  legales y formas de gobierno ("instituciones") 
+  
+## La naturaleza del capitalismo y la TVT
+
+- En el ideario de Marx, debía demostrar
+  1. Como la mercancía de cambio en el mercado lleva a la lucha de
+     clases
+  2. Como el sistema de mercancías se "rompe" eventualmente por sus
+     contradicciones internas
+  3. Porqué el conflicto de clases en el capitalismo resultaría en la
+     toma del poder por parte de la clase explotada --a diferencia de
+     en todas las etapas anteriores
+- El capitalismo para Marx era un sistema económico en que las
+  personas vivían comprando y vendiendo mercancías
+  
+## La naturaleza del capitalismo y la TVT (cont.)
+
+- Casi toda esta sección se desprende de contribuciones escritas en
+  *El Capital*. Es aquí donde comienza a analizar la producción y
+  distribución de mercancías y para ello parte de las TVT de Smith y
+  Ricardo
+- Marx **identificó al trabajo como la esencia de todo valor**
+  $\longrightarrow$ el valor era una propiedad objetiva de todas las
+  mercancías 
+  - ni por asomo Marx daba crédito a fuentes subjetivas del valor
+    --era un materialista y sólo las relaciones materiales
+    determinaban el valor
+- Pero el **valor se determina *antes* del precio**
+
+## La naturaleza del capitalismo y la TVT (cont.)
+
+- Marx percibió y atacó la aparente contradicción entre las dos TVT de
+  los clásicos: 1) precio de mercado (CP) y 2) precio natural (LP) por
+  cuanto *observaba* que los precios de mercado fluctúan continuamente
+- Reconocía que *en condiciones de competencia, los precios no
+  fluctúan aleatoriamente sino que lo hacen en torno a un punto
+  definido* $\longrightarrow$ este punto es para Marx el verdadero
+  costo de producción, es decir, el costo del trabajo
+  -- en otras palabras, para Marx el valor venía determinado no por
+  las leyes del mercado sino por la producción
+
+## La naturaleza del capitalismo y la TVT (cont.)
+
+> Algunos "traductores" de Marx sugieren que el "resolvía" este contraste de
+> la siguiente forma. Los *precios de mercado* son estimaciones
+> *ideales* de las relaciones de intercambio entre $O$ y $D$. Y la
+> competencia exige que estas estimaciones ideales se conformen a la
+> realidad material del trabajo incurrido en la producción. El
+> materialismo de Marx *requiere que la causalidad sea de la relación
+> de intercambio objetiva a la valoración ideal*. En última instancia,
+> lo que realmente importaba era las relaciones de intercambio
+> objetivas
+
+## Salarios y capital
+
+- Marx enfrentó las mismas 2 (dos) preguntas que Ricardo:
+  1. ¿Cuál es el valor de cambio del trabajo? $\longrightarrow$ teoría
+  de los salarios 
+  2. ¿Cómo se determina el valor de los bienes producidos por la
+     maquinaria? $\longrightarrow$ teoría del capital
+- Marx descompuso el valor de la fuerza de trabajo en dos componentes
+  1. **Trabajo socialmente necesario** $\longrightarrow$ determina el
+     *valor de cambio* del trabajo en sí (salario)
+  2. **Plusvalía** $\longrightarrow$ es apropiada por el capitalista
+- En esto Marx fue claro $\longrightarrow$ "el capitalismo no podría
+  existir si el trabajador no produjese un valor mayor que el
+  requerido por su propia subsistencia"
+
+## Salarios y capital (cont.)
+
+- Aquí un famoso pasaje sobre la aparición de la **plusvalía**
+
+> Si fuera necesaria una jornada de trabajo para mantener vivo durante
+> una jornada de trabajo a un obrero, el capital no existiría, porque
+> la jornada de trabajo se intercambiaría por su propio producto, y de
+> esta suerte el capital como capital no se podría valorizar ni, por
+> consiguiente, conservar...Por el contrario, si, pongamos por caso,
+> sólo se necesita media jornada de trabajo para mantener vivo a un
+> obrero durante toda una jornada laboral, la plusvalía del producto
+> surge de por sí...
+**[Karl Marx, *Elementos fundamentales para la crítica de la economía política*]**
+
+## Salarios y capital (cont.)
+
+- Punto importante $\longrightarrow$  *plusvalía no surge en el
+  intercambio sino en la producción** 
+  - por esta razón Marx argumenta que la finalidad de la producción
+    en el sistema capitalista es extraer plusvalía del trabajador
+    [explotación del trabajo por el capital]
+- La plusvalía surge no porque el trabajador **reciba menos** de lo que
+  vale sino porque **produce más** de lo que vale
+  - dado que esta cantidad excedente es expropiada de manos del
+    trabajador, puede definirse a la plusvalía como la suma de renta,
+    interés y beneficio --es decir pagos que no van al factor trabajo
+- Marx consideraba que este principio era su contribución más
+  importante
+
+## Salarios y capital (cont.)
+
+> **Ilustración de cálculo de valor trabajo**. Marx añadía todo el trabajo
+> directo e indirecto usado. El **valor de un bien** que requería 10
+> horas de trabajo directo más materias primas cuya producción insumió
+> 12 horas de trabajo mas 1/1000 de la vida de una máquina cuya
+> producción insumió 5000 horas de trabajo sumaría en total unas 27
+> horas de trabajo, entre trabajo, insumos y depreciación del
+> $K$. ¿Cómo genera beneficio el capitalista si tiene que vender el
+> bien a su valor de 27? Sólo pagandole a al menos uno de los factores
+> a un precio *por debajo de su valor*. Dado que compra máquinas e
+> insumos de otros capitalistas, la ganancia debe venir de los
+> trabajajores
+
+## Salarios y capital (cont.)
+
+- ¿Y el valor del trabajo?
+
+> Para Marx, el trabajo era diferente. Si **el valor de un bien** es la
+> cantidad de trabajo que insumió producirlo, debemos preguntarnos
+> ¿cuál es el **valor del trabajo**? El valor del trabajo es la
+> cantidad de trabajo que insume producir la comida y subsistencia del
+> trabajador y su familia. Y desde que los humanos inventaron la
+> agricultura, el $L$ ha producido un excedente social --más de lo que
+> es necesario para su subsistencia. En el ejemplo, si el trabajador
+> consume bienes y servicios cuya producción insumió 6 horas, el valor
+> de su trabajo es el equivalente en dinero de esas 6 horas. Y eso es
+> precisamente lo que le paga el "perfecto capitalista". Lo que deja
+> al capitalista con un beneficio o *plusvalía*, del equivalente en
+> dinero a 4 horas de trabajo
+
+## Salarios y capital (cont.)
+
+- ¿Por qué el trabajador no podría simplemente trabajar por sí mismo y
+  quedarse con el equivalente a 10 hs. de trabajo que son necesarias para producir el bien?
+  - la respueta de Marx es porque el **valor de un bien** se basa en
+    lo que Marx llamó **trabajo socialmente necesario**
+- En otras palabras, si el trabajador pudiera producir el bien sin la
+  maquinaria avanzada y demas insumos, pero le requeriría 50 horas,
+  sólo lo podría vender por el equivalente a 27 horas de trabajo
+  - el capitalista puede apropiarse de la plusvalía y explotar al
+    trabajador por la simple razón de que es dueño de la maquinaria
+    que permite que el excedente social sea tan grande como es!
+
+## Salarios y capital (cont.)
+
+- Ricardo
+  1. trabajo como *medida* del valor
+  2. trabajo no única *causa* del valor
+- Marx 
+  1. trabajo como *medida* y *causa* (única) del valor
+  2. sólo trabajo (no las máquinas) puede producir *plusvalía*
+- ¿Valor de cambio de la maquinaria? $\longrightarrow$ la máquina es
+  vista como *trabajo cristalizado* y por tanto igual al costo del
+  trabajo que las produjo
+- Obviamente Marx ignoró la crítica (válida) de que esto negaba que
+  las máquinas fueran productivas per se y deben valorarse por encima
+  del costo de trabajo invertido en ellas
+
+## La gran contradicción
+
+- ¿Cómo concilia la TVT de Marx el hecho de que en competencia la tasa
+  de beneficios debía ser uniforme y que a su vez según su teoría
+  distintas relaciones $K/L$ entre industrias darían distintas tasas
+  de beneficios?
+  - esto era algo que empíricamente no se observaba --y si se
+    observaba diferentes relaciones $K/L$.
+- Lo que sucedía era que el precio de mercado de las mercancías
+  discrepaban frecuentemente de sus valores trabajo (para cumplir con
+  la tasa de beneficio uniforme)
+  - no puede ser cierto que el valor se determine sólo por los pagos
+    efectuados al $L$
+  
+## La gran contradicción (cont.)
+
+- La respuesta de Marx es que esto se debía a la teoría de la
+  competencia de los capitales --competencia entre empresas e
+  industrias llevaba a una tasa uniforme de beneficios 
+- Cuando esta tasa media se añade a los (diferentes) costos de
+  producció de las diferentes industrias, desaparecen las desviaciones
+  individuales de los precios de mercado respecto de los valores de
+  trabajo [desaparecen en sentido agregado, que se compensan]
+
+## La gran contradicción (cont.)
+
+![Nomenclatura y definiciones en Marx](fig/fig-05-005.png){#fig-precios}
+
+## La gran contradicción (cont.)
+
+- En función de estos conceptos, y en terminos modernos, diríamos que
+
+\begin{align}
+PNB&=c+v+s \\
+PNN&=v+s
+\end{align}
+
+- Su intento por resolver "la gran contradicción" dio lugar al famoso
+  **problema de la transformación** que es uno de los aspectos
+  técnicos más discutidos de la teoría de Marx
+  
+## La gran contradicción (cont.)
+
+- Supuestos:
+  1. Diferentes mercancías se producen con diferentes **composiciones
+     orgánicas del K (COK), $K/L$** y además utilizan capital constante en
+     diferentes proporciones en la producción	 
+  2. Tasa de plusvalía del 100%
+  3. Competencia tiende a igualar la tasa de beneficio entre
+     industrias a la **tasa media**, es decir, al ratio de plusvalía
+     agregada sobre inversión agregada
+- El estimaba que la COK dependía de relaciones técnicas entre fuerza
+  de trabajo y otros medios de producción
+
+## La gran contradicción (cont.)
+
+![El problema de la transformación](fig/fig-05-006.png){#fig-precios}
+
+## La gran contradicción (cont.)
+
+- Cinco mercancías cada una con diferente COK --$A$ usa 80 $c$ y 20
+$v$ --hacemos equivaler unidades con valores monetarios. Cada
+industria tiene una inversión total, $k$, igual a 100 y la inversión
+agregada igual a 500
+- Costo de cada mercancía es la suma del capital utilizado (columa 3)
+  y $v$ --está dado en la columna 4 [note que no hay factor tierra en
+  el ejemplo]
+- La plusvalía es dada en la columna 5 -y recuerde que era 100% de
+  $v$; lo importante es que la columna 6 revela el "verdadero valor de
+  costo" según la TVT de Marx (la suma de columna 4 y 5)
+  
+## La gran contradicción (cont.)
+
+- Según Marx, el verdadero coste de la mercancía se diferencia del
+  precio de venta en la cantidad media de ganancia --dada en
+  columna 7. 
+  - esta gcia. media es uniforme en todas las industrias y sale de
+    dividir plusvalía sobre inversión, es decir,
+    $\frac{s}{c+v}$ lo que queda $110/500=0.22$ en este ejemplo
+- La ganancia media (ya no como tasa sino aplicada a la
+  inversión) se suma al costo y determina simultáneamete el precio de
+  venta y las desviaciones respecto del valor trabajo
+  - *"Las desviaciones del precio se anulan mutuamente mediante una
+    distribución uniforme de la plusvalía o por el agregado de la
+    ganancia media de 22 por cada 100 de capital adelantado a los
+    respectivos precios de costo de las mercancias"*
+  
+## La gran contradicción (cont.)
+
+- Este fue el famoso problema de la **transformación de valores en
+  precios** apoya el arguemnto de Marx de que en el agregado el
+  trabajo es la verdadera fuente del valor
+- Esta elegante e ingeniosa salida demuestra con creces la brillante
+  capacidad analítica de Marx para tratar con razonamientos lógicos y
+  deductivos
+- Por muy ingenioso que sea el argumento, no obstante, esta solución
+  sigue negando que la maquinaria sea productiva
+  - a pesar de ello, y de que Marx no le dio tanta importancia al
+    problema de la transformación, fue retomado con pasión y ahínco
+    por los economistas neoclásicos mucho más que por los
+    neo-marxistas!
+	
+	
 # Las leyes del movimiento capitalista y el fin del capitalismo {background="#43464B"}
 
