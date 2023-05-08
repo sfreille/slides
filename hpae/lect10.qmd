@@ -631,3 +631,119 @@ agregada igual a 500
 	
 # Las leyes del movimiento capitalista y el fin del capitalismo {background="#43464B"}
 
+## La evolución del capitalismo
+
+- Una separación importante de Marx con la economía clásica fue el rol
+  que asignó a la **tecnología** --para él, era la fuerza motriz
+  principal de la dinámica social
+- Tanto Smith como Ricardo escribieron en una época en que no les
+  resultaba facil y/o evidente comprender e incorporar el progreso
+  tecnológico como parte de su teoría
+  - Marx en cambio le atribuyó un rol central
+- Escribió y desarrolló 5 (cinco) leyes --tendencias generales-
+  inherentes al capitalismo
+  - Según Marx cada una brota de la naturaleza dinámica de la economía
+    y surge a partir del conflicto entre *fuerzas productivas* y
+    *relaciones de producción*
+	
+## La ley de la acumulación y la tasa decreciente de ganancia
+
+- En el capitalismo todos los empresarios intentan obtener más
+  *plusvalía* para aumentar el beneficio y como esta proviene del trabajo
+  - sería esperable ver más *métodos intensivos en $L$* pero Marx
+    observó que lo contrario sucedía
+- Había una lógica $\longrightarrow$ la maquinaria abarata el precio
+  de la mercancía y reducir por tanto la parte de la jornada laboral
+  que el obrero necesita para sí por tanto aumentando el resto de la
+  jornada de trabajo --la que cede al capialista
+  - así el capitalista va sustituyendo $L$ por $K$ y los que primero
+    lo hagan venderán a un precio de mercado con costos mas bajos
+
+## La ley de la acumulación y la tasa decreciente de ganancia (cont.)
+
+- Pero si todos los capitalistas lo hacen entonces aumenta la
+  *composición orgánica del capital, $O$* por lo que disminuye la
+  plusvalía, $s$ y la tasa de ganancia, $p'$
+- También dio otra razón $\longrightarrow$ trabajadores presión por
+  tasas salariales más altas. Esto eleva los *costos de producción*
+  pero los precios determinados aún por *trabajo socialmente
+  necesario*
+- Como Marx no era malthusiano, veía que salario más altos podían ser
+  estables y permanentes
+  
+## La ley de la concentración creciente y de la centralización de la industria
+  
+- La ley anterior lleva a una *concentración cada vez mayor del $K$*
+  via sustitución de $L$ por $K$ y transform la industria
+  $\longrightarrow$ de pequeña a gran escala --más división del
+  trabajo y más producción
+- Creía en la aparición de **sobreproducción general** que terminaría
+  en una reducción de precios --sólo más eficientes sobrevivirían
+  - peces grandes "comen" a peces chicos y se refueza tendencia a
+    concentración
+
+## La ley del creciente ejército industrial de reserva
+
+- Para Marx, la dinámica que acompaña a la innovación tecnológica y la
+  sustitución de $L$ por $K$ hace inevitable el **desempleo**
+- Este desplazamiento de trabajadores da origen a un creciente
+  **ejército industrial de desempleados (reserva)**
+  - este desempleo es de 2 (dos) tipos
+    1. desempleo tecnológico (por sustitución de $L$ por $K$)
+	2. desempleo cíclico (por crisis de exceso de producción) 
+
+## La ley de la miseria creciente del proletariado
+
+- El crecimiento del *ejército industrial de reserva* se acompaña por
+  una **miseria creciente del proletariado** --a esto se suma que los
+  capitalistas intentan contrarrestar la tasa decreciente de ganancia
+  con un menor salario, mas horas de trabajo y peores condiciones
+- Marx veía inevitable la incorporación de mujeres y niños a la fuerza
+  de trabajo
+  - *"el trabajador se convierte en un comerciante de esclavos"*
+- Esto conduce a mayores tasas de mortalidad infantil y a la
+  degradación moral de mujeres y niños
+  
+## La ley de la miseria creciente del proletariado
+
+- La máquina se convierte para Marx en el instrumento más poderoso
+  para reducir el tiempo de trabajo para producir un bien
+  $\longrightarrow$ empresarios buscan reducir al máximo tiempo
+  ocioso de la máquina
+- Dificil contrastar esto con algunas evidencias empíricas --tal vez
+  su predicción más errónea
+
+## La ley de la miseria creciente del proletariado (cont.)
+
+![Nomenclatura y definiciones en Marx](fig/fig-05-007.png){#fig-precios}
+
+## La ley de la miseria creciente del proletariado (cont.)
+
+![Nomenclatura y definiciones en Marx](fig/fig-05-008.png){#fig-precios}
+
+## La ley de las crisis y depresiones
+
+- Explicó en forma moderna la **vinculación entre los ciclos económicos
+  (crisis) e inversión** $\longrightarrow$ notó que empresarios
+  invertían más cuando el salario era bajo y desempleo alto (y menos maquinaria)
+  - esto producía crisis periódicas 
+- Su teoría de las crisis era parte de su explicación general
+  $\longrightarrow$ debía demostrar que el capitalismo sufriría cada
+  vez más y más graves crisis
+- Tendencia a acumulación $\longrightarrow$ sobreproducción
+  $\longrightarrow$ mayor desempleo $\longrightarrow$ miseria
+  creciente
+  - eventualmente todo lleva al **exceso de producción del capital**
+
+## La ley de las crisis y depresiones (cont.)
+
+- La tasa media decreciente de ganancia señala la inminente crisis 
+- Gravedad de las crisis dada por la cantidad de personas que afectan;
+  cada vez mas y de mayor duración
+  - tendencia a la *depresión permanente* porque el ejercito
+    industrial de reserva aumentaría con cada crisis
+- La consecuencia lógica e inevitable de todo esto es **la revolución
+  social** a través de la cual el proletariado se alza, se libera de
+  sus cadenas y se apodera de los medios de producción
+  
+  
