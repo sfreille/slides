@@ -1,0 +1,329 @@
+---
+title: U5. La economía política. El pensamiento clásico II. Socialismo
+subtitle: Historia del Pensamiento y del Análisis Económico
+author: |
+  | **Sebastián Freille**
+  | sfreille@unc.edu.ar
+  | Licenciatura en Economía
+  | FCE-UNC
+format:
+  revealjs:
+    slide-number: true
+    chalkboard:
+      buttons: false
+    preview-links: auto
+    css: ..\quarto.css
+    width: 1500
+    center-title-slide: true
+    center: true
+    tbl-cap-location: bottom	
+    toc: true
+    toc-depth: 1
+    toc-title: Contenidos
+    link-external-newwindow: true
+---
+
+# El socialismo científico: Crítica integral de la economía clásica {background="#43464B"}
+
+## Valor de cambio y valor de uso
+
+- Marx excluía el valor de uso de la esfera de investigación de la
+  economía política --no se trata sobre una relación social ("entre
+  las gentes) sino de una relacion entre personas y cosas
+  - el valor de cambio si se trata de relaciones entre las gentes
+- Robbins argumenta que "el sistema económico como una serie de
+  relaciones interdependientes aunque conceptualmente discretas entre
+  hombres y bienes económicos"
+- 
+
+
+## Valor de cambio y valor de uso (cont.)
+
+- La relación cuantitativa entre cosas que llamamos valor de cambio
+  es, en realidad, sólo una forma exterior de la relación social entre
+  los propietarios de mercancisa --o lo que viene a ser igual en la
+  producción simple de mercancías- entre los productores mismos
+- El cambio de mercancías es un cambio de los productos del trabajo de
+  productores individuales
+- Distingue entre trabajo útil y trabajo abstracto ("trabajo en
+  general") --aquel que hace abstracción de toda diferencia en las
+  clases de trabajo cambiado
+  
+## Valor de cambio y valor de uso (cont.)
+
+- La relación cuantitativa entre cosas que llamamos valor de cambio
+  es, en realidad, sólo una forma exterior de la relación social entre
+  los propietarios de mercancisa --o lo que viene a ser igual en la
+  producción simple de mercancías- entre los productores mismos
+- El cambio de mercancías es un cambio de los productos del trabajo de
+  productores individuales
+- Distingue entre trabajo útil y trabajo abstracto ("trabajo en
+  general") --aquel que hace abstracción de toda diferencia en las
+  clases de trabajo cambiado
+  
+## Valor de cambio y valor de uso (cont.)
+
+![Trabajo abstracto según Marx](fig/fig-05-add-001.png){#fig-precios}
+
+## Valor de cambio y valor de uso (cont.)
+
+- La relación cuantitativa entre cosas que llamamos valor de cambio
+  es, en realidad, sólo una forma exterior de la relación social entre
+  los propietarios de mercancisa --o lo que viene a ser igual en la
+  producción simple de mercancías- entre los productores mismos
+- El cambio 
+
+
+## El capitalismo para Marx
+
+- Producción simple $\longrightarrow$ cada productor posee sus propios
+  medios de producción y trabaja con ellos
+- Producción capitalista $\longrightarrow$ un grupo posee los medios
+  de producción (propiedad) y otro grupo realiza el trabajo
+  (trabajadores)
+- Importante $\longrightarrow$ tanto **medios de producción** como
+  **trabajo** son mercancías
+  - ambos tienen **valor de cambio**
+- Para Marx es la **compra y venta de la fuerza de trabajo** lo que es
+  la diferencia específica del capitalismo
+  
+
+## El capitalismo para Marx (cont.)
+
+- Producción simple $\longrightarrow$ M-D-M --empieza con Mercancía
+  (trabajo), las convierte en Dinero (intercambio), y de ahí una vez
+  más en Mercancía
+- Producción capitalista $\longrightarrow$ D-M-D --se presenta el
+  capitalista con Dinero, compra Mercancias (fuerza de trabajo y
+  medios de producción) y vuelve al mercado para mas Dinero (producto
+  terminado)
+- Y como no tiene ningún sentido que la $D$ del final sea igual que la
+  $D$ del inicio entonces el circuito debe ser
+  $D-M-D'$ donde $D' > D$ 
+
+## El capitalismo para Marx (cont.)
+
+> El incremento del dinero medido por la diferencia entre $D'$ y $D$
+> es lo que Marx denomina plusvalía. Constituye el ingreso del
+> capitalista como tal y suministra "el fin directo y el incentivo
+> determinante de la producción"
+
+- Note que Marx plantea que el capitalista sólo tiene por qué
+  desembolsar dinero a cambio de fuerza de trabajo y medios de
+  producción si en esa forma puede adquirir más dinero en el proceso
+
+## El capitalismo para Marx (cont.)
+
+> La circulación simple de mercancías -vender para comprar- es un
+> medio de realizar un propósito no conectado con la circulación, a
+> saber, la apropiación de los valores de uso, la satisfacción de
+> necesidades. La circulación de dinero como capital es, por el
+> contrario, un fin en sí misma, puesto que la expansión del valor
+> sólo tiene lugar en el curso de este movimiento renovado sin
+> cesar. La circulación del capital, por tanto, no tiene límites...La
+> expansión del valor, que es la base objetiva o el resorte principal
+> de la circulación D-M-D, se convierte en su fin subjetivo...Los
+> valores de uso, por lo tanto, no deben considerarse nunca el fin
+> real del capitalista; ni tampoco la ganancia lograda en una sola
+> transacción. El proceso inacabable y sin descanso de la obtención de
+> ganancias es el solo fin que persigue.
+**[Mark, Karl, *El Capital*, Tomo I, pp. 169-170]**
+
+## El origen de la plusvalía
+
+- Dijimos antes que el trabajo (fuerza de trabajo) es una
+  **mercancía** --valor de cambio de la mercancía **fuerza de
+  trabajo**
+  - La **fuerza de trabajo** es el *trabajador mismo* en un sentido
+    estricto
+- Dado que la **fuerza de trabajo** es una mercancía, debe tener un
+  valor como cualquier otra $\longrightarrow$ ¿cómo se determina el
+  valor?
+  - el valor de la fuerza de trabajo se reduce al valor de una
+    cantidad más o menos precisa de mercancías ordinarias
+
+## El origen de la plusvalía (cont.)
+
+> El valor de la fuerza de trabajo se determina, como en el caso de
+> cualquier otra mercancía, por el tiempo de trabajo necesario para la
+> producción, y, en consecuencia, también para la reproducción de este
+> artículo especial...Dado el individuo, la producción de fuerza de
+> trabajo consiste en la reproducción de sí mismo o su manutención. Porc
+> consiguiente el tiempo de trabajo requerido para la producción de
+> fuerza de trabajo se reduce al necesario para la producción de los
+> medios de subsistencia; en otras palabras, el valor de la fuerza de
+> trabajo es el valor de los medios de subsistencia necesarios para el
+> mantenimiento del trabajador...Sus medios de susbistencia
+> deben...ser suficientes para mantenerlo en su estado normal como
+> individuo laborante....
+**[Mark, Karl, *El Capital*, Tomo I, pp. 189-190]**
+
+## El origen de la plusvalía (cont.)
+
+- ¿Cómo es posible que el capitalista a través del proceso de
+  comprar-producir-vender llegue con $D$ y se retire con $D'$
+  comprando y vendiendo siempre a los valores de equilibrio?
+  - en otras palabras, ¿cómo es posible que se *cree* valor
+    (plusvalía)?
+- Plusvalía no puede surgir del proceso de circulación de mercancías
+  $\longrightarrow$ supongamos que todos suben los precios 10%,
+  entonces lo que vendo a un 10% mas, lo termino pagando en forma de
+  insumos a un 10% mas --inflación
+- Plusvalía no puede surgir a partir de materiales y/o máquinas que
+  entran en el proceso productivo $\longrightarrow$ materiales y
+  máquinas *pasan* su valor al producto final pero *no aumentan* su
+  valor entre ambas puntas del proceso
+  
+## El origen de la plusvalía (cont.)
+
+- Plusvalía sólo puede surgir a partir de la fuerza de
+  trabajo. Vemamos
+  1. Capitalista compra la fuerza de trabajo por su valor --salario
+     igual al valor de los medios de subsistencia [i.e. suponga igual
+     a $6 horas$]
+  2. Luego de esas 6 horas el trabajador ha añadido ese equivalente al
+     valor de la mercancía (más las horas de trabajao contenidas en
+     materiales y maquinaria)
+  3. Si la jornada de trabajo fuera de 12 horas, durante las ultimas 6
+     horas el obrero continúa agregando valor pero es un valor *en
+     exceso del necesario para compensar sus medios de subsistencia* 
+- En resumen **es una plusvalía que el capitalista toma para si**
+
+## El origen de la plusvalía (cont.)
+
+> Todas las condiciones del problema se cumplen, en tanto que las
+> leyes que regulan el cambio de mercancías no han sido en ninguna
+> forma violadas. Pues el capitalista como comprador pagó por cada
+> mercancía, por el algodón, por el huso y por la fuerza de trabajo,
+> su valor completo. Vende su hilaza...en su valor exacto. Sin
+> embargo, retira...de la circulación más de lo que originalmente
+> lanzó a ella
+**[Mark, Karl, *El Capital*, Tomo I, pp. 217]**
+
+## El origen de la plusvalía (cont.)
+
+- Con el trabajo de 1 (un) día, el trabajador *produce más* que los
+  medios de susbsistencia de un día
+- La *jornada de trabajo* puede pues dividirse en 2 (dos)
+  1. trabajo necesario $\longrightarrow$ producto de este trabajo va
+     al trabajador como salario
+  2. trabajo excedente $\longrightarrow$ producto de este trabaja va
+     para el capitalista como *plusvalía*
+- El trabajo necesario y el trabajo excedente surgen en toda sociedad
+  que en que la productividad del trabajo humano se ha elevado por
+  encima de cierto mínimo muy bajo  -i.e. todas excepto las más
+  primitivas
+  
+## El origen de la plusvalía (cont.)
+
+> Lo específico del capitalismo no es *el hecho* de la explotación de
+> una parte de la población por otra, sino *la forma* que adopta esta
+> explotación, es decir, la *producción de plusvalía*
+
+
+## Los componentes del valor
+
+- El **valor de toda mercancía** producida en la economía capitalista
+  puede divirse en 3 (tres) partes
+  1. Valor de materiales y maquinaria usados $\longrightarrow$
+     **capital constante, $c$**
+  2. Valor de la fuerza de trabajo $\longrightarrow$ **capital
+     variable, $v$**
+  3. Excedente producido por la fuerza de trabajo $\longrightarrow$
+     **plusvalía, $p$**
+\begin{equation}
+c+v+p=valor \quad total
+\end{equation}
+
+## Los componentes del valor (cont.)
+
+- Un comentarios relevante
+  - Esta fórmula refleja en mayor o menor medida (aunque
+     simplificada) los balances de las empresas modernas --valor total
+     equivale a ventas brutas; $c$ es materiales/insumos mas
+     depreciacion; $v$ son sueldos y salarios; y $p$ ingreso
+     disponible para distribuir como intereses/dividendos/beneficio (o
+     reinvertir
+
+## Los componentes del valor (cont.)
+
+- Define la **tasa de plusvalía** como la proporción de plusvalía
+  respecto al capital variable
+\begin{equation}
+\frac{p}{v}=p'
+\end{equation}
+- Con el ejemplo anterior de jornada de 12 (doce) horas, la tasa de
+  plusvalía es igual a 100%
+- Puede ser expresada en horas de trabajo como en valores --sólo hace
+  falta valorizar monetariamente el producido de una hora de
+  trabajo.
+- La tasa de plusvalía depende de 3 factores: a) duración de jornada;
+  b) cantidad de mercancías que entran en el salario real; c) productividad
+  del trabajo
+  
+## Los componentes del valor (cont.)
+
+- La tasa de plusvalía aumenta:
+  - con un aumento en la duración de la jornada de trabajo
+  - con una disminución del salario real 
+  - con un aumento en la productividad del trabajo
+- Marx frecuentemente suponía que la tasa de plusvalía era igual en
+  todas las ramas de la industria y en todas las empresas hacia
+  adentro de cada industria
+  - decía que la movilidad del trabajo iba a eliminar diferencias
+    significativas de tasas de plusvalía
+	
+## Los componentes del valor (cont.)
+
+- También define la **composición orgánica del capital** como la
+proporción entre el capital constante y el capital total:
+\begin{equation}
+\frac{c}{c+v}=o
+\end{equation}
+- La **COK** no es otra cosa que una medida de la amplitud/extensión
+  en que el trabajo es provisto de maquinas e insumos en el proceso
+  productivo
+
+## Los componentes del valor (cont.)
+
+- Finalmente define la **tasa de ganancia** como la proporción de
+  plusvalía con respecto al desembolso total del capital:
+\begin{equation}
+\frac{p}{c+v}=g
+\end{equation}
+- Estrictamente esto muestra la tasa de ganancia (rentabilidad) sobre
+  el capital realmente empleado en la producción de una mercancía
+  - note aquí que capital realmente empleado (durante un año) no es lo
+    mismo que inversión total (durante un período más largo)
+
+## Los componentes del valor (cont.)
+
+- Recordando que $p'=\frac{p}{v}$, $o=\frac{c}{c+v}$ y
+  $g=\frac{p}{c+v}$ se sigue que:
+\begin{equation}
+g=p'(1-o)
+\end{equation}
+- Esto es, la **tasa de ganancia**, como la variable más importante a
+  mirar por el capitalista, depende en forma clave de las dos
+  variables más fundamental del análisis marxista, la *tasa de
+  plusvalía* y la *composición orgánica del capital*
+- También supuso que la tasa de ganancia era uniforme a nivel de
+  industria y de empresas --por movilidad tanto de $L$ como de $K$
+  [suponía técnicas iguales en todos lados]
+  
+## Los componentes del valor (cont.)
+
+> **El problema de la transformación.** Si la **tasa de plusvalía** y
+> la **tasa de ganancia** son iguales en todos lados, si el *cambio de
+> las mercancias* debe hacerse de acuerdo a la *ley del valor*,
+> entonces se sigue que la **COK debe ser igual en todos lados**. Si
+> el **valor de la mercancía A** se forma $10c+20v+20p=50$ y el
+> **valor de la mercancía B** se forma $30c+10v+10p=50$, en ambos
+> casos la tasa de plusvalía es la misma (100%) y ambos bienes
+> deberían cambiarse 1 a 1. Pero si ocurre esto, el capitalista de A
+> tendría una $g=66,66%$ y el capitalista de B una $g=25%$. Esto no
+> sería sostenible ni estable. Tampoco son iguales las COK. 
+
+- En los dos primeros volúmenes de El Capital ignoró diferencias en la
+  COK (no existían para el); en el tercer volumen "se retracta" y
+  ofrece como respuesta el problema de la transformación

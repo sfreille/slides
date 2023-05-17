@@ -1,0 +1,150 @@
+---
+title: U6. La escuela neoclásica. La revolución marginalista. La teoría de la utilidad marginal
+subtitle: Historia del Pensamiento y del Análisis Económico
+author: |
+  | **Sebastián Freille**
+  | sfreille@unc.edu.ar
+  | Licenciatura en Economía
+  | FCE-UNC
+format:
+  revealjs:
+    slide-number: true
+    chalkboard:
+      buttons: false
+    preview-links: auto
+    css: ..\quarto.css
+    width: 1500
+    center-title-slide: true
+    center: true
+    tbl-cap-location: bottom	
+    toc: true
+    toc-depth: 1
+    toc-title: Contenidos
+    link-external-newwindow: true
+---
+
+# Los comienzos del enfoque moderno {background="#43464B"}
+
+## El avance fuera de Inglaterra: cambio de foco
+
+- La teoría de la utilidad finalmente empezó a ganarse un lugar en la
+  economía aceptada y consensuada en los años 1870s de la mano del
+  tríptico de autores que desarrollaron (versiones similares de) la
+  teoría de manera independiente y descoordinada $\longrightarrow$
+  Jevons, Menger y Walras
+- Cada uno de ellos criticó el "canon ricardiano" de la
+  teoría del valor pero esto fue generalmente en segundo plano --cada
+  uno de ellos creía que la teoría de la utilidad marginal tenía
+  mérito suficiente para ser aceptada
+  
+## La crítica a Ricardo
+
+- Jevons identificó varias deficiencias en la teoría ricardiana
+  1. Ricardo requería una teoría especial para bienes con oferta fija
+     (estatuas, pinturas) --esto sugería que el costo del trabajo *no
+     era esencial* al valor
+  2. Altos costos de trabajo no darán alto valor a una mercancía si la
+     demanda futura es erroneamente estimada 
+  3. El trabajo es heterogéneo y los diferentes tipos de $L$ sólo
+     pueden ser comparados a través de los valores de sus productos
+- Además sugirió que la teoría del valor del costo de producción
+  encaja bien como un caso especial de la teoría de la utilidad
+  $\longrightarrow$ explica la cantidad relativa de mercancías que
+  será provista
+  
+  
+## La crítica a Ricardo (cont.)
+
+- Menger y Walras tomaron esencialmente la misma posición. Menger
+  particularmente añadió una crítica a la teoría de la renta
+  $\longrightarrow$ si el valor de la tierra no dependía de los costos
+  de trabajo, esto demostraba una falta de generalidad bastante seria
+  de la teoría clásica del valor (TCV) [misma crítica de Walras]
+- Ademas Walras enfatizó los efectos recíprocos de precios de bienes y
+  factores entre sí y negaba la existencia de bienes que cuya oferta
+  podía ser incrementada inifitamente
+- Quienes se encargaron de "hipear" la teoría de la utilidad marginal
+  y relativizar la "utilidad" de la TCV fueron dos discípulos que,
+  según Stigler, poco contribuyeron a la teoría de la utilidad
+  marginal: Wieser y Böhm-Bawerk
+  
+## La mensurabilidad de la utilidad
+
+- Los tres autores aceptaron la utilidad como un hecho de la
+  experiencia común congruente con cualquier introspección casual
+
+> The science of Economics, however, is in some degree peculiar, owing
+> to the fact...that its ultimate laws are known to us immediately by
+> intuition, or, at any rate, they are furnished to us ready made by
+> other mental or physical sciences. ...The theory here given may be
+> described as *the mechanics of utility and self-interest*. Oversights
+> may have been committed in tracing out its details, but in its main
+> features this theory must be the true one. Its method is as sure and
+> demonstrative as that of kinematics or statics, nay, almost as
+> self-evident as are the elements of Euclid...
+**[William Stanley Jevons, *Theory of Political Economy* (1911)]**
+
+## La mensurabilidad de la utilidad (cont.)
+
+- Menger fue tal vez el mayor militante y apologista de la
+  mensurabilidad de la utilidad
+  - representó la $UM$ a través de números y empleó el mecanismo de la
+    igualación de $UM$ en varios usos para determinar asignación de
+    una mercancía
+- Walras también supuso la existencia de una unidad de medida de la
+  utilidad y eventualmente hablaba en términos de la utilidad como un
+  magnitud absoluta
+- Pero Jevons fue más enérgico y confuso $\longrightarrow$ la
+  utilidad para él *no era mensurable*
+  - sin embargo, su rechazo fue mutando a escepticismo y eventualmente
+  sugirió un método ingenioso para "medir la utilidad"
+  
+## La mensurabilidad de la utilidad (cont.)
+
+> There is no unit of labour, or suffering, or enjoyment. I have
+> granted that we can hardly form the conception of a unit of pleasure
+> or pain, so that the numerical expression of quantities of feelings
+> seems to be out of question
+**[William Stanley Jevons, *Theory of Political Economy* (1911)]**
+
+## La mensurabilidad de la utilidad (cont.)
+
+- En la segunda edición del libro argumenta muestra más escepticismo
+  y borra varios pasajes críticos de la mensurabilidad
+- Luego dice que no le interesa medir "the whole pleasure gained"
+  sino más bien comparar placeres de cantidades incrementales de
+  tener mas de algo en relación al precio monetario pagado
+- Relaciona demanda con utilidad marginal a partir de la siguiente
+  formula:
+\begin{equation}
+MU_{r}p_{i}=MU_{i}
+\end{equation}
+- donde $MU_{r}$ es la utilidad marginal del ingreso
+
+## La mensurabilidad de la utilidad (cont.)
+
+> For the first approximation we may assume that the general utility
+> of a person's income is not affected by the changes of price of the
+> commodity...The method of determining the function of utility
+> explained above will hardly apply, however, to the main elements of
+> expenditure. The price of bread, for instance, cannot be properly
+> brought under the equation in question, because, when the price of
+> bread rises much, the resources of poor persons are strained, money
+> becomes scarcer with them, and [$MU_{r}$], the [marginal] utility of
+> money, rises
+**[William Stanley Jevons, *Theory of Political Economy* (1911)]**
+
+## La mensurabilidad de la utilidad (cont.)
+
+- A diferencia de Menger y Walras, Jevons consideró el **tema de las
+  comparaciones interpersonales de utilidad** y las consideró
+  expresamente imposibles (aunque el mismo no pudo no incurrir en
+  algunas comparaciones!)
+- Menger directamente evitó el problema mientras que Walras hizo
+  algunas referencias y comparaciones interpersonales de utilidad
+  incidentales
+- El tratamiento de la $UM$ de Jevons fue el más cercano al que luego
+  haría Marshall en sus *Principios*
+  
+## Maximización de la utilidad y la curva de demanda
+

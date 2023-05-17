@@ -1,0 +1,343 @@
+---
+title: U6. La escuela neoclásica. La revolución marginalista
+subtitle: Historia del Pensamiento y del Análisis Económico
+author: |
+  | **Sebastián Freille**
+  | sfreille@unc.edu.ar
+  | Licenciatura en Economía
+  | FCE-UNC
+format:
+  revealjs:
+    slide-number: true
+    chalkboard:
+      buttons: false
+    preview-links: auto
+    css: ..\quarto.css
+    width: 1500
+    center-title-slide: true
+    center: true
+    tbl-cap-location: bottom	
+    toc: true
+    toc-depth: 1
+    toc-title: Contenidos
+    link-external-newwindow: true
+---
+
+# La microeconomía en Francia {background="#43464B"}
+
+## El avance fuera de Inglaterra: cambio de foco
+
+- La escuela clásica inglesa fue la primera que, en su conjunto,
+  utilizó métodos formales y abstracción guiada por la lógica
+  deductiva para estudiar fenómenos económicos
+- Pero la difusión de las ideas clásicas pronto impactaría
+  positivamente sobre el surgimiento de análisis económico en el
+  continente, Francia y Austria fueron dos ejemplos de ello
+- Pero a diferencia de las preocupaciones de la escuela clásica
+  inglesa --la renta, el producto, la población y el crecimiento- el
+  foco del análisis estuvo en la microeconomía
+  - precios, cantidades, y estructuras de mercado
+  
+## La irrupción del análisis microeconómico
+
+- Se realizaron avances en temas de finanzas públicas y economía del
+  bienestar; sobre decisiones de localización y costos de transporte;
+- Además se sentaron las bases sobre las cuales se desarrollan las
+  teorías de discriminación de precios y de diferenciación del
+  producto
+- Y fundamentalmente se terminó de cerrar definitivamente el problema
+  del valor con la contribución fundamental de la teoría de la
+  utilidad de Jevons
+- Comencemos ahora con las contribuciones de los "ingenieros"
+  franceses que dieron un particular impulso a la introducción del
+  análisis microeconómico
+  
+## Antoine-Augstin Cournot [1801-1877]
+  
+- Una mente muy original, estudió matemática en la *Ecole
+  Normale* de París y su doctorado en la Universidad de Paris
+  y tuvo contacto fluido con físicos e ingenieros
+- Gracias a su amistad con Poisson (si, el de la distribución!) se
+  aseguró posiciones docentes y de gestión académica --
+- Su voraz apetito por la lectura científica le causaron una ceguera
+  progresiva que influyó sobre la calidad de su trabajo
+  - su principal contribución está en el libro *Recherches sur les
+    principes mathématiques de la théorie des richesses*
+- Murió casi en la más absoluta anonimidad en relación a su trabajo y
+  contribución --salvo Walras. 
+
+## Cournot [1801-1877]: Sobre el método
+
+- Valoró y abogó por el uso de las matemáticas como procedimiento
+  abreviado para expresar ideas complejas
+- Pero también decía que su principal uso no era para lograr cálculos
+  numéricos sino "para encontrar relaciones entre magnitudes, entre
+  funciones" --relativizaba el rol de lo empírico en el proceso de la ciencia
+- Cournot descubre "la ley de la demanda", $D=F(P)$ $\longrightarrow$
+  Cournot comprendió perfectamente el supuesto *ceteris paribus* 
+ 
+    
+## Cournot [1801-1877]: Sobre el método (cont.)
+
+![En defensa de las matemáticas](fig/fig-06-001.png){#fig-precios}
+  
+
+## Cournot [1801-1877]: Sobre el método (cont.)
+
+![El supuesto *ceteris paribus*](fig/fig-06-002.png){#fig-precios}
+  
+
+## Cournot [1801-1877]: Sobre el método (cont.)
+
+- Rechazó la utilidad como fundamento de su función de demanda, hace
+  una aproximación empírica a la misma $\longrightarrow$ "la venta, o
+  la demanda...crece en general cuando el precio desciende"
+- Su especificación teórica --$D$ continua y con pendiente negativa-
+  se deduce de la observación y de simplificaciones; pero la teoría se
+  eleva por encima de los hechos y puede usarse para hacer deducciones
+  y generalizaciones
+- Como puede notarse, Cournot fue muy lúcido en cuanto a formulación
+  de teorías y construcción de modelos
+  
+## Cournot [1801-1877]: los modelos microeconómicos
+
+- Usó estos metódos y teorías para crear **modelos de comportamiento de
+  la empresa**. Entre ellos, dos de sus modelos más importantes
+  fueron: 1) modelo del monopolio, 2) modelo del oligopolio
+- El primero es el **modelo del manantial de agua** y analiza
+  el problema de la maximización del beneficio del productor
+- El segundo es tal vez la más famosa de sus teorías, el famoso
+  **modelo de duopolio de Cournot** donde introdujo un vendedor
+  adicional a su modelo de monopolio
+  
+## Cournot [1801-1877]: el monopolio
+
+- El monopolista cobra un precio $p$ tal que el ingreso total $pF(p)$
+  sea máximo --cuando $CM=IM$. Si costos son nulos, el máximo es
+  cuando el $IM=0$
+- Recuerdo que $\Pi=TR-TC$ $\longrightarrow$ si $TC=0$ entonces
+  $\Pi=TR$ --el monopolista con costos nulos vende más $q$ que el
+  monopolista de costos positivos [$Q_{n}>Q_{c}$ 
+- Es decir, vende cuando maxizima sus ingresos brutos --que fue la
+  gran demostración de Cournot
+  - el caso de costos positivos revela el "principio marginalista"
+    $\longrightarrow$ $MC=MR$
+
+## Cournot [1801-1877]: el monopolio (cont.)
+
+![Monopolio: costos positivos y nulos](fig/fig-06-003.png){#fig-precios}
+
+## Cournot [1801-1877]: el duopolio
+
+- Consideró ahora dos vendedores $A$ y $B$ que conocen la curva de
+  demanda agregada de su producto
+- Cada uno de ellos supone que la decisión del otro en relación a
+  mantener/aumentar la $q$ es independiente de lo que haga uno
+- Supuso además que $A$ y $B$ (cada uno) podían suministrar *toda* el
+  agua demandada. Nuevamente supone que la producción no tiene costo
+- Su gran contribución original fue la (hoy) famosa **curva (función)
+  de reacción**
+  
+## Cournot [1801-1877]: el duopolio (cont.)
+
+![La función de reacción](fig/fig-06-004.png){#fig-precios}
+
+## Cournot [1801-1877]: el duopolio (cont.)
+
+> **Función de reacción.** Es una funcíon que representa los niveles
+> de producción $q_{A}$ que elige A para maximizar sus beneficios dada
+> la eleccion de producción $q_{B}$ que elige B. Es decir A tiene un
+> plan de producción para cada nivel de producción de B. Además A
+> piensa que la cantidad que fija B será permanente. ¿Cómo se
+> determina los niveles de $q_{A}$ y $q_{B}$? Juntando la función de
+> reacción de A y B. Si B decidiera producir $Ob_{0}$ y A
+> mantendrá su producción en $Oa_{0}$, entonces B maximizaría sus
+> beneficios. El punto importante es que B (y A) tienen incentivos a
+> aumentar la producción (suponiendo que el otro la mantiene). Este
+> supuesto como puede notarse es bastante cuestionable. 
+
+## Cournot [1801-1877]: el duopolio (cont.)
+
+![Funciones de reacción y determinación de $q$](fig/fig-06-005.png){#fig-precios}
+
+
+## Cournot [1801-1877]: el duopolio (cont.)
+
+- El punto $E$ representa el equilibrio y es estable --una posición a
+  la que regresan sin por alguna razón no estuvieran
+- En este punto, los duopolistas se reparten el beneficio y *cargan el
+  mismo precio* --más bajo que el que cargarían en monopolio pero más
+  alto que el de competencia
+- Fue muy preciso respecto de las relaciones entre cantidades vendidas
+  en monopolio, duopolio y competencia
+  
+## Cournot [1801-1877]: evaluación
+
+- Si bien su fama se debe al modelo de duopolio, nos dejó muchas otras
+  intuiciones
+- Sus modelos de monopolio y duopolio fueron sujeto de muchas críticas
+  --supuesto de inacción ante cambios en el precio del otro[Bertrand,
+  Edgeworth]. Incluso ante la evidencia repetida disponible
+- Aún así, este modelo dio pie a una muy fructífera linea de
+  investigación en economía en relación a la interdependencia
+  estrategica y la variación conjetural --i.e. supuesto de como
+  reacciona un vendedor a las acciones del otro
+  
+
+## Jules Dupuit [1804-1866]
+
+- Fue en paralelo a la figura de Cournot, el otro estandarte del
+  análisis microeconómico en Francia. Al igual que Cournot, concebía
+  la economía como una vocación y no como profesión
+- Estudió ingenieria en prestigiosos centros educativos --tuvo una
+  ilustre carrera como ingeniero sobre todo como gestor y director- y
+  se interesó por la economía 
+- Sus contribuciones a la economía no fueron de menor calibre aunque
+  la mayoría encontradas en revistas y no en libros
+  
+## Jules Dupuit [1804-1866]: sobre el método
+
+- Escribió casi en paralelo con Cournot pero sin conocerse ni leerse
+  -- su método guardaba relación con el de Cournot dado que para el la
+  economía política era una ciencia combinada entre razón y
+  observación
+- En efecto combinó 3 (tres) elementos:
+  1. temas de interes y relevancia economica
+  2. hechos relevantes observados y estadísticas
+  3. análisis matemático --lógica deductiva y análisis gráfico
+- Asi las teorías concebidas se contrastarían con nuevos datos y actualizarían
+
+## Jules Dupuit [1804-1866]: utilidad marginal y demanda
+
+- Fue el primer economista que presentó una discusión del concepto de
+  UM y lo relacionó con la curva de demanda (en 1844). 
+  - argumentó que la utilidad que un individuo obtiene de un *stock*
+    de bienes se determina por el uso a que se destinan las *últimas
+    unidades del stock*
+- Todo consumidor "atribuye una utilidad diferente al mismo objeto,
+  según la cantidad que consume"
+- Elaboró un ejemplo con el uso de cantidades crecientes de agua y lo
+  vinculó con las bajas en el precio
+
+## Jules Dupuit [1804-1866]: utilidad marginal y demanda
+
+> Si el precio se redujese en 20 francos, el individuo demandaría 4
+> hectolitros para poder limpiar su casa todos los días; si se la dan
+> a 10 francos, pedirá 10 hl., para poder regar su jardín; a 5 francos,
+> pedirá 20 hl. para instalarse una fuente; a 1 franco, pediría 100
+> hl. para disponer de una corriente continua y así sucesivamente. Es
+> la necesidad menos apremiante que se siente de una mercancía, no la
+> más apremiante, lo que define el valor de cambio de todo el stock de
+> bienes.  
+
+## Jules Dupuit 1804-1866]: utilidad marginal y demanda (cont.)
+
+![Cantidad y utilidad marginal (precio)](fig/fig-06-006.png){#fig-precios}
+
+## Jules Dupuit [1804-1866]: utilidad marginal y demanda
+
+- Partiendo de equilibrio del consumidor en punto $n$, si el $p$ del
+  agua baja a $p_2$, el individuo no está en equilibrio en el punto
+  $c$ al nuevo precio --la UM de la última unidad del *stock de que
+  dispone, $q_1$* es mayor que la UM del agua *representada por un
+  precio menor*
+- En otras palabras, lo que el *consumidor pagaría por una cantidad
+  $q_1$ de agua* es mayor que *el precio que debe pagar por esa
+  cantidad $q_1$* 
+  - la curva de UM es la curva de demanda de Dupuit!
+  
+## Jules Dupuit [1804-1866]: utilidad marginal y demanda
+
+> Si en una tabla de dos columnas se colocan en la primera todos los
+> precios, desde 0, al que le corresponde un mayor consumo, hasta el
+> precio al que ya no se consume nada; y en la segunda, en relación
+> con cada precio, se coloca la correspondiente cantidad consumida,
+> tendremos la representación exacta de lo que llamamos la ley del
+> consumo
+**[Jules Dupuit, *Dictionnaire de l'economie politique*]**
+
+## Jules Dupuit [1804-1866]: utilidad marginal y demanda
+
+![La curva de demanda](fig/fig-06-006.png){#fig-precios}
+
+## Jules Dupuit [1804-1866]: utilidad marginal y demanda
+
+- Expresaba la curva de demanda como $Q_d=f(p)$ y colocó la variable
+  independiente en el eje de las $x$ y la depediente en el eje de las
+  $y$ --quien rompió con esto fue Alfred Marshall porque el trató al
+  *precio como función de la cantidad*
+- Al vincular la curva de demanda con la teoría de la utilidad
+  básicamente funda la *economía del bienestar*
+- En su grafico distingue las areas delimitadas por el precio que
+  efectivamente pagan y la que está por encima del precio pagado le
+  llama "utilidad que queda a los consumidores"
+  
+## Jules Dupuit [1804-1866]: otras contribuciones
+
+- También realizó grandes contribuciones en las áreas de monopolio y
+  discriminación de precios $\longrightarrow$ estudia factores detrás
+  de formación de precios de monopolio [i.e. compañías ferroviarias]
+- Comparó los precios de alquileres versus tarifas ferroviarias --los
+  primeros no podrían mantenerse altos por mucho tiempo porque
+  operaría la movilidad de $K$ hacia la industria más rentable
+  --entrada y salida de empresas previene el monopolio a largo plazo
+- Pero no existía tal cosa como libre entrada en la industria
+  ferroviaria sujeta a ciertas caraterísticas especiales: 1)
+  escala/costos, 2) 
+  
+  
+## Jules Dupuit [1804-1866]: otras contribuciones (cont.)
+
+- Exploró el comportamiento del monopolista --regla de maximización
+  del beneficio --el rendimiento/beneficio bruto en caso de costos
+  cero y el rendimiento/beneficio neto en caso de costos (variables) positivos
+- Pero su teoría la realizó en terminos del beneficio neto 
+- También destacó otro elemento que tomaría Marshall $\longrightarrow$
+  relacionó el ingreso del monopolista con el excedente del consumidor 
+- Finalmente la discriminación de precios posibilitaría
+  aumentar/disminuir via políticas de discriminación de precios
+  
+## Jules Dupuit [1804-1866]: otras contribuciones (cont.)
+
+![Monopolio con discriminación](fig/fig-06-007.png){#fig-precios}
+
+## Jules Dupuit [1804-1866]: otras contribuciones (cont.)
+
+- Si $OM$ es el precio que maximiza el beneficio, $OMTR$ es el ingreso
+  del monopolista, $TMP$ el excedente de los consumidores, y $RTN$ la
+  utilidad perdida. 
+- Ahora si el monopolista *aumenta* cantidad hasta $Or$ y la *utilidad
+  total* --suma de excedente de consumidores y el ingreso del
+  monopolista- sería igual a $OPnr$ que es mayor que $OPTr$ (por
+  $RTnr$)
+- El beneficio del monopolista aumenta --en $Mp'n'q'$+$Rqnr$; la
+  utilidad total no cambia pero se distribuye hacia adentro (ganan
+  $O$, pierden $D$)
+  
+## Jules Dupuit [1804-1866]: otras contribuciones (cont.)
+
+- Finalmente, realizó contribuciones en el **análisis
+  beneficio-costo** munido de su descubrimiento de la curva de $UM$
+- La regla general era que el gobierno debía proveer los bienes si tal
+  que el costo anual pudiera cubrirse dejando alguna "utilidad neta"
+  --es decir, si $IM=CM$
+- Distinguió entre un monopolio privado (discriminación total) y uno gestionado por el
+  gobierno (discriminación restringida) $\longrightarrow$ es decir
+  podría decidir maximizar el excedente de los consumidores
+  - esto no sería posible con un monopolista privado
+- En esto hubo un tímido interés por el tema de la distribución de la
+  renta
+  
+  
+## Resumen de las contribuciones
+
+- Fueron ingenieros y economistas franceses quienes primero se acercan
+  a formalizar la **teoría de la empresa** $\longrightarrow$ análisis
+  de maximización del producto y beneficio (Cournot) en diferentes
+  estructuras junto a las teorías de la utilidad y bienestar (Dupuit)
+- Recordatorio que muchas veces ideas novedosas fueron "pasadas por
+  alto" por la corriente principal --note las fechas en que
+  escribieron
+- Nota de caución en relación a la sobreespecialización disciplinar y
+  la importancia de abrir la investigación disciplinar no sólo a otras
+  metodologías, disciplinas y enfoques
