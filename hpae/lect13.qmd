@@ -1,0 +1,106 @@
+---
+title: U6. La escuela neoclásica. La microeconomía en Austria y en Inglaterra.
+subtitle: Historia del Pensamiento y del Análisis Económico
+author: |
+  | **Sebastián Freille**
+  | sfreille@unc.edu.ar
+  | Licenciatura en Economía
+  | FCE-UNC
+format:
+  revealjs:
+    slide-number: true
+    chalkboard:
+      buttons: false
+    preview-links: auto
+    css: ..\quarto.css
+    width: 1500
+    center-title-slide: true
+    center: true
+    tbl-cap-location: bottom	
+    toc: true
+    toc-depth: 1
+    toc-title: Contenidos
+    link-external-newwindow: true
+---
+
+# La escuela de Viena {background="#43464B"}
+
+## De Alemania a Austría: raíces del análisis marginalista
+
+- Cuando se habla de ela escuela de Viena, hay 3 nombres principales
+  que vienen a la mente: Carl Menger, Friedrich Wieser y Eugene
+  Böhm-Bawerk
+  - entre ellos instalaron una aproximación sistemática y científica
+    al análisis económico
+- En paralelo pero influenció e influenciada por la corriente
+  principal (escuela neoclásica inglesa)
+  - toda una tradición de autores famosos se han formado en esa
+    tradición [Schumpeter, von Mises, Hayek, Machlup, Haberler y
+    Morgernstern]
+	
+## Precursores de la escuela de Viena
+
+- Algunos autores alemanes y austríacos presagiaron lo que estaba por venir,
+  aunque tuvieron contribuciones acotadas y aisladas. Ellos fueron:
+  - von Thünen (1783-1850) $\longrightarrow$ influyó en Marshall a
+    través del principio equimarginal. Pionero de la teoría económica
+    de la localización espacial --a diferencia de Ricardo priorizó
+    diferencias de localización y no de productividad
+  - Gossen (1810-1858) $\longrightarrow$ buscó matematizra el cálculo
+    hedonístico de Bentham y tuvo influencia en Jevons ya que fue el
+    primero que formuló el principio fundamental de la teoría de la utilidad
+    marginal
+  - von Mangoldt (1824-1868) $\longrightarrow$ un teórico liberal que
+    estudio con Roscher (EHA) y estudió dos temas centrales: 1) teoría
+    del beneficio y papel del empresario; 2) teoría subjetiva del valor
+  
+## Precursores de la escuela de Viena (cont.)
+
+> A person maximizes his utility when he distributes his available
+> money among the various goods so that he obtains the same amount of
+> satisfaction from the last unit of money (*Geld-atom*) spent upon
+> each commodity
+**[Heinrich Gossen, *Entwickelung der Gesetze des menschlichen>> Verkhers* (1927)]**
+
+- En otras palabras,
+\begin{equation}
+\frac{MU_{1}}{p_{1}}=\frac{MU_{2}}{p_{2}}=\frac{MU_{3}}{p_{3}}=...
+\end{equation}
+
+
+## Carl Menger [1840-1921]: el líder
+
+- Menger no fue influido mucho por estos precursores sino que sus
+  principales influencias fueron de la escuela historicista
+- Estudio derecho en las universidades de Praga y Viena y luego viró
+  hacia la economía; obtuvo una cátedra en Viena 
+- Fue el líder de una verdadera revolución teórica $\longrightarrow$
+  además de un fenomenal polemista verbal (su blanco predilecto fue el
+  historicismo aleman)
+  
+## Carl Menger [1840-1921]: la *methodenstreit*
+
+- La *methodenstreit* o "batalla de los métodos" fue una famos disputa
+  entre Menger y Schmoller $\longrightarrow$ Menger defendía la
+  naturaleza atomística y subjetiva de la economía
+  - las ideas colectivas y agregadas no podían tener una
+    fundamentación adecuada
+- Schmoller en cambio defendía el método histórico $\longrightarrow$
+  única forma de considerar instituciones dinámicas
+  - criticaba el foco en comportamiento individual bajo fuertes
+    restricciones
+- Eventualmente la disputa se zanjó para el lado austríaco y parte de
+  la razón fueron los *Principios* de Menger
+  
+## Carl Menger [1840-1921]: el *hommo economicus*
+
+# William Stanley Jevons: uno de los padres fundadores  {background="#43464B"}
+
+
+
+
+
+
+
+ 
+ 

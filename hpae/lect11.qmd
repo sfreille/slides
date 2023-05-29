@@ -1,5 +1,5 @@
 ---
-title: U6. La escuela neoclásica. La revolución marginalista
+title: U6. La escuela neoclásica. La revolución marginalista. La microeconomia en Francia.
 subtitle: Historia del Pensamiento y del Análisis Económico
 author: |
   | **Sebastián Freille**
@@ -23,9 +23,9 @@ format:
     link-external-newwindow: true
 ---
 
-# La microeconomía en Francia {background="#43464B"}
+# El avance fuera de Inglaterra {background="#43464B"}
 
-## El avance fuera de Inglaterra: cambio de foco
+## Cambio de foco y variantes continentales
 
 - La escuela clásica inglesa fue la primera que, en su conjunto,
   utilizó métodos formales y abstracción guiada por la lógica
@@ -52,8 +52,10 @@ format:
   franceses que dieron un particular impulso a la introducción del
   análisis microeconómico
   
-## Antoine-Augstin Cournot [1801-1877]
+# Antoine-Agustin Cournot [1801-1877] {background="#43464B"}
   
+## Cournot [1801-1877]: Vida
+
 - Una mente muy original, estudió matemática en la *Ecole
   Normale* de París y su doctorado en la Universidad de Paris
   y tuvo contacto fluido con físicos e ingenieros
@@ -76,7 +78,6 @@ format:
 - Cournot descubre "la ley de la demanda", $D=F(P)$ $\longrightarrow$
   Cournot comprendió perfectamente el supuesto *ceteris paribus* 
  
-    
 ## Cournot [1801-1877]: Sobre el método (cont.)
 
 ![En defensa de las matemáticas](fig/fig-06-001.png){#fig-precios}
@@ -184,7 +185,9 @@ format:
   reacciona un vendedor a las acciones del otro
   
 
-## Jules Dupuit [1804-1866]
+# Jules Dupuit [1804-1866] {background="#43464B"}
+
+# Jules Dupuit [1804-1866]: vida
 
 - Fue en paralelo a la figura de Cournot, el otro estandarte del
   análisis microeconómico en Francia. Al igual que Cournot, concebía
