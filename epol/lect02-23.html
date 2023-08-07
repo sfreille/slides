@@ -1,0 +1,1732 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<script src="lect02-23_files/libs/clipboard/clipboard.min.js"></script>
+<script src="lect02-23_files/libs/quarto-html/tabby.min.js"></script>
+<script src="lect02-23_files/libs/quarto-html/popper.min.js"></script>
+<script src="lect02-23_files/libs/quarto-html/tippy.umd.min.js"></script>
+<link href="lect02-23_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="lect02-23_files/libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
+<link href="lect02-23_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.2.335">
+
+  <title>Economía Política</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="lect02-23_files/libs/revealjs/dist/reset.css">
+  <link rel="stylesheet" href="lect02-23_files/libs/revealjs/dist/reveal.css">
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+  </style>
+  <link rel="stylesheet" href="lect02-23_files/libs/revealjs/dist/theme/quarto.css" id="theme">
+  <link rel="stylesheet" href="..\quarto.css">
+  <link href="lect02-23_files/libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
+  <link href="lect02-23_files/libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
+  <link href="lect02-23_files/libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
+  <link href="lect02-23_files/libs/revealjs/plugin/reveal-chalkboard/font-awesome/css/all.css" rel="stylesheet">
+  <link href="lect02-23_files/libs/revealjs/plugin/reveal-chalkboard/style.css" rel="stylesheet">
+  <link href="lect02-23_files/libs/revealjs/plugin/quarto-support/footer.css" rel="stylesheet">
+  <style type="text/css">
+
+  .callout {
+    margin-top: 1em;
+    margin-bottom: 1em;  
+    border-radius: .25rem;
+  }
+
+  .callout.callout-style-simple { 
+    padding: 0em 0.5em;
+    border-left: solid #acacac .3rem;
+    border-right: solid 1px silver;
+    border-top: solid 1px silver;
+    border-bottom: solid 1px silver;
+    display: flex;
+  }
+
+  .callout.callout-style-default {
+    border-left: solid #acacac .3rem;
+    border-right: solid 1px silver;
+    border-top: solid 1px silver;
+    border-bottom: solid 1px silver;
+  }
+
+  .callout .callout-body-container {
+    flex-grow: 1;
+  }
+
+  .callout.callout-style-simple .callout-body {
+    font-size: 1rem;
+    font-weight: 400;
+  }
+
+  .callout.callout-style-default .callout-body {
+    font-size: 0.9rem;
+    font-weight: 400;
+  }
+
+  .callout.callout-captioned.callout-style-simple .callout-body {
+    margin-top: 0.2em;
+  }
+
+  .callout:not(.callout-captioned) .callout-body {
+      display: flex;
+  }
+
+  .callout:not(.no-icon).callout-captioned.callout-style-simple .callout-content {
+    padding-left: 1.6em;
+  }
+
+  .callout.callout-captioned .callout-header {
+    padding-top: 0.2em;
+    margin-bottom: -0.2em;
+  }
+
+  .callout.callout-captioned .callout-caption  p {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+  }
+    
+  .callout.callout-captioned.callout-style-simple .callout-content  p {
+    margin-top: 0;
+  }
+
+  .callout.callout-captioned.callout-style-default .callout-content  p {
+    margin-top: 0.7em;
+  }
+
+  .callout.callout-style-simple div.callout-caption {
+    border-bottom: none;
+    font-size: .9rem;
+    font-weight: 600;
+    opacity: 75%;
+  }
+
+  .callout.callout-style-default  div.callout-caption {
+    border-bottom: none;
+    font-weight: 600;
+    opacity: 85%;
+    font-size: 0.9rem;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+  }
+
+  .callout.callout-style-default div.callout-content {
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+  }
+
+  .callout.callout-style-simple .callout-icon::before {
+    height: 1rem;
+    width: 1rem;
+    display: inline-block;
+    content: "";
+    background-repeat: no-repeat;
+    background-size: 1rem 1rem;
+  }
+
+  .callout.callout-style-default .callout-icon::before {
+    height: 0.9rem;
+    width: 0.9rem;
+    display: inline-block;
+    content: "";
+    background-repeat: no-repeat;
+    background-size: 0.9rem 0.9rem;
+  }
+
+  .callout-caption {
+    display: flex
+  }
+    
+  .callout-icon::before {
+    margin-top: 1rem;
+    padding-right: .5rem;
+  }
+
+  .callout.no-icon::before {
+    display: none !important;
+  }
+
+  .callout.callout-captioned .callout-body > .callout-content > :last-child {
+    margin-bottom: 0.5rem;
+  }
+
+  .callout.callout-captioned .callout-icon::before {
+    margin-top: .5rem;
+    padding-right: .5rem;
+  }
+
+  .callout:not(.callout-captioned) .callout-icon::before {
+    margin-top: 1rem;
+    padding-right: .5rem;
+  }
+
+  /* Callout Types */
+
+  div.callout-note {
+    border-left-color: #4582ec !important;
+  }
+
+  div.callout-note .callout-icon::before {
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACshmLzAAAEU0lEQVRYCcVXTWhcVRQ+586kSUMMxkyaElstCto2SIhitS5Ek8xUKV2poatCcVHtUlFQk8mbaaziwpWgglJwVaquitBOfhQXFlqlzSJpFSpIYyXNjBNiTCck7x2/8/LeNDOZxDuEkgOXe++553zfefee+/OYLOXFk3+1LLrRdiO81yNqZ6K9cG0P3MeFaMIQjXssE8Z1JzLO9ls20MBZX7oG8w9GxB0goaPrW5aNMp1yOZIa7Wv6o2ykpLtmAPs/vrG14Z+6d4jpbSKuhdcSyq9wGMPXjonwmESXrriLzFGOdDBLB8Y6MNYBu0dRokSygMA/mrun8MGFN3behm6VVAwg4WR3i6FvYK1T7MHo9BK7ydH+1uurECoouk5MPRyVSBrBHMYwVobG2aOXM07sWrn5qgB60rc6mcwIDJtQrnrEr44kmy+UO9r0u9O5/YbkS9juQckLed3DyW2XV/qWBBB3ptvI8EUY3I9p/67OW+g967TNr3Sotn3IuVlfMLVnsBwH4fsnebJvyGm5GeIUA3jljERmrv49SizPYuq+z7c2H/jlGC+Ghhupn/hcapqmcudB9jwJ/3jvnvu6vu5lVzF1fXyZuZZ7U8nRmVzytvT+H3kilYvH09mLWrQdwFSsFEsxFVs5fK7A0g8gMZjbif4ACpKbjv7gNGaD8bUrlk8x+KRflttr22JEMRUbTUwwDQScyzPgedQHZT0xnx7ujw2jfVfExwYHwOsDTjLdJ2ebmeQIlJ7neo41s/DrsL3kl+W2lWvAga0tR3zueGr6GL78M3ifH0rGXrBC2aAR8uYcIA5gwV8zIE8onoh8u0Fca/ciF7j1uOzEnqcIm59sEXoGc0+z6+H45V1CvAvHcD7THztu669cnp+L0okAeIc6zjbM/24LgGM1gZk7jnRu1aQWoU9sfUOuhrmtaPIO3YY1KLLWZaEO5TKUbMY5zx8W9UJ6elpLwKXbsaZ4EFl7B4bMtDv0iRipKoDQT2sNQI9b1utXFdYisi+wzZ/ri/1m7QfDgEuvgUUEIJPq3DhX/5DWNqIXDOweC2wvIR90Oq3lDpdMIgD2r0dXvGdsEW5H6x6HLRJYU7C69VefO1x8Gde1ZFSJLfWS1jbCnhtOPxmpfv2LXOA2Xk2tvnwKKPFuZ/oRmwBwqRQDcKNeVQkYcOjtWVBuM/JuYw5b6isojIkYxyYAFn5K7ZBF10fea52y8QltAg6jnMqNHFBmGkQ1j+U43HMi2xMar1Nv0zGsf1s8nUsmUtPOOrbFIR8bHFDMB5zL13Gmr/kGlCkUzedTzzmzsaJXhYawnA3UmARpiYj5ooJZiUoxFRtK3X6pgNPv+IZVPcnwbOl6f+aBaO1CNvPW9n9LmCp01nuSaTRF2YxHqZ8DYQT6WsXT+RD6eUztwYLZ8rM+rcPxamv1VQzFUkzFXvkiVrySGQgJNvXHJAxiU3/NwiC03rSf05VBaPtu/Z7/B8Yn/w7eguloAAAAAElFTkSuQmCC');
+  }
+
+  div.callout-note.callout-style-default .callout-caption {
+    background-color: #dae6fb
+  }
+
+  div.callout-important {
+    border-left-color: #d9534f !important;
+  }
+
+  div.callout-important .callout-icon::before {
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACshmLzAAAEKklEQVRYCcVXTWhcVRS+575MJym48A+hSRFr00ySRQhURRfd2HYjk2SSTokuBCkU2o0LoSKKraKIBTcuFCoidGFD08nkBzdREbpQ1EDNIv8qSGMFUboImMSZd4/f9zJv8ibJMC8xJQfO3HPPPef7zrvvvnvviIkpC9nsw0UttFunbUhpFzFtarSd6WJkStVMw5xyVqYTvkwfzuf/5FgtkVoB0729j1rjXwThS7Vio+Mo6DNnvLfahoZ+i/o32lULuJ3NNiz7q6+pyAUkJaFF6JwaM2lUJlV0MlnQn5aTRbEu0SEqHUa0A4AdiGuB1kFXRfVyg5d87+Dg4DL6m2TLAub60ilj7A1Ec4odSAc8X95sHh7+ZRPCFo6Fnp7HfU/fBng/hi10CjCnWnJjsxvDNxWw0NfV6Rv5GgP3I3jGWXumdTD/3cbEOP2ZbOZp69yniG3FQ9z1jD7bnBu9Fc2tKGC2q+uAJOQHBDRiZX1x36o7fWBs7J9ownbtO+n0/qWkvW7UPIfc37WgT6ZGR++EOJyeQDSb9UB+DZ1G6DdLDzyS+b/kBCYGsYgJbSQHuThGKRcw5xdeQf8YdNHsc6ePXrlSYMBuSIAFTGAtQo+VuALo4BX83N190NWZWbynBjhOHsmNfFWLeL6v+ynsA58zDvvAC8j5PkbOcXCMg2PZFk3q8MjI7WAG/Dp9AwP7jdGBOOQkAvlFUB+irtm16I1Zw9YBcpGTGXYmk3kQIC/Cds55l+iMI3jqhjAuaoe+am2Jw5GT3Nbz3CkE12NavmzN5+erJW7046n/CH1RO/RVa8lBLozXk9uqykkGAyRXLWlLv5jyp4RFsG5vGVzpDLnIjTWgnRy2Rr+tDKvRc7Y8AyZq10jj8DqXdnIRNtFZb+t/ZRtXcDiVnzpqx8mPcDWxgARUqx0W1QB9MeUZiNrV4qP+Ehc+BpNgATsTX8ozYKL2NtFYAHc84fG7ndxUPr+AR/iQSns7uSUufAymwDOb2+NjK27lEFocm/EE2WpyIy/Hi66MWuMKJn8RvxIcj87IM5Vh9663ziW36kR0HNenXuxmfaD8JC7tfKbrhFr7LiZCrMjrzTeGx+PmkosrkNzW94ObzwocJ7A1HokLolY+AvkTiD/q1H0cN48c5EL8Crkttsa/AXQVDmutfyku0E7jShx49XqV3MFK8IryDhYVbj7Sj2P2eBxwcXoe8T8idsKKPRcnZw1b+slFTubwUwhktrfnAt7J++jwQtLZcm3sr9LQrjRzz6cfMv9aLvgmnAGvpoaGLxM4mAEaLV7iAzQ3oU0IvD5x9ix3yF2RAAuYAOO2f7PEFWCXZ4C9Pb2UsgDeVnFSpbFK7/IWu7TPTvBqzbGdCHOJQSxiEjt6IyZmxQyEJHv6xyQsYk//moVFsN2zP6fRImjfq7/n/wFDguUQFNEwugAAAABJRU5ErkJggg==');
+  }
+
+  div.callout-important.callout-style-default .callout-caption {
+    background-color: #f7dddc
+  }
+
+  div.callout-warning {
+    border-left-color: #f0ad4e !important;
+  }
+
+  div.callout-warning .callout-icon::before {
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACshmLzAAAETklEQVRYCeVWW2gcVRg+58yaTUnizqbipZeX4uWhBEniBaoUX1Ioze52t7sRq6APio9V9MEaoWlVsFasRq0gltaAPuxms8lu0gcviE/FFOstVbSIxgcv6SU7EZqmdc7v9+9mJtNks51NTUH84ed889/PP+cmxP+d5FIbMJmNbpREu4WUkiTtCicKny0l1pIKmBzovF2S+hIJHX8iEu3hZJ5lNZGqyRrGSIQpq15AzF28jgpeY6yk6GVdrfFqdrD6Iw+QlB8g0YS2g7dyQmXM/IDhBhT0UCiRf59lfqmmDvzRt6kByV/m4JjtzuaujMUM2c5Z2d6JdKrRb3K2q6mA+oYVz8JnDdKPmmNthzkAk/lN63sYPgevrguc72aZX/L9C6x09GYyxBgCX4NlvyGUHOKELlm5rXeR1kchuChJt4SSwyddZRXgvwMGvYo4QSlk3/zkHD8UHxwVJA6zjZZqP8v8kK8OWLnIZtLyCAJagYC4rTGW/9Pqj92N/c+LUaAj27movwbi19tk/whRCIE7Q9vyI6yvRpftAKVTdUjOW40X3h5OXsKCdmFcx0xlLJoSuQngnrJe7Kcjm4OMq9FlC7CMmScQANuNvjfP3PjGXDBaUQmbp296S5L4DrpbrHN1T87ZVEZVCzg1FF0Ft+dKrlLukI+/c9ENo+TvlTDbYFvuKPtQ9+l052rXrgKoWkDAFnvh0wTOmYn8R5f4k/jN/fZiCM1tQx9jQQ4ANhqG4hiL0qIFTGViG9DKB7GYzgubnpofgYRwO+DFjh0Zin2m4b/97EDkXkc+f6xYAPX0KK2I/7fUQuwzuwo/L3AkcjugPNixC8cHf0FyPjWlItmLxWw4Ou9YsQCr5fijMGoD/zpdRy95HRysyXA74MWOnscpO4j2y3HAVisw85hX5+AFBRSHt4ShfLFkIMXTqyKFc46xdzQM6XbAi702a7sy04J0+feReMFKp5q9esYLCqAZYw/k14E/xcLLsFElaornTuJB0svMuJINy8xkIYuL+xPAlWRceH6+HX7THJ0djLUom46zREu7tTkxwmf/FdOZ/sh6Q8qvEAiHpm4PJ4a/doJe0gH1t+aHRgCzOvBvJedEK5OFE5jpm4AGP2a8Dxe3gGJ/pAutug9Gp6he92CsSsWBaEcxGx0FHytmIpuqGkOpldqNYQK8cSoXvd+xLxXADw0kf6UkJNFtdo5MOgaLjiQOQHcn+A6h5NuL2s0qsC2LOM75PcF3yr5STuBSAcGG+meA14K/CI21HcS4LBT6tv0QAh8Dr5l93AhZzG5ZJ4VxAqdZUEl9z7WJ4aN+svMvwHHL21UKTd1mqvChH7/Za5xzXBBKrUcB0TQ+Ulgkfbi/H/YT5EptrGzsEK7tR1B7ln9BBwckYfMiuSqklSznIuoIIOM42MQO+QnduCoFCI0bpkzjCjddHPN/F+2Yu+sd9bKNpVwHhbS3LluK/0zgfwD0xYI5dXuzlQAAAABJRU5ErkJggg==');
+  }
+
+  div.callout-warning.callout-style-default .callout-caption {
+    background-color: #fcefdc
+  }
+
+  div.callout-tip {
+    border-left-color: #02b875 !important;
+  }
+
+  div.callout-tip .callout-icon::before {
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACshmLzAAADr0lEQVRYCe1XTWgTQRj9ZjZV8a9SPIkKgj8I1bMHsUWrqYLVg4Ue6v9BwZOxSYsIerFao7UiUryIqJcqgtpimhbBXoSCVxUFe9CTiogUrUp2Pt+3aUI2u5vdNh4dmMzOzHvvezuz8xNFM0mjnbXaNu1MvFWRXkXEyE6aYOYJpdW4IXuA4r0fo8qqSMDBU0v1HJUgVieAXxzCsdE/YJTdFcVIZQNMyhruOMJKXYFoLfIfIvVIMWdsrd+Rpd86ZmyzzjJmLStqRn0v8lzkb4rVIXvnpScOJuAn2ACC65FkPzEdEy4TPWRLJ2h7z4cArXzzaOdKlbOvKKX25Wl00jSnrwVxAg3o4dRxhO13RBSdNvH0xSARv3adTXbBdTf64IWO2vH0LT+cv4GR1DJt+DUItaQogeBX/chhbTBxEiZ6gftlDNXTrvT7co4ub5A6gp9HIcHvzTa46OS5fBeP87Qm0fQkr4FsYgVQ7Qg+ZayaDg9jhg1GkWj8RG6lkeSacrrHgDaxdoBiZPg+NXV/KifMuB6//JmYH4CntVEHy/keA6x4h4CU5oFy8GzrBS18cLJMXcljAKB6INjWsRcuZBWVaS3GDrqB7rdapVIeA+isQ57Eev9eCqzqOa81CY05VLd6SamW2wA2H3SiTbnbSxmzfp7WtKZkqy4mdyAlGx7ennghYf8voqp9cLSgKdqNfa6RdRsAAkPwRuJZNbpByn+RrJi1RXTwdi8RQF6ymDwGMAtZ6TVE+4uoKh+MYkcLsT0Hk8eAienbiGdjJHZTpmNjlbFJNKDVAp2fJlYju6IreQxQ08UJDNYdoLSl6AadO+fFuCQqVMB1NJwPm69T04Wv5WhfcWyfXQB+wXRs1pt+nCknRa0LVzSA/2B+a9+zQJadb7IyyV24YAxKp2Jqs3emZTuNnKxsah+uabKbMk7CbTgJx/zIgQYErIeTKRQ9yD9wxVof5YolPHqaWo7TD6tJlh7jQnK5z2n3+fGdggIOx2kaa2YI9QWarc5Ce1ipNWMKeSG4DysFF52KBmTNMmn5HqCFkwy34rDg05gDwgH3bBi+sgFhN/e8QvRn8kbamCOhgrZ9GJhFDgfcMHzFb6BAtjKpFhzTjwv1KCVuxHvCbsSiEz4CANnj84cwHdFXAbAOJ4LTSAawGWFn5tDhLMYz6nWeU2wJfIhmIJBefcd/A5FWQWGgrWzyORZ3Q6HuV+Jf0Bj+BTX69fm1zWgK7By1YTXchFDORywnfQ7GpzOo6S+qECrsx2ifVQAAAABJRU5ErkJggg==');
+  }
+
+  div.callout-tip.callout-style-default .callout-caption {
+    background-color: #ccf1e3
+  }
+
+  div.callout-caution {
+    border-left-color: #fd7e14 !important;
+  }
+
+  div.callout-caution .callout-icon::before {
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACshmLzAAACV0lEQVRYCdVWzWoUQRCuqp2ICBLJXgITZL1EfQDBW/bkzUMUD7klD+ATSHBEfAIfQO+iXsWDxJsHL96EHAwhgzlkg8nBg25XWb0zIb0zs9muYYWkoKeru+vn664fBqElyZNuyh167NXJ8Ut8McjbmEraKHkd7uAnAFku+VWdb3reSmRV8PKSLfZ0Gjn3a6Xlcq9YGb6tADjn+lUfTXtVmaZ1KwBIvFI11rRXlWlatwIAAv2asaa9mlB9wwygiDX26qaw1yYPzFXg2N1GgG0FMF8Oj+VIx7E/03lHx8UhvYyNZLN7BwSPgekXXLribw7w5/c8EF+DBK5idvDVYtEEwMeYefjjLAdEyQ3M9nfOkgnPTEkYU+sxMq0BxNR6jExrAI31H1rzvLEfRIdgcv1XEdj6QTQAS2wtstEALLG1yEZ3QhH6oDX7ExBSFEkFINXH98NTrme5IOaaA7kIfiu2L8A3qhH9zRbukdCqdsA98TdElyeMe5BI8Rs2xHRIsoTSSVFfCFCWGPn9XHb4cdobRIWABNf0add9jakDjQJpJ1bTXOJXnnRXHRf+dNL1ZV1MBRCXhMbaHqGI1JkKIL7+i8uffuP6wVQAzO7+qVEbF6NbS0LJureYcWXUUhH66nLR5rYmva+2tjRFtojkM2aD76HEGAD3tPtKM309FJg5j/K682ywcWJ3PASCcycH/22u+Bh7Aa0ehM2Fu4z0SAE81HF9RkB21c5bEn4Dzw+/qNOyXr3DCTQDMBOdhi4nAgiFDGCinIa2owCEChUwD8qzd03PG+qdW/4fDzjUMcE1ZpIAAAAASUVORK5CYII=');
+  }
+
+  div.callout-caution.callout-style-default .callout-caption {
+    background-color: #ffe5d0
+  }
+
+  </style>
+  <style type="text/css">
+    .reveal div.sourceCode {
+      margin: 0;
+      overflow: auto;
+    }
+    .reveal div.hanging-indent {
+      margin-left: 1em;
+      text-indent: -1em;
+    }
+    .reveal .slide:not(.center) {
+      height: 100%;
+    }
+    .reveal .slide.scrollable {
+      overflow-y: auto;
+    }
+    .reveal .footnotes {
+      height: 100%;
+      overflow-y: auto;
+    }
+    .reveal .slide .absolute {
+      position: absolute;
+      display: block;
+    }
+    .reveal .footnotes ol {
+      counter-reset: ol;
+      list-style-type: none; 
+      margin-left: 0;
+    }
+    .reveal .footnotes ol li:before {
+      counter-increment: ol;
+      content: counter(ol) ". "; 
+    }
+    .reveal .footnotes ol li > p:first-child {
+      display: inline-block;
+    }
+    .reveal .slide ul,
+    .reveal .slide ol {
+      margin-bottom: 0.5em;
+    }
+    .reveal .slide ul li,
+    .reveal .slide ol li {
+      margin-top: 0.4em;
+      margin-bottom: 0.2em;
+    }
+    .reveal .slide ul[role="tablist"] li {
+      margin-bottom: 0;
+    }
+    .reveal .slide ul li > *:first-child,
+    .reveal .slide ol li > *:first-child {
+      margin-block-start: 0;
+    }
+    .reveal .slide ul li > *:last-child,
+    .reveal .slide ol li > *:last-child {
+      margin-block-end: 0;
+    }
+    .reveal .slide .columns:nth-child(3) {
+      margin-block-start: 0.8em;
+    }
+    .reveal blockquote {
+      box-shadow: none;
+    }
+    .reveal .tippy-content>* {
+      margin-top: 0.2em;
+      margin-bottom: 0.7em;
+    }
+    .reveal .tippy-content>*:last-child {
+      margin-bottom: 0.2em;
+    }
+    .reveal .slide > img.stretch.quarto-figure-center,
+    .reveal .slide > img.r-stretch.quarto-figure-center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto; 
+    }
+    .reveal .slide > img.stretch.quarto-figure-left,
+    .reveal .slide > img.r-stretch.quarto-figure-left  {
+      display: block;
+      margin-left: 0;
+      margin-right: auto; 
+    }
+    .reveal .slide > img.stretch.quarto-figure-right,
+    .reveal .slide > img.r-stretch.quarto-figure-right  {
+      display: block;
+      margin-left: auto;
+      margin-right: 0; 
+    }
+  </style>
+</head>
+<body class="quarto-light">
+  <div class="reveal">
+    <div class="slides">
+
+<section id="title-slide" class="quarto-title-block center">
+  <h1 class="title">Economía Política</h1>
+  <p class="subtitle">Unidad 2. En la vida hay que elegir. ¿Cómo eligen las sociedades?</p>
+
+<div class="quarto-title-authors">
+<div class="quarto-title-author">
+<div class="quarto-title-author-name">
+ 
+</div>
+</div>
+</div>
+
+</section><section id="TOC">
+<nav role="doc-toc"> 
+<h2 id="toc-title">Contenidos</h2>
+<ul>
+<li><a href="#/el-problema-de-economía-política-la-política-económica" id="/toc-el-problema-de-economía-política-la-política-económica">El problema de (economía política) la política económica</a></li>
+<li><a href="#/preferencias-y-alternativas" id="/toc-preferencias-y-alternativas">Preferencias y alternativas</a></li>
+<li><a href="#/resolviendo-el-problema" id="/toc-resolviendo-el-problema">Resolviendo el problema</a></li>
+<li><a href="#/ejemplos-y-aplicaciones" id="/toc-ejemplos-y-aplicaciones">Ejemplos y aplicaciones</a></li>
+<li><a href="#/reglas-de-votación" id="/toc-reglas-de-votación">Reglas de votación</a></li>
+</ul>
+</nav>
+</section>
+<section class="slide level2 center">
+
+<blockquote>
+<p>Una mayoría sujeta a las limitaciones constitucionales y que cambie fácilmente conforme a los cambios de la opinión popular es el verdadero soberano de un pueblo libre; el que la deseche cae en la anarquía; la unanimidad es imposible; rechazando el principio de la mayoría, sólo queda ya el despotismo…<br>
+<strong>[Abraham Lincoln, <em>Toma de Posesión</em> (1861)]</strong></p>
+</blockquote>
+</section>
+<section>
+<section id="el-problema-de-economía-política-la-política-económica" class="title-slide slide level1 center">
+<h1>El problema de (economía política) la política económica</h1>
+<ul>
+<li>Problema general de política</li>
+<li>Restricciones sobre preferencias individuales</li>
+<li>Violación de restricciones</li>
+</ul>
+</section>
+<section id="introducción" class="slide level2 center">
+<h2>Introducción</h2>
+<ul>
+<li>Elección de la política económica importa una decisión colectiva a partir de intereses (preferencias) individuales e instituciones políticas determinadas</li>
+<li>Decisiones difieren según instituciones políticas –dictadura versus democracia <span class="math inline">\(\longrightarrow\)</span> tanto en el proceso como en los resultados</li>
+<li>Existen dos modelos tipicos de democracia –directa y representativa. Si bien difieren en muchos aspectos, ambas tienen en el centro del proceso decisorio a mecanismos de votacion.</li>
+</ul>
+</section>
+<section id="democracia-directa" class="slide level2 center">
+<h2>Democracia directa</h2>
+<ul>
+<li>Si bien la democracia directa no se usa como mecanismo principal, los países tienen herramientas de participación directa:
+<ul>
+<li>Referendum</li>
+<li>Consulta popular, vinculante y no vinculante</li>
+<li>Asambleas al aire libre</li>
+</ul></li>
+<li>Fuentes y bases de datos:
+<ul>
+<li>Base de datos de IDEA <span class="math inline">\(\longrightarrow\)</span> https://www.idea.int/data-tools/data/direct-democracy</li>
+<li>Swissvotes <span class="math inline">\(\longrightarrow\)</span> https://swissvotes.ch/page/home</li>
+</ul></li>
+</ul>
+</section>
+<section id="democracia-directa-cont." class="slide level2 center">
+<h2>Democracia directa (cont.)</h2>
+
+<img data-src="fig/fig-02-010.png" style="width:90.0%" class="r-stretch quarto-figure-center"><p class="caption">Provisiones legales para iniciativas de agenda en nivel nacional</p></section>
+<section id="democracia-directa-cont.-1" class="slide level2 center">
+<h2>Democracia directa (cont.)</h2>
+
+<img data-src="fig/fig-02-011.png" class="r-stretch quarto-figure-center"><p class="caption">Provisiones legales para democracia directa en nivel local</p></section>
+<section id="problema-general-de-política" class="slide level2 center">
+<h2>Problema general de política</h2>
+<ul>
+<li>Un conjuto de ciudadanos –pequeño como en un comité, grande como un electorado-afectados por un vector de políticas <strong><span class="math inline">\(q\)</span></strong></li>
+<li>Los ciudadanos –<em>votantes</em>- están indexados a partir de atributos individuales. Entonces, <span class="math inline">\(\alpha^{i}\)</span> denota las características específicas del votante <span class="math inline">\(i\)</span> (preferencias idiosincráticas, dotaciones, riesgos, otros atributos socioeconómicos)</li>
+<li>Los <span class="math inline">\(\alpha^{i}\)</span>’s se distribuyen entre los individuos de acuerdo a una distribución dada</li>
+<li>Los ciudadanos tienen funciones de utilidad sobre canastas de consumo <span class="math inline">\(c^{i}\)</span></li>
+</ul>
+</section>
+<section id="problema-general-de-política-cont." class="slide level2 center">
+<h2>Problema general de política (cont.)</h2>
+<ul>
+<li>Individuo como <strong>agente económico</strong> elige su canasta de consumo para maximizar su fn. de utilidad sujeto a restricciones (presupuestarias/tiempo): <span class="math display">\[\begin{aligned}
+U(c^{i},\mathbf{q},\mathbf{p};\alpha^{i}) \\
+H(c^{i},\mathbf{q},\mathbf{p};\alpha^{i}) \geq 0
+\end{aligned}\]</span></li>
+<li>donde <span class="math inline">\(\mathbf{p}\)</span> es un vector de variables determinadas en el mercado (precios, cantidades). La fn. de utilidad indirecta de <span class="math inline">\(i\)</span> es: <span class="math display">\[\begin{aligned}
+\tilde{W}(\mathbf{q},\mathbf{p};\alpha^{i})=\max_{c^{i}}[U(c^{i},\mathbf{q},\mathbf{p};\alpha^{i})\mid H(c^{i},\mathbf{q},\mathbf{p};\alpha^{i})  \geq 0]
+\end{aligned}\]</span></li>
+</ul>
+</section>
+<section id="problema-general-de-política-cont.-1" class="slide level2 center">
+<h2>Problema general de política (cont.)</h2>
+<ul>
+<li>El gobierno como <strong>policymaker</strong> fija vector de políticas <span class="math inline">\(\mathbf{q}\)</span> bajo ciertas restricciones: respetar los valores de <span class="math inline">\(\mathbf{p}\)</span> dados en el mercado, presupuesto equilibrado, y otras. Así: <span class="math display">\[\begin{aligned}
+G(\mathbf{q},\mathbf{p})\geq 0
+\end{aligned}\]</span></li>
+<li>Si las restricciones son vinculantes entonces, <span class="math inline">\(\mathbf{p}=P(\mathbf{q})\)</span> –esto es, los valores de mercado dependerán de <span class="math inline">\(\mathbf{q}\)</span> y de parámetros</li>
+<li>El individuo como <strong>agente político</strong> actúa como votante, lobista, y otras. Sus acciones están determinadas por sus <em>preferencias de política</em> –obtenidas de su fn. de utilidad indirecta, <span class="math inline">\(\tilde{W}\)</span>.</li>
+</ul>
+</section>
+<section id="problema-general-de-política-cont.-2" class="slide level2 center">
+<h2>Problema general de política (cont.)</h2>
+<ul>
+<li>Las preferencias de política de forma reducida son: <span class="math display">\[\begin{aligned}
+\tilde{W}(\mathbf{q},P(\mathbf{q});\alpha^{i})
+\end{aligned}\]</span></li>
+<li>La política preferida, o<strong>punto ideal</strong>, del votante <span class="math inline">\(i\)</span> es: <span class="math display">\[\begin{aligned}
+\mathbf{q(\alpha^{i})}=\arg\max_{q} W(\mathbf{q};\alpha^{i})
+\end{aligned}\]</span></li>
+<li>El <strong>conflicto en las preferencias de política surge por las diferencias en <span class="math inline">\(\alpha^{i}\)</span></strong>.</li>
+</ul>
+</section>
+<section id="problema-de-política-con-2-dos-individuos" class="slide level2 center">
+<h2>Problema de política con 2 (dos) individuos</h2>
+<ul>
+<li>Individuos maximizan una función de utilidad <span class="math inline">\(U(x_{1},x_{2};\alpha^{i})\)</span> –<span class="math inline">\(x_{1}\)</span> y <span class="math inline">\(x_{2}\)</span> bienes privados. El gobierno le saca <span class="math inline">\(\tau\)</span> del <span class="math inline">\(Y\)</span> al individuo y le devuelve <span class="math inline">\(T\)</span> como transferencia de suma fija <span class="math display">\[p_{1}x_{1}+p_{2}x_{2} \leq (1-\tau)Y+T\]</span></li>
+<li>El problema consiste en maximizar la utilidad sujeta a la restricción presupuestaria <span class="math inline">\(\longrightarrow\)</span> se obtienen las demandas individuales <span class="math inline">\(x_{1}(p_{1},p_{2},Y,\tau,T;\alpha^{i})\)</span> y <span class="math inline">\(x_{2}(p_{1},p_{2},Y,\tau,T;\alpha^{i})\)</span></li>
+<li>El parámetro <span class="math inline">\(\alpha\)</span> en la función de utilidad captura la heterogeneidad de preferencias</li>
+</ul>
+</section>
+<section id="problema-de-política-con-2-dos-individuos-1" class="slide level2 center">
+<h2>Problema de política con 2 (dos) individuos</h2>
+<ul>
+<li>Reemplazando esas demandas en la función de utilidad, se obtiene la funcion de utilidad indirecta: <span class="math display">\[\begin{aligned}
+          V(p_{1},p_{2},Y,,\tau,T;\alpha^{i}) \equiv \\
+          U(x_{1}(p_{1},p_{2},Y,\tau,T;\alpha^{i}),x_{2}(p_{1},p_{2},Y,\tau,T;\alpha^{i});\alpha^{i})
+        \end{aligned}\]</span></li>
+<li>Importante <span class="math inline">\(\longrightarrow\)</span> utilidad es función de las variables de política [dado que <span class="math inline">\(x_{1}\)</span> y <span class="math inline">\(x_{2}\)</span> son elegidos de manera óptima] <span class="math display">\[\begin{aligned}
+  V(\tau,T;\alpha^{i}) \equiv \\ V(p_{1}(\tau,T),p_{2}(\tau,T),Y(\tau,T),\tau,T;\alpha^{i})
+            \end{aligned}\]</span></li>
+</ul>
+</section>
+<section id="problema-de-política-con-2-dos-individuos-2" class="slide level2 center">
+<h2>Problema de política con 2 (dos) individuos</h2>
+<ul>
+<li>Conociendo <span class="math inline">\(\tau\)</span> conocemos <span class="math inline">\(T\)</span> [¿por qué?] y la fn UI: <span class="math display">\[V(\tau;\alpha^{i})\]</span></li>
+<li>La política preferida por el individuo se obtiene hallando <span class="math inline">\(\tau\)</span> que maximiza utilidad indirecta: <span class="math display">\[\frac{\partial V(\tau;\alpha^{i})}{\partial \tau}=0\]</span></li>
+<li><span class="math inline">\(\tau^{*}(\alpha^{i})\)</span> <span class="math inline">\(\longrightarrow\)</span> dimensión política evidente –<span class="math inline">\(\alpha^{i}\)</span>’s diferentes implican políticas (alícuotas) preferidas diferentes</li>
+</ul>
+</section>
+<section id="ilustración-y-aplicación" class="slide level2 center">
+<h2>Ilustración y aplicación</h2>
+<ul>
+<li>Evidencia sugiere que no hay diferencias significativas en el apoyo a mayor redistribución en EEUU de acuerdo a diferencias etarias, de etnia y género. Incluso hay dos grupos que han disminuido su apoyo a la redistribución: los adultos mayores y los afroamericanos. Sorprendemente son dos de los grupos más dependientes en transferencias desde el estado [Ashok, V., Kuziemko, I., &amp; Washington, E. (2015)].</li>
+<li>Stantcheva (2021) estudia el apoyo a la redistribución usando experimentos sociales de gran escala (videos informativos) y estudia diferencias según género, etnia, nivel de ingreso e ideología/afiliación.</li>
+</ul>
+</section>
+<section id="ilustración-y-aplicación-cont.." class="slide level2 center">
+<h2>Ilustración y aplicación (cont.).</h2>
+
+<img data-src="fig/fig-02-001.png" class="r-stretch quarto-figure-center"><p class="caption">Grado de apoyo a redistribución - Ideología/Partidismo</p></section>
+<section id="ilustración-y-aplicación-cont." class="slide level2 center">
+<h2>Ilustración y aplicación (cont.)</h2>
+
+<img data-src="fig/fig-02-002.jpg" style="width:90.0%" class="r-stretch quarto-figure-center"><p class="caption">Grado de apoyo a redistribución - Evolución</p></section>
+<section id="ilustración-y-aplicación-cont.-1" class="slide level2 center">
+<h2>Ilustración y aplicación (cont.)</h2>
+
+<img data-src="fig/fig-02-003.png" style="width:70.0%" class="r-stretch quarto-figure-center"><p class="caption">Grado de apoyo a redistribución - Edad e ingresos</p></section></section>
+<section>
+<section id="preferencias-y-alternativas" class="title-slide slide level1 center">
+<h1>Preferencias y alternativas</h1>
+<ul>
+<li>Preferencias y propiedades</li>
+<li>Casos de 2 y más alternativas</li>
+</ul>
+</section>
+<section id="preferencia-y-elección" class="slide level2 center">
+<h2>Preferencia y elección</h2>
+<ul>
+<li>Sea un individuo, <span class="math inline">\(i\)</span>, y 3 objetos –“alternativas”-, <span class="math inline">\(A\)</span>, <span class="math inline">\(B\)</span>, y <span class="math inline">\(C\)</span> sobre los que <span class="math inline">\(i\)</span> tiene preferencias</li>
+<li>El individuo <span class="math inline">\(i\)</span> es capaz de evaluar:
+<ul>
+<li>“Prefiero <span class="math inline">\(A\)</span> a <span class="math inline">\(B\)</span>”</li>
+<li>“Soy indiferente entre <span class="math inline">\(B\)</span> y <span class="math inline">\(C\)</span>”.</li>
+</ul></li>
+<li>La relación <span class="math inline">\(A \succ B\)</span> representa al primer enunciado; la relación <span class="math inline">\(B \sim C\)</span> representa al segundo</li>
+<li>La <strong>elección</strong> de <span class="math inline">\(i\)</span> es racional si está de acuerdo con su <strong>preferencia</strong>. Sujetas a ciertas propiedades que permita “ordenarlas”</li>
+</ul>
+</section>
+<section id="preferencia-y-elección-cont." class="slide level2 center">
+<h2>Preferencia y elección (cont.)</h2>
+<ul>
+<li>Sean <span class="math inline">\(A\)</span> y <span class="math inline">\(B\)</span> dos alternativas de política. Un individuo vota por <span class="math inline">\(A\)</span> siempre que <span class="math inline">\(W(A) \geq W(B)\)</span>.</li>
+<li>Sea <span class="math inline">\(\succeq_{i}\)</span> una relacion binaria tal que <span class="math inline">\(A \succ_{i} B\)</span> significa que el individuo <em>i</em> prefiere a <span class="math inline">\(A\)</span> –<span class="math inline">\(W(A) \geq W(B)\)</span> y donde <span class="math inline">\(\succeq_{i}\)</span> cumple con las propiedades estándares de las preferencias
+<ul>
+<li><strong>Completas:</strong> <span class="math inline">\(A \preceq_{i} B\)</span>, o <span class="math inline">\(B \preceq_{i} A\)</span>, o ambas – en este caso el individuo es indiferente</li>
+<li><strong>Transitivas:</strong> si <span class="math inline">\(B \preceq_{i} A\)</span> y <span class="math inline">\(A \preceq_{i} C\)</span>, entonces <span class="math inline">\(C \preceq_{i} A\)</span></li>
+</ul></li>
+<li>Como puede verse las preferencias están dadas al nivel individual</li>
+</ul>
+</section>
+<section id="ordenamiento-de-preferencias" class="slide level2 center">
+<h2>Ordenamiento de preferencias</h2>
+<ul>
+<li>Si las preferencias de <span class="math inline">\(i\)</span> satisfacen estas propiedades, decimos que <span class="math inline">\(i\)</span> tiene un <strong>ordenamiento de preferencias racional</strong>. La elección racional será la que esté al inicio (izquierda) del ordenamiento</li>
+<li>No todas las relaciones entre “alternativas” son <strong>completas</strong> o <strong>transitivas</strong>. Ejemplos:
+<ul>
+<li>La comparación debe tener sentido <span class="math inline">\(\longrightarrow\)</span> elegir entre cosas desconocidas (comparabilidad)</li>
+<li>La comparación debe ser sobre algo que le importa al individuo</li>
+</ul></li>
+</ul>
+</section>
+<section id="caso-dos-alternativas" class="slide level2 center">
+<h2>Caso: Dos alternativas</h2>
+<ul>
+<li>Condiciones deseadas de un sistema de reglas de votación entre dos alternativas:
+<ul>
+<li><strong>Anonimidad</strong> <span class="math inline">\(\longrightarrow\)</span> si 2 votantes intercambian sus votos antes de emitirlos, el resultado de la elección no cambia (votantes simétricos)</li>
+<li><strong>Neutralidad</strong> <span class="math inline">\(\longrightarrow\)</span> si cada votante revierte su orden de preferencia –i.e si votó A, ahora vota B y viceversa-, el resultado de la elección se revierte (alternativas simétricas)</li>
+<li><strong>Monotonicidad</strong> <span class="math inline">\(\longrightarrow\)</span> si un votante único que originalmente votó por el perdedor elección, ahora vota por el ganador, el ganador de la elección sigue siendo el mismo.</li>
+</ul></li>
+</ul>
+</section>
+<section id="caso-dos-alternativas-cont." class="slide level2 center">
+<h2>Caso: Dos alternativas (cont.)</h2>
+<ul>
+<li>Siempre que el número de votantes sea impar, habrá un resultado cierto. Si se vota por regla de mayoría absoluta, se elegirá la opción preferida por una mayoría de votantes, i.e.&nbsp;<span class="math inline">\(\frac{N+1}{2}\)</span></li>
+</ul>
+<blockquote>
+<p><strong>Teorema de May.</strong> El único método que satisface las condiciones de anonimidad, neutralidad y monotonicidad para determinar un ganador de una elección entre dos alternativas es la regla de la mayoría absoluta.</p>
+</blockquote>
+</section>
+<section id="caso-dos-alternativas-cont.-1" class="slide level2 center">
+<h2>Caso: Dos alternativas (cont.)</h2>
+<blockquote>
+<p>Tres votantes, dos alternativas:</p>
+</blockquote>
+<ul>
+<li><span class="math inline">\(A \succ_{1} B\)</span></li>
+<li><span class="math inline">\(A \succ_{2} B\)</span></li>
+<li><span class="math inline">\(B \succ_{3} A\)</span></li>
+</ul>
+<blockquote>
+<p>El ganador por mayoría es <span class="math inline">\(A\)</span>. ¿Que pasa si votantes intercambian sus votos? (anonimidad)</p>
+</blockquote>
+<ul>
+<li><span class="math inline">\(A \succ_{1} B\)</span></li>
+<li><span class="math inline">\(B \succ_{3} A\)</span></li>
+<li><span class="math inline">\(A \succ_{2} B\)</span></li>
+</ul>
+</section>
+<section id="caso-dos-alternativas-cont.-2" class="slide level2 center">
+<h2>Caso: Dos alternativas (cont.)</h2>
+<blockquote>
+<p>Tres votantes, dos alternativas ¿Que pasa si cada uno revierte su preferencia? (neutralidad)</p>
+</blockquote>
+<ul>
+<li><span class="math inline">\(B \succ_{1} A\)</span></li>
+<li><span class="math inline">\(B \succ_{2}A\)</span></li>
+<li><span class="math inline">\(A \succ_{3} B\)</span></li>
+</ul>
+<blockquote>
+<p>Qué pasa si 3 que votó antes por el perdedor, ahora vota por el ganador? (monotonicidad)</p>
+</blockquote>
+<ul>
+<li><span class="math inline">\(A \succ_{1} B\)</span></li>
+<li><span class="math inline">\(A \succ_{2} B\)</span></li>
+<li><span class="math inline">\(A \succ_{3} B\)</span></li>
+</ul>
+</section>
+<section id="caso-3-o-más-alternativas" class="slide level2 center">
+<h2>Caso: 3 o más alternativas</h2>
+<ul>
+<li>¿Qué sucede si, como en situaciones de la vida real hay más de 2 alternativas?</li>
+<li>El problema se vuelve más complejo. Problema <span class="math inline">\(\longrightarrow\)</span> existe alguna regla de votación que permita agregar preferencias individuales en preferencias sociales y que produzca un claro ganador y que satisfaga propiedades deseadas?
+<ul>
+<li>La respuesta es <strong>no</strong>.</li>
+</ul></li>
+</ul>
+</section>
+<section id="caso-3-o-más-alternativas-cont." class="slide level2 center">
+<h2>Caso: 3 o más alternativas (cont.)</h2>
+<div id="tab:tab1">
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: center;">Orden</th>
+<th style="text-align: center;">Juan</th>
+<th style="text-align: center;">Pedro</th>
+<th style="text-align: center;">María</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">A</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: center;">B</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">2</td>
+<td style="text-align: center;">B</td>
+<td style="text-align: center;">A</td>
+<td style="text-align: center;">C</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">3</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: center;">B</td>
+<td style="text-align: center;">A</td>
+</tr>
+</tbody>
+</table>
+</div>
+<ul>
+<li>¿Hay ganador por mayoría absoluta? No.&nbsp;Ninguna tiene la mitad mas uno de los votos (2). ¿Hay ganador por mayoría simple (pluralidad)? No.&nbsp;Ninguna alternativa tiene más votos que otra –ie. hay triple empate.</li>
+</ul>
+</section>
+<section id="caso-3-o-más-alternativas-cont.-1" class="slide level2 center">
+<h2>Caso: 3 o más alternativas (cont.)</h2>
+<blockquote>
+<p><strong>Teorema de la imposibilidad de Arrow.</strong> No existe una función de ordenamiento social <span class="math inline">\(\succ\)</span> tal que para cualquier grupo G cuyos miembros tengan todos preferencias racionales, <span class="math inline">\(\succ\)</span> sea un ordenamiento racional (transitivo) y que satisfaga los cuatros supuestos de dominio universal, optimalidad de Pareto, independencia de alternativas irrelevantes y no dictadura.</p>
+</blockquote>
+<ul>
+<li>Si queremos una función de ordenamiento social que cumpla con todas esas propiedades, no será transitiva <span class="math inline">\(\longrightarrow\)</span> habrá ciclos.</li>
+</ul>
+</section></section>
+<section>
+<section id="resolviendo-el-problema" class="title-slide slide level1 center">
+<h1>Resolviendo el problema</h1>
+<ul>
+<li>El teorema de la imposibilidad</li>
+<li>Restringiendo preferencias e instituciones</li>
+<li>Políticas unidimensionales vs multidimensionales</li>
+<li>Aplicación: Redistribución con imposición</li>
+</ul>
+</section>
+<section id="resolviendo-el-problema-1" class="slide level2 center">
+<h2>Resolviendo el problema</h2>
+<blockquote>
+<p>Un tratamiento positivo del problema general de política económica involucra especificar un diseño institucional específico y preguntarse como el mismo agrega las acciones políticas, basadas en las preferencias de política individuales, en políticas de equilibrio.</p>
+</blockquote>
+<p>… pero …</p>
+</section>
+<section id="pasaron-cosas" class="slide level2 center">
+<h2>Pasaron cosas…</h2>
+
+<img data-src="fig/fig-02-004.jpg" class="r-stretch quarto-figure-center"><p class="caption">El Teorema de la Imposibilidad dice que no</p></section>
+<section id="restricciones-y-supuestos" class="slide level2 center">
+<h2>Restricciones y supuestos</h2>
+<ul>
+<li>Aún la <strong>regla de mayoría</strong> utilizada extensivamente en elecciones alrededor del mundo no es suficiente para producir políticas de equilibrio bien definidas</li>
+<li>Para producir estas políticas de equilibrio bien definidas, se deben suponer/restringir una de dos cosas:
+<ol type="1">
+<li>Las preferencias de política individuales a ciertas formas</li>
+<li>Las instituciones políticas a ciertos tipos</li>
+</ol></li>
+</ul>
+</section>
+<section id="agregación-de-preferencias" class="slide level2 center">
+<h2>Agregación de preferencias</h2>
+<ul>
+<li>Agregación de preferencias bajo <strong>regla de mayoría pura</strong>, definida como:
+<ol type="1">
+<li><strong>Democracia directa</strong> <span class="math inline">\(\longrightarrow\)</span> los ciudadanos eligen <em>directamente</em> las alternativas</li>
+<li><strong>Voto sincero</strong> <span class="math inline">\(\longrightarrow\)</span> en toda votación, cada ciudadano <em>vota</em> por la alternativa que le da la mayor utilidad de acuerdo a sus preferencias de política (fn. de utilidad indirecta), <span class="math inline">\(W(\mathbf{q};\alpha^{i})\)</span>.</li>
+<li><strong>Agenda abierta</strong> <span class="math inline">\(\longrightarrow\)</span> cada ciudadano vota entre pares de alternativas en sucesivas rondas –votación Condorcet (<em>pairwise voting</em>, en inglés)</li>
+</ol></li>
+</ul>
+</section>
+<section id="políticas-unidimensionales" class="slide level2 center">
+<h2>Políticas unidimensionales</h2>
+<blockquote>
+<p>DEFINICIÓN 1. Un <strong>ganador de Condorcet</strong> es una política <span class="math inline">\(\mathbf{q^{*}}\)</span> tal que vence a cualquier otra política factible en una votación de a pares</p>
+</blockquote>
+<ul>
+<li>Sea un espacio de política unidimensional de modo que <span class="math inline">\(q\)</span> es un escalar. Según Black (1948), las preferencias de políticas <span class="math display">\[\begin{aligned}
+\mathbf{q(\alpha^{i})}=\arg\max_{q} W(\mathbf{q};\alpha^{i})
+\end{aligned}\]</span></li>
+<li>son de <em>pico único</em> para <span class="math inline">\(i\)</span> si su ordenamiento de preferencias sobre alternativas se rige por la distancia relativa a su punto ideal, <span class="math inline">\(q(\alpha^{i})\)</span>: una política más cercana a <span class="math inline">\(q(\alpha^{i})\)</span> es preferida a una(s) mas lejana(s).</li>
+</ul>
+</section>
+<section id="políticas-unidimensionales-cont." class="slide level2 center">
+<h2>Políticas unidimensionales (cont.)</h2>
+<blockquote>
+<p><strong>Marie-Jean-Antoine-Nicolas de Caritat, marquis de Condorcet.</strong> Filósofo y matemático francés. Fue un precursor de los derechos humanos, el reclamo de justicia, las ideas democráticas y de los derechos de las mujeres. Durante su vida combinó el pensamiento analítico y formal con sus acciones e ideas políticas –pasó de apoyar una monarquía constitucional a una república democrática y de apoyar el voto calificado (según bienes) al voto uniersal. Murió en la cárcel luego de huir durante años de las autoridades de la Revolución Francesa. Dejó dos ideas memorables para la ciencia y economía política: 1) la paradoja de Condorcet; 2) el teorema del jurado.</p>
+</blockquote>
+</section>
+<section id="políticas-unidimensionales-cont.." class="slide level2 center">
+<h2>Políticas unidimensionales (cont.).</h2>
+<blockquote>
+<p><strong>El teorema del jurado.</strong> Dado un grupo de votantes (“un jurado”) decidiendo independientemente entre un resultado correcto con <em><span class="math inline">\(prob\)</span></em> <span class="math inline">\(0 \leq 1\)</span> y un resultado incorrecto con <em><span class="math inline">\(prob\)</span></em> <span class="math inline">\(1-p\)</span>. 1. Si <span class="math inline">\(p &gt; 1/2\)</span> (c/votante tiende a votar más correcto que incorrecto), añadir más votantes aumenta la <em><span class="math inline">\(prob\)</span></em> de que la mayoría elija correctamente y la <em><span class="math inline">\(prob\)</span></em> de una decisión correcta tiende a 1 2. Si <span class="math inline">\(p &lt; 1/2\)</span> (c/votante tiende a votar más incorrecto que correcto), añadir más votantes disminuye la <em><span class="math inline">\(prob\)</span></em> de que la mayoría elija correctamente y la <em><span class="math inline">\(prob\)</span></em> de una decisión correcta se maximiza para un tamaño igual a 1.</p>
+</blockquote>
+<ul>
+<li>Link: https://www.geogebra.org/m/ntctceas</li>
+</ul>
+</section>
+<section id="preferencias-de-pico-único" class="slide level2 center">
+<h2>Preferencias de pico único</h2>
+<blockquote>
+<p>DEFINICIÓN 2. Las preferencias de política del votante <span class="math inline">\(i\)</span> son <strong>de pico único</strong> si lo siguiente se cumple:<br>
+Si <span class="math inline">\(q^{''} \leq q^{'} \leq q(\alpha^{i})\)</span> o <span class="math inline">\(q^{''} \geq q^{'} \geq q(\alpha^{i})\)</span>, entonces<br>
+<span class="math inline">\(W(q^{''};\alpha^{i}) \leq W(q^{'};\alpha^{i})\)</span></p>
+</blockquote>
+<ul>
+<li>Un primer resultado simple pero útil es:</li>
+</ul>
+<blockquote>
+<p>PROPOSICIÓN 1. Si todos los votantes tienen preferencias de política de pico único sobre un ordenamiento dado de alternativas de política, un ganador de Condorcet siempre existe y coincide con el punto ideal del mediano</p>
+</blockquote>
+</section>
+<section id="preferencias-de-pico-único-cont." class="slide level2 center">
+<h2>Preferencias de pico único (cont.)</h2>
+<ul>
+<li>Considere 3 (tres) individuos que difieren sólo en sus niveles de ingreso (y esos niveles moldean sus preferencias por políticas)</li>
+<li>El individuo 1 es de ingreso alto (prefiere <span class="math inline">\(T\)</span> bajos), el individuo 2 es de ingreso medio y prefiere <span class="math inline">\(T\)</span> medianos y el individuo 3 es de ingreso bajo y prefiere <span class="math inline">\(T\)</span> altos.</li>
+<li>Si <span class="math inline">\(A\)</span>, <span class="math inline">\(B\)</span> y <span class="math inline">\(C\)</span> son tasas bajas, medias y altas respectivamente entonces: <span class="math display">\[\begin{aligned}
+\tau^{*}(\alpha^{1})=A \\
+\tau^{*}(\alpha^{2})=B \\
+\tau^{*}(\alpha^{3})=C \\
+\end{aligned}\]</span></li>
+<li>En base a la figura, expres el orden de preferencias de cada individuo. ¿Qué nota?</li>
+</ul>
+</section>
+<section id="preferencias-de-pico-único-cont.-1" class="slide level2 center">
+<h2>Preferencias de pico único (cont.)</h2>
+
+<img data-src="fig/fig-02-013.png" style="width:80.0%" class="r-stretch quarto-figure-center"><p class="caption">Preferencias de política (<span class="math inline">\(\tau\)</span>) [Fuente: Fergusson y Querubin (2018)]</p></section>
+<section id="políticas-unidimensionales-cont.-1" class="slide level2 center">
+<h2>Políticas unidimensionales (cont.)</h2>
+<p><em>Fijamos el vector de parámetros a un valor dado, ordenamos a los individuos en función de sus puntos ideales <span class="math inline">\(q(\alpha^{i})\)</span> y etiquetamos al punto ideal del mediano como <span class="math inline">\(q^{m}\)</span>. Suponga que <span class="math inline">\(q^{m}\)</span> se enfrenta en votación de a pares a cualquier otra política <span class="math inline">\(q^{''}&lt;q^{m}\)</span>. De acuerdo a la DEFINICIÓN 2, cualquier individuo cuyo punto ideal satisface <span class="math inline">\(q^{m} \leq q(\alpha^{i})\)</span> prefiere <span class="math inline">\(q^{m}\)</span> a <span class="math inline">\(q^{''}\)</span> dado que está más cerca de su punto ideal. Por el supuesto de voto sincero (A2), votan por <span class="math inline">\(q^{m}\)</span>. La coalición que vota por <span class="math inline">\(q^{m}\)</span> entonces constituye una mayoría. Por razonamiento análogo a <span class="math inline">\(q^{''}&gt;q^{m}\)</span>, obtenemos el resultado de que <span class="math inline">\(q^{m}\)</span> es un ganador de Condorcet</em></p>
+</section>
+<section id="el-votante-mediano" class="slide level2 center">
+<h2>El votante mediano</h2>
+<blockquote>
+<p>COROLARIO 1. <span class="math inline">\(q^{m}\)</span> es la única política de equilibrio (punto estable) bajo regla de mayoría pura, esto es bajo supuestos A1-A3.</p>
+</blockquote>
+<ul>
+<li>La intuición es sencilla: <span class="math inline">\(q^{m}\)</span> vence a cualquier otro ganador previo apenas se presenta y no puede luego ser vencida en ninguna votación de a pares sucesiva</li>
+<li>Hay dos supuestos bastante fuertes detrás de este resultado: 1) unidimensionalidad; 2) preferencias de pico único.</li>
+</ul>
+</section>
+<section id="aplicación-preferencias-saborto" class="slide level2 center">
+<h2>Aplicación: Preferencias s/aborto</h2>
+<ul>
+<li>Cuestión del aborto en EEUU <span class="math inline">\(\longrightarrow\)</span> polarización
+<ul>
+<li>Provida (V) <span class="math inline">\(\longrightarrow\)</span> prohibir aborto totalmente</li>
+<li>Proeleccion (E) <span class="math inline">\(\longrightarrow\)</span> derecho absoluto a elegir</li>
+<li>Roe-Wade (R) <span class="math inline">\(\longrightarrow\)</span> aborto en etapa temprana</li>
+</ul></li>
+<li>¿Cuáles son las preferencias de los grupos?
+<ul>
+<li><span class="math inline">\(V \succ_{v} R \succ_{v} E\)</span> (provida)</li>
+<li><span class="math inline">\(E \succ_{e} R \succ_{e} V\)</span> (proeleccion)</li>
+<li><span class="math inline">\(R \succ_{rw1} V \succ_{rw1} E\)</span> (roe-wade1)</li>
+<li><span class="math inline">\(R \succ_{rw2} E \succ_{rw2} V\)</span> (roe-wade2)</li>
+</ul></li>
+<li>Ninguno de los grupos considera a <span class="math inline">\(R\)</span> como la peor alternativa <span class="math inline">\(\longrightarrow\)</span> ¿consenso?</li>
+</ul>
+</section>
+<section id="aplicación-preferencias-saborto-cont." class="slide level2 center">
+<h2>Aplicación: Preferencias s/aborto (cont.)</h2>
+
+<img data-src="fig/fig-02-012.jpeg" style="width:70.0%" class="r-stretch quarto-figure-center"><p class="caption">Polarización y preferencias de pico único</p></section>
+<section id="aplicación-preferencias-saborto-cont.-1" class="slide level2 center">
+<h2>Aplicación: Preferencias s/aborto (cont.)</h2>
+<blockquote>
+<p><strong>Implicancia fundamental</strong> <span class="math inline">\(\longrightarrow\)</span> aún cuando los miembros del grupo tengan puntos de vista <strong>muy diferentes</strong> sobre lo que el grupo debería hacer, la <strong>regla de la mayoría funciona a la perfección</strong> siempre y cuando se obtenga un grado mínimo de consenso (captado mediante una curva de pico único).</p>
+</blockquote>
+</section>
+<section id="limitaciones-y-realismo" class="slide level2 center">
+<h2>Limitaciones y realismo</h2>
+<ul>
+<li>El supuesto de unidimensionalidad de <span class="math inline">\(q\)</span> restringe fuertemente el menú de instrumentos de política –piense en un combo de PF y PM.</li>
+<li>El supuesto de preferencias de pico único es satisfecho cuando los agentes no hacen elecciones económicas. Pero los problemas interesantes surgen cuando hay elecciones económicas endógenas (a los instrumentos de pólitica)
+<ul>
+<li>Problema <span class="math inline">\(\longrightarrow\)</span> rdo. del mercado depende de la política y a su vez entran en las preferencias de política individuales (externalidades, indivisibilidades, etc). En el modelo: <span class="math inline">\(P(q)\)</span> como argumento de <span class="math inline">\(W\)</span>.</li>
+</ul></li>
+</ul>
+</section>
+<section id="propiedad-de-cruce-único" class="slide level2 center">
+<h2>Propiedad de cruce único</h2>
+<ul>
+<li>Variante más general <span class="math inline">\(\longrightarrow\)</span> propiedad de cruce único (<em>single-crossing property</em>). La restricción no es sobre la forma de las preferencias individuales sino sobre la forma de la heterogeneidad en votantes. Supone unidimensionalidad no sólo en <span class="math inline">\(q\)</span> sino también en <span class="math inline">\(\alpha^{i}\)</span> con dominio en el intervalo <span class="math inline">\(\mathcal{V}\)</span> (el conjunto de votantes).</li>
+</ul>
+<blockquote>
+<p>DEFINICIÓN 3. Las preferencias de los votantes en <span class="math inline">\(\mathcal{V}\)</span> satisfacen la <strong>propiedad de cruce único</strong> si lo siguiente se cumple:<br>
+Si <span class="math inline">\(q&gt;q^{'}\)</span> y <span class="math inline">\(\alpha^{i'}&gt;\alpha^{i}\)</span>, o si <span class="math inline">\(q&lt;q^{'}\)</span> y <span class="math inline">\(\alpha^{i'}&lt;\alpha^{i}\)</span>, entonces<br>
+<span class="math inline">\(W(q;\alpha^{i}) \geq W(q^{'};\alpha^{i})\)</span> <span class="math inline">\(\Rightarrow\)</span> <span class="math inline">\(W(q;\alpha^{i'}) \geq W(q^{'};\alpha^{i'})\)</span></p>
+</blockquote>
+</section>
+<section id="propiedad-de-cruce-único-cont." class="slide level2 center">
+<h2>Propiedad de cruce único (cont.)</h2>
+<blockquote>
+<p>PROPOSICIÓN 2. Si las preferencias de los votantes en <span class="math inline">\(\mathcal{V}\)</span> satisfacen la propiedad de cruce único, un ganador de Condorcet siempre existe y coincide con el punto ideal del votante con el valor mediano de <span class="math inline">\(\alpha^{i}\)</span>.</p>
+</blockquote>
+<ul>
+<li>La propiedad de cruce único es similar a de pico único <span class="math inline">\(\longrightarrow\)</span> proyecta las preferencias por <span class="math inline">\(q\)</span> sobre el conjunto de tipos de votantes <span class="math inline">\(\mathcal{V}\)</span>.</li>
+<li>Intuición <span class="math inline">\(\longrightarrow\)</span> dadas dos políticas cualesquiera, una más a la derecha que la otra, mientras más “de derecha” sea un individuo (con relación a otro individuo), más preferirá la política de la derecha a la de la izquierda.</li>
+</ul>
+</section>
+<section id="propiedad-de-cruce-único-cont.-1" class="slide level2 center">
+<h2>Propiedad de cruce único (cont.)</h2>
+<ul>
+<li>Para probar esta proposición, etiquete al valor crítico de <span class="math inline">\(\alpha^{i}\)</span> como <span class="math inline">\(\alpha^{m}\)</span>. Entonces, por DEFINICIÓN 3, cualquier votante con <span class="math inline">\(\alpha^{i} \geq \alpha^{m}\)</span> prefiere <span class="math inline">\(q(\alpha^{m})\)</span> a cualquier <span class="math inline">\(q &lt; q(\alpha^{m})\)</span>. En forma similar, cualquier votante con <span class="math inline">\(\alpha^{i} \leq \alpha^{m}\)</span> prefiere <span class="math inline">\(q &gt; q(\alpha^{m})\)</span>. En otras palabras, <span class="math inline">\(q(\alpha^{m})\)</span> gana un voto de a pares ante cualquier otra alternativa posible*</li>
+</ul>
+</section>
+<section id="comparando-ambas" class="slide level2 center">
+<h2>Comparando ambas</h2>
+<ul>
+<li>¿Más realista? <span class="math inline">\(\longrightarrow\)</span> más natural y razonable <em>ordenar a las personas</em> en base a un único parámetro (ingreso, productividad, ideología) que <em>ordenar a las alternativas</em>.</li>
+<li>El conflicto de interés surge a partir de la distribución de <em>tipos</em> de individuos distribuidos a lo largo de un espacio unidimensional</li>
+<li>Resumiendo:
+<ol type="1">
+<li>Preferencias de pico único <span class="math inline">\(\longrightarrow\)</span> puntos ideales medianos</li>
+<li>Propiedad de cruce único <span class="math inline">\(\longrightarrow\)</span> puntos ideales del agente de tipo mediano</li>
+</ol></li>
+</ul>
+</section></section>
+<section>
+<section id="ejemplos-y-aplicaciones" class="title-slide slide level1 center">
+<h1>Ejemplos y aplicaciones</h1>
+<ul>
+<li>Ejemplos de PPU y PCU</li>
+<li>Aplicaciones del teorema del votante mediano
+<ul>
+<li>Redistribución simple</li>
+<li>Heterogeidad en preferencias por bien público</li>
+<li>Redistribución con imposición distorsiva (PCU)</li>
+</ul></li>
+</ul>
+</section>
+<section id="ejemplo" class="slide level2 center">
+<h2>Ejemplo</h2>
+<ul>
+<li>Pueden no ser de pico único y si de cruce único… <span class="math display">\[\begin{aligned}
+x \succ_{1} y \succ_{1} z \\
+x \succ_{2} z \succ_{2} y \\
+z \succ_{3} y \succ_{3} x
+\end{aligned}\]</span></li>
+<li>Estas preferencias no son de pico único [¿por qué?]. Pero satisfacen la propiedad de cruce único. El ordenamiento natural es <span class="math inline">\(x&lt;y&lt;z\)</span> y sea: <span class="math display">\[\begin{aligned}
+z \succ_{2} y \Rightarrow z \succ_{3} y\\
+x \succ_{2} z \Rightarrow x \succ_{1} z\\
+x \succ_{2} y \Rightarrow x \succ_{1} y
+\end{aligned}\]</span></li>
+</ul>
+</section>
+<section id="ejemplo-cont." class="slide level2 center">
+<h2>Ejemplo (cont.)</h2>
+<ul>
+<li>Pueden si ser de pico único y no de cruce único… <span class="math display">\[\begin{aligned}
+w \succ_{1} x \succ_{1} y \succ_{1} z \\
+x \succ_{2} y \succ_{2} z \succ_{2} w \\
+y \succ_{3} x \succ_{3} w \succ_{3} z
+\end{aligned}\]</span></li>
+<li>No satisfacen la propiedad de cruce único. El ordenamiento natural es <span class="math inline">\(w&lt;x&lt;y&lt;z\)</span> y si <span class="math inline">\(2&lt;3\)</span>, <span class="math inline">\(z \succ_{2} w\)</span> pero <span class="math inline">\(z \cancel{\succ_{3}} w\)</span>; para <span class="math inline">\(3&lt;2\)</span>, <span class="math inline">\(y \succ_{3} x\)</span> pero <span class="math inline">\(y \cancel{\succ_{2}} x\)</span>.</li>
+</ul>
+</section>
+<section id="ejemplo-cont.-1" class="slide level2 center">
+<h2>Ejemplo (cont.)</h2>
+<ul>
+<li>Considere el siguiente perfil de preferencias: <span class="math display">\[\begin{aligned}
+1 \succ_{1} 2 \succ_{1} 3 \succ_{1} 4 \\
+2 \succ_{2} 3 \succ_{2} 1 \succ_{2} 4 \\
+3 \succ_{3} 2 \sim_{3} 4 \succ_{3} 1 \\
+4 \succ_{4} 3 \succ_{4} 2 \succ_{4} 1
+\end{aligned}\]</span></li>
+</ul>
+</section>
+<section id="ejemplo-cont.-2" class="slide level2 center">
+<h2>Ejemplo (cont.)</h2>
+
+<img data-src="fig/fig-02-005.png" class="r-stretch quarto-figure-center"><p class="caption">Pico único versus cruce único</p></section>
+<section id="aplicación-modelo-simple-de-redistribución" class="slide level2 center">
+<h2>Aplicación: Modelo simple de redistribución</h2>
+<ul>
+<li>Hay <span class="math inline">\(\delta\)</span> individuos ricos y <span class="math inline">\((1-\delta)\)</span> individuos pobres con <span class="math inline">\(\delta &lt; \frac{1}{2}\)</span>. Pobres tienen ingresos (exógenos) <span class="math inline">\(y^{p}\)</span> y ricos <span class="math inline">\(y^{r}\)</span></li>
+<li>Ingreso total <span class="math inline">\(\longrightarrow\)</span> <span class="math inline">\(\delta y^{r}+(1-\delta)y^{p}=y\)</span> –población normalizada a <span class="math inline">\(1\)</span> por lo que <span class="math inline">\(y=\bar{y}\)</span>.</li>
+<li>Sea <span class="math inline">\(\theta\)</span> fracción de <span class="math inline">\(y\)</span> en manos de ricos tal que <span class="math inline">\(y^{r}=\frac{\theta y}{\delta}\)</span> y que <span class="math inline">\(y^{p}=\frac{(1-\theta)y}{1-\delta}\)</span></li>
+<li>Note que <span class="math inline">\(y^{r} &gt; y^{p}\)</span> y que <span class="math inline">\(\theta &gt; \delta\)</span>. Aumento en <span class="math inline">\(\theta\)</span> es más desigualdad, si <span class="math inline">\(\theta=\delta\)</span>, hay perfecta equidad <span class="math display">\[\begin{aligned}
+c^{i}=(1-\tau)y^{i}+T \\
+T=\tau(\delta y^{r}+(1-\delta)y^{p})=\tau y
+\end{aligned}\]</span></li>
+</ul>
+</section>
+<section id="aplicación-modelo-simple-de-redistribución-cont." class="slide level2 center">
+<h2>Aplicación: Modelo simple de redistribución (cont.)</h2>
+<ul>
+<li>Utilidad lineal en el consumo, <span class="math inline">\(u=c^{i}\)</span>. Sustituyendo RP del gobierno, la utilidad indirecta (V) es: <span class="math display">\[\begin{aligned}
+V^{i}(\tau)=(1-\tau)y^{i}+\tau y
+\end{aligned}\]</span></li>
+<li>Y la politica preferida maximiza <span class="math inline">\(V^{i}(\tau)\)</span> por lo que: <span class="math display">\[\begin{aligned}
+\frac{\partial V^{i}(\tau)}{\partial \tau}=-y^{i}+y
+\end{aligned}\]</span></li>
+<li>Pobres <span class="math inline">\(\longrightarrow\)</span> prefieren <span class="math inline">\(\tau=1\)</span> (<span class="math inline">\(y\)</span> menor al promedio); ricos <span class="math inline">\(\longrightarrow\)</span> prefieren <span class="math inline">\(\tau=0\)</span> (<span class="math inline">\(y\)</span> mayor al promedio)</li>
+<li>Según el TVM <span class="math inline">\(\longrightarrow\)</span> <span class="math inline">\(\tau^{eq}=1\)</span> [¿Por qué?]</li>
+</ul>
+</section>
+<section id="aplicación-modelo-simple-de-redistribución-cont.-1" class="slide level2 center">
+<h2>Aplicación: Modelo simple de redistribución (cont.)</h2>
+<ul>
+<li>Mas realismo <span class="math inline">\(\longrightarrow\)</span> hay costo asociado a la imposición (DWL) por lo que pobres no eligen <span class="math inline">\(\tau=1\)</span>. Ahora: <span class="math display">\[\begin{aligned}
+T=\tau y - c(\tau)y
+\end{aligned}\]</span></li>
+<li>donde <span class="math inline">\(c'(\tau)&gt;0\)</span>, <span class="math inline">\(c''(\tau)&lt;0\)</span>, <span class="math inline">\(c'(0)=0\)</span>, y <span class="math inline">\(c'(1)=\infty\)</span>. Con lo que la nueva <span class="math inline">\(V(.)\)</span> es <span class="math display">\[\begin{aligned}
+V^{i}(\tau)=(1-\tau)y^{i}+T=(1-\tau)y^{i} +\tau y - c(\tau)y
+\end{aligned}\]</span></li>
+<li>CPO es <span class="math inline">\(c'(\tau^{eq})y=y-y^{i}\)</span>. De modo que ahora en <span class="math inline">\(\tau=1\)</span>, <span class="math inline">\(c'(\tau)=\infty\)</span>, y <em>cualquier individuo</em> mejora utilidad con baja de T.</li>
+</ul>
+</section>
+<section id="aplicación-modelo-simple-de-redistribución-cont.-2" class="slide level2 center">
+<h2>Aplicación: Modelo simple de redistribución (cont.)</h2>
+<ul>
+<li>Para verificar preferencias unimodales, tomamos 2da derivada de V: <span class="math inline">\(-c''(\tau)&lt;0\)</span>. Sustituyendo <span class="math inline">\(y^{p}=\frac{(1-\theta)y}{1-\delta}\)</span> en CPO: <span class="math display">\[\begin{aligned}
+c'(\tau^{p})=\frac{\theta-\delta}{1-\delta}
+\end{aligned}\]</span></li>
+<li>Si <span class="math inline">\(\theta\)</span> sube, <span class="math inline">\(\tau^{p}\)</span> aumenta –interprete [resultado seminal Meltzer and Richard (1981)]</li>
+<li>Implicancias:
+<ul>
+<li>Mayor desigualdad, menor crecimiento [Persson and Tabellini (1994), Alesina and Rodrik (1994)]</li>
+<li>¿Por qué entonces los pobres votan? Los ricos tendrían incentivos a que no [Acemoglu and Robinson (2000)]</li>
+</ul></li>
+</ul>
+</section>
+<section id="aplicación-valoración-de-bpp" class="slide level2 center">
+<h2>Aplicación: valoración de BPP</h2>
+<ul>
+<li>Individuo <span class="math inline">\(i\)</span> tiene preferencias sobre un bien privado <span class="math inline">\(c^{i}\)</span> y un bien público <span class="math inline">\(g\)</span> tales: <span class="math display">\[\begin{aligned}
+u^{i}=c^{i}+\alpha^{i}H(g)
+\end{aligned}\]</span></li>
+<li><span class="math inline">\(H(.)\)</span> es cóncava y <span class="math inline">\(\alpha^{i}\)</span> es parámetro intrínseco de agente con distribución acumulativa <span class="math inline">\(F(\alpha)\)</span> y función de densidad <span class="math inline">\(f(\alpha)\)</span>. Normalizamos tamaño de población a <span class="math inline">\(1\)</span> y todos los individuos tienen ingreso exógeno igual a <span class="math inline">\(1\)</span></li>
+<li>Gobierno cobra impuesto <span class="math inline">\(\tau\)</span> a cada individuo y las RP son: <span class="math display">\[\begin{aligned}
+c^{i}=1-\tau \\
+\tau=g
+\end{aligned}\]</span></li>
+</ul>
+</section>
+<section id="aplicación-valoración-de-bpp-cont." class="slide level2 center">
+<h2>Aplicación: valoración de BPP (cont.)</h2>
+<ul>
+<li>Maximizamos la utilidad indirecta de cada individuo <span class="math inline">\(V^{i}(g)\)</span> para encontrar el nivel preferido de <span class="math inline">\(g\)</span>: <span class="math display">\[\begin{aligned}
+\max_{\tau} V^{i}(g)=(1-g)+\alpha^{i}H(g)
+\end{aligned}\]</span></li>
+<li>De la CPO, el <span class="math inline">\(g\)</span> óptimo para <span class="math inline">\(i\)</span> satisface <span class="math inline">\(\alpha^{i}H'(g)^{i}=1\)</span></li>
+<li>Podemos usar TVM (fn utilidad cóncava y unidimensional). En este caso, hay una relación monótona entre <span class="math inline">\(g^{i}\)</span> y <span class="math inline">\(\alpha^{i}\)</span>: <span class="math display">\[\begin{aligned}
+\frac{\partial g^{i}}{\partial \alpha^{i}}=-\frac{H'(g^{i})}{\alpha^{i}H''(g^{i})}&gt;0
+\end{aligned}\]</span></li>
+<li>Los que más valoran el BPP prefieren mayores niveles de gasto</li>
+<li>Individuo con <span class="math inline">\(g^{i}\)</span> mediano es también el individuo con <span class="math inline">\(\alpha{i}\)</span> mediano. Equilibrio político conduce al gasto que satisface: <span class="math display">\[\begin{aligned}
+\alpha_{M}H'(g_{M})=1
+\end{aligned}\]</span></li>
+<li>donde <span class="math inline">\(F(\alpha_{M})=1/2\)</span></li>
+</ul>
+</section>
+<section id="aplicación-valoración-de-bpp-cont.-1" class="slide level2 center">
+<h2>Aplicación: valoración de BPP (cont.)</h2>
+<ul>
+<li>Provisión política del bien bajo democracia directa <em>en general ineficiente</em> <span class="math display">\[\begin{aligned}
+\max_{g} \int [(1-g)+\alpha^{i}H(g)]f(\alpha^{i})d\alpha^{i}
+\end{aligned}\]</span></li>
+<li>que equivale a: <span class="math display">\[\begin{aligned}
+\max_{g} (1-g)+H(g) \int \alpha^{i})f(\alpha^{i})d\alpha^{i}
+\end{aligned}\]</span></li>
+<li>Note que <span class="math inline">\(\int \alpha^{i}f(\alpha^{i})d\alpha^{i}\)</span> es la valoración media del BPP. LLamandole a <span class="math inline">\(\alpha^{i}\)</span> con <span class="math inline">\(\bar{\alpha}\)</span>, el gasto socialmente óptimo es: <span class="math display">\[\begin{aligned}
+\bar{\alpha}H'(g^{SO})=1
+\end{aligned}\]</span></li>
+<li>por lo que <span class="math inline">\(g^{SO}\)</span> y <span class="math inline">\(g_{M}\)</span> son distintos [sólo coinciden cuando distribución de <span class="math inline">\(\alpha^{i}\)</span> es tal que <span class="math inline">\(\alpha_{M}=\bar{A}\)</span>]</li>
+</ul>
+</section>
+<section id="aplicación-redistribución-a-través-de-imposición-distorsiva" class="slide level2 center">
+<h2><em>Aplicación: Redistribución a través de imposición distorsiva</em></h2>
+<ul>
+<li>Versión simplificada de modelos de Romer (1975), Roberts (1977) y Meltzer and Richard (1981). El individuo <span class="math inline">\(i^{th}\)</span> tiene preferencias cuasi-lineales <span class="math display">\[\begin{aligned}
+w^{i}=c^{i}+V(x^{i})
+\end{aligned}\]</span></li>
+<li>donde <span class="math inline">\(c^{i}\)</span> y <span class="math inline">\(x^{i}\)</span> denotan consumo individual y ocio, respectivamente; y <span class="math inline">\(V(.)\)</span> es un función de utilidad cóncava. La RP privada es: <span class="math display">\[\begin{aligned}
+c^{i} \leq (1-q)l^{i}+f
+\end{aligned}\]</span></li>
+<li>donde <span class="math inline">\(q\)</span> denota la alícuota del impuesto al ingreso, <span class="math inline">\(l^{i}\)</span> la oferta de trabajo individual y <span class="math inline">\(f\)</span> una transferencia de suma fija.</li>
+</ul>
+</section>
+<section id="aplicación-redistribución-a-través-de-imposición-distorsiva-cont." class="slide level2 center">
+<h2><em>Aplicación: Redistribución a través de imposición distorsiva (cont.)</em></h2>
+<ul>
+<li>El salario real es normalizado e igual a uno. La productividad individual difiere (<span class="math inline">\(\alpha^{i}\)</span>) –ie. diferencias en la cantidad de <em>tiempo efectivo</em> disponible <span class="math display">\[\begin{aligned}
+1-\alpha^{i} \geq x^{i}+l^{i}
+\end{aligned}\]</span></li>
+<li><span class="math inline">\(\alpha^{i}\)</span> se distribuye con media <span class="math inline">\(\alpha\)</span> y mediana <span class="math inline">\(\alpha^{m}\)</span>. La oferta de trabajo óptima es: <span class="math display">\[\begin{aligned}
+l^{i}=L(q)-(\alpha^{i}-\alpha)
+\end{aligned}\]</span></li>
+<li>donde <span class="math inline">\(L(q) \equiv 1-\alpha-V_{x}^{-1}(1-q)\)</span> es decreciente en <span class="math inline">\(q\)</span> por la concavidad de <span class="math inline">\(V(.)\)</span>.</li>
+</ul>
+</section>
+<section id="aplicación-redistribución-a-través-de-imposición-distorsiva-cont.-1" class="slide level2 center">
+<h2><em>Aplicación: Redistribución a través de imposición distorsiva (cont.)</em></h2>
+<ul>
+<li>Los consumidores más productivos trabajan <em>más a cada alícuota</em>. Sea <span class="math inline">\(l\)</span> la oferta de trabajo media y como la media de <span class="math inline">\(\alpha^{i}\)</span> es <span class="math inline">\(\alpha\)</span>, entonces $l=L(q). Por lo que la RP del gobierno es: <span class="math display">\[\begin{aligned}
+f \leq ql \equiv qL(q)
+\end{aligned}\]</span></li>
+<li>Sea <span class="math inline">\(q\)</span> la variable de política(<span class="math inline">\(f\)</span> determinada como residuo) y sustituyendo en la fn. de utilidad individual: <span class="math display">\[\begin{aligned}
+W^{i}(q;\alpha^{i}) \equiv L(q)+V(1-L(q)-\alpha)-(1-q)(\alpha^{i}-\alpha)
+\end{aligned}\]</span></li>
+</ul>
+</section>
+<section id="aplicación-redistribución-a-través-de-imposición-distorsiva-cont.-2" class="slide level2 center">
+<h2><em>Aplicación: Redistribución a través de imposición distorsiva (cont.)</em></h2>
+<ul>
+<li>La fn. de utilidad indirecta satisface la <strong>propiedad de cruce único</strong> <span class="math inline">\(\longrightarrow\)</span> suponga que la oferta de trabajo media <span class="math inline">\(L(q)\)</span> fuera lo suficientemente convexa para implicar una <span class="math inline">\(W^{i}(q;\alpha^{i})\)</span> de preferencias de pico no único.</li>
+<li>Entonces, la monotonicidad de la oferta de trabajo indiviual en <span class="math inline">\(\alpha^{i}\)</span> es aún suficiente para garantizar la existencia de un ganador de Condorcet bien definido –la alícuota preferida por el votante con productividad e ingreso medios</li>
+</ul>
+</section></section>
+<section>
+<section id="reglas-de-votación" class="title-slide slide level1 center">
+<h1>Reglas de votación</h1>
+<ul>
+<li>Diferentes reglas de votación</li>
+<li>Votacíon con ciclos: frecuencia y casos</li>
+<li>Problemas y limitaciones del análisis</li>
+<li>Intuición gráfica del TVM</li>
+</ul>
+</section>
+<section id="votación-condorcet" class="slide level2 center">
+<h2>Votación Condorcet</h2>
+<ul>
+<li>Suponga que un colectivo debe elegir entre 3 alternativas: A, B y C. Hay a priori 6 formas diferentes en que las preferencias pueden ser ordenadas:
+<ul>
+<li><span class="math inline">\(A \succ_{1} B \succ_{1} C\)</span></li>
+<li><span class="math inline">\(A \succ_{2} C \succ_{2} B\)</span></li>
+<li><span class="math inline">\(B \succ_{3} A \succ_{3} C\)</span></li>
+<li><span class="math inline">\(B \succ_{4} C \succ_{4} A\)</span></li>
+<li><span class="math inline">\(C \succ_{5} A \succ_{5} B\)</span></li>
+<li><span class="math inline">\(C \succ_{6} B \succ_{6} A\)</span></li>
+</ul></li>
+</ul>
+</section>
+<section id="votación-condorcet-cont." class="slide level2 center">
+<h2>Votación Condorcet (cont.)</h2>
+<ul>
+<li><p><span class="math inline">\(A \succ_{1} B \succ_{1} C\)</span></p></li>
+<li><p><span class="math inline">\(B \succ_{4} C \succ_{4} A\)</span></p></li>
+<li><p><span class="math inline">\(C \succ_{6} B \succ_{6} A\)</span></p></li>
+<li><p>Imagine ahora que se vota de a pares.</p>
+<ul>
+<li>Voto entre A y B. ¿Quién gana? B</li>
+<li>Voto entre B y C. ¿Quién gana? B</li>
+<li>Voto entre C y A (¿es relevante?)</li>
+</ul></li>
+<li><p>¿Hay alguna que gana a todas las demás? Si. La alternativa B. [¿Por qué A no puede ser un GdC? ¿Por qué C no es un GdC?]. La alternativa B es un <strong>ganador de Condorcet</strong></p></li>
+</ul>
+</section>
+<section id="votación-condorcet-cont.-1" class="slide level2 center">
+<h2>Votación Condorcet (cont.)</h2>
+<ol type="1">
+<li><span class="math inline">\(A \succ_{1} B \succ_{1} C\)</span></li>
+<li><span class="math inline">\(B \succ_{4} C \succ_{4} A\)</span></li>
+<li><span class="math inline">\(C \succ_{5} A \succ_{5} B\)</span></li>
+</ol>
+<ul>
+<li>Imagine ahora que se vota de a pares.
+<ul>
+<li>Voto entre A y B. ¿Quién gana? A</li>
+<li>Voto entre B y C. ¿Quién gana? B</li>
+<li>Voto entre C y A. ¿Quién gana? C</li>
+</ul></li>
+<li>¿Cuál debería ganar si hay transitividad? A</li>
+<li>No hay transitividad: <strong>ciclo de Condorcet</strong> <span class="math display">\[A \succ B \succ C \succ A\]</span></li>
+</ul>
+</section>
+<section id="ilustración-fijar-agenda" class="slide level2 center">
+<h2>Ilustración: Fijar agenda</h2>
+<ul>
+<li>Supongamos que tenemos 30 personas cuyas preferencias por 4 (cuatro) alternativas se distribuyen de la siguiente manera:</li>
+</ul>
+<div id="tab:tab1">
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: center;">votantes</th>
+<th style="text-align: center;">preferencias</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">10</td>
+<td style="text-align: center;"><span class="math inline">\(A \succ D \succ C \succ B\)</span></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">10</td>
+<td style="text-align: center;"><span class="math inline">\(B \succ A \succ D \succ C\)</span></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">10</td>
+<td style="text-align: center;"><span class="math inline">\(C \succ B \succ A \succ D\)</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+<ul>
+<li>¿Puede <span class="math inline">\(D\)</span> ganar democráticamente? Si, manipulando el orden de votación como la siguiente: 1) Voto entre <span class="math inline">\(B\)</span> y <span class="math inline">\(A\)</span>; 2) Voto entre <span class="math inline">\(B\)</span> y <span class="math inline">\(C\)</span>; 3) Voto entre <span class="math inline">\(C\)</span> y <span class="math inline">\(D\)</span> <span class="math inline">\(\longrightarrow\)</span> todos disconformes con el resultado [¿Por qué?]</li>
+</ul>
+</section>
+<section id="votación-cíclica-y-agenda" class="slide level2 center">
+<h2>Votación cíclica y agenda</h2>
+<ul>
+<li>Recordando las preferencias que generaron un ciclo de Condorcet. Sea el orden de votación::
+<ul>
+<li>1ra: A vs B. 2da: ganador de A vs B contra C
+<ul>
+<li>Dado que <span class="math inline">\(A \succ B\)</span> y <span class="math inline">\(C \succ A\)</span>, <u>gana C</u></li>
+</ul></li>
+<li>1ra: A vs C. 2da: ganador de A vs C contra B
+<ul>
+<li>Dado que <span class="math inline">\(C \succ A\)</span> y <span class="math inline">\(B \succ C\)</span>, <u>gana B</u></li>
+</ul></li>
+<li>1ra: B vs C. 2da: ganador de B vs C contra A
+<ul>
+<li>Dado que <span class="math inline">\(B \succ C\)</span> y <span class="math inline">\(A \succ B\)</span>, <u>gana A</u>.</li>
+</ul></li>
+</ul></li>
+<li>El ganador depende depende del orden de votación! Este es el problem de los ciclos</li>
+</ul>
+</section>
+<section id="ciclos-con-alternativas-no-definidas" class="slide level2 center">
+<h2>Ciclos con alternativas no definidas</h2>
+<ul>
+<li>Suponga que tres legisladores deben elegir como distribuir un presupuesto de 1000 pesos entre tres provincias
+<ul>
+<li>Inicial <span class="math inline">\(\longrightarrow\)</span> <span class="math inline">\((333.3,333.3,333.3)\)</span></li>
+<li>Propuesta de 1 <span class="math inline">\(\longrightarrow\)</span> <span class="math inline">\((600,400,0)\)</span> [gana por mayoría]</li>
+<li>Propuesta de 3 <span class="math inline">\(\longrightarrow\)</span> <span class="math inline">\((0,600,400)\)</span> [gana por mayoría]</li>
+<li>Propuesta de 1 <span class="math inline">\(\longrightarrow\)</span> <span class="math inline">\((300,700,0)\)</span> [gana por mayoría]</li>
+<li>Propuesta de 3 <span class="math inline">\(\longrightarrow\)</span> <span class="math inline">\((333.3,333.3,333.3)\)</span> y así…</li>
+</ul></li>
+<li>Este problema es conocido como el de <strong>dividir un dólar</strong> y muestra como existen ciclos <span class="math inline">\(\longrightarrow\)</span> alternativas no definidas</li>
+</ul>
+</section>
+<section id="ciclos-con-alternativas-definidas" class="slide level2 center">
+<h2>Ciclos con alternativas definidas</h2>
+<ul>
+<li>Sea un problema redistributivo similar pero con alternativas fijas, <span class="math inline">\(x\)</span>, <span class="math inline">\(y\)</span>, <span class="math inline">\(z\)</span>. Eje vertical, cantidad de recursos de B; eje horizontal, cantidad de recursos de A, y el resto es para C</li>
+<li>Líneas son las CI de cada político</li>
+<li>Votación:
+<ul>
+<li><span class="math inline">\(y\)</span> contra <span class="math inline">\(z\)</span>, gana <span class="math inline">\(y\)</span></li>
+<li><span class="math inline">\(y\)</span> contra <span class="math inline">\(x\)</span>, gana <span class="math inline">\(x\)</span></li>
+<li><span class="math inline">\(x\)</span> contra <span class="math inline">\(z\)</span>, gana <span class="math inline">\(z\)</span></li>
+<li>y así</li>
+</ul></li>
+<li>Posible ciclo infinito aún con nro limitado de alternativas –respetando supuestos básicos</li>
+</ul>
+</section>
+<section id="ciclos-con-alternativas-definidas-cont." class="slide level2 center">
+<h2>Ciclos con alternativas definidas (cont.)</h2>
+
+<img data-src="fig/fig-02-014.png" style="width:70.0%" class="r-stretch quarto-figure-center"><p class="caption">Ciclos e indeterminacionest</p></section>
+<section id="ocurrencia-de-ciclos" class="slide level2 center">
+<h2>Ocurrencia de ciclos</h2>
+
+<img data-src="fig/fig-02-015.png" style="width:80.0%" class="r-stretch quarto-figure-center"><p class="caption">Perfiles de preferencias sin ganador de Condorcet</p></section>
+<section id="limitando-ciclos-agenda-cerrada" class="slide level2 center">
+<h2>Limitando ciclos: agenda cerrada</h2>
+<ul>
+<li>Una forma es limitar número de rondas. Garantiza llegar a una política pero no sabemos con certeza cuál!</li>
+<li>Manipular agenda <span class="math inline">\(\longrightarrow\)</span> otorga poder a quien la controla ya que puede elegir su política preferida (<em>votación sincera</em>)</li>
+<li>Pero hay incentivos a votar estratégicamente
+<ul>
+<li><span class="math inline">\(B\)</span> vota por <span class="math inline">\(z\)</span> en ronda 1 y obtiene <span class="math inline">\(y\)</span> en ronda 2 pero…</li>
+<li><span class="math inline">\(A\)</span> y <span class="math inline">\(C\)</span> también querrán ser estrategicos
+<ul>
+<li>equilibrios múltiples surgen facilmente</li>
+</ul></li>
+</ul></li>
+<li>¿Votación sincera realista?
+<ul>
+<li>Si, cuando hay 2 alternativas</li>
+<li>Si, cuando hay muchos votantes y ninguno es decisivo</li>
+</ul></li>
+</ul>
+</section>
+<section id="poder-de-agenda" class="slide level2 center">
+<h2>Poder de agenda</h2>
+<ul>
+<li>Este simple ejemplo ilustra la importancia del “poder de agenda” –qué alternativas considerar y en qué orden las votamos.</li>
+<li>¿Quiénes establecen la agenda en la vida real?
+<ul>
+<li>En el Congreso, el Presidente de la Cámara y los Presidentes de Comisión tienen amplios poderes para decidir que asuntos se giran y para proponer el orden de votaciones en el recinto. En EEUU, es el Speaker of the House</li>
+<li>En regímenes presidencialistas, los ejecutivos también tienen poder de agenda (DNU, vetos, poderes delegados)</li>
+</ul></li>
+<li>El poder de agenda no es ilimitado ni da control absoluto, pero da alguna ventaja</li>
+</ul>
+</section>
+<section id="votación-borda" class="slide level2 center">
+<h2>Votación Borda</h2>
+<ul>
+<li>El <strong>método de Borda</strong> es una alternativa a Condorcet para superar el problema de los ciclos. Sean 5 votantes y 3 alternativas tal que:</li>
+</ul>
+<div id="tab:tab2">
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: center;">Orden</th>
+<th style="text-align: center;">1</th>
+<th style="text-align: center;">2</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">4</th>
+<th style="text-align: center;">5</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">A</td>
+<td style="text-align: center;">A</td>
+<td style="text-align: center;">A</td>
+<td style="text-align: center;">B</td>
+<td style="text-align: center;">B</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">2</td>
+<td style="text-align: center;">B</td>
+<td style="text-align: center;">B</td>
+<td style="text-align: center;">B</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: center;">C</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">3</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: center;">A</td>
+<td style="text-align: center;">A</td>
+</tr>
+</tbody>
+</table>
+</div>
+<ul>
+<li>Cada individuo (grupo de individuos) van a puntuar las alternativas según el lugar (orden) que ocupen en el ordenamiento. A diferencia de Condorcet, este método usa toda la información de preferencias (intensidad de las preferencias).</li>
+</ul>
+</section>
+<section id="votación-borda-cont." class="slide level2 center">
+<h2>Votación Borda (cont.)</h2>
+<ul>
+<li>Existen dos implementaciones alternativas del método de Borda:
+<ul>
+<li>La alternativa en 1er lugar recibe <span class="math inline">\(n\)</span> puntos, la alternativa en 2do lugar, recibe <span class="math inline">\(n-1\)</span> puntos, y así hasta la última alternativa donde “n” es el número de alternativas.</li>
+<li>La alternativa en primer lugar recibe <span class="math inline">\(n-1\)</span> puntos, la alternativa en segundo lugar, recibe <span class="math inline">\(n-2\)</span> puntos, y así hasta la última donde “n” es el número de alternativas.</li>
+<li>Pueden utilizarse ambos criterios a menos que esté explícitamente indicado un criterio en el ejercicio y/o práctico.</li>
+</ul></li>
+</ul>
+</section>
+<section id="votación-borda-cont.-1" class="slide level2 center">
+<h2>Votación Borda (cont.)</h2>
+<ul>
+<li>En este caso (solucionando por método “n-1”, las alternativas recibirían:
+<ul>
+<li><span class="math inline">\(A\)</span> <span class="math inline">\(\longrightarrow\)</span> 6 votos</li>
+<li><span class="math inline">\(B\)</span> <span class="math inline">\(\longrightarrow\)</span> 7 votos</li>
+<li><span class="math inline">\(C\)</span> <span class="math inline">\(\longrightarrow\)</span> 2 votos</li>
+</ul></li>
+<li>Parece un método razonable aunque algo difícil de implementar <span class="math inline">\(\longrightarrow\)</span> el candidato C podría desistir de presentarse. En ese caso, la primera alternativa recibe 1 (uno) y la segunda 0 (cero).</li>
+</ul>
+</section>
+<section id="votación-borda-cont.-2" class="slide level2 center">
+<h2>Votación Borda (cont.)</h2>
+<ul>
+<li>Ahora con este nuevo esquema, el ganador es <span class="math inline">\(A\)</span>! (obtiene 3 contra 2 votos de <span class="math inline">\(B\)</span>) <span class="math inline">\(\longrightarrow\)</span> presencia o no de alternativas irrelevantes –<span class="math inline">\(C\)</span>- puede modificar el resultado de la elección</li>
+<li>Este método sin embargo se usa mucho en eventos y competiciones musicales y en elección de sedes, mejores jugadores, etc.</li>
+<li>El principal problema del método Borda <span class="math inline">\(\longrightarrow\)</span> viola el principio de mayoría y viola el ganador de Condorcet</li>
+</ul>
+</section>
+<section id="el-rol-del-mediano" class="slide level2 center">
+<h2>El rol del mediano</h2>
+
+<img data-src="fig/fig-02-006.png" class="r-stretch quarto-figure-center"><p class="caption">Preferencias a lo largo de una linea</p></section>
+<section id="el-rol-del-mediano-cont." class="slide level2 center">
+<h2>El rol del mediano (cont.)</h2>
+<ul>
+<li>Las cinco personas, <span class="math inline">\(G={1,2,3,4,5}\)</span> tienen las preferencias mostradas en el gráfico anterior y representadas como <span class="math inline">\(x={x_1,x_2,x_3,x_4,x_5}\)</span>.</li>
+<li>Cada individuo tiene un punto favorito <span class="math inline">\(\longrightarrow\)</span> “punto ideal”. Esa es la tasa de interés que el/ella prefiere en primer lugar. Por ejemplo, para el director 1:
+<ul>
+<li><span class="math inline">\(x_1 \succ x_2 \succ x_3 \succ x_4 \succ x_5\)</span></li>
+</ul></li>
+<li>Las preferencias se “miden” a partir de la utilidad –i.e.&nbsp;la altura de la curva; cada una de las “campanas” es una función de utilidad para cada director.</li>
+</ul>
+</section>
+<section id="el-rol-del-mediano-cont.-1" class="slide level2 center">
+<h2>El rol del mediano (cont.)</h2>
+
+<img data-src="fig/fig-02-007.png" style="width:90.0%" class="r-stretch quarto-figure-center"><p class="caption">Conjuntos preferidos</p></section>
+<section id="el-rol-del-mediano-cont.-2" class="slide level2 center">
+<h2>El rol del mediano (cont.)</h2>
+<ul>
+<li>Tomemos ahora solamente al individuo 5. Su perfil de preferencias es <span class="math inline">\(x_5 \succ x_4 \succ x_3 \succ x_2 \succ x_1\)</span>. Su tasa de interés favorita (punto ideal) es de <span class="math inline">\(8.25\)</span>.</li>
+<li>Tomemos una tasa cualquiera –i.e.&nbsp;<span class="math inline">\(7\)</span>. El conjunto de puntos (tasas) que este individuo prefiere a <span class="math inline">\(7\)</span> es el que se representa como <span class="math inline">\(P_5(y)\)</span>: ese conjunto contiene a todas las tasas de interés entre 7 y 9.25 [¿Por qué?]</li>
+<li>En otras palabras, si la tasa <span class="math inline">\(y\)</span> fuera una propuesta concreta, este individuo prefería todos los puntos del conjunto <span class="math inline">\(P_5(y)\)</span> a <span class="math inline">\(y\)</span>.</li>
+</ul>
+</section>
+<section id="el-rol-del-mediano-cont.-3" class="slide level2 center">
+<h2>El rol del mediano (cont.)</h2>
+
+<img data-src="fig/fig-02-008.png" style="width:80.0%" class="r-stretch quarto-figure-center"><p class="caption">Superponiendo los conjuntos preferidos</p></section>
+<section id="el-rol-del-mediano-cont.-4" class="slide level2 center">
+<h2>El rol del mediano (cont.)</h2>
+<ul>
+<li>Ahora mostramos los “conjuntos preferidos a <span class="math inline">\(y\)</span>” de todos los directores.Superposición:
+<ul>
+<li><span class="math inline">\(P_4(y)\)</span> y <span class="math inline">\(P_5(y)\)</span> tienen puntos en común</li>
+<li><span class="math inline">\(P_1(y)\)</span> y <span class="math inline">\(P_2(y)\)</span> tienen puntos en común</li>
+<li>Los individuos 3, 4 y 5 tienen conjuntos preferidos a <span class="math inline">\(y\)</span> que se superponen; forman una mayoría –3 contra 2, por lo que esa mayoría vence a una propuesta como <span class="math inline">\(y\)</span>.</li>
+</ul></li>
+<li>Así, se tienen todas las mayorías posibles que vencen a <span class="math inline">\(y\)</span> dependiendo de donde este <span class="math inline">\(y\)</span> en la escala.Puede ahora mostrarse todas las coaliciones de mayorías posibles que vencen a <span class="math inline">\(y\)</span>.</li>
+</ul>
+</section>
+<section id="el-rol-del-mediano-cont.-5" class="slide level2 center">
+<h2>El rol del mediano (cont.)</h2>
+<div id="tab:1">
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: center;">Tamaño coalicion</th>
+<th style="text-align: left;">Coalicion</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">3</td>
+<td style="text-align: left;">(1,2,3) (1,2,4) (1,2,5) (1,3,4) (1,3,5) (1,4,5) (2,3,4) (2,3,5) (2,4,5) (3,4,5)</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">4</td>
+<td style="text-align: left;">(1,2,3,4) (1,2,3,5) (1,2,4,5) (1,3,4,5) (2,3,4,5)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">5</td>
+<td style="text-align: left;">(1,2,3,4,5)</td>
+</tr>
+</tbody>
+</table>
+</div>
+</section>
+<section id="el-rol-del-mediano-cont.-6" class="slide level2 center">
+<h2>El rol del mediano (cont.)</h2>
+
+<img data-src="fig/fig-02-009.png" style="width:80.0%" class="r-stretch quarto-figure-center"><p class="caption">El rol del votante mediano</p><div class="footer footer-default">
+
+</div>
+</section></section>
+    </div>
+  </div>
+
+  <script>window.backupDefine = window.define; window.define = undefined;</script>
+  <script src="lect02-23_files/libs/revealjs/dist/reveal.js"></script>
+  <!-- reveal.js plugins -->
+  <script src="lect02-23_files/libs/revealjs/plugin/quarto-line-highlight/line-highlight.js"></script>
+  <script src="lect02-23_files/libs/revealjs/plugin/pdf-export/pdfexport.js"></script>
+  <script src="lect02-23_files/libs/revealjs/plugin/reveal-menu/menu.js"></script>
+  <script src="lect02-23_files/libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
+  <script src="lect02-23_files/libs/revealjs/plugin/reveal-chalkboard/plugin.js"></script>
+  <script src="lect02-23_files/libs/revealjs/plugin/quarto-support/support.js"></script>
+  
+
+  <script src="lect02-23_files/libs/revealjs/plugin/notes/notes.js"></script>
+  <script src="lect02-23_files/libs/revealjs/plugin/search/search.js"></script>
+  <script src="lect02-23_files/libs/revealjs/plugin/zoom/zoom.js"></script>
+  <script src="lect02-23_files/libs/revealjs/plugin/math/math.js"></script>
+  <script>window.define = window.backupDefine; window.backupDefine = undefined;</script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://revealjs.com/config/
+      Reveal.initialize({
+'controlsAuto': true,
+'previewLinksAuto': true,
+'smaller': false,
+'pdfSeparateFragments': false,
+'autoAnimateEasing': "ease",
+'autoAnimateDuration': 1,
+'autoAnimateUnmatched': true,
+'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"<i class=\"fas fa-gear\"></i>","content":"<ul class=\"slide-menu-items\">\n<li class=\"slide-tool-item active\" data-item=\"0\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\"><kbd>f</kbd> Fullscreen</a></li>\n<li class=\"slide-tool-item\" data-item=\"1\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\"><kbd>s</kbd> Speaker View</a></li>\n<li class=\"slide-tool-item\" data-item=\"2\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>o</kbd> Slide Overview</a></li>\n<li class=\"slide-tool-item\" data-item=\"3\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>e</kbd> PDF Export Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"4\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleChalkboard(event)\"><kbd>b</kbd> Toggle Chalkboard</a></li>\n<li class=\"slide-tool-item\" data-item=\"5\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleNotesCanvas(event)\"><kbd>c</kbd> Toggle Notes Canvas</a></li>\n<li class=\"slide-tool-item\" data-item=\"6\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.downloadDrawings(event)\"><kbd>d</kbd> Download Drawings</a></li>\n<li class=\"slide-tool-item\" data-item=\"7\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\"><kbd>?</kbd> Keyboard Help</a></li>\n</ul>"}],"openButton":true},
+'chalkboard': {"buttons":false},
+'smaller': false,
+ 
+        // Display controls in the bottom right corner
+        controls: false,
+
+        // Help the user learn the controls by providing hints, for example by
+        // bouncing the down arrow when they first encounter a vertical slide
+        controlsTutorial: false,
+
+        // Determines where controls appear, "edges" or "bottom-right"
+        controlsLayout: 'edges',
+
+        // Visibility rule for backwards navigation arrows; "faded", "hidden"
+        // or "visible"
+        controlsBackArrows: 'faded',
+
+        // Display a presentation progress bar
+        progress: true,
+
+        // Display the page number of the current slide
+        slideNumber: 'c/t',
+
+        // 'all', 'print', or 'speaker'
+        showSlideNumber: 'all',
+
+        // Add the current slide number to the URL hash so that reloading the
+        // page/copying the URL will return you to the same slide
+        hash: true,
+
+        // Start with 1 for the hash rather than 0
+        hashOneBasedIndex: false,
+
+        // Flags if we should monitor the hash and change slides accordingly
+        respondToHashChanges: true,
+
+        // Push each slide change to the browser history
+        history: true,
+
+        // Enable keyboard shortcuts for navigation
+        keyboard: true,
+
+        // Enable the slide overview mode
+        overview: true,
+
+        // Disables the default reveal.js slide layout (scaling and centering)
+        // so that you can use custom CSS layout
+        disableLayout: false,
+
+        // Vertical centering of slides
+        center: true,
+
+        // Enables touch navigation on devices with touch input
+        touch: true,
+
+        // Loop the presentation
+        loop: false,
+
+        // Change the presentation direction to be RTL
+        rtl: false,
+
+        // see https://revealjs.com/vertical-slides/#navigation-mode
+        navigationMode: 'linear',
+
+        // Randomizes the order of slides each time the presentation loads
+        shuffle: false,
+
+        // Turns fragments on and off globally
+        fragments: true,
+
+        // Flags whether to include the current fragment in the URL,
+        // so that reloading brings you to the same fragment position
+        fragmentInURL: false,
+
+        // Flags if the presentation is running in an embedded mode,
+        // i.e. contained within a limited portion of the screen
+        embedded: false,
+
+        // Flags if we should show a help overlay when the questionmark
+        // key is pressed
+        help: true,
+
+        // Flags if it should be possible to pause the presentation (blackout)
+        pause: true,
+
+        // Flags if speaker notes should be visible to all viewers
+        showNotes: false,
+
+        // Global override for autoplaying embedded media (null/true/false)
+        autoPlayMedia: null,
+
+        // Global override for preloading lazy-loaded iframes (null/true/false)
+        preloadIframes: null,
+
+        // Number of milliseconds between automatically proceeding to the
+        // next slide, disabled when set to 0, this value can be overwritten
+        // by using a data-autoslide attribute on your slides
+        autoSlide: 0,
+
+        // Stop auto-sliding after user input
+        autoSlideStoppable: true,
+
+        // Use this method for navigation when auto-sliding
+        autoSlideMethod: null,
+
+        // Specify the average time in seconds that you think you will spend
+        // presenting each slide. This is used to show a pacing timer in the
+        // speaker view
+        defaultTiming: null,
+
+        // Enable slide navigation via mouse wheel
+        mouseWheel: false,
+
+        // The display mode that will be used to show slides
+        display: 'block',
+
+        // Hide cursor if inactive
+        hideInactiveCursor: true,
+
+        // Time before the cursor is hidden (in ms)
+        hideCursorTime: 5000,
+
+        // Opens links in an iframe preview overlay
+        previewLinks: false,
+
+        // Transition style (none/fade/slide/convex/concave/zoom)
+        transition: 'none',
+
+        // Transition speed (default/fast/slow)
+        transitionSpeed: 'default',
+
+        // Transition style for full page slide backgrounds
+        // (none/fade/slide/convex/concave/zoom)
+        backgroundTransition: 'none',
+
+        // Number of slides away from the current that are visible
+        viewDistance: 3,
+
+        // Number of slides away from the current that are visible on mobile
+        // devices. It is advisable to set this to a lower number than
+        // viewDistance in order to save resources.
+        mobileViewDistance: 2,
+
+        // The "normal" size of the presentation, aspect ratio will be preserved
+        // when the presentation is scaled to fit different resolutions. Can be
+        // specified using percentage units.
+        width: 1500,
+
+        height: 700,
+
+        // Factor of the display size that should remain empty around the content
+        margin: 0.1,
+
+        math: {
+          mathjax: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js',
+          config: 'TeX-AMS_HTML-full',
+          tex2jax: {
+            inlineMath: [['\\(','\\)']],
+            displayMath: [['\\[','\\]']],
+            balanceBraces: true,
+            processEscapes: false,
+            processRefs: true,
+            processEnvironments: true,
+            preview: 'TeX',
+            skipTags: ['script','noscript','style','textarea','pre','code'],
+            ignoreClass: 'tex2jax_ignore',
+            processClass: 'tex2jax_process'
+          },
+        },
+
+        // reveal.js plugins
+        plugins: [QuartoLineHighlight, PdfExport, RevealMenu, RevealChalkboard, QuartoSupport,
+
+          RevealMath,
+          RevealNotes,
+          RevealSearch,
+          RevealZoom
+        ]
+      });
+    </script>
+    <script id="quarto-html-after-body" type="application/javascript">
+    window.document.addEventListener("DOMContentLoaded", function (event) {
+      const toggleBodyColorMode = (bsSheetEl) => {
+        const mode = bsSheetEl.getAttribute("data-mode");
+        const bodyEl = window.document.querySelector("body");
+        if (mode === "dark") {
+          bodyEl.classList.add("quarto-dark");
+          bodyEl.classList.remove("quarto-light");
+        } else {
+          bodyEl.classList.add("quarto-light");
+          bodyEl.classList.remove("quarto-dark");
+        }
+      }
+      const toggleBodyColorPrimary = () => {
+        const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+        if (bsSheetEl) {
+          toggleBodyColorMode(bsSheetEl);
+        }
+      }
+      toggleBodyColorPrimary();  
+      const tabsets =  window.document.querySelectorAll(".panel-tabset-tabby")
+      tabsets.forEach(function(tabset) {
+        const tabby = new Tabby('#' + tabset.id);
+      });
+      const clipboard = new window.ClipboardJS('.code-copy-button', {
+        target: function(trigger) {
+          return trigger.previousElementSibling;
+        }
+      });
+      clipboard.on('success', function(e) {
+        // button target
+        const button = e.trigger;
+        // don't keep focus
+        button.blur();
+        // flash "checked"
+        button.classList.add('code-copy-button-checked');
+        var currentTitle = button.getAttribute("title");
+        button.setAttribute("title", "Copied!");
+        let tooltip;
+        if (window.bootstrap) {
+          button.setAttribute("data-bs-toggle", "tooltip");
+          button.setAttribute("data-bs-placement", "left");
+          button.setAttribute("data-bs-title", "Copied!");
+          tooltip = new bootstrap.Tooltip(button, 
+            { trigger: "manual", 
+              customClass: "code-copy-button-tooltip",
+              offset: [0, -8]});
+          tooltip.show();    
+        }
+        setTimeout(function() {
+          if (tooltip) {
+            tooltip.hide();
+            button.removeAttribute("data-bs-title");
+            button.removeAttribute("data-bs-toggle");
+            button.removeAttribute("data-bs-placement");
+          }
+          button.setAttribute("title", currentTitle);
+          button.classList.remove('code-copy-button-checked');
+        }, 1000);
+        // clear code selection
+        e.clearSelection();
+      });
+      function tippyHover(el, contentFn) {
+        const config = {
+          allowHTML: true,
+          content: contentFn,
+          maxWidth: 500,
+          delay: 100,
+          arrow: false,
+          appendTo: function(el) {
+              return el.closest('section.slide') || el.parentElement;
+          },
+          interactive: true,
+          interactiveBorder: 10,
+          theme: 'quarto-reveal',
+          placement: 'bottom-start'
+        };
+          config['offset'] = [0,0];
+          config['maxWidth'] = 700;
+        window.tippy(el, config); 
+      }
+      const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+      for (var i=0; i<noterefs.length; i++) {
+        const ref = noterefs[i];
+        tippyHover(ref, function() {
+          // use id or data attribute instead here
+          let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+          try { href = new URL(href).hash; } catch {}
+          const id = href.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          return note.innerHTML;
+        });
+      }
+      const findCites = (el) => {
+        const parentEl = el.parentElement;
+        if (parentEl) {
+          const cites = parentEl.dataset.cites;
+          if (cites) {
+            return {
+              el,
+              cites: cites.split(' ')
+            };
+          } else {
+            return findCites(el.parentElement)
+          }
+        } else {
+          return undefined;
+        }
+      };
+      var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+      for (var i=0; i<bibliorefs.length; i++) {
+        const ref = bibliorefs[i];
+        const citeInfo = findCites(ref);
+        if (citeInfo) {
+          tippyHover(citeInfo.el, function() {
+            var popup = window.document.createElement('div');
+            citeInfo.cites.forEach(function(cite) {
+              var citeDiv = window.document.createElement('div');
+              citeDiv.classList.add('hanging-indent');
+              citeDiv.classList.add('csl-entry');
+              var biblioDiv = window.document.getElementById('ref-' + cite);
+              if (biblioDiv) {
+                citeDiv.innerHTML = biblioDiv.innerHTML;
+              }
+              popup.appendChild(citeDiv);
+            });
+            return popup.innerHTML;
+          });
+        }
+      }
+        var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+          var filterRegex = new RegExp('/' + window.location.host + '/');
+        var isInternal = (href) => {
+            return filterRegex.test(href) || localhostRegex.test(href);
+        }
+        // Inspect non-navigation links and adorn them if external
+        var links = window.document.querySelectorAll('a:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+        for (var i=0; i<links.length; i++) {
+          const link = links[i];
+          if (!isInternal(link.href)) {
+              // target, if specified
+              link.setAttribute("target", "_blank");
+          }
+        }
+    });
+    </script>
+    
+
+</body></html>
