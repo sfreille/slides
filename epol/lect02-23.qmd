@@ -1,5 +1,9 @@
 ---
 title: Economía Política
+title-slide-attributes:
+  data-background-image: background.png
+  data-background-size: contain
+  data-background-opacity: "0.5"
 subtitle: Unidad 2. En la vida hay que elegir. ¿Cómo eligen las sociedades?
 author: |
   | **Sebastián Freille**
@@ -26,7 +30,7 @@ format:
 > Una mayoría sujeta a las limitaciones constitucionales y que cambie fácilmente conforme a los cambios de la opinión popular es el verdadero soberano de un pueblo libre; el que la deseche cae en la anarquía; la unanimidad es imposible; rechazando el principio de la mayoría, sólo queda ya el despotismo...\
 **[Abraham Lincoln, *Toma de Posesión* (1861)]**
 
-# El problema de (economía política) la política económica
+# **El problema de (economía política) la política económica** {background="#CAA811"}
 
 - Problema general de política
 - Restricciones sobre preferencias individuales
@@ -157,9 +161,9 @@ $$\begin{aligned}
 
 ## Ilustración y aplicación (cont.)
 
-![Grado de apoyo a redistribución - Edad e ingresos](fig/fig-02-003.png){width=70%}
+![Grado de apoyo a redistribución de millenials - Edad e ingresos ](fig/fig-02-003.png){width=70%}
 
-# Preferencias y alternativas
+# Preferencias y alternativas {background="#CAA811"}
 
 - Preferencias y propiedades
 - Casos de 2 y más alternativas
@@ -205,13 +209,11 @@ una elección entre dos alternativas es la regla de la mayoría absoluta.
 
 ## Caso: Dos alternativas (cont.)
 
-> Tres votantes, dos alternativas:
-
 - $A \succ_{1} B$
 - $A \succ_{2} B$
 - $B \succ_{3} A$
 
-> El ganador por mayoría es $A$. ¿Que pasa si votantes intercambian sus votos? (anonimidad)
+> El ganador es $A$. ¿Que pasa si intercambian sus votos? (anonimidad)
 
 - $A \succ_{1} B$
 - $B \succ_{3} A$
@@ -219,15 +221,13 @@ una elección entre dos alternativas es la regla de la mayoría absoluta.
 
 ## Caso: Dos alternativas (cont.)
 
-> Tres votantes, dos alternativas ¿Que pasa si cada uno revierte su preferencia? (neutralidad)
+> ¿Que pasa si cada uno revierte su preferencia? (neutralidad)
 
 - $B \succ_{1} A$
 - $B \succ_{2}A$
 - $A \succ_{3} B$
 
-> Qué pasa si 3 que
-votó antes por el perdedor, ahora vota por el ganador?
-(monotonicidad)
+> Qué pasa si votó antes por el perdedor, ahora vota por el ganador? (monotonicidad)
 
 - $A \succ_{1} B$
 - $A \succ_{2} B$
@@ -263,7 +263,7 @@ alternativas irrelevantes y no dictadura.
 -   Si queremos una función de ordenamiento social que cumpla con todas
     esas propiedades, no será transitiva $\longrightarrow$ habrá ciclos.
 
-# Resolviendo el problema
+# **Resolviendo el problema** {background="#CAA811"}
 
 - El teorema de la imposibilidad
 - Restringiendo preferencias e instituciones
@@ -318,7 +318,7 @@ $$\begin{aligned}
   1. Si $p > 1/2$ (c/votante tiende a votar más correcto que incorrecto), añadir más votantes aumenta la *$prob$* de que la mayoría elija correctamente y la *$prob$* de una decisión correcta tiende a 1
   2. Si $p < 1/2$ (c/votante tiende a votar más incorrecto que correcto), añadir más votantes disminuye la *$prob$* de que la mayoría elija correctamente y la *$prob$* de una decisión correcta se maximiza para un tamaño igual a 1.
   
-- Link: https://www.geogebra.org/m/ntctceas
+- Link: [Teorema del jurado](https://www.geogebra.org/m/ntctceas)
 
 ## Preferencias de pico único
 
@@ -357,6 +357,10 @@ $$\begin{aligned}
 
 - La intuición es sencilla: $q^{m}$ vence a cualquier otro ganador previo apenas se presenta y no puede luego ser vencida en ninguna votación de a pares sucesiva
 - Hay dos supuestos bastante fuertes detrás de este resultado: 1) unidimensionalidad; 2) preferencias de pico único. 
+
+## El votante mediano (cont.)
+
+![El votante mediano no existe!](fig/fig-02-mvt-meme.png){#fig:02001}
 
 ## Aplicación: Preferencias s/aborto
 
@@ -418,7 +422,7 @@ $W(q;\alpha^{i}) \geq W(q^{'};\alpha^{i})$ $\Rightarrow$ $W(q;\alpha^{i'}) \geq 
   1. Preferencias de pico único $\longrightarrow$ puntos ideales medianos
   2. Propiedad de cruce único $\longrightarrow$ puntos ideales del agente de tipo mediano
 
-# Ejemplos y aplicaciones
+# **Ejemplos y aplicaciones** {background="#CAA811"}
 
 - Ejemplos de PPU y PCU
 - Aplicaciones del teorema del votante mediano
@@ -600,7 +604,7 @@ W^{i}(q;\alpha^{i}) \equiv L(q)+V(1-L(q)-\alpha)-(1-q)(\alpha^{i}-\alpha)
 - La fn. de utilidad indirecta satisface la **propiedad de cruce único** $\longrightarrow$ suponga que la oferta de trabajo media $L(q)$ fuera lo suficientemente convexa para implicar una $W^{i}(q;\alpha^{i})$ de preferencias de pico no único.
 - Entonces, la monotonicidad de la oferta de trabajo indiviual en $\alpha^{i}$ es aún suficiente para garantizar la existencia de un ganador de Condorcet bien definido --la alícuota preferida por el votante con productividad e ingreso medios
 
-# Reglas de votación
+# **Reglas de votación** {background="#CAA811"}
 
 - Diferentes reglas de votación
 - Votacíon con ciclos: frecuencia y casos
