@@ -13,8 +13,6 @@ author: |
 format:
   revealjs:
     slide-number: true
-    chalkboard:
-      buttons: false
     preview-links: auto
     css: ..\quarto.css
     width: 1500
@@ -42,8 +40,6 @@ format:
 - Decisiones difieren según instituciones políticas --dictadura versus democracia $\longrightarrow$ tanto en el proceso como en los resultados
 - Existen dos modelos tipicos de democracia --directa y representativa. Si bien difieren en muchos aspectos, ambas tienen en el centro del proceso decisorio a mecanismos de votacion.
 
----
-
 ## Democracia directa
 
 - Si bien la democracia directa no se usa como mecanismo principal, los  países tienen herramientas de participación directa:
@@ -70,7 +66,6 @@ format:
 - Los $\alpha^{i}$'s se distribuyen entre los individuos de acuerdo a una distribución dada
 - Los ciudadanos tienen funciones de utilidad sobre canastas de consumo $c^{i}$
 
----
 
 ## Problema general de política (cont.)
 
@@ -84,8 +79,6 @@ $$\begin{aligned}
 \tilde{W}(\mathbf{q},\mathbf{p};\alpha^{i})=\max_{c^{i}}[U(c^{i},\mathbf{q},\mathbf{p};\alpha^{i})\mid H(c^{i},\mathbf{q},\mathbf{p};\alpha^{i})  \geq 0]
 \end{aligned}$$
 
----
-
 ## Problema general de política (cont.)
 
 - El gobierno como **policymaker** fija vector de políticas $\mathbf{q}$ bajo ciertas restricciones: respetar los valores de $\mathbf{p}$ dados en el mercado, presupuesto equilibrado, y otras. Así:
@@ -95,7 +88,6 @@ G(\mathbf{q},\mathbf{p})\geq 0
 - Si las restricciones son vinculantes entonces, $\mathbf{p}=P(\mathbf{q})$ --esto es, los valores de mercado dependerán de $\mathbf{q}$ y de parámetros
 - El individuo como **agente político** actúa como votante, lobista, y otras. Sus acciones están determinadas por sus *preferencias de política* --obtenidas de su fn. de utilidad indirecta, $\tilde{W}$. 
 
----
 
 ## Problema general de política (cont.)
 
@@ -109,7 +101,6 @@ $$\begin{aligned}
 \end{aligned}$$
 - El **conflicto en las preferencias de política surge por las diferencias en $\alpha^{i}$**. 
 
----
 
 ## Problema de política con 2 (dos) individuos
 
@@ -118,11 +109,10 @@ $$\begin{aligned}
 - El problema consiste en maximizar la utilidad sujeta a la restricción presupuestaria $\longrightarrow$ se obtienen las demandas individuales $x_{1}(p_{1},p_{2},Y,\tau,T;\alpha^{i})$ y $x_{2}(p_{1},p_{2},Y,\tau,T;\alpha^{i})$
 - El parámetro $\alpha$ en la función de utilidad captura la heterogeneidad de preferencias
 
----
 
 ## Problema de política con 2 (dos) individuos
 
-- Reemplazando esas demandas en la función de utilidad, se obtiene la funcion de utilidad indirecta: $$\begin{aligned}
+- Reemplazando demanda  en la fn. de utilidad, tenemos la fn.  de utilidad indirecta: $$\begin{aligned}
             V(p_{1},p_{2},Y,,\tau,T;\alpha^{i}) \equiv \\
             U(x_{1}(p_{1},p_{2},Y,\tau,T;\alpha^{i}),x_{2}(p_{1},p_{2},Y,\tau,T;\alpha^{i});\alpha^{i})
           \end{aligned}$$
@@ -130,12 +120,11 @@ $$\begin{aligned}
     V(\tau,T;\alpha^{i}) \equiv \\ V(p_{1}(\tau,T),p_{2}(\tau,T),Y(\tau,T),\tau,T;\alpha^{i})
               \end{aligned}$$
 
----
 
 ## Problema de política con 2 (dos) individuos
 
-- Conociendo $\tau$ conocemos $T$ \[¿por qué?\] y la fn UI: $$V(\tau;\alpha^{i})$$
-- La política preferida por el individuo se obtiene hallando $\tau$ que maximiza utilidad indirecta:
+- Conociendo $\tau$ conocemos $T$ \[¿por qué?\] y la fn. UI: $$V(\tau;\alpha^{i})$$
+- Política preferida por *i* se obtiene hallando $\tau$ que maximiza U indirecta:
     $$\frac{\partial V(\tau;\alpha^{i})}{\partial \tau}=0$$
 - $\tau^{*}(\alpha^{i})$ $\longrightarrow$ dimensión política evidente --$\alpha^{i}$'s diferentes implican políticas (alícuotas) preferidas diferentes
 
@@ -145,25 +134,23 @@ $$\begin{aligned}
 - Evidencia sugiere que no hay diferencias significativas en el apoyo a mayor redistribución en EEUU de acuerdo a diferencias etarias, de etnia y género. Incluso hay dos grupos que han disminuido su apoyo a la redistribución: los adultos mayores y los afroamericanos. Sorprendemente son dos de los grupos más dependientes en transferencias desde el estado [Ashok, V., Kuziemko, I., & Washington, E. (2015)].
 - Stantcheva (2021) estudia el apoyo a la redistribución usando experimentos sociales de gran escala (videos informativos) y estudia diferencias según género, etnia, nivel de ingreso e ideología/afiliación. 
 
----
+
 
 ## Ilustración y aplicación (cont.). 
 
 ![Grado de apoyo a redistribución - Ideología/Partidismo](fig/fig-02-001.png){#fig:02001}
 
----
 
 ## Ilustración y aplicación (cont.)
 
 ![Grado de apoyo a redistribución - Evolución](fig/fig-02-002.jpg){#fig:02002 width=90%}
 
----
 
 ## Ilustración y aplicación (cont.)
 
 ![Grado de apoyo a redistribución de millenials - Edad e ingresos ](fig/fig-02-003.png){width=70%}
 
-# Preferencias y alternativas {background="#CAA811"}
+# **Preferencias y alternativas** {background="#CAA811"}
 
 - Preferencias y propiedades
 - Casos de 2 y más alternativas
@@ -203,9 +190,15 @@ $$\begin{aligned}
 
 - Siempre que el número de votantes sea impar, habrá un resultado cierto. Si se vota por regla de mayoría absoluta, se elegirá la opción preferida por una mayoría de votantes, i.e. $\frac{N+1}{2}$
 
-> **Teorema de May.** El único método que satisface las condiciones de
+::: {.callout-important icon=false}
+
+## Teorema de May
+
+El único método que satisface las condiciones de
 anonimidad, neutralidad y monotonicidad para determinar un ganador de
-una elección entre dos alternativas es la regla de la mayoría absoluta.
+una elección entre dos alternativas es la regla de la mayoría
+absoluta.
+:::
 
 ## Caso: Dos alternativas (cont.)
 
@@ -219,7 +212,7 @@ una elección entre dos alternativas es la regla de la mayoría absoluta.
 - $B \succ_{3} A$
 - $A \succ_{2} B$
 
-## Caso: Dos alternativas (cont.)
+---
 
 > ¿Que pasa si cada uno revierte su preferencia? (neutralidad)
 
@@ -253,12 +246,15 @@ una elección entre dos alternativas es la regla de la mayoría absoluta.
 
 ## Caso: 3 o más alternativas (cont.)
 
-> **Teorema de la imposibilidad de Arrow.** No existe una función de
-ordenamiento social $\succ$ tal que para cualquier grupo G cuyos
-miembros tengan todos preferencias racionales, $\succ$ sea un
-ordenamiento racional (transitivo) y que satisfaga los cuatros supuestos
-de dominio universal, optimalidad de Pareto, independencia de
-alternativas irrelevantes y no dictadura.
+::: {.callout-important icon=false}
+
+## Teorema de la imposibilidad de Arrow 
+No existe una función de ordenamiento social $\succ$ tal que para
+cualquier grupo G cuyos miembros tengan todos preferencias racionales,
+$\succ$ sea un ordenamiento racional (transitivo) y que satisfaga los
+cuatros supuestos de dominio universal, optimalidad de Pareto,
+independencia de alternativas irrelevantes y no dictadura.
+:::
 
 -   Si queremos una función de ordenamiento social que cumpla con todas
     esas propiedades, no será transitiva $\longrightarrow$ habrá ciclos.
@@ -298,13 +294,17 @@ pero
 
 ## Políticas unidimensionales
 
-> DEFINICIÓN 1. Un **ganador de Condorcet** es una política $\mathbf{q^{*}}$ tal que vence a cualquier otra política factible en una votación de a pares
+::: {.callout-note icon=false}
+
+## Definición 1
+Un **ganador de Condorcet** es una política $\mathbf{q^{*}}$ tal que vence a cualquier otra política factible en una votación de a pares
+:::
 
 - Sea un espacio de política unidimensional de modo que $q$ es un escalar. Según Black (1948), las preferencias de políticas
 $$\begin{aligned}
 \mathbf{q(\alpha^{i})}=\arg\max_{q} W(\mathbf{q};\alpha^{i})
 \end{aligned}$$
-- son de *pico único* para $i$ si su ordenamiento de preferencias sobre alternativas se rige por la distancia relativa a su punto ideal, $q(\alpha^{i})$: una política más cercana a $q(\alpha^{i})$ es preferida a una(s) mas lejana(s).
+- son de *pico único* para $i$ si su ord. de pref. se rige por la distancia a su punto ideal, $q(\alpha^{i})$: una política más cercana a $q(\alpha^{i})$ es preferida a una(s) mas lejana(s).
 
 ---
 
@@ -314,33 +314,48 @@ $$\begin{aligned}
 
 ## Políticas unidimensionales (cont.). 
 
-> **El teorema del jurado.** Dado un grupo de votantes ("un jurado") decidiendo independientemente entre un resultado correcto con *$prob$* $0 \leq 1$ y un resultado incorrecto con *$prob$* $1-p$.
+::: {.callout-important icon=false}
+
+## El teorema del jurado
+
+Dado un grupo de votantes ("un jurado") decidiendo independientemente entre un resultado correcto con *$prob$* $0 \leq 1$ y un resultado incorrecto con *$prob$* $1-p$.
   1. Si $p > 1/2$ (c/votante tiende a votar más correcto que incorrecto), añadir más votantes aumenta la *$prob$* de que la mayoría elija correctamente y la *$prob$* de una decisión correcta tiende a 1
-  2. Si $p < 1/2$ (c/votante tiende a votar más incorrecto que correcto), añadir más votantes disminuye la *$prob$* de que la mayoría elija correctamente y la *$prob$* de una decisión correcta se maximiza para un tamaño igual a 1.
+  2. Si $p < 1/2$ (c/votante tiende a votar más incorrecto que
+     correcto), añadir más votantes disminuye la *$prob$* de que la
+     mayoría elija correctamente y la *$prob$* de una decisión
+     correcta se maximiza para un tamaño igual a 1.
+:::	 
   
 - Link: [Teorema del jurado](https://www.geogebra.org/m/ntctceas)
 
 ## Preferencias de pico único
 
-> DEFINICIÓN 2. Las preferencias de política del votante $i$ son **de pico único** si lo siguiente se cumple:\
+::: {.callout-note icon=false}
+
+## Definición 2
+Las preferencias de política del votante $i$ son **de pico único** si lo siguiente se cumple:\
 Si $q^{''} \leq q^{'} \leq q(\alpha^{i})$ o $q^{''} \geq q^{'} \geq q(\alpha^{i})$, entonces\
 $W(q^{''};\alpha^{i}) \leq W(q^{'};\alpha^{i})$
+:::	 
 
 - Un primer resultado simple pero útil es:
 
-> PROPOSICIÓN 1. Si todos los votantes tienen preferencias de política de pico único sobre un ordenamiento dado de alternativas de política, un ganador de Condorcet siempre existe y coincide con el punto ideal del mediano
+::: {.callout-tip icon=false}
+## Proposición 1 
+Si todos los votantes tienen preferencias de política de pico único sobre un ordenamiento dado de alternativas de política, un ganador de Condorcet siempre existe y coincide con el punto ideal del mediano
+:::
 
 ## Preferencias de pico único (cont.)
 
-- Considere 3 (tres) individuos que difieren sólo en sus niveles de ingreso (y esos niveles moldean sus preferencias por políticas)
-- El individuo 1 es de ingreso alto (prefiere $T$ bajos), el individuo 2 es de ingreso medio y prefiere $T$ medianos y el individuo 3 es de ingreso bajo y prefiere $T$ altos.
+- Considere 3 (tres) individuos que difieren sólo en sus niveles de
+  ingreso (y eso moldea sus prefs. por políticas). El individuo 1 es de $Y$ alto (prefiere $T$ bajos), el individuo 2 es de $Y$ medio y prefiere $T$ medianos y el individuo 3 es de $Y$ bajo y prefiere $T$ altos.
 - Si $A$, $B$ y $C$ son tasas bajas, medias y altas respectivamente entonces:
 $$\begin{aligned}
 \tau^{*}(\alpha^{1})=A \\
 \tau^{*}(\alpha^{2})=B \\
 \tau^{*}(\alpha^{3})=C \\
 \end{aligned}$$
-- En base a la figura, expres el orden de preferencias de cada individuo. ¿Qué nota?
+- En base a la figura, exprese el orden de preferencias de cada individuo. ¿Qué nota?
 
 ## Preferencias de pico único (cont.)
 
@@ -349,11 +364,16 @@ $$\begin{aligned}
 
 ## Políticas unidimensionales (cont.)
 
-*Fijamos el vector de parámetros a un valor dado, ordenamos a los individuos en función de sus puntos ideales $q(\alpha^{i})$ y etiquetamos al punto ideal del mediano como $q^{m}$. Suponga que $q^{m}$ se enfrenta en votación de a pares a cualquier otra política $q^{''}<q^{m}$. De acuerdo a la DEFINICIÓN 2, cualquier individuo cuyo punto ideal satisface $q^{m} \leq q(\alpha^{i})$ prefiere $q^{m}$ a $q^{''}$ dado que está más cerca de su punto ideal. Por el supuesto de voto sincero (A2), votan por $q^{m}$. La coalición que vota por $q^{m}$ entonces constituye una mayoría. Por razonamiento análogo a $q^{''}>q^{m}$, obtenemos el resultado de que $q^{m}$ es un ganador de Condorcet*
+*Fijamos el vector de parámetros a un valor dado, ordenamos a los individuos en función de sus puntos ideales $q(\alpha^{i})$ y etiquetamos al punto ideal del mediano como $q^{m}$. Suponga que $q^{m}$ se enfrenta en votación de a pares a cualquier otra política $q^{''}<q^{m}$. De acuerdo a la Definición 2, cualquier individuo cuyo punto ideal satisface $q^{m} \leq q(\alpha^{i})$ prefiere $q^{m}$ a $q^{''}$ dado que está más cerca de su punto ideal. Por el supuesto de voto sincero (A2), votan por $q^{m}$. La coalición que vota por $q^{m}$ entonces constituye una mayoría. Por razonamiento análogo a $q^{''}>q^{m}$, obtenemos el resultado de que $q^{m}$ es un ganador de Condorcet*
 
 ## El votante mediano
 
-> COROLARIO 1. $q^{m}$ es la única política de equilibrio (punto estable) bajo regla de mayoría pura, esto es bajo supuestos A1-A3. 
+::: {.callout-tip icon=false}
+
+## Corolario 1
+$q^{m}$ es la única política de equilibrio (punto estable) bajo regla
+de mayoría pura, esto es bajo supuestos A1-A3. 
+:::
 
 - La intuición es sencilla: $q^{m}$ vence a cualquier otro ganador previo apenas se presenta y no puede luego ser vencida en ninguna votación de a pares sucesiva
 - Hay dos supuestos bastante fuertes detrás de este resultado: 1) unidimensionalidad; 2) preferencias de pico único. 
@@ -365,14 +385,13 @@ $$\begin{aligned}
 ## Aplicación: Preferencias s/aborto
 
 - Cuestión del aborto en EEUU $\longrightarrow$ polarización
-  - Provida (V) $\longrightarrow$ prohibir aborto totalmente
-  - Proeleccion (E) $\longrightarrow$ derecho absoluto a elegir
-  - Roe-Wade (R) $\longrightarrow$ aborto en etapa temprana
-- ¿Cuáles son las preferencias de los grupos?
-  - $V \succ_{v} R \succ_{v} E$ (provida)
-  - $E \succ_{e} R \succ_{e} V$ (proeleccion)
-  - $R \succ_{rw1} V \succ_{rw1} E$ (roe-wade1)
-  - $R \succ_{rw2} E \succ_{rw2} V$ (roe-wade2)
+  - Provida (V) $\longrightarrow$ prohibir aborto totalmente;
+    Proeleccion (E) $\longrightarrow$ derecho absoluto a elegir;
+    Roe-Wade (R) $\longrightarrow$ aborto en etapa temprana. ¿Cuáles son las preferencias?
+    - $V \succ_{v} R \succ_{v} E$ (provida)
+    - $E \succ_{e} R \succ_{e} V$ (proeleccion)
+    - $R \succ_{rw1} V \succ_{rw1} E$ (roe-wade1)
+    - $R \succ_{rw2} E \succ_{rw2} V$ (roe-wade2)
 - Ninguno de los grupos considera a $R$ como la peor alternativa $\longrightarrow$ ¿consenso?
 
 ## Aplicación: Preferencias s/aborto (cont.)
@@ -397,22 +416,33 @@ $$\begin{aligned}
 
 - Variante más general $\longrightarrow$ propiedad de cruce único (*single-crossing property*). La restricción no es sobre la forma de las preferencias individuales sino sobre la forma de la heterogeneidad en votantes. Supone unidimensionalidad no sólo en $q$ sino también en $\alpha^{i}$ con dominio en el intervalo $\mathcal{V}$ (el conjunto de votantes).
 
-> DEFINICIÓN 3. Las preferencias de los votantes en $\mathcal{V}$ satisfacen la **propiedad de cruce único** si lo siguiente se cumple:\
+::: {.callout-note icon=false}
+
+## Definición 3 
+Las preferencias de los votantes en $\mathcal{V}$ satisfacen la **propiedad de cruce único** si lo siguiente se cumple:\
 Si $q>q^{'}$ y $\alpha^{i'}>\alpha^{i}$, o si $q<q^{'}$ y $\alpha^{i'}<\alpha^{i}$, entonces\
 $W(q;\alpha^{i}) \geq W(q^{'};\alpha^{i})$ $\Rightarrow$ $W(q;\alpha^{i'}) \geq W(q^{'};\alpha^{i'})$
+:::
 
 ---
 
 ## Propiedad de cruce único (cont.)
 
-> PROPOSICIÓN 2. Si las preferencias de los votantes en $\mathcal{V}$ satisfacen la propiedad de cruce único, un ganador de Condorcet siempre existe y coincide con el punto ideal del votante con el valor mediano de $\alpha^{i}$.
+::: {.callout-tip icon=false}
+## Proposición 2 
+Si las preferencias de los votantes en $\mathcal{V}$ satisfacen la
+propiedad de cruce único, un ganador de Condorcet siempre existe y
+coincide con el punto ideal del votante con el valor mediano de
+$\alpha^{i}$.
+:::
 
 - La propiedad de cruce único es similar a de pico único $\longrightarrow$ proyecta las preferencias por $q$ sobre el conjunto de tipos de votantes $\mathcal{V}$.
 - Intuición $\longrightarrow$ dadas dos políticas cualesquiera, una más a la derecha que la otra, mientras más "de derecha" sea un individuo (con relación a otro individuo), más preferirá la política de la derecha a la de la izquierda.
 
 ## Propiedad de cruce único (cont.)
 
-* Para probar esta proposición, etiquete al valor crítico de $\alpha^{i}$ como $\alpha^{m}$. Entonces, por DEFINICIÓN 3, cualquier votante con $\alpha^{i} \geq \alpha^{m}$ prefiere $q(\alpha^{m})$ a cualquier $q < q(\alpha^{m})$. En forma similar, cualquier votante con  $\alpha^{i} \leq \alpha^{m}$ prefiere $q > q(\alpha^{m})$. En otras palabras, $q(\alpha^{m})$ gana un voto de a pares ante cualquier otra alternativa posible*
+* Para probar esta proposición, etiquete al valor crítico de
+  $\alpha^{i}$ como $\alpha^{m}$. Entonces, por Definición 3, cualquier votante con $\alpha^{i} \geq \alpha^{m}$ prefiere $q(\alpha^{m})$ a cualquier $q < q(\alpha^{m})$. En forma similar, cualquier votante con  $\alpha^{i} \leq \alpha^{m}$ prefiere $q > q(\alpha^{m})$. En otras palabras, $q(\alpha^{m})$ gana un voto de a pares ante cualquier otra alternativa posible*
 
 ## Comparando ambas
 
@@ -432,13 +462,14 @@ $W(q;\alpha^{i}) \geq W(q^{'};\alpha^{i})$ $\Rightarrow$ $W(q;\alpha^{i'}) \geq 
 
 ## Ejemplo
 
-- Pueden no ser de pico único y si de cruce único...
 $$\begin{aligned}
 x \succ_{1} y \succ_{1} z \\
 x \succ_{2} z \succ_{2} y \\
 z \succ_{3} y \succ_{3} x
 \end{aligned}$$
-- Estas preferencias no son de pico único [¿por qué?]. Pero satisfacen la propiedad de cruce único. El ordenamiento natural es $x<y<z$ y sea:
+
+- Pueden no ser PPU y si PCU. El ordenamiento natural es $x<y<z$ y sea:
+
 $$\begin{aligned}
 z \succ_{2} y \Rightarrow z \succ_{3} y\\
 x \succ_{2} z \Rightarrow x \succ_{1} z\\
@@ -453,7 +484,7 @@ w \succ_{1} x \succ_{1} y \succ_{1} z \\
 x \succ_{2} y \succ_{2} z \succ_{2} w \\
 y \succ_{3} x \succ_{3} w \succ_{3} z
 \end{aligned}$$
-- No satisfacen la propiedad de cruce único. El ordenamiento natural es $w<x<y<z$ y si $2<3$, $z \succ_{2} w$ pero $z \cancel{\succ_{3}} w$; para $3<2$, $y \succ_{3} x$ pero $y \cancel{\succ_{2}} x$.
+- No satisfacen la propiedad de cruce único. El ordenamiento natural es $w<x<y<z$ y si $2<3$, $z \succ_{2} w$ pero $z \succ_{3} w$; para $3<2$, $y \succ_{3} x$ pero $y \succ_{2} x$.
 
 ## Ejemplo (cont.)
 
@@ -473,8 +504,8 @@ $$\begin{aligned}
 ## Aplicación: Modelo simple de redistribución
 
 - Hay $\delta$ individuos ricos y $(1-\delta)$ individuos pobres con $\delta < \frac{1}{2}$. Pobres tienen ingresos (exógenos) $y^{p}$ y ricos $y^{r}$ 
-- Ingreso total $\longrightarrow$ $\delta y^{r}+(1-\delta)y^{p}=y$ --población normalizada a $1$ por lo que $y=\bar{y}$.
-- Sea $\theta$ fracción de $y$ en manos de ricos tal que $y^{r}=\frac{\theta y}{\delta}$ y que $y^{p}=\frac{(1-\theta)y}{1-\delta}$
+- Ingreso total $\longrightarrow$ $\delta y^{r}+(1-\delta)y^{p}=y$
+  --población normalizada a $1$ por lo que $y=\bar{y}$. Sea $\theta$ fracción de $y$ en manos de ricos tal que $y^{r}=\frac{\theta y}{\delta}$ y que $y^{p}=\frac{(1-\theta)y}{1-\delta}$
 - Note que $y^{r} > y^{p}$ y que $\theta > \delta$. Aumento en $\theta$ es más desigualdad, si $\theta=\delta$, hay perfecta equidad
 $$\begin{aligned}
 c^{i}=(1-\tau)y^{i}+T \\
@@ -483,7 +514,7 @@ T=\tau(\delta y^{r}+(1-\delta)y^{p})=\tau y
 
 ## Aplicación: Modelo simple de redistribución (cont.)
 
-- Utilidad lineal en el consumo, $u=c^{i}$. Sustituyendo RP del gobierno, la utilidad indirecta (V) es:
+- Utilidad lineal en el consumo, $u=c^{i}$. Sustituyendo RP del gobierno, la $V$ es:
 $$\begin{aligned}
 V^{i}(\tau)=(1-\tau)y^{i}+\tau y
 \end{aligned}$$
@@ -491,8 +522,8 @@ V^{i}(\tau)=(1-\tau)y^{i}+\tau y
 $$\begin{aligned}
 \frac{\partial V^{i}(\tau)}{\partial \tau}=-y^{i}+y
 \end{aligned}$$
-- Pobres $\longrightarrow$ prefieren $\tau=1$ ($y$ menor al promedio); ricos $\longrightarrow$ prefieren $\tau=0$ ($y$ mayor al promedio)
-- Según el TVM $\longrightarrow$ $\tau^{eq}=1$ [¿Por qué?]
+- Pobres $\longrightarrow$ prefieren $\tau=1$ ($y$ menor al promedio);
+  ricos $\longrightarrow$ prefieren $\tau=0$. Según el TVM $\longrightarrow$ $\tau^{eq}=1$ [¿Por qué?]
 
 ## Aplicación: Modelo simple de redistribución (cont.)
 
@@ -500,7 +531,7 @@ $$\begin{aligned}
 $$\begin{aligned}
 T=\tau y - c(\tau)y
 \end{aligned}$$
-- donde $c'(\tau)>0$, $c''(\tau)<0$, $c'(0)=0$, y $c'(1)=\infty$. Con lo que la nueva $V(.)$ es
+- donde $c'(\tau)>0$, $c''(\tau)>0$, $c'(0)=0$, y $c'(1)=\infty$. Con lo que la nueva $V(.)$ es
 $$\begin{aligned}
 V^{i}(\tau)=(1-\tau)y^{i}+T=(1-\tau)y^{i} +\tau y - c(\tau)y
 \end{aligned}$$
@@ -512,8 +543,7 @@ V^{i}(\tau)=(1-\tau)y^{i}+T=(1-\tau)y^{i} +\tau y - c(\tau)y
 $$\begin{aligned}
 c'(\tau^{p})=\frac{\theta-\delta}{1-\delta}
 \end{aligned}$$
-- Si $\theta$ sube, $\tau^{p}$ aumenta --interprete [resultado seminal Meltzer and Richard (1981)]
-- Implicancias:
+- Si $\theta$ sube, $\tau^{p}$ aumenta --interprete [Meltzer and Richard (1981)]. Implicancias:
   - Mayor desigualdad, menor crecimiento [Persson and Tabellini (1994), Alesina and Rodrik (1994)]
   - ¿Por qué entonces los pobres votan? Los ricos tendrían incentivos a que no [Acemoglu and Robinson (2000)]
 
@@ -523,8 +553,10 @@ c'(\tau^{p})=\frac{\theta-\delta}{1-\delta}
 $$\begin{aligned}
 u^{i}=c^{i}+\alpha^{i}H(g)
 \end{aligned}$$
-- $H(.)$ es cóncava y $\alpha^{i}$ es parámetro intrínseco de agente con distribución acumulativa $F(\alpha)$ y función de densidad $f(\alpha)$. Normalizamos tamaño de población a $1$ y todos los individuos tienen ingreso exógeno igual a $1$
-- Gobierno cobra impuesto $\tau$ a cada individuo y las RP son:
+- $H(.)$ es cóncava y $\alpha^{i}$ es parámetro intrínseco de agente
+  con distribución acumulativa $F(\alpha)$ y función de densidad
+  $f(\alpha)$. Normalizamos población a $1$ y todos los
+  individuos tienen ingreso exógeno igual a $1$. Gobierno cobra $\tau$ a cada individuo y las RP son:
 $$\begin{aligned}
 c^{i}=1-\tau \\
 \tau=g
@@ -532,7 +564,7 @@ c^{i}=1-\tau \\
 
 ## Aplicación: valoración de BPP (cont.)
 
-- Maximizamos la utilidad indirecta de cada individuo $V^{i}(g)$ para encontrar el nivel preferido de $g$:
+- Maximizamos la UI de cada individuo $V^{i}(g)$ para encontrar el nivel preferido de $g$:
 $$\begin{aligned}
 \max_{\tau} V^{i}(g)=(1-g)+\alpha^{i}H(g)
 \end{aligned}$$
@@ -550,21 +582,18 @@ $$\begin{aligned}
 
 ## Aplicación: valoración de BPP (cont.)
 
-- Provisión política del bien bajo democracia directa *en general ineficiente*
-$$\begin{aligned}
-\max_{g} \int [(1-g)+\alpha^{i}H(g)]f(\alpha^{i})d\alpha^{i}
-\end{aligned}$$
-- que equivale a:
+- Provisión política del bien bajo democracia directa *en general
+  ineficiente*:
 $$\begin{aligned}
 \max_{g} (1-g)+H(g) \int \alpha^{i})f(\alpha^{i})d\alpha^{i}
 \end{aligned}$$
-- Note que $\int \alpha^{i}f(\alpha^{i})d\alpha^{i}$ es la valoración media del BPP. LLamandole a $\alpha^{i}$ con $\bar{\alpha}$, el gasto socialmente óptimo es:
+- Note que $\int \alpha^{i}f(\alpha^{i})d\alpha^{i}$ es la valoración media del BPP. LLamandole a $\alpha^{i}$ con $\bar{\alpha}$:
 $$\begin{aligned}
 \bar{\alpha}H'(g^{SO})=1
 \end{aligned}$$
 - por lo que $g^{SO}$ y $g_{M}$ son distintos [sólo coinciden cuando distribución de $\alpha^{i}$ es tal que $\alpha_{M}=\bar{A}$]
 
-## *Aplicación: Redistribución a través de imposición distorsiva*
+## *Aplicación: Imposición distorsiva*
 
 - Versión simplificada de modelos de Romer (1975), Roberts (1977) y Meltzer and Richard (1981). El individuo $i^{th}$ tiene preferencias cuasi-lineales
 $$\begin{aligned}
@@ -574,9 +603,9 @@ w^{i}=c^{i}+V(x^{i})
 $$\begin{aligned}
 c^{i} \leq (1-q)l^{i}+f
 \end{aligned}$$
-- donde $q$ denota la alícuota del impuesto al ingreso, $l^{i}$ la oferta de trabajo individual y $f$ una transferencia de suma fija.
+- $q$ es alícuota del impuesto al $Y$, $l^{i}$ es O trabajo y $f$ es TSF
 
-## *Aplicación: Redistribución a través de imposición distorsiva (cont.)*
+## *Aplicación: Imposición distorsiva (cont.)*
 
 - El salario real es normalizado e igual a uno. La productividad individual difiere ($\alpha^{i}$) --ie. diferencias en la cantidad de *tiempo efectivo* disponible
 $$\begin{aligned}
@@ -586,9 +615,9 @@ $$\begin{aligned}
 $$\begin{aligned}
 l^{i}=L(q)-(\alpha^{i}-\alpha)
 \end{aligned}$$
-- donde $L(q) \equiv 1-\alpha-V_{x}^{-1}(1-q)$ es decreciente en $q$ por la concavidad de $V(.)$.
+- donde $L(q) \equiv 1-\alpha-V_{x}^{-1}(1-q)$ es decreciente en $q$ por concavidad de $V(.)$
 
-## *Aplicación: Redistribución a través de imposición distorsiva (cont.)*
+## *Aplicación: Imposición distorsiva (cont.)*
 
 - Los consumidores más productivos trabajan *más a cada alícuota*. Sea $l$ la oferta de trabajo media y como la media de $\alpha^{i}$ es $\alpha$, entonces $l=L(q). Por lo que la RP del gobierno es: 
 $$\begin{aligned}
@@ -599,7 +628,7 @@ $$\begin{aligned}
 W^{i}(q;\alpha^{i}) \equiv L(q)+V(1-L(q)-\alpha)-(1-q)(\alpha^{i}-\alpha)
 \end{aligned}$$
 
-## *Aplicación: Redistribución a través de imposición distorsiva (cont.)*
+## *Aplicación: Imposición distorsiva (cont.)*
 
 - La fn. de utilidad indirecta satisface la **propiedad de cruce único** $\longrightarrow$ suponga que la oferta de trabajo media $L(q)$ fuera lo suficientemente convexa para implicar una $W^{i}(q;\alpha^{i})$ de preferencias de pico no único.
 - Entonces, la monotonicidad de la oferta de trabajo indiviual en $\alpha^{i}$ es aún suficiente para garantizar la existencia de un ganador de Condorcet bien definido --la alícuota preferida por el votante con productividad e ingreso medios
@@ -607,7 +636,7 @@ W^{i}(q;\alpha^{i}) \equiv L(q)+V(1-L(q)-\alpha)-(1-q)(\alpha^{i}-\alpha)
 # **Reglas de votación** {background="#CAA811"}
 
 - Diferentes reglas de votación
-- Votacíon con ciclos: frecuencia y casos
+- Votación con ciclos: frecuencia y casos
 - Problemas y limitaciones del análisis
 - Intuición gráfica del TVM
 
@@ -635,9 +664,9 @@ W^{i}(q;\alpha^{i}) \equiv L(q)+V(1-L(q)-\alpha)-(1-q)(\alpha^{i}-\alpha)
 
 ## Votación Condorcet (cont.)
 
-1. $A \succ_{1} B \succ_{1} C$
-2. $B \succ_{4} C \succ_{4} A$
-3. $C \succ_{5} A \succ_{5} B$
+- $A \succ_{1} B \succ_{1} C$
+- $B \succ_{4} C \succ_{4} A$
+- $C \succ_{5} A \succ_{5} B$
 
 - Imagine ahora que se vota de a pares.
   - Voto entre A y B. ¿Quién gana? A
@@ -669,7 +698,7 @@ W^{i}(q;\alpha^{i}) \equiv L(q)+V(1-L(q)-\alpha)-(1-q)(\alpha^{i}-\alpha)
       - Dado que $C \succ A$ y $B \succ C$, [gana B]{.ul}
     - 1ra: B vs C. 2da: ganador de B vs C contra A
       - Dado que $B \succ C$ y $A \succ B$, [gana A]{.ul}.
-- El ganador depende depende del orden de votación! Este es el problem de los ciclos
+- El ganador depende depende del orden de votación! $\longrightarrow$ problema de los ciclos
 
 ## Ciclos con alternativas no definidas
 
@@ -683,18 +712,18 @@ W^{i}(q;\alpha^{i}) \equiv L(q)+V(1-L(q)-\alpha)-(1-q)(\alpha^{i}-\alpha)
 
 ## Ciclos con alternativas definidas
 
-- Sea un problema redistributivo similar pero con alternativas fijas, $x$, $y$, $z$. Eje vertical, cantidad de recursos de B; eje horizontal, cantidad de recursos de A, y el resto es para C
-- Líneas son las CI de cada político
-- Votación:
+- Sea un problema redistributivo similar pero con alternativas fijas,
+  $x$, $y$, $z$. Eje vertical, cantidad de recursos de B; eje
+  horizontal, cantidad de recursos de A, y el resto es para C. Líneas
+  son las CI de cada político. Votación:
   - $y$ contra $z$, gana $y$
   - $y$ contra $x$, gana $x$
   - $x$ contra $z$, gana $z$
-  - y así
 - Posible ciclo infinito aún con nro limitado de alternativas --respetando supuestos básicos
 
 ## Ciclos con alternativas definidas (cont.)
 
-![Ciclos e indeterminacionest](fig/fig-02-014.png){#fig:02014 width=70%}
+![Ciclos e indeterminaciones](fig/fig-02-014.png){#fig:02014 width=70%}
 
 ## Ocurrencia de ciclos
 
@@ -702,9 +731,10 @@ W^{i}(q;\alpha^{i}) \equiv L(q)+V(1-L(q)-\alpha)-(1-q)(\alpha^{i}-\alpha)
 
 ## Limitando ciclos: agenda cerrada
 
-- Una forma es limitar número de rondas. Garantiza llegar a una política pero no sabemos con certeza cuál!
-- Manipular agenda $\longrightarrow$ otorga poder a quien la controla ya que puede elegir su política preferida (*votación sincera*)
-- Pero hay incentivos a votar estratégicamente
+- Una forma es limitar número de rondas. Garantiza una
+  política pero no sabemos cuál! Manipular agenda
+  $\longrightarrow$ otorga poder a quien la controla ya que puede
+  elegir su política preferida (*votación sincera*). Pero hay incentivos a votar estratégicamente
   - $B$ vota por $z$ en ronda 1 y obtiene $y$ en ronda 2 pero...
   - $A$ y $C$ también querrán ser estrategicos
     - equilibrios múltiples surgen facilmente

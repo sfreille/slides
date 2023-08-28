@@ -89,7 +89,7 @@ format:
 ## Fechas importantes
 
 - Primer parcial: lunes 25/SEP
-- Segundo parcial: lunes 30/OCT
+- Segundo parcial: martes 24/OCT
 - Recuperatorio: viernes 10/NOV 
 
 # **Programa abreviado** {background="#CAA811"}
@@ -101,8 +101,6 @@ format:
 3. La Democracia es el peor sistema de gobierno (con excepción de todas las demás)
 4. No taxation without representation: Partidos, votantes y competencia electoral
 5. Estos son mis principios. Si no le gu$tan, tengo otros: Influencia, dinero y grupos de interés
-
----
 
 ## Programa abreviado (cont.)
 
