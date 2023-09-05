@@ -1,0 +1,1 @@
+quarto render lect02-23.qmd --to beamer --pdf-engine pdflatex --slide-level 2 --toc -V theme:Madrid -V section-titles:false

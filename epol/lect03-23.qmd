@@ -122,9 +122,77 @@ format:
 	2. Democratización
 	3. Democratización y represión
 
+## Democracia versus no-democracia
+
+- Distinción más básica y esencial $\longrightarrow$ las democracias
+  constituyen situaciones de igualdad de derechos políticos --un
+  ciudadano, un voto
+  - todas las preferencias importan
+- En no-democracia, sólo importan las preferencias de un sub-conjunto
+  de la población, una *elite*
+  - Dos factores moldean las políticas públicas en una no-democracia
+    1. Las preferencias del grupo en poder 
+	2. Las restricciones enfrentadas por el grupo en el poder
+
+## Democracia versus no-democracia (cont.)
+
+- Un punto central y relevante en las no-democracias es que la
+  política pública tiene un límite
+  - asegurar que *ningún grupo está lo suficientemente fastidiado*
+    como para intentar deponer al grupo en el poder
+- Una posibilidad es que la *democratización* sea una respuesta de las
+  elites a la amenaza de revolución de los pobres
+  - aquí entra la distinción entre *poder político de iure* y *poder
+    político de facto*
+- En un sociedad oligárquica, ricos tienen todo el *poder de iure*
+  pero tanto ricos como pobres tienen *poder de facto*
+
+## Democracia versus no-democracia (cont.)
+
+- *Poder de iure* es más permanente y duradero que el *poder de facto*
+  que es solo temporario
+  - por eso pobres tienden a usar el (transitorio) *poder de facto*
+    como amenaza de revolución para obligar a los ricos que le
+    transfieran *poder de iure* y así a través de este lograr una
+    mayor redistribución a futuro
+- Es importante primero entender las interacciones económicas y
+  políticas entre ricos y pobres en no-democracias
+  - es útil utilizar el marco analítico de Meltzer and Richard (1981)
+    como punto de partida
+
+## Democracia versus no-democracia (cont.)
+
+- Se usa un juego no-cooperativo para modelar las interacciones. La
+  naturaleza determina si el *poder de facto* de los pobres es alto,
+  $H$, o bajo, $L$. Esto determina absolutamente la credibilidad de la
+  amaneza de revolución, $R$ --note la aleatoriedad del *poder de facto*
+- Una vez que juega la naturaleza, los ricos deciden la política
+  redistributiva, $\hat{\tau}$
+  - Observada esta, pobres deciden sobre si hacer $R$ o $NR$
+- Si los pobres hacen $R$, siempre es exitosa --IMPORTANTE: ¿por qué?
+
+## Democracia versus no-democracia (cont.)
+
+- Las revoluciones son costosas para la sociedad y destruyen una
+  fracción, $\mu^{S}$$ del ingreso. El pago luego de una revolución
+  es:
+  
+\begin{align}
+V^{p}(R,\mu^{S})&=\frac{(1-\mu^{S})y}{1-\delta} \\
+V^{r}(R,\mu^{H})&=V^{r}(R,\mu^{L})=0
+\end{align}
+
+- Como puede verse, el pago de los ricos no depende del estado de la
+  naturaleza. Si se hace $R$, terminan con cero
+- Pero cuando el *poder de facto* es $L$ la destrucción es tan grande
+  que tanto pobres como ricos terminan con cero --ie $\mu^{L}=1$. 
+
+  
+  
+
 ## Modelo simple de no democracia
 
-- Sociedad formada por 2 (dos) grupos: pobres con proporciónn $1-\delta$ y ricos $\delta$. Supuesto: $\delta<\frac{1}{2}$.
+- Sociedad formada por 2 (dos) grupos: pobres con proporción $1-\delta$ y ricos $\delta$. Supuesto: $\delta<\frac{1}{2}$.
 - Parámetro $\theta$ captura desigualdad --proporción de ingreso total de los ricos. Ingreso son:
 \begin{align}
 y^{p}=\frac{(1-\theta)y}{1-\delta}  \qquad y^{r}=\frac{\theta y}{\delta}
