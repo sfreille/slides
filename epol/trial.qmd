@@ -1,0 +1,23 @@
+---
+title: Economía Política
+format:
+  revealjs:
+    link-external-newwindow: true
+---
+
+# Unidad 5
+
+## Lobby
+
+- El lobby es importante
+  - Porque
+  - tal 
+    - cosa
+- Y también volvemos al siguiente paso
+  1. a
+  2. b
+  3. c
+  
+## Corruption
+
+[TITUTLO](background.png)
