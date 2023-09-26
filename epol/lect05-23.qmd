@@ -1,0 +1,151 @@
+---
+title: Economía Política
+title-slide-attributes:
+  data-background-image: background.png
+  data-background-size: contain
+  data-background-opacity: "0.5"
+subtitle: Unidad 5. Estos son mis principios. Si no le gu$tan, tengo otros. Influencia, dinero y grupos de interés
+author: |
+  | **Sebastián Freille**
+  | sfreille@unc.edu.ar
+  | Licenciatura en Economía
+  | FCE-UNC
+format:
+  revealjs:
+    slide-number: true
+    preview-links: auto
+    css: ..\quarto.css
+    width: 1500
+    center-title-slide: true
+    center: true
+    tbl-cap-location: bottom	
+    toc: true
+    toc-depth: 1
+    toc-title: Contenidos
+    link-external-newwindow: true
+---
+
+> If money go before, all ways do lie open.\
+**[William Shakespeare, Ford, The Merry Wives of Windsor, Act 2 Scene
+2 (1602)]**
+
+# **Financiamiento de campañas y lobbying** {background="#CAA811"}
+
+- Actividad pre-electoral y post-electoral
+- Regulación versus desregulación
+- ¿Comprando la política o comprando influencia?
+
+
+## Financiamiento de campañas y lobbying
+
+- 
+
+## Financiamiento de campañas
+
+- ¿Y por casa cómo andamos? En Argentina, las dos leyes más
+  importantes que regulan la actividad electoral y el financiamiento
+  de partidos politicos son la Ley 26571 (2009) --hito principal el
+  establecimiento de las PASO- y la Ley 26215 (2007) y sus
+  modificatorias
+- ¿El *lobbying* está institucionalizado en Argentina? No!
+  - hay algunas iniciativas pero no hay una Ley Nacional
+  - Régimen de Acceso a la Información Pública (2003, luego Ley 27275 (2016))
+    - Link: [Registro Único de Audiencias de Gestión de Intereses](https://audiencias.mininterior.gob.ar/)
+
+## Financiamiento de campañas (cont.)
+
+- Importante notar la deficiencia en la sistematización, publicación y
+  difusíon de estadísticas en relación a la actividad de
+  financiamiento partidario 
+- Sin embargo, algunos avances en años recientes
+  Link: [Financiamiento de Campañas - Aportes
+  privados](https://www.electoral.gov.ar/financiamiento/aportes-privados.php)
+- En Argentina pueden aportar personas físicas y jurídicas --ambas con
+  limitaciones. No pueden aportar personas físicas/jurídicas
+  extranjeras y tampoco gobiernos y entidades públicas extranjeras
+
+## Financiamiento de campañas (cont.)
+
+![Contribuciones por sectores de actividad - Personas jurídicas](fig/fig-05-007.svg){#fig:05007}
+
+
+## Gasto en publicidad
+
+- El gasto en **publicidad tradicional** --principalmente radio y TV-
+  puede consultarse en sitios que agregan y monitorean esta
+  información: [Gasto en publicidad tradicional](https://www.opensecrets.org/political-ads)
+- Interesante mirar también la actividad de donación y contribuciones
+  en forma de **publicidad digital** --gasto en publicidad digital
+  tomando con fuente Google y Facebook
+- Recurso útil: [Gasto en publicidad digital](https://www.opensecrets.org/online-ads/map/google)
+- Interesante correlacionar el gasto en publicidad digital con ultimo
+  resultado electoral/encuestas de intención de voto
+  
+## El rol de la *dark money*
+
+- En lingo especialista, **dark money** refiere al gasto con intención
+  de afectar los resultados políticos en el cual la fuente/origen de
+  los fondos no es revelado
+- En EEUU esto es posible por la existencia de ONGs políticamente
+  activas (tipología 501(c)(4)) que no tienen obligacion de declarar
+  sus donantes
+- Esto "explotó" luego de 2010 de producido el fallo de la Corte
+  "Citizens United v. FEC Supreme Court" -- que basicamente permitió
+  la existencia y proliferació de estas grupos políticamente activos
+  
+  
+## El rol de la *dark money* (cont.)
+
+> **Citizens United v. FEC Supreme Court.**  En 2007, en FEC
+> v. Wisconsing Right to Life la Corte Suprema falló que las
+> organizaciones sin fines de lucro podía usar fondos para
+> publicidad antes de las elecciones siempre y cuando estas
+> publicidades no se expresaran explícitamente a favor (o en contra)
+> de algún candidato. En el año 2010, la Corte Suprema falló que la
+> prohibición que pesaba sobre contribuciones politicas independientes
+> violaba el derecho a la libre expresión contenido en la Primera
+> Enmienda. Este fallo permitió deliberadamente el uso de fondos para
+> publicidad que se expresara explícitamente a favor (o en contra) de
+> algún candidato. Desde este fallo, se produjo la década de mayor
+> gasto en campañas en la historia de los EEUU.
+
+
+## El rol de la *dark money* (cont.)
+
+![La explosión de gasto de los Super PACs seguida del fallo
+Citizens United v. FEC](fig/fig-05-006.png){#fig:05006}
+
+## El rol de la *dark money* (cont.)
+
+- ¿Quiénes son algunos de los más importantes grupos de *dark money*?
+  - La Cámara de Comercio de EEUU; Crossroads GPS (Karl Rove); Americans for Prosperity (Koch Brothers)
+- Un tema adicional es la influencia del **dinero extranjero** en las
+  actividades de estos grupos --legalmente está prohibido donaciones
+  de personas físicas y jurídicas extranjeras:
+  - La Cámara de Comercio de EEUU recibe dinero de membresía de
+    empresas que representa --muchas incluso de propiedad extranjera
+  - La National Rifle Asociation, alineado con el partido republicano,
+    recibe cuantiosas sumas de fabricantes extranjeros como SIG Sauer
+    y Beretta
+  - El American Chemistry Council también tiene a muchas empresas
+    extranjeras entre sus miembros
+
+## El *lobbying* como actividad
+
+- El *lobbying* en EEUU está implicitamente (originalmente) aceptado a
+  partir de la Primera Enmienda pero adoptó status legal en 1946 con
+  la Federal Regulation of Lobbying Act que fue luego reemplazada por
+  la Lobbying Disclosure Act de 1995
+- La High Authority for Transparency in Public Life ha publicado un
+  estudio para 41 países documentando las provisiones en relación a la
+  actividad de *lobbying*
+  - Sólo 17 países tienen una ley nacional de lobby (regulación de
+    intereses especiales)
+  - 22 países no tienen ley nacional de lobby
+  - El resto se rigen por leyes local o adhesión a leyes
+    supranacionales
+
+## El *lobbying* como actividad (cont.)
+
+![Composición del gastos en financiamiento de campañas y en lobbying
+por grupos etarios (generaciones)](fig/fig-05-002.png){#fig:05002}
