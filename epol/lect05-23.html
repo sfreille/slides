@@ -340,6 +340,10 @@
 <h2 id="toc-title">Contenidos</h2>
 <ul>
 <li><a href="#/financiamiento-de-campañas-y-lobbying" id="/toc-financiamiento-de-campañas-y-lobbying"><strong>Financiamiento de campañas y lobbying</strong></a></li>
+<li><a href="#/modelos-básicos-de-competencia-electoral-con-grupos-de-interés" id="/toc-modelos-básicos-de-competencia-electoral-con-grupos-de-interés"><strong>Modelos básicos de competencia electoral con grupos de interés</strong></a></li>
+<li><a href="#/un-modelo-de-contribuciones-de-campaña-y-lobbying-aplicado-a-datos-de-argentina" id="/toc-un-modelo-de-contribuciones-de-campaña-y-lobbying-aplicado-a-datos-de-argentina"><strong>Un modelo de contribuciones de campaña y <em>lobbying</em> aplicado a datos de Argentina</strong></a></li>
+<li><a href="#/otros-canales-de-influencia-corrupción" id="/toc-otros-canales-de-influencia-corrupción"><strong>Otros canales de influencia: Corrupción</strong></a></li>
+<li><a href="#/conexiones-políticas-y-personales.-endorsements" id="/toc-conexiones-políticas-y-personales.-endorsements"><strong>Conexiones políticas y personales. Endorsements</strong></a></li>
 </ul>
 </nav>
 </section>
@@ -357,12 +361,6 @@
 <li>Actividad pre-electoral y post-electoral</li>
 <li>Regulación versus desregulación</li>
 <li>¿Comprando la política o comprando influencia?</li>
-</ul>
-</section>
-<section id="financiamiento-de-campañas-y-lobbying-1" class="slide level2 center">
-<h2>Financiamiento de campañas y lobbying</h2>
-<ul>
-<li></li>
 </ul>
 </section>
 <section id="financiamiento-de-campañas" class="slide level2 center">
@@ -448,10 +446,181 @@
 <section id="el-lobbying-como-actividad-cont." class="slide level2 center">
 <h2>El <em>lobbying</em> como actividad (cont.)</h2>
 
-<img data-src="fig/fig-05-002.png" class="r-stretch quarto-figure-center"><p class="caption">Composición del gastos en financiamiento de campañas y en lobbying por grupos etarios (generaciones)</p><div class="footer footer-default">
+<img data-src="fig/fig-05-002.jpg" class="r-stretch quarto-figure-center"><p class="caption">Composición del gastos en financiamiento de campañas y en lobbying por grupos etarios (generaciones)</p></section></section>
+<section>
+<section id="modelos-básicos-de-competencia-electoral-con-grupos-de-interés" class="title-slide slide level1 center" data-background="#CAA811">
+<h1><strong>Modelos básicos de competencia electoral con grupos de interés</strong></h1>
+
+</section>
+<section id="grupos-de-presión-y-poder-político" class="slide level2 center">
+<h2>Grupos de presión y poder político</h2>
+<ul>
+<li>Ahora suponga que algunos grupos de individuos en la sociedad tienen capacidad de organizarse como <strong>grupos de presión</strong> (lobbies) y aportar contribuciones de campaña</li>
+<li>Todos los grupos tienen la misma densidad ideológica <span class="math inline">\(\phi{j}=\phi\)</span> –el poder no proviene de su sensibilidad ideológica</li>
+<li>Variable <span class="math inline">\(O^{j}\)</span> igual a 1 si grupo se organiza como lobby; 0 en caso contrario
+<ul>
+<li>cada individuo de un lobby contribuye <span class="math inline">\(C^{j}_{P}\)</span> recursos al candidato <span class="math inline">\(P\)</span></li>
+</ul></li>
+</ul>
+</section>
+<section id="grupos-de-presión-y-poder-político-cont." class="slide level2 center">
+<h2>Grupos de presión y poder político (cont.)</h2>
+<ul>
+<li>Cantidad total de fondos recibida por <span class="math inline">\(P\)</span>:</li>
+</ul>
+<p><span class="math display">\[\begin{equation}
+C_{P}=\sum_{j=1}^{n} O^{j}\alpha^{j}C^{j}_{P}
+\end{equation}\]</span></p>
+<ul>
+<li>Suponemos que candidato recibe contribuciones <em>luego</em> de anunciar su plataforma de política pero <em>antes</em> que la preferencia general <span class="math inline">\(\delta\)</span> sea conocida</li>
+</ul>
+</section>
+<section id="grupos-de-presión-y-poder-político-cont.-1" class="slide level2 center">
+<h2>Grupos de presión y poder político (cont.)</h2>
+<ul>
+<li>Pero ahora <span class="math inline">\(\delta\)</span> tiene dos componentes:
+<ul>
+<li><span class="math inline">\(\tilde{\delta}\)</span> igual al modelo anterior</li>
+<li>componente <span class="math inline">\(h(C_{B}-C_{A})\)</span> –introduce el hecho de que las contribuciones permiten mejorar popularidad general con un parametro de efectividad <span class="math inline">\(h\)</span></li>
+</ul></li>
+</ul>
+</section>
+<section id="grupos-de-presión-y-poder-político-cont.-2" class="slide level2 center">
+<h2>Grupos de presión y poder político (cont.)</h2>
+<ul>
+<li>Entonces el nuevo votante pivotal (<em>swing</em>) de cada grupo será:</li>
+</ul>
+<p><span class="math display">\[\begin{equation}
+\tilde{\sigma^{j}}=V^{j}(\mathbf{q_{A}})-V^{j}(\mathbf{q_{B}})-\tilde{\delta^{j}}+h(C_{B}-C_{A})
+\end{equation}\]</span></p>
+<ul>
+<li>y encontramos que:</li>
+</ul>
+<p><span class="math display">\[\begin{equation}
+    p_{A}(\mathbf{q_{A}},\mathbf{q_{B}})=\frac{1}{2}+\psi
+    \left[\sum_{j}
+    \alpha^{j}[V^{j}(\mathbf{q_{A}})-V^{j}(\mathbf{q_{B}})]+h(C_{A}-C_{B})\right]
+\end{equation}\]</span></p>
+</section>
+<section id="grupos-de-presión-y-poder-político-cont.-3" class="slide level2 center">
+<h2>Grupos de presión y poder político (cont.)</h2>
+<ul>
+<li>Note la diferencia con modelos sin lobbies
+<ul>
+<li>no sólo debemos encontrar comportamiento óptimo de los candidatos sino también el comportamiento óptimo de los diferentes lobbies</li>
+</ul></li>
+<li>En cierta forma los candidatos anticipan los incentivos de los lobbies para darles recursos y eso debería reflejarse en las propuestas de política</li>
+<li>Una funcion objetivo del lobbies puede ser maximizar utilidad esperada neta de contribuciones</li>
+</ul>
+</section>
+<section id="grupos-de-presión-y-poder-político-cont.-4" class="slide level2 center">
+<h2>Grupos de presión y poder político (cont.)</h2>
+<ul>
+<li>Fn. objetivo de lobby <span class="math inline">\(j\)</span> es:</li>
+</ul>
+<p><span class="math display">\[\begin{equation}
+p_{A}(\mathbf{q_{A}},\mathbf{q_{B}})V^{j}(\mathbf{q_{A}})+(1-p_{A}(\mathbf{q_{A}},\mathbf{q_{B}})V^{j}(\mathbf{q_{B}})-\frac{1}{2}\left((C^{j}_{B})^{2}+(C^{j}_{A})^{2}\right)
+\end{equation}\]</span></p>
+<ul>
+<li>cada grupo busca maximizar la utilidad que le genera cada candidato ponderando por la probabilidad de que cada candidato sea elegido neta de costos asociados a la contribucion
+<ul>
+<li>ideología no juega; note que contribuciones ayudan a aumentar la probabilidad de ganar la eleccion</li>
+</ul></li>
+</ul>
+</section>
+<section id="grupos-de-presión-y-poder-político-cont.-5" class="slide level2 center">
+<h2>Grupos de presión y poder político (cont.)</h2>
+<ul>
+<li>La CPO respecto a la contribución para <span class="math inline">\(A\)</span></li>
+</ul>
+<p><span class="math display">\[\begin{equation}
+\frac{\partial{p_{A}}(\mathbf{q_{A}},\mathbf{q_{B}})}{\partial{C^{j}_{A}}}\left[V^{j}(\mathbf{q_{A}})-V^{j}(\mathbf{q_{B}})\right]=C^{j}_{A}
+\end{equation}\]</span></p>
+<ul>
+<li>iguala el BMg de apoyar a <span class="math inline">\(A\)</span> al CMg de proveer la contribución <span class="math inline">\(C^{j}_{A}\)</span></li>
+</ul>
+<p><span class="math display">\[\begin{equation}
+C^{j}_{A}=\max
+\{0,h\psi\alpha^{j}[V^{j}(\mathbf{q_{A}})-V^{j}(\mathbf{q_{B}})]\}
+\end{equation}\]</span></p>
+</section>
+<section id="grupos-de-presión-y-poder-político-cont.-6" class="slide level2 center">
+<h2>Grupos de presión y poder político (cont.)</h2>
+<blockquote>
+<p><strong>Problema de los candidatos.</strong> Candidatos consideran incentivos de <em>lobbies</em> al fijar plataforma dado que esta afecta cuantas contribuciones recien y a su vez esto incide sobre su probabilidad de ser elegidos. El problema es perfectamente simétrico y ambos candidatos convergen a la misma plataforma. Si no fuera así, un candidato puede atraer <em>toda</em> la contribución de algún lobby y el otro candidato movería su plataforma y así.</p>
+</blockquote>
+</section>
+<section id="grupos-de-presión-y-poder-político-cont.-7" class="slide level2 center">
+<h2>Grupos de presión y poder político (cont.)</h2>
+<ul>
+<li>El candidato <span class="math inline">\(A\)</span> elige la <span class="math inline">\(\mathbf{A}\)</span> que maximiza:</li>
+</ul>
+<p><span class="math display">\[\begin{align}
+p_{A}(\mathbf{q_{A}},\mathbf{q_{B}})&amp;=\frac{1}{2}+\psi
+    \left[\sum_{j}\alpha^{j}[V^{j}(\mathbf{q_{A}})-V^{j}(\mathbf{q_{B}})]+h(\sum_{j}O^{j}\alpha^{j}C^{j}_{A}-\sum_{j}O^{j}\alpha^{j}C^{j}_{B})\right] \\
+p_{A}(\mathbf{q_{A}},\mathbf{q_{B}})&amp;=\frac{1}{2}+\psi
+    \left[\sum_{j}\alpha^{j}[V^{j}(\mathbf{q_{A}})-V^{j}(\mathbf{q_{B}})]+h\sum_{j}O^{j}\alpha^{j}(C^{j}_{A}-C^{j}_{B})\right]
+\end{align}\]</span></p>
+</section>
+<section id="grupos-de-presión-y-poder-político-cont.-8" class="slide level2 center">
+<h2>Grupos de presión y poder político (cont.)</h2>
+<ul>
+<li>Sustituyendo las contribuciones óptimas de cada lobby:</li>
+</ul>
+<p><span class="math display">\[\begin{align}
+p_{A}(\mathbf{q_{A}},\mathbf{q_{B}})&amp;=\frac{1}{2}+\psi
+    \left[\sum_{j}\alpha^{j}[V^{j}(\mathbf{q_{A}})-V^{j}(\mathbf{q_{B}})]+h\sum_{j}O^{j}\alpha^{j}(h\psi\alpha^{j}[V^{j}(\mathbf{q_{A}})-V^{j}(\mathbf{q_{B}})])\right]
+    \\
+p_{A}(\mathbf{q_{A}},\mathbf{q_{B}})&amp;=\frac{1}{2}+\psi
+    \left[\sum_{j}\alpha^{j}[V^{j}(\mathbf{q_{A}})-V^{j}(\mathbf{q_{B}})]+h^{2}\psi\sum_{j}O^{j}\alpha^{j}(\alpha^{j}[V^{j}(\mathbf{q_{A}})-V^{j}(\mathbf{q_{B}})])\right]
+\end{align}\]</span></p>
+</section>
+<section id="grupos-de-presión-y-poder-político-cont.-9" class="slide level2 center">
+<h2>Grupos de presión y poder político (cont.)</h2>
+<ul>
+<li>Podemos tomar como dados todo lo que depende de <span class="math inline">\(\mathbf{q_{B}}\)</span> y las constantes para maximizar:</li>
+</ul>
+<p><span class="math display">\[\begin{align}
+p_{A}(\mathbf{q_{A}},\mathbf{q_{B}})&amp;=K+\psi
+    \left[\sum_{j}\alpha^{j}[V^{j}(\mathbf{q_{A}})]+h^{2}\psi\sum_{j}O^{j}\alpha^{j}(\alpha^{j}[V^{j}(\mathbf{q_{A}})])\right] \\
+p_{A}(\mathbf{q_{A}},\mathbf{q_{B}})&amp;=K+\psi
+    \left[\sum_{j}\alpha^{j}[V^{j}(\mathbf{q_{A}})][1+h^{2}\psi
+    O^{j}\alpha^{j}]\right]
+\end{align}\]</span></p>
+</section>
+<section id="grupos-de-presión-y-poder-político-cont.-10" class="slide level2 center">
+<h2>Grupos de presión y poder político (cont.)</h2>
+<blockquote>
+<p>La última ecuación muestra que el problema es equivalente a maximizar una función de bienestar social ponderada en donde la ponderación de cada grupo <span class="math inline">\(j\)</span> viene dada por <span class="math inline">\(\alpha^{j}(1+h^{2}\psi O^{j}\alpha^{j})\)</span>. Si todos los grupos tienen igual tamaño y todos están organizados –<span class="math inline">\(\alpha^{j}=\alpha\)</span> y <span class="math inline">\(O^{j}=1\)</span>, la solución coincide con el optimo utilitarista. De lo contrario, grupos más grandes recibirían mayor ponderación –i.e.&nbsp;costo marginal de contribuciones es creciente pero beneficio de contribuir es un bien público para todo el grupo. Grupos más grandes reducen tamaño promedio de contribución por miembro.</p>
+</blockquote>
+</section>
+<section id="grupos-de-presión-y-poder-político-cont.-11" class="slide level2 center">
+<h2>Grupos de presión y poder político (cont.)</h2>
+<ul>
+<li>Candidatos tienden a dar más peso a: 1) grupos más grandes; 2) con mayor organización
+<ul>
+<li>Si sólo los pobres se organizan, reciben mayor ponderación y “extraen” un mayor nivel de provisión de bien público –incluso mayor al óptimo (populismo no óptimo económicamente)</li>
+<li>Lo contrario si sólo los ricos se organizan</li>
+</ul></li>
+<li>¿Qué grupos tendrán mayor probabilidad de organizarse? ¿Los pequeños? Posible menor problema de acción colectiva. ¿Los más grandes? ¿Los que más tienden a perder con una política pública? Beneficios concentrados, costos difusos.</li>
+</ul>
+</section></section>
+<section id="un-modelo-de-contribuciones-de-campaña-y-lobbying-aplicado-a-datos-de-argentina" class="title-slide slide level1 center" data-background="#CAA811">
+<h1><strong>Un modelo de contribuciones de campaña y <em>lobbying</em> aplicado a datos de Argentina</strong></h1>
+
+</section>
+
+<section id="otros-canales-de-influencia-corrupción" class="title-slide slide level1 center" data-background="#CAA811">
+<h1><strong>Otros canales de influencia: Corrupción</strong></h1>
+
+</section>
+
+<section id="conexiones-políticas-y-personales.-endorsements" class="title-slide slide level1 center" data-background="#CAA811">
+<h1><strong>Conexiones políticas y personales. Endorsements</strong></h1>
+<div class="footer footer-default">
 
 </div>
-</section></section>
+</section>
     </div>
   </div>
 

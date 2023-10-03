@@ -35,11 +35,6 @@ format:
 - Regulación versus desregulación
 - ¿Comprando la política o comprando influencia?
 
-
-## Financiamiento de campañas y lobbying
-
-- 
-
 ## Financiamiento de campañas
 
 - ¿Y por casa cómo andamos? En Argentina, las dos leyes más
@@ -148,4 +143,174 @@ Citizens United v. FEC](fig/fig-05-006.png){#fig:05006}
 ## El *lobbying* como actividad (cont.)
 
 ![Composición del gastos en financiamiento de campañas y en lobbying
-por grupos etarios (generaciones)](fig/fig-05-002.png){#fig:05002}
+por grupos etarios (generaciones)](fig/fig-05-002.jpg){#fig:05002}
+
+# **Modelos básicos de competencia electoral con grupos de interés** {background="#CAA811"}
+
+## Grupos de presión y poder político 
+
+- Ahora suponga que algunos grupos de individuos en la sociedad tienen
+  capacidad de organizarse como **grupos de presión** (lobbies) y
+  aportar contribuciones de campaña
+- Todos los grupos tienen la misma densidad ideológica $\phi{j}=\phi$
+  --el poder no proviene de su sensibilidad ideológica
+- Variable $O^{j}$ igual a 1 si grupo se organiza como lobby; 0 en
+  caso contrario
+  - cada individuo de un lobby contribuye $C^{j}_{P}$ recursos al
+    candidato $P$
+	
+## Grupos de presión y poder político (cont.)
+
+- Cantidad total de fondos recibida por $P$:
+
+\begin{equation}
+C_{P}=\sum_{j=1}^{n} O^{j}\alpha^{j}C^{j}_{P}
+\end{equation}
+
+- Suponemos que candidato recibe contribuciones *luego* de anunciar su
+  plataforma de política pero *antes* que la preferencia general
+  $\delta$ sea conocida
+
+## Grupos de presión y poder político (cont.)
+
+- Pero ahora $\delta$ tiene dos componentes:
+    - $\tilde{\delta}$ igual al modelo anterior
+	- componente $h(C_{B}-C_{A})$ --introduce el hecho de que las
+      contribuciones permiten mejorar popularidad general con un
+      parametro de efectividad $h$
+	  
+## Grupos de presión y poder político (cont.)
+
+- Entonces el nuevo votante pivotal (*swing*) de cada grupo será:
+
+\begin{equation}
+\tilde{\sigma^{j}}=V^{j}(\mathbf{q_{A}})-V^{j}(\mathbf{q_{B}})-\tilde{\delta^{j}}+h(C_{B}-C_{A})
+\end{equation}
+
+- y encontramos que:
+
+\begin{equation}
+	p_{A}(\mathbf{q_{A}},\mathbf{q_{B}})=\frac{1}{2}+\psi
+	\left[\sum_{j}
+	\alpha^{j}[V^{j}(\mathbf{q_{A}})-V^{j}(\mathbf{q_{B}})]+h(C_{A}-C_{B})\right]
+\end{equation}
+
+## Grupos de presión y poder político (cont.)
+
+- Note la diferencia con modelos sin lobbies 
+  - no sólo debemos encontrar comportamiento óptimo de los candidatos
+    sino también el comportamiento óptimo de los diferentes lobbies
+- En cierta forma los candidatos anticipan los incentivos de los
+  lobbies para darles recursos y eso  debería reflejarse en las
+  propuestas de política
+- Una funcion objetivo del lobbies puede ser maximizar utilidad
+  esperada neta de contribuciones
+  
+## Grupos de presión y poder político (cont.)
+
+- Fn. objetivo de lobby $j$ es:
+
+\begin{equation}
+p_{A}(\mathbf{q_{A}},\mathbf{q_{B}})V^{j}(\mathbf{q_{A}})+(1-p_{A}(\mathbf{q_{A}},\mathbf{q_{B}})V^{j}(\mathbf{q_{B}})-\frac{1}{2}\left((C^{j}_{B})^{2}+(C^{j}_{A})^{2}\right)
+\end{equation}
+
+- cada grupo busca maximizar la utilidad que le genera cada candidato
+  ponderando por la probabilidad de que cada candidato sea elegido
+  neta de costos asociados a la contribucion
+  - ideología no juega; note que contribuciones ayudan a aumentar la
+    probabilidad de ganar la eleccion
+  
+## Grupos de presión y poder político (cont.)
+
+- La CPO respecto a la contribución para $A$
+
+\begin{equation}
+\frac{\partial{p_{A}}(\mathbf{q_{A}},\mathbf{q_{B}})}{\partial{C^{j}_{A}}}\left[V^{j}(\mathbf{q_{A}})-V^{j}(\mathbf{q_{B}})\right]=C^{j}_{A}
+\end{equation}
+
+- iguala el BMg de apoyar a $A$ al CMg de
+  proveer la contribución $C^{j}_{A}$
+
+\begin{equation}
+C^{j}_{A}=\max
+\{0,h\psi\alpha^{j}[V^{j}(\mathbf{q_{A}})-V^{j}(\mathbf{q_{B}})]\}
+\end{equation}
+
+## Grupos de presión y poder político (cont.)
+
+> **Problema de los candidatos.** Candidatos consideran incentivos de
+> *lobbies* al fijar plataforma dado que esta afecta cuantas
+> contribuciones recien y a su vez esto incide sobre su probabilidad
+> de ser elegidos. El problema es perfectamente simétrico y ambos
+> candidatos convergen a la misma plataforma. Si no fuera así, un
+> candidato puede atraer *toda* la contribución de algún lobby y el
+> otro candidato movería su plataforma y así. 
+
+## Grupos de presión y poder político (cont.)
+
+- El candidato $A$ elige la $\mathbf{A}$ que maximiza:
+
+\begin{align}
+p_{A}(\mathbf{q_{A}},\mathbf{q_{B}})&=\frac{1}{2}+\psi
+	\left[\sum_{j}\alpha^{j}[V^{j}(\mathbf{q_{A}})-V^{j}(\mathbf{q_{B}})]+h(\sum_{j}O^{j}\alpha^{j}C^{j}_{A}-\sum_{j}O^{j}\alpha^{j}C^{j}_{B})\right] \\
+p_{A}(\mathbf{q_{A}},\mathbf{q_{B}})&=\frac{1}{2}+\psi
+    \left[\sum_{j}\alpha^{j}[V^{j}(\mathbf{q_{A}})-V^{j}(\mathbf{q_{B}})]+h\sum_{j}O^{j}\alpha^{j}(C^{j}_{A}-C^{j}_{B})\right]
+\end{align} 
+
+
+## Grupos de presión y poder político (cont.)
+
+- Sustituyendo las contribuciones óptimas de cada lobby:
+
+\begin{align}
+p_{A}(\mathbf{q_{A}},\mathbf{q_{B}})&=\frac{1}{2}+\psi
+    \left[\sum_{j}\alpha^{j}[V^{j}(\mathbf{q_{A}})-V^{j}(\mathbf{q_{B}})]+h\sum_{j}O^{j}\alpha^{j}(h\psi\alpha^{j}[V^{j}(\mathbf{q_{A}})-V^{j}(\mathbf{q_{B}})])\right]
+	\\
+p_{A}(\mathbf{q_{A}},\mathbf{q_{B}})&=\frac{1}{2}+\psi
+    \left[\sum_{j}\alpha^{j}[V^{j}(\mathbf{q_{A}})-V^{j}(\mathbf{q_{B}})]+h^{2}\psi\sum_{j}O^{j}\alpha^{j}(\alpha^{j}[V^{j}(\mathbf{q_{A}})-V^{j}(\mathbf{q_{B}})])\right]
+\end{align}
+
+## Grupos de presión y poder político (cont.)
+
+- Podemos tomar como dados todo lo que depende de $\mathbf{q_{B}}$ y
+  las constantes para maximizar:
+
+\begin{align}
+p_{A}(\mathbf{q_{A}},\mathbf{q_{B}})&=K+\psi
+    \left[\sum_{j}\alpha^{j}[V^{j}(\mathbf{q_{A}})]+h^{2}\psi\sum_{j}O^{j}\alpha^{j}(\alpha^{j}[V^{j}(\mathbf{q_{A}})])\right] \\
+p_{A}(\mathbf{q_{A}},\mathbf{q_{B}})&=K+\psi
+    \left[\sum_{j}\alpha^{j}[V^{j}(\mathbf{q_{A}})][1+h^{2}\psi
+	O^{j}\alpha^{j}]\right]
+\end{align}
+
+## Grupos de presión y poder político (cont.)
+
+> La última ecuación muestra que el problema es equivalente a
+> maximizar una función de bienestar social ponderada en donde la
+> ponderación de cada grupo $j$ viene dada por $\alpha^{j}(1+h^{2}\psi
+> O^{j}\alpha^{j})$. Si todos los grupos tienen igual tamaño y todos
+> están organizados --$\alpha^{j}=\alpha$ y $O^{j}=1$, la solución
+> coincide con el optimo utilitarista. De lo contrario, grupos más
+> grandes recibirían mayor ponderación --i.e. costo marginal de
+> contribuciones es creciente pero beneficio de contribuir es un bien
+> público para todo el grupo. Grupos más grandes reducen tamaño
+> promedio de contribución por miembro. 
+
+## Grupos de presión y poder político (cont.)
+
+- Candidatos tienden a dar más peso a: 1) grupos más grandes; 2) con
+  mayor organización
+  - Si sólo los pobres se organizan, reciben mayor ponderación y
+    "extraen" un mayor nivel de provisión de bien público --incluso
+    mayor al óptimo (populismo no óptimo económicamente)
+  - Lo contrario si sólo los ricos se organizan
+- ¿Qué grupos tendrán mayor probabilidad de organizarse? ¿Los
+  pequeños? Posible menor problema de acción colectiva. ¿Los más
+  grandes? ¿Los que más tienden a perder con una política pública?
+  Beneficios concentrados, costos difusos. 
+
+# **Un modelo de contribuciones de campaña y *lobbying* aplicado a datos de Argentina** {background="#CAA811"}
+
+# **Otros canales de influencia: Corrupción** {background="#CAA811"}
+
+# **Conexiones políticas y personales. Endorsements** {background="#CAA811"}
