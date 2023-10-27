@@ -1,0 +1,330 @@
+---
+title: Economía Política
+title-slide-attributes:
+  data-background-image: background.png
+  data-background-size: contain
+  data-background-opacity: "0.5"
+subtitle: Unidad 1. Es la política, estúpido! Introducción a la economía política
+author: |
+  | **Sebastián Freille**
+  | sfreille@unc.edu.ar
+  | Licenciatura en Economía
+  | FCE-UNC
+format:
+  revealjs:
+    slide-number: true
+    preview-links: auto
+    css: ..\quarto.css
+    width: 1500
+    center-title-slide: true
+    center: true
+    tbl-cap-location: bottom	
+    toc: true
+    toc-depth: 1
+    toc-title: Contenidos
+    link-external-newwindow: true
+---
+
+> Los economistas deben no sólo conocer sus modelos económicos, sino que también entender de política, intereses, conflictos, pasiones, es decir, la esencia de la vida colectiva. Por un pequeño período de tiempo, uno puede realizar cambios a través de decretos: pero para que ellos persistan, uno debe construir coaliciones y tener gente que los soporte. Es decir, se debe ser un político.\
+**[Alejandro Foxley, ex Ministro de Finanzas de Chile]**
+
+# **Introducción a la economía política** {background="#CAA811"}
+
+- Economía y política
+- Antecedentes, tradiciones y metodología
+- Enfoque: limitaciones y considerandos
+
+## Economía y política
+
+- Economía $\longrightarrow$ uso óptimo de recursos escasos
+- Política $\longrightarrow$ estudio del poder y la autoridad
+- Poder $\longrightarrow$ habilidad (capacidad) de individuos y/o grupos para lograr sus objetivos
+- En cualquier estudio que pretenda describir la complejidad de las relaciones sociales en sus dimensiones económicas y políticas, estos elementos deben analizarse en forma conjunta.
+
+## Economía y politica (cont.)
+
+- La economía como disciplina nace y se desarrolla como economía política (Smith, Ricardo, Marx, JS Mill, Say). La economia neoclásica enfoca en **planificador benevolente** $\longrightarrow$ enfoque normativo
+- ¿Cómo y porqué es la política económica como es? ¿Cómo es el proceso político de toma de decisiones colectivas por parte de **agentes con preferencias diferentes** $\longrightarrow$ enfoque positivo
+- Esto último es lo que se entiende modernamente por **economia política**
+
+## Economía y política: tradiciones
+
+- Tres tradiciones nutren a la economia política
+  - Teoría de la **política macroeconómica** $\longrightarrow$ exp. racionales, incentivos del *policy maker* y comportamiento estratégico. Teórica; instituciones políticas poco realistas
+  - Teoría de la **elección pública** $\longrightarrow$ finanzas públicas, política regulatoria. Eje: problema de agencia entre el gobierno (agente) y ciudadanos (principal).
+  - Teoría de la **elección social** $\longrightarrow$ modelos formales de análisis político. Se inicia con los modelos de votación espacial y la teoría axiomática de la elección social (Arrow). Estudia decisiones colectivas en instituciones políticas específicas.
+
+## Enfoque metodológico
+
+> Enfoque de la economía política moderna: síntesis
+Utiliza el enfoque de equilibrio general de la **teoría macroeconómica**
+de la política y explota las herramientas de la **teoría de la elección
+racional** para el análisis de los problemás principales de la **teoría
+de la elección pública**
+
+## Enfoque: resumen
+
+- Enfoque consiste en aplicar métodos de análisis modernos al ámbito político $\longrightarrow$ politicas económicas resultado de interacción entre individuos racionales con preferencias heterogéneas
+- Si bien el método en ocasiones suele ser criticado por excesivamente formal y racionalista, se pueden incorporar otros paradigmas para analizar el efecto de relajar ciertos supuestos.	
+
+## Las tres I's
+
+> **Intereses.**
+Representados por preferencias de diferentes agentes por alternativas
+de políticas. Se modelan al nivel individual.
+
+> **Instituciones.**
+Restricciones creadas por los humanos que estructuran la interacción
+económica, política y social.
+
+> **Ideas.**
+Incluyen paradigmas, sentimientos públicos, programas y encuadres que
+moldean e impactan el tipo y forma de las decisiones adoptadas.
+
+# **Heterogeneidad en políticas y outcomes** {background="#CAA811"}
+
+- Hechos estilizados
+- Explicaciones económicas y políticas
+- ¿Por qué fracasan los países?
+
+## Gasto público y PIB
+
+- Existe una relación positiva entre gasto público y PIB per capita con alguos *outliers* y posibles no linearidades
+- ¿Cómo se explican estas diferencias desde un enfoque puramente económico sin considerar la politica?
+- Posibles explicaciones $\longrightarrow$ 1) mayor rol redistributivo del Estado; 2) instituciones políticas --presidencialismo vs parlamentarismo, mayoritario vs representación proporcional.
+
+## Gasto público y PIB (cont.)
+
+![Gasto público ($\%PIB$) y PBI per capita](fig/fig-01-001.png){#fig:01001}
+
+## Gasto público y PIB: evolución
+
+- Si miramos evolución comparada de largo plazo, observamos claras tendencias a mayor participación estatal en la economía $\longrightarrow$ medido tanto por el lado de gastos como de recursos y también para diferentes países
+- También aquí la política es importante $\longrightarrow$ expansión y fortalecimiento de las democracias en los últimos 150 años
+- ¿Diferentes preferencias? ¿Diferentes instituciones?
+
+## Gasto público y PIB: evolución (cont.)
+
+![Evolución gasto público ($\%PIB$) - Paises industriales](fig/fig-01-002.png){#fig:01002}
+
+## Gasto público y PIB: evolución (cont.)
+
+
+![Evolución gasto público ($\%PIB$) - Países en desarrollo](fig/fig-01-003.png){#fig:01003}
+
+## Tributos y PIB
+
+- Países pobres versus ricos con similar recaudación tributaria --ie. tamaño del Estado- $\longrightarrow$ Lesotho/Alemania
+- Países con similar riqueza pero diferente rol del Estado $\longrightarrow$ Oman y Arabia Saudita / EEUU / Noruega
+- Economia puede explicar algunas diferencias $\longrightarrow$ ley de Wagner, efecto "umbral"
+- Varias teorías explicativas desde el estudio de la política $\longrightarrow$ 1) maldición de los recursos, 2) corrupción, 3) incentivos político-electorales
+
+## Tributos y PIB (cont.)
+
+![Recaudacion tributaria ($\%PIB$) y PBI per capita](fig/fig-01-004.png){#fig:01004}
+
+## Tributos y PIB (cont.)
+
+![Evolución recaudación tributaria ($\%PIB$) - Países industriales](fig/fig-01-005.png){#fig:01005}
+
+# **"It's politics"** {background="#CAA811"}
+
+- Individuos heterogeneos en varios aspectos
+- Desvíos de los teoremas de bienestar
+- Tipos de heterogeneidad e implicancias
+- ¿Cómo se deciden los "pesos"?
+
+## Heterogeneidad de intereses 
+
+- Un aspecto relevante de la política es en lo que hace a la **heterogeneidad de intereses**
+- Restricciones políticas derivadas de ello implica que las políticas adoptadas en la práctica **no son óptimas**
+- Implicaciones positivas $\longrightarrow$ si la política óptima se encuentra no resulta cierto que esta se implementa (implícito en la *economía del bienestar*)
+- Implicaciones normativas $\longrightarrow$ ¿cómo pueden diseñarse instituciones y políticas para lograr ciertos objetivos?
+
+## Los teoremas del bienestar
+
+> **Primer teorema del bienestar (1TDB)** $\longrightarrow$ cualquier asignación que resulta de un equilibrio competitivo es Pareto-eficiente  
+
+> **Segundo teorema del bienestar (2TDB)** $\longrightarrow$ bajo preferencias convexas, cualquier asignación Pareto-eficiente *puede* resultar en un equilibrio competitivo (mediante una reasignación de las dotaciones iniciales)
+
+- Los teoremas son las dos espadas principales de la economía del bienestar en cuanto orientaciones de política económica --en este sentido la economía del bienestar es un asunto de *economía normativa* [Blaug (1978), Price (1977)]
+
+## 1TDB: Eficiencia asignativa
+
+![Equilibrio competitivo es Pareto-eficiente](fig/fig-01-006.png){width=45%} ![Curva de contrato](fig/fig-01-007.png){width=45%}
+
+## 2TDB: Eficiencia en (re)distribución
+
+![Cada dotación origina un equilibrio](fig/fig-01-008.png)
+
+
+## "Todos los modelos están mal..."
+
+- Eficiencia Paretiana $\longrightarrow$ deseable pero débil e insuficiente --una persona consumo todo y el resto nada será Pareto-eficiente
+- Condiciones muy estrictas --externalidades, competencia, información perfecta e individuos racionales
+- El 2TDB asume que no hay ***trade-off* eficiencia versus equidad**.
+- Es un resultado con profundas implicancias sobre cómo pensar la organización de la actividad económica en cualquier economía [Stiglitz (1991)] 
+
+## Sobre la redistribución inicial
+
+- El 2TDB supone *implícitamente* que la redistribución inicial de la dotación/riqueza se hace via **transferencias *lump-sum*** --no voluntarias- entre consumidores [en la práctica esto sería un **impuesto *lump-sum***]
+- El tamaño de la transferencia no se ve afectado por cambio en la conducta --no hay efecto sustitución, sólo efecto ingreso.
+- El problema es que este mecanismo es inviable --las dotaciones iniciales no pueden ser observadas por el gobierno
+
+## Sobre la redistribución inicial (cont.)
+
+- Cada consumidor tiene dotación y preferencias. La dotación de consumidor $h$ es $w^{h}=(w_{1}^{h},w_{2}^{h})$ donde $w_{i}^{h} \geq 0$ el stock inicial de $i$ de $h$.
+- Dados los precios $p_{1}$ y $p_{2}$, un plan de consumo para $h$ es $x^{h}=(x_{1}^{h},x_{2}^{h})$ y satisface la RP.
+$$\begin{aligned}
+p_{1}x_{1}^{h}+p_{2}x_{2}^{h}=p_{1}w_{1}^{h}+p_{2}w_{2}^{h}
+\end{aligned}$$
+- La función de utilidad del consumidor $h$ es:
+$$\begin{aligned}
+U^{h}=U^{h}(x_{1}^{h},x_{2},^{h})
+\end{aligned}$$
+
+## Sobre la redistribución inicial (cont.)
+
+![Dotaciones y consumos](fig/fig-01-010.png)
+
+## Sobre la redistribución inicial (cont.)
+
+- En el punto inicial, el ingreso de $h$ es $\hat{p}w^{h}$. El valor de la transferencia requerida para $h$ es igual a:
+$$\begin{aligned}
+M^{h}-\hat{p}w^{h}=\hat{p}x^{h}-\hat{p}w^{h}
+\end{aligned}$$
+- Una forma de hacerlo sería transferir  $\tilde{x}_{1}^{1}$ del bien 1 del consumidor 1 al 2  --$\tilde{x}_{h}^{i}$ denota el consumo *neto* del bien $i$, es decir $x_{h}^{1}-w_{h}^{1}$.  
+- Problema $\longrightarrow$ es imposible transferir dotaciones --la dotacion de cada persona es su oferta de trabajo --por esa razón, se modelan como **impuestos de suma fija**.
+
+## Sobre la redistribución inicial (cont.)
+
+![Implica redistribución de dotación](fig/fig-01-009.png)
+
+## Sobre la redistribución inicial (cont.)
+
+- Suponga que ambos consumidores venden su dotación (trabajo) al precio $\hat{p}$ $\longrightarrow$ ingresos de $\hat{p}w^{1}$ y $\hat{p}w^{2}$
+- Ahora, con impuestos, el consumidor 1 pagaría
+$$\begin{aligned}
+T^{1}=\hat{p}\tilde{x}_{1}^{1}
+\end{aligned}$$
+- y le daria ese monto al consumidor 2, por lo que este pagaría un impuesto negativo (subsidio) igual a $T^2=-\hat{p}\tilde{x}_{1}^{1}=-T^{1}$
+- El par de impuestos $\left(T^{1},T^{2}\right)$ mueve la RP igual que las transferencias --el **impuesto de suma fija no reduce la suma de dotaciones iniciales**; redistribución sin costo de eficiencia $\longrightarrow$ impuestos perfectos!
+
+## Falacia del 2TDB
+
+> Se puede alcanzar cualquier resultado eficiente en el sentido de Pareto a través de (1) redistribución de las dotaciones iniciales (impuestos *lump-sum*) y luego (2) dejar que los mercados actúen libremente
+
+- Pero la redistribucion de dotaciones iniciales no es viable (problema de información) $\longrightarrow$ el gobierno debe usar impuestos y transferencias distorsivas.
+-  Esto implica de facto la **existencia de un trade-off eficiencia y equidad**
+
+## Falacia del 2TDB (cont.)
+
+> Suponga que la economía hay  un 50\% de gente incapacitada para trabajar (ingresos $0$) y 50\% de personas que pueden trabajar y ganar $100$
+
+- **Resultado mercado.** Incapacitados ganan $0$, resto gana $100$
+- **Resultado 2do TdB.**  El gobierno puede distinguir incapacitados de capacitados. Pone un impuesto de $50$ a los capacitados y le da $50$ a cada incapacitado --los capacitados continuan trabajando.
+- **Resultado real.** El gobierno no puede distinguir entre grupos. El combo de un impuesto de $50$ sobre trabajadores y de un subsidio de $50$ sobre no trabajadores destruye todos los incentivos a trabajar. El gobiern no puede hacer redistribución completa --trade-off entre equidad y eficiencia.
+
+# **Aplicación: Equilibrio con y sin política** {background="#CAA811"}
+
+- No hay política: problema técnico
+- Con política: modelar la heterogeneidad
+- Heterogeneidad *ex-ante*
+- Heterogeneidad *ex-post*
+- El problema de economía política
+
+## Equilibrio sin política
+
+- Basado en Drazen (2000) y Ferguson/Querubin (2018)
+- Suponga un **individuo representativo**, Ana quien debe elegir cuánto destinar de sus recursos iniciales $A_{o}$ para sus vacaciones de este año y el próximo
+- Note que no hay problema político (no conflicto de intereses) sino uno técnico
+- ¿Cuál es la manera óptima de dividir los recursos entre de vacaciones (presente y futuro)?
+
+## Equilibrio sin política (cont.)
+
+- Sea $u(x_{t})$ la utilidad de Ana por destinar $x$ a sus vacaciones en $t$ con $u'>0$ y $u''<0$. El parámetro $\beta$ compara utilidades en distintos momentos --una unidad de utilidad hoy es igual a $\beta$ unidades de utilidad mañana \[$0<\beta<1$\]
+- Problema: $$\max_{x_{t},x_{t+1},s} u(x_{t})+\beta u(x_{t+1})$$
+-   sujeto a:
+    $$\begin{aligned}
+          A_{0}(1-s)&=x_{t} \\
+         sA_{0}(1+r_{t})&=x_{t+1} 
+          \end{aligned}$$
+
+## Equilibrio sin política (cont.)
+
+- Sustituyendo las restricciones:
+    $$\max_{x_{t}}u(x_{t})+\beta((A_{o}-x_{t})(1+r_{t}))$$
+- Y la solución de esto es: $$u'(x_{t})=\beta(1+r_{t})u'(x_{t+1})$$
+- ¿Interpretación de esta solución (ecuación de Euler)?
+
+## Equilibrio con política: *ex-ante*
+
+- **Con individuos heterogéneos ex-ante** $\longrightarrow$ preferencias diferentes por consumo presente/futuro \[dos tipos de heterogeneidad: *ex ante* y *ex post*\]
+- Los recursos son los mismos que antes pero ahora hay dos individuos, Ana (A) y Juan (J) y sea $\beta^{A}>\beta^{J}$ \[Juan es más impaciente que Ana\]
+- Problema $\longrightarrow$ maximizar la función de bienestar social (suma ponderada de utilidades individuales) $\longrightarrow$ $\alpha$ ponderación de cada individuo
+
+## Equilibrio con política: *ex-ante* (cont.)
+
+- Problema (neoclasico): $$\max_{x_{t},x_{t+1},s} \alpha\left[u(x_{t})+\beta^{A}u(x_{t+1})\right] + (1-\alpha)\left[u(x_{t})+\beta^{J}u(x_{t+1})\right]$$
+- sujeto a: $$A_{0}=x_{t}+\frac{x_{t+1}}{(1+r_{t})}$$
+- si el bien "vacaciones" es no rival --unica fuente de conflicto la diferencia ex-ante en el grado de impaciencia de cada uno
+
+## Equilibrio con política: *ex-ante* (cont.)
+
+- Sustituyendo las restricciones: $$u'(x_{t})=(1+r_{t})[\alpha \beta^{A}+(1-\alpha)\beta^{J}]u'(x_{t+1})$$
+- Para diferentes $\alpha$ trazamos **curva de contrato** con asignaciones de $x_{t}$ y $x_{t+1}$ eficientes en sentido de Pareto
+- Varios problemas con esto: 1) cada persona requiere un $\alpha$ mas alto, 2) ¿cómo se determina $\alpha$, 3) ¿cómo afecta el valor de $\alpha$ a la asignación de recursos, 4) ¿estaremos sobre la curva de contrato?
+
+## Equilibrio con política: *ex-post*
+
+- **Sin individuos heterogéneos ex-ante** $\longrightarrow$ problema converge al del individuo representativo PERO las vacaciones no son un bien no rival. El problema es: $$\begin{aligned}
+    \max_{x_{t},x_{t+1},s} & \alpha\left[u(\lambda x_{t})+\beta u(\lambda
+          x_{t+1})\right] \\ & +(1-\alpha)\left[u((1-\lambda) x_{t})+\beta u((1-\lambda) x_{t+1})\right]
+          \end{aligned}$$
+- sujeto a \[$\lambda$ porcentaje que disfruta Juan del gasto $x$\]
+    $$\begin{aligned}
+                    A_{0}(1-s)&=x_{t}=\lambda x_{t}+(1-\lambda)x_{t} \\
+            sA_{0}(1+r_{t})&=x_{t+1}=\lambda x_{t+1}+(1-\lambda)x_{t+1} 
+          \end{aligned}$$
+
+## Equilibrio con política: *ex-post* (cont.)
+
+- Resolviendo: $$\begin{aligned}
+    \alpha \lambda u'(\lambda
+          x_{t})+(1-\alpha)(1-\lambda)u'((1-\lambda)x_{t})= \\
+          \beta(1+r_{t})\left[\alpha \lambda u'(\lambda
+          x_{t+1})+(1-\alpha)(1-\lambda)u'((1-\lambda)x_{t+1})\right]
+        \end{aligned}$$
+- Note que $\alpha$ es crucial $\longrightarrow$ pero ahora $\lambda$ también lo es \[aún suponiendo que $\alpha=0.5$ existe conflicto de interés\] $$\begin{aligned}
+\lambda u'(\lambda
+              x_{t})+(1-\lambda)u'((1-\lambda)x_{t})= \\
+              \beta(1+r_{t})\left[\lambda u'(\lambda
+          x_{t+1})+(1-\lambda)u'((1-\lambda)x_{t+1})\right]
+              \end{aligned}$$
+- Si $\lambda=1$, el resultado seria preferido por Juan y si $\lambda=0$ el resultado sería preferido por Ana.
+
+## Equilibrio con política: *ex-post* (cont.)
+
+- Cuando no hay heterogeneidad, el problema es trivial $\longrightarrow$ problema técnico depende de parámetros subjetivos
+- Cuando hay heterogeneidad en preferencias (*ex ante*) $\longrightarrow$ como se ponderan utilidades individuales \[$\alpha$ exógeno\]
+- Cuando hay heterogeneidad en distribución (*ex post*) $\longrightarrow$ como se ponderan utilidades invididuales y como se distribuye/asigna las cantidades consumidas del bien 
+- ¿Cómo se determinan los parámetros $\alpha$ y $\lambda$ en la práctica? No a través del mercado sino del proceso político
+
+## Economía y política: todo junto
+
+- Una persona, un voto $\longrightarrow$ **democracia**
+- Un dólar, un voto $\longrightarrow$ **mercado**
+- Función objetivo del gobierno incluye ambos $$\begin{aligned}
+            G&=f(W,C)=\alpha W+\sum_{i}C_{i}
+            \end{aligned}$$
+- $W$ es bienestar agregado; $C_{i}$ es dinero aportado por grupo $i$ --$\alpha$ ponderador del bienestar agregado.
+
+## Economía y política: todo junto (cont.)
+
+![Economía política de la política económica](fig/fig-01-011.png)
+
+## Recap
+
+- La política económica en las sociedades modernas no puede explicarse sólamente en base a teorías y evidencias económicas $\longrightarrow$ introducir la política explícitamente en el análisis
+- Hay varias formas de introducir la política $\longrightarrow$ optamos por la aproximación de la nueva economia política
+- Pondremos el énfasis en algunos sencillos modelos teóricos --de comportamiento-- pero ilustraremos el análisis con evidencias empíricas
