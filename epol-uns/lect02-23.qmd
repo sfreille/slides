@@ -1,14 +1,13 @@
 ---
-title: Economía Política
+title: Tópicos de Economía Política (UNS)
 title-slide-attributes:
   data-background-image: background.png
   data-background-size: contain
   data-background-opacity: "0.5"
-subtitle: Unidad 2. En la vida hay que elegir. ¿Cómo eligen las sociedades?
+subtitle: Unidad 2. Elección en democracia directa
 author: |
   | **Sebastián Freille**
   | sfreille@unc.edu.ar
-  | Licenciatura en Economía
   | FCE-UNC
 format:
   revealjs:
@@ -52,11 +51,11 @@ format:
 
 ## Democracia directa (cont.)
 
-![Provisiones legales para iniciativas de agenda en nivel nacional](fig/fig-02-010.png){#fig:02010 width=90%}
+![Provisiones legales para iniciativas de agenda en nivel nacional](../epol/fig/fig-02-010.png){#fig:02010 width=90%}
 
 ## Democracia directa (cont.)
 
-![Provisiones legales para democracia directa en nivel local](fig/fig-02-011.png){#fig:02011}
+![Provisiones legales para democracia directa en nivel local](../epol/fig/fig-02-011.png){#fig:02011}
 
 
 ## Problema general de política
@@ -138,17 +137,17 @@ $$\begin{aligned}
 
 ## Ilustración y aplicación (cont.). 
 
-![Grado de apoyo a redistribución - Ideología/Partidismo](fig/fig-02-001.png){#fig:02001}
+![Grado de apoyo a redistribución - Ideología/Partidismo](../epol/fig/fig-02-001.png){#fig:02001}
 
 
 ## Ilustración y aplicación (cont.)
 
-![Grado de apoyo a redistribución - Evolución](fig/fig-02-002.jpg){#fig:02002 width=90%}
+![Grado de apoyo a redistribución - Evolución](../epol/fig/fig-02-002.jpg){#fig:02002 width=90%}
 
 
 ## Ilustración y aplicación (cont.)
 
-![Grado de apoyo a redistribución de millenials - Edad e ingresos ](fig/fig-02-003.png){width=70%}
+![Grado de apoyo a redistribución de millenials - Edad e ingresos ](../epol/fig/fig-02-003.png){width=70%}
 
 # **Preferencias y alternativas** {background="#CAA811"}
 
@@ -276,7 +275,7 @@ pero
 
 ## Pasaron cosas...
 
-![El Teorema de la Imposibilidad dice que no](fig/fig-02-004.jpg){#fig:02004}
+![El Teorema de la Imposibilidad dice que no](../epol/fig/fig-02-004.jpg){#fig:02004}
 
 ## Restricciones y supuestos
 
@@ -359,7 +358,7 @@ $$\begin{aligned}
 
 ## Preferencias de pico único (cont.)
 
-![Preferencias de política ($\tau$) [Fuente: Fergusson y Querubin (2018)]](fig/fig-02-013.png){#fig:02013 width=80%}
+![Preferencias de política ($\tau$) [Fuente: Fergusson y Querubin (2018)]](../epol/fig/fig-02-013.png){#fig:02013 width=80%}
 
 
 ## Políticas unidimensionales (cont.)
@@ -380,7 +379,7 @@ de mayoría pura, esto es bajo supuestos A1-A3.
 
 ## El votante mediano (cont.)
 
-![El votante mediano no existe!](fig/fig-02-mvt-meme.png){#fig:02001}
+![El votante mediano no existe!](../epol/fig/fig-02-mvt-meme.png){#fig:02001}
 
 ## Aplicación: Preferencias s/aborto
 
@@ -396,7 +395,7 @@ de mayoría pura, esto es bajo supuestos A1-A3.
 
 ## Aplicación: Preferencias s/aborto (cont.)
 
-![Polarización y preferencias de pico único](fig/fig-02-012.jpeg){#fig:02012 width=70%}
+![Polarización y preferencias de pico único](../epol/fig/fig-02-012.jpeg){#fig:02012 width=70%}
 
 ## Aplicación: Preferencias s/aborto (cont.)
 
@@ -498,7 +497,7 @@ $$\begin{aligned}
 
 ## Ejemplo (cont.)
 
-![Pico único versus cruce único](fig/fig-02-005.png){#fig:02005}
+![Pico único versus cruce único](../epol/fig/fig-02-005.png){#fig:02005}
 
 
 ## Aplicación: Modelo simple de redistribución
@@ -723,11 +722,11 @@ W^{i}(q;\alpha^{i}) \equiv L(q)+V(1-L(q)-\alpha)-(1-q)(\alpha^{i}-\alpha)
 
 ## Ciclos con alternativas definidas (cont.)
 
-![Ciclos e indeterminaciones](fig/fig-02-014.png){#fig:02014 width=70%}
+![Ciclos e indeterminaciones](../epol/fig/fig-02-014.png){#fig:02014 width=70%}
 
 ## Ocurrencia de ciclos
 
-![Perfiles de preferencias sin ganador de Condorcet](fig/fig-02-015.png){#fig:02015 width=80%}
+![Perfiles de preferencias sin ganador de Condorcet](../epol/fig/fig-02-015.png){#fig:02015 width=80%}
 
 ## Limitando ciclos: agenda cerrada
 
@@ -787,7 +786,7 @@ W^{i}(q;\alpha^{i}) \equiv L(q)+V(1-L(q)-\alpha)-(1-q)(\alpha^{i}-\alpha)
 
 ## El rol del mediano
 
-![Preferencias a lo largo de una linea](fig/fig-02-006.png){#fig:02006}
+![Preferencias a lo largo de una linea](../epol/fig/fig-02-006.png){#fig:02006}
 
 ## El rol del mediano (cont.)
 
@@ -798,7 +797,7 @@ W^{i}(q;\alpha^{i}) \equiv L(q)+V(1-L(q)-\alpha)-(1-q)(\alpha^{i}-\alpha)
 
 ## El rol del mediano (cont.)
 
-![Conjuntos preferidos](fig/fig-02-007.png){#fig:02007 width=90%}
+![Conjuntos preferidos](../epol/fig/fig-02-007.png){#fig:02007 width=90%}
 
 ## El rol del mediano (cont.)
 
@@ -808,7 +807,7 @@ W^{i}(q;\alpha^{i}) \equiv L(q)+V(1-L(q)-\alpha)-(1-q)(\alpha^{i}-\alpha)
 
 ## El rol del mediano (cont.)
 
-![Superponiendo los conjuntos preferidos](fig/fig-02-008.png){#fig:02008 width=80%}
+![Superponiendo los conjuntos preferidos](../epol/fig/fig-02-008.png){#fig:02008 width=80%}
 
 ## El rol del mediano (cont.)
 
@@ -831,7 +830,7 @@ W^{i}(q;\alpha^{i}) \equiv L(q)+V(1-L(q)-\alpha)-(1-q)(\alpha^{i}-\alpha)
 
 ## El rol del mediano (cont.)
 
-![El rol del votante mediano](fig/fig-02-009.png){#fig:02009 width=80%}
+![El rol del votante mediano](../epol/fig/fig-02-009.png){#fig:02009 width=80%}
 
 
 
