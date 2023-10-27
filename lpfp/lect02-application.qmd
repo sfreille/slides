@@ -1,0 +1,95 @@
+---
+title: U2. Aplicación
+author: |
+  | **Sebastián Freille**
+  | sfreille@unc.edu.ar
+  | Licenciatura en Economía
+  | FCE-UNC
+format:
+  revealjs:
+    slide-number: true
+    chalkboard:
+      buttons: false
+    preview-links: auto
+    css: ..\quarto.css
+    width: 1500
+    center-title-slide: true
+    center: true
+    tbl-cap-location: bottom	
+    toc: true
+    toc-depth: 1
+    toc-title: Contenidos
+    link-external-newwindow: true
+---
+
+
+# Preferencias electorales (Twitter)
+
+![Eligiendo de a pares](fig/fig-002-001.png){#fig-alternativas}
+
+# Combinando de a pares
+
+- Sean entonces las siguientes alternativas
+  1. Bullrich (BU)
+  2. Larreta (LA)
+  3. Massa  (MA)
+  4. Milei (MI)
+- En principio esto nos da 6 (seis) combinaciones posibles
+  - (1) Bullrich-Larreta, (2) Bullrich-Massa, (3) Bullrich-Milei, (4)
+    Larreta-Massa, (5) Larreta-Milei y (6) Massa-Milei
+	- Note que (1) no es factible de suceder
+	
+# Ordenamientos posibles
+
+| **Bullrich**      	| **Larreta**       	| **Massa**         	| **Milei**         	|
+|-------------------	|-------------------	|-------------------	|-------------------	|
+| BU > LA > MA > MI 	| LA > BU > MA > MI 	| MA > BU > LA > MI 	| MI > BU > LA > MA 	|
+| BU > LA > MI > MA 	| LA > BU > MI > MA 	| MA > BU > MI > LA 	| MI > BU > MA > LA 	|
+| BU > MA > LA > MI 	| LA > MA > BU > MI 	| MA > LA > BU > MI 	| MI > LA > BU > MA 	|
+| BU > MA > MI > LA 	| LA > MA > MI > BU 	| MA > LA > MI > BU 	| MI > LA > MA > BU 	|
+| BU > MI > LA > MA 	| LA > MI > BU > MA 	| MA > MI > BU > LA 	| MI > MA > BU > LA 	|
+| BU > MI > MA > LA 	| LA > MI > MA > BU 	| MA > MI > LA > BU 	| MI > MA > LA > BU 	|
+	
+	
+# Posicionamiento de cada candidato
+
+- Supongamos que los candidatos pueden ser ordenados en una sola
+  dimensión de política --regulación/desregulación económica- y por
+  simplicidad supongamos que pueden ordenarse así en una recta donde
+  más a la izquierda significa mayor regulación y más a la derecha
+  significa más desregulación
+  
+- MA  ----------------  LA ---------------- BU -----------------MI
+
+# ¿Hay preferencias "raras"?
+
+- Piense en la preferencia $MI > MA > LA > BU$ o $MA > MI > LA > BU$
+  - ¿qué tiene de "raro" o extrañas esas preferencias?
+- Estas preferencias tienden a ordenar valores más alejados de las
+  preferncias mas fuertes "más arriba" que valores más cercanos de las
+  preferencias más fuertes (puntos ideales)
+- ¿Es esto un problema para agregar opiniones y decisiones
+  individuales? Teóricamente si. Practicamente depende del contexto y situación
+
+# Preferencias de pico único
+
+![Preferencias de pico único](fig/fig-002-002.png){#fig-alternativas}
+
+
+# IAA
+
+- Este criterio dice básicamente que si $LA > BU > MI$ que aparezca
+una nueva opción $MA$ no debería cambiar el ordenamiento de ese grupo
+entre $LA$, $BU$ y $MI$. En efecto, tanto:
+  - $LA > BU > MI > MA$
+  - $MA > LA > BU > MI$
+- serían viables y no violarían el criterio de independencia de
+  alternativas irrelevantes
+  - ejemplo $\longrightarrow$ tomamos un avión y a la hora de la cena
+    nos preguntan "Carne o pasta". Elegimos carne. Justo en ese
+    momento, informan que además hay ensalada. Ante esa información,
+    elegimos pasta. 
+  
+# ¿Cambiamos nuestra preferencia ante presencia/ausencia de alternativas?
+	
+![](fig/fig-002-007.png){#fig-alternativas}

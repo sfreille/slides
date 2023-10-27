@@ -1,0 +1,38 @@
+library(rgdal)
+library(ggplot2)
+
+coa <- read.csv("coa.csv",header=TRUE,sep=";",dec=".")
+
+coa$departamento <- as.factor(toupper(coa$departamento))
+coa$provincia <- as.factor(toupper(coa$provincia))
+coa$diff1 <- coa$sh_prez-coa$sh_gob
+coa$diff1.cat <- as.factor(ifelse(coa$diff1>=0,"POS","NEG"))
+
+arg <- readOGR("departamentos.shp","departamentos",encoding="iso-8859-1")
+plot(arg)
+
+### Eliminate Islas Malvinas and Antartida from both
+arg <- arg[arg$OBJECTID!="488"&arg$OBJECTID!="489",]
+plot(arg)
+
+#2003
+map03 <- merge(arg,coa[coa$year==2003,],by.x=c("DEPARTA","PROVINCIA"),by.y=c("departamento","provincia"))
+#2007
+map07 <- merge(arg,coa[coa$year==2007,],by.x=c("DEPARTA","PROVINCIA"),by.y=c("departamento","provincia"))
+#2011
+map11 <- merge(arg,coa[coa$year==2011,],by.x=c("DEPARTA","PROVINCIA"),by.y=c("departamento","provincia"))
+#2015
+map15 <- merge(arg,coa[coa$year==2015,],by.x=c("DEPARTA","PROVINCIA"),by.y=c("departamento","provincia"))
+
+
+spplot(map03,"diff1",col.regions=rev(heat.colors(100)))
+spplot(map07,"diff1",col.regions=rev(heat.colors(100)))
+spplot(map11,"diff1",col.regions=rev(heat.colors(100)))
+spplot(map15,"diff1",col.regions=rev(heat.colors(100)))
+
+
+par(mfrow=c(1,4))
+spplot(map03,"diff1.cat",col.regions=c("red","green"))
+spplot(map07,"diff1.cat",col.regions=c("red","green"))
+spplot(map11,"diff1.cat",col.regions=c("red","green"))
+spplot(map15,"diff1.cat",col.regions=c("red","green"))

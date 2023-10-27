@@ -63,7 +63,6 @@ res <- voteview_search("codes.Clausen:Foreign and Defense Policy support:[15 to 
 rc <- voteview_download(res$id)
 
 ### Buscar los "legisladores extremos" para la variable polaridad
-
 cons1 <- rc$legis.long.dynamic[which.max(rc$legis.data$dim1), c("name", "icpsr")]
 cons2 <- rc$legis.long.dynamic[which.max(rc$legis.data$dim2), c("name", "icpsr")]
 defIdeal <- wnominate(rc,
@@ -74,12 +73,15 @@ defIdeal$legislators$partyName <- ifelse(defIdeal$legislators$party == 200, "Rep
 
 ggplot(defIdeal$legislators,aes(x=coord1D, y=coord2D, color=partyName, label=state_abbrev)) +  geom_text() + scale_color_manual("Party", values = c("Republican" = "red","Democrat" = "blue","Independent" = "darkgreen"))+labs(title="Ideal Point Estimation - Legislators voting on foreign policy during the first six months of Obama's presidency") + theme_bw()
 
+
+####************** HASTA ACÁ ESTA VERIFICADO ******************########
+
+
 ##############################################
 ### Regression Analysis of Roll Call Votes ###
 ##############################################
 
 ### APLICACIÓN: Usar encuestas de opinión pública sobre derechos de comunidad LGBT (Lax and Phillips, 2009). Usan regresión multinivel con encuestas con post-estratificación. Pueden usarse algunas leyes que pasaron por el Congreos en esos años
-
 
 res2 <- voteview_search("codes.Issue:Homosexuality congress:111")
 res[1:5,1:10]
@@ -121,45 +123,22 @@ summary(lm(voteYes ~ meanOpinion*republican, data = df))
 ## so interpret the results with some caution
 summary(lm(voteYes ~ meanOpinion*republican + dim1 + dim2,data = df))
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+##### REVISAR Y EDITAR ######
 
 ### Y también otros métodos gráficos!
-
 plot(defIdeal,colour=partyName)
 
 ### También podemos usar el objeto "rollcall" en el paquete pscl
-
 defIdeal <- ideal(rc,d = 2)
 plot(defIdeal)
 
-
-
 ### Usando res$id podemos obtener un objeto de llamada de votos (del paquete 'pcsl')que contiene el conjunto total de votes y datos para cada llamada de votos.
-
 rc <- voteview_download(res$id[1:10])
 summary(rc)
-
 
 ### Se puede acceder a datos de legisladores puntuales
 rc$legis.long.dynamic[1:5, 1:5]
 
-
 ### PARTY POLARIZATION
-
 nom_dat <- read.csv("https://voteview.com/static/data/out/members/HSall_members.csv")
-
 pol  <-  read.csv("voteview_polarization_data.csv")

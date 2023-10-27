@@ -1,0 +1,27 @@
+---
+title: "Winner's purse: Presidents and gobernors in Argentina during 2003-2019"
+author: "Sebastián Freille^[Instituto de Economía y Finanzas, Facultad de Ciencias Económicas (FCE)-UNC. Email: sfreille@unc.edu.ar. Web: https://sfreille.github.io]"
+date: "`r format(Sys.Date(),'%d %B %Y')`"
+bibliography: references/biblio.bib
+format:
+  pdf:
+    toc: true
+    number-sections: true
+    colorlinks: true
+---
+
+# Abstract
+
+In this paper we study the relationship between electoral outcomes for both federal and state level executive elections. Electoral outcomes for different offices in multi-tiered systems are likely to be mutually influenced through multiple channels. We explore two of this channels in this paper: institutional design and coattail effects. Traditionally, coattail effects have been studied between executive and legislative elections for the same government level. Instead, we explore both coattail effects and vote congruence for different-level office. Using data disaggregated at the department-level comprising 5 (five) elections during 2003-2019, we examine the relationship between votes for the elected President and governor in every district. We find evidence of vote dissimilarity between elected Presidents and governors and this is particularly strong when the national executive election is contested. Elected Presidents tend to increase their district-level relative electoral strength vis-a-vis elected gobernors regardless of party and coalition. This is consistent with anecdotal evidence and insights on the characteristis of coalition-building between national and sub-national governments.
+
+# Resumen
+
+En este artículo estudiamos la relación entre los resultados electorales para cargos ejecutivos nacionales y sub-nacionales. Los resultados electorales para diferentes cargos en sistemas multinivel son influenciados mutuamente a través de múltiples canales. Exploramos dos de estos canales: el diseño institucional y los efectos de arrastre. Tradicionalmente, los efectos de arrastre han sido estudiados entre elecciones a diferentes cargos (ejecutivas y legislativas) para un mismo nivel de gobierno. En este trabajo, exploramos los efectos de arrastre y la congruencia del voto para iguales cargos de diferente nivel de gobierno. Usando datos desagregados al nivel departamental para 5 (cinco) elecciones ejecutivas entre 2003 y 2009, examinamos la relación entre los votos obtenidos por el Presidente y gobernador electo en cada distrito. Encontramos evidencia de dismilaridad de votos entre los Presidentes y gobernadores electos y esta es particularmente importante cuando la elección nacional es disputada. Los Presidentes electos tienen a mejorar su desempeño electoral a nivel de distrito relativo al de los gobernadores electos independientemente de su partido y coalición. Esta evidencia se corresponde con evidencia anecdótica y caracterizaciones del proceso de construcción de coaliciones entre los gobiernos nacionales y sub-nacionales en Argentina. 	 
+
+1. Motivation
+
+Coattail effects have been regularly studied by the political science and political economy literature. By and large, most work focuses on the standard coattail effect which sees executive-level candidates shoring up vote shares of legislative-level candidates due to appearing in the same ballot. However, there is the theoretical (and empirical) possibility of a reverse coattail effect whereby executive-level candidate rides on the coattails of legislative-level candidates. Furthermore, there is another type of coattail effect if we consider elections at multiple government tiers. In particular, we study the existence of a subnational reverse coattail effect in Argentina for the period 2003-2019. Broockman (2009) suggests that the reverse coattail effect is somewhat implicit in the traditional version since coattail effects can go both ways. 
+
+The Argentine case is of particular interest due to several features. Firstly, regions are afforded a great deal of political autonomy when choosing their electoral rules. Secondly, there has been an ongoing process of denationalization of political parties occuring since 2002-03. Thirdly, due to different institutional designs for executive office at different levels of government, a likely scenario often appears: Presidents come to power with often limited elecotral support, a fragmented, multi-party national legislature and state governorns with stron electoral support. There is also the issue of great discretion in the use of intergovernmental fiscal transfers which often follow a political rather than redistributive logic. 
+
+En la actual

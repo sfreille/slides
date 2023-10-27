@@ -1,0 +1,98 @@
+---
+title: "Winner's purse: Presidents and gobernors in Argentina during 2003-2019"
+author: "Sebastián Freille^[Instituto de Economía y Finanzas, Facultad de Ciencias Económicas (FCE)-UNC. Email: sfreille@unc.edu.ar. Web: https://sfreille.github.io]"
+date: "`r format(Sys.Date(),'%d %B %Y')`"
+bibliography: references/biblio.bib
+format:
+  pdf:
+    toc: true
+    number-sections: true
+    colorlinks: true
+---
+
+# Abstract
+
+In this paper we study the relationship between electoral outcomes for both federal and state level executive elections. Electoral outcomes for different offices in multi-tiered systems are likely to be mutually influenced through multiple channels. We explore two of this channels in this paper: institutional design and coattail effects. Traditionally, coattail effects have been studied between executive and legislative elections for the same government level. Instead, we explore both coattail effects and vote congruence for different-level office. Using data disaggregated at the department-level comprising 5 (five) elections during 2003-2019, we examine the relationship between votes for the elected President and governor in every district. We find evidence of vote dissimilarity between elected Presidents and governors and this is particularly strong when the national executive election is contested. Elected Presidents tend to increase their district-level relative electoral strength vis-a-vis elected gobernors regardless of party and coalition. This is consistent with anecdotal evidence and insights on the characteristis of coalition-building between national and sub-national governments.
+
+# Resumen
+
+En este artículo estudiamos la relación entre los resultados electorales para cargos ejecutivos nacionales y sub-nacionales. Los resultados electorales para diferentes cargos en sistemas multinivel son influenciados mutuamente a través de múltiples canales. Exploramos dos de estos canales: el diseño institucional y los efectos de arrastre. Tradicionalmente, los efectos de arrastre han sido estudiados entre elecciones a diferentes cargos (ejecutivas y legislativas) para un mismo nivel de gobierno. En este trabajo, exploramos los efectos de arrastre y la congruencia del voto para iguales cargos de diferente nivel de gobierno. Usando datos desagregados al nivel departamental para 5 (cinco) elecciones ejecutivas entre 2003 y 2019, examinamos la relación entre los votos obtenidos por el Presidente y gobernador electo en cada distrito. Encontramos evidencia de dismilaridad de votos entre los Presidentes y gobernadores electos y esta es particularmente importante cuando la elección nacional es disputada. Los Presidentes electos tienen a mejorar su desempeño electoral a nivel de distrito relativo al de los gobernadores electos independientemente de su partido y coalición. Esta evidencia se corresponde con evidencia anecdótica y caracterizaciones del proceso de construcción de coaliciones entre los gobiernos nacionales y sub-nacionales en Argentina. 	 
+
+# Motivation
+
+Coattail effects have been regularly studied by the political science
+and political economy literature. By and large, most work focuses on
+the standard coattail effect which sees executive-level candidates
+shoring up vote shares of legislative-level candidates due to
+appearing in the same ballot. However, there is the theoretical (and
+empirical) possibility of a reverse coattail effect whereby
+executive-level candidate rides on the coattails of legislative-level
+candidates. Broockman (2009) suggests that the reverse coattail effect
+is somewhat implicit in the traditional version since coattail effects
+can go both ways.  Furthermore, there is another type of coattail
+effect if we consider elections at multiple government tiers. In
+particular, we study the existence of a subnational reverse coattail
+effect in Argentina for the period 2003-2019. 
+
+
+The Argentine case is of particular interest due to several
+features. Firstly, regions are afforded a great deal of political
+autonomy when choosing their electoral rules. Secondly, there has been
+an ongoing process of denationalization of political parties occuring
+since 2002-03. Thirdly, due to different institutional designs for
+executive office at different levels of government, a likely scenario
+often appears: Presidents come to power with often limited elecotral
+support, a fragmented, multi-party national legislature and state
+governorns with strong electoral support. There is also the issue of
+great discretion in the use of intergovernmental fiscal transfers
+which often follow a political rather than redistributive logic. 
+
+In this paper we study how the electoral performance of elected
+Presidents is related to the electoral performance of elected
+governors accounting for two key elements: 1) intergovernmental
+transfers to subnational jurisdictions; 2) concurrence of both
+executive-level elections. The main motivation of the paper is to
+contribute an explanation of the pattern of vote shares of both
+elected Presidents and governors as shown in the figure. The figure
+shows elected Presidents tend to grow their electoral performance in
+the different provinces specially when they have been elected with a
+relatively small share of the national vote.
+
+![Vote share of elected Presidents and governors](relative.jpg)
+
+
+The intuition for a reverse coattail effect in a decentralized setting
+is as follows: rational voters in a sub-national election perceive
+governors to be responsible for a large part of public service
+delivery thereby becoming more informed and scrutinizing of the
+subnational executive election. Furthermore, the reverse coattail
+effect is likely to be larger the stronger the electoral performance
+of elected governors. In these cases, regional elites may be able to
+achieve political stability through gaining access to federal
+resources in exchange for electoral support of the elected President. 
+
+Brazil is a clear example of this situation. Governors are often less
+foreign than Presidents to local voters. Given the absence of
+nationalized parties, presidential candidates must often resort to
+gaining the favour of state governors to increase their electoral
+chances in the district [Samuels (2000)]. Ames (1994) also suggests
+that all Presidential candidates in the 1989 election performed better
+in municipalities where local mayors supported them. 
+
+In our analysis, we use data on vote shares for elected Presidents and
+governors at the departament-level for 2003-2019, which comprises 5
+(five) Presidential elections and 5 (five) cycles of gubernatorial
+elections. We also use data on fiscal transfers for the period
+2005-2019. These data are aggregated at the provincial level, however,
+so we are not able to detect within-province variation but
+between-province variation. 
+
+
+
+# Federalism in Argentina
+
+Governors in Argentina are elected via direct election for a
+four-year term. Gubernatorial elections take place in the same year as
+the presidential election but governors can decide on the election
+date. This decision is not entirely independent, however, as they may 
+

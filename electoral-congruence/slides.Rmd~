@@ -1,0 +1,198 @@
+---
+title: Diseño institucional, congruencia electoral y efectos de arrastre
+subtitle: El caso de Argentina en 2003-2019
+author: |
+  | **Sebastián Freille**
+  | sfreille@unc.edu.ar
+  | Instituto de Economía y Finanzas
+  | FCE-UNC
+
+output:
+  revealjs::revealjs_presentation:
+    toc: true
+    self_contained: false
+    center: true
+    highlight: pygments
+    transition: slide
+    reveal_plugins: ["menu"]
+    reveal_options:
+      menu:
+        numbers: true
+    css: ..\style.css
+header-includes:
+  - \usepackage{amsmath}
+  - \usepackage{amsthm}
+  - \usepackage{cancel}
+  - \usepackage{tcolorbox}
+  - \newtcolorbox{myquote}{colback=cyan!35!white, colframe=cyan!85!black}
+  - \renewenvironment{quote}{\begin{myquote}}{\end{myquote}}
+  - \usepackage{hyperref}
+  - \hypersetup{colorlinks=TRUE,linkcolor=black,urlcolor=blue}
+---
+
+
+# Motivación y literatura
+
+![Lealtades que van y vienen](output/figs/news1.png){#fig:01001 width=50%}
+
+![La Liga de gobernadores](output/figs/news2.png){#fig:01002 width=50%}
+
+## Visualizando el problema
+
+![Poder electoral relativo, por departamento](output/figs/map.jpg){#fig:01000 width=100%}
+
+
+## Evidencia anecdótica
+
+- Lógica redistributiva en función de lógicas partidarias y fortaleza presidencial [González y del Trédici (2019)]
+  - Presidentes fuertes favorecieron a distritos aliados (interior) y penalizaron a opositores (centrales) -"redistribución progresiva"
+  - Presidentes débiles favorecieron a aliados (centro) y penalizaron a opositores (interior)
+- Distintas estrategias de presidentes
+  - "Salteo" a gobernadores, foco en gobierno local
+  - Cooperación con gobernadores "fuertes" opositores para expandir coalicion nacional
+
+## Tradiciones
+
+- Federalismo electoral $\longrightarrow$ nacionalización versus desnacionalización partidaria
+  - Desnacionalización (territorialización) partidaria $\longrightarrow$ dos efectos: 1) sobre número de partidos, competencia electoral; 2) desproporción de votos en diferentes distritos para un mismo partido [Calvo y Escolar (2005), Leiras (2007), Gibson and Suarez-Cao (2010)]
+- Efectos arrastre y concurrencia de elecciones 
+  - Relacion entre poder electoral *relativo* entre niveles  variable clave que influye en estrategias [Thorlakson (2006), Chhibber and Kollman (2004)]
+
+
+## Tendencias
+
+![Evolución del bipartidismo en votos y bancas](output/figs/historic.jpg){#fig:01003 width=80%}
+
+## Las "leyes" de Duverger
+
+> **Ley 1.** Los sistemas de votación por mayoría en una elección conducen a un sistema bipartidista
+
+> **Ley 2.** Los sistemas de votación por representación proporcional conducen a un sistema multipartidista. 
+
+> **Ley 3.** Los sistemas de votación por mayoría en 2 vueltas llevan a un
+sistema multipartido con tendencia a formar coaliciones
+
+## Configuraciones y dinámicas
+
+- Si estas "leyes" tienen algun sustento empírico, uno debería esperar observar que en Argentina haya una configuración tal que:  
+  - En elecciones ejecutivas nacionales, un sistema multipartido con tendencia a formar coaliciones de gobierno
+  - En elecciones legislativas nacionales, un sistema multipartido
+  - En elecciones ejecutivas sub-nacionales, un sistema compuesto por un mix entre sistemas bipartidistas y multi-partidistas con coaliciones
+
+## Conflicto y cooperación
+
+- Fragmentación partidaria alta entra en conflicto con un sistema presidencialista puro (*hiper-presidencialismo*) --inexistencia de mecanismos institucionales para la formación de coaliciones
+- Accoplado con heterogeneidad en el diseño electoral sub-nacional, es posible surjan situaicones de *ejecutivo nacional con bajo apoyo electoral* con un *legislativo nacional fragmentado y opositor* y *gobernadores fuertesl*.
+  - Contexto propicio para "juego" de ejecutivos nacionales y  provinciales con posibles equilibrios de ganar-ganar [Gibson and Calvo (2000), Jones, Meloni and Tommasi (2012), Bonvecchi and Lodola (2009)]
+
+# Diseño institucional
+
+## Diseño institucional: Complejo!
+
+- Ejecutivo (nacional) $\longrightarrow$ elección directa en distrito único nacional con sistema de dos vueltas condicional
+- Ejecutivo (provincial) $\longrightarrow$ elección directa en distrito único provincial y varias formas (pluralidad, *ballotage* clásico y atenuado)
+- Legislativo (nacional)
+  - Diputados $\longrightarrow$ PR en distrito único provincial plurinominales con tamaño de distrito variable, sistema D'Hont con umbral de 3\% en cada provincia
+  - Senadores $\longrightarrow$ representación proporcional con lista incompleta en distrito único trinominal con 2 senadores para ganador y 1 uno para el segundo
+
+## Diseño institucional: Agregación
+
+- **Regla de agregación:**
+  1. **Pluralidad sin ballotage** $\longrightarrow$  17 provincias --Misiones, Formosa, Salta, Jujuy, Catamarca, Santiago del Estero, La Rioja, San Juan, Mendoza, San Luis, La Pampa, Córdoba, Tucumán, Entre Ríos, Buenos Aires, Chubut y Santa Cruz
+  2. **Pluralidad simple sin ballotage, con intervención de PL en caso de empate** $\longrightarrow$ 3 provincias --Río Negro, Neuquén y Santa Fe
+  3. **Ballotage condicional** $\longrightarrow$ Chaco y Corrientes
+  4. **Mayoría absoluta** $\longrightarrow$ Tierra del Fuego
+
+## Diseño institucional: Mandatos
+
+- **Duración de mandato:**
+  1. **4 años y sin reelección** $\longrightarrow$ 2 provincias --Santa Fe y Mendoza. 
+  2. **4 años y 1 (una) reelección inmediata** $\longrightarrow$ 14 provincias --Misiones, Jujuy, Santiago del Estero, Chaco, Corrientes, Entre Ríos, Córdoba, Buenos Aires, San Luis, La Pampa, Neuquén, Río Negro, Chubut, y Tierra del Fuego. 
+  3. **4 años con 2 (dos) reelecciones inmediatas** $\longrightarrow$ 3 provincias --Salta, San Juan y La Rioja
+  4. **4 años con reelección indefinida** $\longrightarrow$ 3 provincias -- Catamarca, Formosa y Santa Cruz
+
+## Diseño institucional: Simultaneidad
+
+- **Concurrencia de elecciones de diferente nivel:**
+  - Prohibe simultaneidad $\longrightarrow$ sólo 4 provincias prohiben explícitamente simultaneidad con otras elecciones --Santa Fe, Tierra del Fuego, Chaco y Corrientes
+  - Permite simultaneidad $\longrightarrow$ el resto
+    + Importante $\longrightarrow$ fecha de elección provincial manipulable
+    
+# Caracterización y descripción de los datos
+
+## Reelección de gobernadores: partidos y nombres
+
+- Alta tasa de reelección de ejecutivos provinciales (partido)
+
+| reelec_P | 2003 | 2007 | 2011 | 2015 | 2019 |
+|----------|------|------|------|------|------|
+| No       | 6    | 8    | 6    | 7    | 4    |
+| Yes      | 17   | 15   | 17   | 16   | 19   |
+
+- Pero mayor rotación de gobernadores (nombres)
+
+| reelec_N | 2003 | 2007 | 2011 | 2015 | 2019 |
+|----------|------|------|------|------|------|
+| No       | 16   | 16   | 9    | 20   | 12   |
+| Yes      | 7    | 7    | 14   | 3    | 11   |
+
+
+## Competencia electoral *efectiva*: ENCP
+
+- Medida muy usada de competencia electoral $\longrightarrow$ **numero efectivo de partidos (NEP/ENCP)** [Laakso and Taagepera (1979)]
+\begin{align}
+NEP=\frac{1}{\sum_{i=1}^{n} sh_{i}^2}
+\end{align}
+- donde $sh_i$ es el porcentaje de votos del partido $i$ --i.e en un sistemabipartidista perfecto, $ENP=\frac{1}{0.5^{2}+0.5^{2}}=\frac{1}{0.25}=2$
+
+## Competencia electoral *efectiva*
+
+![Reelecciones y escala de poder de gobernadores](output/figs/encp.jpg){#fig:01004 width=95%}
+
+## Gobernadores: Reelecciones
+
+![*Effective* electoral competition](output/figs/gpp.jpg){#fig:01005 width=95%}
+
+## *Crouching tiger, hidden dragon*
+
+![Limitación de oferta partidaria sub-nacional](output/figs/narrowing.jpg){#fig:01006 width=80%}
+
+## ¿Desnacionalización?
+
+![¿Nacionalización o desnacionalización?](output/figs/convergence.jpg){#fig:01007 width=95%}
+
+## Poderío electoral relativo
+
+![Electoral strength: Presidents and governors](output/figs/relative.jpg){#fig:01008 width=90%}
+
+# Estimación y relaciones empíricas
+
+## Consideraciones metodológicas
+
+- Se comparan **resultados electorales a nivel de departamento** para diferentes cargos ejecutivos -Presidente y gobernador para el período 2003-2019
+- Instituciones políticas $\longrightarrow$ claves para analizar comportamiento estratégico y resultados electorales
+- En todos los casos, los porcentajes de votos involucrados son aquellos a correspondientes a *ejecutivos ganadores* -foco no en competencia electoral
+
+## Estimacion
+
+- Efecto arrastre muy estudiado entre elecciones a *diferentes cargos* (ejecutivas y legislativas) de un *mismo* nivel
+  - Menos estudiado para elecciones de *mismo* cargo para *diferente nivel*
+- Proponemos investigar si existe un efecto arrastre invertido --*reverse coattail effect*
+  - ¿Fortaleza electoral de gobernadores arrastra Presidentes?
+- Importante $\longrightarrow$ en nuestra estimación el partido es irrelevante --pero importa la pertenencia a la coalición nacional
+
+## Estimación (cont.)
+
+![Presidential vote share: Pooled OLS](output/figs/reg01.png){#fig:01009 width=110%}
+
+## Estimación (cont.)
+
+![Presidential vote share: Fixed-effects (within)](output/figs/reg02.png){#fig:01010 width=110%}
+
+## Implicancias y limitaciones
+
+- Simple ejercicio de aproximación a la relación entre caudal electoral de presidentes y gobernadores electos
+  - Intuición $\longrightarrow$ presidentes débiles se apoyan en distritos electoralmente fuerte para expandir fortaleza electoral
+- Aparente efecto arrastre invertido desde gobernadores a presidentes
+  - Sobre todo importante en distritos que forman parte de la coalición nacional del presidente ante cada nueva elección
+- Limitaciones $\longrightarrow$ solo variables políticas --no variables fiscales/financieras [continuará...]

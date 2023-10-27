@@ -1,0 +1,49 @@
+---
+title: "Electoral institutions, vote congruence and coattail effects in executive elections: The case of Argentina in 2003-2019"
+author: "Sebastián Freille^[Instituto de Economía y Finanzas, Facultad de Ciencias Económicas (FCE)-UNC. Email: sfreille@unc.edu.ar. Web: https://sfreille.github.io]"
+date: "`r format(Sys.Date(),'%d %B %Y')`"
+bibliography: references/biblio.bib
+output: pdf_document
+keep_tex: true
+fontsize: 12pt
+urlcolor: blue
+linkcolor: blue
+citecolor: blue
+---
+
+# Abstract
+
+In this paper we study the relationship between electoral outcomes for both federal and state level executive elections. Electoral outcomes for different offices in multi-tiered systems are likely to be mutually influenced through multiple channels. We explore two of this channels in this paper: institutional design and coattail effects. Traditionally, coattail effects have been studied between executive and legislative elections for the same government level. Instead, we explore both coattail effects and vote congruence for different-level office. Using data disaggregated at the department-level comprising 5 (five) elections during 2003-2019, we examine the relationship between votes for the elected President and governor in every district. We find evidence of vote dissimilarity between elected Presidents and governors and this is particularly strong when the national executive election is contested. Elected Presidents tend to increase their district-level relative electoral strength vis-a-vis elected gobernors regardless of party and coalition. This is consistent with anecdotal evidence and insights on the characteristis of coalition-building between national and sub-national governments.
+
+# Resumen
+
+En este artículo estudiamos la relación entre los resultados electorales para cargos ejecutivos nacionales y sub-nacionales. Los resultados electorales para diferentes cargos en sistemas multinivel son influenciados mutuamente a través de múltiples canales. Exploramos dos de estos canales: el diseño institucional y los efectos de arrastre. Tradicionalmente, los efectos de arrastre han sido estudiados entre elecciones a diferentes cargos (ejecutivas y legislativas) para un mismo nivel de gobierno. En este trabajo, exploramos los efectos de arrastre y la congruencia del voto para iguales cargos de diferente nivel de gobierno. Usando datos desagregados al nivel departamental para 5 (cinco) elecciones ejecutivas entre 2003 y 2009, examinamos la relación entre los votos obtenidos por el Presidente y gobernador electo en cada distrito. Encontramos evidencia de dismilaridad de votos entre los Presidentes y gobernadores electos y esta es particularmente importante cuando la elección nacional es disputada. Los Presidentes electos tienen a mejorar su desempeño electoral a nivel de distrito relativo al de los gobernadores electos independientemente de su partido y coalición. Esta evidencia se corresponde con evidencia anecdótica y caracterizaciones del proceso de construcción de coaliciones entre los gobiernos nacionales y sub-nacionales en Argentina. 	 
+
+
+A relevant question in the study of federalism is whether political and electoral outcomes are correlated at the national and sub-national level. One traditional sub-national outcomes influence national outcomes. One important channel of influence is the possibility of a coattail effect in the electoral dimension. In this paper we analyze the specific case of Argentine election. We  focus on the type of reverse coattail effect that runs from gubernatorial (state-wide) election to presidential (nation-wide) elections.
+
+# Introduction
+
+In federal countries, local politics have been shown to influence national politics through several channels [\cite{jones97},\cite{cabrera98},\cite{oliveros}, \cite{samuels00}]. One of the channels which has received less attention in the literature is the study of how local electoral politics impact on national politics in federal regimes [\cite{ames1994}, \cite{cabrera98}]. In this paper we address this issue for the Argentine case during 2003-2011. Since the national executive was held by the same party throughout the whole period, it seems sensible to examine whether local politics had any influence on national politics.
+
+# Motivation and literature
+
+In multi-tiered systems voters elect representatives at different levels of government and these elections may be concurrent or separate. If both governors and the president are elected concurrently, candidates to different offices from the same party may enjoy between-level electoral spillovers. This is known as the coattail effect in the literature. This effect may be also present in separate elections although the sequencing of elections becomes relevant in this case. This is particularly true if we look at whether party votes for state and nation representatives in two separate elections are related. Several authors have studied the existence and magnitude of these effects indifferent countries and settings [\cite{calvert1983}, \cite{ferejohn1984}, \cite{ames1994}, \cite{samuels2000}, \cite{hogan2005}, \cite{oliveros}, \cite{magar2012}, \cite{meredith2013}].
+
+Coattail effects usually arise due to the effect that a strong candidate identity has on the electoral performance of a lesser known candidate. These effects may also be embedded in the institutional design --i.e ballot designs that include a straight party option may result in larger coattail effects since voters are induced to select all candidates from the same party\footnote{One obvious reason is to avoid making mistakes resulting in a void or null vote.}. In separate elections, however, while the identity of a candidate may still traction votes for the lesser known candidates, there are other factors that are behind this electoral spillovers. \cite{meredith2013} suggests that coattail effects may also arise from top-ballot candidates mobilizing a party's supporters.
+
+Early studies on coattail effects did not take into account some of the long- and short-term determinants of the vote share of different offices. In recent years this has been amended.
+
+
+# Argentine politics
+
+In the context of multi-tiered politics, it is common to refer to partisan (political) alignment when two governments from different tiers belong to the same political party. Partisan alignment may have effects on the distribution of transfers [\cite{larcinese2006}, \cite{sole2008}, \cite{lema2013}, \cite{migueis2013}], legislative coalitions and the existence of coattail effects.  Due to the characteristics of the Argentine party system it is not always possible to measure partisan alignment strictly\footnote{Most of the   time this is due to the party not competing in a lower-level   election or running on a different list (coalition). This problem aggravated after the political representation crisis that ensued the economic meltdown in 2001.}, which makes comparing vote shares of parties across different elections difficult and not without arbitrarities. One possible workaround is to compare vote shares on the basis of a dichotomous partisan alignment measure, \textit{core}\footnote{For details on the data sources and the methodology used in the construction of this measure see Appendix.}.
+
+# Data and methodology
+
+blah blah mention causality/source of exogenous variation
+
+# Conclusion
+
+sarasing remarks
+

@@ -1,0 +1,403 @@
+---
+title: "Winner's purse: Presidents and gobernors in Argentina during 2003-2019"
+author: "Sebastián Freille^[Instituto de Economía y Finanzas, Facultad de Ciencias Económicas (FCE)-UNC. Email: sfreille@unc.edu.ar. Web: https://sfreille.github.io]"
+date: "`r format(Sys.Date(),'%d %B %Y')`"
+bibliography: references/biblio.bib
+format:
+  pdf:
+    toc: false
+    number-sections: true
+    colorlinks: true
+---
+
+# Abstract
+
+In this paper we study the relationship between electoral outcomes for both federal and state level executive elections. Electoral outcomes for different offices in multi-tiered systems are likely to be mutually influenced through multiple channels. We explore two of this channels in this paper: institutional design and coattail effects. Traditionally, coattail effects have been studied between executive and legislative elections for the same government level. Instead, we explore both coattail effects and vote congruence for different-level office. Using data disaggregated at the department-level comprising 5 (five) elections during 2003-2019, we examine the relationship between votes for the elected President and governor in every district. We find evidence of vote dissimilarity between elected Presidents and governors and this is particularly strong when the national executive election is contested. Elected Presidents tend to increase their district-level relative electoral strength vis-a-vis elected gobernors regardless of party and coalition. This is consistent with anecdotal evidence and insights on the characteristis of coalition-building between national and sub-national governments.
+
+# Resumen
+
+En este artículo estudiamos la relación entre los resultados electorales para cargos ejecutivos nacionales y sub-nacionales. Los resultados electorales para diferentes cargos en sistemas multinivel son influenciados mutuamente a través de múltiples canales. Exploramos dos de estos canales: el diseño institucional y los efectos de arrastre. Tradicionalmente, los efectos de arrastre han sido estudiados entre elecciones a diferentes cargos (ejecutivas y legislativas) para un mismo nivel de gobierno. En este trabajo, exploramos los efectos de arrastre y la congruencia del voto para iguales cargos de diferente nivel de gobierno. Usando datos desagregados al nivel departamental para 5 (cinco) elecciones ejecutivas entre 2003 y 2019, examinamos la relación entre los votos obtenidos por el Presidente y gobernador electo en cada distrito. Encontramos evidencia de dismilaridad de votos entre los Presidentes y gobernadores electos y esta es particularmente importante cuando la elección nacional es disputada. Los Presidentes electos tienen a mejorar su desempeño electoral a nivel de distrito relativo al de los gobernadores electos independientemente de su partido y coalición. Esta evidencia se corresponde con evidencia anecdótica y caracterizaciones del proceso de construcción de coaliciones entre los gobiernos nacionales y sub-nacionales en Argentina. 	 
+
+# Motivation
+
+Electoral coattail effects, where the success of candidates or parties
+in one election influences related elections, have primarily been
+studied in presidential systems. However, the distinctive dynamics of
+federal countries, with their subnational elections like gubernatorial
+or regional contests, significantly impact national-level
+outcomes. Scholars argue that the division of power between federal
+and regional levels creates fertile ground for coattail effects. While
+most research focuses on the conventional coattail effect, where
+executive-level candidates bolster legislative-level candidates' vote
+shares, there is potential for a bidirectional reverse coattail
+effect. Additionally, specifically to federal countries, there is
+another possible coattail effect between executive elections for
+different levels of goverment. Our interest in this paper is in the
+latter possibility. 
+
+In the last 30 years, there is plenty of anecdotal evidence
+documenting traditional coattail effects between concurrent
+presidential and legislative national elections. Notable cases are US
+Presidential elections of 1996, 2008 and 2016 where Clinton, Obama and
+Trump had somewhat significant coattail effects on the congressional
+and legislative electiosn. Another example is observed in South Korea's 2017 presidential and legislative elections. President Moon Jae-in's victory had a significant coattail effect on the Democratic Party of Korea, enabling them to secure a majority in the National Assembly. Similarly, in Argentina's 2015 elections, Mauricio Macri's victory in the presidential race had a coattail effect on his coalition's legislative candidates. The strong public support for Macri and his coalition, Cambiemos, resulted in increased voter support for their congressional candidates, contributing to a significant shift in the composition of the Argentine National Congress.
+
+
+<!--
+Coattail effects in elections have been observed in various countries
+and political contexts. For instance, in the 2016 U.S. presidential
+election, discussions arose about potential coattail effects, with
+Donald Trump's success as the Republican presidential candidate
+potentially benefiting down-ballot Republican candidates in
+congressional and state-level races. In Germany's 2013 federal
+election, Chancellor Angela Merkel's popularity and leadership of the
+Christian Democratic Union (CDU) generated a significant coattail
+effect, leading to gains for the CDU in state-level
+elections [@helms2017turning]. Similarly, in India's 2014 general
+elections, Narendra Modi's popularity as the prime ministerial
+candidate of the Bharatiya Janata Party (BJP) created a substantial
+coattail effect, resulting in the BJP's success at multiple levels
+[@schakel2019india] . The 2017 French presidential election
+demonstrated a coattail effect as Emmanuel Macron's victory extended
+to legislative elections, with his party, La République En Marche!,
+gaining a majority in the National Assembly. These examples highlight
+the varying degrees of coattail effects observed, influenced by
+factors such as candidate popularity, campaign strategies, and the
+characteristics of the electoral system in each country.
+-->
+
+Although somewhat less reported,"vertical" coattail effects, characterized by the positive influence of a presidential candidate on gubernatorial
+elections, have been observed in several countries. In the 2016 U.S. elections, the popularity of presidential candidate Donald Trump translated into increased support for Republican gubernatorial candidates. Similarly, in France's 2017 presidential elections, President Emmanuel Macron's victory benefited En Marche! affiliated candidates in subsequent gubernatorial contests. South Korea's 2012 presidential elections saw President Park Geun-hye's success influencing the outcomes of gubernatorial races, while Brazil's 2002 elections showcased the impact of Luiz Inácio Lula da Silva's presidential campaign on affiliated gubernatorial candidates. These examples highlight how the performance and appeal of presidential candidates can shape gubernatorial elections, with implications for the electoral landscape.
+
+However, under certain circumstances it may be possible that the
+"vertical" coattail effect run in the opposite direction. This is
+important since it involves the issue of electoral coordination in a
+multi-level setting. In the presence of strong sub-national
+governments with weaker institutional constraints and electoral rules,
+"vertical" president coattails may be less important, even under
+concurrent elections. This situation often goes along with a high (or
+increasing) party denationalization. There are several examples of
+countries which have gone down this path. Prior to 1991, regional
+governments in Colombia were centrally appointed. Several reforms
+introduced autonomous sub-national elections and the party system
+became more fragmented. The 1994 Constitutional Reform in Argentina
+and the collapse of the party system following the 2001-02 economic
+crisis introduced both \textit{de-iure} and \textit{de-facto} constraints on
+aspiring presidential candidates but most sub-national regimes kept
+teir electoral rules unchanged\footnote{Argentina had different rules
+for electing the President before 1994. Since 1972 Argentina enacted
+a direct election system with a "french" \textit{ballotage} requiring more
+than 50% of the votes to win the election without a second round
+vote. In 1983, however, the newly elected regime reinstated an
+indirect election system through the electoral college and no
+\textit{ballotage}. The current regime eliminated the electoral college,
+reinstated the direct election procedure but with a \textit{ballotage} system
+when no party obtains at least 45% of the valid votes regardless of
+winning margin or when no party obtains at least 40% with a 10% margin
+with the second party.} In these conditions, sub-national
+rulers may have a strong degree of autonomy and may prove instrumental
+to presidential candidates. 
+
+Coattail effects in elections are driven by several theoretical
+channels that shed light on the mechanisms through which the success
+or popularity of candidates or parties in one election can influence
+related elections. These theoretical channels provide insights into
+the factors that contribute to coattail effects and their impact on
+electoral outcomes. One important theoretical channel is the role of
+information and visibility. When a candidate or party achieves success
+or garners popularity in an election, their increased visibility and
+media attention can have a spill-over effect, leading to greater
+awareness among voters about other candidates from the same party who
+are running in related elections. This heightened information and
+visibility can shape voter perceptions and influence their
+decision-making process in subsequent elections.
+
+Additionally, party identification and loyalty play a crucial role in
+driving coattail effects. Voters who strongly identify with a
+particular political party are more likely to support other candidates
+from the same party. This loyalty stems from the belief that
+candidates from the same party share common values, policy positions,
+or ideology. As a result, voters may transfer their support for a
+popular candidate or party to other candidates down the ballot,
+contributing to coattail effects. The halo effect is another
+theoretical channel that can contribute to coattail effects. The halo
+effect refers to the phenomenon where voters extend their positive
+evaluations of a popular or successful candidate to other candidates
+from the same party. This cognitive bias can influence voter
+perceptions and lead to increased support for down-ballot candidates
+based on their association with the more popular candidate. The halo
+effect operates on the assumption that the positive attributes or
+performance of a top-of-the-ticket candidate will extend to other
+candidates from the same party.
+
+Strategic voting behavior also plays a role in coattail
+effects. Voters may strategically vote for candidates down the ballot
+to ensure policy alignment or to enhance the chances of their
+preferred candidate's success. Strategic voting is driven by the
+belief that a unified party control or cohesive policy agenda is more
+desirable. In this context, coattail effects emerge as voters
+strategically align their choices to maximize the electoral success of
+their preferred candidates or parties. Moreover, the mobilization and
+campaign resources available to successful candidates at the top of
+the ticket contribute to coattail effects. Candidates who achieve
+popularity or success often have access to substantial campaign
+resources, including financial support, grassroots organization, and
+endorsements. They can utilize these resources to mobilize voters and
+support other candidates from their party, thereby amplifying coattail
+effects.
+
+Party unity and coordination are also crucial factors in the
+manifestation of coattail effects. When candidates at different levels
+of government campaign collectively and emphasize a shared party
+message or platform, it enhances the likelihood of coattail
+effects. The coordinated efforts of candidates and parties strengthen
+the overall image and appeal of the party, leading to a positive
+spill-over effect that influences voters' choices in related
+elections. 
+
+Concurrent (or combined) elections provide a context in which these factors
+manifest, interact and operate influencing voter behavior. The
+presence of multiple elections on the same ballot allows for the
+potential transfer of support from popular candidates or parties to
+other candidates or parties running in different contests. The shared
+voter behavior and spillover effect observed in coattail effects can
+be amplified in concurrent elections\footnote{Among other things,
+concurrent elections tend to be used often to increase turnout and
+enhances participation of peripheral votes.}. In non-concurrent
+elections, however, coattail effects may be less direct and
+pronounced since the temporal separation between different electoral
+contests reduces the immediate spillover effect of popularity or
+success from one election to another. In this situation, sub-national
+governments may have incentives for strategic behavior. We explore
+this possibility by looking at the decision to set the (sub-national)
+election date since governors are not restricted to hold the election
+at a specified date. 
+
+The Argentine case is of particular interest due to several
+features. Firstly, regions are afforded a great deal of political
+autonomy when choosing their electoral rules. Secondly, there has been
+an ongoing process of denationalization of political parties occuring
+since 2002-03. Thirdly, due to different institutional designs for
+executive office at different levels of government, a likely scenario
+often appears: Presidents come to power with often limited elecotral
+support, a fragmented, multi-party national legislature and state
+governorns with strong electoral support. There is also the issue of
+great discretion in the use of intergovernmental fiscal transfers
+which often follow a political rather than redistributive logic. 
+
+In this paper we study how the electoral performance of elected
+Presidents is related to the electoral performance of elected
+governors accounting for two key elements: 1) intergovernmental
+transfers to subnational jurisdictions; 2) concurrence of both
+executive-level elections. The main motivation of the paper is to
+contribute an explanation of the pattern of vote shares of both
+elected Presidents and governors as shown in the figure. The figure
+shows elected Presidents tend to grow their electoral performance in
+the different provinces specially when they have been elected with a
+relatively small share of the national vote.
+
+![Vote share of elected Presidents and governors](relative.jpg)
+
+The intuition for a reverse coattail effect in a decentralized setting
+is as follows: rational voters in a sub-national election perceive
+governors to be responsible for a large part of public service
+delivery thereby becoming more informed and scrutinizing of the
+subnational executive election. Furthermore, the reverse coattail
+effect is likely to be larger the stronger the electoral performance
+of elected governors. In these cases, regional elites may be able to
+achieve political stability through gaining access to federal
+resources in exchange for electoral support of the elected President. 
+
+Brazil is a clear example of this situation. Governors are often less
+foreign than Presidents to local voters. Given the absence of
+nationalized parties, presidential candidates must often resort to
+gaining the favour of state governors to increase their electoral
+chances in the district [Samuels (2000)]. Ames (1994) also suggests
+that all Presidential candidates in the 1989 election performed better
+in municipalities where local mayors supported them. 
+
+In our analysis, we use data on vote shares for elected Presidents and
+governors at the departament-level for 2003-2019, which comprises 5
+(five) Presidential elections and 5 (five) cycles of gubernatorial
+elections. We also use data on fiscal transfers for the period
+2005-2019. These data are aggregated at the provincial level, however,
+so we are not able to detect within-province variation but
+between-province variation. 
+
+The next section reviews the related literature. Section 3 presents
+the main characteristics of the Argentine political and federal
+system while at the same time highlighting several features of dynamic
+political interactions between national and sub-national
+governments. Section 4 introduces the data and methodology presenting
+some descriptive statistic. Section 5 discusses the main results and
+imlications.
+
+# Literature
+
+This paper has primary roots in the literature of coattail
+effects. This literature on coattail effects dates back to the idea
+that different types of voters turn out in presidential and midterm
+elections thus affecting and influencing the outcomes in down-ballot
+(legislative) elections [@campbell1960]. Other theories supported
+explanations based on how voters cast their ballots. For example,
+[[@tufte1975], characterized congressional elections as a sort of
+"referendum" on the president in which voters reward or punish the
+party of the president and therefore voting for representatives mainly
+on the basis of their support (or rejection) of the
+president. Similarly, [@alesina1989partisan] argued that voters who
+prefer a stricter control on the executive tend to use midterms
+elections to balance out the executive and legislative branches
+thereby voting for the non-incumbent party in midterm elections. 
+
+Another related strand of this literature examines coattail effects
+but rather looking at differences between different tiers of
+government. [@samuels2000concurrent] look at gubernatorial coattail effects in
+Brazil exploring the congruence of alliance patterns for presidential,
+gubernatorial and congressional elections; the author finds that there
+is a much larger congruence between gubernatorial and congressional
+alliances. In a related paper, [@samuels2000gubernatorial] finds that
+the effective number of parties at the national congressional election
+is closely correlated with the effective number parties at the
+gubernational election. In a similar vein, [@magar2012gubernatorial]
+examines whether gubernatorial candidates have coattails helping
+candidates get elected to higher office. He finds mixed evidence
+--governors transferred to congressional candidates 49% of their gubernatorial success since 1979
+and 69% since 1997. However, the author notes that gubernatorial
+coattails are larger than presidential coattails. 
+
+There is also a more recent strand of research on coattail effects
+focusing on exploring the relationship between same-office,
+different-level elections, or "vertical" coattails as if often
+referred to in the literature. [@tompkins1988have] finds that
+gubernatorial elections have become more distinctive from the national
+context using data for US elections for the period 1947-1986. More
+recently, [@gadjanova2019treacherous] examines both
+Presidential and gubernatorial elections in Kenya and finds
+significant coattail effects that run from Presidential to
+gubernatorial candidates in safe districts and in the opposite
+direction (reverse coattail effect) in swing
+districts. [@fullmer2018invisible] report standard coattail effects
+when looking at positive effects of Presidential approval rates on
+gubernatorial vote shares. In a similar vein, [@holbrook1987national]
+finds that gubernatorial elections are sensitive to swings in the
+national economy and presidential popularity. Another recent paper
+[@ventura2021mayors] finds that parties in Brazil boost their national
+performance, earning more votes in congressional elections in
+districts that are governed by members of their party. 
+
+In a similar vein, [@borges2016presidential] study how concurrent
+"vertical" elections in strong federal systems affect electoral
+coordination and coattails voting between levels. They find that
+congruence between national and sub-national level increases when
+elections are temporally proximate and the effective number of
+candidates is low. In related papers [@borges2017pathways] and
+[@borgessrong] they explore the workings of fiscal federalism in
+Argentina under different economic contexts. They argue that
+national-subnational relations render a positive-sum game when
+obeconomic conditions are strong and this in turn leads to party
+nationalization; the opposite is the case when economic conditions are
+weak. They suggest, however, that in the absence of strong
+presidential candidates, the most effective path to nationalization
+may be to adapt to local electoral markets and maximize performance in
+sub-national electoral races. Our paper elaborates on this idea and
+applies it to the Argentina case.  
+
+[@benton2009makes] explores the relationship between fiscal resources
+and the dynamics of federalism in Argentina. She argues that despite having a formal federal structure, the actual power dynamics between the national and provincial governments are heavily influenced by the control over fiscal resources. The study reveals that the central government's authority over revenue allocation and distribution mechanisms gives it significant leverage, undermining the autonomy of provincial governments. This unequal distribution of fiscal resources creates a perception of weak federalism, as the central government can exert influence and shape policy decisions at the provincial level. 
+
+We explore the relationship between electoral support for the winning
+President and governors at the department-district level. In other
+words, we are not interested in looking for the relationship between
+these two variables for candidates of each party but rather focus on
+those who win. 
+
+# Governorns, politics and elections in Argentina
+
+Argentina is divided into 23 districts called Provinces and
+one autonomous district, the Ciudad Autónoma de Buenos Aires
+(CABA). All these districts elect their governors for a 4-year term through direct
+election in a single-member district and different voting
+rules\footnote{Unlike the executive leaders in the provinces, The
+governor of CABA is called \textit{chief of government}.}. By and large,
+provinces use some form of simple plurality rule. A few provinces have
+other rules, mainly conditional two-round system (TRS) and majority
+rule with TRS. @tbl-votingrule describes the current institutional features
+
+| **Regime**                     	| **#** 	| **Provinces**                                                                                                                                                                                                  	|
+|--------------------------------	|:-----:	|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| Plurality                      	|   20  	| Buenos Aires, Catamarca, Córdoba, Chubut, Entre Ríos, Formosa, Jujuy, La Pampa, La Rioja, Mendoza, Misiones, Neuquén, Río Negro, Salta, San Juan, San Luis, Santa Cruz, Santa Fe, Santiago del Estero, Tucumán 	|
+| Majority with two-round system 	|   2   	| CABA, Tierra del Fuego                                                                                                                                                                                         	|
+| Conditional two-round system   	|   2   	| Corrientes, Chaco                                                                                                                                                                                              	|
+
+: Electoral system and voting rule in sub-national districts {#tbl-votingrule}
+
+When Argentina reinstated democracy in 1983, there were no provisions
+for re-election of executives at either the national and sub-national
+level. As [@altavilla2017] notes, 9 of the then 22 provinces reformed
+their constitutions\footnote{These were La Rioja, Salta, Santiago del
+Estero, San Juan, Jujuy, Córdoba, San Luis, Catamarca and Río
+Negro.}. In all but one case, these reforms introduced the possibility
+of executive re-election. This trend continued during the 90s where
+the remaining provinces with two newly created districts --province of
+Tierra del Fuego and Ciudad Autónoma de Buenos Aires- also
+incorporated the re-election clause in the new constitutions. The last
+wave of constitutional reforms took place during the 2000s. In a
+similar fashion as with the voting rule, there is heterogeneity in the institutional
+design. @tbl-reelection shows the range and type of re-election clause
+for all provinces. Most provinces have 
+
+| **Reelection**                	| **#** 	| **Provinces**                                                                                                                                                                         	|
+|---------------------------	|:-----:	|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| No reelection                 	|   2   	| Mendoza, Santa Fe                                                                                                                                                                     	|
+| Reelection (1-term only)  	|   17  	| Buenos Aires, CABA, Córdoba, Corrientes, Chaco, Chubut, Entre Ríos, Jujuy, La Pampa, La Rioja, Misiones, Neuquén, Río Negro, San Luis, Santiago del Estero, Tierra del Fuego, Tucumán 	|
+| Reelection (2-terms only) 	|   2   	| Salta, San Juan                                                                                                                                                                       	|
+| Indefinite                	|   2   	| Catamarca, Formosa, Santa Cruz                                                                                                                                                        	|
+
+ : Re-election regime in sub-national districts {#tbl-reelection}
+
+
+Gubernatorial elections take place in the same year as
+the presidential election but governors can decide on the election
+date. This means they can choose not to vote on national election
+day. This decision is not entirely independent, however, as there may
+be *de-facto* political constraints: governors may be persuaded by
+party officials and members of the national ruling coalition into
+setting the election date in line with the Presidential election
+
+Notwithstanding these political constraints, governors do in fact
+seem to use their autonomy to tinker with the gubernatorial election
+date. This can be seen in @tbl-concurrent where aside from the
+first two elections where there was full concurrency or full
+non-concurrency, every other election year saw an important number of
+provinces voting on a different date than the national presidential
+election. This is particularly evident in more recent elections. It is
+also important to note that this happens both at relatively high and
+low values of the effective number of parties (ENP) measure.
+
+| **Year**                 	| **1983** 	| **1989** 	| **1995** 	| **1999** 	| **2003** 	| **2007** 	| **2011** 	| **2015** 	| **2019** 	|
+|--------------------------	|:--------:	|:--------:	|:--------:	|:--------:	|:--------:	|:--------:	|:--------:	|:--------:	|:--------:	|
+| # of non-concurrent      	|     0    	|    24    	|    10    	|    18    	|    20    	|    14    	|    12    	|    10    	|    18    	|
+| non-concurrent (%)       	| 0        	| 100      	| 42       	| 75       	| 91       	| 64       	| 55       	| 45       	| 82       	|
+| President vote share (%) 	|   51.75  	|   47.49  	|   49.94  	|   48.37  	|   24.45  	|   45.29  	|   54.11  	|   34.15  	|   48.24  	|
+| Margin of victory (%)    	|   11.59  	|   15.04  	|   20.64  	|   10.10  	|   2.21   	|   23.04  	|   37.30  	|   2.93   	|   7.96   	|
+| # of competitors         	|    12    	|    13    	|    14    	|    10    	|    18    	|    14    	|     7    	|     6    	|     6    	|
+| ENP                      	|   2.32   	|   2.95   	|   2.74   	|   2.56   	|   5.65   	|   3.41   	|   2.91   	|   3.31   	|   2.50   	|
+
+ : Concurrent and non-concurrent gubernatorial elections through the
+   years {#tbl-concurrent}
+
+From the discussion above, we observe that governors tend to
+manipulate the executive election date. Since they do not have
+institutional constraints as is the case for the presidential
+election\footnote{The dates for national executive elections,
+including primaries, general and second-round, are set in the
+\textit{Ley de Partidos Políticos}. Primaries take place during the
+second sunday in August, while the general election takes place during
+the fourth sunday in October. These dates cannot be changed.}. We
+argue this incentive may be dependent on various factors such as the
+the strength of the governor \textit{vis-a-vis} the strength of the
+President, the political alignment of both national and sub-national
+ruling parties and personal career ambitions by sub-national
+politicians. In this paper, we focus on the first two reasons. 
+
+# References

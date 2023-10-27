@@ -1,0 +1,39 @@
+here::i_am("P:/r-Projects/papers/electora-congruence")
+
+library(here)
+library(rgdal)
+library(ggplot2)
+library(data.table)
+library(rio)
+library(readr)
+library(reshape2)
+
+ec_tot  <-  read.table(here("data","mesas_totales.dsv"),sep='|',header=TRUE)
+ec_agr  <-  read.table(here("data","mesas_agrp_politicas.dsv"),sep='|',header=TRUE)
+ec_dis  <-  read.table(here("data","descripcion_regiones.dsv"),header=TRUE)
+ec_pos  <-  read.table(here("data","descripcion_postulaciones.dsv"),sep='|',header=TRUE)
+
+### OTRA FUENTE D EDATOS
+dat_mes  <- import(here("data","mesas-agrupaciones.csv"),setclass="data.table")
+dat_pos  <- import(here("data","descripcion_postulaciones.csv"),setclass="data.table",encoding = "UTF-8")
+dat_dis  <- import(here("data","distritos.csv"),setclass="data.table",encoding = "UTF-8")
+dat_sec  <- import(here("data","secciones.csv"),setclass="data.table",encoding = "UTF-8")
+
+dat <- merge(dat_mes,dat_pos)
+dat <- merge(dat,dat_sec,by=c("distrito","seccion"))
+dat <- merge(dat,dat_dis,by="distrito")
+
+pre <- dat[categoria=="100000000000"]
+pre_dep  <- pre[,.(vts=sum(votos)),by=list(distrito,seccion,nombre_agrupacion)]
+
+### Gobernador PBA
+gob_pba  <- dat[categoria=="402000000000"]
+gob_pba_dep   <- gob_pba[,.(vts=sum(votos)),by=list(distrito,seccion,nombre_seccion,nombre_agrupacion)]
+gob_pba_dep[,prop :=round(prop.table(vts),4), .(seccion)]
+export(gob_pba_dep[nombre_agrupacion %in% "FRENTE DE TODOS"],here("output","data","gob_pba_dep.xlsx"))
+
+### Gobernador
+gob_cat  <- dat[categoria=="403000000000"]
+gob_cat_dep <- gob_cat[,.(vts=sum(votos)),by=list(distrito,seccion,nombre_seccion,nombre_agrupacion)]
+gob_cat_dep[,prop :=round(prop.table(vts),4), .(seccion)]
+export(gob_cat_dep[nombre_agrupacion %in% "FRENTE DE TODOS"],here("output","data","gob_cat_dep.xlsx"))

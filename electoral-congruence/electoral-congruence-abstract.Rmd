@@ -1,0 +1,20 @@
+---
+title: "Electoral institutions, vote congruence and coattail effects in executive elections: The case of Argentina in 2003-2019"
+author: "Sebastián Freille^[Instituto de Economía y Finanzas, Facultad de Ciencias Económicas (FCE)-UNC. Email: sfreille@unc.edu.ar. Web: https://sfreille.github.io]"
+date: "`r format(Sys.Date(),'%d %B %Y')`"
+bibliography: references/biblio.bib
+output: pdf_document
+keep_tex: true
+fontsize: 12pt
+urlcolor: blue
+linkcolor: blue
+citecolor: blue
+---
+
+# Abstract
+
+In this paper we study the relationship between electoral outcomes for both federal and state level executive elections. Electoral outcomes for different offices in multi-tiered systems are likely to be mutually influenced through multiple channels. We explore two of this channels in this paper: institutional design and coattail effects. Traditionally, coattail effects have been studied between executive and legislative elections for the same government level. Instead, we explore both coattail effects and vote congruence for different-level office. Using data disaggregated at the department-level comprising 5 (five) elections during 2003-2019, we examine the relationship between votes for the elected President and governor in every district. We find evidence of vote dissimilarity between elected Presidents and governors and this is particularly strong when the national executive election is contested. Elected Presidents tend to increase their district-level relative electoral strength vis-a-vis elected gobernors regardless of party and coalition. This is consistent with anecdotal evidence and insights on the characteristis of coalition-building between national and sub-national governments.
+
+# Resumen
+
+En este artículo estudiamos la relación entre los resultados electorales para cargos ejecutivos nacionales y sub-nacionales. Los resultados electorales para diferentes cargos en sistemas multinivel son influenciados mutuamente a través de múltiples canales. Exploramos dos de estos canales: el diseño institucional y los efectos de arrastre. Tradicionalmente, los efectos de arrastre han sido estudiados entre elecciones a diferentes cargos (ejecutivas y legislativas) para un mismo nivel de gobierno. En este trabajo, exploramos los efectos de arrastre y la congruencia del voto para iguales cargos de diferente nivel de gobierno. Usando datos desagregados al nivel departamental para 5 (cinco) elecciones ejecutivas entre 2003 y 2019, examinamos la relación entre los votos obtenidos por el Presidente y gobernador electo en cada distrito. Encontramos evidencia de dismilaridad de votos entre los Presidentes y gobernadores electos y esta es particularmente importante cuando la elección nacional es disputada. Los Presidentes electos tienen a mejorar su desempeño electoral a nivel de distrito relativo al de los gobernadores electos independientemente de su partido y coalición. Esta evidencia se corresponde con evidencia anecdótica y caracterizaciones del proceso de construcción de coaliciones entre los gobiernos nacionales y sub-nacionales en Argentina. 	 
