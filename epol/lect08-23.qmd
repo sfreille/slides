@@ -1,0 +1,445 @@
+---
+title: Economía Política
+title-slide-attributes:
+  data-background-image: background.png
+  data-background-size: contain
+  data-background-opacity: "0.5"
+subtitle: Unidad 8. I love the smell of napalm in the morning. Conflicto, violencia política y consecuencias sociales y políticas
+author: |
+  | **Sebastián Freille**
+  | sfreille@unc.edu.ar
+  | Licenciatura en Economía
+  | FCE-UNC
+format:
+ revealjs:
+    slide-number: true
+    preview-links: auto
+    css: ..\quarto.css
+    width: 1500
+    center-title-slide: true
+    center: true
+    tbl-cap-location: bottom	
+    toc: true
+    toc-depth: 1
+    toc-title: Contenidos
+    link-external-newwindow: true
+---
+
+> War is the continuation of politics by other means.\
+**[Carl von Clausewitz (1832)]**
+
+# **La guerra es la excepción no la regla** {background="#CAA811"}
+
+- Hechos estilizados
+- Conflicto civil interno
+- Teorías de conflicto (armado)
+- Recursos naturales y conflicto civil
+  - *Resource curse*
+
+## Hechos estilizados
+
+![Cantidad absoluta de muertes en gradual declive desde 1945](fig/fig-08-001.png){#fig:08001 width=80%}
+
+## Hechos estilizados (cont.)
+
+![También han bajado en terminos relativos a la población](fig/fig-08-002.png){#fig:08002 width=80%}
+
+## Hechos estilizados (cont.)
+
+![Pero ha aumentado el número de conflictos de menor mortalidad](fig/fig-08-003.png){#fig:08003 width=80%}
+
+## Naturaleza de conflictos
+
+- Notorio aumento y virulencia de **conflictos dentro de estados** $\longrightarrow$ guerras civiles
+- Los conflictos relacionados con la expansión o defensa de territorios coloniales se terminaron con la decolonización. Los **conflictos entre estados** prácticamente han dejado de existir [ponele]
+- El aumento en el número de conflictos (civiles) refleja básicamente un aumento del número de conflictos de pequeña escala
+  - Blattman and Miguel (2010) distinguen
+    - Guerras civiles $\longrightarrow$ cuentan más de 1000 muertes en un año
+    - Conflictos civiles $\longrightarrow$ cuentan más de 25 muertes en un año
+- Más de 1/3 de países han tenido guerras civiles mientras que la mitad han tenido algún tipo de conflicto civil. 
+
+## Naturaleza de conflictos (cont.)
+
+- No sólo es común el conflicto, sino también *persistente*. Alrededor de un 20\% de los países han experimentado al menos 10 años de guerra civil desde 1960
+- La proporción de países involucrados en conflictos civiles incrementó para tener un pico en los 1990s para luego bajar a mediados de los 2000s
+- La pregunta surgió naturalmente ¿por qué tantos conflictos?
+  - Una respuesta obvia $\longrightarrow$ pobreza. Después de todo, la evidencia sugiere que la correlación es muy robusta
+
+## Naturaleza de  conflictos (cont.)
+
+![Persistencia de los conflictos](fig/fig-08-004.png){#fig:08004 width=80%}
+
+## Naturaleza de conflictos (cont.)
+
+![Aumento de los conflictos](fig/fig-08-005.png){#fig:08005 width=80%}
+
+## Naturaleza de conflictos (cont.)
+
+![Conflictos y PIB per cápita](fig/fig-08-006.png){#fig:08006 width=80%}
+
+
+## Problema de sesgos
+
+- El hecho es que aún los peores enemigos prefieren odiarse en paz --medios, libros e historia focalizan en los *eventos ocurridos*.
+  - No hay libros sobre *eventos evitados*.
+- En Africa, se ha registado 1 (un) caso principal de violencia étnica por año dentro de un total potencial de 2000.
+- En India, menos de 1 (un) disturbio cada 10 millones de personas por año y tasas de mortalidad de 16 cada 10 millones
+- Guerras y conflictos son eventos mas *salient*
+
+## Problema de segos (cont.)
+
+- Foco en las fallas es un ejemplo de sesgo de selección $\longrightarrow$ dos consecuencias importantes
+  - Exageramos la frecuencia e intensidad del conflicto
+  - Confundimos las raíces de la guerra y los senderos hacia la paz
+- Ilustración $\longrightarrow$ causas comunmente citadas al fracasar la paz líderes fallidos, pobreza extrema, injusticias históricas, armas baratas y así.
+- Pero esto *ignora la cantidad de veces que el conflicto fue evitado* y existían, sin embargo, las mismas condiciones.
+
+## Problema de segos (cont.)
+
+![Sesgo del sobreviviente](fig/fig-08-009.png){#fig:08009 width=80%}
+
+## Problema de segos (cont.)
+
+> **Sesgo del sobreviviente.** Cuando los aviones norteamericanos regresaron de misiones sobre posiciones alemanas en la 2GM, estaban llenos de agujeros de bala sobre el cuerpo y las alas del avión. El ejército de EEUU encargó a sus ingenieros añadir más protección a estas partes. Un estadístico llamado Abraham Wald estuvo en desacuerdo y dijo que los ingenieros debían hacer exactamente lo opuesto: proteger los motores y la cabina donde los aviones retornados estaban intactos. Había deducido algo clave: los agujeros faltantes debían estar en los aviones faltantes. Las balas a los motores y la cabina hacían caer a los aviones. El ejército erroneamente se enfocaba en una muestra sesgada y por lo tanto identificaba causas erróneas del fenómeno. 
+
+## Problema de segos (cont.)
+
+- Cuando hablamos de conflicto, cometemos un error similar pero opuesto $\longrightarrow$ nos enfocamos mucho en las veces que la paz falla [mirar sólo los aviones caídos!]
+- Estos eventos muestran que analizando los que "cayeron" sólo cuenta parte de la historia y muchas veces de manera confusa --de las cientos de balas que tenían los aviones caídos ¿cuál/es fueron las determinantes de la caída?
+- Para encontrar las raíces de la guerra y la violencia, debemos analizar los conflictos que se mantienen pacíficos
+
+
+## Conflictos políticos
+
+- Un tipo de conflicto muy relevant es el *conflicto político*. El Heidelberg Institute for International Conflict Research (HIIK) elabora desde hace 30 años el Conflict Barometer
+- No focalizan en víctimas sino en cantidad de conflictos y su naturaleza
+- Distinguen 5 (cinco) tipos de conflicto según su intensidad
+  1. Disputa
+  2. Crisis no violenta
+  3. Crisis violenta
+  4. Guerra limitada
+  5. Guerra
+
+## Conflictos políticos (cont.)
+
+![Todos los conflictos - Nivel nacional](fig/fig-08-008.png){#fig:08008 width=100%}
+
+## Conflictos políticos (cont.)
+
+![Conflictos violentos - Nivel subnacional](fig/fig-08-007.png){#fig:08007 width=100%}
+
+# **Incentivos para la paz y la guerra** {background="#CAA811"}
+
+## Ejemplo e ilustración
+
+- Imaginemos que hay dos bandos, facciones, o rivales --*Atenas* y
+  *Esparta*
+  - Están luchando por una torta --*el mundo Griego*- de valor
+    $400. Si hay una guerra, el ganador se lleva $X=400$ y el perdedor
+    se lleva $0$
+- Supongamos por ahora que al inicio Esparta controla el 62.5% del
+  *mundo Griego*, es decir, $250; Atenas controla el resto, $150
+
+## Ejemplo e ilustración (cont.)
+
+::: {#fig-elephants layout-ncol=2}
+
+![El mundo Griego](fig/fig-08-001.jpg){#fig-surus width=90%}
+
+![Control de las partes](fig/fig-08-002.jpg){#fig-hanno width=90%}
+
+El mundo Griego: paz y guerra
+:::
+
+## Ejemplo e ilustración (cont.)
+
+- Supongamos que Esparta tiene una probabilidad de 0.75 de ganar la
+  guerra, $p=0.75$. Atenas conoce perfectamente el poderío de Esparta
+  y conoce que su probabilidad de ganar es de sólo 0.25, $1-p=0.25$
+- En estas condiciones, la utilidad esperada de cada bando son:
+  - Esparta: [$400*(0.75)-C*(0.75)]+[$0*(0.25)-C*(0.25)]=300-C
+  - Atenas: [$0*(0.75)-C*(0.75)]+[$400*(0.25)-C*(0.25)]=100-C
+- ¿Qué pasa si el costo de la guerra, $C$ es igual a 90? ¿Preferirán
+  la guerra al *status-quo*? ¿Uno o ambos?
+  
+## Ejemplo e ilustración (cont.)
+
+- Reemplazando $C=90$ nos queda que:
+  - Esparta: 300-90= $210
+  - Atenas: 100-90= $10
+- Nótese que tanto Esparta como Atenas estarían *mejor sin guerra* ya
+  que ambos están mejor en el *status-quo* --$250 y $150 respectivamente
+- ¿Qué pasaría si el costo de la guerra no fuera tan alto, sino algo
+  menor como en el caso de $C=30$?
+  - Esparta: 300-30= $270
+  - Atenas:  100-30= $70
+- Claramente aquí Esparta preferiría la guerra mientras que Atenas
+  no. ¿Puede Atenas evitar la guerra?
+  - Si, sólo si le hace un ofrecimiento a Esparta de entre 20 [¿Por
+    qué?]
+
+## Ejemplo e ilustración (cont.)
+
+- Note que si Atenas ofrece 20 para evitar guerra --recuerde que la
+  guerra lo deja con $70 y comienza con $150-, Esparta pasa de $250
+  (sin guerra) a $270 (sin guerra pero con mínima oferta de Atenas)
+- Al mismo tiempo si Atenas ofrece 80 para evitar guerra, esto la deja
+  con $150 (que es lo mismo que tiene sin guerra) al tiempo que
+  Esparta pasa de $250 (sin guerra) a $330 (sin guerra pero con máxima
+  oferta de Atenas)
+- Atenas puede evitar guerra con cualquier oferta intermedia entre $20
+  y $80
+  
+## Ejemplo e ilustración (cont.)
+
+![Utilidad esperada de la guerra: Esparta y
+Atenas](fig/fig-08-003.jpg){#fig:08007 width=100%}
+
+## Ejemplo e ilustración (cont.)
+
+- Nóteses que *la guerra es ineficiente*
+  - La distribución inicial $250/$150 era estable --aún si desigual
+    - con la guerra con un costo alto la distribución es $210/$10
+      --*lose-lose*
+- Habra pues una **zona de negociación** 
+- La division final dependerá  de las reglas y del que mueve primero
+
+
+## Ejemplo e ilustración (cont.)
+
+![La solucion negociadas](fig/fig-08-004.jpg){#fig:08007 width=100%}
+
+
+## Ejemplo e ilustración (cont.)
+
+- Suponga ahora que con los mismos valores y $C=30$ pero debido a una
+  purga de militares se debilita su poder y ahora $p=0.25$. 
+  - ¿esperaría usted que haya guerra o negociación? ¿Cuál sería la
+    zona de negociación en caso de que existiera?
+- Ahora Atenas va a tener un incentivo a iniciar la guerra --puede
+  pasar de $150 a $270! En este caso será Esparta quien tenga el
+  incentivo a realizar una oferta (transferencia) para evitar la
+  guerra 
+  - esta transferencia deberá ser entre $120 y $180
+
+# **Razones del conflicto** {background="#CAA811"}
+
+## Relación entre conflictos y grado de desarrollo
+
+- Problema de causalidad reversa $\longrightarrow$ guerras destruyen recursos (físicos, humanos), empeoran las condiciones sanitarias y los estándares de vida
+  - Ejemplo escalofriante $\longrightarrow$ República Democrática de Congo donde millones murieron *indirectamente* de hambre y/o enfermedad
+- Esto afecta la economía. Además: aumenta emigración, surgen mercados paralelos, y peligran instituciones políticas
+- Pero también hay otra paradoja $\longrightarrow$ la guerra ha sido vinculada con el desarrollo de innovaciones tecnológicas e institucionales detrás del edesarrollo de algunas potencias europeas
+
+## ¿Por que peleamos?
+
+- Blattman (2022) en un muy importante libro lista 5 (cinco) razones que motivan las guerras (y el conflicto en general):
+  1. Intereses no controlados
+  2. Incentivos intangibles
+  3. Incertidumbre
+  4. Problema del compromiso
+  5. Percepciones erróneas
+
+## Intereses no controlados
+
+- Si los que deciden la guerra pueden ignorar (parcial o totalmente) los costos de la guerra, entonces irán a la guerra frecuentemente
+- En ocasiones por ganancia personal a través del conflicto --sea económica, política
+- Líderes sin control político han sido uno de los grandes *drivers* de guerras en la historia
+
+## Incentivos intangibles
+
+- En ocasiones, la violencia se entiende a partir de ganar algo valorado --venganza, status, dominación.
+- Otros casos vinculados con doctrinas y religiones --si es así, los costos de la guerra son (para estos grupos) infimos en comparación con el objetivo último
+
+## Incertidumbre
+
+- Una razón por las cuales las soluciones de negociación o compromiso fracasan es por la incertidumbre.
+- La idea básica es que las partes desconocen las cartas del otro pero saben que tienen un incentivo a engañarlo [Tip: lógica del dilema del prisionero]
+- No siempre ante la amenaza uno se va al mazo y en ocasiones terminás entrando --a veces suele ser la mejor estrategia
+
+## Problema del compromiso
+
+- Sucede cuando una parte puede advertir el crecimiento de poder de la otra y tiene un fuerte incentivo a atacar antes de que sea demasiado tarde
+- ¿Podría la otra parte amenazante acaso proponer algo a la parte en el poder *creíblemente* para que no lo ataque?
+  - Nuevamente el problema de *hold-up*
+- Ambos prefieren la negociación pero ninguno puede ofrecer un acuerdo creíble
+
+## Percepciones erróneas
+
+- Personas son *overconfident* por naturaleza. Suponemos que la otra parte piensa como nosotros, valora las mismas cosas y ven el mundo de la misma forma.
+- Se demoniza a los enemigos y le atribuimos los peores motivos
+- De este modo, nos aferramos a creencias erróneas y esto limita nuestra capacidad de articular un acuerdo posible
+
+# **Teorías de conflicto (armado)** {background="#CAA811"}
+
+## Teorías tradicionales
+
+- Fearon sugiere 3 (tres) motivos por los que podría haber conflicto
+  1. Líderes (sociedades) son *irracionales* --impulsos barbáricos, megalomanía, *overconfidence*
+  2. Líderes (sociedades) son racionales pero no internalizan los costos de la guerra
+  3. Líderes (sociedades) son racionales e internalizan los costos de la guerra pero aún así hacen guerra en ciertas circunstancias
+    - Cuando hay información asimétrica
+    - Cuando hay un problema de compromiso
+
+## Teorías tradicionales (cont.)
+
+- Fearon sugiere que las primeras dos explican prácticamente casi todos los conflictos; Blattman sugiere que aún la segunda solamente nos puede explicar gran parte de los conflictos [no necesidad de caer en argumento de irracionalidad]
+- Construye una argumentación que descansa en la existencia de líderes egoístas, racionales y maximizadores que eligen el saqueo porque no internalizan los costos.
+
+## El caso de Liberia
+
+- Liberia tenía un régimen constitucional entre 1847 y 1980 pero con supresión de voto a indígenas. En 1980, Samuel Doe encabezó un guerrilla, instaló un gobierno dictatorial y centraliza la política y libera la economía
+- Cuenta con apoyo (y ayuda) de EEUU que pierde al finalizar la guerra fría. Régimen brutal y represivo
+- En 1989 otro militar formado en EEUU, Charles Taylor, aprovecha la caída del comunismo y que EEUU le "suelta la mano" a Doe, y marcha sobre Liberia junto a Johnson. En 1989 comienza la primera guerra civil liberiana (1989-1997); luego se produce la segunda guerra civil liberiana (1999-2003).
+
+## El caso de Liberia (cont.)
+
+![Las guerras civiles de Liberia](fig/fig-08-012.png){#fig:08012 width=90%}
+
+## El caso de Liberia (cont.)
+
+![Los contextos y oportunidades de los líderes](fig/fig-08-011.png){#fig:08011 width=90%}
+
+## El caso de Liberia (cont.)
+
+- Tanto Doe como Taylor muy posiblemente pudieron ignorar completamente	los costos sociales del conflicto.
+- Sumando la caída del apoyo y ayuda luego de la guerra fría y adicionalmente a los mínimos castigos por los crímenes de guerra, incentivaba aún más el modelo dictatorial
+- Con el tiempo, empezaron las presiones por la liberalización y democratización del continente
+
+## El caso de Liberia (cont.)
+
+![Los contextos y oportunidades de los líderes](fig/fig-08-013.png){#fig:08013 width=90%}
+
+## Recursos naturales y conflicto civil
+
+- Algunos recursos naturales son más "saqueables" que otros
+  - Recursos minerales de alto valor, altamente concentrados (oro, diamantes, petróleo)
+  - Recursos naturales agrarios, pesqueros, etc.
+
+## Recursos naturales (cont.)
+
+![Tipos de recursos y rentas del saqueo](fig/fig-08-014.png){#fig:08014 width=90%}
+
+## La violencia es ineficiente
+
+- El *puzzle* de Fearon
+  - Luchar es costoso
+  - Cualquier escenario de paz es mejor para todas las partes que los escenarios que siguen a una guerra
+  - Existe una solución negociada que es mejor para todas las partes
+  - Actores racionales y perfectamente informados no deberían luchar (a menos que no internalicen los costos)
+
+## La violencia es ineficiente (cont.)
+
+![Cicatrices de la violencia en Liberia](fig/fig-08-015.png){#fig:08015 width=90%}
+
+## ¿Por qué Taylor invadió Liberia?
+
+- Irracionalidad (*overconfidence*, megalomano)? No muy plausible
+- Falló en internalizar costos? Altamente plausible
+- ¿Asimetrías de información? ¿Problemas de compromiso?
+  - Posible existencia de ambas
+
+## ¿Por qué Taylor invadió Liberia? (cont.)
+
+- Asimetrías de información
+  - Lider actual (Doe) no conocía la fuerza del desafiante rebelde (Taylor)
+    - Muy posible: insurgentes incentivo a ser secretos
+  - No instituciones para comunicación y dialogo
+    - Domesticas $\longrightarrow$ destruidas intencionalmente
+    - Internacionales $\longrightarrow$ en caos por caída bloque
+  - Pobre estimación de longitud y profundidad del conflicto --dos guerras civiles devastadoras surgieron de aqui
+
+## ¿Por qué Taylor invadió Liberia? (cont.)
+
+- Problemas de compromiso
+  - Poder altamente centralizado en Liberia
+    - Compromiso no creíble de compartir poder (lider actual)
+    - Compromiso no creíble de seguir compartiendo producido del saqueo (lider insurgente)
+  - Cese de la ayuda internacional debilita al regimen
+  - Oportunidad de reducir *permanentemente* el poder del grupo opositor
+    - "Limpieza étnica"
+
+## ¿Por qué Taylor invadió Liberia? (cont.)
+
+- ¿Qué se puede hacer? Instituciones de resolución de conflictos pueden ayudar pero en estados débiles
+  - Instituciones informales son débiles
+    - Superposición de autoridades y normas
+    - Normas tradicionales pueden ser injustas
+  - Instituciones formales funcionan pobremente
+    - Cortes civiles y criminales corruptas
+    - Policía no entrenada y corrupta
+    - Reglas legales y leyes inciertas, poco claras
+    
+## Modelos de contienda
+
+- Teorías de conflicto armado se distancian de supuestos tradicionales
+  - derechos de propiedad no definidos/protegidos
+  - contratos entre partes no pueden ser *enforced*
+  - líderes pueden ser reemplazados por canales no institucionales (elecciones)
+- Modelo básico [Haavelmo (1954), Hirschleifer (1988, 1989)] asume 2 (dos) partidos, 1 (un) grupo rebelde y 1 (un) gobierno.
+  - Decisión $\longrightarrow$ asignación entre 2 actividades --*producción* o *apropiación*.
+
+## Modelos de contienda (cont.)
+
+- Apropiación modelada como una función de éxito de la competencia --insumos (armas) se traducen en probabilidad de ganar del bando 1, $p_{1}$ y por ende consumir la producción del bando $p_{2}$ además de la propia
+\begin{align}
+p_{1}(G_{1},G_{2})=\frac{G_{1}^{m}}{G_{1}^{m}+G_{2}^{m}}
+\end{align}
+- donde $G_{1}$ y $G_{2}$ son las armas del grupo 1 y 2 respectivamente y $m$ captura la efectividad del armamento en determinar al vencedor
+- Modelos de contienda $\longrightarrow$ la probabilidad de ganar aumenta con la efectividad relativa de la tecnología de lucha
+  - Tecnología de lucha $\longrightarrow$ acceso a armas de fuego, líderes astutos, *inteligencia* y otros
+
+## Modelos de contienda (cont.)
+
+- Grossman (1991) contempla actores no unitarios (problema de coordinación) $\longrightarrow$ condición de incentivo a participar
+  - Los lideres deben incentivar a los individuos a unirse --participación aumenta a menor costo de oportunidad de luchar (pobreza)
+- Dal Bo and Dal Bo (2004) predicen aumento del riesgo de conflicto ante shocks de ingreso al sector intensivo en $K$ y disminución del riesgo ante shocks al setor intensivo en L
+- Besley and Person (2008) $\longrightarrow$ volatilidad de TIE estimular el conflicto armado
+  - Aumentos en $P_{m}$ lo hacen via baja del salario real
+  - Aumentos en $P_{x}$ lo hacen via aumento de la torta de recursos del gobierno
+
+## Información asimétrica y contratos incompletos
+
+- Modelo de contienda $\longrightarrow$ armarse y pelear ocurre siempre en el equilibrio
+  - En otras palabras *no hay decisión de pelear* --armarse y pelear se implican mutuamente
+- Esto no es muy realista $\longrightarrow$ competencia política por el poder y los recursos siempre presente pero no así el conflicto
+
+## Información asimétrica y contratos incompletos (cont.)
+
+- Mas relevante: estudiar los determinantes del compromiso (y su ausencia)
+- ¿Por qué existen las guerras?
+  - Si grupos en pugna son *racionales* ambos deberían preferir una solución negociada
+- Literatura:
+  - Acemoglu and Robinson (2001; 2006) $\longrightarrow$ elites y clases pobres, amenaza de revolución
+  - Boix (2003) $\longrightarrow$ aparición de conflicto de la mano de shocks en la capacidad militar de un desafiante revolucionario
+
+## Información asimétrica y contratos incompletos (cont.)
+
+- Fearon (1995) brinda 3 (tres) razones por las cuales la negociación puede fallar:
+  1. Los líderes no siempre se comportan racionalmente
+  2. Los líderes pueden ser totalmente racionales pero no internalizar los costos del conflicto por problemas de agencia política
+  3. Los líderes pueden ser totalmente racionales e internalizar los costos del conflicto completamente pero sin embargo ven la guerra como inevitable
+
+## Información asimétrica y contratos incompletos (cont.)
+
+- Asimismo señala 3 (tres) mecanismos consistentes con el argumento de "*guerra racional*"
+  1. Información asimétrica $\longrightarrow$ información privada sobre el poderío militar y el incentivo estratégico de "ningunear" potenciales oponentes
+  2. Problemas de compromiso $\longrightarrow$ incapacidad de las partes de comprometerse a pactos en ausencia de un *enforcer* externo
+  3. Indisivilidades $\longrightarrow$ algunos temas/issues simplemente no admiten compromiso y negociación --ie soberanía Malvinas
+
+## I - Información asimétrica
+
+- Guerra puede ocurrir cuando se sobreestima (capacidad de ganar) y/o subestima (capacidad de ganar del rival)}
+  - Incentivo a falsificar verdadera fuerza para lograr disuadir a potenciales futuros oponentes [el régimen de Saddam Hussein y su exageración sobre el stock de WOMD
+- En modelos con más de 2 (dos) jugadores, toma de decisiones colectivas Pareto-optimas es imposible y el conflicto surge siempre. 
+
+## II - Problema del compromiso y contratos incompletos
+
+- Casos mas interesantes donde aún con informacion perfecta, es inevitable el conflicto debido a un problema de compromiso --al menos una parte tiene incentivo a no cooperar una vez que se llega al acuerdo
+- Powell (2006) muestra que estos problemas de compromiso tienen la base en un único fenomeno: grandes desplazamientos en la futura distribución de poder
+- Ejemplo $\longrightarrow$ un gobierno *coyunturalmente* débil intenta comprar a un grupo rebelde con transferencias para lograr la paz. Cuando recobra fortaleza, estará motivado a renegar de su compromiso. Esto limita lo que está dispuesto a ofrecer hoy a los rebeldes y estos inician guerra con payoff mayor. 
+
+## II - Problema del compromiso y contratos incompletos (cont.)
+
+- Ejemplo II $\longrightarrow$ de la misma manera surge un problema de compromiso cuando una parte puede alterar *permanentemente* el balance de poder recurriendo a la guerra hoy. Si ir a la guerra debilita o incluso elimina a un grupo rebelde para siempre, entonces al estado le convendrá hacer una guerra sangrienta pero corta si los acuerdos de paz no son creíbles
+
