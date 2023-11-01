@@ -428,6 +428,125 @@ p^{ij}(\mathbf{q}_{A},\mathbf{q}_{B})=
 
 ![Distribución de sesgos ideológicos](../epol/fig/fig-04-014.png){#fig:04014 width=95%}
 
+## MVP: Caso particular, 3 grupos sociales
+
+- Caso particular del modelo anterior con 3 (tres) grupos
+  sociales. Sociedad compuesta por 3 (tres) grupos de individuos $(J
+  \in {R,M,P})$
+- Cada grupo conformado por número $\alpha^{j}$ de individuos y
+  población total normalizada a 1, $\sum_{j}\alpha^{j}=1$
+- Individuos de cada grupo tienen mismo ingreso, $y^{j}$ pero existen
+  diferencias entre ingresos *entre grupos*
+  - suponemos $y^{R}>y^{M}>y^{P}$ 
+- El ingreso medio es $\sum_{j}\alpha^{j}y^{j}=\bar{y}$
+
+
+## MVP: Caso particular, 3 grupos sociales (cont.)
+
+- Las preferencias de los agentes son:
+
+\begin{equation}
+V^{i,j}=V^{j}(\mathbf{q})+\sigma^{i,j}(P)+\delta(P)
+\end{equation}
+- $\sigma^{i,j}(P)$ es la *preferencia ideológica del individuo* y $\delta(P)$ mide
+  *preferencia promedio en la población como un todo* 
+  - "shock agregado de popularidad" --carisma, eventos inesperados,
+    escándalos
+- Simplificación:
+\begin{align}
+\sigma^{i,j}(B)-\sigma^{i,j}(A)&=\sigma^{i,j} \\
+\delta(B)-\delta(A)&=\delta
+\end{align}
+- Miden preferencia relativa para $i$ en grupo $j$ y
+  para la población en general
+
+
+## MVP: Caso particular, 3 grupos sociales (cont.)
+
+- Suponemos que $\sigma^{i,j}$ y $\delta$ siguen una distribución
+  uniforme simétrica alrededor de cero
+  
+  
+## MVP: Caso particular, 3 grupos sociales (cont.)
+
+![Distribución de sesgos ideológicos al interior de cada grupo](../epol/fig/fig-04-001.jpg){#fig:04018}
+
+## MVP: Caso particular, 3 grupos sociales (cont.)
+
+![Distribución del shock agregado de
+popularidad](../epol/fig/fig-04-002.jpg){#fig:04018}
+
+
+## MVP: Caso particular, 3 grupos sociales (cont.)
+
+- Densidad para ideología individual viene dada por parámetro
+  $\phi^{j}$ y definida sobre el intervalo
+  $[-\frac{1}{2\phi^{j}},-\frac{1}{2\phi^{j}}]$. Para el shock
+  agregado, la densidad es $\psi$ definida sobre $[-\frac{1}{2\psi},-\frac{1}{2\psi}]$ 
+- Candidatos anuncian *simultáneamente* plataformas de política --sólo
+  conocen las preferencias de los electores y las distribuciones de
+  paramétros de ideología y del shock de popularidad pero no sus
+  valores realizados
+- Luego se conoce el valor realizado de $\delta$
+
+## MVP: Caso particular, 3 grupos sociales (cont.)
+
+- Buscamos al votante pivotal --*swing-voter*- de cada grupo $j$
+\begin{equation}
+\tilde{\sigma^{j}}=V^{j}(\mathbf{q_{A}})-V^{j}(\mathbf{q_{B}})-\delta
+\end{equation}
+- es aquel votante cuyo sesgo ideológico $\tilde{\sigma^{j}}$ lo hace
+  indiferente entre los dos candidatos
+- electores con $\sigma^{i,j} < \tilde{\sigma^{j}}$ prefieren votar a
+  $A$
+  - calculamos $\pi^{j}_{A}$, fracción de votantes de $j$ que votan
+    por A como el area bajo la fn. de densidad 
+
+## MVP: Caso particular, 3 grupos sociales (cont.)
+
+![Proporción de individuos que votan por A en el grupo j](../epol/fig/fig-04-003.jpg){#fig:04018}
+
+## MVP: Caso particular, 3 grupos sociales (cont.)
+
+\begin{align}
+\pi^{j}_{A}&=\int_{-\frac{1}{2\phi^{j}}}^{V^{j}(\mathbf{q_{A}})-V^{j}(\mathbf{q_{B}})-\delta}\phi^{j}d\sigma^{i,j}=\phi^{j}[V^{j}(\mathbf{q_{A}})-V^{j}(\mathbf{q_{B}})-\delta+\frac{1}{2\phi^{j}}]
+\\
+\pi^{j}_{A}&=\phi^{j}\tilde{\sigma^{j}}+\frac{1}{2}
+\end{align}
+- y agregando sobre todos los grupos:
+\begin{equation}
+\pi_{A}=\sum_{j}\alpha^{j}[\phi^{j}\tilde{\sigma^{j}}+\frac{1}{2}]
+\end{equation}
+
+## MVP: Caso particular, 3 grupos sociales (cont.)
+
+- El resultado final para la probabilidad del partido A de ganar la
+  eleccion en función de las plataformas de política es:
+
+\begin{equation}
+p_{A}(\mathbf{q_{A}},\mathbf{q_{B}})=\frac{1}{2}+\frac{\psi}{\phi}[\sum_{j}\alpha^{j}\phi^{j}[V^{j}(\mathbf{q_{A}})-V^{j}(\mathbf{q_{B}})]]
+\end{equation}
+
+- note que esta probabilidad **es una función continua de las
+  distancias entras las plataformas de los candidatos**
+  
+## MVP: Caso particular, 3 grupos sociales (cont.)
+
+- Para candidato A, problema es maximizar esa probabilidad, la CPO es
+
+\begin{align}
+\frac{\psi}{\phi}[\sum_{j}\alpha^{j}\phi^{j}\frac{\partial{V^{j}(\mathbf{q_{A}})}}{\partial{\mathbf{q_{A}}}}]=0
+\\
+\frac{\psi}{\phi}[\sum_{j}\alpha^{j}\phi^{j}\frac{\partial{V^{j}(\mathbf{q_{B}})}}{\partial{\mathbf{q_{B}}}}]=0
+\end{align}
+
+- Problema es simétrico --ambos convergen a la misma
+  plataforma. Pero:
+  - reciben más ponderación: a) grupos más numerosos; b) aquellos con
+    mayor densidad en sus sesgos ideológicos
+
+  
+
 ## MVP: Midiendo polarización
 
 > El paper de Esteban and Ray (1994) desarrolló por primera vez una
