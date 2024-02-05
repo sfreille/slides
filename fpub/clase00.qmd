@@ -1,12 +1,12 @@
 ---
 title: Presentación
-subtitle: Finanzas Públicas (Cat. Freille)
+subtitle: Finanzas Públicas Curso de Verano (Cat. Freille) 
 author: |
   | **Sebastián Freille**
   | sfreille@unc.edu.ar
   | Licenciatura en Economía
   | FCE-UNC
-format::
+format:
   revealjs:
     slide-number: true
     chalkboard:
@@ -49,9 +49,8 @@ El curso se dicta usando una **combinación de metodologías didácticas**:
 
 Los **horarios de las clases híbridas** semanales serán:
 
-1. Lunes de 10:00 a 12:00 (Teórico)
-2. Miércoles de 10:00 a 12:00 (Teórico)
-3. Viernes de 10:00 a 12:00 (Práctico)
+1. Lunes a viernes de 16:00 a 20:00 --teóricos y prácticos
+2. Algunos sábados para parciales
 
 ## Objetivo general
 
@@ -95,21 +94,22 @@ Los **horarios de las clases híbridas** semanales serán:
 
 ## Fechas importantes
 
-- El primer parcial será el **a decidir**
+- El primer parcial será el **sábado 17-FEB de 12:00 a 16:00**
     - Incluye U1 a U4 inclusive. Notas y muestra: 
-- El segundo parcial es el **a decidir**
+- El segundo parcial es el **lunes 26-FEB de 16:00 a 20:00**
     - Incluye U5 a U9 inclusive. Notas y muestra: 
-- El recuperatorio será el **a decidir**
+- El recuperatorio será el **sabado 02-MAR de 12:00 a 16:00 (VIRTUAL)**
     - Se recuperan los temas del parcial reprobado/ausente. Notas y muestra: . Cierre de condiciones. 
 
 ## Puntos de encuentro
 
 1. Aula virtual de la materia
-    - Link directo: [Aula virtual Finanzas Públicas (Cat. Freille)](https://eco.aulavirtual.unc.edu.ar/course/view.php?id=290)
+    - Link directo: [Aula virtual Finanzas Públicas (Cat. Freille)](https://eco.aulavirtual.unc.edu.ar/course/view.php?id=176)
 2. Salas Google Meet
-    - Freille: [Sala Google Meet](https://meet.google.com/wvi-pczq-ign)
+    - Freille: [Sala Google Meet](https://meet.google.com/qxk-nuho-aet)
 3. Mail y otros
-    - Se responden mails y mensajes en foros a lo largo de la semana (no en el día)
+    - Se responden mails y mensajes en foros a lo largo de la semana
+      (no necesariamente en el día)
     - No usamos grupos de whatsapp y/u otro
 
 ## Resumiendo
