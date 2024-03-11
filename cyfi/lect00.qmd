@@ -1,11 +1,11 @@
 ---
 title: Presentación
-subtitle: Historia del Pensamiento y del Análisis Económico
+subtitle: Comercio y Finanzas Internacionales
 author: |
   | **Sebastián Freille**
   | sfreille@unc.edu.ar
-  | Licenciatura en Economía
-  | FCE-UNC
+  | Ciencia Política y Relaciones Internacionales
+  | UCC
 format::
   revealjs:
     slide-number: true
@@ -18,7 +18,7 @@ format::
     center: true
 ---
 
-# **Historia del pensamiento y del análisis económico**
+# **Comercio y Finanzas Internacionales**
 
 - Fundamentación y objetivos
 - Clases, materiales y dictado
@@ -27,103 +27,117 @@ format::
 
 ---
 
-# **Fundamentación y objetivos**
+# **Fundamentación y objetivos** {background="#43464B"}
 
 ## Fundamentación
 
-> Este curso presenta una aproximación cronológica y sistemática al estudio de las principales teorías y doctrinas económicas. Los alumnos tendrán la posibilidad de vincular conceptos económicos familiares con diferentes etapas en la evolución de las ideas económicas a partir de la contribución de los grandes pensadores y podrán asimismo tener una visión más completa del proceso de desarrollo de la ciencia económica
+> En el marco del sostenido proceso de creciente interdependencia y globalización de las relaciones económicas desde la segunda mitad del siglo XX, las interacciones comerciales y financieras entre los países son cada vez más profundas, abarcativas y complejas. En consecuencia, resulta fundamental describir, analizar y comprender los determinantes del intercambio comercial y financiero de los países, las motivaciones detrás de la política comercial y los efectos e impactos económicos de estas relaciones sobre los actores locales y las economías nacionales tanto a nivel micro como macroeconómico. 
+ 
+<!--
+A través del desarrollo de modelos, teorías y evidencias que se introducirán gradualmente según los temas desarrollados, los estudiantes estarán en condiciones de analizar y reflexionar las problemáticas, dinámicas y acontecimientos que explican e interpretan estas relaciones e interacciones internacionales y sus efectos sobre las economías domésticas, temas que resultan centrales en la formación de las carreras de Ciencia Política y de Relaciones Internacionales. 
+-->
+
 
 ## Objetivos
 
-> El objetivo de la materia es introducir y exponer a los estudiantes a las principales corrientes del pensamiento económico desde la antigüedad hasta nuestros tiempos a través de una exposición rigurosa y analítica de las principales teorías y doctrinas económicas y promover la reflexión sobre la evolución de la disciplina al 
+> El objetivo de la asignatura es presentar y desarrollar teorías y evidencias acerca de la naturaleza, determinantes y efectos de las relaciones comerciales y financieras entre los países con especial énfasis en la realidad Argentina y Latinoamericana al tiempo que proveer fundamentos para que los estudiantes puedan abordar, comprender y analizar las diferentes problemáticas y dinámicas del comercio y las finanzas internacionales. 
 
-# **Clases, materiales y dictado**
+# **Clases, materiales y dictado** {background="#43464B"}
 
 ## Equipo docente
 
 - **Sebastián Freille**
-  - Email: sfreille@unc.edu.ar
-  - Box 106 (IEF)
-  - Horario de consulta: miércoles 19 a 20
-
-- **Melisa Luc**
-  - Email: melisa.luc@unc.edu.ar
+  - Email: 0933217@ucc.edu.ar
+  - Box 4 (Area Investigación)
+  - Horario de consulta: a definir
+  
+- **Franco Aguirre**
+  - Email: 1206837@ucc.edu.ar
   - Horario de consulta: a definir
 
 ## Clases
 
 - Los **días y horarios de las clases** semanales serán:
-  - Lunes, 18:00 a 20:00 [Freille]
-  - Miércoles, 20:00 a 22:00 [Freille]
-  - Jueves, 18:00 a 20:00 [Luc]
-- Link para videotransmisión clases teóricas: https://meet.google.com/cfz-yaky-ugu
-- Link para videotransmisión clases aplicadas:
+  - Lunes, 14:00 a 17:00 [Freille]
+  - Lunes, 17:00 a 18:00 [Freille]
+- No habrá videotransmisión ni clase híbrida salvo aviso puntual por
+  parte de la cátedra
 
 ## Bibliografía
 
 - El programa de la materia contiene las unidades temáticas, contenidos y bibliografía
-- Si bien no hay un libro de texto único que usamos durante el dictado, seguiremos 2 (dos) textos con bastante regularidad:
-  - Landreth, H. y Colander, D. (2006). *Historia del pensamiento económico*, McGraw-Hill:Madrid, Cuarta edición
-  - Ekelund, R. B., Hébert, R. F. (2005). *Historia de la teoría económica y de su método*, Tercera Edición. Barcelona: McGraw-Hill.
-- Adicionalmente, se usarán otros textos generales, textos de autores originales y artículos académicos
+- Hay un libro de texto de referencia que la cátedra sigue de manera
+  estricta:
+  - Krugman, P. Obstfeld, M., and Melitz, M. (2016). *Economía
+    Internacional: teoría y política*, 10ma edición, Pearson
+    Educación. 
+- Adicionalmente, se usarán para algunos temas específicos algunos
+  textos y artículos seleccionados
 
 ## Recursos y materiales
 
-- El aula virtual de la materia está disponible en: a confirmar
-- Adicionalmente podrán encontrar recursos de la materia en: https://sfreille.github.io/teaching/hpea
+- El aula virtual de la materia está disponible en: https://presencial.ucc.edu.ar/course/view.php?id=10138 
+- Adicionalmente podrán encontrar recursos de la materia en:
+  https://sfreille.github.io/teaching/cyfi 
 - Eventualmente se comunicarán recursos y material adicional
 - Se pondrá a disposición copias digitalizadas de los principales materiales.
-- Los foros de unidades en aula virtual serán exclusivamente para consultas de contenidos de la materia. Las consultas se responderán con periodicidad semanal
+- Los foros de unidades en aula virtual serán exclusivamente para consultas de contenidos de la materia.
 
 
-## Dictado: modalidad híbrida
+## Dictado: modalidad presencial
 
-- La modalidad de dictado de la materia será conforme al **modelo de educación híbrida**. Durante el dictado habrá 3 (tres) tipos de actividades:
-  1. Presencial en el aula física
-  2. Virtual sincrónico por videoconferencia
-  3. Virtual asincrónico en aula virtual
-- Todas las clases serán dictadas en modalidad híbrida **pudiendo los estudiantes elegir la forma de cursado**. Las clases no serán grabadas.
-- Nos gustaría poder "vernos" --**agradeceríamos que encendieran las cámaras** sobre todo cuando haya intervenciones
+- La modalidad de dictado de la materia será presencial es decir sin
+  hacer uso de educación híbrida y/o educación a distancia. No
+  obstante ello, los estudiantes tendrán a su disposición todo el
+  material del aula virtual. 
 
 ## Dictado: asistencia y tipología
 
-- No hay requisito de asistencia
-- Las clases de lunes y miercóles serán en formato de exposición por parte del profesor. Se promueve la participación de estudiantes a partir de disparadores.
-- Las clases de jueves serán más participativas con mayor flexibilidad en cuanto al tipo de exposición del profesor
-- Las clases durarán 100 minutos. Los profesores podrán decidir otorgar un breve recreo de un máximo de 15 minutos durante la clase.
+- El requisito de asistencia es el que fijan las autoridades de la Facultad
+- Las clases en formato de exposición por parte del profesor. Se promueve la participación de estudiantes a partir de disparadores.
+- Las clases tendrán módulos de 50-60 minutos y recreos entre los
+  mismos. 
 
-
-# **Metodología de evaluación y aprobación**
+# **Metodología de evaluación y aprobación** {background="#43464B"}
 
 ## Evaluacion y aprobación
 
 - La materia se **regulariza aprobando 2 (dos) parciales**. Se puede recuperar un sólo parcial, por aplazo o ausencia. Los parciales serán **presenciales físicos**.
-- La materia **se aprueba (1) rindiendo y aprobando un examen en condición de regular; o (2) rindiendo y aprobando dos exámenes, uno en condición de libre y otro en condición de regular**.
+- La materia **se aprueba (1) rindiendo y aprobando un examen en
+  condición de regular; o (2) siguiendo los lineamientos fijados por
+  la Facultad de Ciencia Política y Relaciones Internacionales para el
+  caso de alumnos en condición de libre. 
 - En todos los casos **se aprueba con 50 puntos sobre 100**, sin excepciones
 - **No hay promoción** directa ni indirecta
 
 ## Fechas importantes
 
-- Parcial 1: 24-ABR
-- Parcial 2: 05-JUN
+- Parcial 1: 29-ABR
+- Parcial 2: 03-JUN
 - Parcial 3: 14-JUN
 
-# **Programa abreviado**
+# **Programa abreviado** {background="#43464B"}
 
 ## Programa abreviado
 
-- U1: Pensamiento y análisis económico: historia, métodos y el desarrollo de la economía
-- U2: Desde los inicios hasta fines de la edad Media.
-- U3: La economía pre-clásica: auge del comercio, el Estado nación y la transición a las ideas liberales.
-- U4: La economía política: El pensamiento clásico   --Smith, Ricardo, J.S. Mill.
-- U5: La economía política: El pensamiento clásico II –Reacciones y críticas.
+- U1. El comercio y las finanzas internacionales: Patrones, tendencias
+  y evidencias. Aproximaciones teóricas al estudio del comercio y las
+  finanzas internacionales
+- U2. Productividad del trabajo y ventaja comparativa: El modelo
+  ricardiano. Modelo de factores específicos y distribución del
+  ingreso
+- U3. Dotación factorial, ventaja comparativa y comercio: el modelo
+  Heckscher-Ohlin
+- U4. El modelo estándar de comercio.
+- U5. Modelos alternativos de comercio internacional
 
 ---
 ## Programa abreviado (cont.)
 
-- U6: La escuela neoclásica: la revolución marginalista.
-- U7: Las reacciones  en el siglo XX: críticas al método y a los supuestos.
-- U8: El nacimiento de la macroeconomía: Keynes y la teoría general.
-- U9: La renovación teórica desde el período interguerras
-- U10: ¿Nada nuevo bajo el sol? Nueva economía institucional, la nueva economía política y la revolución de la credibilidad.
+- U6. Balanza de pagos. El mercado de divisas. Tipo de cambio
+- U7. Dinero, tipo de interés. Paridad del poder adquisitivo. Enfoque
+  monetario de la balanza de pagos. Crisis de balanza de pagos
+- U8. Política comercial. Instrumentos. Argumentos en favor del libre
+  comercio. La economía política de la política comercial
+- U9. Integración comercial y monetaria
 
