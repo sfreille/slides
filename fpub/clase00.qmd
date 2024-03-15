@@ -1,6 +1,6 @@
 ---
 title: Presentación
-subtitle: Finanzas Públicas Curso de Verano (Cat. Freille) 
+subtitle: Finanzas Públicas (Freille/Ratner) 
 author: |
   | **Sebastián Freille**
   | sfreille@unc.edu.ar
@@ -21,7 +21,7 @@ format:
 
 ## Bienvenida 
 
-> Este es un sitio de clases interactivas de la materia Finanzas Públicas (cátedra Freille) del tercer año de la carrera de Contador Público de la Facultad de Ciencias Económicas (FCE) de la Universidad Nacional de Córdoba (UNC).
+> Este es un sitio de clases interactivas de la materia Finanzas Públicas (Cátedra Freille/Ratner) del tercer año de la carrera de Contador Público de la Facultad de Ciencias Económicas (FCE) de la Universidad Nacional de Córdoba (UNC).
 
 ## Aspectos organizativos
 
@@ -29,14 +29,26 @@ format:
 
 ## Equipo de cátedra
 
-* Profesor Adjunto: FREILLE, Sebastián
-  * Lic en Economía (UNC)
+* Profesor Asociado: FREILLE, Sebastián
+  * Lic. en Economía (UNC)
   * PhD en Economía (University of Nottingham)
-- Profesor Ayudante: GRIÓN, Néstor
-    - Lic en Economía (UNC) / Candidato Doctoral (FCE-UNC)
-- Adscripto: ARROYO, Mateo
+* Profesor Adjunto: RATNER, Gabriel
+  * Lic. en Economía (UNC)
+  * Magister en Finanzas Públicas Provinciales y Municipales (UNLP
+  * Magíster en Formulación, Evaluación y Administración de Proyectos
+    de Inversión (UNC)
+	
+## Equipo de cátedra (cont.)	
+	
+- Profesor Asistente: GRIÓN, Néstor
+    - Lic. en Economía (UNC) / Candidato Doctoral (FCE-UNC)
+- Profesor Ayudante: CAGGIA, Mauricio
+    - Lic. en Economía (UNC) / Candidato Doctoral (FCE-UNC)
+- Adscripto: ARROYO, Mateo (estudiante de Economía
+- Adscripto: CARRANZA, Juan Pablo (Lic. en Economía / Magíster en
+  Administraión Pública)
 - Adscripto: LUCERO, Tobías
-
+	
 ## Clases y dictado
 
 El curso se dicta usando una **combinación de metodologías didácticas**:
@@ -49,8 +61,8 @@ El curso se dicta usando una **combinación de metodologías didácticas**:
 
 Los **horarios de las clases híbridas** semanales serán:
 
-1. Lunes a viernes de 16:00 a 20:00 --teóricos y prácticos
-2. Algunos sábados para parciales
+> Lunes, martes y viernes (prácticos) de 12:00 a 14:00
+
 
 ## Objetivo general
 
@@ -73,7 +85,9 @@ Los **horarios de las clases híbridas** semanales serán:
 6. U6. Impuestos a los consumos
 7. U7. Impuestos a la riqueza y otros impuestos
 8. U8. Sostenibilidad fiscal: déficit público, endeudamiento y emisión monetaria
-9. U9. Federalismo fiscal y relaciones financieras inter-gubernamentales
+9. U9. Federalismo fiscal y relaciones financieras
+   inter-gubernamentales
+10. U10. Temas especiales: Tributación y gasto internacional. Sistemas de pensiones 
 
 
 ## Bibliografía y textos
@@ -87,26 +101,29 @@ Los **horarios de las clases híbridas** semanales serán:
 
 ## Evaluación
 
-- Se obtiene la **regularidad aprobando 2 (dos) de 3 (tres) parciales**. Si aprueba los 2 (dos) primeros no rinde el restante. Los dos primeros parciales serán **presenciales físicos**; el parcial recuperatorio será **remoto en aula virtual**
+- Se obtiene la **regularidad aprobando 2 (dos) de 3 (tres)
+  parciales**. Si aprueba los 2 (dos) primeros no rinde el
+  restante. Los dos primeros parciales serán **presenciales físicos**;
+  el parcial recuperatorio será **remoto con presencialidad en aula gabinete**
 -  **Se aprueba la materia** (1) rindiendo y aprobando un examen en condición de regular; o (2) rindiendo y aprobando dos exámenes, uno en condición de libre y otro en condición de regular.
 - En todos los casos **se aprueba con 50 puntos sobre 100**, sin excepciones
 -  **No hay promoción** directa ni indirecta
 
 ## Fechas importantes
 
-- El primer parcial será el **sábado 17-FEB de 12:00 a 16:00**
-    - Incluye U1 a U4 inclusive. Notas y muestra: 
-- El segundo parcial es el **lunes 26-FEB de 16:00 a 20:00**
-    - Incluye U5 a U9 inclusive. Notas y muestra: 
-- El recuperatorio será el **sabado 02-MAR de 12:00 a 16:00 (VIRTUAL)**
-    - Se recuperan los temas del parcial reprobado/ausente. Notas y muestra: . Cierre de condiciones. 
+- El primer parcial será el **lunes 29/ABR de 12:00 a 14:00**
+    - Incluye U1 a U4 inclusive. Notas y muestra: a confirmar
+- El segundo parcial es el **martes 04/JUN de 12:00 a 14:00**
+    - Incluye U5 a U9 inclusive. Notas y muestra: a confirmar
+- El recuperatorio será el **viernes 14/JUN de 12:00 a 14:00 (REMOTO GABINETE)**
+    - Se recuperan los temas del parcial reprobado/ausente. 
 
 ## Puntos de encuentro
 
 1. Aula virtual de la materia
-    - Link directo: [Aula virtual Finanzas Públicas (Cat. Freille)](https://eco.aulavirtual.unc.edu.ar/course/view.php?id=176)
+    - Link directo: [Aula virtual Finanzas Públicas (Cat. Freille)](https://eco.aulavirtual.unc.edu.ar/course/view.php?id=290)
 2. Salas Google Meet
-    - Freille: [Sala Google Meet](https://meet.google.com/qxk-nuho-aet)
+    - Todas las clases: [Sala Google Meet](https://meet.google.com/xzr-ocdh-das)
 3. Mail y otros
     - Se responden mails y mensajes en foros a lo largo de la semana
       (no necesariamente en el día)
@@ -122,4 +139,13 @@ Los **horarios de las clases híbridas** semanales serán:
     3. Explicamos cómo evaluamos/corregimos
     4. Mostramos evaluaciones/damos devoluciones
 4. Se **promueve y estimula debates actuales** pero el foco es en la descripción y análisis y no en juicios de valor y opiniones
+
+## Disparador y motivación
+
+1. ¿Estado o mercado?
+2. Decisiones individuales (privadas) versus decisiones colectivas (públicas)
+3. "No existen los almuerzos gratis"
+4. Eficiencia y equidad: ¿más de ambas?
+5. Roles y funciones del Estado
+6. Economía y política: una cuestión de plazos
 
