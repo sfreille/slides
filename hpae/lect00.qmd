@@ -40,7 +40,7 @@ format:
 
 - **Sebastián Freille**
   - Email: [sfreille@unc.edu.ar](mailto:sfreille@unc.edu.ar)
-  - Horario de consulta: miércoles 19 a 20 (presencial)
+  - Horario de consulta: martes 17 a 18 (presencial)
 - **Melisa Luc**
   - Email: [melisa.luc@unc.edu.ar](mailto:melisa.luc@unc.edu.ar)
   - Horario de consulta: a definir
@@ -52,10 +52,10 @@ format:
 
 - Los **días y horarios de las clases** semanales serán:
   - LUN, 18 a 20: Aula B [Freille]
-  - MIE, 20 a 22: Aula O [Freille]
+  - MAR, 18 a 20: Aula T [Freille]
   - JUE, 18 a 20: Aula C [Luc/Godino] 
-- Link para **videotransmisión clases teóricas** al [aula de Google Meet](https://meet.google.com/cfz-yaky-ugu)
-- Link para **videotransmisión clases aplicadas** al [aula de Google Meet](https://meet.google.com/moi-bdvb-fsx)
+- Link para **videotransmisión clases teóricas** al [aula de Google Meet](https://meet.google.com/pzo-faae-npb)
+- Link para **videotransmisión clases aplicadas** al [aula de Google Meet](https://meet.google.com/pzo-faae-npb)
 
 ## Bibliografía
 
@@ -70,26 +70,28 @@ format:
 - En este link pueden acceder al [aula virtual
   de la materia](https://eco.aulavirtual.unc.edu.ar/course/view.php?id=292)
 - Adicionalmente podrán encontrar recursos de la materia en [página
-  web de la materia](https://sfreille.github.io/teaching/hpae)
+  web personal](https://sfreille.github.io/teaching/hpae)
 - Se pondrá a disposición copias digitalizadas de los principales materiales.
 - Los foros de unidades en aula virtual serán exclusivamente para consultas de contenidos de la materia. Las consultas se responderán con periodicidad semanal
 
 
 ## Dictado: modalidad híbrida
 
-- La modalidad de dictado de la materia será conforme al **modelo de educación híbrida**. Durante el dictado habrá 3 (tres) tipos de actividades:
+- La modalidad de dictado de la materia será conforme al modleo
+  **Cursado en Formato Combinado (CFC)** siguiendo el  **Modelo 1 -
+  Híbrido 100%**. Durante el dictado habrá 3 (tres) tipos de actividades:
   1. Presencial en el aula física
   2. Virtual sincrónico por videoconferencia
-  3. Virtual asincrónico en aula virtual
+  3. Virtual asincrónico en aula virtual (exepcional)
 - Todas las clases serán dictadas en modalidad híbrida **pudiendo los estudiantes elegir la forma de cursado**. Las clases no serán grabadas.
 - Nos gustaría poder "vernos" --**agradeceríamos que encendieran las cámaras** sobre todo cuando haya intervenciones
 
 ## Dictado: asistencia y tipología
 
 - No hay requisito de asistencia
-- Las clases de **lunes y miercóles serán en formato de exposición** por parte del profesor. Se promueve la participación de estudiantes a partir de disparadores.
+- Las clases de **lunes y martes serán en formato de exposición** por parte del profesor. Se promueve la participación de estudiantes a partir de disparadores.
 - Las clases de **jueves serán más participativas** con mayor flexibilidad en cuanto al tipo de exposición del profesor
-- Las clases durarán 100 minutos. Los profesores podrán decidir otorgar un breve recreo de un máximo de 15 minutos durante la clase.
+- Las clases durarán 100 minutos. Los profesores podrán decidir otorgar un breve recreo de un máximo de 10 minutos durante la clase.
 
 
 # **Metodología de evaluación y aprobación** {background="#43464B"}
@@ -105,9 +107,11 @@ format:
 
 - En principio y **sujeto a aprobación de la Secretaría de Asuntos
   Estudiantiles (SAE)** las fechas de parciales serán:
-  - Parcial 1: 24-ABR
-  - Parcial 2: 05-JUN
-  - Parcial 3: 14-JUN
+  - Parcial 1: 29-ABR
+  - Parcial 2: 03-JUN
+  - Parcial 3: 13-JUN
+- Se ha previsto que todos los parciales se rindan en **Aulas
+  Gabinete** en formularios Moodle
 
 # **Programa abreviado** {background="#43464B"}
 

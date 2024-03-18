@@ -23,7 +23,7 @@ format:
     link-external-newwindow: true
 ---
 
-# El rol y utilidad de la HPE {background="#43464B"}
+# **El rol y utilidad de la HPE** {background="#43464B"}
 
 ## Muchas voces a favor...
 
@@ -48,19 +48,16 @@ format:
   - nos generan "intuiciones" sobre cómo funciona(ba)n los mercados en
   general
 - Pedagógico [Schumpeter (1954)]
-	- permite integrar y articular diferentes ideas en un sistema de ideas y pensamiento
+	- integrar y articular diferentes ideas en sistema de ideas y pensamiento
 - Promueve crítica y reflexión
   - ante una bifuración, se siguió un camino --¿qué hubiera
-    pasado si...? [ejemplos: costos de transacción y optimalidad de
-    Pareto "descubiertos" 30 años despúes]
+    pasado si...? [costos de transacción y optimalidad paretiana "descubiertos" 30 años después]
   
 ## El papel de las ideas
 
 > …<span style=" font-size:25px; line-height:0.5; padding:0">las ideas de los economistas y filósofos políticos, tanto cuando son correctas como erróneas, tienen más poder de lo que comúnmente se entiende. De hecho, el mundo está dominado por ellas. Los hombres prácticos, que se creen exentos de cualquier influencia intelectual, son usualmente esclavos de algún economista difunto. Locos con autoridad, que escuchan voces en el aire, destilan su histeria de algún escritorzuelo académico de uno años antes. Estoy seguro que el poder de los intereses creados es vastamente exagerado cuando se lo compara con el gradual avance de las ideas. No, por cierto, en forma inmediata, pero luego de un cierto intervalo; porque en el campo de la economía y la filosofía política no hay muchos que sean influenciados por nuevas teorías luego de sus veinticinco o treinta años de edad, por lo que las ideas que los funcionarios públicos y políticos, y aun los activistas aplican a los eventos actuales no es probable que sean las últimas. Pero, tarde o temprano, son las ideas, y no los intereses creados las que son peligrosas para bien o para mal\
 **[John Maynard Keynes, *Teoría general del empleo, el interés y el dinero* (1936)]** </span>
 
-
-	
 ## Argumentos y contra-argumentos
 
 ![](fig/fig-01-001.png){fig-align="center"}
@@ -140,7 +137,7 @@ format:
     en el CP para Hume --énfasis en el CP totalmente ignorado por
     Lucas
 
-# Los usos del pasado {background="#43464B"}
+# **Los usos del pasado** {background="#43464B"}
 
 ## "Cada escritor crea a sus *precursores*" [JLB]
 
@@ -181,8 +178,63 @@ format:
   cómo y por qué se llegó a esa caja
   - Si la caja que hoy vemos es demasiado pequeña y angosta,
     retroceder ayuda a recuperar vistas perdidas
+	
+# **¿Es la economía una ciencia? Carácter y naturaleza** {background="#43464B"}
 
-# Sobre el carácter y naturaleza de la disciplina --economía {background="#43464B"}
+## La acepción de ciencia 
+
+- La respuesta es...**depende**
+  - de que consideremos ciencia
+- Si por ciencia consideramos a la física matemática --como es el caso
+  en muchos paises de habla inglesa y francesa-, entonces todas las
+  ciencias sociales quedan excluidas
+- Incluso aún si consideramos ciencia a aquellas disciplinas que usan
+  métodos similares a los de la física matemática, la mayoría de
+  ciencias sociales y gran parte de la economía quedarían excluidas de
+  la definición.
+  - Si *"Science is measurement"*, entonces la economía es científica
+    en partes. 
+	
+## La acepción de ciencia (cont.)
+
+- Pero en otra acepción, una ciencia es cualquier campo del
+  conocimiento que ha desarrollado técnicas especializadas de
+  descubrimiento de hechos y de interpretación de inferencia
+  (análisis). Según Schumpeter:
+  - Ciencia es sentido común refinado
+  - Ciencia es conocimiento instrumentado (*tooled*)
+- Entonces la economía es una ciencia de acuerdo a esto. Pero...
+  - escribir la historia de sus técnicas, métodos y problemas no
+    resulta tan directo ni libre de problemas
+	- un problema, importante y desafiante, es la *ideología*
+
+## Métodos y estándares de la ciencia moderna
+
+- Los estándares científicos modernos son el resultado de un proceso
+  continuo y sostenido durante los últimos 6 (seis) siglos. Durante
+  este tiempo, se han descartado muchos métodos antiguos y refinado
+  otros tantos
+- A grandes rasgos estos estándares pueden ser resumidos a partir de 2 (dos) características:
+  1. **limitan los hechos aceptables** bajo fundamentos científicos a
+     aquellos hechos verificables por **observación o experimentación**
+  2. **limitan los métodos admisibles** a aquellos que permitan
+     **inferencia lógica a partir de hechos verificables**
+	 
+## Observación y experimentación en la investigación
+
+- La **verificación por observación** es el método más antiguo y 
+  tradicionalmente usado, incluso en la antigüedad --a través de observación directa e
+  indirecta. 
+- En cambio, la **verificación por experimentación** es más reciente
+  [Galileo, Lavoisier, Pasteur]. Ha
+  sido y es ampliamente usada en las ciencias formales y las ciencias
+  naturales 
+  - mucho menos usada en las ciencias sociales salvo por la psicología
+- En la economía recién en las últimas 2/3 décadas ha tomado fuerte
+  impulso por su utilidad para establecer causalidad
+  - este requiere **variación controlada** y el método
+  experimental configura un estándar casi
+  ideal para explorar estas cuestiones
 
 ## Sobre método y naturaleza
 
@@ -225,7 +277,6 @@ format:
 
 ## Sobre método y naturaleza (cont.)
 
-- Pensemos en 3 (tres) modelos conocidos
   1. Oferta y demanda (Marshall) $\longrightarrow$ equilibrio
      eficiente 
 	 - idealización: mercado perfectamente competitivo
@@ -233,13 +284,14 @@ format:
      eficiente 
 	 - idealización: acciones independientes
   3. Caza del ciervo (Rousseau) $\longrightarrow$ equilibrios
-     múltiples, uno eficiente, otro ineficiente
+     múltiples, uno eficiente, otro no
 	 - idealización: información imperfecta
+
 - Ninguno de estos modelos **está bien o mal *per se*** --pero cada
   uno brinda un mecanismo que puede ser válido (o no) en una situación del
   mundo real 
 
-# Metodología de la ciencia: evolución. El caso de la economía {background="#43464B"}
+# **Metodología de la ciencia: evolución. El caso de la economía** {background="#43464B"}
 
 ## Filosofía de la ciencia: los principales modelos
 
@@ -373,7 +425,9 @@ format:
   - la economía (como ciencia social) queda entre medio de las
   ciencias naturales y las disciplinas como las artes y la literatura
 
-# Problemas metodológicos centrales {background="#43464B"}
+
+
+# **Problemas metodológicos centrales** {background="#43464B"}
 
 ## Problemas metodólogicos centrales
 
@@ -467,19 +521,35 @@ format:
   
 ## Causalidad en economía y econometría
 
+![¿Acaso la gaviota dobló la barra?](fig/concurso-009.jpg){fig-align="center"}
+
+## Causalidad en economía y econometría (cont.)
+
 - Muchos enunciados económicos se asemejan a enunciados causales
   --"Cuando sube $P$, baja $Qd$"
   - Pero causalidad no explorada explícitamente (ni conceptual ni
     estadísticamente)
-- En décadas recientes, importante revolución empírica rescató el tema
+- Reciente revolución empírica rescató el tema
   de la causalidad
   - Si *cambios en $M$ causan cambios en $P$, entonces la distribución
-  condicional de $P$ sobre $M$ debería permanecer estable con cambios
+  condicional de $P$ sobre $M$, $P(M|P)$ debería permanecer estable con cambios
   exógenos en M, pero debería cambiar con cambios exógenos en $P$*
 - Hoover [2001] propone usar indagación histórica junto a métodos
   estadísticos para identificar cambios exógenos
   
-## Causalidad en economía y econometría (cont.)
+## ¿Es importante la causalidad en economía?
+
+- Claro que sí! Ya estos temas aparecían en los escritos y
+  preocupaciones de Hume, Smith y otros autores. 
+- Hay varias razones por las que estudiar y determinar causalidad es relevante
+  1. Conocer y atacar las **verdaderas causas** de un problema (y no sus efectos)
+     --i.e inflación
+  2. Teorización y modelización
+  3. **Diseñar** políticas e **intervenciones** correctas
+  4. **Distinguir entre** fenómenos que tienden a ocurrir conjuntamente
+    **--corelación-** y fenómenos que causan unos a otros **--causalidad**
+  
+## La experimentación en economía
 
 - Reencarnación moderna del debate de causalidad $\longrightarrow$
   **randomized controlled trials**
