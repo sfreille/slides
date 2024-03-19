@@ -1,0 +1,155 @@
+---
+title: U1. Pensamiento y análisis económico. Historia, métodos y el desarrollo de la economía. Sobre el análisis económico. 
+subtitle: Historia del Pensamiento y del Análisis Económico
+author: |
+  | **Sebastián Freille**
+  | sfreille@unc.edu.ar
+  | Licenciatura en Economía
+  | FCE-UNC
+format:
+  revealjs:
+    slide-number: true
+    chalkboard:
+      buttons: false
+    preview-links: auto
+    css: ..\quarto.css
+    width: 1500
+    center-title-slide: true
+    center: true
+    tbl-cap-location: bottom	
+    toc: true
+    toc-depth: 1
+    toc-title: Contenidos
+    link-external-newwindow: true
+---
+
+# **Economistas, técnicas y la sociología de la economía** {background="#43464B"}
+
+## Las técnicas del análisis económico
+
+- Debemos definir las relaciones de la economía con otros campos del
+  conocimiento ("conocimiento instrumentado")
+- Asimismo debemos preguntarnos qué distingue a un economista
+  "científico" de todas las otras personas que piensan, hablan y
+  escriben sobre economía
+  - dominio de las técnicas y métodos que pueden agruparse en tres
+	1. Historia
+	2. Estadística
+	3. Teoría
+- A esto Schumpeter le llamó **análisis económico**. Luego añadiría
+  una cuarta disciplina, la sociología. 
+  
+## Campos fundamentales: la historia
+
+- Para Schumpeter la historia es el campo fundamental más
+  importante. Fundamentos:
+  - el objeto de estudio de la economía es esencialmente un proceso
+    único en tiempo histórico --hechos históricos, sentido histórico y
+    *experiencia histórica*
+  - el registro histórico no puede ser puramente económico sino que
+    debe reflejar "hechos institucionales" --ie como se relacionan
+    hechos económicos con hechos no económicos
+  - los errores más fundamentales de los economistas se deben a
+    déficits de *experiencia histórica* más que a déficits de técnicas
+    y/o metodos
+
+## Campos fundamentales: la historia (cont.)
+
+- Dos consecuencias relevantes surgen de esto
+  - el **análisis económico** y sus resultados se ven afectados por la
+    relatividad histórica
+	- muy importante realizar breves comentarios e introducciones
+      sobre "el espíritu de la época" y también sobre el *politics*
+      de cada período
+  - las técnicas de la historia son en cierta manera pasajeros del
+    colectivo llamado **análisis económico**
+	- todo economista debería entender como los registros historicos
+      llegaron a suceder para encontrar sentido y contexto
+
+## Campos fundamentales: la estadística
+
+- El rol e importancia de la estadística para el **análisis
+  económico** ha sido reconocido desde los siglos XVI y XVII 
+  - textos de los *políticos* españoles y de los *aritméticos
+    políticos* ingleses
+- Pero de nuevo es difícil entender y comprender la estadísticas
+  cuando no se conoce cómo y en qué contexto han surgido y cómo se han
+  compilado
+  - dominio de métodos y técnicas estadísticas importante y condición
+    necesaria (no suficiente) para que el economista científico no
+    produzca contenido ininteligible
+- Los métodos estadísticos son parte de las herramientas del
+  **análisis económico** aún cuando no hayan sido diseñados para ello
+
+## Campos fundamentales: la teoría
+
+- La palabra teoría tiene muchos sentidos y significados pero hay dos
+  relevantes para nuestro propósito
+  1. Teorías como hipótesis explicativas $\longrightarrow$ pero esto
+     no es exclusivo del teórico --también lo hacen el historiador y
+     el estadístico- sino que no se debe reducir a meramente formular
+     hipótesis (out of the blue!)
+- Las cosas que damos por sentado --proposiciones que llamamos
+  *hipotesis*, *axiomas*, *postulados* o *supuestos* y las cosas que
+  creemos hemos derivado --proposiciones que llamamos *teoremas* 
+
+## Campos fundamentales: la teoría (cont.)
+
+- Pero no sólo es importante el formular y establecer hipótesis
+  --también relevante todos los otros artilugios usados extraidos a
+  partir de las mismas: los conceptos --*tasa marginal de
+  sustitución*, *productividad marginal*, *multiplicador*; las
+  relaciones entre conceptos; y métodos para conectar estas relaciones
+- La suma de todas estas cosas es lo que constituye la teoría
+  económica. En palabras de Joan Robinson, *"economic theory is a box
+  of tools"*. 
+  
+## Campos fundamentales: la teoría (cont.)
+
+- Rationale: los fenómenos económicos, como muchos, constituyen
+  ocurrencias individuales que cada vez que ocurren revelan
+  particularidades y características propias
+- La experiencia sugiere que estas ocurrencias individuales tienen
+  ciertas propiedades o aspectos en común y que si nos enfocamos
+  (teorizamos) sobre  ellos, existe una tremenda economía (ahorro) de
+  esfuerzo y energía
+- Aún si fuera necesario revisar *todas* las ocurrencias, veremos que
+  en que en *todas* aparecen características y conceptos comunes
+  - es aquí donde empieza la posibilidad de abstracción y
+    generalización
+
+  
+## Campos fundamentales: la teoría (cont.)
+
+> **Métodos prestados**. La economía (y los economistas) han sido
+> acusado de usar métodos prestados sin ningún tipo de
+> crítica/reflexión (Hayek). Veamos un ejemplo: el concepto de
+> equilibrio. Deriva de la física. ¿Pero tiene algo *intrínsecamente*
+> físico o es algo que es puramente lógico y puede aplicarse en otro
+> contexto? Si es lo segundo entonces, la crítica de Hayek es
+> exagerada. Además, puede servir un propósito útil: una analogía con
+> el mundo físico/espacial es a veces más intuitiva que un
+> concepto/proceso económico. 
+
+## Campos fundamentales: la sociología
+
+- No sólo la historia y la estadística prestan servicio a la teoría
+  --existen algunos *hechos sociales* que no son meramente historia
+  sino una clase de historia económica tipificada, estilizada o
+  generalizada $\longrightarrow$ institución de propiedad privada;
+  regulación gubernamental; libre contratación entre agentes
+- El **análisis económico** se preocupa por las preguntas sobre cómo
+  la gente se comporta en cualquier momento y cuáles son los efectos
+  económicos que produce ese comportamiento; la sociología económica
+  trata con la cuestión de cómo llegaron a comportarse como lo
+  hicieron. 
+
+## Campos fundamentales: la sociología (cont.)
+
+- Si entedemos por acción humana un concepto amplio que incluya no
+  sólo las acciones, motivos y propensiones individuales sino también
+  las instituciones sociales que son relevantes para el
+  comportamiento económico como el gobierno, la propiedad privada, la
+  herencia, las formas de contratos, entonces esto es todo lo que
+  necesitamos. 
+- Los tres campos fundamentales más la sociología económica. 
