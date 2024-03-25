@@ -36,6 +36,9 @@ format:
 > "The wise man seeks balance in all things"
 **[Lao Tzu]**
 
+## You are here
+
+![](fig/fig-02-000.png){fig-align="center"}
 
 ## La actividad económica en el mundo antiguo
 
@@ -44,11 +47,65 @@ format:
     actividades conómicas en aspectos como la justicia y la calidad de vida
 - Estructura económica esencial de la sociedad prácticamente no cambió
   hasta fines del siglo XV
-  - Economía de autosuficiencia $\longrightarrow$ sin interacciones ni
-    mercados
+  - Economía de autosuficiencia $\longrightarrow$ en su mayoría sin
+    interacciones ni mercados
 - Mecanismo de asignación de recursos no era descentralizado sino
   centralizado --autoridad gobernante
-  
+
+## La sociedad primitiva y tribal
+
+- La sociedad griega o incluso aquellas descritas en el Antiguo
+  Testamento poseían algunas características del capitalismo moderno:
+  - propiedad privada; división del trabajo; mercados; y moneda
+- Algunos pensadores de aquella época emitieron juicios que, aunque
+  fragmentarios y esporádicos, reflejan no sólo las preocupaciones de
+  la época sino también las primersa aproximaciones a conceptos
+  económicos
+- Preocupaciones por problemas prácticos --aspectos técnicos del
+  proceso de satisfacción de necesidades
+  - cambios de estación; fertilidad de la tierra; costumbres de los
+    animales
+
+## Transición a la sociedad de clases y castas
+
+- Aun en estadíos avanzados de estas sociedades, no se presentaba el
+  problema específico económico-social que requiriera un abordaje
+  analítico y técnico
+  - la relación esfuerzo-satisfacción de necesidades individuales era
+    intuitiva y palpable a todo hombre ya que no había disociación
+    entre producción y producto
+- Eventualmente, las tensiones surgen entre:
+  - sociedad primitiva $\longrightarrow$ propiedad comunal y actividad
+    económica basica
+  - sociedad de clases y castas $\longrightarrow$ propiedad privada y
+    actividad económica más compleja
+- Mucho de esto contenido en el Antiguo Testamento
+
+## La monarquía hebrea
+
+- La monarquía hebrea, unida y dividida (1047 a 722 A.C) se desarrolla al calor de la introducción de la propiedad privada y por ende del comercio interior y exterior
+  - y nace la posibilidad de **acumulación** (Libro de los Reyes)
+- Sociedad con una marcada división entre ricos y pobres, incluso
+  clase esclava
+- Alta incidencia de derechos de peaje, impuestos elevados 
+  - se da un empobrecimiento de las masas y aparece por primera vez
+    una clase desposeída
+- Profetas condenaban esta división y los excesos de las nuevas clases 
+  - algunos logros $\longrightarrow$ prohibición de embargar la ropa y
+    utiles de trabajo
+
+## El fracaso de los profetas
+
+- Sin embargo visión extremadamente idealista y *naive* --no entendían los
+  profetas las fuerzas que producían el cambio social
+- Pensaban que muchos males no eran consecuencia de la nueva
+  estructuras e instituciones económicas sino que eran atribuibles a
+  un "cambio en el corazón del hombre"
+- Sólo se buscaba revertir a una situación pre-existente e idealizada
+  donde se eliminaran todos los vicios que denunciaban
+  - perdieron total contacto con los problemas sociales de su época
+    --en lingo moderno NO LA VIERON!
+
 ## Los principales temas
 
 - A modo general, se pueden mencionar 2 (dos) grandes orientadores del
@@ -63,6 +120,7 @@ format:
   - Otro tema era la administración pública pero siempre dentro de un
     marco ético (normativo)
 - No había marco científico 
+
 	
 # Las ideas económicas en Oriente {background="#43464B"}
 
@@ -126,7 +184,7 @@ format:
 > “inconsequential,” or “cheap.” As a verb, it means to accord little or
 > no value to something. Zhong 重 means “heavy,” and by extension
 > "important", "serious" or "expensive". As a verb, it means to value
-> someth> ing. As a compound the two characters usually mean "weight".
+> something. As a compound the two characters usually mean "weight".
 
 - Desde la perspectiva del *qingzhong* todos los fenómenos económicos
   deben ser entendidos relacionalmente; las cosas pueden ser *pesadas*
