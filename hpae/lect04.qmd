@@ -38,18 +38,69 @@ format:
 > cambio es significativo en muchos aspectos pero uno, que nos
 > concierne, es relevante: el cambio en el *estilo de la escritura*
 
+## Los impulsores de las ideas económicas en la transición 
+
+- En esta larga transición hacia la economía científica, la gran
+  mayoría de autores y pensadores que contribuyeron ideas, nociones y
+  pensamientos sobre temas económicos pueden ser catalogados en dos
+  grupos:
+  1. Políticos/administradores ("consultant administrators")
+  2. Panfletistas
+- Los primeros comprendían esencialmente funcionarios y personas
+  vinculadoas con la administración; personas de *praxis*, carecían de
+  los hábitos sistemáticos y la erudición del profesional académico. 
+  
+## Los impulsores de las ideas económicas en la transición (cont.)
+
+- Los panfletistas eran en cambio una fauna diversa --proyectistas,
+  emprendedores, lobbistas, planificadores, y hombres interesados por
+  los problemas de la epoca
+- Florecieron gracias en parte al desarrollo de la imprenta. Con el
+  advenimiento de los periódicos en siglo 17, dio nuevo impulso a
+  este tipo de publicaciones
+- La mayoría de los panfletistas sólo reflejaban humor y discusión de
+  epoca, sin método ni rigor; algunos contribuyeron dosis de caracter
+  estrictamente científico; incluso más, algunos pocos tuvieron
+  notable capacidad para adelantarse a lo que se venía
+
 ## Los precursores del economía política
 
-- Dos de las figuras más importantes en la larga transición entre las ideas
-  de la filosofía moral, de los "panfletistas" y de los hombres de
-  negocios del mercantilismo al nacimiento de la economía como
-  disciplina científica fueron **William Petty** y **Richard
-  Cantillon**
-- Tanto Petty como Cantillon han sido considerados por los padres
-  fundadores de la economía política: Karl Marx dijo sobre Petty y
-  Jevons dijo sobre Cantillon
-- La **fisiocracia** fue la otra manifestación de que la transición
-  entre la economía pre-científica y científica estaba madurando
+- Un grupo de autores que caen en alguno (o en el medio) de los dos
+  conjuntos dados arriba tuvieron el suficiente peso específico como
+  para estudiarlos como parte esencial de la transición a las ideas
+  económicas del siglo 18. 
+- En primer lugar, dos figuras importantes que estuvieron a las
+  puertas del carácter científico de la economía fueron **William
+  Petty** y **Richard Cantillon**
+  - Petty (Marx) y Cantillon (Jevons) han sido considerados por los padres
+  fundadores de la economía política
+- En segundo lugar, La **fisiocracia** fue la otra manifestación de
+  que la transición entre la economía pre-científica y científica estaba madurando
+  
+## Los primeros econometristas
+
+- Si bien no formaron parte de ninguna escuela, uno de los criterios
+  para agrupar a estos pensadores ("consultores-administradores") es
+  que tuvieron algo en común: el espíritu para el análisis númerico
+- Es por ello que Schumpeter los considera como econometristas; de
+  hecho, alude a que su trabajo describe a la perfección el trabajo de
+  un econometrista
+  - Petty, Cantillon, Boisguillebert y Turgot entre los más importantes
+
+## Los inicios de la estadística: la aritmética política
+
+- Durante los siglos 17 y 18, especialmente en Alemania, surgió y se
+  popularizó un método de enseñanza que se especializaba en una
+  presentación puramente descriptiva de los hechos relevantes para la
+  administración pública [Conring, Achenwall]
+- Estas estadísticas era primitivas, no guardaban relación con lo que
+  hoy se conoce como métodos estadísticos $\longrightarrow$ presentaban
+  hechos no numéricos principalmente 
+  - sin embargo, el propósito era esencialmente el mismo
+    - "ilustración de las condiciones y prospectos de la sociedad"
+- Pero no fueron los profesores alemanes quien dieron curso e impulso
+  decisivo a estos desarrollos
+
 
 # Sir William Petty [1623-87] {background="#43464B"}
 
@@ -70,13 +121,12 @@ format:
 
 ## Sir William Petty [1623-87]: el primer *influencer*
 
-- Estos cambios se reflejan en muchas dimensiones. El pensamiento
-  económico y político no se mantuvo alejado como muestran los
-  escritos de Petty y Locke
-- Hijo de un sastre pobre en el sur de Inglaterra. Pasó mucho tiempo
-  arriba de barcos con la mala suerte de ser abandonado a su suerte en
-  las costas de Caen (Francia)
-- Fue ahí que tuvo su primera instrucción a cargo de jesuitas. Durante
+- Petty fue un ejemplo arquetípico del *self-made man*. Hijo de un
+ sastre pobre en el sur de Inglaterra, se formó y desempeñó como
+ médico, cirujano, matemático, ingeniero teórico, miembro del
+ Parlamento, servidor público y empresario. 
+- Pasó mucho tiempo arriba de barcos con la mala suerte de ser abandonado a su suerte en
+  las costas de Caen (Francia). Fue ahí que tuvo su primera instrucción a cargo de jesuitas. Durante
   la guerra civil inglesa, huye a Holanda por unos años y conoce a
   Hobbes en París
   - A su regreso a UK, inventó un método para escribir duplicado
@@ -98,6 +148,32 @@ format:
 ## Sir William Petty [1623-87]: el primer *influencer* (cont.)
 
 ![](fig/fig-04-001.png){fig-align="center"}
+
+## Sir William Petty [1623-87]: el primer *influencer* (cont.)
+
+- Casi todos sus escritos fueron motivados por problemas prácticos de
+  su tiempo y país (imposición, dinero, comercio). 
+- Si bien era brillante Schumpeter argumenta que no hubo nada muy
+  original o espectacular en sus comentarios; eran similares a la de
+  la clase de economistas que estaban surgiendo
+- Sus esquemas y articulaciones no era más sofisticadas que las de sus
+  contemporáneanos
+  - Pero hubo algo en que se destacó por encima del resto
+    $\longrightarrow$ tuvo la capacidad de "crear" conceptos y
+    nociones a partir de hechos y los desarrolló mucho más que otros
+  
+## Sir William Petty [1623-87]: el primer *influencer* (cont.)
+
+> Desarrolló el concepto de velocidad de circulación del dinero. 
+
+> Concepto de Ingreso Nacional. No se preocupó por la definición pero
+> reconoció su importancia analítica y sus efectos. Entre él y Quesnay
+> están los inicios del análisis moderno del ingreso y cuentas
+> nacionales
+
+> 'Father and mother'. Destacó (¿descubrió?) los dos factores
+> originales de la producción 
+  
   
 ## Sir William Petty [1623-87]: método y medición
 
@@ -107,8 +183,18 @@ format:
   estadística (econometría), o como se le llamaba entonces, la *aritmética política*
 - Petty adjudicaba gran valor a la **medición cuantitativa** (producto
   de su afinidad con la filosofía *baconiana*)
-- Sus métodos y técnicas fueron rudimentarias y muchos dudaban de la
-  calidad y veracidad de las estadísticas recopiladas por Petty
+- No obstante ello, Petty fue esencialmente un teórico; pero uno cuya
+  definición de hacer ciencia era básicamente enfocarse en medición
+  - en suma, no concebía la teorización aislada de hechos y
+    descripciones; tomó prestado mucho de este procedimiento de las
+    ciencias físicas
+
+## Sir William Petty [1623-87]: método y medición (cont.)
+
+> "By Political Arithmetick we mean the art of reasoning by figures
+> upon things relating to government...The art itself is undoubtedly
+> very ancient...[But Petty] first gave it that name and brought into
+> rules and methods" [Davenant (1698), I, p. 128]
 
 ## Sir William Petty [1623-87]: gastos, impuestos y empleo
 
@@ -227,7 +313,22 @@ format:
 
 - esta es la expresión más cabal de que estuvo increíblemente cerca
   casi 100 años antes de dar una teoría del valor trabajo de las cosas
-  
+
+## Sir William Petty [1623-87]: valor, renta y excedente (cont.)
+
+- Esta idea de relacionar los valores de la tierra (T) y el capital (K)
+  igualando un pedazo de T que produciría *"un día de comida de un
+  hombre adulto"* al día de trabajo de un ese hombre --'natural Par of
+  Land and Labour.
+- Idealmente esto nos daría la unidad de medida a través de la cual
+  reducir las cantidades disponibles de los "dos factores originales",
+  T y K, a una cantidad *homogénea*de 'poder productivo' que pudiera
+  ser expresado en un número y cuya unidad pudiera expresar un
+  estándar de valor tierra-trabajo. 
+- Lamentablemente esto no era una explicación del *fenómeno del valor*, mucho menos
+  una teoría del valor. 
+
+
 ## Sir William Petty [1623-87]: capitalización y el problema del tiempo
 
 - También se interesó por el problema de la capitalización --tiempo,
