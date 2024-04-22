@@ -1,0 +1,169 @@
+---
+title: U4. La economía política. El pensamiento clásico. Malthus, Bentham y Stuart Mill
+subtitle: Historia del Pensamiento y del Análisis Económico
+author: |
+  | **Sebastián Freille**
+  | sfreille@unc.edu.ar
+  | Licenciatura en Economía
+  | FCE-UNC
+format:
+  revealjs:
+    slide-number: true
+    chalkboard:
+      buttons: false
+    preview-links: auto
+    css: ..\quarto.css
+    width: 1500
+    center-title-slide: true
+    center: true
+    tbl-cap-location: bottom	
+    toc: true
+    toc-depth: 1
+    toc-title: Contenidos
+    link-external-newwindow: true
+---
+
+## Teoría del valor: Smith
+
+- Según algunos autores, Smith tenía 3 (tres) teorías alternativas del
+  valor --i.e. precios relativos
+  1. Valor como coste del trabajo
+  2. Valor como la cantidad de trabajo que se puede comprar
+  3. Valor como coste de produccion
+- Según otros autores, Smith se decidió finalmente por una **teoría del
+  valor basada en el coste de producción** --niegan que tuviera un
+  teoría del valor basada en el trabajo
+- Smith creía en definitiva que los **precios relativos** eran
+  determinados por la oferta (costes de producción) aunque no dejó de
+  lado por completo el rol de la demanda
+  
+## Teoría del valor: Smith (cont.)
+
+- Distinguía entre precio natural y precio de mercado. Este último
+  venía determinado a corto plazo tanto por la oferta como la demanda
+- El precio natural (de equilibrio) de largo plazo venía determinado
+  por los costes de producción
+- Distinción importante (¿por primera vez?) entre corto y largo plazo
+- Analiza dos sectores: 1) agricultura, 2) manufacturas
+  - en ambos casos, O con pendiente positiva y D con pendiente
+    negativa
+	
+## Teoría del valor: Smith (cont.)
+
+- El análisis del precio natural es más complicado y contiene algunas
+  contradicciones
+- Para el **caso de la agricultura** $\longrightarrow$ depende la O y
+  D porque la curva de O a largo plazo tiene pendiente positiva
+  (costes crecientes)
+- Para el **caso de la manufactura** $\longrightarrow$ el precio a
+  largo plazo depende sólo de la O (costos constantes) y en un caso
+  especial de la demanda: cuando la O tiene costos decrecients 
+  
+## Teoría del valor: Smith (cont.)
+
+- A pesar de algunas de estas contradicciones el énfasis en la
+  determinación del precio natural está puesto en los costes de
+  producción y no en la demanda
+- Smith se preocupó por los precios relativos por razones distintas a
+  los mercantilistas y los escolasticos $\longrightarrow$ su modelo
+  implicaba alguna forma de especialización, el intercambio se vuelve
+  necesario 
+  - a partir de ello identificó 3 problemas: 1) cuestión del medio de
+    cambio; 2) cuestión del valor; 3) cuestión de la distribución (del Y)
+
+
+## Teoría del valor: Smith (cont.)
+
+- Distinguió entre *valor de uso* y *valor de cambio*.
+  - El primero expresa la utilidad de un objeto
+  - El segundo el poder de compra de otros bienes
+- El valor de cambio es el poder de compra de otros bienes, es decir,
+  su precio. 
+- Smith sólo considera la *utilidad total* (y no la marginal) por eso
+  dice que el agua (alto valor de uso) tiene mayor utilidad total que
+  los diamantes (bajo valor de uso)
+  - pero la UM del agua está en función de la cantidad que se consume,
+    posibilidad de que una (o varias) unidades mas de aguas tuvieran
+    *menor* UM que otra de diamantes. 
+- No pudo pues encontrar una solución y/o explicación a la paradoja
+  del agua y los diamantes
+
+  
+## Teoría del valor: coste de trabajo
+
+- La desarrolló para el estado primitivo de la sociedad --precede a la
+  acumulación de T, como de K. 
+  - en una economía sin T ni K, entonces el valor de cambio (precio)
+    de un bien depende de la cantidad de L necesario para producirlo
+- ¿Cómo se mide la *cantidad de trabajo*
+  - ejemplo: Jones y Brown trabajan sin K y T es libre. En una hora:
+	- Jones produce 1 (una) unidad de producto final
+	- Brown produce 2 (dos) unidades de producto final
+- Reconoció que la cantida de L no puede sólo medirse en horas reloj
+  (diferencias de productividad, insalubridad, etc)
+  
+## Teoría del valor: coste de trabajo
+
+- El problema era: si la cantidad de L es función de *más de una
+  variable* debemos encontrar la forma de determinar la importancia
+  relativa de cada variable. Suponga:
+  
+|        | Tiempo  | Dificultad | Ingenio |
+|--------|---------|------------|---------|
+| Bien A | 1 hora  | X          | 2Y      |
+| Bien B | 2 horas | 2X         | Y       |
+
+- Smith logró resolver el problema de reducir tiempp, ingenio y
+dificultad a un denominador común $\longrightarrow$ las diferencias de
+tiempo, ingenio y dificultad reflejadas en diferencias de salario
+pagadas
+
+## Teoría del valor: coste de trabajo (cont.)
+
+- Por ejemplo, si Brown recibe 2 dolares por hora y Jones 1 dolar por
+  hora, esa diferencia salarial debía reflejar diferencias de
+  cualificacion (dificultad) e ingenio
+- Como puede verse, no puede dar una solución, sino que replantea el
+  problema
+- O sea, explica el precio relativo...diciendo que dependen del
+  salario pero el salario es un precio mas!
+  - por ende, el salario pagado al trabajador es una *medida* de las
+    cantidades relativas de tiempo, dificultad e ingenio necesarias
+    para producir un bien, estaba diciendo que un bien tiene un valor
+    acorde con los salarios pagados al trabajo no acorde con la
+    cantidad de trabajo contenida en el bien!
+	
+	
+## Teoría del valor: cantidad de trabajo que se puede comprar
+	
+- En este caso, el valor de un bien para los que lo poseen y que
+  quieren intercambiarlo por algunos nuevos bienes es exactamente
+  igual a la cantidad de trabajo que pueden comprar o de la que pueden
+  disponer
+- Si se necesitan 2 horas para cazar 1 (un) castor o 2 (dos) ciervos,
+  2 (dos) ciervos serán iguales a 1 (un) castor en el mercado, es
+  decir, $1Ca=2Ci$
+  
+## Teoría del valor: como coste de producción
+
+- Aquí ya supone que la economía es avanzada --acumulación de T y
+  K. El precio final de un bien debe incluir los rendimientos del
+  capitalista (beneficios) y los del terrateniente (renta). 
+- Precios finales formados por pagos a factores: salarios, beneficios
+  y renta
+
+## Teoría del valor: como coste de producción (cont.)
+
+- Lo más que pudo hacer fue una teoría del valor basada en el coste de
+  producción: el valor de un bien depende de los pagos a todos los
+  factores de producción
+  - Coste total de producir un castor: $CT_{CA}=W_{CA}+P_{CA}+R_{CA}$
+  - Coste total de producir un ciervo: $CT_{CI}=W_{CI}+P_{CI}+R_{CI}$
+- Precio relativo de CA y CI es $\longrightarrow$
+  $\frac{CT_{CA}}{CT_{CI}}$
+- Sostuvo siempre que cuando hay competencia, los intereses personales
+  del hombre de negocios, el trabajador  y el terrateniente dan como
+  resultado precios naturales que son iguales al coste de produccion
+  
+  
+

@@ -25,6 +25,26 @@ format:
 
 # Temas centrales de la economía clásica: utilidad, población y dinero {background="#43464B"}
 
+# Población, rendimientos, salarios y empleo
+
+- El problema de qué determina el tamaño de la población y las
+  consecuencias que siguen al aumento (disminución) de la misma
+  resulta relevante desde un punto de vista científico --muchos
+  procesos históricos encuentran su génesis en la variación de las
+  poblaciones
+- Sería razonable que los primeros autores se preocuparan pues por
+  estos temas. 
+- Pero había una razón práctica para su estudio $\longrightarrow$ hasta fines del siglo XVI el problema de la población era uno de
+  *sobre-población* presente (o potencial) y no el contrario de sub-población
+  - esto cambió radicalmente en los siglos XVII y XVIII y el problema
+    pasó a ser de sub-población
+  
+
+# Población, rendimientos, salarios y empleo
+
+- 
+
+
 # El interés individual y el utilitarismo {background="#43464B"}
 
 ## El interés individual y el utilitarismo
