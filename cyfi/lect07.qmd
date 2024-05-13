@@ -1,0 +1,214 @@
+---
+title: U6. Balanza de pagos. El mercado de divisas. Tipo de cambio 
+subtitle: Comercio y Finanzas Internacionales [UCC]
+author: |
+  | **Sebastián Freille**
+  | 0933217@ucc.edu.ar
+  | Licenciatura en Ciencia Política y Licenciatura en RRII
+  | FCPyRRII - UCC
+format:
+  revealjs:
+    slide-number: true
+    chalkboard:
+      buttons: false
+    preview-links: auto
+    css: ..\quarto.css
+    width: 1500
+    center-title-slide: true
+    center: true
+    tbl-cap-location: bottom
+    toc: true
+    toc-depth: 1
+    toc-title: Contenidos
+---
+
+# La contabilidad nacional {background="#43464B"}
+
+## Un cambio de enfoque
+
+- Hasta ahora en la materia hemos privilegiado un **enfoque
+  microeconómico** $\longrightarrow$ utilización eficiente de
+  recursos, ganancias de bienestar (Pareto), y efectos distributivos
+- Nos enfocamos ahora en los grandes agregados de la economía, es
+  decir, privilegiamos un **enfoque macroeconómico**
+  - ¿qué determina que los recursos estén en pleno empleo? ¿cómo se
+    determina el nivel de ingreso y las variaciones del mismo? ¿cómo
+    se determinan las tasa de interés? ¿qué impacto tienen los tipos
+    de cambio?
+- No se analizan ya al nivel de las decisiones individuales sino al
+  nivel de los grandes agregados
+
+## Cuatro grandes problemas
+
+- Existen (al menos) cuatro grandes temas de los que se preocupa el
+  análisis macroeconómico
+  1. Desempleo $\longrightarrow$ factores que causan el desempleo y
+     medidas de política para prevenirlo
+  2. Ahorro $\longrightarrow$ la economía internacional ofrece una
+     nueva dimensión para el ahorro y/o endeudamiento
+  3. Desequilibrios comerciales $\longrightarrow$ rara vez sucede que
+     las exportaciones e importaciones de un país están balanceadas
+     --esto tiene implicancias importantes
+  4. Dinero y nivel de $P$ $\longrightarrow$ hasta ahora hemos
+     supuesto (implícitamente) una economía de trueqe --precios
+     relativos (no monetarios). Hay 2 (dos) aspectos nuevos: 1)
+     introducción de dinero; 2) cambio de monedas
+
+## Contabilidad nacional en economía abierta
+
+- Si no hay comercio exterior toda el ingreso nacional debe ser
+  generada a través del consumo interno, $C$, la inversión, $I$ y el
+  gasto público, $G$
+- Si hay comercio exterior, un parte del producto interno es destina a
+  exportaciones y una parte del ingreso interno se gasta en
+  importaciones
+- Es importante analizar ciertas relaciones entre el ahorro nacional,
+  la inversión y los desequilibrios comerciales 
+  - en economía abierta, no hay necesidad de que coincidan el ahorro
+    nacional y la inversión --países pueden ahorrar (si $X>M$) o
+    desahorrar (si $X<M$)
+
+## Identidad nacional en economía abierta
+
+- En economía cerrada, cualquier bien que no sea adquirido por
+  consumidores o por gobierno, debe ser utilizado por empresas como
+  gasto de inversion. Esto es, el **producto nacional bruto, PNB** es:
+  
+\begin{equation}
+Y=C+I+G
+\end{equation}
+
+- Las importaciones $M$ de otros países no forman parte del PNB; las
+  exportaciones $X$ que se vende a extranjeros son gastos en nuestros bienes y añaden al PNB
+
+\begin{equation}
+Y=C+I+G+X-N
+\end{equation}
+
+## Identidad nacional en economía abierta (cont.)
+
+> El ingreso nacional de una economía abierta es la suma del gasto
+> efectuado por los residentes y no residentes en bienes y servicios
+> producidos por los factores de producción nacionales
+
+## Identidad nacional: ejemplo
+
+- Suponga una economía, Campestre, que produce sólo trigo. Cada
+  ciudadano es consumidor ($C$) y productor ($I$); además hay un
+  gobierno ($G$) que toma parte del trigo para alimentar al
+  ejército. Cosecha anual es igual a 100 kgs
+- Campestre puede importar ($M$) leche a cambio de exportar trigo
+  --supongamos que el precio de un litro de leche es igual a 0.5kg de
+  trigo y que a ese precio ciudadanos de Campestre desean consumir 40
+  litros de leche (equivalentes a 20kg de trigo)
+- Puede ponerse esta información en una tabla suponiendo que se
+  consume 55 kgs de trigo y 40 litros de leche
+
+## Identidad nacional: ejemplo (cont.)
+
+
+| PNB 	| = 	| C  	| + 	| I  	| + 	| G  	| + 	| X  	| - 	| M  	|
+|-----	|---	|----	|---	|----	|---	|----	|---	|----	|---	|----	|
+| 100 	| = 	| 75 	| + 	| 25 	| + 	| 10 	| + 	| 10 	| - 	| 20 	|
+
+- Note que 55kgs de trigo + 40lts de leche (equivalentes a 20kgs
+  de trigo) resulta en $C=75$, $I=25$, $G=10$, $X=10$, y $M=20$
+  - ¿por qué el $C$ es 75? 
+- En este caso usando la fórmula anterior, quedaría que el gasto
+  doméstico ($C+I+G$) es igual a 110, si restamos 20 de $M$ y sumamos
+  10 de $X$ el gasto total es igual al $PNB$
+
+## Balanza de cuenta corriente (CC)
+
+- La balanza de cuenta corriente o simplemente cuenta corriente es la
+  **diferencia entre las $X$ e $M$ de bienes y servicios** --si $X>M$
+  hay *superávit de CC*; SI $X<M$ hay *déficit de CC*
+- La CC es relevante porque mide la magnitud y sentido del
+  endeudamiento externo $\longrightarrow$ si compro más de lo que
+  vendo al exterior tendré que financiar ese déficit de CC
+  -esto implica a **aumentar el endeudamiento exterior neto** en la
+  magnitud del déficit de CC
+- En resumen, **la balanza de cuenta corriente (CC) iguala a la
+  variación del nivel de riqueza exterior neta de un país*
+
+## Balanza de cuenta corriente (CC) (cont.)
+
+- Podemos expresar esto:
+
+\begin{equation}
+Y-(C+I+G)=X-M=CC
+\end{equation}
+
+> Un país con *déficit de CC* importa consumo presente y exporta
+> consumo futuro. Un país con *superavit de CC* exporta consumo
+> presente e importa consumo futuro
+
+## Balanza de cuenta corriente (CC) (cont.)
+
+- Volviendo al ejemplo de Campestre, el valor de su absorción nacional
+  ($C+I+G$) es mayor a
+  su PNB; esto sería imposible en economía cerrada. En economía
+  abierta es posible porque el país se endeuda con el extranjero
+  $\longrightarrow$ $X=10$ y $M=20$ por lo que tiene un déficit de CC
+  igual $X-M=-10$
+- Podemos ahora relacionar el ahorro con la cuenta corriente
+
+## Ahorro y CC
+
+- El **ahorro nacional, $S$** es la parte del PNB que no es ni $C$ ni $G$
+  --en economía cerrada *ahorro nacional es siempre igual a
+  inversión*. Teniendo en cuenta que $I=Y-C-G$:
+
+\begin{align}
+S&=Y-C-G \\
+S&=I \\
+\end{align}
+
+- En una economía abierta, $S$ puede diferir $I$ --existe ahorro (desahorro) externo
+
+\begin{equation}
+S=I+CC
+\end{equation}
+
+## Ahorro y CC (cont.)
+
+- Note una diferencia importante $\longrightarrow$ una economía
+  abierta puede ahorrar no sólo con acumulación de capital sino
+  también con adquisición de riqueza externa
+- Es decir los países no necesariamente tienen que aumentar su ahorro
+  para financiar un gasto de inversión $\longrightarrow$ podrían
+  importar desde otro país (crédito)
+  - esto aumentará la $I$ en el país pero también su endeudamiento
+    (vía un aumento del déficit de CC)
+- Note que esto es posible en la medida que haya ahorro dispuesto a
+  ser prestado a otro país
+  - un país importa consumo presente (se endeuda con otro) y exporta
+    consumo futuro (cuando devuelva el prestamo)
+	
+## Ahorro público y privado
+
+- El **ahorro privado, $S^{P}$** es la parte del $Y$ que se ahorra. El
+  **ahorro público, $S^{G}$** es los ingresos menos los gastos del
+  gobierno
+
+\begin{align}
+S^{P}&=Y-T-C \\
+S^{G}&=T-G \\
+S&=Y-C-G=(Y-T-C)+(T-G)=S^{P}+S^{G} \\
+S^{P}&=I+CC-S^{G}=I+CC-(T-G)=I+CC+(G-T)
+\end{align}
+
+- El ahorro privado de un país puede adoptar 3 formas: 1) inversión
+  en $K$ nacional, $I$; 2) adquisición de riqueza exterior, $CC$;
+  y 3) compra deuda pública, $G-T$ 
+  
+## Ahorro público y privado (cont.)
+
+> En otras palabras, el ahorro de los residentes privados de un país
+> puede ser destinado al financiamiento de tres elementos. En primer
+> lugar, de la inversión doméstica (empresas). En segundo lugar, de
+> países que nos vendan a nuestro país menos de lo que le vendemos a
+> ellos (cuenta corriente). En tercer lugar, del sector público a
+> través de comprarle bonos y crédito público (gobierno). 
+
+# Contabilidad de la balanza de pagos {background="#43464B"}
