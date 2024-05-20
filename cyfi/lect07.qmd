@@ -212,3 +212,127 @@ S^{P}&=I+CC-S^{G}=I+CC-(T-G)=I+CC+(G-T)
 > través de comprarle bonos y crédito público (gobierno). 
 
 # Contabilidad de la balanza de pagos {background="#43464B"}
+
+## La balanza de pagos
+
+- La **balanza de pagos** es un registro detallado de la composición
+  de la balanza por cuenta corriente y las diferentes transacciones
+  que la financian
+- Su interpretación se presta a bastante confusión --¿déficit de
+  balanza de pagos es bueno o malo? ¿Superávit de cuenta corriente es
+  bueno o malo? ¿Qué significa una salida de divisas?
+  - En otras palabras, las cuentas de la BP representan pagos e
+    ingresos procedentes del exterior
+	- **Crédito** $\longrightarrow$ ingreso procendente del exterior
+	- **Débito** $\longrightarrow$ pago/egreso al exterior
+   
+
+## La balanza de pagos (cont.)
+
+- Se registran 3 (tres) tipos de transacciones
+  1. Aquellas que surgen por $X$ e $M$ de bienes y servicios (ingresan
+     directamente en $CC$) --un consumidor brasilero compra zapatillas
+     argentinas, es un **crédito en $CC$ de Argentina**
+  2. Aquellas que surgen por compra y venta de activos financieros
+     --si una empresa argentina compra un fábrica brasilera se
+     registra como un **débito en $CF$ de Argentina** [requiere un
+     pago de Argentina al exterior]
+  3. Aquellas que implican transferencia de riqueza entre países --se
+     registran en **cuenta capital** [son generalmente marginales,
+     muchas veces intangibles]
+ 
+## La balanza de pagos (cont.)
+
+> **Principio de partida doble.** Toda transacción internacional se
+> registra 2 (dos) veces en la balanza de pagos, una como un crédito y
+> otra como un débito. Esto refleja el hecho de que cualquier
+> transacción tiene 2 (dos) lados: si compramos un bien a un proveedor
+> no residente debemos pagarle y este proveedor deberá gastar ese
+> dinero o ahorrarlo
+
+ 
+## La balanza de pagos: ejemplos
+
+- Un residente (empresa, persona) de Argentina compra una máquina de fax a Brasil y paga con un cheque
+  por $1000 pesos. Se registra como **débito en CC** (bienes) y como **crédito
+  en CF** [un banco de Argentina ha vendido un activo financiero al
+  proveedor Brasilero]
+
+| Tipo                                      | Crédito | Débito |
+|-------------------------------------------|---------|--------|
+| Compra maquina fax [CC/ARG/M bien]        |         | 1000   |
+| Venta depósito bancario [CF/ARG/X activo] | 1000    |        |
+ 
+   
+## La balanza de pagos: ejemplos (cont.)
+
+- Un residente (empresa, persona) de Argentina viaja a Brasil y sale a
+  cenar por $200 pesos pagando con tarjeta de crédito. Se registra
+  como **débito en CC**(servicios) y como **crédito en CF** [el
+  restaurant tiene un derecho de cobro ante la empresa de tarjeta de
+  crédito; crédito en cuenta de capital de EEUU]
+
+| Tipo                                      | Crédito | Débito |
+|-------------------------------------------|---------|--------|
+| Cena en restaurante [CC/ARG/M servicio]   |         | 200    |
+| Venta derecho de cobro [CF/ARG/X activo]  | 200     |        |
+ 
+   
+## La balanza de pagos: ejemplos (cont.)
+
+- Un residente (empresa, persona) de Argentina compra una acción de
+  Petrobrás (PBR) y paga con un cheque. Se registra
+  como **débito en CF**(activos) y como **crédito en CF** [Petrobrás
+  ha incrementado su tenencia de activos argentinos]
+
+| Tipo                                      | Crédito | Débito |
+|-------------------------------------------|---------|--------|
+| Compra de acción de PBR [CF/ARG/M activos]|         | 95     |
+| Deposito pago en bancoo [CF/ARG/X activos]| 95      |        |
+ 
+## La balanza de pagos: identidad fundamental
+
+- Recuerde que cualquier transacción internacional da lugar a dos
+  entradas que se compensan en la BP, los saldos por balanza de CC, CF
+  y CK deben dar igual a cero
+
+\begin{equation}
+CC+CK=CF
+\end{equation}
+
+- Verifique que se cumpla esto en los ejemplos anteriors --[se cumple]
+
+## La balanza de pagos: identidad fundamental (cont.)
+
+> Dado que la suma de las balanzas de CC y CK es la variación total de
+> la riqueza exterior neta de un país, esa suma debe ser
+> necesariamente igual a la diferencia entre las importaciones de
+> activos de un país extranjero y sus exportaciones de activos --es
+> decir, el saldo de la CF. Es decir hay una relación directa entre la
+> CC y el crédito (endeudamiento) externo
+
+## La balanza de pagos: en la práctica
+
+- La $CC$ divide las $X$ e $M$ en tres categorías
+  1. De bienes (soja, alimentos, vestimenta)
+  2. De servicios (asistencia legal y medica, gastos turistas)
+  3. De rentas (intereses, dividendos, salarios trabajo remoto, repatriacion)
+- Tambien existe cuenta de transferencias unilaterales --incluye
+  donaciones sin contraprestacion alguna; también algun tipo de ayuda
+
+## La balanza de pagos: en la práctica (cont.)
+
+![](fig/fig-05-017.png){fig-align="center"}
+
+## La balanza de pagos: en la práctica
+
+- La $CF$ mide la diferencia entre adquisiciones de activos de los
+  extranjeros y la acumulacion de pasivos 
+- Recuerde que cuando Argentina toma deuda de no residentes en
+  realidad venden un activo a no residentes (una promesa de pago); de
+  la misma forma cuando Argentina presta a residentes extranjeros está
+  comprando un activo (derecho a cobro)
+
+## La balanza de pagos: en la práctica (cont.)
+
+![](fig/fig-05-018.png){fig-align="center"}
