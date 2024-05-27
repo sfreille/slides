@@ -1,0 +1,73 @@
+---
+title: U6. Balanza de pagos. El mercado de divisas. Tipo de cambio 
+subtitle: Comercio y Finanzas Internacionales [UCC]
+author: |
+  | **Sebastián Freille**
+  | 0933217@ucc.edu.ar
+  | Licenciatura en Ciencia Política y Licenciatura en RRII
+  | FCPyRRII - UCC
+format:
+  revealjs:
+    slide-number: true
+    chalkboard:
+      buttons: false
+    preview-links: auto
+    css: ..\quarto.css
+    width: 1500
+    center-title-slide: true
+    center: true
+    tbl-cap-location: bottom
+    toc: true
+    toc-depth: 1
+    toc-title: Contenidos
+---
+
+# Tipos de cambio y mercado de divisas {background="#43464B"}
+
+## Precios nacionales y extranjeros
+
+## Tipo de cambio y rentabilidad de los activos
+
+- Las tasas de interés ofrecidos por depositos (activos) en pesos y en
+  reales nos dicen cómo variará su valor en pesos o en reales
+- Pero para saber qué nos conviene como inversores, debemos además
+  tener en cuenta el tipo de cambio --o mejor dicho, **la variación
+  del tipo de cambio**
+- En otras palabras, lo que queremos saber es si utilizamos pesos para
+  adquidir un activo en reales cuántos pesos tendremos al cabo de un
+  año
+  
+## Tipo de cambio y rentabilidad de los activos (cont.)
+
+> De esta manera estamos calculando y comparando
+> correctamente. Habremos calculado *la tasa de rentabilidad en pesos*
+> de un depósito bancario en reales. Es decir, habremos comparado el
+> precio en pesos de hoy con su precio en pesos dentro de un año
+
+## Tipo de cambio y rentabilidad de los activos (cont.)
+
+- Supongamos dos depósitos, uno en pesos al $10%$ anual, uno en reales
+  al $5%$ anual. 
+- Suponemos además que el tipo de cambio hoy es de $1.10$ (pesos por
+  real) y se prevee
+  que será $1.165$ (pesos por real) de acá a un año
+- ¿Qué inversión será la más rentable?
+
+## Tipo de cambio y rentabilidad de los activos (cont.)
+
+1. Precio en pesos de un deposito en reales es igual a $1.1$ [HOY]
+2. Deposito en reales valdrá $1.05$ euros [MAÑANA]
+3. Precio en pesos de un deposito en reales es igual a $1.223$ dólares
+   [MAÑANA]
+4. Tasa de rentabilidad de depósito en reales igual a $11%$ y tasa de
+   rentabilidad de depósito en pesos igual a $10%$
+5. La inversión más rentable consisten en depositar en euros
+
+## Tipo de cambio y rentabilidad de los activos (cont.)
+ 
+\begin{equation}
+R_{$}=R_{re}+\frac{(E^{e}_{$,re}-E_{$,re}){E_{$,re}}
+\end{equation}
+
+
+
