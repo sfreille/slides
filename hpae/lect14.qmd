@@ -56,8 +56,8 @@ format:
 
 - Varias razones confluyen para surgimiento de interes por
   macroeconomía
-  - Marcha de los acontecimientos económicos --ciclo de crédito 1920s,
-    crisis de 1929
+  - Marcha de acontecimientos económicos --ciclo de crédito 1920s,
+    crisis 1929
   - Revolución de la estadística liderada por Clark y Kuznets
   - Experiencia, intereses y situaciones personales (Hayek y los
     efectos de la inflación sobre Viena)
@@ -145,7 +145,7 @@ format:
   - consideraban que el equilibrio de PE era el estado normal de los
     mercados (norma) y que las fluctuaciones eran la excepción
 	
-# Período I: la escuela clásica (cont.)
+## Período I: la escuela clásica (cont.)
 
 - La macroeconomía de la escuela clásica puede resumirse en la
   interacción de 3 (tres) elementos centrales: 
@@ -159,7 +159,7 @@ format:
   - $Y$ es una función de $L$, $K$ y $A$ (productividad) y hay una
     relación directa entre $L$ y $Y$
 		
-# Período I: la escuela clásica (cont.)
+## Período I: la escuela clásica (cont.)
 
 - Nivel de empleo se determina a partir de igual el costo marginal de
   emplear unidades adicionales de $L$ y del ingreso marginal. Es
@@ -172,7 +172,7 @@ format:
   los clásicos debía bajarse el salario nominal
   
 
-# Período I: la escuela clásica (cont.)
+## Período I: la escuela clásica (cont.)
 
 - Tasa de interés natural equilibra ahorro e inversión
   reales. Suponiendo 2 (dos) sectores --hogares y empresas-, tenemos
@@ -185,7 +185,7 @@ Y-C(r)&=S(r)
 
 - todas las variables son función de la tasa de interés real
 
-# Período I: la escuela clásica (cont.)
+## Período I: la escuela clásica (cont.)
 
 - El modelo se cerraba con la ecuación cuantitativa del dinero que en
   formulación de Marshall era
@@ -196,7 +196,7 @@ M=kPY
 
 - donde $k$ es la inversa de la velocidad de circulacion
 
-# Período I: la escuela clásica (cont.)
+## Período I: la escuela clásica (cont.)
 
 - El "modelo macroeconómico clásico" implicaba un resultado muy
   importante $\longrightarro$ **dicotomía clásica entre sector real y
@@ -205,4 +205,41 @@ M=kPY
     equilibrio de las variables reales
 - Y de aquí se deriva el famoso postulado sobre la neutralidad del
   dinero en la economía clásica
-  
+ 
+## Período I: la macroeconomía keynesiana
+
+- Para Keynes, $Y$ depende del volumen de $L$ pero es posible la
+  existencia de desempleo involuntario en el equilibrio
+- Una diferencia clave entre clasicos y keynesianos era el mecanismo
+  de ajuste $\longrightarrow$ para los clásicos el ajuste se daba por
+  precios, para keynesianos por cantidades
+- Principal elemento innovador en la teoría keynesiana
+  $\longrightarrow$ introducción del concepto de **demanda efectiva**
+
+## Período I: la macroeconomía keynesiana (cont.)
+
+> El principio de la demanda efectiva estable que en una economía
+> cerrada con capacidad ociosa, el nivel de ingreso, $Y$ (y por tanto
+> el nivel de empleo) viene determinado por el gasto agregado
+> planeado, $E$, que consiste de dos componenetes, el gasto de consumo
+> de los hogares, $C$ y el gasto de inversión de las empresas, $I$. 
+
+## Período I: la macroeconomía keynesiana (cont.)
+
+- Por tanto:
+
+\begin{equation}
+E=C+I 
+\end{equation}
+
+- Note la gran diferencia $\longrightarrow$ en modelo keynesiano $C$
+  es endógeno (depende de $Y$), y la inversión depende de la
+  rentabilidad esperada de la inversión y la tasa de interés que
+  representa el costo de pedir prestado fondos --i.e eficiencia
+  marginal del capital
+  - Keynes era bastante escéptico sobre el rol que la tasa de interés
+    tenía sobre $I$ --incertidumbre, expectativas
+
+## Período I: la macroeconomía keynesiana (cont.)
+
+- 
