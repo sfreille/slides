@@ -1,0 +1,610 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+  ignorenonframetext,
+]{beamer}
+\usepackage{pgfpages}
+\setbeamertemplate{caption}[numbered]
+\setbeamertemplate{caption label separator}{: }
+\setbeamercolor{caption name}{fg=normal text.fg}
+\beamertemplatenavigationsymbolsempty
+% Prevent slide breaks in the middle of a paragraph
+\widowpenalties 1 10000
+\raggedbottom
+\setbeamertemplate{part page}{
+  \centering
+  \begin{beamercolorbox}[sep=16pt,center]{part title}
+    \usebeamerfont{part title}\insertpart\par
+  \end{beamercolorbox}
+}
+\setbeamertemplate{section page}{
+  \centering
+  \begin{beamercolorbox}[sep=12pt,center]{part title}
+    \usebeamerfont{section title}\insertsection\par
+  \end{beamercolorbox}
+}
+\setbeamertemplate{subsection page}{
+  \centering
+  \begin{beamercolorbox}[sep=8pt,center]{part title}
+    \usebeamerfont{subsection title}\insertsubsection\par
+  \end{beamercolorbox}
+}
+\AtBeginPart{
+  \frame{\partpage}
+}
+\AtBeginSection{
+  \ifbibliography
+  \else
+    \frame{\sectionpage}
+  \fi
+}
+\AtBeginSubsection{
+  \frame{\subsectionpage}
+}
+
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\newif\ifbibliography
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+\usepackage{caption}
+% Make caption package work with longtable
+\makeatletter
+\def\fnum@table{\tablename~\thetable}
+\makeatother
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\makeatletter
+\makeatother
+\makeatletter
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\AtBeginDocument{%
+\ifdefined\contentsname
+  \renewcommand*\contentsname{Table of contents}
+\else
+  \newcommand\contentsname{Table of contents}
+\fi
+\ifdefined\listfigurename
+  \renewcommand*\listfigurename{List of Figures}
+\else
+  \newcommand\listfigurename{List of Figures}
+\fi
+\ifdefined\listtablename
+  \renewcommand*\listtablename{List of Tables}
+\else
+  \newcommand\listtablename{List of Tables}
+\fi
+\ifdefined\figurename
+  \renewcommand*\figurename{Figure}
+\else
+  \newcommand\figurename{Figure}
+\fi
+\ifdefined\tablename
+  \renewcommand*\tablename{Table}
+\else
+  \newcommand\tablename{Table}
+\fi
+}
+\@ifpackageloaded{float}{}{\usepackage{float}}
+\floatstyle{ruled}
+\@ifundefined{c@chapter}{\newfloat{codelisting}{h}{lop}}{\newfloat{codelisting}{h}{lop}[chapter]}
+\floatname{codelisting}{Listing}
+\newcommand*\listoflistings{\listof{codelisting}{List of Listings}}
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\@ifpackageloaded{subcaption}{}{\usepackage{subcaption}}
+\makeatother
+\makeatletter
+\@ifpackageloaded{tcolorbox}{}{\usepackage[many]{tcolorbox}}
+\makeatother
+\makeatletter
+\@ifundefined{shadecolor}{\definecolor{shadecolor}{rgb}{.97, .97, .97}}
+\makeatother
+\makeatletter
+\makeatother
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={U8. El nacimiento de la macroeconomía},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{U8. El nacimiento de la macroeconomía}
+\subtitle{Historia del Pensamiento y del Análisis Económico}
+\author{\textbf{Sebastián Freille}\\
+sfreille@unc.edu.ar\\
+Licenciatura en Economía\\
+FCE-UNC}
+\date{}
+
+\begin{document}
+\frame{\titlepage}
+\ifdefined\Shaded\renewenvironment{Shaded}{\begin{tcolorbox}[sharp corners, interior hidden, borderline west={3pt}{0pt}{shadecolor}, enhanced, breakable, frame hidden, boxrule=0pt]}{\end{tcolorbox}}\fi
+
+\hypertarget{el-siglo-xx-nacimiento-desarrollo-y-evoluciuxf3n-de-la-macroeconomuxeda}{%
+\section{El siglo XX: nacimiento, desarrollo y evolución de la
+macroeconomía}\label{el-siglo-xx-nacimiento-desarrollo-y-evoluciuxf3n-de-la-macroeconomuxeda}}
+
+\begin{frame}{Contexto}
+\protect\hypertarget{contexto}{}
+\begin{itemize}
+\tightlist
+\item
+  El nacimiento de la macroeconomía como campo específico de la economía
+  se da en la década de 1930s con la publicación de dos obras
+  fundamentales del que es por muchos considerado la figura económica
+  más importante del siglo XX, John Maynard Keynes
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \emph{``Tratado sobre el Dinero''} (1930)
+  \item
+    \emph{``Teoría General de la Ocupación, el Interés y el Dinero''}
+    (1936)
+  \end{itemize}
+\item
+  Ambos libros revelan el principal interés y objetivo de Keynes
+  \(\longrightarrow\) explicar las fluctuaciones en el producto y empleo
+  que caracterizan al ciclo económico.
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Contexto (cont.)}
+\protect\hypertarget{contexto-cont.}{}
+\begin{quote}
+He llamado a este libro \emph{Teoría general de la ocupación, el interés
+y el dinero}, recalcando el sufijo \emph{general}, con objeto de que el
+título sirva para contrastar mis argumentos y conclusiones con los de la
+teoría \emph{clásica}\ldots{} \ldots Sostendré que los postulados de la
+teoría clásica sólo son aplicables a un caso especial, y no en general,
+porque las condiciones que supone son un caso extremo de todas las
+posiciones posibles de equilibrio. Mas aún, las características del caso
+especial supuesto por la teoría clásica no son las de la sociedad
+económica en que hoy vivimos, razón por la que sus enseñanzas engañan y
+son desastrosas si intentamos aplicarlas a los hechos reales. {[}Keynes,
+J.M. (1936), \textbf{Teoría general de la ocupación, el interés y el
+dinero}, pp.~15{]}
+\end{quote}
+\end{frame}
+
+\begin{frame}{Contexto (cont.)}
+\protect\hypertarget{contexto-cont.-1}{}
+\begin{itemize}
+\tightlist
+\item
+  Varias razones confluyen para surgimiento de interes por macroeconomía
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Marcha de acontecimientos económicos --ciclo de crédito 1920s,
+    crisis 1929
+  \item
+    Revolución de la estadística liderada por Clark y Kuznets
+  \item
+    Experiencia, intereses y situaciones personales (Hayek y los efectos
+    de la inflación sobre Viena)
+  \end{itemize}
+\item
+  ¿Existían ideas y análisis macroeconómico antes de Keynes?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Tradiciones de pensamiento que se ocuparon de cuestiones que hoy
+    consideramos parte de la macroeconomía
+
+    \begin{itemize}
+    \tightlist
+    \item
+      ciclos de negocios (Jevons, Juglar, Mitchell)
+    \item
+      teoría monetaria (Hume, Thornton, Ricardo, Wicksell y Fisher)
+    \end{itemize}
+  \end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Contexto (cont.)}
+\protect\hypertarget{contexto-cont.-2}{}
+\begin{itemize}
+\tightlist
+\item
+  Cierta idea de que la macroeconomía se desarrolla por una serie de
+  batallas, revoluciones y contrarrevoluciones
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Blanchard (2000) argumenta que en realidad ha sido un proceso de
+    acumulación de conocimiento estable
+  \end{itemize}
+\item
+  Propone la siguiente periodización
+
+  \begin{enumerate}
+  \tightlist
+  \item
+    Pre-1940: período de exploración
+  \item
+    De 1940 a 1980: período de consolidacio´n
+  \item
+    Post-1980: nuevo período de exploración
+  \end{enumerate}
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Períodos}
+\protect\hypertarget{peruxedodos}{}
+\begin{itemize}
+\tightlist
+\item
+  Enfoque casi exclusivamente de corto plazo. Dominado por estudio de 2
+  (dos) campos paralelos: 1) teoría monetaria; 2) teoría del ciclo
+  económico.
+\item
+  Durante mucho tiempo estos dos campos aislados con distinto grado de
+  desarrollo
+\item
+  Contribuciones metodológicas de 1920s/1930s (Keynes) permiten avanzar
+  en la integración de ambos campos
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Períodos (cont.)}
+\protect\hypertarget{peruxedodos-cont.}{}
+\begin{itemize}
+\tightlist
+\item
+  Se desarrolla conceptual, analítica y esquemáticamente el modelo
+  keynesiano a partir de la formulación IS-LM (Hicks-Hansen)
+\item
+  Paradigma útil como estándar unificado de la teoría macroeconómica y
+  lo suficientemente flexible como para incorporar extensiones y
+  ampliaciones (curva de Phillips, ER, relaciones comportamentales)
+\item
+  Este período culmina con el desarrollo e incorporación de fundamentos
+  microeconómicos
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Períodos (cont.)}
+\protect\hypertarget{peruxedodos-cont.-1}{}
+\begin{itemize}
+\tightlist
+\item
+  Nuevo período de exploración que cuestiona radicalmente algunas de las
+  cuasi-verdades de la ortodoxia reinante
+\item
+  Las dos principales rupturas con esa ortodoxia macroeconómica fueron
+
+  \begin{itemize}
+  \tightlist
+  \item
+    idea de que los ciclos económicos provocados por perturbaciones de
+    demanda son siempre indeseables y de que la economía regresaría a
+    una situación de tasa natural
+  \item
+    idea de que las interacciones económicas de los agentes económicos
+    ocurren principalmente en entornos de competencia e información
+    perfecta en los mercados de bienes, trabajo y crédito
+  \end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Período I: Exploración}
+\protect\hypertarget{peruxedodo-i-exploraciuxf3n}{}
+\begin{itemize}
+\tightlist
+\item
+  Hasta la publicación de la \emph{Teoría General}, el cuerpo teórico y
+  analítico de la economía y consolidado la economía clásica y
+  neoclásica {[}Keynes consideraba a los neoclásicos continuadores y
+  seguidores de los clásicos{]}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    cuerpo relativamente homogéneo en términos de orientación y mensaje
+    principal
+
+    \begin{itemize}
+    \tightlist
+    \item
+      confianza en mecanismos espontáneos de ajuste del mercado como
+      medio de mantener equilibrio de pleno empleo
+    \end{itemize}
+  \end{itemize}
+\item
+  Keynes primero ``construye'' su enemigo, le da forma y luego pelea.
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Período I: Exploración (cont.)}
+\protect\hypertarget{peruxedodo-i-exploraciuxf3n-cont.}{}
+\begin{itemize}
+\tightlist
+\item
+  A principios del siglo XX no había una teoría única y formalizada
+  sobre la determinación del nivel de empleo y producto agregados
+
+  \begin{itemize}
+  \tightlist
+  \item
+    si una variedad de hipótesis y explicaciones sobre la naturaleza y
+    características de los ciclos económicos
+  \end{itemize}
+\item
+  Aún así, era mucho más rudimentaria y menos cohesionada que el estadío
+  que había alcanzado la teoría microeconómica
+\item
+  De hecho, gran parte de las ideas sobre macroeconomía de la escuela
+  clásica son sistematizadas a partir de la obra de Keynes
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Período I: la escuela clásica}
+\protect\hypertarget{peruxedodo-i-la-escuela-cluxe1sica}{}
+\begin{itemize}
+\tightlist
+\item
+  Los clásicos eran plenamente conscientes de que una economía
+  capitalista podía desviarse de su nivel de equilibrio de producto y
+  empleo
+\item
+  Pero en general suponían que estas desviaciones serían temporales y de
+  corta duración
+\item
+  En esta situación, no había ningún rol para la injerencia estatal en
+  relación a cuestiones de estabilización del producto y el empleo
+
+  \begin{itemize}
+  \tightlist
+  \item
+    consideraban que el equilibrio de PE era el estado normal de los
+    mercados (norma) y que las fluctuaciones eran la excepción
+  \end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Período I: la escuela clásica (cont.)}
+\protect\hypertarget{peruxedodo-i-la-escuela-cluxe1sica-cont.}{}
+\begin{itemize}
+\tightlist
+\item
+  La macroeconomía de la escuela clásica puede resumirse en la
+  interacción de 3 (tres) elementos centrales:
+
+  \begin{enumerate}
+  \tightlist
+  \item
+    Teoría clásica de la determinación del empleo y del producto
+  \item
+    La ley de Say de los mercados
+  \item
+    La teoría cuantitativa del dinero
+  \end{enumerate}
+\item
+  La interacción de los primeros resulta en que las variables reales
+  --producto real, \(Y\); nivel de empleo, \(L\); salario real, \(W/P\);
+  y tasa de interés real, \(r\)- se determinan en los mercados de bienes
+  y trabajo
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \(Y\) es una función de \(L\), \(K\) y \(A\) (productividad) y hay
+    una relación directa entre \(L\) y \(Y\)
+  \end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Período I: la escuela clásica (cont.)}
+\protect\hypertarget{peruxedodo-i-la-escuela-cluxe1sica-cont.-1}{}
+\begin{itemize}
+\tightlist
+\item
+  Nivel de empleo se determina a partir de igual el costo marginal de
+  emplear unidades adicionales de \(L\) y del ingreso marginal. Es
+  decir, donde \(PML_{i}P_{i}=W_{i}\) lo que es igual a
+  \(PML_{i}=\frac{W_{i}}{P_{i}}\)
+\item
+  El salario real se ajusta ante excesos de oferta (baja) y demanda de
+  trabajo (sube)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Keynes dijo --los postulados clásicos no admiten la posibilidad de
+    ``desempleo involuntario''
+  \end{itemize}
+\item
+  Si salarios reales por encima del equilibrio \(\longrightarrow\) para
+  los clásicos debía bajarse el salario nominal
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Período I: la escuela clásica (cont.)}
+\protect\hypertarget{peruxedodo-i-la-escuela-cluxe1sica-cont.-2}{}
+\begin{itemize}
+\tightlist
+\item
+  Tasa de interés natural equilibra ahorro e inversión reales.
+  Suponiendo 2 (dos) sectores --hogares y empresas-, tenemos que:
+\end{itemize}
+
+\textbackslash begin\{align\} E=C(r)+I(r)\&=Y \textbackslash{}
+Y-C(r)\&=S(r) \textbackslash end\{equation\}
+
+\begin{itemize}
+\tightlist
+\item
+  todas las variables son función de la tasa de interés real
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Período I: la escuela clásica (cont.)}
+\protect\hypertarget{peruxedodo-i-la-escuela-cluxe1sica-cont.-3}{}
+\begin{itemize}
+\tightlist
+\item
+  El modelo se cerraba con la ecuación cuantitativa del dinero que en
+  formulación de Marshall era
+\end{itemize}
+
+\begin{equation}
+M=kPY
+\end{equation}
+
+\begin{itemize}
+\tightlist
+\item
+  donde \(k\) es la inversa de la velocidad de circulacion
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Período I: la escuela clásica (cont.)}
+\protect\hypertarget{peruxedodo-i-la-escuela-cluxe1sica-cont.-4}{}
+\begin{itemize}
+\tightlist
+\item
+  El ``modelo macroeconómico clásico'' implicaba un resultado muy
+  importante \(\longrightarro\) \textbf{dicotomía clásica entre sector
+  real y monetario}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    cambios en las variables nominales no afectarán los valores de
+    equilibrio de las variables reales
+  \end{itemize}
+\item
+  Y de aquí se deriva el famoso postulado sobre la neutralidad del
+  dinero en la economía clásica
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Período I: la macroeconomía keynesiana}
+\protect\hypertarget{peruxedodo-i-la-macroeconomuxeda-keynesiana}{}
+\begin{itemize}
+\tightlist
+\item
+  Para Keynes, \(Y\) depende del volumen de \(L\) pero es posible la
+  existencia de desempleo involuntario en el equilibrio
+\item
+  Una diferencia clave entre clasicos y keynesianos era el mecanismo de
+  ajuste \(\longrightarrow\) para los clásicos el ajuste se daba por
+  precios, para keynesianos por cantidades
+\item
+  Principal elemento innovador en la teoría keynesiana
+  \(\longrightarrow\) introducción del concepto de \textbf{demanda
+  efectiva}
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Período I: la macroeconomía keynesiana (cont.)}
+\protect\hypertarget{peruxedodo-i-la-macroeconomuxeda-keynesiana-cont.}{}
+\begin{quote}
+El principio de la demanda efectiva estable que en una economía cerrada
+con capacidad ociosa, el nivel de ingreso, \(Y\) (y por tanto el nivel
+de empleo) viene determinado por el gasto agregado planeado, \(E\), que
+consiste de dos componenetes, el gasto de consumo de los hogares, \(C\)
+y el gasto de inversión de las empresas, \(I\).
+\end{quote}
+\end{frame}
+
+\begin{frame}{Período I: la macroeconomía keynesiana (cont.)}
+\protect\hypertarget{peruxedodo-i-la-macroeconomuxeda-keynesiana-cont.-1}{}
+\begin{itemize}
+\tightlist
+\item
+  Por tanto:
+\end{itemize}
+
+\begin{equation}
+E=C+I 
+\end{equation}
+
+\begin{itemize}
+\tightlist
+\item
+  Note la gran diferencia \(\longrightarrow\) en modelo keynesiano \(C\)
+  es endógeno (depende de \(Y\)), y la inversión depende de la
+  rentabilidad esperada de la inversión y la tasa de interés que
+  representa el costo de pedir prestado fondos --i.e eficiencia marginal
+  del capital
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Keynes era bastante escéptico sobre el rol que la tasa de interés
+    tenía sobre \(I\) --incertidumbre, expectativas
+  \end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Período I: la macroeconomía keynesiana (cont.)}
+\protect\hypertarget{peruxedodo-i-la-macroeconomuxeda-keynesiana-cont.-2}{}
+\begin{itemize}
+\tightlist
+\item
+\end{itemize}
+\end{frame}
+
+
+
+\end{document}
