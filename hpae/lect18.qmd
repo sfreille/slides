@@ -1,0 +1,223 @@
+---
+title: U9. La renovación teórica desde el período interguerras
+subtitle: Historia del Pensamiento y del Análisis Económico
+author: |
+  | **Sebastián Freille**
+  | sfreille@unc.edu.ar
+  | Licenciatura en Economía
+  | FCE-UNC
+format:
+  revealjs:
+    slide-number: true
+    chalkboard:
+      buttons: false
+    preview-links: auto
+    css: ..\quarto.css
+    width: 1500
+    center-title-slide: true
+    center: true
+    tbl-cap-location: bottom	
+    toc: true
+    toc-depth: 1
+    toc-title: Contenidos
+    link-external-newwindow: true
+---
+
+# Evaluando la contribución de Keynes {background="#43464B"}
+
+## Nuevo paradigma o viejo paradigma
+
+- Kuhn argumenta que la introducción de nuevos paradigmas se produce
+  cuando los viejos paradigmas no son capaces de dar buenas respuestas
+  a las preguntas que se les hacen
+  -- paradigma keynesiano en oposicion al paradigma clásico
+- Pero los viejos paradigmas pueden resistir al punto de proponer que
+  el nuevo paradigma es en realidad un subconjunto (o está contenido
+  en) este 
+  - efecto Pigou versus efecto Keynes
+  
+## Nuevo paradigma o viejo paradigma (cont.)
+
+> **Efecto Pigou**. Cuando disminuye $W$ y $P$, aumenta $M/P$ y esto genera
+> efecto riqueza sobre el consumo, $C$. 
+
+## Nuevo paradigma o viejo paradigma (cont.)
+
+> **Efecto Keynes**. Cuando disminuye $W$, bajan los ingresos
+> individuales, y bajan $P$ e ingresos nominales. Esto hace que
+> disminuya la demanda de dinero (transacción) y aumenta la demanda de
+> dinero (especulación) --si $M$ no cambia. Esto hace que disminuya
+> $i$ lo cual estimula $I$, $Y$ y $N$. 
+
+## Nuevo paradigma o viejo paradigma (cont.)
+
+> ¿Problema? El **efecto Keynes** podría verse reducido o eliminado en dos
+> situaciones: a) inversión inelástica; b) trampa de la
+> liquidez. Mientras que el **efecto Pigou** sería plenamente válido y
+> viable. Note que mientras que el **efecto Keynes** opera via el
+> mercado de activos (financiero/dinero) el **efecto Pigou** opera via
+> el mercado de bienes (real). 
+
+##  Nuevo paradigma o viejo paradigma (cont.)
+
+- Patinkin (1956) utilizó un modelo de equilibrio general walrasiano
+  con 3 (tres) mercados --bienes, dinero y bonos- y un planteo
+  keynesiano del gasto y demostró la consistencia de la macroeconomía
+  neoclásica!
+- Según este trabajo, dados los supuestos de pleno empleo y
+  flexibilidad de $P$, las conclusiones de la $TCD$ se mantienen 
+  - la introducción de demanda especulativa de dinero no altera las
+    conclusiones de la teoría neoclásica
+- Cierta mesura en el reestablecimiento de la teoría económica
+  neoclásica --prescripciones políticas keynesianas merecen algún crédito
+
+##  Nuevo paradigma o viejo paradigma (cont.)
+
+- Ideas keynesianas sobre finanzas compensadores se convirtieron en
+  ortodoxia reinante 
+  - *Employment Act* de 1946 fue considerada como una victoria por
+    los keynesianos
+- Keynes es al mismo tiempo una figura muy importante en la historia
+  del análisis económico pero también controvertida
+  - ha separado las aguas de la teoría y análisis económico de las de
+    la política económica
+
+##  Nuevo paradigma o viejo paradigma (cont.)
+
+- El resurgimiento y auge del monetarismo en la década de 1940s y
+  1950s no podría haber sido posible sin el keynesianismo
+- Su legado más importante, tal vez, radica en reestablecer el
+  interés y la orientación hacia la teoría macroeconómica y de la
+  política económica
+  - esto fue más allá de la propia disciplina incluso (lo mismo para
+    otras tradiciones macroeconómicas)
+	
+# La consolidación de la macroeconomía {background="#43464B"}
+
+## La teoría keynesiana como referencia
+
+- El período que va de 1940s a 1970s es uno de los períodos más
+  importantes en el desarrollo y consolidación de la macroeconomía. 
+- Casi todo lo que se escribió durante este período tomo como punto de
+  referencia la teoría keynesiana --ya en forma de apoyo, ya en forma
+  de rechazo y/o complementación
+  - se consolida como nunca antes un marco teórico integrado (del
+    mismo modo que la micro lo hizo a fines del siglo XIX)
+- No obstante ello, fueron múltiples y variadas las interpretaciones
+  de ese marco teórico
+
+## La teoría keynesiana como referencia (cont.)
+
+- Interpretaciones de Keynes
+  - La **interpretación ortodoxa** $\longrightarrow$ inspirada por
+    Hicks, Hansen, Modigliani, Klein y Samuelson y también denominada
+    la *interpretación hidráulica* de IS-LM
+  - La **interpretación fundamentalista** $\longrightarrow$ que
+    considera a la *Teoría General* como un ataque devastador y
+    fulminante a la ortodoxia neoclásica [Shackle, Robinson]
+  - La **interpretación del enfoque de equilibrio general modificado**
+    $\longrightarrow$ interpretaron a la $TG$ como un ejercicio
+    pionero en el estudio de dinámicas de desequilibrio en modelos de
+    equilibrio general [Patinkin, Clower y Leijonhufvud]
+
+## La teoría keynesiana como referencia (cont.)
+
+- Hubo durante esta época ciertos elementos que formaron parte de una
+  denominada "mentalidad keynesiana" (\textit{ethos} keynesiano) y que fueron los siguientes:
+  1. Economías rígidas, no fluídas --tardaban tiempo en ajustar a
+     shocks
+  2. Argumento relevante de economía política --democracias liberales
+     difícilmente tolerarían situaciones persistentes y crónicas de
+     desempelo
+  3. Oportunidades de inversión pueden estancarse y decaer en países
+     industrializados
+  4. Keynesianos profesaron fe ciega en la predicción estadística
+- Keynes era bastante escéptico en relación a la cuarta
+
+## El modelo keynesiano ortodoxo: IS-LM
+
+- ESCRIBIR
+
+## La curva de Phillips
+
+- La conexión entre inflación y desempleo es de las relaciones más
+  controvertidas en la historia de la macroeconomía moderna
+- En 1926 Irving Fisher llevó a cabo el primer estudio
+  estadístico. Fue Arthur Philips sin embargo, en 1958, quien publicó
+  un trabajo muy influyente que documentó la siguiente relación
+  estadística
+
+\begin{align}
+\dot{W}=-0.9+9.638(U)^{-1.394}
+\end{align}
+
+- Relación entre desempleo, $U$, y tasa de cambio de salarios
+  monetarios, $\dot{W}$. 
+
+## La curva de Phillips (cont.)
+
+> **Curva de Philipps**. Este hallazgo *empírico* sugería la
+> existencia de una relación estable de largo-plazo --se usaron datos
+> para 1861-1957 de Reino Unido- entre inflación y desempleo. En otras
+> palabras, desempleo más alto estaba asociado a menor tasa de cambio
+> de salarios nominales y viceversa.
+
+## La curva de Phillips (cont.)
+
+- El argumento teórico (no estadístico) principal era que la tasa de
+  cambio de los salarios nominales era función del grado de exceso de
+  demanda (o de oferta) en el mercado det trabajo, aproximado por el
+  nivel de desempleo
+- Y la formulación teórica de la ecuación de Phillips quedó
+
+\begin{align}
+\dot{W}=\alpha(\frac{h}{u}-u)+w^{*}=\frac{ah}{u}-\alpha u+w^{*}
+\end{align}
+
+## La curva de Phillips (cont.)
+
+- donde $\alpha$ es un parametro de flexibilidad salarial, $w^{*}$ es
+  inflacion salarial exógenamente determinada, $h$ es un grado de
+  fricción del mercado de trabajo y $u$ es ratio entre nivel de
+  desempleo y oferta de trabajo (simil tasa de desempleo). 
+  - mientras más inflexible y mayores fricciones el mercado de trabajo
+    mayor será la inflación salarial para un nivel dado de $u$
+- En 1950s y 1960s, la curva de Philips fue incorporado de lleno al
+  modelo ortodoxo dominante
+  
+## La curva de Phillips (cont.)
+
+> En el modelo keynsiano, para todo nivel de empleo *menor al de pleno
+> empleo* el nivel de precios era fijo --salarios y precios no
+> variaban ante la política economica. Pero si se estaba en PE,
+> ahí la CP podía jugar un rol. Suponga que la economía está en PE en
+> $Y_{pe}$ con nivel de precios estables, $\dot{P}=0$. Si el gobierno
+> aumenta el gasto, se corre IS, aumenta $Y$ a $Y_{1}$ y la inflación
+> de precios aumenta a $\dot{P_{1}}$. Cae el valor real de la OM y
+> esto hace que disminuya LM. La economía retorna al PE
+
+## La curva de Phillips (cont.)
+
+![](fig/fig-09-001.png){fig-align="center"}
+
+## La curva de Phillips (cont.)
+
+> El problema de la inflación fue particularmente relevante: entre
+> 1955 y 1964, la tasa de inflacion anual se mantuvo entre 1% y 3% en
+> EEUU y entre 1% y 5% en UK; entre 1965 y 1982 se ubicó entre 2% y
+> 12% en EEUU y entre 5% y 24% en UK. Estos niveles y persistencia de
+> la inflación eran un fenómeno inaudito en los paises avanzados. Si
+> bien hubo durante ese período cambios estructurales en la economía
+> (aumento en la tasa natural de desempleo, disminución en la
+> productividad del trabajo), existía una percepción que las recetas
+> keynesianas habían  introducido un sesgo inflacionario en la
+> formulación de la política económica.  En particular, las
+> nuevas reacciones se enfocaron en dos aspectos: 1) esclarecer el
+> vínculo entre la política macroeconómica y la estabilidad de
+> precios; 2) poner de relieve las limitaciones y deficiencias del
+> paradigma keynesiano 
+
+## El monetarismo
+
+- ESCRIBIR
+
