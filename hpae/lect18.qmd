@@ -219,5 +219,140 @@ format:
 
 ## El monetarismo
 
-- ESCRIBIR
+- Hasta los 1950s la economía y paradigmas keynesianos dominaron
+  practicamente por completo el análisis y la discusión macroeconómica
+  en la corriente principal [otras corrientes como la escuela
+  austríaca mantuvieron disputas importantes desde 1920s]
+- A mediados de 1960s surge la primera escisión radical
+  $\longrightarrow$ la escuela monetarista ortodoxa
+  - liderada por Milton Friedman, implicó el retorno a la ortodoxia
+    monetaria [i.e. teoría cuantitativa del dinero]
+	
+## El monetarismo (cont.)
+
+> La principal crítica de la escuela monetarista ortodoxa a la
+> macroeconomía keynesiana fue a la relativización de la cantidad de
+> dinero como determinante de la DA en contraposición con un excesivo
+> énfasis y confianza en otras fuentes --variaciones en el gasto y
+> politica fiscal- como mecanismos de estímulo a la DA
+
+
+## El monetarismo (cont.)
+
+- Keynes no negaba que $M$ era un determinante de la DA pero si decía
+  que era relativamente ineficaz (al menos desde el período que
+  escribió)
+- Pero en un mirada mas profunda, el principal cuestionamiento del
+  monetarismo es acerca del enfoque intrinsecamente cortoplacista de
+  la macroeconomía keynesiana
+  - esto importaba una relativización de los efectos económicos a LP
+- El monetarismo ortodoxo pues retoma una bandera de los clasicos
+  --las economías capitalistas son inherentemente estables
+  
+## El monetarismo (cont.)
+
+![](fig/fig-09-002.jpg){fig-align="center"}
+
+## El monetarismo (cont.)
+
+- Las ideas principales del monetarismo desarrolladas en dos textos
+  seminales: *A Monetary History of the United States, 1867-1960* (1963) y
+  *The Role of Monetary Policy* (1968)
+  - el primero monumental trabajo de recopilación histórica y
+    estadística --muestra que cambios en $OM$ tienen un rol principal
+    e independiente en las fluctuaciones
+  - el segundo trabajo teórico donde se avanza la idea de *tasa
+    natural* y de que *no existe trade-off de LP entre inflación y
+    desempleo*
+- Artículo sumamente importante porque de alguna manera sería
+  premonitorio de lo que pasaría en década de los 70s
+
+## El monetarismo (cont.)
+
+- Friedman adhirió plenamente a la $TCD$ y la presentó más como una
+  teoría de la demanda de dinero
+- Para el la demanda de dinero dependía de 3 (tres) factores: 
+  1. restricción de $W$ --máxima cantidad de $M$ que se puede tener
+  2. rendimiento del $M$ en relación a otros activos (reales y
+     financieros)
+  3. gustos y preferencias del tenedor de activos
+- En resumen:
+
+\begin{equation}
+\frac{M_{d}}{P}=f(Y^{P};r;\dot{P^{e}};u)	
+\end{equation}
+
+## El monetarismo (cont.)
+
+> Note que según esta expresión la demanda de dinero será mayor
+> mientras mayor sea el nivel de $W$, menor el rendimiento de otros
+> activos, y menor la tasa de inflación esperada. El mecanismo de
+> transmisión era el siguiente: los individuos reasignan su riqueza
+> entre diferentes activos cuando difieren los rendimientos. Un
+> aumento en la cantidad de dinero, $M$, que disminuy el rendimiento
+> relativo del dinero, hace que aumente la demanda de otros activos y
+> en consecuencia su precio (el precio del dinero baja, se deprecia)
+
+## El monetarismo (cont.)
+
+![](fig/fig-09-003.jpg){fig-align="center"}
+  
+## La curva de Phillips de expectativas aumentadas
+
+- Friedman modificó la curva de Phillips de la siguiente manera:
+
+\begin{equation}
+\dot{W}=f(u)+\dot{P^{e}}
+\end{equation}
+
+- es decir, la tasa de aumento del salario real es igual a la suma del
+  componente determinado por el estado de demanda excedente (proxy
+  nivel de desempleo) y la *tasa esperada* de inflación
+
+## La curva de Phillips de expectativas aumentadas (cont.)
+
+- Hay tantas curvas de Phillips como tasas esperadas de inflación
+  diferentes!
+
+> Partiendo de tasa natural de desempleo, $U_{N}$ si gobierno aumenta
+> DA y disminuye desempleo a $U_{1}$ los trabajadores ajustarán sus
+> expectativas de inflación al alza. Reclaman salarios nominales más
+> altos (el aumento de DA presiona precios) y esto revierte el aumento
+> anterior, elevando el desempleo (al haber salarios reales mas
+> altos). Se vuelve a $U_{N}$
+
+## La curva de Phillips de expectativas aumentadas (cont.)
+
+![](fig/fig-09-004.png){fig-align="center"}
+
+## La curva de Phillips de expectativas aumentadas (cont.)
+
+> **Implicancias.** No existe trade-off entre inflación y desempleo en
+> el largo plazo. La curva de Philips de largo plazo ($CP_{LP}$)
+> resulta de unir todas las curvas de Philips de corto plazo a los
+> diferentes $\dot{P^{e}}$. La tasa natural de desempleo está
+> determinada por factores reales exclusivamente: preferencias y
+> tecnología. Los estímulos a la $DA$ según Friedman resultan en un
+> incremento permanente en la tasa de inflación a LP con el beneficio
+> de tener un incremento (puramente) transitorio en el nivel de
+> empleo. Resumiendo: Friedman recupera la neutralidad del dinero en
+> el largo plazo pero admita efectos de CP
+
+## La curva de Phillips de expectativas aumentadas (cont.)
+
+> **Implicancias II.** Expectavitas adaptativas (*backward-looking*)
+> permiten efectos de CP. La existenciad de un rezago de la PM es lo
+> que permite este canal. Cuando la inflación es perfectamente
+> anticipada, esto desaparece. Adicionamente, la *hipótesis
+> aceleracionista* implica que mayores reducciones de la tasa de
+> desempleo vienen a costa de niveles de inflación cada vez más
+> altos y eventualmente conduciendo a hiperinflación. De ahi, "la
+> inflación es siempre y en todo momento un fenómeno monetario"
+
+## La nueva escuela clásica: la revolución de las ER
+
+ESCRIBIR
+
+
+
 
