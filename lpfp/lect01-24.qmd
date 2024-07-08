@@ -21,10 +21,15 @@ format:
     toc-title: Contenidos
     link-external-newwindow: true
 ---
-> Los economistas deben no sólo conocer sus modelos económicos, sino que también entender de política, intereses, conflictos, pasiones, es decir, la esencia de la vida colectiva. Por un pequeño período de tiempo, uno puede realizar cambios a través de decretos: pero para que ellos persistan, uno debe construir coaliciones y tener gente que los soporte. Es decir, se debe ser un político.\
-**[Alejandro Foxley, ex Ministro de Finanzas de Chile]**
 
 # **Introducción a la economía política** {background="#CAA811"}
+
+## Frases
+
+> Los economistas deben no sólo conocer sus modelos económicos, sino que también entender de política, intereses, conflictos, pasiones, es decir, la esencia de la vida colectiva. Por un pequeño período de tiempo, uno puede realizar cambios a través de decretos: pero para que ellos persistan, uno debe construir coaliciones y tener gente que los soporte. Es decir, se debe ser un político.
+**[Alejandro Foxley, ex Ministro de Finanzas de Chile]**
+
+## Introducción a la economía política
 
 - Economía y política
 - Antecedentes, tradiciones y metodología
