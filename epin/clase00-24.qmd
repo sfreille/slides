@@ -6,6 +6,7 @@ author:
     email: 0933217@ucc.edu.ar
 date: today
 date-format: DD MMMM, YYYY
+pdf-engine: pdflatex
 format:
   revealjs:
     slide-number: true
@@ -21,7 +22,6 @@ format:
     toc-depth: 1
     toc-title: Contenidos
     link-external-newwindow: true
-
 ---
 
 # Presentación y equipo {background="#691DAB"}
@@ -55,9 +55,6 @@ En esta sección presentaremos los principales aspectos generales y organizativo
 :::
 
 # Objetivos y organización del dictado {background="#691DAB"}
-
-
-
 
 ## Objetivo general
 
@@ -100,6 +97,9 @@ pausas de 15 minutos cada una
 - Se dará una bibliografía detallada de papers y extractos de libro
 - Hay bibliografía en castellano pero un número importante de textos es en inglés
 
+# Metodología de evaluación y otros aspectos importantes {background="#691DAB"}
+
+
 ## Evaluación
 
 - La evaluación tendrá dos instancias: parciales y finales. Habrá 2
@@ -121,7 +121,6 @@ pausas de 15 minutos cada una
 2. Web de S Freille: [Página de Economía Política Internacional](https://sfreille.github.io/teaching/epin)
 4. Mail y otros
     - Se responden mails y mensajes en foros (no usamos grupos de whatsapp)
-    - Posible uso de Instagram Live (o similar) para sesiones de consulta cortas
 
 ## Resumiendo
 
