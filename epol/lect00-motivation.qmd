@@ -1,0 +1,45 @@
+---
+title: Economía Política
+title-slide-attributes:
+  data-background-image: background.png
+  data-background-size: contain
+  data-background-opacity: "0.5"
+subtitle: Presentación de la materia
+author: Sebastián Freille | sfreille@unc.edu.ar
+
+format:
+  revealjs:
+    slide-number: true
+    chalkboard:
+      buttons: false
+    preview-links: auto
+    css: ..\quarto.css
+    width: 1500
+    center-title-slide: true
+    center: true
+    tbl-cap-location: bottom	
+    toc: true
+    toc-depth: 1
+    toc-title: Contenidos
+    link-external-newwindow: true
+---
+
+
+# Motivación
+
+## Alternativas y elecciones
+
+![En la vida hay que elegir](fig/fig-00-morpheus.png){#fig:01001}
+
+
+## ¿El gobierno del pueblo?
+
+![El gobierno del pueblo](fig/fig-00-democracy.png){#fig:01001}
+
+## Con la mía no
+
+![Con la mía no](fig/fig-00-reform.png){#fig:01001}
+
+## Institutions matter
+
+![De donde venimos](fig/fig-00-independence.png){#fig:01001}
