@@ -451,30 +451,6 @@ $\alpha^{i}$.
 * Para probar esta proposición, etiquete al valor crítico de
   $\alpha^{i}$ como $\alpha^{m}$. Entonces, por Definición 3, cualquier votante con $\alpha^{i} \geq \alpha^{m}$ prefiere $q(\alpha^{m})$ a cualquier $q < q(\alpha^{m})$. En forma similar, cualquier votante con  $\alpha^{i} \leq \alpha^{m}$ prefiere $q > q(\alpha^{m})$. En otras palabras, $q(\alpha^{m})$ gana un voto de a pares ante cualquier otra alternativa posible*
 
-## Propiedad de cruce único (cont.)
-
-> En cuestiones políticas y electorales, la propiedad de cruce único
-> puede ser más realista e intuitiva que la propiedad de pico
-> único. Si los diferentes *tipos* son interpretados como diferentes
-> tipos ideológicos ordenados en una escala de izquierda a derecha, y
-> luego las alternativas son políticas públicas a ser elegidas por la
-> sociedad. De esta forma, dadas 2 (dos) políticas, una más a la
-> derecha que la otra, mientras mas *"derechoso"* sea el tipo, más
-> preferirá la política que está más a la derecha por sobre la que
-> está a la izquierda. 
-
-## Propiedad de cruce único (cont.)
-
-- Note las diferencias con *preferencias de pico único*
-  $\longrightarrow$ intuitivamente un perfil de preferencias de pico
-  único es uno en que el conjunto de alternativas pueden ordenarse a
-  lo largo de un eje izquierda-derecha de modo que cada individuo
-  tenga un punto ideal único y el ordenamiento individual de las otras
-  alternativas cae hacia (ambos) costados del punto ideal
-- Con las *preferencias de cruce único* no ordenamos las alternativas
-  sino que ordenamos a los individuos y en definitiva lo que se supone
-  es que hay un mapeo de individuos a alternativas
-
 ## Comparando ambas
 
 - ¿Más realista? $\longrightarrow$ más natural y razonable *ordenar a las personas* en base a un único parámetro (ingreso, productividad, ideología) que *ordenar a las alternativas*.
