@@ -61,18 +61,7 @@ format:
   - A manos de *líderes electos*
     - Hitler en Alemania, Chávez en Venezuela
     - Pero también en Hungría, Nicaragua, Perú, Filipinas, Polonia, Rusia, y Turquia.
-
-## ¿Cómo mueren las democracias? (cont.)
-
-::: {#fig-elephants layout-ncol=2}
-
-![Inglés](fig/fig-03-how-democracies-die.png){width=350}
-
-![Español](fig/fig-03-how-democracies-die-sp.png){width=350}
-
-Cómo mueren las democracias
-:::
-
+- Levitsky and Ziblatt (2018), *How democracies die*
 
 ## Clasificación de las democracias
 
@@ -85,7 +74,7 @@ Cómo mueren las democracias
 ## Indicadores y fuentes
 
 - Hay varias fuentes de datos relevantes:
-  1. Varieties of Democracy (V-Dem): [V-Dem](https://www.v-dem.net/vdemds.html)
+  1. Varieties of Democracy (V-Dem): https://www.v-dem.net/vdemds.html
   2. Regimes of the World (RoW)
   3. Lexical Index of Electoral Democracy (LIE): https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WPKNIT
   4. Polity: https://www.systemicpeace.org/inscrdata.html
