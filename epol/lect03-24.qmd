@@ -527,6 +527,19 @@ Hay un equilibrio perfecto en subjuegos único para el juego representado en la 
 
 ## Democracia y represión
 
+- En los modelos anteriores y fundamentalmente en el de democracia y
+  revolución, existen casos en que se dan revoluciones en equilibrio
+  $\longrightarrow$ esto es en particular en el caso en que $\mu <
+  \mu^{**}$ las revoluciones son muy poco costosas
+- Hasta ahora ricos podían usar el *poder de iure* para evitar la
+  revolución, ya sea en forma de promesas de redistribución bajo no
+  democracia o bajo el ofrecimiento de pasar a una democracia
+  - pero ricos también pueden usar el *poder de facto* para evitar
+    revoluciones $\longrightarrow$ en forma de represión 
+
+## Democracia y represión (cont.)
+
+
 - Acemoglu and Robinson (2006) reconocen que la relación entre desigualdad ($\theta$) y democratización ($D$) no es monotónica
   - A bajos niveles de $\theta$ no hay revolución [no se cumple RdR]
   - A altos niveles de $\theta$ no hay ni revolución ni democratización $\longrightarrow$ **represión**
@@ -536,6 +549,68 @@ Hay un equilibrio perfecto en subjuegos único para el juego representado en la 
 ## Democracia y represión (cont.)
 
 ![Arbol de decisiones con 3 opciones](fig/fig-03-017.png){#fig:03017 width=75%}
+
+## Democracia y represión (cont.)
+
+
+- Si permitimos la represión entonces suopnemos que la represión, $O$
+  es una alternativa adicional a $D$ y $N$ --la represión siempre
+  logra evitar una revolución, pero es costosa y destruye una
+  proporción $\kappa$ del ingreso total. Pagos para pobres y ricos
+  son:
+  
+\begin{align}
+V^{P}(O|\kappa)=(1-\kappa)y^{P} \\
+V^{R}(O|\kappa)=(1-\kappa)y^{R}
+\end{align}
+
+## Democracia y represión (cont.)
+
+- Para resolver esto debemos analizar circunstancias en que **los ricos
+  prefieren la represión**
+  - a prometer redistribución y permanecer en $N$
+  - a democratizar
+- Se opera a partir de la restricción de revolución y se ilustran las
+  condiciones a partir de ella
+  
+## Democracia y represión (cont.)
+
+- Primero, hacemos
+
+\begin{align}
+V^{R}(O|\kappa) \geq V^{R}(N,\tau^{N}=\tilde{\tau})
+\end{align}
+
+- y eso nos determina:
+
+\begin{align}
+\kappa \leq \frac{p}{\theta}[\delta c(\tilde{\tau})-\tilde{\tau}(\delta-\theta)] \equiv \hat{\kappa}
+\end{align}
+
+- por lo que si $\kappa < \hat{\kappa}$ los ricos prefieren reprimir a
+  hacer concesiones
+
+## Democracia y represión (cont.)
+
+- Primero, hacemos
+
+\begin{align}
+V^{R}(O|\kappa) \geq V^{R}(D)
+\end{align}
+
+- y eso nos determina:
+
+\begin{align}
+\kappa \leq \frac{1}{\theta}[\delta c(\tau^{P})-\tau^{P}(\delta-\theta)] \equiv \tilde{\kappa}
+\end{align}
+
+- por lo que si $\kappa < \tilde{\kappa}$ los ricos prefieren reprimir a
+  democratizar. Note que $\hat{\kappa} < \tilde{\kappa}$
+  
+## Democracia y represión (cont.)
+
+- Por lo anterior, siempre que los ricos prefieren reprimir a hacer
+  concesiones, también prefieren reprimir a democratizar. 
 
 ## Democracia y represión (cont.)
 
