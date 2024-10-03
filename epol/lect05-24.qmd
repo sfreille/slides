@@ -57,7 +57,7 @@ Elecciones USA 2024. Estadísticas de financiación de campaña.
 
 ## Financiamiento de campañas (cont.)
 
-![Financiamiento total de los candidatos](financiamientototaldeloscandidatos.PNG)
+![Financiamiento total de los candidatos](financiamientototaldeloscandidatos.png)
 
 ## Financiamiento de campañas (cont.)
 
