@@ -655,33 +655,35 @@ $h(.)$ son funciones que modelan las relaciones entre las contribuciones de camp
   contribuciones de campaña --OJO! puede haber tema de *missing* data!
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # **Conexiones políticas y personales. Endorsements** {background="#CAA811"}
+
+## Endorsement 
+- La bibliografía existente sobre los efectos del <b>endorsement</b> es ante todo teórica y enfocada en grupos de interés.
+- Los modelos plantean que los individuos desinformados eligen a quién votar según señales que envían los grupos de interés. 
+- Según Grossman y Helpman (1999): 
+
+>
+<b>Endorsements</b> are a simple language for communication between interest-group
+leaders and group members. The members, who share policy concerns, may not
+perfectly understand where their interests lie on certain issues. If their leaders
+cannot fully explain the issues, they can convey some information by endorsing a
+candidate or party 
+
+## Endorsement y celebridades 
+- Estimar empíricamente el <b>endorsement</b> es difícil.  
+- Craig Garthwaite y Timothy J. Moore (2012) presentaron un trabajo novedoso preguntándose si el apoyo de celebridades a candidatos políticos puede tener efectos en el resultado de una elección. 
+- Los autores parten de un hecho concreto: el apoyo que le brindó Oprah Winfrey a Barack Obama en las elecciones primarias del partido demócrata en 2008.
+
+## Endorsement y celebridades: Caso Oprah-Obama 
+- <b>Obama</b> fue apoyado por <b>Oprah</b> tres meses después que anunciará su candidatura. 
+- Los autores observaron que este caso presentaba una oportunidad única porque existen indicadores para medir la popularidad e influciencia de la presentadora de televsión.  
+- Para poder llevar a cabo el experimiento, utilizan como indicadores: las suscripciones a la revista de Oprah y la venta de libros que ella recomienda. 
+- Las <b>conclusiones</b> a las que llegan son: 
+  - El apoyo aumentó la participación electoral y las contribuciones de campaña de Obama.
+  - Oprah fue responsable de aproximadamente un millón de votos adicionales para Obama.
+  
+
+## Endorsement y celebridades: Caso Taylor Swift 
+- El pasado 11 de septiembre, <b>Taylor Swift</b> publicó un post en instagram dando su apoyo a Kamala Harris (candidata a presidente en Estados Unidos). 
+- Según el portal de noticias <b>CBS News</b>, 405,999 usuarios visitaron la página [vote.org](https://www.vote.org/) a través del enlace que publicó Taylor. 
+- Los candidatos demócratas aprovecharon el apoyo de la cantante y comenzaron a vender [friendship bracelets](https://store.kamalaharris.com/harris-walz-friendship-bracelets/). 
