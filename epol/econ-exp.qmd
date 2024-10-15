@@ -1,0 +1,229 @@
+---
+title: Economía Experimental
+author: |
+  | **Economía Política 2024**
+  | sfreille@unc.edu.ar
+  | FCE-UNC
+format:
+  revealjs:
+    slide-number: true
+    chalkboard:
+      buttons: false
+    preview-links: auto
+    css: ..\quarto.css
+    width: 1500
+    center-title-slide: true
+    center: true
+    tbl-cap-location: top	
+    toc: true
+    toc-depth: 1
+    toc-title: Contenidos
+    link-external-newwindow: true
+---
+
+# **Economía experimental** {background="#fabc02"}
+
+- ¿Puede ser la economía una ciencia experimental?
+- Diseños experimentales: caracteristicas
+- Experimentos naturales
+
+## 
+> Hay una propiedad común a casi todas las ciencias morales, y por la cual se distinguen de muchas de las físicas; es decir, que rara vez está en nuestro poder hacer experimentos con ellos 
+**[John Stuart Mill, (1836, p.124),
+]**
+
+> Desgraciadamente, rara vez podemos poner a prueba predicciones particulares en las ciencias sociales mediante experimentos explícitamente concebidos para eliminar lo que se juzga como las influencias perturbadoras más importantes. Generalmente, debemos confiar en la evidencia arrojada por los 'experimentos' que suceden
+**[Milton Friedman, (1953, p.10)
+]**
+
+> Los economistas no pueden realizar experimentos controlados como los químicos o los biólogos porque no pueden controlar fácilmente otros factores importantes. Al igual que los astrónomos o los meteorólogos, por lo general tienen que usar únicamente su observación
+**[William Nordhaus, (1985, p.8)
+]**
+
+
+## ¿Puede ser la economía una ciencia experimental?
+
+La razón principal es que en economía, al igual que en cualquier otra ciencia social, es muy difícil afirmar que un evento es el resultado de una sola causa. La mayoría de las veces, hay muchas causas y viceversa, una causa puede generar varias consecuencias.
+
+> Se sabe que en sus elecciones de métodos, el economista apenas puede
+> utilizar técnicas de laboratorio como en las ciencias naturales. Por
+> un lado, los datos del mundo real son necesariamente el producto de
+> muchas influencias distintas a las que está tratando de aislar. Por
+> otro lado, las variables no intencionales no pueden mantenerse
+> constantes ni eliminarse en un laboratorio de economía porque el
+> mundo real de los seres humanos, las empresas, los mercados y los
+> gobiernos no puede reproducirse artificialmente ni controlarse.
+**[Edward Chamberlin, *An experimental imperfect market* (1948)
+]**
+
+## Desarrollo de la economia experimental
+
+- La economía experimental tienes sus inicios en los años 40s/50s
+  aunque es recién a partir de mediados de los 80s en que se produce
+  un auge y expansión. Hubo 3 (tres) temas centrales que preocuparon a los pioneros:
+  - las **decisiones individuales** [Allais (1953), Siegel (1957, 1959),
+    Ellsberg (1961)]; los **juegos** [Flood (1952, 1958), Siegel &
+    Fouraker (1960, 1963)]; y los **mercados** [Chamberlin (1948), Smith (1952)]
+
+| **Indicador**                                             	| **pre-1980s** 	| **1980s** 	| **1990s** 	| **2000s** 	|
+|-----------------------------------------------------------	|---------------	|:---------:	|:---------:	|:---------:	|
+| Papers con experimentos de laboratorio/Papers totales (%) [En *AER*, *ECMA* y *QJE*] 	| <0.10         	| 0.84-1.58 	| 3.06-3.32 	|  3.8-4.15 	|
+
+: {tbl-colwidths="[50,20,10,10,10]"}
+
+
+## Desarrollo de la economía experimental (cont.)
+
+> Si tuviera algún deseo de llevar una vida de indolente comodidad, desearía ser un gemelo idéntico, separado al nacer de mi hermano y criado en una clase social diferente. Podríamos contratarnos a una gran cantidad de científicos sociales y prácticamente poner un nombre a nuestros honorarios. Porque seríamos extremadamente raros representantes del único experimento natural realmente adecuado para separar los efectos genéticos de los ambientales en los seres humanos: individuos genéticamente idénticos criados en ambientes dispares.
+**[Stephen Jay Gould (1996: 264)
+]**
+
+
+![](fig/concurso-001.png){fig-align="center"}
+
+## La revolución de la credibilidad
+
+- En décadas recientes, **importante revolución empírica** rescató el tema
+  de la causalidad --"revolución de la credibilidad"-. Sin embargo, estas preguntas son difíciles de          responder en el mundo observacional.
+
+- El estandar ideal para atacar el
+  problema de la causalidad son los denominados **ensayos aleatorios controlados (RCT)**
+  
+  - Consiste en experimentos que consisten en seleccionar unidades elegibles;
+    seleccionar la muestra de evaluación; aleatorizar individuos en 2 (dos)
+    grupos --tratamiento, control- y variar 1 (un) sólo factor entre grupos
+  - En este contexto, la variación en los resultados dadas las
+      características similares de ambos grupos, se deben totalmente a
+      al factor controlado
+
+
+
+
+## Diseños experimentales: características
+
+
+-	Los ensayos aleatorios controlados (RTC) ofrecen una posible solución, porque la aleatorización        limita esta confusión. Sin embargo, muchas causas de interés para los científicos sociales son difíciles    de manipular experimentalmente. 
+- Aquí, encontramos entornos observacionales en los que las causas se asignan aleatoriamente, o tan bien como al azar, entre un conjunto de unidades.
+- Las comparaciones simples entre unidades expuestas a la presencia o ausencia de una causa pueden proporcionar evidencia creíble de los efectos causales, porque la asignación aleatoria o como si fuera aleatoria evita la confusión.       
+- Ejemplos $\longrightarrow$ sorteo de postulantes programas de empleo
+  (PPP), sorteo de servicio militar, programa de entrenamiento de
+  policías de un mismo distrito/seccional, icentivos salariales y
+  auditorías en oficinas de compras públicas
+
+## Experimentos naturales
+
+- Sin embargo, en algunos contextos la manipulación experimental directa es costosa, poco ética o poco práctica. Muchas de las causas por las que más interesan los científicos sociales —como las instituciones políticas o económicas— no suelen ser objeto de manipulación por parte de los investigadores.
+- Por lo tanto, los experimentos naturales pueden proporcionar una valiosa herramienta alternativa. Tales experimentos naturales comparten con los experimentos verdaderos el atributo de la asignación aleatoria de unidades a los grupos de "tratamiento" y "control".
+- El experimento natural aleatorio juega un papel clave en hacer persuasivas cualquier inferencia causal. De lo contrario, las diferencias iniciales podrían explicar cualquier diferencia ex post en los resultados económicos o las actitudes políticas. 
+
+	
+	
+
+## ¿Qué son, entonces, los experimentos naturales?
+
+Este método puede definirse mejor en relación con otros dos tipos de diseño de investigación: los experimentos verdaderos y los estudios observacionales convencionales.
+
+Un experimento aleatorio controlado (Freedman, Pisani y Purves 2007: 4-8) tiene tres características distintivas:
+
+  (1) La respuesta de los sujetos experimentales asignados para recibir un tratamiento se compara con la respuesta de los sujetos asignados a un grupo de control.
+
+  (2) La asignación de sujetos a los grupos de tratamiento y control se realiza al azar, a través de un dispositivo de aleatorización como el lanzamiento de una moneda. 
+
+  (3) La manipulación del tratamiento, también conocida como intervención, está bajo el control de un investigador experimental
+
+
+
+## Tipos de experimentos naturales
+
+- *Experimentos naturales "estándar"*. Estos experimentos naturales pueden ser verdaderamente aleatorios o simplemente como si fueran aleatorios. Se trata, por diseño, de una categoría heterogénea.
+
+- *Diseños de regresión-discontinuidad*. En estos diseños, el grupo de estudio se distingue en virtud de su posición justo por encima o por debajo de algún valor umbral de una covariable que determina la asignación del tratamiento.
+
+- *Diseños de variables instrumentales*. En estos diseños, las unidades se asignan aleatoriamente o como si fueran aleatorias no al tratamiento clave de interés, sino más bien a una variable que se correlaciona con ese tratamiento.
+
+
+# **“Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania”** {background="#fabc02"}
+
+By David Card & Alan B. Krueger
+
+## Motivación y contexto
+
+- En abril de 1992, el salario mínimo de Nueva Jersey subió de $4,25 a $5,05 por hora. 
+- Para evaluar el impacto, se encuestaron a 410 restaurantes de comida rápida en Nueva Jersey (grupo de tratamiento) y en el este de Pensilvania (grupo de control) antes y después del aumento. 
+- Se buscó responder empíricamente la pregunta:
+
+***“¿Cómo responden los trabajadores de un mercado con bajos salarios ante un incremento en el salario mínimo?”***
+
+- La **teoría económica ortodoxa** predice que un aumento exógeno en el salario mínimo reduce el nivel de empleo.
+
+
+
+## Motivación y contexto (cont)
+
+- El aumento en el salario mínimo ocurrió durante una recesión. 
+- Nueva Jersey es un estado pequeño con una economía muy parecida a la de sus estados vecinos, razón por la que se eligió a Pensilvania como grupo de control. 
+- Razones por las que se eligió la industria de comida rápida:
+  - 1. Empleadora líder de trabajos con bajos salarios. 
+  - 2. Cumplen las regulaciones gubernamentales. 
+  - 3. Los requerimientos de los puestos y los productos son homogéneos. 
+  - 4. Fácil de seleccionar un marco de trabajo. 
+  - 5. Responden las encuestas telefónicas. 
+- Cadenas incluidas en el estudio: Burger King, KFC, Wendy’s y Roy Rogers.
+- Metodología: dos encuestas telefónicas y regresiones. 
+
+## 
+
+![](imagen1){fig-align="center"}
+
+## Resultados
+
+- El salario inicial promedio en los restaurantes de Nueva Jersey aumentó un 10% luego del aumento del salario mínimo. 
+- Antes del aumento, la distribución de los salarios iniciales en ambos estados era bastante similar. Luego del aumento, casi todas las sucursales de Nueva Jersey que estaban pagando menos de $5,05 por hora reportaron un salario inicial igual al mínimo. 
+- El aumento en el salario mínimo no tuvo ningún efecto en los restaurantes que pagan mayores salarios. 
+- El trabajo full-time aumentó en Nueva Jersey, en relación a Pensilvania. 
+- Hubo una contracción en el nivel de empleo en el periodo feb-nov de 1992 en los locales de comida rápida que no estuvieron afectados por el nuevo mínimo, debido a la recesión y a la prociclicidad de las ventas de comida rápida. 
+
+##
+
+![](imagen2){fig-align="center"}
+
+
+## Otros argumentos puestos a prueba
+
+***¿Hubo un cambio significativo en la composición del trabajo (full-time vs part-time)?***
+
+- La **teoría económica ortodoxa** predice que ante el aumento en el salario mínimo, los empleadores van a sustituir trabajo calificado y capital por trabajadores de salario mínimo. 
+- Los empleados full-time de esta industria generalmente son más calificados. 
+- Las encuestas muestran que el 81% de los restaurantes pagaba lo mismo por hora, tanto para full como part-time.
+- Los resultados de la regresión son **ambiguos**: aumentó la proporción de empleados full-time en Nueva Jersey en un 7,3% comparado con Pensilvania, pero no hubo un cambio significativo en la distribución del empleo. 
+
+## Otros argumentos puestos a prueba (cont.)
+
+***¿Hubo algún cambio en la cantidad de horas de atención al público?***
+
+- Hace referencia a un cambio en las horas que está abierta una sucursal en un día de semana, cantidad de cajas, promedio de cajas habilitadas a las 11am, etc. 
+- **Ninguna** de estas variables muestra un **cambio** estadísticamente **significativo**. 
+
+## Otros argumentos puestos a prueba (cont.)
+
+***¿Aumentaron los precios de los productos?***
+
+- La **teoría económica ortodoxa** predice que un aumento en el salario mínimo llevaría a un incremento en el precio de los productos. 
+- Se encuentran **resultados mixtos**:
+  - Al comparar locales de Nueva Jersey con los de Pensilvania, se encuentra que la magnitud del incrementos es consistente con las predicciones de la competencia perfecta y RCE. 
+  - No hay evidencia de que los precios se hayan incrementado más rápido entre los locales de Nueva Jersey.
+
+## Conclusiones
+
+- Los resultados observados tras el aumento del salario mínimo en Nueva Jersey son **inconsistentes** con las predicciones de un modelo tradicional competitivo. 
+- El aumento en el salario mínimo **aumentó el empleo**, si comparamos Nueva Jersey con Pensilvania. 
+- Los **precios** de la comida rápida **aumentaron** en Nueva Jersey, en comparación con Pensilvania, lo que sugiere que gran parte del costo extra fue trasladado a los consumidores.
+
+
+
+
+
+
+
+
+
