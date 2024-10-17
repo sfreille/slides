@@ -1,0 +1,129 @@
+
+title: Economía Política
+title-slide-attributes:
+  data-background-image: background.png
+  data-background-size: contain
+  data-background-opacity: "0.5"
+subtitle: Unidad 7. Hay que dejar de robar por dos años: Corrupcion y desgobierno.
+author: |
+  | **Sebastián Freille**
+  | sfreille@unc.edu.ar
+  | Licenciatura en Economía
+  | FCE-UNC
+format:
+  revealjs:
+    slide-number: true
+    preview-links: auto
+    css: ..\quarto.css
+    width: 1500
+    center-title-slide: true
+    center: true
+    tbl-cap-location: bottom	
+    toc: true
+    toc-depth: 1
+    toc-title: Contenidos
+    link-external-newwindow: true
+---
+
+> En todos los gobiernos, salvo el mio, hubo corrupcion \
+**[Menem, C.(2018,Febrero 27). TN de 6 a 10; CNN en español, TN Noticias Argentina.]**
+
+# **Análisis económico del fenómeno de la corrupción pública** {background="#CAA811"}
+
+- Impacto sobre el desarrollo
+- ¿Es una falla de mercado?
+- Licencias, permisos, pasaportes y visas.
+
+## Impacto sobre el desarrollo (Desfrancois et al., 2022)
+
+- Por una parte, un número importante de trabajos sugieren que la corrupción es perjudicial para el desarrollo económico,
+ya que desvía los recursos públicos y, por ende, provoca una pérdida de peso muerto para la sociedad.
+
+## Impacto sobre el desarrollo (Desfrancois et al., 2022) (cont.)
+
+- Por otra parte, autores han sugerido que la corrupción sea beneficiosa para la sociedad. El argumento principal
+de esta rama de la literatura es que, si los gobiernos han implementado regulaciones ineficientes, entonces
+la corrupción puede ayudar a eliminar estas regulaciones a bajo costo. Bajo este escenario, es posible que la
+corrupción pueda mejorar la eficiencia del sistema y, por ende, ayudar al crecimiento económico.
+
+## Impacto sobre el desarrollo (Desfrancois et al., 2022) (cont.)
+
+- (Leff, 1964) afirma que los sobornos son necesarios para reducir las rigideces que restringen el crecimiento económico y la inversión, especialmente en los países subdesarrollados.
+
+## Impacto sobre el desarrollo (Desfrancois et al., 2022) (cont.)
+
+- (Lui, 1985) sugiere que la decisión de pagar sobornos podría lograr un equilibrio social óptimo debido a la minimización del costo de espera.
+
+## Impacto sobre el desarrollo (Desfrancois et al., 2022) (cont.)
+
+- (Beck & Maher, 1986) concluyen que la corrupción puede mejorar la eficiencia al proporcionar los proyectos a las empresas más eficientes.
+
+## Impacto sobre el desarrollo (Desfrancois et al., 2022) (cont.)
+
+- (Acemoglu & Verdier, 1998) afirman que la aplicación de los derechos de propiedad es la condición clave para la creación de riquezas, lo que implica prevenir todas las formas de corrupción.
+
+## Impacto sobre el desarrollo (Desfrancois et al., 2022) (cont.)
+
+- (Tanzi, 1998) afirma que las rigideces no son la naturaleza de la sociedad, sino que son creadas por los funcionarios gubernamentales, especialmente en caso de que tales obstáculos puedan atraer más sobornos.
+
+## Impacto sobre el desarrollo (Desfrancois et al., 2022) (cont.)
+
+- (Mauro, 1995) concluye en un análisis econométrico que incluye 58 países durante el periodo 1960-1985 que existe una relación negativa estadística y económicamente significativa entre la corrupción y el crecimiento económico.
+
+## Impacto sobre el desarrollo (Desfrancois et al., 2022) (cont.)
+
+![](CUADRO DE ESTUDIO.png){.r-stretch}
+
+## ¿Es una falla de mercado?
+
+- Falla de Mercado: Las fallas de mercado se definen como circunstancias o factores que impiden que los mercados asignen los recursos de forma eficiente.
+
+## ¿Es una falla de mercado? (cont.)
+
+- No obstante, la corrupción es un fenomeno que se produce generalmente en el Estado. Por lo que se la puede catalogar como falla de Estado.
+
+## ¿Es una falla de mercado? (cont.)
+
+-La provisión ineficiente de los bienes públicos requeridos (materiales e institucionales), el exceso de burocracia y de regulaciones, la falta de mecanismos transparentes de rendiciones de cuentas, también caerían en la categoría de “fallas de Estado”.
+
+## ¿Como afectan las estructuras constitucionales? (Kuricová & Rose-Ackerman, 2005) 
+
+- El objeto de este apartado es observar que el sistema de votación electoral elegido puede influir sobre el nivel de corrupción imperante en una región, país, estado, etc. 
+
+## ¿Como afectan las estructuras constitucionales? (Kuricová & Rose-Ackerman, 2005)  (cont.)
+
+- Presidencialismo: Sistema de organización política caracterizado por la separación entre el poder legislativo y el ejecutivo, a cuya cabeza se sitúa el presidente de la república que cuenta con la legitimación derivada de su elección por sufragio universal directo para un mandato fijo
+
+## ¿Como afectan las estructuras constitucionales? (Kuricová & Rose-Ackerman, 2005)  (cont.)
+
+- Representación Proporcional: Representación proporcional. Principio de elección basado en la asignación de cargos de representación popular tomando como base el porcentaje de votos obtenidos por un partido político en una región geográfica.
+  
+## ¿Como afectan las estructuras constitucionales? (Kuricová & Rose-Ackerman, 2005)  (cont.)
+
+![](COMPARACION ENTRE SISTEMAS Y MONITOREOS.png){.r-stretch}
+
+## ¿Como afectan las estructuras constitucionales? (Kuricová & Rose-Ackerman, 2005)  (cont.)
+
+- El trabajo se plantea probar dos hipótesis:
+
+## ¿Como afectan las estructuras constitucionales? (Kuricová & Rose-Ackerman, 2005)  (cont.)
+
+1- La existencia de una relación entre reglas electorales y corrupción. Ceteris Paribus. Se espera que los sistemas con representación proporcional y lista cerrada sean los más corruptos, seguidos por los sistemas de representación proporcional y lista abierta y luego por los sistemas de pluralidad.
+
+## ¿Como afectan las estructuras constitucionales? (Kuricová & Rose-Ackerman, 2005)  (cont.)
+
+2-Efectos de interacción. Ceteris Paribus. Los sistemas de representación proporcional presidencialistas se espera que sean más corruptos que su contrapartida parlamentaria. Aquellos sistemas presidencialistas de representación proporcional con lista cerrada podrían ser especialmente corruptos en relación con otros tipos de estructuras de gobierno.
+
+## ¿Como afectan las estructuras constitucionales? (Kuricová & Rose-Ackerman, 2005)  (cont.)
+
+- Los autores realizan modelos econométricos para probar estas relaciones con el índice de control de la corrupción que confecciona el Banco Mundial para los países que componen la muestra. 
+
+## ¿Como afectan las estructuras constitucionales? (Kuricová & Rose-Ackerman, 2005)  (cont.)
+
+- Los primeros resultados prueban que los coeficientes para representación proporcional (OLPR, CLPR), federalismo(FEDERAL) y presidencialismo(PRESIDENT) aumentan la corrupción. 
+
+## ¿Como afectan las estructuras constitucionales? (Kuricová & Rose-Ackerman, 2005)  (cont.)
+
+- En conclusión, la elección de las reglas electorales puede influir sobre el nivel de corrupción política. Los sistemas de representación proporcional traen más problemas de corrupción que los sistemas de pluralidad porque llevan a problemas de acción colectiva entre los votantes y también entre partidos de oposición para controlar a la política.
+
+
