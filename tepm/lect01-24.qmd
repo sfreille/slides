@@ -151,7 +151,7 @@ moldean e impactan el tipo y forma de las decisiones adoptadas.
 
 ## 1TDB: Eficiencia asignativa
 
-![Equilibrio competitivo es Pareto-eficiente](../epol/fig/fig-01-006.png){width=45%} ![Curva de contrato](fig/fig-01-007.png){width=45%}
+![Equilibrio competitivo es Pareto-eficiente](../epol/fig/fig-01-006.png){width=45%} ![Curva de contrato](../epol/fig/fig-01-007.png){width=45%}
 
 ## 2TDB: Eficiencia en (re)distribución
 
