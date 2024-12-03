@@ -733,8 +733,3 @@ g^{eq}_{A}=g^{*}_{M}=g^{eq}_{B}
 ## Políticos partidistas: Caso II
 
 ![Políticos partidistas: fuerzas centrífugas y centrípetas](../epol/fig/fig-04-020.png){#fig:04020 width=95%}
-
-# **Otros modelos de competencia electoral** {background="#CAA811"}
-
-- Candidatos con motivaciones políticas
-- 
