@@ -1,0 +1,499 @@
+---
+title: Comercio y Finanzas Internacionales [CyFI] 
+title-slide-attributes:
+  data-background-image: ../fig/fig-00-background.png
+  data-background-size: stretch
+  data-background-opacity: "0.85"
+subtitle: U2 (cont.) Modelo de factores específicos y distribución del ingreso
+format:
+  revealjs:
+    slide-number: true
+    chalkboard:
+      buttons: false
+    preview-links: auto
+    css: ..\quarto.css
+    width: 1500
+    center-title-slide: true
+    center: true
+    tbl-cap-location: bottom
+    toc: true
+    toc-depth: 1
+    toc-title: Contenidos
+---
+
+# ¿Es cierto que todos ganan con el comercio? {background="#4b6e5c"}
+
+## Ganancias del comercio y efectos distributivos
+
+- El modelo ricardiano muestra claramente que **bajo ciertos supuestos
+  existen ganancias globales del comercio**
+  - ¿Por qué entonces los países introducen aranceles y restringen el
+    comercio y por qué también existe evidencia de que esto es
+    particularmente así en años eleccionarios?
+- Distinción entre **efectos sobre el total** (agregados) y **efectos sobre
+  la distribución del total** (parciales)
+  - efectos distributivos son importantes
+    - llevan a restricciones parciales(¿totales?) del comercio
+	
+## Guerras comerciales y la política
+
+![](../fig/fig-02-006.png){fig-align="center"}
+
+## ¿Todos los factores ganan con el comercio?
+
+- Modelo ricardiano $\longrightarrow$ un sólo factor
+  - especialización total, trabajadores dejan la industria
+    *relativamente ineficiente* por la industria *relativamente
+    eficiente*
+	- "*Todos los paises* ganan con el comercio y *todos los
+      individuos* también"
+- El comercio **no afecta la distribución del ingreso**
+  - Ilustración $\longrightarrow$ caso de política comercial
+    restrictiva de Japón sobre importaciones de arroz [o también: De Mendiguren/Karagozian (textiles)]
+
+## Razones para efectos distributivos
+
+- Existen básicamente dos razones por las que el comercio
+  internacional tiene efectos distributivos
+  1. Los recursos (factores) no pueden reasignarse inmediatamente y
+     sin costo alguno entre industrias --**efectos del comercio a corto plazo**
+  2. Las industrias difieren entre las proporciones de recursos
+     (factores) que demandan; si el comercio induce a cambiar la
+     proporción de bienes que se produce, también cambia la demanda de
+     factores--**efectos del comercio a largo plazo**
+	 
+## Política y reformas anti-comercio
+
+![](../fig/fig-02-007.png){fig-align="center"}
+	
+# El modelo de factores específicos {background="#4b6e5c"}
+
+## El modelo de factores específicos: Supuestos
+
+- El **modelo de factores específicos** fue desarrollado por Samuelson
+  y Jones
+- Una economía con 3 (dos) factores productivos, $L$, $K$ y $T$
+- Sólo se producen 2 (dos) bienes: *manufacturas*, $M$ y *alimentos*,
+  $A$
+- Supuestos sobre movilidad de los factores:
+  - $L$ $\quad$ $\longrightarrow$ **movil entre sectores**
+  - $K$ y $T$ $\rightarrow$ **inmóvil entre sectores** --de ahí el
+    nombre de factores específicos
+
+## El modelo de factores específicos: Supuestos (cont.)
+
+- Las **manufacturas $M$ se producen usando $L$ y $K$** mientras que
+  los **alimentos $A$ se producen usando $L$ y $T$**
+- Habrá una **función de producción** para cada sector
+\begin{align}
+Q_{M}&=Q_{M}(K,L_{M}) \\
+Q_{A}&=Q_{A}(T,L_{A})
+\end{align}
+- Y debe cumplirse que:
+\begin{equation}
+L_{M}+L_{A}=L
+\end{equation}
+
+## El modelo de factores específicos: Sobre la "especificidad" de un factor
+
+> El que un factor se considere **específico de un sector**
+> no debe ser entendido como un atributo (característica) inherente y
+> absoluta sino más bien relativa y dependiendo del
+> contexto. Podríamos decir que dada una suficiente cantidad de
+> tiempo, todos los factores eventualmente son móviles [NOTA: Piense
+> en cuán facil es reasignar un torno usado en la producción de
+> automóviles en un tanque de cerámica usado en el proceso de
+> producción de vino]
+
+## El modelo de factores específicos: Posibilidades de producción
+
+::: {layout-ncol=2}
+![Producción](../fig/fig-02-008.png){ width=475px height=375px }
+
+![Productividad marginal](../fig/fig-02-009.png){ width=450px height=350px }
+
+Producción y producto marginal
+:::
+
+## El modelo de factores específicos: Posibilidades de producción
+
+- Es útil representar las **funciones de producción** de ambos bienes 
+  - De estas se derivan los conceptos de **producto marginal del
+    trabajo** y **rendimientos decrecientes**
+- Pendiente de la función de producción, $Q_{M}=Q_{M}(K,L_{M})$ es el
+  producto marginal del trabajo, $PM_{g}L_{M}$
+  - Note que $PM_{g}L_{M}$ se hace cada vez más chico a medida que se
+    agrega mas $L$ [¿por qué?]
+- Esto equivale a decir que el $PM_{g}L_{M}$ es **decreciente en el
+  nivel de producción**
+  
+## El modelo de factores específicos: La FPP
+
+![](../fig/fig-02-010.png){fig-align="center"}
+
+## El modelo de factores específicos: La FPP (cont.)
+
+- La **FPP se muestra en el cuadrante 1**, los **cuadrantes 2 y 4
+  muestran las funciones de producción de manufacturas y alimentos**
+  respectivamente [NOTA: ambas figuras están "giradas"] y el
+  **cuadrante 3** muestra la asignación de $L$  entre sectores. 
+- Note que la línea del cuadrante 3 tiene un pendiente constante
+  (igual a $-1$) --el trabajo es (perfectamente) móvil entre ambos
+  sectores y una unidad de trabajo quitada a $M$ equivale a una unidad
+  de trabaja brindada a $A$
+  
+## El modelo de factores específicos: La FPP (cont.)
+
+- La FPP muestras las posibilidades de producción de la economía de
+  las dotaciones de $L$, $K$ y $T$
+  - ¿Nota la principal diferencia con el modelo ricardiano?
+    $\longrightarrow$ **FPP no es una línea recta**
+- En otras palabras, el **costo de oportunidad de manufacturas en
+  términos de alimentos no será constante**
+  - Diferncia crucial con modelo ricardiano $\longrightarrow$
+    rendimientos decrecientes del trabajo en cada sector
+	
+## El modelo de factores específicos: La FPP (cont.)
+
+> ¿Qué está sucediendo cuando se reasigna trabajo entre sectores?
+> Suponga que desplazamos 1 (una) persona-hora de $L$ de la producción
+> de $A$ a $M$, esa unidad de $L$ aumentará la producción de $M$ en
+> $PMgL_{M}$ (o lo que es equivalente, para aumentar la producción
+> de $M$ en 1 debemos aumentar la cantidad de $L$ en $1/PMgL_{M}$
+> horas. Al mismo tiempo, debemos reducir la producción de $A$ en
+> $PMgL_{A}/PMgL_{M}$ unidades. La pendiente de la FPP es el
+> costo de oportunidad de $M$ en términos de $A$ es igual a
+> $-\frac{PMgL_{a}}{PMgL_{M}}$. Y puede observarse porqué es
+> *cóncava*: a medida que reasignamos todo el trabajo desde $A$ a $M$
+> el $PMgL_{M}$ *disminuye* y el $PMgL_{A}$ *aumenta*
+
+# Precios, salarios y asignación del trabajo {background="#4b6e5c"}
+
+
+## Precios, salarios y asignación del trabajo
+
+- ¿Cuánto trabajo se empleará en cada sector? debemos ver la $O$ y
+  $D$ de trabajo en c/sector
+  - las demandas de trabajo dependen del *precio* del bien y del
+    *salario* pagado 
+- Si el salario es $w$, empleadores contratarán $L$ hasta que se
+  verifique:
+\begin{equation}
+PMgL_{M}xP_{M}=w
+\end{equation}
+- Si bien $P_{M}$ y $w$ son constantes, $PMgL_{M}$ es variable
+  (decreciente) 
+  - La ecuación es la **demanda de $L$ de manufacturas** 
+- Note que si $w$ baja los empresarios
+  querrán contratar más trabajadores *ceteris paribus*
+  
+## Igualación de tasa salarial entre sectores
+
+- ¿La tasa salarial $w$ debe ser igual en ambos sectores o puede ser
+  diferente?
+  - resulta que **la tasa salarial $w$ deberá ser igual en ambos sectores** por el
+    supuesto de que el trabajo es móvil entre sectores
+- Usamos ambas demandas de $L$ --de manufacturas y alimentos- en un
+  mismo gráfico para ver como se asigna el trabajo entre sectores
+- En el punto de cruce, se determinan tanto la *tasa salarial $w^{1}$*
+  como la cantidad de trabajo usado en ambos sectores *$L_{M}^{1}$* y
+  *$L_{A}^{1}$*
+
+
+## Igualación de tasa salarial entre sectores (cont.)
+
+![](../fig/fig-02-011.png){fig-align="center"}
+
+## Precios relativos y producción (asignación)
+
+> Hay una relación importante entre *precios relativos* y
+> *producción*. Partiendo de $PMgL_{M}xP_{M}=PMgL_{A}xP_{A}=w$ y
+> reagrupando en $-PMgL_{A}/PMgL_{M}=-P_{M}/P_{A}$ puede observarse
+> que en el equilibrio en la producción, la frontera de posibilidades
+> de producción debe ser tangente a una línea cuya pendiente es el
+> precio de las manufacturas dividido el precio de los alimentos 
+
+## Precios relativos y producción (asignación) (cont.)
+
+![](../fig/fig-02-012.png){fig-align="center"}
+
+## Cambios en los precios
+
+- Note que este gráfico es relevante porque nos dice el punto de
+  producción (asignación) dependiente del relativo de precios (punto 1
+  en el gráfico con $Q_{M}^{1},Q_{A}^{1}$
+- ¿Qué pasa si hay **cambios en los precios**?
+  - Si ambos precios aumentan en la misma proporción
+  - Si un precio aumenta en mayor proporción que el otro
+  
+## Cambios en los precios: misma proporción
+  
+- Si $P_{M}$ y $P_{A}$ **aumentan en la misma proporción** (ie. un
+  10% tal que $P_{M}^{
+  1}$ pasa a $P_{M}^{2}$ y $P_{A}^{1}$ pasa a $P_{A}^{2}$)
+  $\longrightarrow$ ambas demandas de $L$ se desplazan  y el
+  equilibrio pasa del punto 1 al 2
+  - aumenta el *salario nominal en 10%*
+  - no cambia la asignación de $L$ entre sectores
+  - no cambia la producción
+
+> Cuando ambos precios aumentan en la misma proporción, no hay cambios
+> reales en la economía --todos los involucrados (trabajadores,
+> empresas y consumidores) están en la misma situación que antes del cambio
+
+## Cambios en los precios: misma proporción (cont.)
+
+![](../fig/fig-02-013.png){fig-align="center"}
+
+## Cambios en los precios: diferente proporción
+
+- Si $P_{M}$ y $P_{A}$ **aumentan en diferente proporción** (ie. un
+  7% tal que $P_{M}^{
+  1}$ pasa a $P_{M}^{2}$ y $P_{A}^{1}$ se mantiene inalterado)
+  $\longrightarrow$ aumenta un 10% la curva de demanda de $L$ de
+  manufacturas y el equilibrio pasa del punto 1 al punto 2 
+  - aumenta el *salario nominal en menos de 10%*
+  - ahora si cambia la asignación de $L$ entre sectores --va más
+    trabajo al sector $M$, menos al sector $A$
+  - ahora si cambia la producción --más $M$, menos $A$
+
+## Cambios en los precios: diferente proporción (cont.)
+
+![](../fig/fig-02-014.png){fig-align="center"}
+
+## Cambios en los precios: diferente proporción
+
+- Estos efectos también pueden verse en el gráfico de la FPP --note
+  que ahora comparamos $\frac{P_{M}}{P_{A}}^{1}$ con
+  $\frac{P_{M}}{P_{A}}^{2}$ 
+  - esto implica un *aumento del precio relativo*
+- Graficamente es un punto con mayor pendiente
+  - en este punto, nuevo equilibrio, se **producen más $M$ y menos
+    $A$**
+- Finalmente podemos dibujar una **curva de oferta relativa (OR)**
+  expresando $\frac{Q_{M}}{Q_{A}}$ según $\frac{P_{M}}{P_{A}}$
+  - importante $\longrightarrow$ curva OR no es quebrada sino que
+    continua y de pendiente positiva
+
+## Cambios en los precios: diferente proporción (cont.)
+
+![](../fig/fig-02-015.png){fig-align="center"}
+
+# Precios relativos y distribución de la renta {background="#4b6e5c"}
+
+## Precios relativos y distribución de la renta
+
+- Hasta ahora vimos: 1) determinación de la FPP dada tecnología y
+  recursos; 2) determinación de asignación de recursos, producción y
+  precios relativos. Es importante ver qué sucede con los precios de
+  los factores --distribución de la renta
+- Recuerde que existen 3 (tres) grupos: a) Trabajadores ($L$), b)
+  Capitalistas ($K$) y 3) Terratenientes ($T$)
+- Recuerde que cuando el $P_{M}$ aumentaba un 7%, el salario aumentaba
+  en menos que 7% (salvo que también aumente $P_{A}$ en
+  7%)$\longrightarrow$ 
+  
+## Precios relativos y distribución de la renta (cont.)
+
+
+- *Trabajadores* 
+  - caída en el salario real en relación a
+    manufacturas pero aumento en salario real en relacion a
+    alimentos $\longrightarrow$ **pueden ganar o perder**
+- *Capitalistas*
+  - al caer el salario real en términos de $M$, aumenta el beneficio
+    del capitalista (recuerde que sólo producen $M$)
+    $\longrightarrow$ **ganan**
+- *Terratenientes*
+  - están peor que antes ya que $P_{A}$ no cambia y
+    $w$ aumenta y también por el aumento de $P_{M}$ (reducción de
+    poder adquisitivo de cualquier renta) $\longrightarrow$ **pierden**
+
+## Precios relativos y distribución de la renta (cont.)
+
+> El factor específico del sector cuyo precio relativo aumenta está
+> definitivamente mejor
+
+> El factor específico del sector cuyo precio relativo disminuye está
+> definitivamente peor
+
+> El cambio de bienestar del factor móvil es ambiguo
+
+# El comercio internacional en el modelo de factores específicos {background="#4b6e5c"}
+
+## Pre-condiciones para el comercio
+
+- Recuerde $\longrightarrow$ para que exista comercio el **precio
+  relativo mundial** debe ser diferente del **precio relativo local**
+  - OR mundial puede ser diferente por diferente tecnologías y
+    diferente dotación de recursos
+- En el caso de la figura, si $\frac{P_{M}}{P_{A}}^{2}$ es mayor
+  que $\frac{P_{M}}{P_{A}}^{1}$ entonces la economía local empezará a
+  producir mas de $M$ y menos de $A$ (simil al movimiento a lo largo
+  de la FPP antes)
+- El mayor precio relativo de las $M$ hace que consumidores demanden
+  relativamente más $A$
+  - ergo $\longrightarrow$ **economía local exporta $M$ e
+    importa $A$**
+  
+## Oferta relativa (OR) mundial
+
+![](../fig/fig-02-016.png){fig-align="center"}
+
+## Oferta relativa (OR) mundial (cont.)
+
+> **Predicción.** Al abrirse al comercio, una economía exportará el
+> bien cuyo precio relativo haya aumentado e importará el bien cuyo
+> precio relativo haya disminuido
+
+## Distribución de la renta y ganancias del comercio
+
+- ¿Quién gana y quién pierde con el comercio internacional?
+  - clave $\longrightarrow$ el comercio internacional **modifica el
+    precio relativo** de los bienes comerciados
+
+> **Resultado.** El comercio beneficia al factor que es específico al
+> sector exportador de cada país pero perjudica al factor específico
+> de los sectores que compiten con las importaciones; el efecto final
+> sobre los factores móviles queda indeterminado
+
+## Distribución de la renta y ganancias del comercio (cont.)
+
+- ¿Pero en la suma alegbraica de ganancias y pérdidas, puede decirse
+  que en el *agregado* el comercio es beneficioso?
+  - suma algebraica implica comparaciones *subjetivas* de bienestar
+- Método alternativo $\longrightarrow$ ¿pueden ganadores compensar a
+  perdedores de modo que todos estén en mejor situación que antes del
+  comercio?
+  - Si la respuesta es sí, entonces *potencialmente* el comercio es
+    una fuente de ganancias para todos
+
+## Producción, consumo y comercio
+
+- **Si no hay comercio la producción debe igualar al consumo**, por lo
+  que en una economía cerrada, $D_{M}=Q_{M}$ y $D_{A}=Q_{A}$
+- **Si hay comercio la producción no debe igual al
+  consumo** pero debe cumplirse que
+\begin{align}
+P_{M}xD_{M}+P_{A}xD_{A}&=P_{M}xQ_{M}+P_{A}xQ_{A} \\
+D_{A}-Q_{A}&=\frac{P_{M}}{P_{A}}x(Q_{M}-D_{M})
+\end{align}
+- y $D_{A}-Q_{A}$ son importaciones de $A$ de la economía
+- Resumiendo $\longrightarrow$ la cantidad de importaciones está
+  necesariamente relacionada (¿limitada?) por la cantidad de
+  exportaciones de manufacturas - la última ecuación es conocida como la **restricción presupuestaria**
+
+## La restricción presupuestaria
+
+![](../fig/fig-02-017.png){fig-align="center"}
+
+## Producción, consumo y comercio
+
+- Pendiente de la RP $\longrightarrow$ es igual a
+  $\frac{P_{M}}{P_{A}}$
+  - además la RP es tangente a la FPP en el **punto que representa la
+    elección de producción de la economía local**
+- ¿Por qué el comercio es ganancia?
+  1. Sin comercio el consumo de la economía debería estar sobre la FPP
+     (punto como 1 o 2 según su punto de producción es punto 1
+  2. Con comercio puede consumir a lo largo de *cualquier punto de la
+     RP* $\longrightarrow$ cualquier punto que esté en area sombreada
+     entre el punto 2 y la RP es preferido al punto 2 [Note que el
+     consumo de *ambos bienes* es mayor en cualquiera de esos puntos]
+
+
+## Producción, consumo y comercio (cont.)
+
+- Si la economía en su conjunto consume más de ambos bienes, en
+  principio cada individuo podría consumir también más de ambos
+  bienes.
+
+> **Implicancia.** La razón principal por la que el comercio beneficia
+> fundamentalmente a un país es porque *amplía las opciones de
+> elección* de la economía
+
+- Esto último implica que siempre *será posible* distribuir la renta 
+de modo que todos puedan ganar. 
+  - Sin embargo, el hecho de que *todos puedan ganar no significa que
+    todos ganen*...
+
+# Movilidad internacional del trabajo {background="#4b6e5c"}
+
+## Migración internacional de $L$
+
+- En el modelo básico de factores específicos, los trabajadores se
+  mueven entre sectores de manufacturas, $M$, y alimentos, $A$ en
+  respuesta a diferencias salariales
+- Es importante analizar los determinantes y las consecuencias de la
+  **migración (internacional) voluntaria** de trabajadores
+  - del mismo modo que vimos para el caso de diferencias salariales
+    entre sectores, existe incentivo para trabajadores de moverse
+    desde países con salarios bajos a países con salarios altos.
+- Intuición $\longrightarrow$ si libre y perfecta movilidad
+  internacional, entonces salarios entre países deberían ser iguales
+
+## Migración internacional de $L$: supuestos
+
+- Dos países. Dos factores: trabajo (móvil) y tierra (inmóvil). Se
+  produce un único bien usando ambos factores
+- No hay comercio de bienes --existe un sólo bien
+- Si hay comercio de servicios (laborales) 
+  - ¿por qué existen diferencias salariales *ex-ante* --diferencias
+    tecnológicas; diferencias en dotación factorial relativa
+- La figura siguiente ilustra las causas y consecuencias de la
+  movilidad internacional del trabajo
+
+## Migracion internacional de $L$: análisis gráfico
+
+![](../fig/fig-02-018.png){fig-align="center"}
+
+## Migracion internacional de $L$: análisis gráfico (cont.)
+
+- Eje horizontal cantidad mundial total de $L$. Curvas de $PMg$ son
+  curvas del producto marginal del trabajo del mismo bien en distintos
+  países. Eje vertical mide el salario *real* --salario nominal
+  dividido precio del producto
+- Inicialmente $\longrightarrow$ $OL^{1}$ trabajadores en país local y
+  $L^{1}O*$ en país extranjero
+  - salario real en país local (punto C) es menor que en
+    país extranjero (punto B)
+- Movilidad $\longrightarrow$ se van de país local (reduce oferta de
+  $L$, aumenta salario) a país extranjero (aumenta oferta de $L$,
+  disminuye salario)
+  - equilibrio final $\longrightarrow$ punto A se iguala salario real,
+    $OL^{2}$ trabajadores en país locaal y $L^{2}O*$ en país
+    extranjero
+	
+## Migracion internacional de $L$: implicancias
+
+- La movilidad internacional de $L$ y la redistribución que implica:
+  1. Da lugar a **convergencia en salarios reales**
+  2. Aumenta la **producción mundial total** --triángulo ABC suma
+     algebraica de ganancias/pérdidas
+  3. **Algunos trabajadores pierden** $\longrightarrow$ trabajadores
+     del país extranjero; terratenientes nacionales [¿por qué?]
+- En otras palabras, la movilidad internacional de $L$ es otro
+  ejempleo en que el **bienestar global aumenta pero perjudica a
+  algunos grupos**
+  - importante $\longrightarrow$ esto aplica a CP pero no a LP --con
+    todos los factores móviles, no necesariamente se cumple
+	
+## Migracion internacional de $L$: evidencia
+
+- Han existido muchas oleadas de movilidad internacional de $L$ en la
+  historia --chinos a California, indios a Africa y Caribe, japoneses
+  a Brasil, periferia europea a Argentina, Canadá y Australia
+  (abundantes en $T$ y escasos en $L$)
+- ¿Hubo convergencia de salarios? Si, efectivamente se verificó
+  convergencia en salarios reales -en países receptores salarios
+  aumentaron relativamente poco en comparación con salarios en países
+  emisores [no convergencia total]
+- Las guerras mundiales pusieron un alto a esta movilidad y junto con
+  la disminución del comercio global también se produjo la reversión
+  del proceso de convergencia salarial
+
+
+## Migracion internacional de $L$: evidencia (cont.)
+
+![](../fig/fig-02-019.png){fig-align="center"}
+
