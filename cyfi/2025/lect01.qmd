@@ -1,11 +1,10 @@
 ---
-title: U1. El comercio y las finanzas internacionales. Patrones, tendencias y evidencias.
-subtitle: Comercio y Finanzas Internacionales [UCC]
-author: |
-  | **Sebastián Freille**
-  | 0933217@ucc.edu.ar
-  | Licenciatura en Ciencia Política y Licenciatura en RRII
-  | FCPyRRII - UCC
+title: Comercio y Finanzas Internacionales [CyFI]
+title-slide-attributes:
+  data-background-image: ../fig/fig-00-background.png
+  data-background-size: stretch
+  data-background-opacity: "0.85"
+subtitle: U1. El comercio y las finanzas internacionales. Patrones, tendencias y evidencias.
 format:
   revealjs:
     slide-number: true
@@ -22,7 +21,7 @@ format:
     toc-title: Contenidos
 ---
 
-# ¿Por qué estudiar economía internacional? {background="#43464B"}
+# ¿Por qué estudiar economía internacional? {background="#4b6e5c"}
 
 ## Razones y motivaciones
 
@@ -81,24 +80,47 @@ format:
     
 ## Políticos y comercio
 
-![](fig/fig-01-001.png){fig-align="center"} 
+![](../fig/fig-01-001.png){fig-align="center"} 
   
 ## Políticos y comercio (cont.)
 
-![](fig/fig-01-002.png){fig-align="center"} 
+![](../fig/fig-01-002.png){fig-align="center"} 
 
 ## Políticos y comercio (cont.)
 
-![](fig/fig-01-003.png){fig-align="center"} 
+![](../fig/fig-01-003.png){fig-align="center"} 
   
 ## Políticos y comercio (cont.)
 
-![](fig/fig-01-004.png){fig-align="center"}
+![](../fig/fig-01-004.png){fig-align="center"}
+
+## Políticos y comercio (cont.)
+
+- Dado que los efectos de la política comercial son frecuentemente
+  estudiados a nivel teórico...
+  - y también en ese gran laboratorio de ensayos que es la historia
+    económica
+
+> Seguramente los políticos han aprendido...¿no?
+
+- sobre todo acerca de efectos económicos negativos
+
+## Políticos y comercio (cont.)
+
+![](../fig/fig-01-trump-quote-trade.png){fig-align="center"}
+
+## Políticos y comercio (cont.)
+
+![](../fig/fig-01-trump-quote-tariffs.png){fig-align="center"}
+
+## Políticos y comercio (cont.)
+
+![](../fig/fig-01-trump-cost-of-tariffs.png){fig-align="center"}
+
 
 ## Preferencias: individuos: 
 
-- Preferencias de ciudadanos ante el comercio internacional no siempre
-  son informadas
+- Preferencias individuales ante el comercio internacional no siempre informadas
   - Individuos no tienen por qué conocer cómo afecta el comercio
     internacional a la economía tanto en lo macro como micro
 - Aún si conocieran perfectamente todos los efectos, hay problemas
@@ -110,15 +132,15 @@ format:
   
 ## Preferencias: individuos (cont.)
 
-![](fig/fig-01-005.png){fig-align="center"}
+![](../fig/fig-01-005.png){fig-align="center"}
 
 ## Preferencias: individuos (cont.)
 
-![](fig/fig-01-006.png){fig-align="center"}
+![](../fig/fig-01-006.png){fig-align="center"}
 
 ## Preferencias: individuos (cont.)
 
-![](fig/fig-01-007.png){fig-align="center"}
+![](../fig/fig-01-007.png){fig-align="center"}
 
 ## Pero los economistas...
 
@@ -134,24 +156,24 @@ format:
   
 ## ...tienden a estar de acuerdo
 
-![](fig/fig-01-008.png){fig-align="center"}
+![](../fig/fig-01-008.png){fig-align="center"}
 
 ## Estudio de la economía internacional
 
 - Existen dos grandes ramas de la economía internacional
   - comercio internacional --énfasis en **transacciones reales**
-    - conficto EEUU-UE en torno a los subsidios a las exportaciones
+    - conficto EEUU-UE en torno a los subsidios a las X
       agrícolas de la UE
   - finanzas internacionales --énfasis en **aspectos monetarios** de
     la economía internacional
 	- controversia sobre si el tipo de cambio debe flotar libremente o
-      debe ser administrado
-- En esta materia, comercio internacional será cubierto en las
+      debe ser administrado --"fear to float"
+- Materia: comercio internacional será cubierto en las
   primeras 5 (cinco) unidades mientras que finanzas internacionales
   será el tema de las unidades 6 a 9. 
   
 
-# Globalización {background="#43464B"}
+# Globalización {background="#4b6e5c"}
 
 ## El mundo global
 
@@ -187,38 +209,38 @@ format:
 	
 ## M1: Flujos comerciales
 
-![](fig/fig-01-009.png){fig-align="center"}
+![](../fig/fig-01-009.png){fig-align="center"}
 
 ## M1: Flujos comerciales (cont.)
 
-![](fig/fig-01-010.png){fig-align="center"}
+![](../fig/fig-01-010.png){fig-align="center"}
 
 
 ## M2: Exportaciones de servicios
 
-![](fig/fig-01-011.png){fig-align="center"}
+![](../fig/fig-01-011.png){fig-align="center"}
 
 ## M2: Exportaciones de servicios (cont.)
 
 ::: {layout-ncol=2}
-![India](fig/fig-01-012.png){fig-align="center"}
+![India](../fig/fig-01-012.png){fig-align="center"}
 
-![Panamá](fig/fig-01-013.png){fig-align="center"}
+![Panamá](../fig/fig-01-013.png){fig-align="center"}
 :::
 
 ## M3: Activos extranjeros
 
-![](fig/fig-01-014.png){fig-align="center"}
+![](../fig/fig-01-014.png){fig-align="center"}
 
 ## M3: Activos extranjeros
 
-![](fig/fig-01-015.png){fig-align="center"}
+![](../fig/fig-01-015.png){fig-align="center"}
 
 ## M4: Migración internacional
 
-![](fig/fig-01-016.png){fig-align="center"}
+![](../fig/fig-01-016.png){fig-align="center"}
 
-## {background-video="fig/vid-01-001.mp4" background-size="contain" background-video-loop="true"}
+## {background-video="../fig/vid-01-001.mp4" background-size="contain" background-video-loop="true"}
 
 ## M5: Converencia de precios
 
@@ -230,7 +252,7 @@ convergencia de precios incluso considerando desde la 2GM
   - Principal fenómeno de convergencia en salarios reales mucho mayor
     en siglo XIX que en 2GM
 	
-# Causas de la globalización {background="#43464B"}
+# Causas de la globalización {background="#4b6e5c"}
 	
 ## Causas de la globalización
 	
@@ -243,16 +265,16 @@ convergencia de precios incluso considerando desde la 2GM
 ## Causas de la globalización (cont.)
 
 ::: {layout-ncol=2}
-![Tarifas desde la 2GM - Países seleccionados](fig/fig-01-019.png){fig-align="center"}
+![Tarifas desde la 2GM - Países seleccionados](../fig/fig-01-019.png){fig-align="center"}
 
-![Tarifas de EEEUU desde 1900](fig/fig-01-020.png){fig-align="center"}
+![Tarifas de EEEUU desde 1900](../fig/fig-01-020.png){fig-align="center"}
 :::
 
 ## Causas de la globalización (cont.)
 
-![](fig/fig-01-021.png){fig-align="center"}
+![](../fig/fig-01-021.png){fig-align="center"}
 
-# Patrones de comercio {background="#43464B"}
+# Patrones de comercio {background="#4b6e5c"}
 
 ## ¿Quién comercia con quién?
 
@@ -267,22 +289,21 @@ convergencia de precios incluso considerando desde la 2GM
 
 ## El modelo de gravedad
 
-- Muchos trabajos predicen el comercio entre países a través de una sóla
-  ecuación:
+- Muchos trabajos predicen comercio entre países a través de una ecuación:
   
 \begin{equation}
 T_{ij}=\frac{A  Y_i  Y_j}{D_{ij}}
 \end{equation}
 
-- ¿Por qué funciona esta ecuación? economías grandes tienden a gastar mucho en ($M$)
+- ¿Por qué funciona? economías grandes tienden a gastar mucho en ($M$)
   - comercio entre dos países cualesquiera **aumenta cuánto más grande
     sea *cualquiera* de las economías implicadas**
-- Pero en la práctica, tanto la UE como EEUU atraen sólo un 2%
+- En la práctica, tanto la UE como EEUU atraen sólo un 2%
   del gasto del otro y representan cada uno un 25% del PIB mundial!
   
 ## El modelo de gravedad (cont.)
 
-![](fig/fig-01-022.png){fig-align="center"}
+![](../fig/fig-01-022.png){fig-align="center"}
  
 ## El modelo de gravedad (cont.)
  
@@ -311,9 +332,9 @@ T_{ij}=\frac{A  Y_i  Y_j}{D_{ij}}
   
 ## Obstáculos al comercio (cont.)
 
-![](fig/fig-01-023.png){fig-align="center"}
+![](../fig/fig-01-023.png){fig-align="center"}
 
-# Política comercial {background="#43464B"}
+# Política comercial {background="#4b6e5c"}
 
 ## Política comercial
 
@@ -329,11 +350,12 @@ T_{ij}=\frac{A  Y_i  Y_j}{D_{ij}}
   
 ## Política comercial (cont.)
 
-![](fig/fig-01-024.png){fig-align="center"}
+![](../fig/fig-01-024.png){fig-align="center"}
 
 ## Política comercial (cont.)
 
-![](fig/fig-01-025.png){fig-align="center"}
+![](../fig/fig-01-025.png){fig-align="center"}
+
 
 ## Política comercial (cont.)
 
@@ -348,7 +370,7 @@ T_{ij}=\frac{A  Y_i  Y_j}{D_{ij}}
 
 ## Política comercial (cont.)
 
-![](fig/fig-01-026.png){fig-align="center"}
+![](../fig/fig-01-026.png){fig-align="center"}
 
 
 ## Política comercial (cont.)
@@ -377,11 +399,9 @@ T_{ij}=\frac{A  Y_i  Y_j}{D_{ij}}
     Política Internacional*]
 	- mundo pequeño entre 1870 y 1914; mundo fragmentado entre 1914 y
       1970; mundo pequeño con desintegración vertical desde 1970; desde 2000's ¿mundo global, política nacional?
-- Aún a pesar de estas consideraciones, el mundo luce cada vez más
-  entrelazado
-  
+
 ## Política comercial (cont.)
 
-![Evolución de la estructura de la red de comercio global. [Fuente:
-Correlates of War Project Data Set]](fig/fig-01-027.png){fig-align="center"}
+![Evolución de la estructura de la red de comercio global. Fuente:
+Correlates of War Project Data Set](../fig/fig-01-027.png){fig-align="center"}
 
