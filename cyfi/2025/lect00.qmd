@@ -1,0 +1,162 @@
+---
+title: Comercio y Finanzas Internacionales [CyFI]
+title-slide-attributes:
+  data-background-image: ../fig/fig-00-background.png
+  data-background-size: stretch
+  data-background-opacity: "0.85"
+subtitle: U0-Presentación de la materia
+format:
+  revealjs:
+    slide-number: true
+    chalkboard:
+      buttons: false
+    preview-links: auto
+    css: ../quarto.css
+    width: 1500
+    center-title-slide: true
+    center: true
+---
+
+# **Fundamentación, caracterización y objetivos** {background="#4b6e5c"}
+
+## Fundamentación
+
+> En el marco del sostenido proceso de creciente interdependencia y globalización de las relaciones económicas desde la segunda mitad del siglo XX, las interacciones comerciales y financieras entre los países son cada vez más profundas, abarcativas y complejas. En consecuencia, resulta fundamental describir, analizar y comprender los determinantes del intercambio comercial y financiero de los países, las motivaciones detrás de la política comercial y los efectos e impactos económicos de estas relaciones sobre los actores locales y las economías nacionales tanto a nivel micro como macroeconómico. 
+ 
+## Caracterización
+
+> La asignatura representa una introducción al estudio del comercio y
+> las finanzas internacionales desde una perspectiva
+> económica. Presenta y motiva el estudio de diferentes hechos y
+> fenómenos en que diferentes agentes realizan transacciones
+> comerciales y financieras, los determinantes y las consecuencias de
+> los mismos. La asignatura provee un marco teórico y conceptual que
+> permite entender las características, incentivos y funcionamiento
+> esencial de estas interacciones económicas internacionales.
+
+## Objetivos
+
+> El objetivo de la asignatura es presentar y desarrollar teorías y evidencias acerca de la naturaleza, determinantes y efectos de las relaciones comerciales y financieras entre los países con especial énfasis en la realidad Argentina y Latinoamericana al tiempo que proveer fundamentos para que los estudiantes puedan abordar, comprender y analizar las diferentes problemáticas y dinámicas del comercio y las finanzas internacionales. 
+
+# **Clases, materiales y dictado** {background="#4b6e5c"}
+
+## Equipo docente
+
+- **Sebastián Freille**
+  - Email: 0933217@ucc.edu.ar
+  - Box 4 (Area Investigación)
+  - Horario de consulta: a definir
+  
+- **Franco Aguirre**
+  - Email: 1206837@ucc.edu.ar
+  - Horario de consulta: a definir
+
+## Clases
+
+- Los **días y horarios de las clases** semanales serán:
+  - Cátedra "A":
+    - LUN, 15:00 a 16:00 [Aguirre]
+    - MIE, 15:00 a 18:00 [Freille]
+  - Cátedra "B":
+    - LUN, 16:00 a 17:00 [Aguirre]
+	- JUE, 17:00 a 20:00 [Freille]
+- No habrá videotransmisión ni clase híbrida salvo previo aviso y en
+  situación excepcional por parte de la cátedra
+
+## Bibliografía
+
+- El programa de la materia contiene las unidades temáticas, contenidos y bibliografía
+- Hay un libro de texto de referencia que la cátedra sigue de manera
+  estricta:
+  - Krugman, P. Obstfeld, M., and Melitz, M. (2016). *Economía
+    Internacional: teoría y política*, 10ma edición, Pearson
+    Educación. 
+- Adicionalmente, se usarán para algunos temas específicos algunos
+  textos y artículos seleccionados
+
+## Recursos y materiales
+
+- El aula virtual de la materia está disponible en: [Aula Virtual UCC](https://presencial.ucc.edu.ar/course/view.php?id=12424)
+- Adicionalmente podrán encontrar recursos de la materia en:
+  [Sitio web personal](https://sfreille.github.io/teaching/cyfi) 
+- Eventualmente se comunicarán recursos y material adicional
+- Se pondrá a disposición copias digitalizadas de los principales materiales.
+- Los foros de unidades en aula virtual serán exclusivamente para consultas de contenidos de la materia.
+
+
+## Dictado: modalidad presencial
+
+- La modalidad de dictado de la materia será presencial es decir sin
+  hacer uso de educación híbrida y/o educación a distancia. No
+  obstante ello, los estudiantes tendrán a su disposición todo el
+  material del aula virtual. 
+
+## Dictado: asistencia y tipología
+
+- El requisito de asistencia es el que fijan las autoridades de la Facultad
+- Las clases en formato de exposición por parte del profesor. Se promueve la participación de estudiantes a partir de disparadores.
+- Las clases tendrán módulos de 50-60 minutos y recreos entre los
+  mismos. 
+
+# **Metodología de evaluación y aprobación** {background="#4b6e5c"}
+
+## Evaluacion y aprobación
+
+- La materia se **regulariza aprobando 2 (dos) parciales**. Se puede recuperar un sólo parcial, por aplazo o ausencia. Los parciales serán **presenciales físicos**.
+- La materia **se aprueba (1) rindiendo y aprobando un examen en
+  condición de regular; o (2) siguiendo los lineamientos fijados por
+  la Facultad de Ciencia Política y Relaciones Internacionales para el
+  caso de alumnos en condición de libre.** 
+- En todos los casos **se aprueba con 50 puntos sobre 100**, sin excepciones
+- **No hay promoción** directa ni indirecta
+
+## Fechas importantes
+
+- Catedra "A"
+  - Parcial 1: 23-ABR
+  - Parcial 2: 28-MAY
+  - Parcial 3: 11-JUN
+- Cátedra "B"
+  - Parcial 1: 24-ABR
+  - Parcial 2: 29-MAY
+  - Parcial 3: 12-JUN
+
+# **Programa abreviado** {background="#4b6e5c"}
+
+## Programa abreviado
+
+- U1. El comercio y las finanzas internacionales: Patrones, tendencias
+  y evidencias. Aproximaciones teóricas al estudio del comercio y las
+  finanzas internacionales
+- U2. Productividad del trabajo y ventaja comparativa: El modelo
+  ricardiano. Modelo de factores específicos y distribución del
+  ingreso
+- U3. Dotación factorial, ventaja comparativa y comercio: el modelo
+  Heckscher-Ohlin
+- U4. El modelo estándar de comercio.
+- U5. Modelos alternativos de comercio internacional
+
+---
+## Programa abreviado (cont.)
+
+- U6. Balanza de pagos. El mercado de divisas. Tipo de cambio
+- U7. Dinero, tipo de interés. Paridad del poder adquisitivo. Enfoque
+  monetario de la balanza de pagos. Crisis de balanza de pagos
+- U8. Política comercial. Instrumentos. Argumentos en favor del libre
+  comercio. La economía política de la política comercial
+- U9. Integración comercial y monetaria
+
+# **Sitios y recursos adicionales** {background="#4b6e5c"}
+
+## Sitios y recursos adicionales
+
+- [Globe of Economic Complexity](http://globe.cid.harvard.edu/)
+- [World Integrated Trade Solution](https://wits.worldbank.org/)
+- [UN Comtrade Database](https://comtradeplus.un.org/)
+- [Resource Trade .Earth](https://resourcetrade.earth/)
+- [People Movin](https://peoplemov.in/)
+- [Temporary Trade
+  Barriers](https://www.worldbank.org/en/data/interactive/2021/03/02/temporary-trade-barriers-database)
+- [Global Services Trade Data
+  Hub](https://www.wto.org/english/res_e/statis_e/services_trade_data_hub_e.htm)
+
