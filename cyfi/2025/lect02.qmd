@@ -1,11 +1,10 @@
 ---
-title: U2. Productividad del trabajo y ventaja comparativa. El modelo ricardiano 
-subtitle: Comercio y Finanzas Internacionales [UCC]
-author: |
-  | **Sebastián Freille**
-  | 0933217@ucc.edu.ar
-  | Licenciatura en Ciencia Política y Licenciatura en RRII
-  | FCPyRRII - UCC
+title: Comercio y Finanzas Internacionales [CyFI]
+title-slide-attributes:
+  data-background-image: ../fig/fig-00-background.png
+  data-background-size: stretch
+  data-background-opacity: "0.85"
+subtitle: U2. Productividad del trabajo y ventaja comparativa. El modelo ricardiano
 format:
   revealjs:
     slide-number: true
@@ -22,7 +21,7 @@ format:
     toc-title: Contenidos
 ---
 
-# ¿Por qué comercian los países entre sí? {background="#43464B"}
+# ¿Por qué comercian los países entre sí? {background="#4b6e5c"}
 
 ## Ganancias del comercio
 
@@ -57,9 +56,9 @@ format:
   - EEUU podría considerar *importar* las rosas de otro país --Argentina
 - Argentina $\longrightarrow$ con los recursos usados para producir 10
   millones de rosas se podrían producir 30 mil computadores
-  - Podría producirse una situación mutuamente
-    beneficiosa si se reordena la producción mundial de manera que EEUU
-    sólo produzca computadores y Argentina sólo produzca rosas
+  - Podría darse situación mutuamente
+    beneficiosa si se reordena producción mundial donde EEUU
+    *sólo* produzca computadores y Arg *sólo* produzca rosas
 	- ¿Por qué es beneficiosa? ¿Quién gana? ¿Quién pierde?
 - La tabla ilustra las ganancias asociadas a esta
   reorganización de la producción
@@ -82,9 +81,9 @@ format:
   uno exporta los bienes en los que tiene una ventaja comparativa!
   - Claro está nada garantiza que esto suceda --sin embargo esta idea
     dio origen al primer y más tradicional modelo de comercio
-    internacional $\longrightarrow$ **el modelo ricardiano*
+    internacional $\longrightarrow$ **el modelo ricardiano**
 
-# El modelo ricardiano {background="#43464B"}
+# El modelo ricardiano {background="#4b6e5c"}
 
 ## El modelo ricardiano: producción
 
@@ -111,12 +110,11 @@ a_{LQ}Q_{Q}+a_{LV}Q_{V} \leq L
 
 ## El modelo ricardiano: producción (cont.)
 
-![](fig/fig-02-001.png){fig-align="center"}
+![](../fig/fig-02-001.png){fig-align="center"}
 
 ## El modelo ricardiano: producción (cont.)
 
-- Suponga: $a_{LQ}=1$, $a_{LV}=2$, y $L=1000$. El total de $V$ y $Q$
-  que se puede producir:
+- Suponga: $a_{LQ}=1$, $a_{LV}=2$, y $L=1000$. Total posible de $V$ y $Q$:
 \begin{align}
 \frac{L}{a_{LQ}}&=1000 \\
 \frac{L}{a_{LV}}&=500 
@@ -124,7 +122,7 @@ a_{LQ}Q_{Q}+a_{LV}Q_{V} \leq L
 - Para producir un kilo más de queso se necesitan $a_{LQ}$
     personas-hora y a su vez cada una de estas personas-hora podría
     producir $1/a_{LV}$. 
-- Por ello el **costo de oportunidad de queso en términos de vino** es
+- **Costo de oportunidad de queso en términos de vino** es
   $\frac{a_{LQ}}{a_{LV}}=\frac{1}{2}$ --constante!
   
 ## El modelo ricardiano: producción (cont.)
@@ -141,10 +139,10 @@ a_{LQ}Q_{Q}+a_{LV}Q_{V} \leq L
 ## El modelo ricardiano: producción (cont.)
 
 - ...si $P_{Q}=3$ en ese caso a ningún trabajador le conviene producir
-  $Q$y la economía se especializaría en la producción de $V$
-- ¿Cuáles son los salarios en cada sector?
-  - El salario será el *valor* de lo que un trabajador puede producir
-    en una hora --$\frac{P_{Q}}{a_{LQ}}$ y $\frac{P_{V}}{a_{LV}}$
+  $Q$ y la economía se especializaría en la producción de $V$
+- ¿Cuáles son los salarios en cada sector? El salario será el *valor*
+    de lo que un trabajador puede producir en una hora
+    --$\frac{P_{Q}}{a_{LQ}}$ y $\frac{P_{V}}{a_{LV}}$ 
 
 \begin{align}
 \textrm{El país producirá:}
@@ -173,8 +171,8 @@ V & si \quad \frac{P_{Q}}{P_{V}} < \frac{a_{LQ}}{a_{LV}}  \\
 
 ## El modelo ricardiano: comercio
 
-- Hay 2 (dos) países: 1) $L$, $a_{LV}$, $a_{LQ}$; 2) $L^{*}$, $a^{*}_{LV}$, $a^{*}_{LQ}$
-- Suponemos que:
+- Hay 2 (dos) países: 1) $L$, $a_{LV}$, $a_{LQ}$; 2) $L^{*}$,
+  $a^{*}_{LV}$, $a^{*}_{LQ}$. Suponemos que:
 \begin{align}
 \frac{a_{LQ}}{a_{LV}} < \frac{a^{*}_{LQ}}{a^{*}_{LV}} \\
 \frac{a_{LQ}}{a^{*}_{LQ}} < \frac{a_{LV}}{a^{*}_{LV}} 
@@ -197,7 +195,7 @@ V & si \quad \frac{P_{Q}}{P_{V}} < \frac{a_{LQ}}{a_{LV}}  \\
 
 ## El modelo ricardiano: comercio (cont.)
 
-- ¿Podemos determinar el patrón de comercio sólo a partir de la
+- ¿Podemos saber el patrón de comercio *sólo* a partir de la
   ventaja absoluta? $\longrightarrow$ **no**
 - Ahora podemos dibujar la FPP de cada país una al lado de otro
   - recuerde que **la pendiente de la FPP es el costo de oportunidad
@@ -213,11 +211,10 @@ V & si \quad \frac{P_{Q}}{P_{V}} < \frac{a_{LQ}}{a_{LV}}  \\
 ## El modelo ricardiano: comercio (cont.)
 
 ::: {layout-ncol=2 layout-valign="bottom"}
-![Local](fig/fig-02-001.png){ width=650px height=490px }
+![Local](../fig/fig-02-001.png){ width=650px height=490px }
 
-![Extranjero](fig/fig-02-002.png){ width=600px height=440px}
+![Extranjero](../fig/fig-02-002.png){ width=600px height=440px}
 
-llladf
 :::
 
 ## Precio relativo y oferta relativa
@@ -234,7 +231,7 @@ llladf
 
 ## Precio relativo y oferta relativa (cont.)
 
-![](fig/fig-02-003.png){fig-align="center" height=550px}
+![](../fig/fig-02-003.png){fig-align="center" height=550px}
   
 ## Precio relativo y oferta relativa (cont.)
 
@@ -249,7 +246,7 @@ llladf
   $\longrightarrow$ **indiferencia entre $Q$ y $V$** (extranjeros)
 - Si $\frac{P_{Q}}{P_{V}} > \frac{a^{*}_{LQ}}{a^{*}_{LV}}$
   $\longrightarrow$ ambos **se especialización en la produccion de
-  $Q$** [no habrá producción de $V$!]
+  $Q$** [no $V$!]
   
 ## Precio relativo y oferta relativa (cont.)
 
@@ -260,7 +257,7 @@ llladf
 - Finalmente, el **precio relativo** de equilibrio se determina en la
   intersección de $OR$ y $DR$
 - Note en figura los equilibrios posibles ante 2 (dos) curvas
-  alternativas de $DR 
+  alternativas de $DR$ 
 	
 ## Precio relativo y oferta relativa (cont.)
 
@@ -282,6 +279,7 @@ llladf
 - El caso más normal y estándar es que **el precio del bien que se
   exporta en relación (queso) con el precio del otro bien (vino) se
   sitúe entre los *precios de autarquía* de ambos bienes**
+  
 > **Implicancia.** Esta convergencia en precios desde los *precios de
   autarquía* a *precios de comercio* tiene por efecto la
   **especialización** de cada país en el bien en el que tiene un
@@ -315,7 +313,7 @@ llladf
 	  
 ## Las ganancias del comercio (cont.)
 
-![](fig/fig-02-004.png){fig-align="center"}
+![](../fig/fig-02-004.png){fig-align="center"}
 
 
 ## Las diferencias en los salarios relativos
@@ -333,7 +331,7 @@ llladf
       ganarán $U$S$ 4 por hora $\longrightarrow$ salario relativo de
       país local será igual a 3
 	  
-# Ideas erróneas sobre la ventaja comparativa {background="#43464B"}
+# Ideas erróneas sobre la ventaja comparativa {background="#4b6e5c"}
 
 ## Mito 1: Productividad y competitividad
 
@@ -377,11 +375,11 @@ llladf
   - en nuestro ejemplo, en autarquía, el extranjero tendría salarios
     aún más bajos --de 1/3 a 1/6!
 	
-# *El caso con muchos bienes* {background="#43464B"}
+# *El caso con muchos bienes* {background="#4b6e5c"}
 
 ## *Ventaja comparativa con muchos bienes*
 
-- Hasta ahora hemos trabajado con un modelo tipo 2x2 --2 (dos) países
+- Hasta ahora usamos un modelo tipo 2x2 --2 (dos) países
   y 2 (dos) bienes
 - El mundo real tiene muchos países y muchos bienes
 - Seguimos suponiendo que hay 2 (dos) países por simplicidad y 1 (un)
@@ -444,7 +442,7 @@ wa_{Li}  &< w^{*}a^{*}_{Li} \\
   - Muestre a partir de la tabla por qué es conviente para el país
     local importar Dátiles y Enchiladas
 
-# El modelo ricardiano en la práctica  {background="#43464B"}
+# El modelo ricardiano en la práctica  {background="#4b6e5c"}
 
 ## ¿Es útil el modelo ricardiano para explicar la realidad?
 
@@ -464,9 +462,7 @@ wa_{Li}  &< w^{*}a^{*}_{Li} \\
 ## Costos de transporte positivos
 
 - Si **no existen costos de transporte** país local exporta manzanas,
-  plátanos y caviar e importa dátiles y enchiladas
-- Suponga ahora que existe un costo de transporte y es una fracción
-  del costo de producción, digamos $100%$. 
+  plátanos y caviar e importa dátiles y enchiladas. Suponga hay costo de transporte; es una fracción del costo de producción, digamos $100%$. 
   - Recordemos el caso de *dátiles* $\longrightarrow$ producir una
     unidad requiere 6 hs en país local o 12 hs en extranjero; para
     salario relativo de 3, 12 hs extranjero equivalen a costo de 4 hs
@@ -478,8 +474,8 @@ wa_{Li}  &< w^{*}a^{*}_{Li} \\
 
 ## Evidencia: Ventaja comparativa
 
-- Existen diversos aspectos en que el modelo ricardiano realiza
-  predicciones erróneas. 
+- Existen  aspectos en que el modelo ricardiano realiza
+	predicciones erróneas:
   1. Especialización extrema $\longrightarrow$ no observada en mundo
      real
   2. Abstracción de efectos de comercio sobre distribución de renta
@@ -494,7 +490,7 @@ wa_{Li}  &< w^{*}a^{*}_{Li} \\
   
 ## Evidencia: Ventaja comparativa (cont.)
 
-![](fig/fig-02-005.png){fig-align="center"}
+![](../fig/fig-02-005.png){fig-align="center"}
 
 ## Evidencia: Ventaja comparativa (cont.)
 
@@ -529,3 +525,6 @@ wa_{Li}  &< w^{*}a^{*}_{Li} \\
 | Textiles   |                 77                 |         15.5        |
 
 : Bangladesh frente a China (2011)
+ 
+ 
+ 
