@@ -68,9 +68,8 @@
 }
 
 
-/*-- scss:rules --*/
-#title-slide {
-  .title {
-    font-size: 4.5em;
-    color: #ffffff;
-  }
+.title {
+  font-size: 120px !important;
+  color: red !important;
+}
+

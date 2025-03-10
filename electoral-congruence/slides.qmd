@@ -30,9 +30,9 @@ format:
 
 ## Motivación y literatura
 
-![Lealtades que van y vienen](output/figs/news1.png){#fig:01001 width=50%}
+![Lealtades que van y vienen](output/figs/news1.png){#fig:01001 fig-align="lft",width=40%}
 
-![La Liga de gobernadores](output/figs/news2.png){#fig:01002 width=50%}
+![La Liga de gobernadores](output/figs/news2.png){#fig:01002 width=40%}
 
 ## Visualizando el problema
 

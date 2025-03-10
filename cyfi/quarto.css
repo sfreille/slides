@@ -11,7 +11,7 @@
  * HEADERS
  *********************************************/
 .reveal h1.title {
-  color: #000;
+  color: #fff;
   font-family:'Helvetica', 'Arial', 'Sans-Serif';
   font-size: 2em;
   text-transform: none;
@@ -70,7 +70,7 @@
 
 /*-- scss:rules --*/
 #title-slide {
-  .title {
-    font-size: 4.5em;
-    color: #ffffff;
-  }
+.title {
+  font-size: 3em;
+  color: #FFFF00;
+}
