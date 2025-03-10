@@ -322,7 +322,7 @@ CC+CK=CF
 
 ## La balanza de pagos: en la práctica (cont.)
 
-![](fig/fig-05-017.png){fig-align="center"}
+![](../fig/fig-05-017.png){fig-align="center"}
 
 ## La balanza de pagos: en la práctica
 
@@ -335,7 +335,7 @@ CC+CK=CF
 
 ## La balanza de pagos: en la práctica (cont.)
 
-![](fig/fig-05-018.png){fig-align="center"}
+![](../fig/fig-05-018.png){fig-align="center"}
 
 ## Transacciones de reservas oficiales
 

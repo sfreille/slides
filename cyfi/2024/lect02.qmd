@@ -111,7 +111,7 @@ a_{LQ}Q_{Q}+a_{LV}Q_{V} \leq L
 
 ## El modelo ricardiano: producción (cont.)
 
-![](fig/fig-02-001.png){fig-align="center"}
+![](../fig/fig-02-001.png){fig-align="center"}
 
 ## El modelo ricardiano: producción (cont.)
 
@@ -213,9 +213,9 @@ V & si \quad \frac{P_{Q}}{P_{V}} < \frac{a_{LQ}}{a_{LV}}  \\
 ## El modelo ricardiano: comercio (cont.)
 
 ::: {layout-ncol=2 layout-valign="bottom"}
-![Local](fig/fig-02-001.png){ width=650px height=490px }
+![Local](../fig/fig-02-001.png){ width=650px height=490px }
 
-![Extranjero](fig/fig-02-002.png){ width=600px height=440px}
+![Extranjero](../fig/fig-02-002.png){ width=600px height=440px}
 
 llladf
 :::
@@ -234,7 +234,7 @@ llladf
 
 ## Precio relativo y oferta relativa (cont.)
 
-![](fig/fig-02-003.png){fig-align="center" height=550px}
+![](../fig/fig-02-003.png){fig-align="center" height=550px}
   
 ## Precio relativo y oferta relativa (cont.)
 
@@ -315,7 +315,7 @@ llladf
 	  
 ## Las ganancias del comercio (cont.)
 
-![](fig/fig-02-004.png){fig-align="center"}
+![](../fig/fig-02-004.png){fig-align="center"}
 
 
 ## Las diferencias en los salarios relativos
@@ -494,7 +494,7 @@ wa_{Li}  &< w^{*}a^{*}_{Li} \\
   
 ## Evidencia: Ventaja comparativa (cont.)
 
-![](fig/fig-02-005.png){fig-align="center"}
+![](../fig/fig-02-005.png){fig-align="center"}
 
 ## Evidencia: Ventaja comparativa (cont.)
 

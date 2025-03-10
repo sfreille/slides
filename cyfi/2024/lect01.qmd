@@ -81,19 +81,19 @@ format:
     
 ## Políticos y comercio
 
-![](fig/fig-01-001.png){fig-align="center"} 
+![](../fig/fig-01-001.png){fig-align="center"} 
   
 ## Políticos y comercio (cont.)
 
-![](fig/fig-01-002.png){fig-align="center"} 
+![](../fig/fig-01-002.png){fig-align="center"} 
 
 ## Políticos y comercio (cont.)
 
-![](fig/fig-01-003.png){fig-align="center"} 
+![](../fig/fig-01-003.png){fig-align="center"} 
   
 ## Políticos y comercio (cont.)
 
-![](fig/fig-01-004.png){fig-align="center"}
+![](../fig/fig-01-004.png){fig-align="center"}
 
 ## Preferencias: individuos: 
 
@@ -110,15 +110,15 @@ format:
   
 ## Preferencias: individuos (cont.)
 
-![](fig/fig-01-005.png){fig-align="center"}
+![](../fig/fig-01-005.png){fig-align="center"}
 
 ## Preferencias: individuos (cont.)
 
-![](fig/fig-01-006.png){fig-align="center"}
+![](../fig/fig-01-006.png){fig-align="center"}
 
 ## Preferencias: individuos (cont.)
 
-![](fig/fig-01-007.png){fig-align="center"}
+![](../fig/fig-01-007.png){fig-align="center"}
 
 ## Pero los economistas...
 
@@ -134,7 +134,7 @@ format:
   
 ## ...tienden a estar de acuerdo
 
-![](fig/fig-01-008.png){fig-align="center"}
+![](../fig/fig-01-008.png){fig-align="center"}
 
 ## Estudio de la economía internacional
 
@@ -187,38 +187,38 @@ format:
 	
 ## M1: Flujos comerciales
 
-![](fig/fig-01-009.png){fig-align="center"}
+![](../fig/fig-01-009.png){fig-align="center"}
 
 ## M1: Flujos comerciales (cont.)
 
-![](fig/fig-01-010.png){fig-align="center"}
+![](../fig/fig-01-010.png){fig-align="center"}
 
 
 ## M2: Exportaciones de servicios
 
-![](fig/fig-01-011.png){fig-align="center"}
+![](../fig/fig-01-011.png){fig-align="center"}
 
 ## M2: Exportaciones de servicios (cont.)
 
 ::: {layout-ncol=2}
-![India](fig/fig-01-012.png){fig-align="center"}
+![India](../fig/fig-01-012.png){fig-align="center"}
 
-![Panamá](fig/fig-01-013.png){fig-align="center"}
+![Panamá](../fig/fig-01-013.png){fig-align="center"}
 :::
 
 ## M3: Activos extranjeros
 
-![](fig/fig-01-014.png){fig-align="center"}
+![](../fig/fig-01-014.png){fig-align="center"}
 
 ## M3: Activos extranjeros
 
-![](fig/fig-01-015.png){fig-align="center"}
+![](../fig/fig-01-015.png){fig-align="center"}
 
 ## M4: Migración internacional
 
-![](fig/fig-01-016.png){fig-align="center"}
+![](../fig/fig-01-016.png){fig-align="center"}
 
-## {background-video="fig/vid-01-001.mp4" background-size="contain" background-video-loop="true"}
+## {background-video="../fig/vid-01-001.mp4" background-size="contain" background-video-loop="true"}
 
 ## M5: Converencia de precios
 
@@ -243,14 +243,14 @@ convergencia de precios incluso considerando desde la 2GM
 ## Causas de la globalización (cont.)
 
 ::: {layout-ncol=2}
-![Tarifas desde la 2GM - Países seleccionados](fig/fig-01-019.png){fig-align="center"}
+![Tarifas desde la 2GM - Países seleccionados](../fig/fig-01-019.png){fig-align="center"}
 
-![Tarifas de EEEUU desde 1900](fig/fig-01-020.png){fig-align="center"}
+![Tarifas de EEEUU desde 1900](../fig/fig-01-020.png){fig-align="center"}
 :::
 
 ## Causas de la globalización (cont.)
 
-![](fig/fig-01-021.png){fig-align="center"}
+![](../fig/fig-01-021.png){fig-align="center"}
 
 # Patrones de comercio {background="#43464B"}
 
@@ -282,7 +282,7 @@ T_{ij}=\frac{A  Y_i  Y_j}{D_{ij}}
   
 ## El modelo de gravedad (cont.)
 
-![](fig/fig-01-022.png){fig-align="center"}
+![](../fig/fig-01-022.png){fig-align="center"}
  
 ## El modelo de gravedad (cont.)
  
@@ -311,7 +311,7 @@ T_{ij}=\frac{A  Y_i  Y_j}{D_{ij}}
   
 ## Obstáculos al comercio (cont.)
 
-![](fig/fig-01-023.png){fig-align="center"}
+![](../fig/fig-01-023.png){fig-align="center"}
 
 # Política comercial {background="#43464B"}
 
@@ -329,11 +329,11 @@ T_{ij}=\frac{A  Y_i  Y_j}{D_{ij}}
   
 ## Política comercial (cont.)
 
-![](fig/fig-01-024.png){fig-align="center"}
+![](../fig/fig-01-024.png){fig-align="center"}
 
 ## Política comercial (cont.)
 
-![](fig/fig-01-025.png){fig-align="center"}
+![](../fig/fig-01-025.png){fig-align="center"}
 
 ## Política comercial (cont.)
 
@@ -348,7 +348,7 @@ T_{ij}=\frac{A  Y_i  Y_j}{D_{ij}}
 
 ## Política comercial (cont.)
 
-![](fig/fig-01-026.png){fig-align="center"}
+![](../fig/fig-01-026.png){fig-align="center"}
 
 
 ## Política comercial (cont.)
@@ -382,6 +382,6 @@ T_{ij}=\frac{A  Y_i  Y_j}{D_{ij}}
   
 ## Política comercial (cont.)
 
-![Evolución de la estructura de la red de comercio global. [Fuente:
-Correlates of War Project Data Set]](fig/fig-01-027.png){fig-align="center"}
+![Evolución de la estructura de la red de comercio global. Fuente:
+Correlates of War Project Data Set](../fig/fig-01-027.png){fig-align="center"}
 

@@ -70,7 +70,7 @@ format:
   
 ## Modelo general: posibilidades de producción y OR
 
-![](fig/fig-04-001.png){fig-align="center"}
+![](../fig/fig-04-001.png){fig-align="center"}
 
 ## Modelo general: posibilidades de producción y OR (cont.)
 
@@ -88,7 +88,7 @@ format:
 
 ## Modelo general: posibilidades de producción y OR (cont.)
 
-![](fig/fig-04-002.png){fig-align="center"}
+![](../fig/fig-04-002.png){fig-align="center"}
 
 ## Modelo general: precios relativos y demanda
 
@@ -105,7 +105,7 @@ P_{T}Q_{T}+P_{A}Q_{A}=P_{T}D_{T}+P_{A}D_{A}
 
 ## Modelo general: precios relativos y demanda (cont.)
 
-![](fig/fig-04-003.png){fig-align="center"}
+![](../fig/fig-04-003.png){fig-align="center"}
 
 ## Modelo general: precios relativos y demanda (cont.)
 
@@ -120,7 +120,7 @@ P_{T}Q_{T}+P_{A}Q_{A}=P_{T}D_{T}+P_{A}D_{A}
 
 ## Modelo general: precios relativos y demanda (cont.)
 
-![](fig/fig-04-004.png){fig-align="center"}
+![](../fig/fig-04-004.png){fig-align="center"}
 
 ## Modelo general: precios relativos y demanda (cont.)
 
@@ -177,4 +177,4 @@ P_{T}Q_{T}+P_{A}Q_{A}=P_{T}D_{T}+P_{A}D_{A}
 
 ## Modelo general:determinación de los precios relativos (cont.)
 
-![](fig/fig-04-005.png){fig-align="center"}
+![](../fig/fig-04-005.png){fig-align="center"}

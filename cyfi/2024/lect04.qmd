@@ -99,7 +99,7 @@ a_{LT}Q_{T}+a_{LA}Q_{A} \leq L &=& 2Q_{T}+Q_{A} \leq 2000
 
 ## No comercio: factores fijos (cont.)
 
-![](fig/fig-03-001.png){fig-align="center"}
+![](../fig/fig-03-001.png){fig-align="center"}
 
 ## No comercio: factores fijos (cont.)
 
@@ -128,7 +128,7 @@ a_{LT}Q_{T}+a_{LA}Q_{A} \leq L &=& 2Q_{T}+Q_{A} \leq 2000
 
 ## No comercio: factores variables (cont.)
 
-![](fig/fig-03-002.png){fig-align="center"}
+![](../fig/fig-03-002.png){fig-align="center"}
 
 ## No comercio: factores variables (cont.)
 
@@ -146,7 +146,7 @@ V=P_{T}Q_{T}+P_{A}Q_{A}
 
 ## No comercio: factores variables (cont.)
 
-![](fig/fig-03-003.png){fig-align="center"}
+![](../fig/fig-03-003.png){fig-align="center"}
 
 ## No comercio: factores variables (cont.)
 
@@ -160,7 +160,7 @@ V=P_{T}Q_{T}+P_{A}Q_{A}
   
 ## No comercio: elección de factores
 
-![](fig/fig-03-004.png){fig-align="center"}
+![](../fig/fig-03-004.png){fig-align="center"}
 
 ## No comercio: elección de factores (cont.)
 
@@ -177,7 +177,7 @@ V=P_{T}Q_{T}+P_{A}Q_{A}
 
 ## No comercio: elección de factores
 
-![](fig/fig-03-005.png){fig-align="center"}
+![](../fig/fig-03-005.png){fig-align="center"}
 
 ## No comercio: elección de factores (cont.)
 
@@ -208,7 +208,7 @@ V=P_{T}Q_{T}+P_{A}Q_{A}
 	
 ## No comercio: precios de bienes y factores (cont.)
 
-![](fig/fig-03-006.png){fig-align="center"}
+![](../fig/fig-03-006.png){fig-align="center"}
 
 ## No comercio: precios de bienes y factores (cont.)
 
@@ -226,7 +226,7 @@ V=P_{T}Q_{T}+P_{A}Q_{A}
   
 ## No comercio: precios de bienes y factores (cont.)
 
-![](fig/fig-03-007.png){fig-align="center"}
+![](../fig/fig-03-007.png){fig-align="center"}
 
 ## No comercio: precios de bienes y factores (cont.)
 
@@ -257,7 +257,7 @@ V=P_{T}Q_{T}+P_{A}Q_{A}
   
 ## No comercio: recursos y producción (cont.)
 
-![](fig/fig-03-008.png){fig-align="center"}
+![](../fig/fig-03-008.png){fig-align="center"}
 
 ## No comercio: recursos y producción (cont.)
 
@@ -302,7 +302,7 @@ V=P_{T}Q_{T}+P_{A}Q_{A}
 
 ## Precios relativos y patrón de comercio (cont.)
 
-![](fig/fig-03-009.png){fig-align="center"}
+![](../fig/fig-03-009.png){fig-align="center"}
 
 ## Precios relativos y patrón de comercio (cont.)
 

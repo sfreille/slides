@@ -199,7 +199,7 @@ format:
 
 ## Economías externas y equilibrio de mercado (cont.)
 
-![](fig/fig-05-001.png){fig-align="center"}
+![](../fig/fig-05-001.png){fig-align="center"}
 
 ## Economías externas y comercio int.
 
@@ -215,7 +215,7 @@ format:
 
 ## Economías externas y comercio int. (cont.)
 
-![](fig/fig-05-002.png){fig-align="center"}
+![](../fig/fig-05-002.png){fig-align="center"}
 
 ## Economías externas y comercio int. (cont.)
 
@@ -231,7 +231,7 @@ format:
 
 ## Economías externas y comercio int. (cont.)
 
-![](fig/fig-05-003.png){fig-align="center"}
+![](../fig/fig-05-003.png){fig-align="center"}
 
 ## Economías externas y comercio int. (cont.)
 
@@ -276,7 +276,7 @@ format:
   
 ## Economías externas y patrón de comercio (cont.)
 
-![](fig/fig-05-004.png){fig-align="center"}
+![](../fig/fig-05-004.png){fig-align="center"}
 
 ## Economías externas y patrón de comercio (cont.)
 
@@ -309,7 +309,7 @@ format:
 
 ## Comercio y bienestar (cont.)
 
-![](fig/fig-05-005.png){fig-align="center"}
+![](../fig/fig-05-005.png){fig-align="center"}
 
 ## Comercio y bienestar
 
@@ -340,7 +340,7 @@ format:
 
 ## Economías crecientes dinámicas (cont.)
 
-![](fig/fig-05-006.png){fig-align="center"}
+![](../fig/fig-05-006.png){fig-align="center"}
 
 ## Economías crecientes dinámicas (cont.)
 
@@ -404,7 +404,7 @@ format:
 
 ## *Monopolio (cont.)*
 
-![](fig/fig-05-007.png){fig-align="center"}
+![](../fig/fig-05-007.png){fig-align="center"}
 
 ## *Monopolio (cont.)*
 
@@ -422,7 +422,7 @@ format:
   
 ## *Monopolio (cont.)*
 
-![](fig/fig-05-008.png){fig-align="center"}  
+![](../fig/fig-05-008.png){fig-align="center"}  
 
 ## *Monopolio (cont.)*
 
@@ -492,7 +492,7 @@ format:
 
 ## *Competencia monopolística (cont.)*
 
-![](fig/fig-05-009.png){fig-align="center"}
+![](../fig/fig-05-009.png){fig-align="center"}
 
 ## *Competencia monopolística (cont.)*
 
@@ -536,7 +536,7 @@ CM=\frac{F}{Q}+c=n\frac{F}{S}+c
 
 ## Competencia monopolística y comercio (cont.)
 
-![](fig/fig-05-010.png){fig-align="center"}
+![](../fig/fig-05-010.png){fig-align="center"}
 
 ## Competencia monopolistica y comercio (cont.)
 
@@ -580,12 +580,12 @@ CM&=\frac{750000000}{Q}+5000
 
 ## Competencia monopolística: ejemplo (cont.)
 
-![](fig/fig-05-011.png){fig-align="center"}
+![](../fig/fig-05-011.png){fig-align="center"}
 
 
 ## Competencia monopolística: ejemplo (cont.)
 
-![](fig/fig-05-012.png){fig-align="center"}
+![](../fig/fig-05-012.png){fig-align="center"}
 
 
 ## Competencia monopolistica: ejemplo (cont.)
@@ -603,7 +603,7 @@ CM&=\frac{750000000}{Q}+5000
 
 ## Competencia monopolística: ejemplo (cont.)
 
-![](fig/fig-05-013.png){fig-align="center"}
+![](../fig/fig-05-013.png){fig-align="center"}
 
 ## Comercio intraindustrial
 
@@ -620,7 +620,7 @@ CM&=\frac{750000000}{Q}+5000
 
 ## Comercio intraindustrial (cont.)
 
-![](fig/fig-05-014.png){fig-align="center"}
+![](../fig/fig-05-014.png){fig-align="center"}
 
 ## Comercio intraindustrial
 
@@ -639,7 +639,7 @@ IIT=\frac{min(X,M)}{\frac{X+M}{2}}
 
 ## Comercio intraindustrial (cont.)
 
-![](fig/fig-05-016.png){fig-align="center"}
+![](../fig/fig-05-016.png){fig-align="center"}
 
 
 ## Comercio intraindustrial
@@ -657,4 +657,4 @@ IIT=\frac{min(X,M)}{\frac{X+M}{2}}
 
 ## Comercio intraindustrial (cont.)
 
-![](fig/fig-05-015.png){fig-align="center"}
+![](../fig/fig-05-015.png){fig-align="center"}

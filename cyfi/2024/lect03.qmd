@@ -38,7 +38,7 @@ format:
 	
 ## Guerras comerciales y la política
 
-![](fig/fig-02-006.png){fig-align="center"}
+![](../fig/fig-02-006.png){fig-align="center"}
 
 ## ¿Todos los factores ganan con el comercio?
 
@@ -65,7 +65,7 @@ format:
 	 
 ## Política y reformas anti-comercio
 
-![](fig/fig-02-007.png){fig-align="center"}
+![](../fig/fig-02-007.png){fig-align="center"}
 	
 # El modelo de factores específicos {background="#43464B"}
 
@@ -109,9 +109,9 @@ L_{M}+L_{A}=L
 ## El modelo de factores específicos: Posibilidades de producción
 
 ::: {layout-ncol=2}
-![Producción](fig/fig-02-008.png){ width=475px height=375px }
+![Producción](../fig/fig-02-008.png){ width=475px height=375px }
 
-![Productividad marginal](fig/fig-02-009.png){ width=450px height=350px }
+![Productividad marginal](../fig/fig-02-009.png){ width=450px height=350px }
 
 Producción y producto marginal
 :::
@@ -130,7 +130,7 @@ Producción y producto marginal
   
 ## El modelo de factores específicos: La FPP
 
-![](fig/fig-02-010.png){fig-align="center"}
+![](../fig/fig-02-010.png){fig-align="center"}
 
 ## El modelo de factores específicos: La FPP (cont.)
 
@@ -203,7 +203,7 @@ PMgL_{M}xP_{M}=w
 
 ## Igualación de tasa salarial entre sectores (cont.)
 
-![](fig/fig-02-011.png){fig-align="center"}
+![](../fig/fig-02-011.png){fig-align="center"}
 
 ## Precios relativos y producción (asignación)
 
@@ -216,7 +216,7 @@ PMgL_{M}xP_{M}=w
 
 ## Precios relativos y producción (asignación) (cont.)
 
-![](fig/fig-02-012.png){fig-align="center"}
+![](../fig/fig-02-012.png){fig-align="center"}
 
 ## Cambios en los precios
 
@@ -244,7 +244,7 @@ PMgL_{M}xP_{M}=w
 
 ## Cambios en los precios: misma proporción (cont.)
 
-![](fig/fig-02-013.png){fig-align="center"}
+![](../fig/fig-02-013.png){fig-align="center"}
 
 ## Cambios en los precios: diferente proporción
 
@@ -260,7 +260,7 @@ PMgL_{M}xP_{M}=w
 
 ## Cambios en los precios: diferente proporción (cont.)
 
-![](fig/fig-02-014.png){fig-align="center"}
+![](../fig/fig-02-014.png){fig-align="center"}
 
 ## Cambios en los precios: diferente proporción
 
@@ -278,7 +278,7 @@ PMgL_{M}xP_{M}=w
 
 ## Cambios en los precios: diferente proporción (cont.)
 
-![](fig/fig-02-015.png){fig-align="center"}
+![](../fig/fig-02-015.png){fig-align="center"}
 
 # Precios relativos y distribución de la renta {background="#43464B"}
 
@@ -339,7 +339,7 @@ PMgL_{M}xP_{M}=w
   
 ## Oferta relativa (OR) mundial
 
-![](fig/fig-02-016.png){fig-align="center"}
+![](../fig/fig-02-016.png){fig-align="center"}
 
 ## Oferta relativa (OR) mundial (cont.)
 
@@ -386,7 +386,7 @@ D_{A}-Q_{A}&=\frac{P_{M}}{P_{A}}x(Q_{M}-D_{M})
 
 ## La restricción presupuestaria
 
-![](fig/fig-02-017.png){fig-align="center"}
+![](../fig/fig-02-017.png){fig-align="center"}
 
 ## Producción, consumo y comercio
 
@@ -446,7 +446,7 @@ de modo que todos puedan ganar.
 
 ## Migracion internacional de $L$: análisis gráfico
 
-![](fig/fig-02-018.png){fig-align="center"}
+![](../fig/fig-02-018.png){fig-align="center"}
 
 ## Migracion internacional de $L$: análisis gráfico (cont.)
 
@@ -496,5 +496,5 @@ de modo que todos puedan ganar.
 
 ## Migracion internacional de $L$: evidencia (cont.)
 
-![](fig/fig-02-019.png){fig-align="center"}
+![](../fig/fig-02-019.png){fig-align="center"}
 
