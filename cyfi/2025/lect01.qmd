@@ -356,6 +356,30 @@ T_{ij}=\frac{A  Y_i  Y_j}{D_{ij}}
 
 ![](../fig/fig-01-025.png){fig-align="center"}
 
+## Política comercial (cont.)
+
+![](../fig/fig-01-g20-trade-barriers.png){fig-align="center"}
+
+## Política comercial (cont.)
+
+- La política comercial tiene (y han sido ampliamente estudiados)
+  efectos microeconómicos y macroeconómicos pero también políticos 
+- Existen también simples intuiciones y evidencias anecdóticas que
+  permiten ver cierta correlación entre países con política comercial
+  restrictiva y sus niveles de poderío económico y/o otros indicadores
+  de desarrollo
+  - proteccionismo y pobreza por ejemplo...
+
+## Política comercial (cont.)
+
+::: {layout="[100,-1,100]" layout-valign="top"}
+![Arancel promedio
+ponderado](../fig/fig-01-proteccionism-poverty.png){height=550px}
+
+![Pobreza
+infantil](../fig/fig-01-world-child-poverty.png){height=550px}
+
+:::
 
 ## Política comercial (cont.)
 
