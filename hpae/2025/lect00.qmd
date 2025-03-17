@@ -63,7 +63,7 @@ format:
   - Horario de consulta: martes 17 a 18 (presencial) [Box 262]
 - **Melisa Luc**
   - Email: [melisa.luc@unc.edu.ar](mailto:melisa.luc@unc.edu.ar)
-  - Horario de consulta: jueves 16:30 a 17:30 (presencial [Box 262]
+  - Horario de consulta: jueves 16:30 a 17:30 (presencial) [Box 262]
 - **Franco Godino**
   - Email: [franco.godino@mi.unc.edu.ar](mailto:franco.godino@mi.unc.edu.ar)
   - Horario de consulta: a definir
@@ -131,7 +131,7 @@ format:
   Estudiantiles (SAE)** las fechas de parciales serán:
   - Parcial 1: 21-ABR
   - Parcial 2: 02-JUN
-  - Parcial 3: 13-JUN
+  - Parcial 3: 12-JUN
 - Se ha previsto que todos los parciales se rindan en **Aulas
   Gabinete** en formularios Moodle
 

@@ -65,8 +65,9 @@ format:
 
 - Pero esto no es nuevo $\longrightarrow$ ya en 1960 había señales --Gordon (1965) encuesta principales 40 departamentos de economía en EEUU
   - Un 86% de instituciones ofrecen cursos de HPE y está en 7 de cada 10 programas de doctorado
-  - Casi la mitad han visto una disminución en la oferta y/o requerimientos en los 5, 10 y 15 años anteriores
-  - Profesores más jovenes serían mas reticentes a (re)contratar
+  - Un 40% vieron una baja en la oferta/requerimientos en últimos
+    5 a 15 años
+  - Profesores jovenes mas reticentes a (re)contratar
     profesores en el área (HET)
   - En general respuestas sugieren una popularidad decreciente del campo
 - Pero $\longrightarrow$ cada vez más investigación, journals y
@@ -144,12 +145,18 @@ format:
 - La HPAE enseña lecciones clave acerca del
   *desarrollo* de las ideas económicas
   - la interpretación moderna de "competencia perfecta" de Adam Smith
-  es errónea --no tiene que ver con estructura de mercadao
+  es errónea --no tiene que ver con estructura de mercado
   - la neutralidad del dinero en el LP y la no neutralidad del mismo
     en el CP para Hume --énfasis en el CP totalmente ignorado por
     Lucas
 
 # **Los usos del pasado** {background="#390040"}
+
+> "Someone said: 'The dead writers are remote from us because we know
+> so much more than they did.' Precisely, and they are that which we
+> know" **[T.S. Elliot, (1919)]**
+
+
 
 ## "Cada escritor crea a sus *precursores*" [JLB]
 
@@ -191,7 +198,7 @@ format:
   - Si la caja que hoy vemos es demasiado pequeña y angosta,
     retroceder ayuda a recuperar vistas perdidas
 
-# *Metodología de la ciencia: evolución. El caso de la economía* {background="#390040"}
+# *Metodología de la ciencia: generalidades.* {background="#390040"} 
 
 ## Filosofía de la ciencia: los principales modelos
 
@@ -325,8 +332,8 @@ format:
   - la economía (como ciencia social) queda entre medio de las
   ciencias naturales y las disciplinas como las artes y la literatura
 
+# **Metodología de la ciencia: ¿es la economía un ciencia? Carácter, naturaleza y metodología** {background="#390040"} 
 
-# **¿Es la economía una ciencia? Carácter y naturaleza** {background="#390040"}
 
 ## La acepción de ciencia 
 
@@ -437,6 +444,163 @@ format:
      múltiples, uno eficiente, otro no
 	 - idealización: información imperfecta
 
+## La economía positiva
+
+- John Neville Keynes (padre de Keynes) distinguió entre:
+  1. **ciencia positiva** $\longrightarrow$ un cuerpo de conocimiento sistemático que
+  se preocupa por "lo que es"
+  2. **ciencia normativa (regulativa)** $\longrightarrow$ un cuerpo de
+     conocimiento sistemático que discute criterios sobre "lo que
+     debería ser"
+  3. **arte** $\longrightarrow$ un sistema de reglas para el logro de
+     un determinado fin
+- Resalta la importancia de distinguir la existencia de una **ciencia
+  positiva de la economía política**
+  
+## La economía positiva (cont.)
+
+- En tal vez el texto más importante sobre metodología de la economía,
+  Friedman (1953) repasa varios problemas metodológicos que surgen en
+  el objetivo de construir una ciencia positiva de la economía
+  política
+- En primer lugar, la **economía positiva es en principio independiente**
+  de cualquier posición ética o juicios normativos. La economía
+  normativa y el arte de la economía no pueden ser independientes, en
+  particular, de la economía positiva. 
+  - cualquier receta o acción (de política) **necesariamente
+    descansa sobre una predicción** acerca de las consecuencias de hacer
+    determinada acción. 
+- Dos personas pueden acordar en efectos de una ley
+  o regulación $\longrightarrow$ y aún así uno desearla y apoyarla y
+  la otra no desearla y rechazarla.
+
+
+## La economía positiva (cont.)
+
+- Friedman sugiere que las diferencias entre personas sobre la polític
+a económica surgen más por diferentes predicciones sobre los *efectos
+económicos* de tomar ciertas acciones que por diferentes valores y
+principios fundamentales. 
+  - las primeras pueden ser eliminadas por el progreso de la economía
+    positiva
+- Ejemplos de estas diferencias en predicciones sobre efectos
+  económicos:
+  - leyes salario mínimo --consenso generalizado de lograr
+    un "salario mínimo y vital" pero diferencias en la eficacia de
+    este instrumento sobre el objetivo
+  - rol y eficacia de sindicatos
+  - rol de controles directos de precios y salarios
+
+
+## La economía positiva (cont.)
+
+- El fin último de una ciencia positiva es el desarrollo de una
+  **teoría** o **hipótesis** que produce predicciones **válidas y
+  significativas** sobre fenómenos no observados
+- Esta teoría suele ser normalmente la mezcla de dos elementos:
+  1. Es un **"lenguaje"** diseñado para promover un método de razonamiento
+     sistemático y organizado.
+  2. Es un **"cuerpo de hipótesis sustantivas"** diseñado para abstraer
+     aspectos centrales de una realidad compleja.
+
+## La economía positiva: lenguaje
+
+- **La teoría no tiene ningún contenido sustantivo, es en realidad, un
+  conjunto de tautologías**. Su utilidad es la de un sistema de archivo
+  y de organización de material empírico. 
+- Se rige tanto por los **cánones de la lógica formal** (completitud y
+  consistencia del lenguaje) y por **consideraciones fácticas**
+  (adecuación y utilidad del lenguaje)
+  - oferta y demanda son los dos principales categorías en que
+    agrupamos los factores que afectan los precios relativos de los
+    bienes y factores [¿Por qué es útil y adecuado? --i.e fuerzas que
+    afectan $D$ y $O$ tienen elementos en común]
+- Esto produce **una gran simplificación** porque elementos de las
+  categorías asociadas tienen una contraparte empírica
+  
+## La economía positiva: cuerpo de hipótesis
+
+- En este rol, la teoría debería ser juzgada por su poder predictivo
+  para la clase de fenómenos que intenta explicar. **Sólo evidencia
+  fáctica puede mostrar** si es "correcta" o "incorrecta", o mejor aún,
+  tentativamente "aceptada como válida" o "rechazada". 
+- El único test relevante de la **validez de una hipótesis** es la
+  comparación de sus predicciones con la experiencia
+  - es rechazada si sus predicciones van a contramano de
+    la experiencia
+  - es aceptada si sus predicciones son confirmadas por
+    la experiencia
+- **La evidencia fáctica nunca puede *probar* una hipótesis sino que a
+  lo sumo puede fallar en rechazarla** $\longrightarrow$ el famoso "nuestra
+  hipótesis ha sido confirmada por la evidencia"
+
+## Realismo de supuestos
+
+- Friedman discute aguda y elegantemente sobre el realismo de los
+  supuestos; se pregunta si tiene sentido testear el
+  realismo de los supuestos (de una hipótesis). 
+  - responde que **no** luego de una original exposición de ejemplos y paralelos
+	- **Ley de la caída de los cuerpos**
+	- **Densidad de las hojas de los árboles**
+	- **Tiros de un jugador de billar experto**
+- En todos los casos llega al punto central de su argumento
+  $\longrightarrow$ los objetos, las hojas, los humanos se comportan
+  *como si* estuvieran en el vacío, pudieran moverse a su ubicación
+  óptima, hicieran todos los cálculos matemáticos posibles
+
+## Realismo de supuestos (cont.)
+
+> La confianza en las diferentes hipótesis no se basa en la creencia
+> de que los jugadores de billar *efectivamente* realizan todos los
+> cálculos, estrategias y operaciones matemáticas sino de la creencia
+> de que a menos que sean capaces de llegar al mismo resultado (ser
+> expertos jugadores de billar) haciendo otras cosas, entonces no
+> serían de hecho jugadores de billar expertos; no creemos que las
+> hojas caídas de un árbol *deliberada o conscientemente* busquen la
+> ubicación óptima; la hipótesis no argumenta que las hojas hacen
+> todas estas cosas sino que su densidad resulta la misma que *si las
+> hicieran*. A pesar de la aparente "falsedad" de los supuestos de la
+> hipótesis, esta resulta plausible porque sus implicancias resultan
+> conformes a la observación. 
+
+<!--
+## Realismo de supuestos (cont.)
+
+> La ley de caída libre. Una hipótesis aceptada es que todos los
+> cuerpos caen hacia la tierra con la misma velocidad
+> (aceleración) --$g$ aproximadamente 32 pies por segundo. En otras
+> palabras, la velocidad es independiente del tamaño o peso del
+> cuerpo. La distancia recorrida por el cuerpo en un tiempo
+> determinado es igual a $s=1/2 gt^{2}$ donde $s$ es la distancia
+> recorrida (en pies) y $t$ es el tiempo (en segundos). 
+
+## La economía positiva: realismo de supuestos
+
+> La ley de caída libre. Si tiramos una bola maciza (pelota de golf)
+> desde un techo, diríamos que la pelota *se comporta* como si
+> estuviera cayendo en el vacío. Testear esta hipótesis en relación a
+> sus supuestos implicaría medir la presión del aire y decidir si es
+> lo suficientemente cercana a 0. Si hacemos el ejercicio, la fórmula
+> de un resultado correcto. Ahora si tiramos una pluma, la
+> fórmula da un resultado incorrecto. Aparentemente, 15 libras por
+> pulgada cuadrada (presión de aire al nivel del mar) es no
+> significativamente diferente de 0 para una pelota de golf pero si
+> para una pluma. Mismo análisis si tiramos algo desde 30000 pies. 
+
+## La economía positiva: cuerpo de hipótesis (cont.)
+
+- Este ejemplo ilustra que preguntarse si "15 libras por pulgada
+  cuadrada es significativamente diferente de 0" es una pregunta
+  inconducente. 15 libras por pulgada cuadrada equivale a 2160
+  libras por pies cuadrados y a 0.0075 toneladas por por pulgada
+  cuadrada. No existe ninguna base para decir que estos números son
+  "pequeños" o "grandes" sin un **estándar de comparación externo**. 
+- Dos estándares de comparación externos son
+  - **Precisión** $\longrightarrow$ teoría alternativa equivalente aceptable
+    base a todos las condiciones relevantes
+  - **Affordability** $\longrightarrow$ teoría alternativa más precisa
+    pero sólo a un mayor costo.
+-->
 
 # **Economistas, técnicas y la sociología de la economía** {background="#390040"}
 
@@ -735,8 +899,17 @@ format:
   economists. *Journal of economic perspectives*, 15(1),
   145-164. **[pp. 145-157]**
 - Leijonhufvud, A. (2006). The uses of the past. Universitá degli
-  studi di Trento - Dipartimento di Economia, Discussion Paper No 3, 2006. **[pp. 3-8]**
+  studi di Trento - Dipartimento di Economia, Discussion Paper No
+  3, 2006. **[pp. 3-8]**
   
+## Bibliografía requerida (cont.)
+  
+- Hausman, Daniel M., "Philosophy of Economics", *The Stanford
+  Encyclopedia of Philosophy* (Fall 2024 Edition), Edward N. Zalta &
+  Uri Nodelman (eds.). Link:
+  [https://plato.stanford.edu/entries/economics/#SixCentMethProb](Six
+  central methodological problems)
+
 
 ## Bibliografía adicional y complementaria
 
@@ -744,4 +917,9 @@ format:
   analysis. Routledge. Part I, Chapter 3 and 4, **[pp. 23-45]**
 - Blaug, M. (1985). La metodología de la economía o cómo explican los
   economistas. Cap. 1. **[pp. 19-32]** 
+- Rodrik, D. (2015). Economics rules: The rights and wrongs of the
+  dismal science. WW Norton & Company, Ch. 1, **[pp. 13-30]** 
+- Robbins, L. (1938). Live and dead issues in the methodology of
+  economics. *Economica*, 5(19), 342-352.
+
   

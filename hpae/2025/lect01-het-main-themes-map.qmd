@@ -1,0 +1,62 @@
+---
+title: Historia del Pensamiento y del Análisis Económico
+title-slide-attributes:
+  data-background-image: ../fig/background-002.png
+  data-background-size: stretch
+  data-background-opacity: "0.85"
+subtitle: U1. Pensamiento y análisis económico. Historia, métodos y el desarrollo de la economía 
+format:
+  revealjs:
+    slide-number: true
+    chalkboard:
+      buttons: false
+    preview-links: auto
+    css: ..\quarto.css
+    width: 1500
+    center-title-slide: true
+    center: true
+    tbl-cap-location: bottom	
+    toc: true
+    toc-depth: 1
+    toc-title: Contenidos
+    link-external-newwindow: true
+---
+
+# **El rol y utilidad de la HPE** {background="#390040"}
+
+  
+# **Bibliografía y textos sugeridos** {background="#390040"}
+
+## Bibliografía requerida 
+
+- Gordon, D. F. (1965). The role of the history of economic thought in
+  the understanding of modern economic theory. *The American Economic
+  Review*, 55(1/2), 119-127. [Páginas seleccionadas]
+- Card, D., & DellaVigna, S. (2013). Nine facts about top journals in
+  economics. *Journal of Economic literature*, 51(1), 144-161. [Páginas
+  seleccionadas]
+- Schumpeter, J. A. (1987). History of economic
+  analysis. Routledge. Part I, Chapter 1 and 2. **[pp. 1-22]**
+- Blaug, M. (2001). No history of ideas, please, we're
+  economists. *Journal of economic perspectives*, 15(1),
+  145-164. **[pp. 145-157]**
+- Leijonhufvud, A. (2006). The uses of the past. Universitá degli
+  studi di Trento - Dipartimento di Economia, Discussion Paper No
+  3, 2006. **[pp. 3-8]**
+  
+## Bibliografía requerida (cont.)
+  
+- Hausman, Daniel M., "Philosophy of Economics", *The Stanford
+  Encyclopedia of Philosophy* (Fall 2024 Edition), Edward N. Zalta &
+  Uri Nodelman (eds.). Link:
+  [https://plato.stanford.edu/entries/economics/#SixCentMethProb](Six
+  central methodological problems)
+  
+
+## Bibliografía adicional y complementaria
+
+- Schumpeter, J. A. (1987). History of economic
+  analysis. Routledge. Part I, Chapter 3 and 4, **[pp. 23-45]**
+- Blaug, M. (1985). La metodología de la economía o cómo explican los
+  economistas. Cap. 1. **[pp. 19-32]** 
+  
