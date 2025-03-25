@@ -829,96 +829,204 @@ dado como préstamo
 
 - tempranas encarnaciones del libertarianismo en Oriente
 
-# **ANEXO: El pensamiento griego** {background="#390040"}
+# **El pensamiento griego** {background="#390040"}
 
-## Temas y preocupaciones centrales
+## Los primeros filósofos-economistas
+
+- Los antiguos griegos fueron la primer civilización en usar la razón
+  para pensar sistemáticamente acerca del mundo que los rodeaba --usar
+  lógica y obtener conocimiento verificable
+  - antes $\longrightarrow$ tribus y pueblos bárbaros atribuían
+    eventos naturales a los dioses 
+- Desarrollaron una teoría y método de razonamiento que eventualmente
+  se denominó **la ley natural**
+  - análisis basado en ley natural gira alrededor de los conceptos de
+  **causa** y **efecto**
+  
+## La ley natural
+
+> La ley natural descansa en la idea de que **ser** necesariamente
+> importa **ser algo**: alguna cosa o entidad. No existe el **ser** en
+> el abstracto. Existen millones de entidades en el
+> universo y cada una tiene su propia **naturaleza** --conjunto de
+> atributos y/o propiedades que la distingue de otras. Se sigue que el
+> hombre puede descubrir, estudiar e identificar de esta manera a las
+> entidades. Dadas dos entidades $X$ e $Y$ con sus respectivas
+> naturalezas, podemos averiguar qué sucede **cuando estas entidades
+> ineractúan**. Por ejemplo, si $X$ e $Y$ interactuán en ciertas
+> cantidades, obtenemos $Z$ en cierta cantidad. Decimos que $Z$ --el
+> efecto- ha sido causado por la interacción de $X$ e $Y$. 
+
+- Sabemos que la interacción de dos moléculas de $H$ y una molécula de
+  $O$ da por efecto una molécula de una *nueva entidad*, $H_{2}O$ (efecto)
+
+## Los principios aristotélicos 
+
+::: {.callout-tip icon=false}
+## Principio de la Identidad 
+Toda entidad es igual a si misma $\longrightarrow$ $\forall A, A=A$
+:::
+
+::: {.callout-tip icon=false}
+## Principio de la No Contradicción 
+Una entidad no puede ser y no ser al mismo tiempo $\longrightarrow$  $\neg(A \wedge \neg A)$
+:::
+
+::: {.callout-tip icon=false}
+## Principio del Tercero Excluido 
+Toda entidad debe ser o no ser $\longrightarrow$ $(A \vee \neg A)$
+:::
+
+## El individuo y la ley natural
+
+- El individuo **actúa** --adopta valores y propósitos y formas de
+  lograrlos y debe operar dentro de la ley natural
+  - las propiedades (naturaleza) de el mismo y de otras entidades y
+    los modos en que interactúan
+- **Civilización occidental** $\longrightarrow$ encuentra sus orígenes en
+  Grecia en las dos tradiciones filosóficas más importantes
+  --Platónica y Aristotélica
+  - filosofía platónica $\longrightarrow$ **existencia ideal**
+    (verdadera naturaleza del individuo) --el individuo
+    *verdaderamente* existente es eterno e infinito
+  - filosofía aristotélica $\longrightarrow$ **existencia contingente**
+    --limitada; no necesaria ni eterna ("sólo la existencia de Dios es
+    necesaria y trasciende el tiempo")
+
+## El individuo y la organización social
+
+- Vida organizada en **pequeñas ciudades-Estado** ("polis") cuyo
+  gobierno estaba a cargo de una **oligarquía de ciudadanos
+  privilegiados**. Mayoría de población eran esclavos o residentes
+  extranjeros --sólo 7\% tenían privilegios de democracia
+  ("ciudadanos") en Atenas 
+- Platón promovía regímenes despóticos; Aristóteles algo más moderado
+  - la virtud y la buena vida basadas alrededor de la *polis* no del
+    individuo [*polis over individual*]
+  - visión intrínsecamente *estatista y elitista* 
+- Doctrina clásica de "ley natural" influyó en pensamiento
+  cristiano y medieval
+  - no evolucionó en la doctrina del "derecho natural" de siglos 17 y 18
+
+## Pensamiento griego sobre temas económicos
 
 - Visión antropocéntrica y administrativa --economía y administración
   del hogar
-- Prevalencia de consideraciones morales y éticas
 - El intercambio como mecanismo aislado: economía básica y simple
-- Algunas ideas sobre división y especialización del trabajo, cálculo
-  de utilidad e interés
+- Exaltaba areas como las artes militares y agricultura y tenían
+  desprecio por el trabajo y el comercio y más generalmente la
+  persecución del lucro y ganancia. 
+  - Prevalencia de consideraciones morales y éticas
+- Aportes rudimentarios sobre división y especialización del trabajo;
+  utilidad e interés. 
+- Poco y nulo rol del emprendedor y la creatividad --sociedad
+  "congelada" sin dinámica económica y con rigidez de *status* político
 
-## Hesíodo [circa 700 AC]
+## Hesíodo [circa 700-800 AC]
 
-- La obra de ambos se conoce a través de transmisión oral durante el
-  siglo VIII AC
-- Hesíodo argumenta que la escasez no se debe a recursos
-  ilimitados/deseos ilimitados sino...que es uno de los males que
-  salieron de la caja de Pandora!
-- Era agricultor y su principal preocupación era la *eficiencia*
+- Vivió en siglo VIII a.C. en una comunidad con **agricultura de
+  subsistencia** $\longrightarrow$ preocupación principal escasez
+  --recursos limitados versus necesidad ilimitadas
+  -- de ahí su preocupación por la **eficiencia**
+- Obra principal $\longrightarrow$ *Works and Days* 
+- Deseo de **emulación (en consumo)** estimula un espíritu
+  de competencia
+  - **aplicación de trabajo (crucial) y capital** 
+- Podría intuirse una **rudimentaria concepción del *tradeoff*
+   trabajo-consumo** $\longrightarrow$ para sobreponerse a la escasez,
+  mas trabajo era necesario a costa de menor tiempo de ocio
+
+## Platón: El Estado absoluto [428-348 AC]
+
+- Su obra principal en la temática es *La República* ["el alegato más
+  elocuente en favor de una cierta clase de comunismo jamás escrito" Robbins (2000)]
+  - En ella describe a su **Estado ideal**: Platón creía que debía ser
+  **rígido** y **estático** $\longrightarrow$ todo cambio es regresivo
+  [Platón repudiaba la democracia, ejemplo de esto era que alababa a
+  Esparta y no a Atenas]
+- Estructura de la sociedad
+  1. Filósofos
+  2. Soldados (*"guardianes"*)
+  3. Trabajadores-productores
+  
+## Platón: El Estado absoluto [428-348 AC] (cont.)
+    
+- Primer pensador occidental que menciona y analiza la importancia del
+  principio de la **división del trabajo** $\longrightarrow$ la
+  especialización emerge a partir de la naturaleza humana en
+  particular su diversidad y desigualdad 
+
+> "We are not all alike; there are many diversities of natures among
+> us which are adapted to different occupations"
+
+- Diferencias son *originarias* no *adquiridas* --i.e. a través de la
+  educación
+- Dado que individuos diferentes producen bienes diferentes, la
+  **especialización da fundamento al comercio** --además la
+  **especialización es el fundamento económico de la ciudad (*polis*)** 
+  
+## Platón: El Estado absoluto [428-348 AC] (cont.)
+
+- Denunciaba y **despreciaba el uso de oro y plata como moneda** --veía
+  una amenaza a la regulación económica y moral de la *polis*
+- Para concretar su *utopía ordenada* la sociedad de Platón debía ser
+  rígida y estática
+  - poco espacio para la innovación, dinámica empresaria y crecimiento
+    económico
+- Incluso esto lo extendió al crecimiento poblacional
+  $\longrightarrow$ abogaba por mantener el número de ciudadanos
+  constante en 5000 terratenientes!
+  
+## Platón: El Estado absoluto [428-348 AC] (cont.)
+
+![](../fig/fig-02-plato-division-of-labour-01.png){ fig-align="center"}
+
+## Platón: El Estado absoluto [428-348 AC] (cont.)
+
+![](../fig/fig-02-plato-division-of-labour-02.png){fig-align="center"}
 
 ## Jenofonte [430-354 AC]
 
-![](../fig/fig-02-003.png){fig-align="center"}
-
-## Jenofonte [430-354 AC] (cont.)
-
-- Fue filósofo, soldado, historiador y escritor. En su
-  filosofía moral, se encuentran vestigios de
-  utilitarianismo ("mejores acciones son las más beneficiosas para
-  todos") e igualitarismo ("esposas y esposos deberían ser
+- Discípulo de Platón. Filósofo, soldado, historiador y
+  escritor. Usó el término *economía* (*Oeconomicus*) pero sin la
+  acepción moderna 
+- Vstigios de utilitarianismo ("mejores acciones son las más
+  beneficiosas para todos") e igualitarismo ("espos deberían ser
   co-trabajadores en el hogar")
   
 > The woman conceives and bears her burden in travail, risking her life, and giving of her own food; and, with much labor, having endured to the end and brought forth her child, she rears and cares for it, although she has not received any good thing, and the babe neither recognizes its benefactress nor can make its wants known to her; still she guesses what is good for it, and what it likes, and seeks to supply these things, and rears it for a long season, enduring toil day and night, nothing knowing what return she will get.
 
 ## Jenofonte [430-354 AC] (cont.)
 
-- Usó el término *economía* para su obra principal, *Oeconomicus* pero
-  sin la acepción moderna
+
 - Centró sus ideas en el *individuo decisor-administrador*
-  - Pragmático $\longrightarrow$ un buen administrador es aquel que
-    incrementa el tamaño del excedente
-- La división de las tareas del hogar es clave para él --límite: extensión del mercado
-- Presagió el concepto de utilidad marginal decreciente
-- Concepción subjetiva de la utilidad $\longrightarrow$ lo bueno y lo
-  malo en relación a los propósitos que cumplen
+    $\longrightarrow$ un buen administrador es aquel que incrementa el
+    tamaño del excedente 
+- La división de las tareas del hogar es clave para él --límite:
+  extensión del mercado
   
-## Platón: El Estado absoluto [428-348 AC]
-
-- Su obra principal en la temática es *La República* ["el alegato más
-  elocuente en favor de una cierta clase de comunismo jamás escrito" Robbins (2000)]
-  - En ella describe a su Estado ideal: Platón creía que debía ser
-  *rígido* y *estático* $\longrightarrow$ todo cambio es regresivo [Platón odiaba la
-  democracia, ejemplo de esto era que alababa a Esparta y no a Atenas]
-- Es sin embargo el primer pensador occidental que menciona
-  explícitamente el principio de la **división del trabajo**
+> 'In small towns the same workman makes chairs and doors and plows and
+  tables, and often the same artisan builds horses...' whereas in
+  large cities 'many people have demands to make upon each branch of
+  industry', and therefore 'one trade alone, and very often even less
+  than a whole trade, is enough to support a man'. In large cities, we
+  find one man making men's boots only; and another one, women's
+  only...one man lives by cutting out garments, another by fitting
+  together the pieces'
   
-## Platón: El Estado absoluto [428-348 AC] (cont.)
-
-![](../fig/fig-02-004.png){ fig-align="center"}
-
-## Platón: El Estado absoluto [428-348 AC] (cont.)
-
-![](../fig/fig-02-005.png){fig-align="center"}
-
-## Platón: El Estado absoluto [428-348 AC] (cont.)
-
-![](../fig/fig-02-006.png){fig-align="center" }
-
-## Platón: El Estado absoluto [428-348 AC] (cont.)
-
-![](../fig/fig-02-007.png){fig-align="center"}
-
-## Platón: El Estado absoluto [428-348 AC] (cont.)
-
-![](../fig/fig-02-008.png){ fig-align="center"}
-
-## Platón: El Estado absoluto [428-348 AC] (cont.)
+## Jenofonte [430-354 AC] (cont.)
   
-- Argumenta que el fundamento económico de la ciudad es la *especialización*
-  - La ciudad ideal no puede existir sin el fundamento de una economía
-    ideal
-- Proponía que los bienes fueran de propiedad conjunta, todo pertenece
-  a todos en esa ciudad ideal
-  - Sociedad divida en: 1) soldados/guardias, 2) productores, 3)
-    líderes
-	- Importante $\longrightarrow$ las diferencias para Platón son
-      *originarias* no *adquiridas* (a través de la educación por
-      ejemplo como lo serían para Adam Smith)
+- Presagió el concepto de utilidad marginal decreciente --concepción
+  subjetiva de la utilidad $\longrightarrow$ lo bueno y lo malo en
+  relación a los propósitos que cumplen 
+- Intuición del concepto de equilibrio general $\longrightarrow$
+  "cuando hay demasiados artesanos del cobre, el cobre se abarata, los
+  artesanos quiebran y emprenden otras actividades"
+- Define a la riqueza como un recurso que una persona puede y sabe
+  usar --de lo contrario no constituye parte de su riqueza
+  
 
-## Protágoras [480-411 AC] y el cálculo hedonístico
+## Protágoras [480-411 AC]
 
 - Si Platón era un absolutista, Protágoras fue un relativista --no
   existe ninguna verdad objetiva sino sólo opiniones subjetivas. 
@@ -930,7 +1038,7 @@ dado como préstamo
   utilizar sólo la razón y la lógica
 - A diferencia de Platón, favorecía la democracia
   
-## Protágoras [480-411 AC] y el cálculo hedonístico
+## Protágoras [480-411 AC] (cont.)
 
 - Algunos autores afirman que la idea del hombre-medida de Protágoras
   es un antecedente de la teoría del valor trabajo y del invidualismo
@@ -941,180 +1049,109 @@ dado como préstamo
      utilidad
   2. el uso de la medición hedonística en la evaluación de la elección
 
-# **ANEXO: Aristóteles: El Filósofo** [384-322 AC] {background="#390040"}
+## Aristóteles: El Filósofo [384-322 AC]
 
-## Vida y obra
-
-- Discípulo de Platón. Como buen discípulo frecuentemente entró en
-  desacuerdos filosóficos con su mentor --*Platón es mi amigo, pero
+- Discípulo (y antagonista) de Platón --*Platón es mi amigo, pero
   más amiga es la verdad* 
-  - Más influyente que Platón en temas filosóficos y otras areas --el
-    pensamiento político y moral aristotélico fue dominante hasta los siglos 16 y 17
-- Dos grandes obras, entre muchas, fueron *Etica* y *Política*
-- Difirió con Platón en relación a la **institución de la propiedad
-  privada**
-- Al igual que otros griegos, asoció *economía* con la administración
-  del hogar
+- Largamente **más influyente que Platón** en temas filosóficos y otras
+  areas:
+  - estructura de pensamiento fue dominante en tradición occidental
+    hasta siglos 16 y 17 --ideas políticas y morales
+- Dos grandes obras, entre muchas, fueron *Etica* y *Política*. Su
+  pensamiento filosófico lo hizo preocuparse por **lo natural** y **lo
+  justo**
+- Ofrece ideas y discusiones aisladas; no teoría del valor y/o
+  distribución. 
 
-## Aristóteles
+   
+## Aristóteles: propiedad privada
 
-- En *Politics*, Aristóteles discute la propiedad privada, el
-  comunismo y la familia
-  - sus argumentos aquí casi que podrían equipararse a los emitidos
-    por liberales de clase media del siglo XIX
-- La sociedad en que vivía Aristóteles respiraba un aire en que la
-  esclavitud era *esencial*
-  - pero en la que esta institución esencial se encontraba bajo
-    fuertes críticas de los críticos y pensadores
-- La esclavitud se había convertido en un problema -- a ello ofreció
-  una explicación y justificación
-  - la desigualdad *natural* de los hombres --por virtud de cualidad
-    innata, algunos hombres destinados al sometimiento, otros a
-    liderar
-
-## Aristóteles (cont.)
-
-- Planteó que había además causas no naturales e injustas de la
-  esclavitud 
-  - sometimiento a esclavitud indiscriminado de prisioners de guerra  
+- Una diferencia radical con Platón fue en relación a la **institución
+  de la propiedad privada** la cual favoreció [en contra del comunismo
+  platónico] --el objetivo de perfecta unidad de Platón iba en contra
+  de la diversidad de la humanidad y en contra de las ventajas
+  recíprocas del intercambio. 
+  1. La propiedad privada es **más productiva** que la propiedad comunal y
+     conduce a mayor progreso
+  2. La propiedad comunal inherentemente conduce al **conflicto
+     interpersonal**--problema del esfuerzo individual relativo a lo obtenido [¿free
+     rider?]
+  3. La propiedad privada está implantada en la **naturaleza humana**
+  4. La propiedad privada **ha existido siempre y en todos lados**
   
-## Aristóteles (cont.)
+## Aristóteles: propiedad privada (cont.)
 
-- Los principios y discusiones económicas de Aristóteles se encuentran
-  esencialmente en *Politics* Cap. I y en *Ethics* Cap. V
-- Estuvo principalmente preocupado por lo *natural* y lo *justo* con
-  el prismo de lo que el consideraba el ideal de una buena y virtuosa
-  vida
-- Basó su 'análisis económico' puramente a partir de necesidades
-  (*wants*) y su satisfacción (*satisfactions*)
-  - partió de la economía del hogar autosuficiente y de ahí derivó
-    discusiones sobre la división del trabajo, trueque y dinero
-- No hay ninguna teoría sobre distribución
+- Postuló la idea de que sólo la propiedad privada le provee al
+  individuo la **oportunidad de actuar moralmente** --i.e. practicar las
+  virtudes de la benevolencia y filantropía. La compulsión de la
+  propiedad comunal destruye esa oportunidad. 
+- A diferencia de Platón, **no se opuso a la limitación individual de
+  acumular propiedad privada** --la educación serviría como
+  autoregulador de tal deseo
+- Argumentos típicamente adelantados a su tiempo y reminiscentes de
+  siglo XVII y XVIII
 
-## Aristóteles: valor
+## Aristóteles: necesidades y deseos
 
-- Distinguió entre valor en uso y valor en cambio (intercambio) sino
-  que intuyó que el segundo fenómeno deriva de alguna manera del
-  primero
-- Los escolásticos lograron avanzar más que El Filósofo en este tema,
-  y pueden ser reconocidos como los que desarrollaron la teoría del
-  precio
-  - Aristóteles no ofreció ninguna teoría del valor de cambio (o del precio)
-- Se ha sugerido que su falla en identificar esto fue haberse
-  focalizado en el problema ético de la justicia en el intercambio
-  --*justicia conmutativa*- lo cual dificultó enfocarse en el problema analítico
-  
-  
-## Aristóteles: valor
+- Introduce distinción entre
+  **necesidades naturales** y **deseos artificiales**
+  - origina conceptos de **intercambio natural** e
+    **intercambio artificial** y relación con el dinero
 
-- Pero no es cierto esto $\longrightarrow$ la preocupación por la
-  ética de la fijación de precios es uno de los principales motivos
-  que un hombre puede tener para analizar los mecanismos de mercado
-- Consideró sin embargo el caso del monopolio
-  - lo definió como la posición en un mercado de un Sólo Vendedor y lo
-    condenó como injusto
-- Su planteo de buscar un elemento de justicia en la determinación de
-  precios lo llevó a exponer el principio de equivalencia entre lo que
-  el hombre da y recibe. 
-  
-  
-## Aristóteles: valor
+> En el intercambio natural, el dinero es un medio para un
+    fin mientras que en el intercambio artificial, el dinero es
+    tanto un medio como un fin.
 
-- Esencialmente, dado que en un trueque ambas partes deben
-  necesariamente ganar del mismo --ganancia entendida en el sentido de
-  estar mejor luego que antes del intercambio
-	  - no podría haber equivalencia entre los valores 'subjetivos' o
-        de utilidad de los bienes intercambiados; o entre los bienes
-        intercambiados y el dinero recibido. 
-- En este sentido, Aristóteles debe haber pensado en algun *valor
-  objetivo (absoluto) de las cosas*, algo intrínseco e inherente que
-  es independiente de las circunstancias y/o de las valuaciones
-  humanas
-  
-## Aristóteles: valor
+- **Rechazó el intercambio artifical** porque implicaba intercambio
+  por la mera razón de ganar dinero (inmoral)
+  - venta minorista, comercio, transporte y contratación de trabajo
 
-- Sin embargo, la falla en explicarlo no implica falla en lograr
-  reconocerlo como un hecho --más razonable pensar que Aristóteles
-  pensó a los valores de cambio del mercado como expresados en
-  términos de dinero mas que en términos de alguna sustancia de valor 
-- Es decir, aceptó los precios de los bienes observados en el mercado
-  como estandares de su justicia conmutativa pero...
-  - condenó los precios de monopolio
-- Se puede intuir que distinguió entre precios que los individuos
-  observaban como dados --precios competitivos- y precios que algún
-  individuo o grupo había fijado para su propio beneficio --precios
-  monopolicos
-  
-## Aristóteles: valor
+## Aristóteles: dinero e interés
 
-- Esto lo hacía pasible a aceptar cualquier transacción que sucediera
-  a los *precios competitivos* como *justa* --que fue basicamente lo
-  que los escolásticos aceptaron y se conformaron explícitamente. 
-- De alguna manera, su concepto del valor justo de una mercancía es
-  'objetivo'
-  - pero sólo en el sentido de que ningún individuo puede alterarlo
-    producto de su acción 
-- Extendió estos valores justos a nivel individual a valores justos a
-  nivel social --es decir esos valores representaban lo que la
-  comunidad consideraba el valor justo a nivel agregado
-  
-  
-## Aristóteles: valor
+- Evidencia de profunda **contradicción entre lo analítico y lo
+  moral** $\longrightarrow$ también aplicada a su discusión del dinero
+  - facilitaba la producción y el intercambio; eliminaba problema de
+    mutua coincidencia de necesidades; depósito de valor
+  - pero condenaba moralmente el préstamo de dinero (y el
+    correspondiente pago de interés) como "artificial"
+- Comprendió y destacó las funciones del dinero: 1) patrón de valor,
+  2) medio de cambio y 3) depósito de valor 
+  - el dinero también debía ser una *commodity* --es decir,
+     existía un mercado de dinero [valor en cambio del dinero]
+- No entendió y/o no indagó en las *razones económicas* por las cuales
+  existía el interés!
 
-> La justicia conmutativa sera servida en cada acto de intercambio. Si
-> A cambia zapatos por rodajas de pan de B, la justicia aristotelica
-> requiere que los zapatos igualen a las rodajas de pan cuando ambas
-> son multiplicados por sus precios competitivos normales; si A vende
-> sus zapatos a B por dinero, la misma regla debera ser observada para
-> saber cuanto dinero recibir. 
-  
+## Aristóteles: dinero e interés (cont.)
 
-## Aristóteles: dinero
+- Discusión del dinero a través del proceso histórico 
 
-- La existencia misma de cualquier sociedad no comunista involucra el
-  intercambio de bienes y servicios
-- Inicialmente esto se da a través de trueque; pero esto no siempre es
-  posible, o tiene un limite
-- Esto implicará que eventualmente los intercambios se realizarán a
-  través de alguna commodity como *medio de cambio*
-- Sugirio que algunas commodities cumplian mejor ese rol --metales
-- Asimismo, por el requerimiento de su regla de equivalencia en el
-  intercambio, se seguía que esta commodity tambien sería usada como
-  *medida de valor*
+> La existencia misma de cualquier sociedad no comunista involucra e
+  intercambio de bienes y servicios. Inicialmente esto se da a través
+  de trueque; pero esto no siempre es posible, o tiene un limite. Esto
+  implicará que eventualmente los intercambios se realizarán a través
+  de alguna commodity como *medio de cambio* sugirio que algunas
+  commodities cumplian mejor ese rol --metales. Asimismo, por el
+  requerimiento de su regla de equivalencia en el intercambio, se
+  seguía que esta commodity tambien sería usada como *medida de
+  valor*. Y finalmente reconoció, al menos implícitamente, su rol como
+  *depósito de valor* --gran antecedente casi 2500 años antes de las
+  discusiones en siglo XIX 
 
-## Aristóteles: dinero
+## Aristóteles: intercambio y valor
 
-- Y finalmente reconoció, al menos implícitamente, su rol como
-  *depósito de valor*
-  - esto fue un gran antecedente casi 2500 años antes de las
-    discusiones en siglo XIX
-- Dos proposiciones en su teoría:
-  1. Adicionalmente a cualquier otra función, el dinero tenía como
-     función fundamental el de servir como medio de cambio
-  2. En orden a servir como medio de cambio en los mercados de bienes,
-     el dinero también debía ser una de esas commodities --es decir,
-     existía un mercado de dinero
-- En otras palabras, el dinero debía tener valor en cambio
-  --adicionalmente e independiente de su rol como medio de cambio
-  
-## Aristóteles: dinero
+- Vio al intercambio como un proceso bilateral que genera ganancias
+  para ambas partes --**igualdad proporcionada**, **reciprocidad**
+- Distinguió entre **valor en uso** y **valor en cambio
+  (intercambio)**; sugirió que el segundo deriva del primero pero
+  - no ofreció ninguna teoría del valor de cambio (o del precio)
+- Críticos argumentan que nuevamente falló en separar lo analítico de
+  lo moral en su tratamiento 
+  - foco en problema ético de la justicia en el intercambio
+  --*justicia conmutativa*
+    - **principio de reciprocidad en el intercambio**
 
-- La commodity 'dinero' va por peso y por calidad como las otras
-  commodities 
-  - teoría metalista del dinero
-- 
-  
-## Aristóteles: El *Filósofo* [384-322 AC] (cont.)
 
-- Consideraciones sobre **valor** y **dinero** 
-  - Condiciones primitivas $\longrightarrow$ trueque no necesita
-    dinero
-  - Eventualmente $\longrightarrow$ se produce **intercambio
-    indirecto** --mediado por algo que sirva como *dinero*
-  - Está hablando indirectamente del surgimiento del comercio e
-    intercambio
-
-## Aristóteles: El *Filósofo* [384-322 AC] (cont.)
+## Aristóteles: La *crematística*
 
 > Por tanto, es evidente que hay un arte de adquisición natural para los que
 > administran la casa y la ciudad. ...Existe otra clase de arte
@@ -1127,7 +1164,7 @@ dado como préstamo
 > experiencia y técnica 
 **[Aristóteles, *Política. Libro I*, pp. 68]**
 	
-## Aristóteles: El *Filósofo* [384-322 AC] (cont.)
+## Aristóteles: La *crematística* (cont.)
 
 > Ambos usos son del mismo objeto, pero no de la misma manera; uno es
 > propio del objeto, y el otro no. Por ejemplo, el uso de un zapato:
@@ -1143,46 +1180,76 @@ dado como préstamo
 > entonces sería necesario que el cambio se hiciera para satisfacer lo
 > suficiente. 
 **[Aristóteles, *Política. Libro I*, pp. 68]**
-	
-## Aristóteles: El *Filósofo* [384-322 AC] (cont.)
 
-- Se interesó por la cuestión de la **justicia distributiva** y el rol
-  del Estado
-- En este sentido, concibió al intercambio como un proceso bilateral
-  que genera ganancias para ambas partes
-  - **igualdad proporcionada** y **reciprocidad**
-- Sento un precedente para las bases del análisis de oferta, demanda y
-  precio de equilibrio
-  
-## Aristóteles: El *Filósofo* [384-322 AC] (cont.)
+## Aristóteles: intercambio y valor (cont.)
 
-![](../fig/fig-02-009.png){ fig-align="center"}
+- Este pasaje plantea numerosos interrogantes e inconvenientes [¿ratio
+  de constructor a zapatero? ¿comparación de ratios de profesiones a
+  productos? ¿unidades de medición?]
 
-## Aristóteles: El *Filósofo* [384-322 AC] (cont.)
+> This is why all things that are exchanged must be somehow comparable. It is for this end that money has been introduced, and it becomes in a sense an intermediate; for it measures all things, and therefore the excess and the defect -- how many shoes are equal to a house or to a given amount of food. The number of shoes exchanged for a house (or for a given amount of food) must therefore correspond to the ratio of builder to shoemaker. For if this be not so, there will be no exchange and no intercourse
+
+## Aristóteles: intercambio y valor (cont.)
+
+- pero como dijimos, Aristóteles no ofrece ninguna teoría del valor;
+  no habla de contenido de horas de trabajo; no existe forma de
+  determinar los valores de los productores; y tampoco el ratio
+- lanteo de buscar un elemento de justicia en la determinación de
+  precios lo llevó a exponer el principio de reciprocidad entre lo que
+  el hombre da y recibe
+- debe haber pensado en algun *valor objetivo (absoluto) de las
+  cosas*, algo intrínseco e inherente que es independiente de las
+  circunstancias y/o de las valuaciones humanas
+
+## Aristóteles: intercambio y valor (cont.)
+
+> Now proportionate return is secured by cross-conjunction. Let A be a builder, B a shoemaker, C a house, D a shoe. The builder, then, must get from the shoemaker the latter's work, and must himself give him in return his own. If, then, first there is proportionate equality of goods, and then reciprocal action takes place, the result we mention will be effected. If not, the bargain is not equal, and does not hold; for there is nothing to prevent the work of the one being better than that of the other; they must therefore be equated. 
+
+## Aristóteles: intercambio y valor (cont.)
 
 ![](../fig/fig-02-010.png){ fig-align="center"}
 
+## Aristóteles: intercambio y valor (cont.)
+
+- aceptó precios de los bienes observados en mercado como estándares
+de su justicia conmutativa pero...condenó precios de monopolio
+- incurrió en el problema de aceptar todo intercambio que sucediera a
+los **precios competitivos como justa** [influencia sobre
+Escolásticos]
+  - otro problema $\longrightarrow$ valor justo de un bien es
+    "objetivo" sólo en el sentido que individuos no pueden alterarlo
+- en suma, no hay elementos objetivos ni explícitos en sus escritos
+  que acrediten que entendió las causas del valor de los bienes
+  --observó los intercambios y ofreció una interpretación
+  [¿justificación?]
+  
+  
+  
 ## Aristóteles: El *Filósofo* [384-322 AC] (cont.)
 
-- Algunas de las proposiciones establecidas (al menos implícitamente) por Aristóteles fueron
+- Consideraciones sobre **valor** y **dinero** 
+  - Condiciones primitivas $\longrightarrow$ trueque no necesita
+    dinero
+  - Eventualmente $\longrightarrow$ se produce **intercambio
+    indirecto** --mediado por algo que sirva como *dinero*
+  - Está hablando indirectamente del surgimiento del comercio e
+    intercambio
+
+
+## Aristóteles: resumen 
+
+- Interpretaciones "implícitas" en los escritos de Aristóteles:
   1. Hay comercio cuando hay un excedente
   2. El valor asignado al excedente difiere entre los individuos
   3. Los individuos reconocen ventajas mutuas del intercambio
   4. Autoridad administrativa necesaria para solucionar disputas
 - Consideró la escasez y el valor de uso hasta cierto punto
-  - Pero no concibió un mercado autorregulado y descentralizado
+  - no concibió un mercado autorregulado y descentralizado
+  - no desarrolló una teoría del valor ni de la distribución
+- Contradicciones frecuentes debido a la no separabilidad de análisis
+  (positivo) y moral (normativo).
   
-## Aristóteles: El *Filósofo* [384-322 AC] (cont.)
 
-- Tuvo aportes sobre **dinero e interés**
-  - Concibió al dinero como: 1) patrón de valor, 2) medio de cambio y 3) depósito de valor
-- Diferenció entre intercambio necesario (natural; actividad
-  doméstica) e intercambio innecesario (no natural; actividad
-  comercial)
-  - Acumulación de riqueza via intercambio comercial era
-    reprobada... --ejemplo: acumulación y préstamos eran no naturales,
-    equiparó el interés a la usuara
-- Entendió las funciones del dinero pero no el rol del interés
 
 ## Aportaciones de los romanos
 
