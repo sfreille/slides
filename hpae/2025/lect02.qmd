@@ -118,8 +118,7 @@ format:
 ## Ortodoxia versus heterodoxia
 
 - Principales **autores ortodoxos modernos se han enfocado** casi
-  exclusivamente en alguno/s de los siguientes temas: **1) asignación;
-  2) distribución; 3) estabilidad; y 4) crecimiento**. 
+  exclusivamente en alguno/s de los siguientes temas: 1) asignación; 2) distribución; 3) estabilidad; y 4) crecimiento.
 - Los **autores heterodoxos** en muchos casos se han enfocado en las
   **fuerzas y razones que producen cambios en la sociedad y en la
   economía**
@@ -127,8 +126,8 @@ format:
     sociales, políticas y económicas y estudian la conducta economica
     en esos marcos; heterodoxos han buscado explicar las fuerzas que
     llevaron a esas instituciones
-- Diferencias en énfasis y alcance, no necesariamente paradigmas
-  opuestos $\longrightarrow$ enriqueceder estudiar ambos
+- **Diferencias en énfasis y alcance**, no necesariamente paradigmas
+  opuestos $\longrightarrow$ **enriqueceder estudiar ambos**
 
 ## Diversidad y representatividad
 
@@ -147,36 +146,53 @@ format:
 
 ![](../fig/fig-02-000.png){fig-align="center"}
 
-# **Tradiciones y pensamiento económico en la antigüedad y la Edad Media** {background="#390040"}
-
-## Introducción
+## Tradiciones y ramas
 
 - La historia del pensamiento económico en la **antigüedad y la Edad Media** sienta las bases del desarrollo de la economía moderna.
-- Se estructura en tres tradiciones fundamentales:
+- Siguiendo a Lowry (2003) podría estructurarse alrededor de tres
+  tradiciones fundamentales:
   1. **Administrativa** – Organización económica basada en la gestión del Estado y la burocracia.
   2. **Moral** – Influencia de la religión y la ética en la economía.
   3. **Analítica** – Conceptos sobre valor, intercambio y especialización.
 - Grecia, Roma, el mundo islámico y la Europa medieval aportaron enfoques distintivos a la evolución del pensamiento económico.
 
-## La tradición administrativa
+# **La tradición administrativa [2500 a.C.-100 a.C]** {background="#390040"}
+
+## Características y naturaleza
+
+- Los **primeros registros de organización económica formal** con sus marcos
+  "intelectuales" correspondientes
+  - **circa 2500 a.C.**  $\longrightarrow$ civilizaciones fluviales en los
+  valles del Nilo (Egipto) y Eufrates (Mesopotamia), principalmente
+  con sumerios, asirios y babilónicos
+- Período **entre 1000 a.C. y 200 a.C. se dan los mejores registros**
+  que representan esta tradición
+  - época Clásica (Grecia) filosofía helenística; monarquía
+    hebrea; dinastía Zhou Oriental y caída de la monarquía (China),
+    imperio Maurya (India) 
+- Si bien combinaron elementos de las tres tradiciones, **naturaleza y
+  fundamento esencial de las ideas y escritos fue administrativa**
+  
+## Los primeros registros
 
 - En las primeras civilizaciones, la economía era gestionada por el Estado.
 - **Civilizaciones fluviales** (Egipto, Mesopotamia):
   - Agricultura coordinada con inundaciones anuales.
   - Graneros estatales y contabilidad centralizada para almacenar excedentes.
   - Necesidad de **medición de tierras y regulación pública**.
-- **Ejemplo**: Relatos del Antiguo Testamento sobre José, quien administró graneros en Egipto para prevenir hambrunas.
+- **Ejemplo** $\longrightarrow$ relatos del Antiguo Testamento sobre José, quien administró graneros en Egipto para prevenir hambrunas.
 
-## La tradición administrativa (cont.)
+## Los primeros registros (cont.)
 
-- **Las Tablas de Erlenmeyer** (2200 a.C., Sumeria):
+- **Tablas de Erlenmeyer** (2200 a.C., Sumeria) "descubiertas" en 1988:
   - Registros de producción agrícola y eficiencia laboral.
   - Introducción de sistemas contables avanzados.
-- **Influencia en Babilonia y el mundo islámico**:
-  - Desarrollo del sistema sexagesimal para cálculos administrativos.
+- **Influencia sumeria en Babilonia y mundo islámico**:
+  - Paso de habilidades matemáticas, gráficas y administrativas
+    - desarrollo del sistema sexagesimal para cálculos administrativos.
   - Uso del **ábaco y registros contables** como precursores de la contabilidad.
 
-## La tradición administrativa (cont.)
+## Israel y la monarquía hebrea
 
 - La **monarquía hebrea** unida y dividida (1047 a 722 A.C) ve
   introducción de propiedad privada y comercio interior y exterior
@@ -190,24 +206,52 @@ format:
   - algunos logros $\longrightarrow$ prohibición de embargar la ropa y
     utiles de trabajo
 
+## Antiguos griegos: características generales del pensamiento griego
 
-## La tradición administrativa (cont.)
+- **Visión antropocéntrica y administrativa** --economía y administración
+  del hogar
+- El **intercambio como mecanismo aislado** $\longrightarrow$ economía
+  básica y simple 
+- **Exaltaba** areas como las **artes militares y agricultura** y tenían
+  **desprecio por el trabajo y el comercio** y más generalmente la
+  persecución del lucro y ganancia $\longrightarrow$ **prevalencia de
+  consideraciones morales y éticas** 
+- **Aportes rudimentarios** sobre varios temas:  división y
+  especialización del trabajo; utilidad subjetiva; dinero e interés;
+  intercambio 
+- Poco y nulo rol del emprendedor y la creatividad --sociedad
+  "congelada" sin dinámica económica y con rigidez de *status* político
 
-![](../fig/fig-02-003.png){fig-align="center"}
 
-## La tradición administrativa (cont.)
+## Antiguos griegos: Hesíodo
 
-- **Xenofonte (Oeconomicus, siglo IV a.C.)**:
-  - Organización de la producción agrícola.
+- **Hesíodo (circa 700-800 a.C)** fue uno de los primeros griegos en
+  esta tradición. Vivió en una comunidad con **agricultura de 
+  subsistencia** $\longrightarrow$ preocupación principal escasez
+  --recursos limitados versus necesidad ilimitadas
+  -- de ahí su preocupación por la **eficiencia**
+- Obra principal $\longrightarrow$ *Works and Days* (poema)
+- Deseo de **emulación (en consumo)** estimula un espíritu
+  de competencia
+  - **aplicación de trabajo (crucial) y capital** 
+- Podría intuirse una **rudimentaria concepción del *tradeoff*
+   trabajo-consumo** $\longrightarrow$ para sobreponerse a la escasez,
+  mas trabajo era necesario a costa de menor tiempo de ocio
+
+## Antiguos griegos: Jenofonte
+
+- **Jenofonte (430-355 a.C.)** fue filósofo, soldado e
+  historiador. Escribió su obra más conocida, **Oeconomicus** donde
+  trata varios temas: 
+  - **Organización de la producción** agrícola.
   - Importancia de la **eficiencia y especialización**.
-- Filósofo, soldado, historiador y escritor. 
 - Se ocupó de temas prácticos aunque incursionó en filosofía moral. 
   - vestigios de utilitarianismo --*"mejores acciones son las más
   beneficiosas para todos"* e igualitarismo --*"esposas y esposos
   deberían ser co-trabajadores en el hogar"* 
   - concepción subjetiva (relativa) de utilidad
   
-## La tradición administrativa (cont.) 
+## Antiguos griegos: Jenofonte (cont.) 
   
 > The woman conceives and bears her burden in travail, risking her life, and giving of her own food; and, with much labor, having endured to the end and brought forth her child, she rears and cares for it, although she has not received any good thing, and the babe neither recognizes its benefactress nor can make its wants known to her; still she guesses what is good for it, and what it likes, and seeks to supply these things, and rears it for a long season, enduring toil day and night, nothing knowing what return she will get.
 
@@ -216,74 +260,202 @@ format:
 - División de las tareas del hogar es clave para él --límite:
   extensión del mercado 
 
-  
 
-## La tradición administrativa (III)
+## Antiguos griegos: Platón 
+
+- Uno de los más importantes fue **Platón (428-348 a.C)**. Su obra
+  principal en la temática es *La República* ["el alegato más
+  elocuente en favor de una cierta clase de comunismo jamás escrito" Robbins (2000)]
+  - Describe a su **Estado ideal**: Platón creía que debía ser
+  **rígido** y **estático** $\longrightarrow$ todo cambio es regresivo
+  [Platón repudiaba la democracia; alababa a Esparta y no a Atenas]
+- Estructura de la sociedad
+  1. Filósofos
+  2. Soldados (*"guardianes"*)
+  3. Trabajadores-productores
+  
+## Antiguos griegos: Platón (cont.)
+    
+- Primer pensador occidental que menciona y analiza la importancia del
+  principio de la **división del trabajo** $\longrightarrow$ la
+  especialización emerge a partir de la naturaleza humana en
+  particular su diversidad y desigualdad 
+
+> "We are not all alike; there are many diversities of natures among
+> us which are adapted to different occupations"
+
+- Diferencias son *originarias* no *adquiridas* --i.e. a través de la
+  educación
+- Dado que individuos diferentes producen bienes diferentes, la
+  **especialización da fundamento al comercio** --además la
+  **especialización es el fundamento económico de la ciudad (*polis*)** 
+  
+## Antiguos griegos: Platón (cont.)
+
+- Denunciaba y **despreciaba el uso de oro y plata como moneda** --veía
+  una amenaza a la regulación económica y moral de la *polis*
+- Para concretar su *utopía ordenada* la sociedad de Platón debía ser
+  rígida y estática
+  - poco espacio para la innovación, dinámica empresaria y crecimiento
+    económico
+- Incluso esto lo extendió al crecimiento poblacional
+  $\longrightarrow$ abogaba por mantener el número de ciudadanos
+  constante en 5000 terratenientes!
+  
+## Antiguos griegos: Platón (cont.)
+
+![](../fig/fig-02-plato-division-of-labour-01.png){ fig-align="center"}
+
+## Antiguos griegos: Platón (cont.)
+
+![](../fig/fig-02-plato-division-of-labour-02.png){fig-align="center"}
+
+## Antiguos griegos: Protágoras
+
+- A diferencia de Platón, **Protágoras (480-411 a.C.)** fue un
+  relativista --no existe ninguna verdad objetiva sino sólo opiniones
+  subjetivas.
+  - Todo está condicionado por el contexto, por el tiempo y lugar
+
+> *El hombre es la medida de todas las cosas*
+
+- Defendió la importancia de apelar a las emociones en lugar de
+  utilizar sólo la razón y la lógica
+  
+## Antiguos griegos: Protágoras (cont.)
+
+- Varios autores afirman que fue **Protágoras (480-411 a.C.)** quien
+  acercó uno de los primeros antecedentes de la ideal del
+  valor-trabajo y del individualismo subjetivo $\longrightarrow$ idea
+  del hombre-medida
+- Además, identificó aunque de manera rudimentaria dos elementos
+  importantes:
+  1. el rol del **mercado como asignador de recursos** para maximizar
+     utilidad
+  2. el uso de la **medición hedonística** en la evaluación de la elección
+
+## China y la tradición oriental
 
 - Entre los años 771 y 249 a.C. se produjo en China un revolución a
   nivel de pensamiento económico coincidente con la caída de la
   autoridad monárquica
-- Tres escuelas principales trataron temas económicos
-  - Confucianistas
-  - Moistas
-  - Taoistas
-  - Legalistas
-- Los **legalistas** trataron con temas prácticos y administrativos;
-  el resto eran más bien sistema de valores éticos y morales
+  - Schumpeter sin embargo **relativizó la importancia de la tradición
+    oriental** (similar a lo que pensaba de griegos y romanos)
+- Autores más recientes cuestionan esto; "revival" interés luego de
+  muerte de Mao. 
+- Cuatro escuelas principales trataron temas económicos: a)
+  confucianistas; b) moistas; c) taoistas; y d) legalistas
+  - Según Schumpeter, sólo los **legalistas** trataron con temas
+  prácticos y administrativos; el resto y sobre todo el
+  **confucianismo** eraa más bien un sistema de valores éticos y
+  morales.
 
-## La tradición administrativa (cont.)
+## China y la tradición oriental (cont.)
 
-- Guan Zhong [720-645 a.C.] principal pensador en temas filosóficos,
-  políticos y económicos
+![El renovado interés en la tradición oriental](../fig/fig-02-001.png)
+
+## China y la tradición oriental: Guan Zhong
+
+- **Guan Zhong [720-645 a.C.]** principal pensador filosófia, economía y política
   - filosofía del *Qing Zhong* --ligero, pesado- idea primitiva de
     $O$ y $D$
   - valor de todos los bienes es relativo
-  
+
 > Qing 轻 means “light” and by extension “unimportant,”
-> “inconsequential,” or “cheap.” As a verb, it means to accord little or
+> “inconsequential,” or “cheap.” It means to accord little or
 > no value to something. Zhong 重 means “heavy,” and by extension
-> "important", "serious" or "expensive". As a verb, it means to value
+> "important", "serious" or "expensive". It means to value
 > something. As a compound the two characters usually mean "weight".
 
+- Bienes *pesados* considerados esenciales (producción/bienestar);
+  bienes *ligeros* son vistos como no esenciales 
 
-## La tradición administrativa (cont.)
 
-- Anticipa la escasez como determinante del precio --*"when things are
+## China y la tradición oriental: Guan Zhong (cont.)
+
+- Anticipa la **escasez como determinante del precio** --*"when things are
 plentiful, they will be cheap; when they are scarce, they will be
 expensive"*
-- Idea sobre estructura de mercado --*"Goods if concentrated will
+- Demanda influía sobre precio --además $D$ como depósito de
+  valor. Si un bien "se guarda bajo llave", entonces tenderá a subir
+  su precio 
+- Idea sobre **estructura de mercado** --*"Goods if concentrated will
   become *heavy*, but will turn *light* once they are scattered about"*
 - Impuestos instantáneos afectan precio inmediatamente ("heavy");
   impuestos graduales difieren efecto ("light")
-- Valor del dinero mueve en dirección opuesta al precio del grano
+- Subsistencia dependía del valor de granos 
+  - **valor del dinero** mueve en dirección opuesta al precio del grano
   ("numeraire")
-  
 
-## La tradición moral
 
-- Economía influenciada por **valores éticos y religiosos**.
-- **Profetas hebreos** $\longrightarrow$ visión idealista y *naive*
-  - buscaban eliminar vicios y revertir a sociedad ideal --ie. cambios producto de "cambio en el corazón del hombre"
+## China y la tradición oriental: Guan Zhong (cont.)
+
+- El **rol de la política económica**, según el *Guanzi* debía ser el de
+  "pesar y balancear", usar lo que es *pesado* para compensar lo que
+  es *ligero*
+- El gobierno debía comprar bienes cuando eran *ligeros* y venderos
+  cuando eran *pesados* de manera de **suavizar fluctuaciones**
+  $\longrightarrow$ idea de política fiscal contracíclica
+- Indicios de funcionamiento (descentralizado) del mercado
+
+## China y la tradición oriental: Guan Zhong (cont.)
+
+> "[a]s the harvest is bad or good, grain will be expensive or
+> cheap. ...if the prince is not able to control the situation, it
+> will lead to large-scale traders roaming the markets and taking
+> advantage of the people's lack of things to increase their capital a
+> hundredfold"
+
+> "it is the nature of men that whenever they see profit, they cannot
+> help chasing after it"
+
+## India y la "ciencia de la riqueza"
+
+- Algunos autores sugieren que hubo **pensamiento económico no
+  científico en la India** particularmente en el tiempo del gran imperio
+  unificado Maurya [322-185 a.C.] 
+- Kautylia (Chanakia) fue un filósofo y asesor del rey y escritor del
+  **principal tratado sobre asuntos económicos y políticos** de la época
+  - el *Arthasastra* ["ciencia de la riqueza"] contiene 15 partes y
+    secciones que discuten temas como códigos legales, política
+    exterior, organización económica y sobre impuestos y gastos militares
+- Premisa $\longrightarrow$ **el Estado (gobierno) juega un rol vital en
+  mantener el *status* material** tanto de la nación como de sus
+  habitantes
+
+## India y la "ciencia de la riqueza" (cont.)
+
+- **Concepción religiosa de actividad económica y social**
+  $\longrightarrow$ éxito material era no sólo moralmente deseable
+  sino una etapa esencial en la vida civilizada 
+  - persecución de ganancia no era incompatible con vida moral
+- El gobierno del Rey debía ser activo la administración de la
+  economía $\longrightarrow$ **política económica activa** y grado
+  importante de **control estatal sobre la economía**
+  - pero condición necesaria una "burocracia" eficiente y claramente
+    definida
+- **Regulación estatal** de casi toda actividad económica privada
+  $\longrightarrow$ Kautylia convencido de que se podía **controlar
+  comportamiento individual** a través de incentivos (premios y castigos)
+
+# **La tradición moral [750 a.C-500]** {background="#390040"}
+
+## Características y naturaleza
+
+- Economía influenciada por **valores éticos y
+  religiosos**. 
+- **Profetas hebreos** $\longrightarrow$ visión
+  idealista y *naive*. Buscaban eliminar vicios y revertir a sociedad ideal --ie. cambios producto de "cambio en el corazón del hombre"
 - **Aristóteles y la economía justa**:
-  - Diferenciación entre **economía natural** (necesidades básicas) y **economía antinatural** (acumulación de riqueza).
-  - Condena de la **usura** como inmoral.
+  - Diferenciación entre **economía natural** (necesidades básicas) y
+    **economía antinatural** (acumulación de riqueza). Condena de la **usura** como inmoral.
+- **Doctrina cristiana** $\longrightarrow$ trabajo como castigo divino
+  (Génesis); reegulación del comercio basada en la moral y la justicia
+  social 
 
-## La tradición moral (cont.)
+## Taoismo en China
 
-- **Doctrina cristiana**:
-  - El trabajo como castigo divino (Génesis).
-  - Regulación del comercio basada en la moral y la justicia social.
-- **Islam y economía**:
-  - Prohibición del **interés (riba)**.
-  - Desarrollo de contratos de **riesgo compartido** en el comercio.
-- **Escolástica y pensamiento medieval**:
-  - Santo Tomás de Aquino y la teoría del **precio justo**; desprecio
-    de la **usura**
-
-
-## La tradición moral (cont.)
-
-- **Escuelas *taoístas** en China
+- **Escuelas taoístas** en China
   - Lao-tzu $\longrightarrow$ no interferencia estatal en asuntos
     económicos. Gobierno mínimo. 
   - Chuang-tzu $\longrightarrow$ discurso anti-estatista --i.e
@@ -294,71 +466,292 @@ expensive"*
 > State"*
 
 
-## La tradición analítica (I): Teoría del valor
+## Aristóteles: entre lo moral y lo analítico
+
+- Postuló la idea de que sólo la propiedad privada le provee al
+  individuo la **oportunidad de actuar moralmente** --i.e. practicar las
+  virtudes de la benevolencia y filantropía. La compulsión de la
+  propiedad comunal destruye esa oportunidad. 
+- A diferencia de Platón, **no se opuso a la limitación individual de
+  acumular propiedad privada** --la educación serviría como
+  autoregulador de tal deseo
+
+## Aristóteles: entre lo moral y lo analítico (cont.)
+
+- Introduce distinción entre **necesidades naturales** y **deseos
+  artificiales** -origina conceptos de **intercambio natural** e
+  **intercambio artificial** y relación con el dinero 
+
+> En el intercambio natural, el dinero es un medio para un fin
+    mientras que en el intercambio artificial, el dinero es tanto un
+    medio como un fin. 
+
+- **Rechazó el intercambio artifical** porque implicaba intercambio
+  por la mera razón de ganar dinero (inmoral)
+  - venta minorista, comercio, transporte y contratación de trabajo
+
+## Aristóteles: entre lo moral y lo analítico (cont.)
+
+- **Contradicción entre lo analítico y lo moral** $\longrightarrow$
+  aplica a discusión del dinero 
+  - facilitaba la producción y el intercambio; eliminaba problema de
+  mutua coincidencia de necesidades; depósito de valor
+    - pero **condenaba moralmente el préstamo de dinero** (y el
+      correspondiente pago de interés) como "artificial" 
+- Esta contradicción también aplica de manera integral a su discusión
+  de la **crematística** (*chrématistiqué*) $\longrightarrow$ "el arte
+  de adquirir o producir los bienes utilizados por la **economía**"
+  (*oikonomiké*) --acción de usar las riquezas
+
+## Aristóteles: entre lo moral y lo analítico (cont.)
+
+> Por tanto, es evidente que hay un arte de adquisición natural para los que
+> administran la casa y la ciudad. ...Existe otra clase de arte
+> adquisitivo, que precisamente llaman -y está justificado que así lo
+> hagan- *crematística*, para el cual parece que no existe límite
+> alguno de riqueza y propiedad. Muchos consideran que existe uno
+> solo, y el mismo que el ya mencionado a causa de su afinidad con
+> él. Sin embargo, no es idéntico al dicho ni está lejos de él. Uno es
+> por naturaleza y el otro no, sino que resulta más bien de una cierta
+> experiencia y técnica 
+**[Aristóteles, *Política. Libro I*, pp. 68]**
+	
+## Aristóteles: entre lo moral y lo analítico (cont.)
+
+> Ambos usos son del mismo objeto, pero no de la misma manera; uno es
+> propio del objeto, y el otro no. Por ejemplo, el uso de un zapato:
+> como calzado y como objeto de cambio. Y ambos son utilizaciones del
+> zapato. De hecho, el que cambia un zapato al que lo necesita por
+> dinero o por alimento, utiliza el zapato en cuanto zapato, pero no
+> según su propio uso, pues no se ha hecho para el cambio. Del mismo
+> modo ocurre también con las demás posesiones, pues el cambio puede
+> aplicarse a todas, teniendo su origen, en un principio, en un hecho
+> natural: en que los hombres tienen unos más y otros menos de lo
+> necesario. De ahí que es evidente también que el comercio de compra
+> y venta no forma parte de la crematística por naturaleza, pues
+> entonces sería necesario que el cambio se hiciera para satisfacer lo
+> suficiente. 
+**[Aristóteles, *Política. Libro I*, pp. 68]**
+
+## Aristóteles: entre lo moral y lo analítico (cont.)
+
+- Vio al intercambio como un proceso bilateral que genera ganancias
+  para ambas partes --**igualdad proporcionada**, **reciprocidad**
+- Distinguió entre **valor en uso** y **valor en cambio
+  (intercambio)**; sugirió que el segundo deriva (subordinado) del
+  primero pero 
+  - no ofreció ninguna teoría del valor de cambio (o del precio)
+- Nueva instancia en que falla en separar lo moral de lo analítico en su
+  tratamiento
+  - foco en problema ético de la justicia en el intercambio
+  --*justicia conmutativa*
+    - **principio de reciprocidad en el intercambio**
+
+# *Pensamiento y filosofía griega: contexto* {background="#390040"}
+
+## Los primeros filósofos-economistas
+
+- Los antiguos griegos fueron la primer civilización en usar la razón
+  para pensar sistemáticamente acerca del mundo que los rodeaba --usar
+  lógica y obtener conocimiento verificable
+  - antes $\longrightarrow$ tribus y pueblos bárbaros atribuían
+    eventos naturales a los dioses 
+- Desarrollaron una teoría y método de razonamiento que eventualmente
+  se denominó **la ley natural**
+  - análisis basado en ley natural gira alrededor de los conceptos de
+  **causa** y **efecto**
+  
+## La ley natural
+
+> La ley natural descansa en la idea de que **ser** necesariamente
+> importa **ser algo**: alguna cosa o entidad. No existe el **ser** en
+> el abstracto. Existen millones de entidades en el
+> universo y cada una tiene su propia **naturaleza** --conjunto de
+> atributos y/o propiedades que la distingue de otras. Se sigue que el
+> hombre puede descubrir, estudiar e identificar de esta manera a las
+> entidades. Dadas dos entidades $X$ e $Y$ con sus respectivas
+> naturalezas, podemos averiguar qué sucede **cuando estas entidades
+> ineractúan**. Por ejemplo, si $X$ e $Y$ interactuán en ciertas
+> cantidades, obtenemos $Z$ en cierta cantidad. Decimos que $Z$ --el
+> efecto- ha sido causado por la interacción de $X$ e $Y$. 
+
+- Sabemos que la interacción de dos moléculas de $H$ y una molécula de
+  $O$ da por efecto una molécula de una *nueva entidad*, $H_{2}O$ (efecto)
+
+## Los principios aristotélicos 
+
+::: {.callout-tip icon=false}
+## Principio de la Identidad 
+Toda entidad es igual a si misma $\longrightarrow$ $\forall A, A=A$
+:::
+
+::: {.callout-tip icon=false}
+## Principio de la No Contradicción 
+Una entidad no puede ser y no ser al mismo tiempo $\longrightarrow$  $\neg(A \wedge \neg A)$
+:::
+
+::: {.callout-tip icon=false}
+## Principio del Tercero Excluido 
+Toda entidad debe ser o no ser $\longrightarrow$ $(A \vee \neg A)$
+:::
+
+## El individuo y la ley natural
+
+- El individuo **actúa** --adopta valores y propósitos y formas de
+  lograrlos y debe operar dentro de la ley natural
+  - las propiedades (naturaleza) de el mismo y de otras entidades y
+    los modos en que interactúan
+- **Civilización occidental** $\longrightarrow$ encuentra sus orígenes en
+  Grecia en las dos tradiciones filosóficas más importantes
+  --Platónica y Aristotélica
+  - filosofía platónica $\longrightarrow$ **existencia ideal**
+    (verdadera naturaleza del individuo) --el individuo
+    *verdaderamente* existente es eterno e infinito
+  - filosofía aristotélica $\longrightarrow$ **existencia contingente**
+    --limitada; no necesaria ni eterna ("sólo la existencia de Dios es
+    necesaria y trasciende el tiempo")
+
+## El individuo y la organización social
+
+- Vida organizada en **pequeñas ciudades-Estado** ("polis") cuyo
+  gobierno estaba a cargo de una **oligarquía de ciudadanos
+  privilegiados**. Mayoría de población eran esclavos o residentes
+  extranjeros --sólo 7\% tenían privilegios de democracia
+  ("ciudadanos") en Atenas 
+- Platón promovía regímenes despóticos; Aristóteles algo más moderado
+  - la virtud y la buena vida basadas alrededor de la *polis* no del
+    individuo [*polis over individual*]
+  - visión intrínsecamente *estatista y elitista* 
+- Doctrina clásica de "ley natural" influyó en pensamiento
+  cristiano y medieval
+  - no evolucionó en la doctrina del "derecho natural" de siglos 17 y 18
+
+
+# **La tradición analítica [750 a.C.- 500]** {background="#390040"} 
+
+## Características y naturaleza
+
+- Schumpeter argumenta que hay poco y nada rescatable en la línea
+  analítica en toda la historia hasta el siglo XVII-XVIII
+  - en particular, hubo una carencia importante de **análisis
+    económico** en el sentido moderno
+  - adicionalmente y en su gran mayoría, el **razonamiento economico
+    estuvo imbuido de una gran carga moral y ética** [economía
+    normativa]
+- No obstante hubo algunos **autores y tradiciones destacaron al
+  intentar un abordaje analítico** -se acercaron a una tradición rigurosa de
+  análisis economico. 
+  
+## Temas y conceptos principales
 
 - **Conceptos de valor y precio**:
-  - Aristóteles diferencia entre **valor de uso** y **valor de cambio**.
-  - Xenofonte introduce la **especialización productiva**.
+  - Aristóteles diferencia entre **valor de uso** y **valor de
+    cambio**.
+	- concepto de **precio justo** 
+  - Introducción de **especialización productiva**.
 - **División del trabajo en la antigüedad**:
   - Platón y la especialización como base de la economía.
-  - Ejemplo en Roma: **gremios y producción artesanal**.
+- Introducción de **dinero, préstamos e interés**
+  - origen y evolución del dinero
 
-## La tradición analítica (II): Mercado y precio
 
-- **Concepto de precio justo**:
-  - Regulación de precios por autoridades locales y gremios.
-  - Evolución de **ferias comerciales** en la Edad Media.
-- **Islam y la regulación del mercado**:
-  - Ibn Jaldún y los **ciclos económicos**.
-  - Relación entre impuestos y desarrollo.
+## El Filósofo: Aristóteles
 
-## Instituciones económicas medievales
+- Discípulo (y antagonista) de Platón --*Platón es mi amigo, pero
+  más amiga es la verdad* 
+- Largamente **más influyente que Platón** en temas filosóficos y otras
+  areas:
+  - estructura de pensamiento fue dominante en tradición occidental
+    hasta siglos 16 y 17 --ideas políticas y morales
+- Dos grandes obras, entre muchas, fueron *Etica* y *Política*. Su
+  pensamiento filosófico lo hizo preocuparse por **lo natural** y **lo
+  justo**
+- Ofrece ideas y discusiones aisladas; no teoría del valor y/o
+  distribución. 
 
-- **Feudalismo y economía**:
-  - Producción basada en la **propiedad de la tierra**.
-  - **Servidumbre y producción agrícola** autosuficiente.
-- **Monasterios y economía**:
-  - Los monjes cistercienses innovaron en agricultura.
-  - Administración eficiente de tierras y recursos.
-- **Corporaciones y gremios**:
-  - Regulación del comercio y la calidad de los productos.
+## El Filósofo: Aristóteles y la propiedad privada
 
-## Instituciones económicas medievales (cont.)
+- Una diferencia radical con Platón fue en relación a la **institución
+  de la propiedad privada** la cual favoreció [en contra del comunismo
+  platónico] --el objetivo de perfecta unidad de Platón iba en contra
+  de la diversidad de la humanidad y en contra de las ventajas
+  recíprocas del intercambio. 
+  1. La propiedad privada es **más productiva** que la propiedad comunal y
+     conduce a mayor progreso
+  2. La propiedad comunal inherentemente conduce al **conflicto
+     interpersonal**--problema del esfuerzo individual relativo a lo obtenido [¿free
+     rider?]
+  3. La propiedad privada está implantada en la **naturaleza humana**
+  4. La propiedad privada **ha existido siempre y en todos lados**
+  
+## El Filósofo: Aristóteles y el dinero
 
-- **Comercio islámico**:
-  - Expansión del comercio a través del Mediterráneo.
-  - Uso de **cartas de crédito** y cheques (**sakk**).
-- **Bancos y crédito medieval**:
-  - Monti di Pietà y préstamos sin usura.
-  - Desarrollo de letras de cambio.
+- Comprendió y **destacó las funciones del dinero**: 1) patrón de valor,
+      2) medio de cambio y 3) depósito de valor. El dinero era en sí
+      una *commodity* --existía un mdo. de dinero [valor en cambio]
+- No entendió y/o no indagó en las *razones económicas* por las cuales
+  existía el interés!
 
-## Innovaciones económicas del Islam
+## El Filósofo: Aristóteles y el intercambio
 
-- **Contabilidad avanzada**:
-  - Uso de la **partida doble** en registros financieros.
-- **Expansión comercial**:
-  - Creación de rutas comerciales globales.
-- **Influencia en Europa**:
-  - Transferencia de conocimientos financieros.
+> La existencia misma de cualquier sociedad no comunista involucra e
+  intercambio de bienes y servicios. Inicialmente esto se da a través
+  de trueque; pero esto no siempre es posible, o tiene un limite. Esto
+  implicará que eventualmente los intercambios se realizarán a través
+  de alguna commodity como *medio de cambio* sugirio que algunas
+  commodities cumplian mejor ese rol --metales. Asimismo, por el
+  requerimiento de su regla de equivalencia en el intercambio, se
+  seguía que esta commodity tambien sería usada como *medida de
+  valor*. Y finalmente reconoció, al menos implícitamente, su rol como
+  *depósito de valor* --gran antecedente casi 2500 años antes de las
+  discusiones en siglo XIX 
 
-## Evolución del comercio europeo
+  - condiciones primitivas $\longrightarrow$ trueque no necesita dinero;
+    eventualmente $\longrightarrow$ se produce **intercambio
+    indirecto** --mediado por algo que sirva como *dinero*  
 
-- **Ferias comerciales medievales**:
-  - Centros de comercio e intercambio financiero.
-- **Primeros bancos**:
-  - Casas bancarias en Florencia y Venecia.
-- **Orígenes del capitalismo**:
-  - Crecimiento de los mercados urbanos.
+## El Filósofo: Aristóteles y el intercambio (cont.)
 
-## Dinero y economía
+- Este pasaje plantea numerosos interrogantes e inconvenientes [¿ratio
+  de constructor a zapatero? ¿comparación de ratios de profesiones a
+  productos? ¿unidades de medición?]
 
-- **Origen del dinero**:
-  - Monedas metálicas en Lidia (siglo VII a.C.).
-  - Aristóteles y las funciones del dinero.
-- **Banca y finanzas medievales**:
-  - Uso de letras de cambio como medio de pago.
-- **Papel del dinero en el comercio**:
-  - Crecimiento de economías monetarias.
+> This is why all things that are exchanged must be somehow comparable. It is for this end that money has been introduced, and it becomes in a sense an intermediate; for it measures all things, and therefore the excess and the defect -- how many shoes are equal to a house or to a given amount of food. The number of shoes exchanged for a house (or for a given amount of food) must therefore correspond to the ratio of builder to shoemaker. For if this be not so, there will be no exchange and no intercourse
+
+
+## El Filósofo: Aristóteles y el intercambio (cont.)
+
+> Now proportionate return is secured by cross-conjunction. Let A be a builder, B a shoemaker, C a house, D a shoe. The builder, then, must get from the shoemaker the latter's work, and must himself give him in return his own. If, then, first there is proportionate equality of goods, and then reciprocal action takes place, the result we mention will be effected. If not, the bargain is not equal, and does not hold; for there is nothing to prevent the work of the one being better than that of the other; they must therefore be equated. 
+
+## El Filósofo: Aristóteles y el intercambio (cont.)
+
+![](../fig/fig-02-010.png){ fig-align="center"}
+
+## El Filósofo: Aristóteles y el intercambio (cont.)
+
+- Aceptó precios de los bienes observados en mercado como estándares
+de su justicia conmutativa pero...condenó precios de monopolio
+- Incurrió en el problema de aceptar todo intercambio que sucediera a
+los **precios competitivos como justa** [influencia sobre
+Escolásticos]
+  - otro problema $\longrightarrow$ valor justo de un bien es
+    "objetivo" sólo en el sentido que individuos no pueden alterarlo
+- No hay elementos objetivos ni explícitos en sus escritos
+  que acrediten que entendió las causas del valor de los bienes
+  --observó los intercambios y ofreció una interpretación
+  [¿justificación?]
+
+## El Filósofo: Aristóteles y el intercambio (cont.)
+
+- **Aristóteles no ofrece ninguna teoría del valor**;
+  no habla de contenido de horas de trabajo; no existe forma de
+  determinar los valores de los productores; y tampoco el ratio
+- Planteo de buscar un **elemento de justicia** en la determinación de
+  precios lo llevó a exponer el **principio de reciprocidad** entre lo que
+  el hombre da y recibe
+- Debe haber pensado en algun *valor objetivo (absoluto) de las
+  cosas*, algo intrínseco e inherente que es independiente de las
+  circunstancias y/o de las valuaciones humanas
 
 ## Roma y la teoría del mercado
 
@@ -369,75 +762,117 @@ expensive"*
 - **Legado en la economía moderna**:
   - Influencia en la regulación financiera y contractual.
 
-## Análisis del intercambio
+## Roma: principales contribuciones
 
-- **Voluntariedad en el comercio**:
-  - Xenofonte y el concepto de **valor subjetivo**.
-- **Justicia en el intercambio**:
-  - Aristóteles y la teoría de la proporcionalidad.
-- **Raíces del comercio internacional**:
-  - Relaciones económicas basadas en confianza y reciprocidad.
+- Gran contribución del imperio romano no económica $\longrightarrow$
+  **el derecho**
+- El *ius gentium* suministro marco legal para la actividad económica
+  contemporánea y posterior
+- Pensamiento cristiano primitivo se centró en el recto uso de bienes
+  materiales (moral)
+  - Autores **cristianos indiferentes respecto del análisis
+    positivo**
+- Llamativa ausencia y escasez de pensamiento económico durante la
+  Roma Republicana e Imperial y también durante la Cristiandad
 
-## Platón y la economía ideal
 
-- **Influencia de las matemáticas**:
-  - Aplicación de la teoría pitagórica a la economía.
-- **El Estado como agente económico**:
-  - Economía planificada basada en eficiencia y especialización.
-- **Impacto en la teoría económica posterior**:
-  - Relación con el utilitarismo y el pensamiento neoclásico.
+# **Schumpeter, *the Great gap* [700-1200] y las ideas económicas medievales** {background="#390040"}
 
-## Justicia y mercados en la Edad Media
+## La tesis de *the Great gap*
 
-- **Regulación de precios y salarios**:
-  - Protección de consumidores y trabajadores.
-- **Mercados locales y comercio global**:
-  - Expansión del comercio y especialización económica.
-- **El legado medieval en el capitalismo**:
-  - Evolución del crédito y el sistema bancario.
+> So far as our subject is concerned we may safely leap over 500 years to the epoch of  St. Thomas Aquinas (1225-74) whose Summa lkeologica is in the history of  thought what the southwestern spire of  the Cathedral of Chartres is in the history of architecture
+**[Schumpeter, 1954]**
 
-## Resumiendo
+- Probablemente una de las definiciones más polémicas en la historia
+  del pensamiento económico, **su tesis del "Great Gap" de unos 500 años**
+  entre la caída de la civilización griega y los escritos de Santo
+  Tomás de Aquino
+  - recientemente cuestionada y actualizada con autores aludiendo a
+    **varias contribuciones e ideas aportadas por pensadores árabes e
+    islámicos** 
 
-- **Evolución del pensamiento económico**:
-  - De la administración estatal a los mercados regulados.
-- **Grecia y Roma como precursores**:
-  - Ideas fundamentales sobre valor, comercio y justicia económica.
-- **Papel del mundo islámico y medieval**:
-  - Innovaciones en banca, comercio y contratos financieros.
-- **Conexión con la economía moderna**:
-  - Desarrollo del crédito y el comercio internacional.
-
-## Resumiendo (cont.)
-
-- El estudio de la economía antigua y medieval ayuda a comprender la evolución del pensamiento económico.
-- Los conceptos de **mercado, especialización y justicia** siguen siendo relevantes.
-- ¿Qué principios económicos medievales podrían aplicarse en la actualidad?
-
-# **ANEXO: Pensamiento económico medieval** {background="#390040"}
-
-## La decadencia secular de Occidente
+## La decadencia secular de Occidente 
 
 - Occidente entra en la denominada *Edad Oscura* luego de la caída del
   último emperador romano [476 hasta siglos XII-XIII]
-  - contrapartida $\longrightarrow$ auge y desarrollo del Islam y
-    Oriente en ciencia e innovaciones [numeración arábica]
+  - contrapartida $\longrightarrow$ **auge y desarrollo del Islam y
+    Oriente en ciencia e innovaciones** [numeración arábica]
 - Pero más importante aún $\longrightarrow$ reintroducción de
   Aristóteles en Occidente 
   - Traducción de los textos y reintroducción de ideas de los griegos
     en período 1000-1500
 
-## Sistema de organización feudal
+## ¿Algunas luces en la *Edad Oscura*?
 
-- Feudalismo esencialmente un sistema de producción y distribución
+- Varios autores critican a Schumpeter por ignorar contribuciones de
+  autores islámicos --asimismo, no hubo discontinuidad en los eventos
+  históricos pero si en el pensamiento económico
+- **Ibn Kaldún [1332-1406]** fue historiador, sociólogo y economista árabe
+  con ideas que se anticiparon a varias teorías económicas
+  - teoría de la cohesión social $\longrightarrow$ la prosperidad
+    económica depende del grado de cohesión social, el que disminuye a
+    medida que las sociedad se vuelven mas ricas
+    
+## Pensamiento económico islámico
+
+- **Anticipó teoría del valor trabajo** $\longrightarrow$ sugirió que el
+  trabajo era la fuente de todo valor y el esfuerzo humano determina
+  la riqueza de un país
+  - también **enfatizó los beneficios de la división del trabajo y
+    especialización** 
+- Determinación de precios a través de oferta y demanda
+  $\longrightarrow$ reconoció que la escasez aumenta el valor
+- Poca y nula actividad estatal en la economía; en particular se opuso
+  a la imposición excesiva
+- **naturaleza cíclica del crecimiento económico** $\longrightarrow$ versión
+  primitiva de ciclos económicos
+
+## Economía e instituciones económicas medievales
+
+- **Feudalismo y economía** $\longrightarrow$ producción basada en la
+  **propiedad de la tierra**. 
+  - **Servidumbre y producción agrícola** autosuficiente.
+- **Monasterios y economía**:
+  - Los monjes cistercienses innovaron en agricultura.
+  - Administración eficiente de tierras y recursos.
+- **Corporaciones y gremios**:
+  - Regulación del comercio y la calidad de los productos.
+
+## Economía e instituciones económicas medievales (cont.)
+
+- **Feudalismo** esencialmente un **sistema de producción y distribución**
   compuesto por el monarca, los señores y los siervos
 - Propiedad=usufructuo. El feudo se convirtió en sede del poder
   político
-- Actividad básica de autosuficiencia: comercio era o bien limitado o
-  prohibido
-- Mercado como fenómeno de la vida diaria $\longrightarrow$ de a poco
-  a actividad económica se iba concentrando en centros comerciales
+- **Actividad básica de autosuficiencia** $\longrightarrow$ comercio
+  era o bien limitado o prohibido
+- (Larga) transición a mercado como fenómeno de la vida diaria
+  $\longrightarrow$ de a poco a actividad económica se iba
+  concentrando en centros comerciales 
   
-## Las preocupaciones de la escolástica 
+## Surgimiento y evolución del comercio
+
+- **Comercio islámico**:
+  - Expansión del comercio a través del Mediterráneo y  rutas
+    comerciales globales. 
+  - Uso de **cartas de crédito** y cheques (**sakk**).
+- **Bancos y crédito medieval**:
+  - Monti di Pietà y préstamos sin usura.
+  - Desarrollo de letras de cambio.
+
+
+## Surgimiento y evolución del comercio (cont.)
+
+- **Ferias comerciales medievales**:
+  - Centros de comercio e intercambio financiero.
+- **Primeros bancos**:
+  - Casas bancarias en Florencia y Venecia.
+- **Orígenes del capitalismo**:
+  - Crecimiento de los mercados urbanos.
+
+# **La escolástica y los doctores escolásticos** {background="#390040"}
+
+## Las preocupaciones de los filósofos morales
 
 - Se produce un cambio en las principales motivaciones de los
   filósofos morales de la época 
@@ -447,7 +882,6 @@ expensive"*
 
 > "We next have to consider the sins which have to do with voluntary
 > exchanges..." [Aquinas, **Summa Theologica** (1948)]
-
 
 ## El método escolástico
 
@@ -572,7 +1006,7 @@ expensive"*
 - Sobre salarios $\longrightarrow$ aplican las mismas reglas que para
   los precios
   
-## El tema del interés y la usura
+## El interés y la usura
 
 - Existió un acuerdo casi total entre los escolásticos y sobre
   todo los *tardíos* en la condena (aristotélica) de la usura
@@ -583,7 +1017,7 @@ expensive"*
   - La oposición era inflexible a cobrar interés sobre el dinero
 dado como préstamo
 
-## El tema del interés y la usura (cont.)
+## El interés y la usura (cont.)
 
 > (In proof of this,) it should be noted that there are some things
 > the use of which is the consumption of the things themselves; as we
@@ -598,7 +1032,7 @@ dado como préstamo
 > sin of injustice. For analogous reasons, a man commits injustice who
 > lend wine or wheat expecting to receive two compensations. 
 
-## El tema del interés y la usura (cont.)
+## El interés y la usura (cont.)
 
 > There are some things, however, the use of which is not the
 > consumption of the thing itself; thus the use of a house is living
@@ -610,7 +1044,7 @@ dado como préstamo
 > price for the use of a house, and in addition expect to receive back
 > the house lent. 
 
-## El tema del interés y la usura (cont.)
+## El interés y la usura (cont.)
 
 - Increíblemente $\longrightarrow$ el propio filósofo se refuta a si
   mismo en el párrafo siguiente! 
@@ -624,7 +1058,7 @@ dado como préstamo
 - Hacia el siglo XIV y XV, dado el gran desarrollo de negocios y
   actividad mercantil, empieza a relajarse esta oposición a la usura
   
-## El tema del interés y la usura (cont.)
+## El interés y la usura (cont.)
 
 - La Iglesia condenó la usura y durante la Edad Media hubo una
   prohibición absoluta. Las leyes contra la usura eran respaldadas por
@@ -673,594 +1107,6 @@ dado como préstamo
   1. trabajo como regulador del valor, si se gasta en algo útil
   2. todo trabajo siempre es escaso
   
-# **ANEXO: Las ideas económicas en Oriente** {background="#390040"}
 
-## Rastros del pensamiento oriental
 
-- Casi no existen referencias al pensamiento económico oriental en
-  principales textos modernos
-  - Schumpeter básicamente argumentó que no había nada relevante tanto
-    en la tradición oriental como así tampoco entre los griegos y los
-    escolásticos
-  - Autores posteriores cuestionan esta visión y aportan evidencias de
-    interesantes discusiones en esta tradición
-	- importante "revival" en interés en China luego de la muerte de Mao
-	
-## Rastros del pensamiento oriental (cont.)
-
-![](../fig/fig-02-001.png){fig-align="center"}
-
-## Rastros del pensamiento oriental
-
-- Las principales escuelas de pensamiento de la China antigua
-  aparecieron entre 550 y 230 AC --las que más se involucraron en
-  temas económicos fueron los **confucianistas**, los **legalistas**, y
-  los **moistas**
-  - según Schumpeter, sólo los *legalistas* buscaron respuestas a
-    problemas prácticos y concretos; el *confucianismo* era
-    primariamente un sistema de valores éticos que rigiera la conducta
-- Diferencia entre *confucianismo* y *legalismo* $\longrightarrow$
-  para el primero la sociedad ideal resulta del deseo de individuos de
-  servir al bien común en lugar de su motivación individual
-
-## Guan Zhong [720-645 AC]
-
-![](../fig/fig-02-002.png){fig-align="center"}
-
-## Guan Zhong [720-645 AC] (cont.)
-
-- Uno de los primeros filósofos "nombrados". Fue *canciller* del
-  Estado de Qi, un importante y pujante estado regional durante la
-  dinastía Zhou.
-- A diferencia de Confucio, se lo considera uno de los padres de la
-  tradición *legalista* 
-  - considerado como un innovador y precursor en pensamiento filosófico y político
-
-
-## Guan Zhong [720-645 AC] (cont.)
-
-- Anticipó en sus escritos la teoría de la oferta y la demanda
-  - principios y discusiones presentes en el *Guanzi* (también
-    conocido como *Kuan-tzu*) uno de los
-    textos más importantes de los textos antiguos Chinos
-  - *Guanzi* contiene contribuciones de muchos autores anónimos,
-    principalmente funcionarios y asesores
-- Precursor temprano de la teoría cuantitativa del dinero
-- Discutió y se preocupó por la política fiscal contractíclica
-- Comprendió y valoró el funcionamiento del mecanismo de mercado
-
-
-  
-## Guan Zhong [720-645 AC] (cont.)
-
-- Los bienes *pesados* son considerados esenciales para la producción
-  o el bienestar humano y los bienes *ligeros* son vistos como no
-  esenciales 
-  - importante $\longrightarrow$ el cáracter de *pesado* o *ligero*
-    está sujeto a constante cambio y es producto de varias cosas
-    (época del año, prácticas productivas, dinámica de mercado)
-- El rol de la política económica, según el *Guanzi* debía ser el de
-  "pesar y balancear", usar lo que es *pesado* para compensar lo que
-  es *ligero*
-  
-## Guan Zhong [720-645 AC] (cont.)
-
-> *"When things are plentiful, they will be cheap; when they are
-> scarce, they will be expensive"*
-
-- Precedente de idea que el precio de
-  un bien está determinado por su escasez
-
-> *"Goods if concentrated will become "heavy", but will turn "light"
-> once they are scattered about"*
-
-- Refiere a la estructura institucional de un "mercado"
-  $\longrightarrow$ no sólo la escasez importaba para el precio,
-  también la distribución de estos bienes entre productores
-  
-## Guan Zhong [720-645 AC] (cont.) 
-
-> *"Goods worth being hoarded will become "heavy", and conversely [if
-> not worth hoarding] will become "light". Goods cornered will be
-> "heavy", or otherwise will be "light"*
-
-- Demanda influía sobre su precio --además demanda como depósito de
-  valor. Si un bien "se guarda bajo llave", entonces tenderá a subir su precio
-  
-> *"An urgent decree to collect tax in the form of certain goods will
-> make the goods in question "heavy", but a go-slow decree will make
-> them "light"*
-
-- La imposición afectaría el precio: relevancia del *tiempo*
-  $\longrightarrow$ si $T$ inmediato, impacta en precio
-  directamente; si $T$ gradual, impacto no directo [idea de
-  *shock de demanda*]
-
-## Guan Zhong [720-645 AC] (cont.) 
-
-- En la sociedad agrícola de aquel tiempo, la subsistencia dependía de
-  los granos --el bien más fundamental en el Guanzi
-
-> *"A man can't eat without grain, grain can't grow without land, land
-> cant' do without man, and man can't get rich without labor"*
-
-- Los granos son una especie de *numeraire* en el sistema de
-  economía-política del *qingzhong* ya que determinaban el precio del
-  resto de los bienes --y del dinero también
-   
-## Guan Zhong [720-645 AC] (cont.) 
-
-> *"The price of commodities will rise or fall along with the value of
-> money, and it is grain alone that will determine whether they are
-> expensive or cheap. ...When grain is expensive, all other things are
-> cheap, when grain is cheap, all other things are expensive*
-
-- Sugieren que el valor del dinero se mueve en dirección opuesta --el
-  precio del grano afecta el nivel general de precios (impacta en toda
-  la sociedad) pero afecta diferencialmente a población urbana y rural
-   
-## Guan Zhong [720-645 AC] (cont.) 
-
-- El gobierno debía comprar bienes cuando eran *ligeros* y venderos
-  cuando eran *pesados* de manera de suavizar fluctuaciones
-  $\longrightarrow$ idea de política fiscal contracíclica
-- Indicios de funcionamiento (descentralizado) del mercado
-
-> *"[a]s the harvest is bad or good, grain will be expensive or
-> cheap. ...if the prince is not able to control the situation, it
-> will lead to large-scale traders roaming the markets and taking
-> advantage of the people's lack of things to increase their capital a
-> hundredfold"*
-
-> *"it is the nature of men that whenever they see profit, they cannot
-> help chasing after it"*
-
-## Otros pensadores orientales
-
-- Lao-tzu [6to siglo AC] $\longrightarrow$ uno de los *Taoístas*
-  principales 
-  - proponían ningún tipo de intervención o interferencia del gobierno
-    en los asuntos económicos y sociales
-  - gobieron mínimo y en consecuencia impuestos bajos
-- Chuang-tzu [369-286 AC] 
- 
-> *"a petty thief is put in jail. A great brigand becomes a ruler of
-> State"*
-
-- tempranas encarnaciones del libertarianismo en Oriente
-
-# **El pensamiento griego** {background="#390040"}
-
-## Los primeros filósofos-economistas
-
-- Los antiguos griegos fueron la primer civilización en usar la razón
-  para pensar sistemáticamente acerca del mundo que los rodeaba --usar
-  lógica y obtener conocimiento verificable
-  - antes $\longrightarrow$ tribus y pueblos bárbaros atribuían
-    eventos naturales a los dioses 
-- Desarrollaron una teoría y método de razonamiento que eventualmente
-  se denominó **la ley natural**
-  - análisis basado en ley natural gira alrededor de los conceptos de
-  **causa** y **efecto**
-  
-## La ley natural
-
-> La ley natural descansa en la idea de que **ser** necesariamente
-> importa **ser algo**: alguna cosa o entidad. No existe el **ser** en
-> el abstracto. Existen millones de entidades en el
-> universo y cada una tiene su propia **naturaleza** --conjunto de
-> atributos y/o propiedades que la distingue de otras. Se sigue que el
-> hombre puede descubrir, estudiar e identificar de esta manera a las
-> entidades. Dadas dos entidades $X$ e $Y$ con sus respectivas
-> naturalezas, podemos averiguar qué sucede **cuando estas entidades
-> ineractúan**. Por ejemplo, si $X$ e $Y$ interactuán en ciertas
-> cantidades, obtenemos $Z$ en cierta cantidad. Decimos que $Z$ --el
-> efecto- ha sido causado por la interacción de $X$ e $Y$. 
-
-- Sabemos que la interacción de dos moléculas de $H$ y una molécula de
-  $O$ da por efecto una molécula de una *nueva entidad*, $H_{2}O$ (efecto)
-
-## Los principios aristotélicos 
-
-::: {.callout-tip icon=false}
-## Principio de la Identidad 
-Toda entidad es igual a si misma $\longrightarrow$ $\forall A, A=A$
-:::
-
-::: {.callout-tip icon=false}
-## Principio de la No Contradicción 
-Una entidad no puede ser y no ser al mismo tiempo $\longrightarrow$  $\neg(A \wedge \neg A)$
-:::
-
-::: {.callout-tip icon=false}
-## Principio del Tercero Excluido 
-Toda entidad debe ser o no ser $\longrightarrow$ $(A \vee \neg A)$
-:::
-
-## El individuo y la ley natural
-
-- El individuo **actúa** --adopta valores y propósitos y formas de
-  lograrlos y debe operar dentro de la ley natural
-  - las propiedades (naturaleza) de el mismo y de otras entidades y
-    los modos en que interactúan
-- **Civilización occidental** $\longrightarrow$ encuentra sus orígenes en
-  Grecia en las dos tradiciones filosóficas más importantes
-  --Platónica y Aristotélica
-  - filosofía platónica $\longrightarrow$ **existencia ideal**
-    (verdadera naturaleza del individuo) --el individuo
-    *verdaderamente* existente es eterno e infinito
-  - filosofía aristotélica $\longrightarrow$ **existencia contingente**
-    --limitada; no necesaria ni eterna ("sólo la existencia de Dios es
-    necesaria y trasciende el tiempo")
-
-## El individuo y la organización social
-
-- Vida organizada en **pequeñas ciudades-Estado** ("polis") cuyo
-  gobierno estaba a cargo de una **oligarquía de ciudadanos
-  privilegiados**. Mayoría de población eran esclavos o residentes
-  extranjeros --sólo 7\% tenían privilegios de democracia
-  ("ciudadanos") en Atenas 
-- Platón promovía regímenes despóticos; Aristóteles algo más moderado
-  - la virtud y la buena vida basadas alrededor de la *polis* no del
-    individuo [*polis over individual*]
-  - visión intrínsecamente *estatista y elitista* 
-- Doctrina clásica de "ley natural" influyó en pensamiento
-  cristiano y medieval
-  - no evolucionó en la doctrina del "derecho natural" de siglos 17 y 18
-
-## Pensamiento griego sobre temas económicos
-
-- Visión antropocéntrica y administrativa --economía y administración
-  del hogar
-- El intercambio como mecanismo aislado: economía básica y simple
-- Exaltaba areas como las artes militares y agricultura y tenían
-  desprecio por el trabajo y el comercio y más generalmente la
-  persecución del lucro y ganancia. 
-  - Prevalencia de consideraciones morales y éticas
-- Aportes rudimentarios sobre división y especialización del trabajo;
-  utilidad e interés. 
-- Poco y nulo rol del emprendedor y la creatividad --sociedad
-  "congelada" sin dinámica económica y con rigidez de *status* político
-
-## Hesíodo [circa 700-800 AC]
-
-- Vivió en siglo VIII a.C. en una comunidad con **agricultura de
-  subsistencia** $\longrightarrow$ preocupación principal escasez
-  --recursos limitados versus necesidad ilimitadas
-  -- de ahí su preocupación por la **eficiencia**
-- Obra principal $\longrightarrow$ *Works and Days* 
-- Deseo de **emulación (en consumo)** estimula un espíritu
-  de competencia
-  - **aplicación de trabajo (crucial) y capital** 
-- Podría intuirse una **rudimentaria concepción del *tradeoff*
-   trabajo-consumo** $\longrightarrow$ para sobreponerse a la escasez,
-  mas trabajo era necesario a costa de menor tiempo de ocio
-
-## Platón: El Estado absoluto [428-348 AC]
-
-- Su obra principal en la temática es *La República* ["el alegato más
-  elocuente en favor de una cierta clase de comunismo jamás escrito" Robbins (2000)]
-  - En ella describe a su **Estado ideal**: Platón creía que debía ser
-  **rígido** y **estático** $\longrightarrow$ todo cambio es regresivo
-  [Platón repudiaba la democracia, ejemplo de esto era que alababa a
-  Esparta y no a Atenas]
-- Estructura de la sociedad
-  1. Filósofos
-  2. Soldados (*"guardianes"*)
-  3. Trabajadores-productores
-  
-## Platón: El Estado absoluto [428-348 AC] (cont.)
-    
-- Primer pensador occidental que menciona y analiza la importancia del
-  principio de la **división del trabajo** $\longrightarrow$ la
-  especialización emerge a partir de la naturaleza humana en
-  particular su diversidad y desigualdad 
-
-> "We are not all alike; there are many diversities of natures among
-> us which are adapted to different occupations"
-
-- Diferencias son *originarias* no *adquiridas* --i.e. a través de la
-  educación
-- Dado que individuos diferentes producen bienes diferentes, la
-  **especialización da fundamento al comercio** --además la
-  **especialización es el fundamento económico de la ciudad (*polis*)** 
-  
-## Platón: El Estado absoluto [428-348 AC] (cont.)
-
-- Denunciaba y **despreciaba el uso de oro y plata como moneda** --veía
-  una amenaza a la regulación económica y moral de la *polis*
-- Para concretar su *utopía ordenada* la sociedad de Platón debía ser
-  rígida y estática
-  - poco espacio para la innovación, dinámica empresaria y crecimiento
-    económico
-- Incluso esto lo extendió al crecimiento poblacional
-  $\longrightarrow$ abogaba por mantener el número de ciudadanos
-  constante en 5000 terratenientes!
-  
-## Platón: El Estado absoluto [428-348 AC] (cont.)
-
-![](../fig/fig-02-plato-division-of-labour-01.png){ fig-align="center"}
-
-## Platón: El Estado absoluto [428-348 AC] (cont.)
-
-![](../fig/fig-02-plato-division-of-labour-02.png){fig-align="center"}
-
-## Jenofonte [430-354 AC]
-
-- Discípulo de Platón. Filósofo, soldado, historiador y
-  escritor. Usó el término *economía* (*Oeconomicus*) pero sin la
-  acepción moderna 
-- Vstigios de utilitarianismo ("mejores acciones son las más
-  beneficiosas para todos") e igualitarismo ("espos deberían ser
-  co-trabajadores en el hogar")
-  
-> The woman conceives and bears her burden in travail, risking her life, and giving of her own food; and, with much labor, having endured to the end and brought forth her child, she rears and cares for it, although she has not received any good thing, and the babe neither recognizes its benefactress nor can make its wants known to her; still she guesses what is good for it, and what it likes, and seeks to supply these things, and rears it for a long season, enduring toil day and night, nothing knowing what return she will get.
-
-## Jenofonte [430-354 AC] (cont.)
-
-
-- Centró sus ideas en el *individuo decisor-administrador*
-    $\longrightarrow$ un buen administrador es aquel que incrementa el
-    tamaño del excedente 
-- La división de las tareas del hogar es clave para él --límite:
-  extensión del mercado
-  
-> 'In small towns the same workman makes chairs and doors and plows and
-  tables, and often the same artisan builds horses...' whereas in
-  large cities 'many people have demands to make upon each branch of
-  industry', and therefore 'one trade alone, and very often even less
-  than a whole trade, is enough to support a man'. In large cities, we
-  find one man making men's boots only; and another one, women's
-  only...one man lives by cutting out garments, another by fitting
-  together the pieces'
-  
-## Jenofonte [430-354 AC] (cont.)
-  
-- Presagió el concepto de utilidad marginal decreciente --concepción
-  subjetiva de la utilidad $\longrightarrow$ lo bueno y lo malo en
-  relación a los propósitos que cumplen 
-- Intuición del concepto de equilibrio general $\longrightarrow$
-  "cuando hay demasiados artesanos del cobre, el cobre se abarata, los
-  artesanos quiebran y emprenden otras actividades"
-- Define a la riqueza como un recurso que una persona puede y sabe
-  usar --de lo contrario no constituye parte de su riqueza
-  
-
-## Protágoras [480-411 AC]
-
-- Si Platón era un absolutista, Protágoras fue un relativista --no
-  existe ninguna verdad objetiva sino sólo opiniones subjetivas. 
-  - Todo está condicionado por el contexto, por el tiempo y lugar
-
-> *El hombre es la medida de todas las cosas*
-
-- Defendió la importancia de apelar a las emociones en lugar de
-  utilizar sólo la razón y la lógica
-- A diferencia de Platón, favorecía la democracia
-  
-## Protágoras [480-411 AC] (cont.)
-
-- Algunos autores afirman que la idea del hombre-medida de Protágoras
-  es un antecedente de la teoría del valor trabajo y del invidualismo
-  subjetivo
-- Anticipó dos de los elementos más básicos de la teoría económica
-  moderna: 
-  1. el rol del mercado como asignador de recursos para maximizar
-     utilidad
-  2. el uso de la medición hedonística en la evaluación de la elección
-
-## Aristóteles: El Filósofo [384-322 AC]
-
-- Discípulo (y antagonista) de Platón --*Platón es mi amigo, pero
-  más amiga es la verdad* 
-- Largamente **más influyente que Platón** en temas filosóficos y otras
-  areas:
-  - estructura de pensamiento fue dominante en tradición occidental
-    hasta siglos 16 y 17 --ideas políticas y morales
-- Dos grandes obras, entre muchas, fueron *Etica* y *Política*. Su
-  pensamiento filosófico lo hizo preocuparse por **lo natural** y **lo
-  justo**
-- Ofrece ideas y discusiones aisladas; no teoría del valor y/o
-  distribución. 
-
-   
-## Aristóteles: propiedad privada
-
-- Una diferencia radical con Platón fue en relación a la **institución
-  de la propiedad privada** la cual favoreció [en contra del comunismo
-  platónico] --el objetivo de perfecta unidad de Platón iba en contra
-  de la diversidad de la humanidad y en contra de las ventajas
-  recíprocas del intercambio. 
-  1. La propiedad privada es **más productiva** que la propiedad comunal y
-     conduce a mayor progreso
-  2. La propiedad comunal inherentemente conduce al **conflicto
-     interpersonal**--problema del esfuerzo individual relativo a lo obtenido [¿free
-     rider?]
-  3. La propiedad privada está implantada en la **naturaleza humana**
-  4. La propiedad privada **ha existido siempre y en todos lados**
-  
-## Aristóteles: propiedad privada (cont.)
-
-- Postuló la idea de que sólo la propiedad privada le provee al
-  individuo la **oportunidad de actuar moralmente** --i.e. practicar las
-  virtudes de la benevolencia y filantropía. La compulsión de la
-  propiedad comunal destruye esa oportunidad. 
-- A diferencia de Platón, **no se opuso a la limitación individual de
-  acumular propiedad privada** --la educación serviría como
-  autoregulador de tal deseo
-- Argumentos típicamente adelantados a su tiempo y reminiscentes de
-  siglo XVII y XVIII
-
-## Aristóteles: necesidades y deseos
-
-- Introduce distinción entre
-  **necesidades naturales** y **deseos artificiales**
-  - origina conceptos de **intercambio natural** e
-    **intercambio artificial** y relación con el dinero
-
-> En el intercambio natural, el dinero es un medio para un
-    fin mientras que en el intercambio artificial, el dinero es
-    tanto un medio como un fin.
-
-- **Rechazó el intercambio artifical** porque implicaba intercambio
-  por la mera razón de ganar dinero (inmoral)
-  - venta minorista, comercio, transporte y contratación de trabajo
-
-## Aristóteles: dinero e interés
-
-- Evidencia de profunda **contradicción entre lo analítico y lo
-  moral** $\longrightarrow$ también aplicada a su discusión del dinero
-  - facilitaba la producción y el intercambio; eliminaba problema de
-    mutua coincidencia de necesidades; depósito de valor
-  - pero condenaba moralmente el préstamo de dinero (y el
-    correspondiente pago de interés) como "artificial"
-- Comprendió y destacó las funciones del dinero: 1) patrón de valor,
-  2) medio de cambio y 3) depósito de valor 
-  - el dinero también debía ser una *commodity* --es decir,
-     existía un mercado de dinero [valor en cambio del dinero]
-- No entendió y/o no indagó en las *razones económicas* por las cuales
-  existía el interés!
-
-## Aristóteles: dinero e interés (cont.)
-
-- Discusión del dinero a través del proceso histórico 
-
-> La existencia misma de cualquier sociedad no comunista involucra e
-  intercambio de bienes y servicios. Inicialmente esto se da a través
-  de trueque; pero esto no siempre es posible, o tiene un limite. Esto
-  implicará que eventualmente los intercambios se realizarán a través
-  de alguna commodity como *medio de cambio* sugirio que algunas
-  commodities cumplian mejor ese rol --metales. Asimismo, por el
-  requerimiento de su regla de equivalencia en el intercambio, se
-  seguía que esta commodity tambien sería usada como *medida de
-  valor*. Y finalmente reconoció, al menos implícitamente, su rol como
-  *depósito de valor* --gran antecedente casi 2500 años antes de las
-  discusiones en siglo XIX 
-
-## Aristóteles: intercambio y valor
-
-- Vio al intercambio como un proceso bilateral que genera ganancias
-  para ambas partes --**igualdad proporcionada**, **reciprocidad**
-- Distinguió entre **valor en uso** y **valor en cambio
-  (intercambio)**; sugirió que el segundo deriva del primero pero
-  - no ofreció ninguna teoría del valor de cambio (o del precio)
-- Críticos argumentan que nuevamente falló en separar lo analítico de
-  lo moral en su tratamiento 
-  - foco en problema ético de la justicia en el intercambio
-  --*justicia conmutativa*
-    - **principio de reciprocidad en el intercambio**
-
-
-## Aristóteles: La *crematística*
-
-> Por tanto, es evidente que hay un arte de adquisición natural para los que
-> administran la casa y la ciudad. ...Existe otra clase de arte
-> adquisitivo, que precisamente llaman -y está justificado que así lo
-> hagan- *crematística*, para el cual parece que no existe límite
-> alguno de riqueza y propiedad. Muchos consideran que existe uno
-> solo, y el mismo que el ya mencionado a causa de su afinidad con
-> él. Sin embargo, no es idéntico al dicho ni está lejos de él. Uno es
-> por naturaleza y el otro no, sino que resulta más bien de una cierta
-> experiencia y técnica 
-**[Aristóteles, *Política. Libro I*, pp. 68]**
-	
-## Aristóteles: La *crematística* (cont.)
-
-> Ambos usos son del mismo objeto, pero no de la misma manera; uno es
-> propio del objeto, y el otro no. Por ejemplo, el uso de un zapato:
-> como calzado y como objeto de cambio. Y ambos son utilizaciones del
-> zapato. De hecho, el que cambia un zapato al que lo necesita por
-> dinero o por alimento, utiliza el zapato en cuanto zapato, pero no
-> según su propio uso, pues no se ha hecho para el cambio. Del mismo
-> modo ocurre también con las demás posesiones, pues el cambio puede
-> aplicarse a todas, teniendo su origen, en un principio, en un hecho
-> natural: en que los hombres tienen unos más y otros menos de lo
-> necesario. De ahí que es evidente también que el comercio de compra
-> y venta no forma parte de la crematística por naturaleza, pues
-> entonces sería necesario que el cambio se hiciera para satisfacer lo
-> suficiente. 
-**[Aristóteles, *Política. Libro I*, pp. 68]**
-
-## Aristóteles: intercambio y valor (cont.)
-
-- Este pasaje plantea numerosos interrogantes e inconvenientes [¿ratio
-  de constructor a zapatero? ¿comparación de ratios de profesiones a
-  productos? ¿unidades de medición?]
-
-> This is why all things that are exchanged must be somehow comparable. It is for this end that money has been introduced, and it becomes in a sense an intermediate; for it measures all things, and therefore the excess and the defect -- how many shoes are equal to a house or to a given amount of food. The number of shoes exchanged for a house (or for a given amount of food) must therefore correspond to the ratio of builder to shoemaker. For if this be not so, there will be no exchange and no intercourse
-
-## Aristóteles: intercambio y valor (cont.)
-
-- pero como dijimos, Aristóteles no ofrece ninguna teoría del valor;
-  no habla de contenido de horas de trabajo; no existe forma de
-  determinar los valores de los productores; y tampoco el ratio
-- lanteo de buscar un elemento de justicia en la determinación de
-  precios lo llevó a exponer el principio de reciprocidad entre lo que
-  el hombre da y recibe
-- debe haber pensado en algun *valor objetivo (absoluto) de las
-  cosas*, algo intrínseco e inherente que es independiente de las
-  circunstancias y/o de las valuaciones humanas
-
-## Aristóteles: intercambio y valor (cont.)
-
-> Now proportionate return is secured by cross-conjunction. Let A be a builder, B a shoemaker, C a house, D a shoe. The builder, then, must get from the shoemaker the latter's work, and must himself give him in return his own. If, then, first there is proportionate equality of goods, and then reciprocal action takes place, the result we mention will be effected. If not, the bargain is not equal, and does not hold; for there is nothing to prevent the work of the one being better than that of the other; they must therefore be equated. 
-
-## Aristóteles: intercambio y valor (cont.)
-
-![](../fig/fig-02-010.png){ fig-align="center"}
-
-## Aristóteles: intercambio y valor (cont.)
-
-- aceptó precios de los bienes observados en mercado como estándares
-de su justicia conmutativa pero...condenó precios de monopolio
-- incurrió en el problema de aceptar todo intercambio que sucediera a
-los **precios competitivos como justa** [influencia sobre
-Escolásticos]
-  - otro problema $\longrightarrow$ valor justo de un bien es
-    "objetivo" sólo en el sentido que individuos no pueden alterarlo
-- en suma, no hay elementos objetivos ni explícitos en sus escritos
-  que acrediten que entendió las causas del valor de los bienes
-  --observó los intercambios y ofreció una interpretación
-  [¿justificación?]
-  
-  
-  
-## Aristóteles: El *Filósofo* [384-322 AC] (cont.)
-
-- Consideraciones sobre **valor** y **dinero** 
-  - Condiciones primitivas $\longrightarrow$ trueque no necesita
-    dinero
-  - Eventualmente $\longrightarrow$ se produce **intercambio
-    indirecto** --mediado por algo que sirva como *dinero*
-  - Está hablando indirectamente del surgimiento del comercio e
-    intercambio
-
-
-## Aristóteles: resumen 
-
-- Interpretaciones "implícitas" en los escritos de Aristóteles:
-  1. Hay comercio cuando hay un excedente
-  2. El valor asignado al excedente difiere entre los individuos
-  3. Los individuos reconocen ventajas mutuas del intercambio
-  4. Autoridad administrativa necesaria para solucionar disputas
-- Consideró la escasez y el valor de uso hasta cierto punto
-  - no concibió un mercado autorregulado y descentralizado
-  - no desarrolló una teoría del valor ni de la distribución
-- Contradicciones frecuentes debido a la no separabilidad de análisis
-  (positivo) y moral (normativo).
-  
-
-
-## Aportaciones de los romanos
-
-- Gran contribución del imperio romano no económica $\longrightarrow$
-  **el derecho**
-- El *ius gentium* suministro marco legal para la actividad económica
-  contemporánea y posterior
-- Pensamiento cristiano primitivo se centró en el recto uso de bienes
-  materiales
-  - Autores cristianos fueron indiferencia respecto del análisis
-    positivo
-- Llamativa ausencia y escasez de pensamiento económico durante la
-  Roma Republicana e Imperial y también durante la Cristiandad
 
