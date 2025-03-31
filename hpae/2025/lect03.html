@@ -1,0 +1,1758 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<script src="lect03_files/libs/clipboard/clipboard.min.js"></script>
+<script src="lect03_files/libs/quarto-html/tabby.min.js"></script>
+<script src="lect03_files/libs/quarto-html/popper.min.js"></script>
+<script src="lect03_files/libs/quarto-html/tippy.umd.min.js"></script>
+<link href="lect03_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="lect03_files/libs/quarto-html/light-border.css" rel="stylesheet">
+<link href="lect03_files/libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
+<link href="lect03_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.5.57">
+
+  <title>Historia del Pensamiento y del Análisis Económico</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="lect03_files/libs/revealjs/dist/reset.css">
+  <link rel="stylesheet" href="lect03_files/libs/revealjs/dist/reveal.css">
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+      vertical-align: middle;
+    }
+  </style>
+  <link rel="stylesheet" href="lect03_files/libs/revealjs/dist/theme/quarto.css">
+  <link rel="stylesheet" href="..\quarto.css">
+  <link href="lect03_files/libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
+  <link href="lect03_files/libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
+  <link href="lect03_files/libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
+  <link href="lect03_files/libs/revealjs/plugin/reveal-chalkboard/font-awesome/css/all.css" rel="stylesheet">
+  <link href="lect03_files/libs/revealjs/plugin/reveal-chalkboard/style.css" rel="stylesheet">
+  <link href="lect03_files/libs/revealjs/plugin/quarto-support/footer.css" rel="stylesheet">
+  <style type="text/css">
+
+  .callout {
+    margin-top: 1em;
+    margin-bottom: 1em;  
+    border-radius: .25rem;
+  }
+
+  .callout.callout-style-simple { 
+    padding: 0em 0.5em;
+    border-left: solid #acacac .3rem;
+    border-right: solid 1px silver;
+    border-top: solid 1px silver;
+    border-bottom: solid 1px silver;
+    display: flex;
+  }
+
+  .callout.callout-style-default {
+    border-left: solid #acacac .3rem;
+    border-right: solid 1px silver;
+    border-top: solid 1px silver;
+    border-bottom: solid 1px silver;
+  }
+
+  .callout .callout-body-container {
+    flex-grow: 1;
+  }
+
+  .callout.callout-style-simple .callout-body {
+    font-size: 1rem;
+    font-weight: 400;
+  }
+
+  .callout.callout-style-default .callout-body {
+    font-size: 0.9rem;
+    font-weight: 400;
+  }
+
+  .callout.callout-titled.callout-style-simple .callout-body {
+    margin-top: 0.2em;
+  }
+
+  .callout:not(.callout-titled) .callout-body {
+      display: flex;
+  }
+
+  .callout:not(.no-icon).callout-titled.callout-style-simple .callout-content {
+    padding-left: 1.6em;
+  }
+
+  .callout.callout-titled .callout-header {
+    padding-top: 0.2em;
+    margin-bottom: -0.2em;
+  }
+
+  .callout.callout-titled .callout-title  p {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+  }
+    
+  .callout.callout-titled.callout-style-simple .callout-content  p {
+    margin-top: 0;
+  }
+
+  .callout.callout-titled.callout-style-default .callout-content  p {
+    margin-top: 0.7em;
+  }
+
+  .callout.callout-style-simple div.callout-title {
+    border-bottom: none;
+    font-size: .9rem;
+    font-weight: 600;
+    opacity: 75%;
+  }
+
+  .callout.callout-style-default  div.callout-title {
+    border-bottom: none;
+    font-weight: 600;
+    opacity: 85%;
+    font-size: 0.9rem;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+  }
+
+  .callout.callout-style-default div.callout-content {
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+  }
+
+  .callout.callout-style-simple .callout-icon::before {
+    height: 1rem;
+    width: 1rem;
+    display: inline-block;
+    content: "";
+    background-repeat: no-repeat;
+    background-size: 1rem 1rem;
+  }
+
+  .callout.callout-style-default .callout-icon::before {
+    height: 0.9rem;
+    width: 0.9rem;
+    display: inline-block;
+    content: "";
+    background-repeat: no-repeat;
+    background-size: 0.9rem 0.9rem;
+  }
+
+  .callout-title {
+    display: flex
+  }
+    
+  .callout-icon::before {
+    margin-top: 1rem;
+    padding-right: .5rem;
+  }
+
+  .callout.no-icon::before {
+    display: none !important;
+  }
+
+  .callout.callout-titled .callout-body > .callout-content > :last-child {
+    padding-bottom: 0.5rem;
+    margin-bottom: 0;
+  }
+
+  .callout.callout-titled .callout-icon::before {
+    margin-top: .5rem;
+    padding-right: .5rem;
+  }
+
+  .callout:not(.callout-titled) .callout-icon::before {
+    margin-top: 1rem;
+    padding-right: .5rem;
+  }
+
+  /* Callout Types */
+
+  div.callout-note {
+    border-left-color: #4582ec !important;
+  }
+
+  div.callout-note .callout-icon::before {
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACshmLzAAAEU0lEQVRYCcVXTWhcVRQ+586kSUMMxkyaElstCto2SIhitS5Ek8xUKV2poatCcVHtUlFQk8mbaaziwpWgglJwVaquitBOfhQXFlqlzSJpFSpIYyXNjBNiTCck7x2/8/LeNDOZxDuEkgOXe++553zfefee+/OYLOXFk3+1LLrRdiO81yNqZ6K9cG0P3MeFaMIQjXssE8Z1JzLO9ls20MBZX7oG8w9GxB0goaPrW5aNMp1yOZIa7Wv6o2ykpLtmAPs/vrG14Z+6d4jpbSKuhdcSyq9wGMPXjonwmESXrriLzFGOdDBLB8Y6MNYBu0dRokSygMA/mrun8MGFN3behm6VVAwg4WR3i6FvYK1T7MHo9BK7ydH+1uurECoouk5MPRyVSBrBHMYwVobG2aOXM07sWrn5qgB60rc6mcwIDJtQrnrEr44kmy+UO9r0u9O5/YbkS9juQckLed3DyW2XV/qWBBB3ptvI8EUY3I9p/67OW+g967TNr3Sotn3IuVlfMLVnsBwH4fsnebJvyGm5GeIUA3jljERmrv49SizPYuq+z7c2H/jlGC+Ghhupn/hcapqmcudB9jwJ/3jvnvu6vu5lVzF1fXyZuZZ7U8nRmVzytvT+H3kilYvH09mLWrQdwFSsFEsxFVs5fK7A0g8gMZjbif4ACpKbjv7gNGaD8bUrlk8x+KRflttr22JEMRUbTUwwDQScyzPgedQHZT0xnx7ujw2jfVfExwYHwOsDTjLdJ2ebmeQIlJ7neo41s/DrsL3kl+W2lWvAga0tR3zueGr6GL78M3ifH0rGXrBC2aAR8uYcIA5gwV8zIE8onoh8u0Fca/ciF7j1uOzEnqcIm59sEXoGc0+z6+H45V1CvAvHcD7THztu669cnp+L0okAeIc6zjbM/24LgGM1gZk7jnRu1aQWoU9sfUOuhrmtaPIO3YY1KLLWZaEO5TKUbMY5zx8W9UJ6elpLwKXbsaZ4EFl7B4bMtDv0iRipKoDQT2sNQI9b1utXFdYisi+wzZ/ri/1m7QfDgEuvgUUEIJPq3DhX/5DWNqIXDOweC2wvIR90Oq3lDpdMIgD2r0dXvGdsEW5H6x6HLRJYU7C69VefO1x8Gde1ZFSJLfWS1jbCnhtOPxmpfv2LXOA2Xk2tvnwKKPFuZ/oRmwBwqRQDcKNeVQkYcOjtWVBuM/JuYw5b6isojIkYxyYAFn5K7ZBF10fea52y8QltAg6jnMqNHFBmGkQ1j+U43HMi2xMar1Nv0zGsf1s8nUsmUtPOOrbFIR8bHFDMB5zL13Gmr/kGlCkUzedTzzmzsaJXhYawnA3UmARpiYj5ooJZiUoxFRtK3X6pgNPv+IZVPcnwbOl6f+aBaO1CNvPW9n9LmCp01nuSaTRF2YxHqZ8DYQT6WsXT+RD6eUztwYLZ8rM+rcPxamv1VQzFUkzFXvkiVrySGQgJNvXHJAxiU3/NwiC03rSf05VBaPtu/Z7/B8Yn/w7eguloAAAAAElFTkSuQmCC');
+  }
+
+  div.callout-note.callout-style-default .callout-title {
+    background-color: #dae6fb
+  }
+
+  div.callout-important {
+    border-left-color: #d9534f !important;
+  }
+
+  div.callout-important .callout-icon::before {
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACshmLzAAAEKklEQVRYCcVXTWhcVRS+575MJym48A+hSRFr00ySRQhURRfd2HYjk2SSTokuBCkU2o0LoSKKraKIBTcuFCoidGFD08nkBzdREbpQ1EDNIv8qSGMFUboImMSZd4/f9zJv8ibJMC8xJQfO3HPPPef7zrvvvnvviIkpC9nsw0UttFunbUhpFzFtarSd6WJkStVMw5xyVqYTvkwfzuf/5FgtkVoB0729j1rjXwThS7Vio+Mo6DNnvLfahoZ+i/o32lULuJ3NNiz7q6+pyAUkJaFF6JwaM2lUJlV0MlnQn5aTRbEu0SEqHUa0A4AdiGuB1kFXRfVyg5d87+Dg4DL6m2TLAub60ilj7A1Ec4odSAc8X95sHh7+ZRPCFo6Fnp7HfU/fBng/hi10CjCnWnJjsxvDNxWw0NfV6Rv5GgP3I3jGWXumdTD/3cbEOP2ZbOZp69yniG3FQ9z1jD7bnBu9Fc2tKGC2q+uAJOQHBDRiZX1x36o7fWBs7J9ownbtO+n0/qWkvW7UPIfc37WgT6ZGR++EOJyeQDSb9UB+DZ1G6DdLDzyS+b/kBCYGsYgJbSQHuThGKRcw5xdeQf8YdNHsc6ePXrlSYMBuSIAFTGAtQo+VuALo4BX83N190NWZWbynBjhOHsmNfFWLeL6v+ynsA58zDvvAC8j5PkbOcXCMg2PZFk3q8MjI7WAG/Dp9AwP7jdGBOOQkAvlFUB+irtm16I1Zw9YBcpGTGXYmk3kQIC/Cds55l+iMI3jqhjAuaoe+am2Jw5GT3Nbz3CkE12NavmzN5+erJW7046n/CH1RO/RVa8lBLozXk9uqykkGAyRXLWlLv5jyp4RFsG5vGVzpDLnIjTWgnRy2Rr+tDKvRc7Y8AyZq10jj8DqXdnIRNtFZb+t/ZRtXcDiVnzpqx8mPcDWxgARUqx0W1QB9MeUZiNrV4qP+Ehc+BpNgATsTX8ozYKL2NtFYAHc84fG7ndxUPr+AR/iQSns7uSUufAymwDOb2+NjK27lEFocm/EE2WpyIy/Hi66MWuMKJn8RvxIcj87IM5Vh9663ziW36kR0HNenXuxmfaD8JC7tfKbrhFr7LiZCrMjrzTeGx+PmkosrkNzW94ObzwocJ7A1HokLolY+AvkTiD/q1H0cN48c5EL8Crkttsa/AXQVDmutfyku0E7jShx49XqV3MFK8IryDhYVbj7Sj2P2eBxwcXoe8T8idsKKPRcnZw1b+slFTubwUwhktrfnAt7J++jwQtLZcm3sr9LQrjRzz6cfMv9aLvgmnAGvpoaGLxM4mAEaLV7iAzQ3oU0IvD5x9ix3yF2RAAuYAOO2f7PEFWCXZ4C9Pb2UsgDeVnFSpbFK7/IWu7TPTvBqzbGdCHOJQSxiEjt6IyZmxQyEJHv6xyQsYk//moVFsN2zP6fRImjfq7/n/wFDguUQFNEwugAAAABJRU5ErkJggg==');
+  }
+
+  div.callout-important.callout-style-default .callout-title {
+    background-color: #f7dddc
+  }
+
+  div.callout-warning {
+    border-left-color: #f0ad4e !important;
+  }
+
+  div.callout-warning .callout-icon::before {
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACshmLzAAAETklEQVRYCeVWW2gcVRg+58yaTUnizqbipZeX4uWhBEniBaoUX1Ioze52t7sRq6APio9V9MEaoWlVsFasRq0gltaAPuxms8lu0gcviE/FFOstVbSIxgcv6SU7EZqmdc7v9+9mJtNks51NTUH84ed889/PP+cmxP+d5FIbMJmNbpREu4WUkiTtCicKny0l1pIKmBzovF2S+hIJHX8iEu3hZJ5lNZGqyRrGSIQpq15AzF28jgpeY6yk6GVdrfFqdrD6Iw+QlB8g0YS2g7dyQmXM/IDhBhT0UCiRf59lfqmmDvzRt6kByV/m4JjtzuaujMUM2c5Z2d6JdKrRb3K2q6mA+oYVz8JnDdKPmmNthzkAk/lN63sYPgevrguc72aZX/L9C6x09GYyxBgCX4NlvyGUHOKELlm5rXeR1kchuChJt4SSwyddZRXgvwMGvYo4QSlk3/zkHD8UHxwVJA6zjZZqP8v8kK8OWLnIZtLyCAJagYC4rTGW/9Pqj92N/c+LUaAj27movwbi19tk/whRCIE7Q9vyI6yvRpftAKVTdUjOW40X3h5OXsKCdmFcx0xlLJoSuQngnrJe7Kcjm4OMq9FlC7CMmScQANuNvjfP3PjGXDBaUQmbp296S5L4DrpbrHN1T87ZVEZVCzg1FF0Ft+dKrlLukI+/c9ENo+TvlTDbYFvuKPtQ9+l052rXrgKoWkDAFnvh0wTOmYn8R5f4k/jN/fZiCM1tQx9jQQ4ANhqG4hiL0qIFTGViG9DKB7GYzgubnpofgYRwO+DFjh0Zin2m4b/97EDkXkc+f6xYAPX0KK2I/7fUQuwzuwo/L3AkcjugPNixC8cHf0FyPjWlItmLxWw4Ou9YsQCr5fijMGoD/zpdRy95HRysyXA74MWOnscpO4j2y3HAVisw85hX5+AFBRSHt4ShfLFkIMXTqyKFc46xdzQM6XbAi702a7sy04J0+feReMFKp5q9esYLCqAZYw/k14E/xcLLsFElaornTuJB0svMuJINy8xkIYuL+xPAlWRceH6+HX7THJ0djLUom46zREu7tTkxwmf/FdOZ/sh6Q8qvEAiHpm4PJ4a/doJe0gH1t+aHRgCzOvBvJedEK5OFE5jpm4AGP2a8Dxe3gGJ/pAutug9Gp6he92CsSsWBaEcxGx0FHytmIpuqGkOpldqNYQK8cSoXvd+xLxXADw0kf6UkJNFtdo5MOgaLjiQOQHcn+A6h5NuL2s0qsC2LOM75PcF3yr5STuBSAcGG+meA14K/CI21HcS4LBT6tv0QAh8Dr5l93AhZzG5ZJ4VxAqdZUEl9z7WJ4aN+svMvwHHL21UKTd1mqvChH7/Za5xzXBBKrUcB0TQ+Ulgkfbi/H/YT5EptrGzsEK7tR1B7ln9BBwckYfMiuSqklSznIuoIIOM42MQO+QnduCoFCI0bpkzjCjddHPN/F+2Yu+sd9bKNpVwHhbS3LluK/0zgfwD0xYI5dXuzlQAAAABJRU5ErkJggg==');
+  }
+
+  div.callout-warning.callout-style-default .callout-title {
+    background-color: #fcefdc
+  }
+
+  div.callout-tip {
+    border-left-color: #02b875 !important;
+  }
+
+  div.callout-tip .callout-icon::before {
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACshmLzAAADr0lEQVRYCe1XTWgTQRj9ZjZV8a9SPIkKgj8I1bMHsUWrqYLVg4Ue6v9BwZOxSYsIerFao7UiUryIqJcqgtpimhbBXoSCVxUFe9CTiogUrUp2Pt+3aUI2u5vdNh4dmMzOzHvvezuz8xNFM0mjnbXaNu1MvFWRXkXEyE6aYOYJpdW4IXuA4r0fo8qqSMDBU0v1HJUgVieAXxzCsdE/YJTdFcVIZQNMyhruOMJKXYFoLfIfIvVIMWdsrd+Rpd86ZmyzzjJmLStqRn0v8lzkb4rVIXvnpScOJuAn2ACC65FkPzEdEy4TPWRLJ2h7z4cArXzzaOdKlbOvKKX25Wl00jSnrwVxAg3o4dRxhO13RBSdNvH0xSARv3adTXbBdTf64IWO2vH0LT+cv4GR1DJt+DUItaQogeBX/chhbTBxEiZ6gftlDNXTrvT7co4ub5A6gp9HIcHvzTa46OS5fBeP87Qm0fQkr4FsYgVQ7Qg+ZayaDg9jhg1GkWj8RG6lkeSacrrHgDaxdoBiZPg+NXV/KifMuB6//JmYH4CntVEHy/keA6x4h4CU5oFy8GzrBS18cLJMXcljAKB6INjWsRcuZBWVaS3GDrqB7rdapVIeA+isQ57Eev9eCqzqOa81CY05VLd6SamW2wA2H3SiTbnbSxmzfp7WtKZkqy4mdyAlGx7ennghYf8voqp9cLSgKdqNfa6RdRsAAkPwRuJZNbpByn+RrJi1RXTwdi8RQF6ymDwGMAtZ6TVE+4uoKh+MYkcLsT0Hk8eAienbiGdjJHZTpmNjlbFJNKDVAp2fJlYju6IreQxQ08UJDNYdoLSl6AadO+fFuCQqVMB1NJwPm69T04Wv5WhfcWyfXQB+wXRs1pt+nCknRa0LVzSA/2B+a9+zQJadb7IyyV24YAxKp2Jqs3emZTuNnKxsah+uabKbMk7CbTgJx/zIgQYErIeTKRQ9yD9wxVof5YolPHqaWo7TD6tJlh7jQnK5z2n3+fGdggIOx2kaa2YI9QWarc5Ce1ipNWMKeSG4DysFF52KBmTNMmn5HqCFkwy34rDg05gDwgH3bBi+sgFhN/e8QvRn8kbamCOhgrZ9GJhFDgfcMHzFb6BAtjKpFhzTjwv1KCVuxHvCbsSiEz4CANnj84cwHdFXAbAOJ4LTSAawGWFn5tDhLMYz6nWeU2wJfIhmIJBefcd/A5FWQWGgrWzyORZ3Q6HuV+Jf0Bj+BTX69fm1zWgK7By1YTXchFDORywnfQ7GpzOo6S+qECrsx2ifVQAAAABJRU5ErkJggg==');
+  }
+
+  div.callout-tip.callout-style-default .callout-title {
+    background-color: #ccf1e3
+  }
+
+  div.callout-caution {
+    border-left-color: #fd7e14 !important;
+  }
+
+  div.callout-caution .callout-icon::before {
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACshmLzAAACV0lEQVRYCdVWzWoUQRCuqp2ICBLJXgITZL1EfQDBW/bkzUMUD7klD+ATSHBEfAIfQO+iXsWDxJsHL96EHAwhgzlkg8nBg25XWb0zIb0zs9muYYWkoKeru+vn664fBqElyZNuyh167NXJ8Ut8McjbmEraKHkd7uAnAFku+VWdb3reSmRV8PKSLfZ0Gjn3a6Xlcq9YGb6tADjn+lUfTXtVmaZ1KwBIvFI11rRXlWlatwIAAv2asaa9mlB9wwygiDX26qaw1yYPzFXg2N1GgG0FMF8Oj+VIx7E/03lHx8UhvYyNZLN7BwSPgekXXLribw7w5/c8EF+DBK5idvDVYtEEwMeYefjjLAdEyQ3M9nfOkgnPTEkYU+sxMq0BxNR6jExrAI31H1rzvLEfRIdgcv1XEdj6QTQAS2wtstEALLG1yEZ3QhH6oDX7ExBSFEkFINXH98NTrme5IOaaA7kIfiu2L8A3qhH9zRbukdCqdsA98TdElyeMe5BI8Rs2xHRIsoTSSVFfCFCWGPn9XHb4cdobRIWABNf0add9jakDjQJpJ1bTXOJXnnRXHRf+dNL1ZV1MBRCXhMbaHqGI1JkKIL7+i8uffuP6wVQAzO7+qVEbF6NbS0LJureYcWXUUhH66nLR5rYmva+2tjRFtojkM2aD76HEGAD3tPtKM309FJg5j/K682ywcWJ3PASCcycH/22u+Bh7Aa0ehM2Fu4z0SAE81HF9RkB21c5bEn4Dzw+/qNOyXr3DCTQDMBOdhi4nAgiFDGCinIa2owCEChUwD8qzd03PG+qdW/4fDzjUMcE1ZpIAAAAASUVORK5CYII=');
+  }
+
+  div.callout-caution.callout-style-default .callout-title {
+    background-color: #ffe5d0
+  }
+
+  </style>
+  <style type="text/css">
+    .reveal div.sourceCode {
+      margin: 0;
+      overflow: auto;
+    }
+    .reveal div.hanging-indent {
+      margin-left: 1em;
+      text-indent: -1em;
+    }
+    .reveal .slide:not(.center) {
+      height: 100%;
+    }
+    .reveal .slide.scrollable {
+      overflow-y: auto;
+    }
+    .reveal .footnotes {
+      height: 100%;
+      overflow-y: auto;
+    }
+    .reveal .slide .absolute {
+      position: absolute;
+      display: block;
+    }
+    .reveal .footnotes ol {
+      counter-reset: ol;
+      list-style-type: none; 
+      margin-left: 0;
+    }
+    .reveal .footnotes ol li:before {
+      counter-increment: ol;
+      content: counter(ol) ". "; 
+    }
+    .reveal .footnotes ol li > p:first-child {
+      display: inline-block;
+    }
+    .reveal .slide ul,
+    .reveal .slide ol {
+      margin-bottom: 0.5em;
+    }
+    .reveal .slide ul li,
+    .reveal .slide ol li {
+      margin-top: 0.4em;
+      margin-bottom: 0.2em;
+    }
+    .reveal .slide ul[role="tablist"] li {
+      margin-bottom: 0;
+    }
+    .reveal .slide ul li > *:first-child,
+    .reveal .slide ol li > *:first-child {
+      margin-block-start: 0;
+    }
+    .reveal .slide ul li > *:last-child,
+    .reveal .slide ol li > *:last-child {
+      margin-block-end: 0;
+    }
+    .reveal .slide .columns:nth-child(3) {
+      margin-block-start: 0.8em;
+    }
+    .reveal blockquote {
+      box-shadow: none;
+    }
+    .reveal .tippy-content>* {
+      margin-top: 0.2em;
+      margin-bottom: 0.7em;
+    }
+    .reveal .tippy-content>*:last-child {
+      margin-bottom: 0.2em;
+    }
+    .reveal .slide > img.stretch.quarto-figure-center,
+    .reveal .slide > img.r-stretch.quarto-figure-center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto; 
+    }
+    .reveal .slide > img.stretch.quarto-figure-left,
+    .reveal .slide > img.r-stretch.quarto-figure-left  {
+      display: block;
+      margin-left: 0;
+      margin-right: auto; 
+    }
+    .reveal .slide > img.stretch.quarto-figure-right,
+    .reveal .slide > img.r-stretch.quarto-figure-right  {
+      display: block;
+      margin-left: auto;
+      margin-right: 0; 
+    }
+  </style>
+</head>
+<body class="quarto-light">
+  <div class="reveal">
+    <div class="slides">
+
+<section id="title-slide" data-background-image="../fig/background-002.png" data-background-opacity="0.85" data-background-size="stretch" class="quarto-title-block center">
+  <h1 class="title">Historia del Pensamiento y del Análisis Económico</h1>
+  <p class="subtitle">U3. La economía pre-clásica. Auge del comercio, el Estado-nación, y la transición a las ideas liberales</p>
+
+<div class="quarto-title-authors">
+</div>
+
+</section><section id="TOC">
+<nav role="doc-toc"> 
+<h2 id="toc-title">Contenidos</h2>
+<ul>
+<li><a href="#/auge-del-comercio-y-el-estado-nación-mercantilismo" id="/toc-auge-del-comercio-y-el-estado-nación-mercantilismo"><strong>Auge del comercio y el Estado-Nación: Mercantilismo</strong></a></li>
+<li><a href="#/ideas-económicas-del-mercantilismo" id="/toc-ideas-económicas-del-mercantilismo"><strong>Ideas económicas del mercantilismo</strong></a></li>
+<li><a href="#/la-transición-liberal-y-los-primeros-padres-fundadores" id="/toc-la-transición-liberal-y-los-primeros-padres-fundadores"><strong>La transición liberal y los primeros “padres fundadores”</strong></a></li>
+<li><a href="#/sir-william-petty-1623-87" id="/toc-sir-william-petty-1623-87"><strong>Sir William Petty [1623-87]</strong></a></li>
+<li><a href="#/richard-cantillon-1680-1734" id="/toc-richard-cantillon-1680-1734"><strong>Richard Cantillon [1680-1734]</strong></a></li>
+<li><a href="#/los-fisiócratas-la-primera-escuela" id="/toc-los-fisiócratas-la-primera-escuela"><strong>Los fisiócratas: la primera “escuela”</strong></a></li>
+</ul>
+</nav>
+</section>
+<section>
+<section id="auge-del-comercio-y-el-estado-nación-mercantilismo" class="title-slide slide level1 center" data-background="#390040">
+<h1><strong>Auge del comercio y el Estado-Nación: Mercantilismo</strong></h1>
+
+</section>
+<section id="metales-riqueza-y-comercio" class="slide level2 center">
+<h2>Metales, riqueza y comercio</h2>
+<blockquote>
+<p>“The ordinary means therefore to increase our wealth and treasure is by Foreign Trade, wherein wee must ever observe this rule; to sell more to strangers yearly than wee consume of theirs in value” <strong>[Thomas Mun (1630)</strong></p>
+</blockquote>
+<blockquote>
+<p>“This subject is an important and a complex one. Everyone knows what a difference it makes to the prosperity of the population in general and the prince in particular whether or not a state abounds in gold and silver. <strong>[Antonio Serra (1613)]</strong></p>
+</blockquote>
+<blockquote>
+<p>“Foreign Trade is the only means to enrich this kingdom” <strong>[Roger Coke (1670)]</strong></p>
+</blockquote>
+</section>
+<section id="usted-está-aquí" class="slide level2 center">
+<h2>Usted está aquí:</h2>
+
+<img data-src="../fig/fig-03-000.png" class="quarto-figure quarto-figure-center r-stretch"></section>
+<section id="abordaje-del-mercantilismo" class="slide level2 center">
+<h2>Abordaje del mercantilismo</h2>
+<ul>
+<li>Pocos temas en la historia del pensamiento económico dividen tanto las aguas como el mercantilismo.</li>
+<li>El mercantilismo puede ser definido y abordado como la coexistencia de tres cosas:
+<ul>
+<li>una colección dispersa de ideas y doctrinas teóricas,</li>
+<li>un sistema de economía política y</li>
+<li>un compendio de recetas y prácticas a modo de políticas económicas.</li>
+</ul></li>
+<li>Resulta importante entender las condiciones y el contexto que dan origen y sustento al mercantilismo y la temporalidad del mismo: entre los años 1500 y 1750 se suceden grandes cambios económicos, políticos y sociales.</li>
+</ul>
+</section>
+<section id="un-período-de-grandes-cambios" class="slide level2 center">
+<h2>Un período de grandes cambios</h2>
+<ul>
+<li>El periodo 1500-1750 puede considerarse como un largo período de transición entre la economía pre- y post-crecimiento. Hasta el siglo XVI, la economía era esencialmente un juego de suma cero sujeto a la denominada trampa Malthusiana.</li>
+<li>Los estándares de vida dependían del tamaño de la población y no de la tecnología. La clave era la cuenta neta de nacimientos y muertes: más nacimientos, menores ingresos y más muertes, mayores ingresos.</li>
+<li>En este contexto una conjunción de cambios institucionales, desarrollo de tecnologías e inventos y la caída del imperio bizantino configuró una situación inédita hasta ese momento: la posibilidad de aumentar el stock de bienes, factores y dinero a través de la exploración.</li>
+</ul>
+</section>
+<section id="viajes-y-descubrimientos" class="slide level2 center">
+<h2>Viajes y descubrimientos</h2>
+<div id="fig-viajes" class="quarto-layout-panel">
+<figure class="quarto-float quarto-float-fig">
+<div aria-describedby="fig-viajes-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell-subref quarto-layout-cell" data-ref-parent="fig-viajes" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div id="fig-rutas" class="quarto-float quarto-figure quarto-figure-center">
+<figure class="quarto-float quarto-subfloat-fig">
+<div aria-describedby="fig-rutas-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img data-src="../fig/fig-03-001.png" data-ref-parent="fig-viajes" width="550">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-subfloat-caption quarto-subfloat-fig" id="fig-rutas-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+(a) Rutas comerciales
+</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell-subref quarto-layout-cell" data-ref-parent="fig-viajes" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div id="fig-viajes" class="quarto-float quarto-figure quarto-figure-center">
+<figure class="quarto-float quarto-subfloat-fig">
+<div aria-describedby="fig-viajes-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img data-src="../fig/fig-03-002.png" data-ref-parent="fig-viajes" width="550">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-subfloat-caption quarto-subfloat-fig" id="fig-viajes-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+(b) Viajes de descubrimiento
+</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-viajes-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1: Rutas, viajes y el nuevo mundo
+</figcaption>
+</figure>
+</div>
+</section>
+<section id="el-crecimiento-económico-como-fenómeno" class="slide level2 center">
+<h2>El crecimiento económico como fenómeno</h2>
+<ul>
+<li>Por primera vez en la historia, algunos países empezarían a tener crecimiento sostenido de sus ingresos per cápita. Esto fue notable en los casos de Holanda (desde s. XVII) e Inglaterra (desde
+<ol start="19" type="a">
+<li>XVIII).</li>
+</ol></li>
+<li>Varios autores de la época veían que este crecimiento económico se correspondía con un aumento del poder político: ganó consenso la idea que poder y riqueza iban de la mano.</li>
+<li>Por este motivo, los primeros mercantilistas se preocuparon centralmente por aumentar el poder y la riqueza de la nación y sus recomendaciones de política económica iban en ese sentido</li>
+</ul>
+</section>
+<section id="el-crecimiento-económico-como-fenómeno-cont." class="slide level2 center">
+<h2>El crecimiento económico como fenómeno (cont.)</h2>
+
+<img data-src="../fig/fig-03-003.png" class="r-stretch quarto-figure-center"><p class="caption">
+Figure&nbsp;2: Crecimiento económico
+</p></section>
+<section id="dispersión-conceptual-espacial-y-temporal" class="slide level2 center">
+<h2>Dispersión conceptual, espacial y temporal</h2>
+<ul>
+<li>El mercantilismo <strong>no es considerada una escuela de pensamiento económico en el sentido estricto</strong>: fue más bien una reacción intelectual en forma de ideas, visiones y políticas orientadas a preocupaciones (muchas y cambiantes) de la época</li>
+<li>Por ello resulta <strong>difícil generalizar y sintetizar el pensamiento mercantilista</strong>. No sólo por la heterogeneidad espacial y temporal sino porque los principales pensadores fueron comerciantes y no filósofos</li>
+<li>Asi y todo, el pensamiento mercantilista evolucionó en su calidad analítica particularmente entre 1650 y 1750. Esto nos permite aproximar las principales ideas, conceptos y discusiones teóricas y de política del mercantilismo así como también las diferentes tradiciones nacionales.</li>
+</ul>
+</section>
+<section id="enfoques-y-abordaje" class="slide level2 center">
+<h2>Enfoques y abordaje</h2>
+<ul>
+<li>Es pertinente una aclaración de método antes de describir las ideas y los acontecimientos. El mercantilismo puede ser abordado desde dos enfoques diferentes aunque complementarios
+<ul>
+<li><strong>Enfoque doctrinario</strong> <span class="math inline">\(\longrightarrow\)</span> se lo estudia como un conjunto de ideas bastante cohesivo y estático. Presenta un conjunto de ideas y tendencias centrales que representaba el pensamiento y las creencias de la época.</li>
+<li><strong>Enfoque político</strong> <span class="math inline">\(\longrightarrow\)</span> se lo estudia como un sistema de economía política a partir de una dinámica de los intereses de un conjunto de actores en competencia y de las instituciones económicas y políticas establecidas a partir de esas interacciones.</li>
+</ul></li>
+</ul>
+</section></section>
+<section>
+<section id="ideas-económicas-del-mercantilismo" class="title-slide slide level1 center" data-background="#390040">
+<h1><strong>Ideas económicas del mercantilismo</strong></h1>
+
+</section>
+<section id="economía-y-política" class="slide level2 center">
+<h2>Economía y política</h2>
+<ul>
+<li>Se partía de un <strong>supuesto clave: la riqueza total en el mundo era fija</strong>. Así, la forma de aumentar la riqueza y el poder era a costa de otra nación.</li>
+<li>Por ello, promovieron el comercio internacional pero sobre todo la idea de <strong>mantener una balanza comercial (BC) superavitaria</strong> para aumentar la riqueza y prosperidad nacional.</li>
+<li>Para lograr el objetivo de mejorar la BC, debían fomentarse las exportaciones (X) y desincentivarse las importaciones (M). Así se <strong>maximizaría la entrada de metales preciosos</strong> (<em>bullion</em>)</li>
+<li>Y aquí entra la política por cuanto debía <strong>usarse todo el poder del Estado-nación</strong> para lograr esos objetivos: aranceles, cuotas, subvenciones, impuestos y regulaciones.</li>
+</ul>
+</section>
+<section id="actividad-producción-y-consumo" class="slide level2 center">
+<h2>Actividad, producción y consumo</h2>
+<ul>
+<li>Salvo los primeros mercantilistas, se creía que el <strong>objetivo de la actividad económica era la producción</strong> y no el consumo</li>
+<li>La ecuación comprendía: 1) Aumentar la producciòn real (Y); 2) Aumentar las exportaciones (X); 3) Mantener bajo el consumo interno (C)</li>
+<li>La riqueza del Estado-nación se hacía a costa de una <strong>población empobrecida</strong>:
+<ul>
+<li>En el corto plazo, aumento de P de transables y disminución de C</li>
+<li>En el largo plazo, aumento de P de transables/no transables y disminución de C</li>
+</ul></li>
+<li>Adicionalmente, estimulaban salarios básicos –<em>salarios de subsistencia</em></li>
+</ul>
+</section>
+<section id="la-balanza-comercial" class="slide level2 center">
+<h2>La balanza comercial</h2>
+<ul>
+<li>Los mercantilistas pusieron en el centro de la escena la importancia monetaria y política del comercio internacional y con ello desarrollaron avances en registro y contabilidad de balanza comercial</li>
+<li>De hecho la idea actual de la balanza de pagos multilateral encuentra su fundamento y primeros indicios en la época mercantilista. Si bien no llegaron a comprender en su complejidad la vinculación de la balanza de pagos con la posición internacional de un país, la utilizaron como instrumento contable y analítico para lograr el objetivo último de maximizar la balanza comercial.</li>
+<li>Aquí también hubo diferencias entre el mercantilismo joven y tardío: el primero requería BC superavitaria con todos los países; el segundo una BC superavitaria global.</li>
+</ul>
+</section>
+<section id="dinero-y-riqueza" class="slide level2 center">
+<h2>Dinero y riqueza</h2>
+<ul>
+<li>Tal vez la creencia más notable (y errónea) del mercantilismo joven era su <strong>equiparación entre dinero y riqueza</strong>.</li>
+<li>El <strong>mercantilismo tardío, sin embargo, discutió y analizó el rol del dinero</strong> en una economía, de hecho fue Jean Bodin quien citó varias causas del aumento de precios, la más importante para él, el aumento de la cantidad de oro y plata que siguió a los descubrimientos.</li>
+<li>Thomas Mun argumentaba que las X e M (y por ende la BC) dependían de los niveles de precios relativos en diferentes países.</li>
+</ul>
+</section>
+<section id="dinero-y-riqueza-cont." class="slide level2 center">
+<h2>Dinero y riqueza (cont.)</h2>
+<blockquote>
+<p>“It is not possible to increase the stock of one country by 20, 30 or 50 million without at the same time taking the same quantity from neighbouring states. Thus arises this two-fold increase, which has been so clearly discernible for several years past: on the one hand, the power and greatness of your Majesty increases, while on the other hand, that of your enemies and ill-wishers falls…I suppose that anyone would readily agree with this principle, namely, that is simply and solely the abundance of money within a state that makes the difference in its grandeur and power <strong>[Jean Colbert (1670)]</strong></p>
+</blockquote>
+</section>
+<section id="dinero-y-riqueza-cont.-1" class="slide level2 center">
+<h2>Dinero y riqueza (cont.)</h2>
+<ul>
+<li>El mercantilismo, al menos en sus primeras encarnaciones, consideraba que <strong>la actividad económica y el crecimiento estaban determinados por factores monetarios</strong>. Más <em>bullion</em>, mas crecimiento. En suma, creían que las variaciones en la cantidad de dinero (<span class="math inline">\(M\)</span>) causaban variaciones en la producción real (<span class="math inline">\(Y\)</span>) desconociendo tanto los determinantes de la producción real y los efectos sobre los precios (<span class="math inline">\(P\)</span>).</li>
+<li>El <strong>contraste con las ideas futuras de Adam Smith y la escuela clásica</strong> no podía ser mayor: la actividad económica y el crecimiento estaban determinados por factores reales –cantidad de factores, tecnología y estructura institucional– y las variaciones en M sólo causaban aumentos en P, de esta manera adoptando las ideas de Bodin, Mun, Locke, Hume y Cantillon sobre la relación entre dinero y precios.</li>
+</ul>
+</section>
+<section id="comercio-exterior-metales-y-precios" class="slide level2 center">
+<h2>Comercio exterior, metales y precios</h2>
+<ul>
+<li>Creencia inicial del mercantilismo <span class="math inline">\(\longrightarrow\)</span> el comercio internacional y acumular <em>bullion</em> generaba riqueza y poder. Falacia eventualmente reconocida. Incluso algunoss mercantilistas como Mun y Petty ya habían advertido sobre esto:
+<ul>
+<li>Un mayor superávit de BC en país A conduce a</li>
+<li>Un mayor aumento de metales (bullion) en A que al monetizarse equivale a</li>
+<li>Un aumento en M en país A que si es mayor al aumento de Y conduce a</li>
+<li>Un aumento en P en país A y una disminución de P en país B que conduce a menor superávit de BC en país A</li>
+</ul></li>
+<li>Fue tan grande el aumento de los precios en muchos países que se llamó la <strong>revolución de los precios</strong>: entre 1600 y 1750 los precios en Europa se sextuplicaron en promedio!</li>
+</ul>
+</section>
+<section id="comercio-exterior-metales-y-precios-cont." class="slide level2 center">
+<h2>Comercio exterior, metales y precios (cont.)</h2>
+
+<img data-src="../fig/fig-03-004.png" class="r-stretch quarto-figure-center"><p class="caption">
+Figure&nbsp;3: Revolución de los precios
+</p></section>
+<section id="ideas-que-prenden" class="slide level2 center">
+<h2>Ideas que prenden</h2>
+<ul>
+<li>En los últimos 100 años del período mercantilista, se empezaron a forjar las ideas que facilitaron la transición hacia la “economía científica”.</li>
+<li>Uno de los aportes fue reconocer que se podía analizar la economía relativizando el análisis moral y promoviendo análisis causa-efecto</li>
+<li>También se comprendió que el Estado no debería interferir excesivamente porque impactaría sobre la conducta e incentivos de los agentes</li>
+<li>Algunos aportes dejan entrever que reconocieron los errores analíticos del mercantilismo joven y abrazaron incipientemente ideas liberales</li>
+<li>No hubo, sin embargo, una teoría integrada del funcionamiento de los mercados y el sistema de precios.</li>
+</ul>
+</section>
+<section id="mercantilismo-tardío-y-transición-liberal" class="slide level2 center">
+<h2>Mercantilismo tardío y transición liberal</h2>
+<ul>
+<li><strong>Thomas Mun</strong> fue un mercantilista <em>bona fide</em>: creía que la riqueza era fruto del comercio, abogaba por una BC+ y entrada de metales y a favor de la regulación pero criticó la idea de BC superavitaria con todas las naciones.</li>
+<li><strong>William Petty</strong> fue el precursor de la medición económica a través de su método de la <em>aritmética política</em> (estadística). Fue un brillante y agudo pensador que inició una tradición metodológica que va desde el induccionismo empírico hasta la econometría de nuestros días</li>
+<li><strong>Bernard de Mandeville</strong> sostuvo que el egoísmo era un vicio moral pero canalizado por el gobierno podía derivar en beneficios públicos. Proponía mucha población, trabajo infantil y salarios de pobreza (<span class="math inline">\(O_{l}\)</span> pendiente negativa)</li>
+</ul>
+</section>
+<section id="mercantilismo-tardío-y-transición-liberal-cont." class="slide level2 center">
+<h2>Mercantilismo tardío y transición liberal (cont.)</h2>
+<ul>
+<li><strong>David Hume</strong> fue una rara avis, un mercantilista liberal. Escribió sobre filosofía y política, y describió el mecanismo del precio-flujo de metales. De hecho, se diferenció tanto del mercantilismo joven como de la escuela clásica: el aumento gradual de <span class="math inline">\(M\)</span> podía aumentar la producción real al menos durante un cierto período de tiempo. Otra contribución fue su vinculación de las libertades económicas y libertades políticas</li>
+<li>Finalmente, <strong>Richard Cantillon</strong> fue una figura excepcional del pensamiento económico. Su libro es reconocido como el primer análisis sistemático de economía política. Concibió a la economía como un sistema de mercado que coordinaba a productores y consumidores a partir del interés personal. Analizó los ajustes del mercado ante diversos cambios. Entendió y amplió la TCD. Influyó en Quesnay y en los fisiócratas.</li>
+</ul>
+</section>
+<section id="mercantilismo-reevaluación-y-actualidad" class="slide level2 center">
+<h2>Mercantilismo: reevaluación y actualidad</h2>
+<ul>
+<li>El mercantilismo como cuerpo de ideas, doctrinas y políticas fue invisibilizado por la <strong>devastadora crítica de la escuela clásica</strong> y por el advenimiento de filosofía y condiciones más liberales. Sin embargo, hubo dos intentos fuertes por rescatarlo</li>
+<li>El primero fue de la escuela histórica alemana quienes defendieron al <strong>mercantilismo como un sistema racional para lograr ciertos objetivos</strong> en el contexto de su época</li>
+<li>El segundo, y más serio y contundente, fue el de Keynes. Keynes reconoció que las ideas y políticas de los mercantilistas tenían <em>fragmentos de sabiduría práctica</em>. Asimismo, valoró que detrás de la obsesión con las entradas de bullion había una “intuición de la conexión entre la abundancia de dinero y las bajas tasas de interés”.</li>
+</ul>
+</section>
+<section id="mercantilismo-reevaluación-y-actualidad-1" class="slide level2 center">
+<h2>Mercantilismo: reevaluación y actualidad</h2>
+
+<img data-src="../fig/fig-03-005.png" id="fig-mercantilism" class="quarto-figure quarto-figure-center r-stretch"><p class="caption">
+Figure&nbsp;4
+</p></section>
+<section id="el-estado-y-la-búsqueda-de-rentas" class="slide level2 center">
+<h2>El Estado y la búsqueda de rentas</h2>
+<ul>
+<li>En cuanto a proceso y en su enfoque político, es usual considerar a los mercantilistas como puramente motivados por la <strong>búsqueda de rentas</strong>. Buscaban conseguir beneficios obteniendo privilegios por parte del gobierno. Uno de los principales privilegios era en forma de monopolios concedidos por el Estado.</li>
+<li>En la búsqueda de rentas intervienen distintos tipos de agentes con intereses diferentes. Algunos agentes, como los gobiernos proveen <strong>oferta de regulación</strong> y otros, como las empresas y comerciantes, constituyen la <strong>demanda de regulación</strong>.</li>
+<li>Se configura entonces una <strong>relación de <em>quid-pro-quo</em></strong> en que las regulaciones y privilegios concedidos se otorgan a cambio de “votos” y dinero.</li>
+</ul>
+</section>
+<section id="el-estado-y-la-búsqueda-de-rentas-cont." class="slide level2 center">
+<h2>El Estado y la búsqueda de rentas (cont.)</h2>
+<ul>
+<li>El beneficio esperado para el comerciante y hombre de negocios derivaba de la concesión de monopolio (protección del Estado)</li>
+<li>El costo de organización era bajo en esa época por parte de los oferentes de regulación</li>
+<li>Esto generaba un conjunto de condiciones ideales para el florecimiento de actividad de búsqueda de rentas y actividad y políticas de regulación</li>
+<li>Es precisamente alrededor de esta época en que surgen los monopolios estatales. Particularmente importante fueron en los servicios de transporte marítimo de bienes, acuñación de moneda y banca y en la manufactura textil.</li>
+</ul>
+</section>
+<section id="el-estado-y-la-búsqueda-de-rentas-cont.-1" class="slide level2 center">
+<h2>El Estado y la búsqueda de rentas (cont.)</h2>
+<ul>
+<li>Note que la prevalencia de estas condiciones y arreglos institucionales fue permitida por el hecho de que había una coalición con intereses mutuamente compatibles entre gobiernos y grupos de interés y pocos derechos y participación política de las masas ciudadanas</li>
+<li>Asimismo, es importante notar aspectos de la “organización industrial” de la actividad de búsqueda de rentas –si bien el mercantilismo centralizó fuertemente el poder y las políticas económicas, el control y el enforcement de las mismas debía muchas veces hacerse localmente</li>
+<li>Finalmente, es importante considerar las condiciones en que surge el mercantilismo como sistema de búsqueda de rentas, su auge y duración y su eventual reemplazo por otro sistema, instituciones y arreglos sustancialmente diferents.</li>
+</ul>
+</section>
+<section id="especificidades-nacionales" class="slide level2 center">
+<h2>Especificidades nacionales</h2>
+<ul>
+<li>Como dijimos anteriormente, las teorías, doctrinas y experiencias mercantilistas difirieron en el tiempo y en el espacio. Nos referimos antes a algunas diferencias en el tiempo y ahora haremos breve referencias a diferencias en el espacio.</li>
+<li>Hubo algunas experiencias de crecimiento muy importantes, Holanda e Inglaterra por mencionar algunas. Y también otros países que, aún sin mostrar experiencias similares, tuvieron variantes de mercantilismo particulares</li>
+<li>Nos referimos principalmente a Francia, España e Italia.</li>
+</ul>
+</section>
+<section id="mercantilismo-inglaterra" class="slide level2 center">
+<h2>Mercantilismo: Inglaterra</h2>
+<ul>
+<li>El mercantilismo inglés fue enmarcado en un sistema político diferente al de otros países europeos: una monarquía constitucional en vez de absolutista. Esto implicaba que el poder sobre la política económica y la regulación estaba menos centralizado y promovió un tipo de relaciones coalicionales (y no de conflicto) entre grupos de interés y el Estado</li>
+<li>Una característica clave fue la implementación de regulación diferente de actividad local y nacional
+<ul>
+<li>Regulación de oficios: era local, basada en gremios medievales, y extremada con Ley de Trabajo isabelina y autoridad de Jueces de Paz</li>
+<li>Regulación de industria: era nacional, creada por el Parlamento, el Rey y su corte.</li>
+</ul></li>
+</ul>
+</section>
+<section id="mercantilismo-inglaterra-cont." class="slide level2 center">
+<h2>Mercantilismo: Inglaterra (cont.)</h2>
+<ul>
+<li>Un aspecto clave era el control de las regulaciones: los Jueces de Paz frecuentemente fueron “capturados” por intereses económicos locales. Fueron el antecedente del burócrata moderno con flexibilidad para ofrecer acuerdos de corrupción</li>
+<li>Muchos artesanos, empresarios y hombres de negocios buscaron como eludir la regulación local: migración hacia campo. Se multiplican los mercados paralelos para esquivar regulacion y “bajar costos”</li>
+<li>El sistema de regulación local y su dificil control y la perdida de poder del monarca a manos del Parlamento hace que eventualmente desaparezca el icentivo a formar coaliciones y mantener el sistema de búsqueda de rentas.</li>
+</ul>
+</section>
+<section id="mercantilismo-francia" class="slide level2 center">
+<h2>Mercantilismo: Francia</h2>
+<ul>
+<li>El mercantilismo difería del inglés tanto en cuestiones políticas como económicas. En el inglés, eran las relaciones económicas de la sociedad civil las que garantizaban la estabilidad y prosperidad del Estado; en el francés, era el Estado el que garantizaba la unidad y armonía de la sociedad civil</li>
+<li>Una diferencia fue en los principales autores mercantilistas: en Inglaterra fueron comerciantes y hombres de negocios. En Francia fueron principalmente oficiales y funcionarios del régimen absolutista</li>
+<li>Por esta razón, fue difícil separar teoría y práctica en los escritos y acciones de figuras como Richelieu, Colbert y Montchretien.</li>
+</ul>
+</section>
+<section id="mercantilismo-francia-cont." class="slide level2 center">
+<h2>Mercantilismo: Francia (cont.)</h2>
+<ul>
+<li>El mercantilismo francés identificaba al Estado como la principal categoría de análisis. Fusionaba los conceptos de economía y Estado. El principio básico era el logro de la autosuficiencia económica: esto se basaba en la alta inelasticidad de las exportaciones agrícolas francesas</li>
+<li>Y se proponía crear una industria a partir de sustituir importaciones</li>
+<li>También era importante el tema fiscal, impositivo de los privilegios regulatorios. A diferencia de Inglaterra, el paradigma absolutista francés implicó un persistente conflicto (a diferencia de coalición) entre los funcionarios y los grupos de interés. El ejemplo de las tirantes relaciones entre Colbert y varios grupos de interés fue tal vez el ejemplo mpas elocuente y vívido de las tensiones en el mercantilismo francés.</li>
+</ul>
+</section></section>
+<section>
+<section id="la-transición-liberal-y-los-primeros-padres-fundadores" class="title-slide slide level1 center" data-background="#390040">
+<h1><strong>La transición liberal y los primeros “padres fundadores”</strong></h1>
+
+</section>
+<section id="el-siglo-xvii" class="slide level2 center">
+<h2>El siglo XVII</h2>
+<blockquote>
+<p>Fue uno de los siglos claves y mas trascendentales en la historia de la humanidad. La terrible brutalidad de la Guerra de los 30 Años (población en muchos países cayó en 50% o más) contrastó con los increíbles avances en las ciencias naturales. Se formaron las primeras sociedad científicas (Royal Society en UK). Esto marca también un quiebre esencial en relación a <em>El Filósofo</em> –tanto en Francia (Descartes) como en UK (Hobbes, Locke) lideraron un movimiento de revulsión respecto de la dominancia de Aristóteles. El cambio es significativo en muchos aspectos pero uno, que nos concierne, es relevante: el cambio en el <em>estilo de la escritura</em></p>
+</blockquote>
+</section>
+<section id="los-impulsores-de-las-ideas-económicas-en-la-transición" class="slide level2 center">
+<h2>Los impulsores de las ideas económicas en la transición</h2>
+<ul>
+<li>En esta larga transición hacia la economía científica, la gran mayoría de autores y pensadores que contribuyeron ideas, nociones y pensamientos sobre temas económicos pueden ser catalogados en dos grupos:
+<ol type="1">
+<li>Políticos/administradores (“consultant administrators”)</li>
+<li>Panfletistas</li>
+</ol></li>
+<li>Los primeros comprendían esencialmente funcionarios y personas vinculadoas con la administración; personas de <em>praxis</em>, carecían de los hábitos sistemáticos y la erudición del profesional académico.</li>
+</ul>
+</section>
+<section id="los-impulsores-de-las-ideas-económicas-en-la-transición-cont." class="slide level2 center">
+<h2>Los impulsores de las ideas económicas en la transición (cont.)</h2>
+<ul>
+<li>Los panfletistas eran en cambio una fauna diversa –proyectistas, emprendedores, lobbistas, planificadores, y hombres interesados por los problemas de la epoca</li>
+<li>Florecieron gracias en parte al desarrollo de la imprenta. Con el advenimiento de los periódicos en siglo 17, dio nuevo impulso a este tipo de publicaciones</li>
+<li>La mayoría de los panfletistas sólo reflejaban humor y discusión de epoca, sin método ni rigor; algunos contribuyeron dosis de caracter estrictamente científico; incluso más, algunos pocos tuvieron notable capacidad para adelantarse a lo que se venía</li>
+</ul>
+</section>
+<section id="los-precursores-del-economía-política" class="slide level2 center">
+<h2>Los precursores del economía política</h2>
+<ul>
+<li>Un grupo de autores que caen en alguno (o en el medio) de los dos conjuntos dados arriba tuvieron el suficiente peso específico como para estudiarlos como parte esencial de la transición a las ideas económicas del siglo 18.</li>
+<li>En primer lugar, dos figuras importantes que estuvieron a las puertas del carácter científico de la economía fueron <strong>William Petty</strong> y <strong>Richard Cantillon</strong>
+<ul>
+<li>Petty (Marx) y Cantillon (Jevons) han sido considerados por los padres fundadores de la economía política</li>
+</ul></li>
+<li>En segundo lugar, La <strong>fisiocracia</strong> fue la otra manifestación de que la transición entre la economía pre-científica y científica estaba madurando</li>
+</ul>
+</section>
+<section id="los-primeros-econometristas" class="slide level2 center">
+<h2>Los primeros econometristas</h2>
+<ul>
+<li>Si bien no formaron parte de ninguna escuela, uno de los criterios para agrupar a estos pensadores (“consultores-administradores”) es que tuvieron algo en común: el espíritu para el análisis númerico</li>
+<li>Es por ello que Schumpeter los considera como econometristas; de hecho, alude a que su trabajo describe a la perfección el trabajo de un econometrista
+<ul>
+<li>Petty, Cantillon, Boisguillebert y Turgot entre los más importantes</li>
+</ul></li>
+</ul>
+</section>
+<section id="los-inicios-de-la-estadística-la-aritmética-política" class="slide level2 center">
+<h2>Los inicios de la estadística: la aritmética política</h2>
+<ul>
+<li>Durante los siglos 17 y 18, especialmente en Alemania, surgió y se popularizó un método de enseñanza que se especializaba en una presentación puramente descriptiva de los hechos relevantes para la administración pública [Conring, Achenwall]</li>
+<li>Estas estadísticas era primitivas, no guardaban relación con lo que hoy se conoce como métodos estadísticos <span class="math inline">\(\longrightarrow\)</span> presentaban hechos no numéricos principalmente
+<ul>
+<li>sin embargo, el propósito era esencialmente el mismo
+<ul>
+<li>“ilustración de las condiciones y prospectos de la sociedad”</li>
+</ul></li>
+</ul></li>
+<li>Pero no fueron los profesores alemanes quien dieron curso e impulso decisivo a estos desarrollos</li>
+</ul>
+</section></section>
+<section>
+<section id="sir-william-petty-1623-87" class="title-slide slide level1 center" data-background="#390040">
+<h1><strong>Sir William Petty [1623-87]</strong></h1>
+
+</section>
+<section id="un-economista-atípico-y-singular" class="slide level2 center">
+<h2>Un economista atípico y singular</h2>
+<blockquote>
+<p>El trabajo por tanto, no es la fuente única de los valores de uso que produce, de la riqueza material. El trabajo es el padre de ésta, como dice William Petty, y la tierra, su madre <strong>[Karl Marx <em>El Capital, Libro I</em>(1867)]</strong></p>
+</blockquote>
+<blockquote>
+<p>The method I take to do this is not yet very usual; for instead of using only comparative and superlative Words, and intellectual Arguments, I have taken the course (as a Specimen of the Political Arithmetic I have long aimed at) to express myself in Terms of Number, Weight, or Measure; to use only Arguments of Sense, and to consider only such Causes, as have visible Foundations in Nature. <strong>[Hull <em>The Economic Writings of Sir William Petty</em> (1899)]</strong></p>
+</blockquote>
+</section>
+<section id="sir-william-petty-1623-87-el-primer-influencer" class="slide level2 center">
+<h2>Sir William Petty [1623-87]: el primer <em>influencer</em></h2>
+<ul>
+<li>Petty fue un ejemplo arquetípico del <em>self-made man</em>. Hijo de un sastre pobre en el sur de Inglaterra, se formó y desempeñó como médico, cirujano, matemático, ingeniero teórico, miembro del Parlamento, servidor público y empresario.</li>
+<li>Pasó mucho tiempo arriba de barcos con la mala suerte de ser abandonado a su suerte en las costas de Caen (Francia). Fue ahí que tuvo su primera instrucción a cargo de jesuitas. Durante la guerra civil inglesa, huye a Holanda por unos años y conoce a Hobbes en París
+<ul>
+<li>A su regreso a UK, inventó un método para escribir duplicado (especie de copia carbónica) pero no tuvo suerte como empresario</li>
+</ul></li>
+</ul>
+</section>
+<section id="sir-william-petty-1623-87-el-primer-influencer-cont." class="slide level2 center">
+<h2>Sir William Petty [1623-87]: el primer <em>influencer</em> (cont.)</h2>
+<ul>
+<li>Se insertó rápidamente en los círculos intelectuales ingleses –fue uno de los miembros fundadores de la <em>Royal Society</em> y en 1650 le dieron una posición en medicina en Oxford</li>
+<li>Curiosamente o por casualidad su carrera tomó un giro inesperado en 1650 –para bien- cuando se documentó su participación como médico en el caso de la “resurrección” de una mujer condenada a muerte
+<ul>
+<li>Para mayores detalles: <a href="https://www.darkoxfordshire.co.uk/explore/anne-greene-back-from-the-dead/">Back from the dead</a></li>
+</ul></li>
+<li>Finalmente estuvo a cargo de la distribución de tierras en la conquista de Irlanda, previo a un relevamiento territorial que el mismo diseñó</li>
+</ul>
+</section>
+<section id="sir-william-petty-1623-87-el-primer-influencer-cont.-1" class="slide level2 center">
+<h2>Sir William Petty [1623-87]: el primer <em>influencer</em> (cont.)</h2>
+
+<img data-src="../fig/fig-04-001.png" class="quarto-figure quarto-figure-center r-stretch"></section>
+<section id="sir-william-petty-1623-87-el-primer-influencer-cont.-2" class="slide level2 center">
+<h2>Sir William Petty [1623-87]: el primer <em>influencer</em> (cont.)</h2>
+<ul>
+<li>Casi todos sus escritos fueron motivados por problemas prácticos de su tiempo y país (imposición, dinero, comercio).</li>
+<li>Si bien era brillante Schumpeter argumenta que no hubo nada muy original o espectacular en sus comentarios; eran similares a la de la clase de economistas que estaban surgiendo</li>
+<li>Sus esquemas y articulaciones no era más sofisticadas que las de sus contemporáneanos
+<ul>
+<li>Pero hubo algo en que se destacó por encima del resto <span class="math inline">\(\longrightarrow\)</span> tuvo la capacidad de “crear” conceptos y nociones a partir de hechos y los desarrolló mucho más que otros</li>
+</ul></li>
+</ul>
+</section>
+<section id="sir-william-petty-1623-87-el-primer-influencer-cont.-3" class="slide level2 center">
+<h2>Sir William Petty [1623-87]: el primer <em>influencer</em> (cont.)</h2>
+<blockquote>
+<p>Desarrolló el concepto de velocidad de circulación del dinero.</p>
+</blockquote>
+<blockquote>
+<p>Concepto de Ingreso Nacional. No se preocupó por la definición pero reconoció su importancia analítica y sus efectos. Entre él y Quesnay están los inicios del análisis moderno del ingreso y cuentas nacionales</p>
+</blockquote>
+<blockquote>
+<p>‘Father and mother’. Destacó (¿descubrió?) los dos factores originales de la producción</p>
+</blockquote>
+</section>
+<section id="sir-william-petty-1623-87-método-y-medición" class="slide level2 center">
+<h2>Sir William Petty [1623-87]: método y medición</h2>
+<ul>
+<li>En cuanto a su pensamiento en economía, la obra más importante es <em>The Economic Writings of Sir William Petty</em> [Hull (1899)].</li>
+<li>Su principal fama en la época era de ser uno de los fundadores de la estadística (econometría), o como se le llamaba entonces, la <em>aritmética política</em></li>
+<li>Petty adjudicaba gran valor a la <strong>medición cuantitativa</strong> (producto de su afinidad con la filosofía <em>baconiana</em>)</li>
+<li>No obstante ello, Petty fue esencialmente un teórico; pero uno cuya definición de hacer ciencia era básicamente enfocarse en medición
+<ul>
+<li>en suma, no concebía la teorización aislada de hechos y descripciones; tomó prestado mucho de este procedimiento de las ciencias físicas</li>
+</ul></li>
+</ul>
+</section>
+<section id="sir-william-petty-1623-87-método-y-medición-cont." class="slide level2 center">
+<h2>Sir William Petty [1623-87]: método y medición (cont.)</h2>
+<blockquote>
+<p>“By Political Arithmetick we mean the art of reasoning by figures upon things relating to government…The art itself is undoubtedly very ancient…[But Petty] first gave it that name and brought into rules and methods” [Davenant (1698), I, p.&nbsp;128]</p>
+</blockquote>
+</section>
+<section id="sir-william-petty-1623-87-gastos-impuestos-y-empleo" class="slide level2 center">
+<h2>Sir William Petty [1623-87]: gastos, impuestos y empleo</h2>
+<ul>
+<li>Sus mejores contribuciones están en el libro <a href="https://e.pcloud.link/publink/show?code=XZAzeSZVch7MaQPugfDfAiD0BCJ4f3haJKX"><em>A Treatise on Taxes and Contributions</em> (1662)</a>
+<ul>
+<li>Menciona los diferentes objetos del gasto (defensa, justicia, instrucción en religión)</li>
+<li>Sugiere el cobro de escuelas y universidades; el cobro de ríos navegables, acueductos, puentes y demás vías de comunicación; y el mantenimiento de húerfanos y pobres en un notable precedente de gasto de asistencialismo</li>
+<li>En un notable espíritu keynesiano, recomienda dar “empleo a los desempleados”</li>
+</ul></li>
+</ul>
+</section>
+<section id="sir-william-petty-1623-87-gastos-impuestos-y-empleo-cont." class="slide level2 center">
+<h2>Sir William Petty [1623-87]: gastos, impuestos y empleo (cont.)</h2>
+<blockquote>
+<p>…if it be employed to build a useless Pyramid upon Salisbury Plain, bring the Stones at Stonehenge to Tower Hill, or the like; for at worst this would keep their mindes to discipline and obedience, and their bodies to a patience of more profitable labours when need shall require it <strong>[Sir William Petty, <em>A Treatise on Taxes and Contributions</em> (1662)]</strong></p>
+</blockquote>
+</section>
+<section id="sir-william-petty-1623-87-gastos-impuestos-y-empleo-cont.-1" class="slide level2 center">
+<h2>Sir William Petty [1623-87]: gastos, impuestos y empleo (cont.)</h2>
+<ul>
+<li>Defiende la <strong>necesidad de los impuestos</strong> y su discusión gira alrededor de los impuestos sobre la propiedad</li>
+<li>Elabora un predicción sobre el <strong>movimiento y desplazamiento (crecimiento) de las ciudades</strong></li>
+</ul>
+<blockquote>
+<p>before we talk too much of Rents, we should endeavour to explain the mysterious nature of them, with reference as well to Money, the rent of which we call usury; as to that of Lands and Houses afore-mentioned <strong>[Sir William Petty, <em>A Treatise on Taxes and Contributions</em> (1662)]</strong></p>
+</blockquote>
+</section>
+<section id="sir-william-petty-1623-87-gastos-impuestos-y-empleo-cont.-2" class="slide level2 center">
+<h2>Sir William Petty [1623-87]: gastos, impuestos y empleo (cont.)</h2>
+<ul>
+<li>Se explaya sobre diferentes tipos de impuestos <span class="math inline">\(\longrightarrow\)</span> está <strong>en contra de aranceles a las <span class="math inline">\(M\)</span></strong> excepto en casos que las <span class="math inline">\(M\)</span> causen “muchos problemas locales”</li>
+<li>Concibió una suerte de “impuesto de capitación” (<em>poll money tax</em>)</li>
+</ul>
+<blockquote>
+<p>I shall speak of Poll-money more distinctly, and first of the simple Poll-money upon every head of all mankinde alike; the Parish paying for those that receive alms, Parents for their children under age, and Masters for their Apprentices, and others who receive no wages <strong>[Sir William Petty, <em>A Treatise on Taxes and Contributions</em> (1662)]</strong></p>
+</blockquote>
+</section>
+<section id="sir-william-petty-1623-87-gastos-impuestos-y-empleo-cont.-3" class="slide level2 center">
+<h2>Sir William Petty [1623-87]: gastos, impuestos y empleo (cont.)</h2>
+<ul>
+<li>Y sigue sobre este tipo de imposición:</li>
+</ul>
+<blockquote>
+<p>The evil of this way is, that it is very unequal; men of unequal abilities, all paying alike, and those who whave greatest charges of Children paying most; that is, that by how much the poorer they are, by so much the harder they are taxed <strong>[Sir William Petty, <em>A Treatise on Taxes and Contributions</em> (1662)]</strong></p>
+</blockquote>
+<ul>
+<li>Finalmente sobre impuestos, recomendó un <strong>impuesto al consumo</strong> (aunque no un impuesto al gasto personal)</li>
+</ul>
+</section>
+<section id="sir-william-petty-1623-87-valor-renta-y-excedente" class="slide level2 center">
+<h2>Sir William Petty [1623-87]: valor, renta y excedente</h2>
+<blockquote>
+<p>Suppose a man could with his own hands plant a certain scope of Land with Corn, that is could Digg, or Plough, Harrow, Weed, Reap, Carry home, Thresh, and Winnow so much as the Husbandry of this Landr requires; and had withal Seed wherewith to sowe the same. I say, that when this man hath subducted his seed out of the proceed of his Harvest, and also, what himself hath both eaten and given to others in exchange for Clothes, and other natural necessaries; that the remainder of Corn is the natural and true Rent of the Land for that year; and the <em>medium</em> of seven years, or rather of so many years as makes up the Cycle, within which Dearths and Plenties make their revolution, doth give the ordinary Rent of the Land in <em>Corn</em> <strong>[Sir William Petty, <em>A Treatise on Taxes and Contributions</em> (1662)]</strong></p>
+</blockquote>
+</section>
+<section id="sir-william-petty-1623-87valor-renta-y-excedente-cont." class="slide level2 center">
+<h2>Sir William Petty [1623-87]:valor, renta y excedente (cont.)</h2>
+<blockquote>
+<p>a …collaterall question may be, how much English money this Corn or Rent is worth? I answer, … so much as the money, which another single man can save, whithin the same time, over and above his expence, if he employed himself wholly to produce and make it; <em>viz</em>. Let another man go travel intro a Countrey where is Silver, there Dig it, Refine it, bring it to the same place where the other man planted his Corn; Coyne it, &amp;c.&nbsp;the same person, all the while of his working for Silver, gathering also food for his necessary livelihood, and procuring himself covering, &amp;c.&nbsp;I say, the Silver of the one, must be esteemed of equal value with the Corn of the other: the one being perhaps twenty Ounces and the other twenty Bushels. From whence it follows, that the price of a Bushel of this Corn to be an ounce of Silver <strong>[Sir William Petty, <em>A Treatise on Taxes and Contributions</em> (1662)]</strong></p>
+</blockquote>
+</section>
+<section id="sir-william-petty-1623-87-valor-renta-y-excedente-cont." class="slide level2 center">
+<h2>Sir William Petty [1623-87]: valor, renta y excedente (cont.)</h2>
+<ul>
+<li>Y he ahí basicamente una <strong>premonición de la teoría del valor trabajo</strong> –Marx le estimaba tanto que consideró a Petty “el padre de la economía política Inglesa</li>
+<li>Y también gran agudeza sobre el valor de metales y las cosas</li>
+</ul>
+<blockquote>
+<p>The world measures things by gold and silver, but principally the latter <strong>[Sir William Petty, <em>A Treatise on Taxes and Contributions</em> (1662)]</strong></p>
+</blockquote>
+<blockquote>
+<p>…is, that all things ought to be valued by two natural Denominations, which is Land and Labour <strong>[Sir William Petty, <em>A Treatise on Taxes and Contributions</em> (1662)]</strong></p>
+</blockquote>
+</section>
+<section id="sir-william-petty-1623-87-valor-renta-y-excedente-cont.-1" class="slide level2 center">
+<h2>Sir William Petty [1623-87]: valor, renta y excedente (cont.)</h2>
+<blockquote>
+<p>[W]e ought to say, a Ship or garment is worth such a measure of Land, with such another measure of Labour; forasmuch as both Ships and Garments were the creatures of Lands and Labours thereupon: This being true, we should be glad to finde out a natural Par between Land and Labour, so as we might express the value by either of them alone <strong>[Sir William Petty, <em>A Treatise on Taxes and Contributions</em> (1662)]</strong></p>
+</blockquote>
+<ul>
+<li>esta es la expresión más cabal de que estuvo increíblemente cerca casi 100 años antes de dar una teoría del valor trabajo de las cosas</li>
+</ul>
+</section>
+<section id="sir-william-petty-1623-87-valor-renta-y-excedente-cont.-2" class="slide level2 center">
+<h2>Sir William Petty [1623-87]: valor, renta y excedente (cont.)</h2>
+<ul>
+<li>Esta idea de relacionar los valores de la tierra (T) y el capital (K) igualando un pedazo de T que produciría <em>“un día de comida de un hombre adulto”</em> al día de trabajo de un ese hombre –’natural Par of Land and Labour.</li>
+<li>Idealmente esto nos daría la unidad de medida a través de la cual reducir las cantidades disponibles de los “dos factores originales”, T y K, a una cantidad <em>homogénea</em>de ‘poder productivo’ que pudiera ser expresado en un número y cuya unidad pudiera expresar un estándar de valor tierra-trabajo.</li>
+<li>Lamentablemente esto no era una explicación del <em>fenómeno del valor</em>, mucho menos una teoría del valor.</li>
+</ul>
+</section>
+<section id="sir-william-petty-1623-87-capitalización-y-el-problema-del-tiempo" class="slide level2 center">
+<h2>Sir William Petty [1623-87]: capitalización y el problema del tiempo</h2>
+<ul>
+<li>También se interesó por el problema de la capitalización –tiempo, interés y renta. Está basicamente preguntándose por los precios de los factores</li>
+</ul>
+<blockquote>
+<p>Having found the Rent or value of the <em>usus fructus per annum</em> [of land], the question is, how many years purchase (as we usually say) is the Fee simple naturally worth? <strong>[Sir William Petty, <em>A Treatise on Taxes and Contributions</em> (1662)]</strong></p>
+</blockquote>
+<ul>
+<li>y argumenta que si no hubiera descuento de rentas futuras y la productividad se mantuviera, entonces</li>
+</ul>
+</section>
+<section id="sir-william-petty-1623-87-capitalización-y-el-problema-del-tiempo-cont." class="slide level2 center">
+<h2>Sir William Petty [1623-87]: capitalización y el problema del tiempo (cont.)</h2>
+<blockquote>
+<p>then an Acre of Land would be equal in value to a thousand Acres of the same Land; which is absurd, an infinity of unites being equal to an infinity of thousands. Wherefore, we must pitch upon some limited number, and that I apprehend to be the number of years, which I conceive one man of fifty years old, another of twenty eight, and another of seven years old, all being alive together may be thought to live; that is to say, of a Grandfather, Father and Childe; …for if a man be a great Grandfather, he himself is so much the nearer his end, so as there are but three in a continual line of descent usually co-existing together; and as some are Grandfathers at forty years, yet as many are not till above sixty. Wherefore I pitch the number of years purchase, that any Land is naturally worth, to be the ordinary extent of three such persons their lives <strong>[Sir William Petty, <em>A Treatise on Taxes and Contributions</em> (1662)]</strong></p>
+</blockquote>
+</section>
+<section id="sir-william-petty-1623-87-capitalización-y-el-problema-del-tiempo-cont.-1" class="slide level2 center">
+<h2>Sir William Petty [1623-87]: capitalización y el problema del tiempo (cont.)</h2>
+<ul>
+<li>Este párrafo es un antecedente increíblemente lúcido en relación al problema financiero y la capitalización
+<ul>
+<li>Es común considerar el límite inferior de la tasa <em>real</em> de interés en un 2% [Cassel (1903)]. Razón <span class="math inline">\(\longrightarrow\)</span> si cayera por debajo de eso convendría liquidar el capital y hacerlo ingreso en vez de convertir ingreso en capital</li>
+</ul></li>
+<li>Ciertamente no parece probable que Cassel hubiera leído a Petty salvo que Petty hubiera usado sus habilidades para la resurrección, imposible ciertamente que Petty hubiera leído a Cassel!!!</li>
+</ul>
+</section>
+<section id="sir-william-petty-1623-87-interés-y-usura" class="slide level2 center">
+<h2>Sir William Petty [1623-87]: interés y usura</h2>
+<ul>
+<li>Directamente relativizó el problema de la usura –como problema moral</li>
+</ul>
+<blockquote>
+<p>As for Usury, the least that can be, is the Rent of so much Land as the money lent will buy, where the security is undoubted; but where the security is causal, then a kinde of ensurance must be enterwoven with the simple natural Interest, which may advance the Usury very conscionably unto any height below the Principal itself <strong>[Sir William Petty, <em>A Treatise on Taxes and Contributions</em> (1662)]</strong></p>
+</blockquote>
+</section>
+<section id="sir-william-petty-1623-87-dinero" class="slide level2 center">
+<h2>Sir William Petty [1623-87]: dinero</h2>
+<ul>
+<li>Entendía cómo funcionaba la demanda de dinero</li>
+</ul>
+<blockquote>
+<p>Parallel unto this, is something which we omit concerning the price of Land; for as great need of money heightens Exchange so doth great need of Corn raise the price of that likewise, and consequently of the Rent of the Land that bears Corn, and lastly of the Land it self; as for example, if the Corn which feedeth <em>London</em>, or an Army, be brought forty miles thither, then the Corn growing within a mile of <em>London</em>, or the quarters of such Army, shall have added unto its natural price, so much as the charge of bringing it thirty nine miles doth amount unto <strong>[Sir William Petty, <em>A Treatise on Taxes and Contributions</em> (1662)]</strong></p>
+</blockquote>
+</section>
+<section id="sir-william-petty-1623-87-dinero-1" class="slide level2 center">
+<h2>Sir William Petty [1623-87]: dinero</h2>
+<ul>
+<li>Reconoció las 3 (tres) funciones del dinero: 1) patrón de valor, 2) medio de cambio y 3) depósito de valor. Hizo una analogía muy “médica” del dinero</li>
+</ul>
+<blockquote>
+<p>El dinero es como la grasa del cuerpo político, que si abunda en demasía a menudo impide su agilidad y si es poca significa que está enfermo. Ciertamente, así como la grasa lubrica el movimiento de los músculos, satisface la necesidad de víveres, llena las cavidades desiguales y embellece el cuerpo, así hace el dinero en el Estado, acelerando su acción, suministrandose en el extranjero en época de escasez en el interior, facilita las cuentas en razón de su divisibilidad y embellece al conjunto, aunque especialmente más a las personas que lo poseen en abundancia <strong>[Hull <em>The Economic Writings of Sir William Petty</em> (1899)]</strong></p>
+</blockquote>
+</section>
+<section id="sir-william-petty-1623-87-dinero-2" class="slide level2 center">
+<h2>Sir William Petty [1623-87]: dinero</h2>
+<ul>
+<li>A pesar de que observó correctamente que existía una relación entre la cantidad de dinero y el nivel de actividad económica, no se percató (o al menos no lo expresó) de la relación entre la cantidad de dinero y el nivel de precios</li>
+<li>Si reconoció el concepto de velocidad de circulación del dinero y lo vinculó con la cantidad óptima de dinero</li>
+<li>Consideró correctamente que las prohibiciones de exportar dinero (y de importar mercancias) eran inútiles</li>
+</ul>
+</section></section>
+<section>
+<section id="richard-cantillon-1680-1734" class="title-slide slide level1 center" data-background="#390040">
+<h1><strong>Richard Cantillon [1680-1734]</strong></h1>
+
+</section>
+<section id="richard-cantillon-1680-1734-vida-y-obra" class="slide level2 center">
+<h2>Richard Cantillon [1680-1734]: Vida y obra</h2>
+<ul>
+<li>Hasta bien entrado el siglo XX, Cantillon era relativamente poco conocido en relación con otros pensadores económicos
+<ul>
+<li>Sin embargo escribió uno de los primeros y mejores tratados científicos sobre temas económicos <span class="math inline">\(\longrightarrow\)</span> su <a href="https://e.pcloud.link/publink/show?code=XZtjNSZ0RVVR8XLIMzjEleY4PORgkcvzTrk"><em>Essay on the Nature of Commerce (1755)</em></a> es mejor como obra analítica que cualquier texto que hayan escrito los Fisiócratas y comparable en algún punto con <em>La Riqueza de las Naciones</em></li>
+</ul></li>
+<li>Junto con Petty han sido redescubiertos como “padres” y precursores no oficiales de la economía científica</li>
+</ul>
+</section>
+<section id="richard-cantillon-1680-1734-vida-y-obra-cont." class="slide level2 center">
+<h2>Richard Cantillon [1680-1734]: Vida y obra (cont.)</h2>
+<ul>
+<li>Nació en Irlanda pero se radicó y pasó gran parte de su vida en Francia donde se desempeñó como banquero, uno muy agudo y exitoso para los negocios</li>
+<li>Luego de hacer una fortuna con la burbuja (de bonos) de Mississippi, se dedicó a escribir sus ideas compiladas en el <em>Essay</em>, su única publicación conocida
+<ul>
+<li>buenas razones para suponer que el mérito académico no era la única (o principal) razón para escribir el <em>Essai</em> sino que tal vez desarrolló sus ideas para defenderse legalmente de las acusaciones!</li>
+</ul></li>
+</ul>
+</section>
+<section id="richard-cantillon-1680-1734-vida-y-obra-cont.-1" class="slide level2 center">
+<h2>Richard Cantillon [1680-1734]: Vida y obra (cont.)</h2>
+<blockquote>
+<p><strong>La Burbuja de Mississippi.</strong> La <em>Compañía de Mississippi</em> a cargo de John Law incluia todas las compañías comerciales de Francia en el exterior. En 1720 esta compañía se unió con el <em>Banque Royale</em>, a todos los efectos, el banco central de Francia. La nueva compañía llegó a multiplicar su valor de mercado en 20 veces. Law era un proponente de tasas de interés bajas y abundante cantidad de dinero. El esquema duró 4 años ya que la burbuja explotó –las acciones cayeron 90%!- y la moneda francesa colapsó. Law tuvo que exiliarse. Cantillon, que comprendía perfectamente la fragilidad del esquema, se benefició enormemente de comprar bajo y vender alto. Hizo enemigos en el proceso, fue juzgado, acosado y perseguido políticamente. Murió en circunstancias misteriosas en un incendio en su vivienda –posiblemente asesinado</p>
+</blockquote>
+</section>
+<section id="richard-cantillon-1680-1734-vida-y-obra-cont.-2" class="slide level2 center">
+<h2>Richard Cantillon [1680-1734]: Vida y obra (cont.)</h2>
+<ul>
+<li>Nació en Irlanda pero se radicó y pasó gran parte de su vida en Francia donde se desempeñó como banquero, uno muy agudo y exitoso para los negocios</li>
+<li>Luego de hacer una fortuna con la burbuja (de bonos) de Mississippi, se dedicó a escribir sus ideas compiladas en el <em>Essay</em>, su única publicación conocida
+<ul>
+<li>buenas razones para suponer que el mérito académico no era la única (o principal) razón para escribir el <em>Essai</em> sino que tal vez desarrolló sus ideas para defenderse legalmente de las acusaciones!</li>
+</ul></li>
+<li>Los detalles sobre su vida son muy escasos y contradictorios –se dice que llevaba registro “estadístico” de los suelos y sus diferentes composiciones ya que el hombre los “degustaba” (creer o reventar)</li>
+</ul>
+</section>
+<section id="richard-cantillon-1680-1734-vida-y-obra-cont.-3" class="slide level2 center">
+<h2>Richard Cantillon [1680-1734]: Vida y obra (cont.)</h2>
+<ul>
+<li>El <em>Essai</em> de Cantillon es inusual e inédito –no es un compendio de políticas como los tratados fisiocráticos ni tampoco un tratado y una crítica como <em>La Riqueza de las Naciones</em>
+<ul>
+<li>prácticamente a lo largo de todo el texto, es puramente abstracto y desacoplado de lo detalles de la vida real –un tratado puramente analítico</li>
+</ul></li>
+<li>El <em>Essai</em> está dividido en 3 (tres) partes: 1) un análisis general del funcionamiento de la economía, 2) un análisis de la teoría monetaria y teoría del interés, 3) una discusión del comercio y la banca</li>
+</ul>
+</section>
+<section id="cantillon-contribuciones" class="slide level2 center">
+<h2>Cantillon: Contribuciones</h2>
+<ul>
+<li>Cuestiona a Petty en su optimismo “demográfico” y anticipa a Malthus</li>
+</ul>
+<blockquote>
+<p>Men multiply like Mice in a barn if they have unlimited Means of Subsistence; and the English in the Colonies will become more numerous in proportion in three generations than they would be in thirty in England, because in the Colonies they find for cultivation new tracts of lan from which teyr drive the [inhabitants] <strong>[Cantillon, Richard <em>Essay on the Nature of Commerce</em> (1755), pp.&nbsp;83]</strong></p>
+</blockquote>
+<blockquote>
+<p>It is also a question outside of my subject whether it is better to have a great multitude of Inhabitants, poor and badly provided, than a smaller number, much more at their ease <strong>[Cantillon, Richard <em>Essay on the Nature of Commerce</em> (1755), pp.&nbsp;83]</strong></p>
+</blockquote>
+</section>
+<section id="cantillon-contribuciones-cont." class="slide level2 center">
+<h2>Cantillon: Contribuciones (cont.)</h2>
+<ul>
+<li>Escribe sobre valor y riqueza, en línea con los escritos anteriores de Petty y las ideas de la época</li>
+</ul>
+<blockquote>
+<p>The Land is the Source or Matter from whence all Wealth is produced. The Labour of man is the Form which produces it: and Wealth in itself is nothing but the Maintenance, Conveniences, and Superfluities of Life <strong>[Cantillon, Richard <em>Essay on the Nature of Commerce</em> (1755), pp.&nbsp;3]</strong></p>
+</blockquote>
+</section>
+<section id="cantillon-contribuciones-cont.-1" class="slide level2 center">
+<h2>Cantillon: Contribuciones (cont.)</h2>
+<ul>
+<li>Sobre la cuestión del precio dice</li>
+</ul>
+<blockquote>
+<p>the Price or intrinsic value of a thing [in general] is the measure of the quantity of Land and Labour entering into its production <strong>[Cantillon, Richard <em>Essay on the Nature of Commerce</em> (1755), pp.&nbsp;29]</strong></p>
+</blockquote>
+<ul>
+<li>Sobre la cuestión de la Paridad que había referido Petty hace una elaboración muy aguda pero entreverada en relación a cómo se asimilan las cantidades de <span class="math inline">\(L\)</span> y <span class="math inline">\(T\)</span> en decidir el precio de las cosas
+<ul>
+<li>si uno puede decidir sobre el <em>area de <span class="math inline">\(T\)</span></em> que produce la subsistencia de trabajadores que son a su vez necesarios para producir el bien particular</li>
+</ul></li>
+</ul>
+</section>
+<section id="cantillon-contribuciones-cont.-2" class="slide level2 center">
+<h2>Cantillon: Contribuciones (cont.)</h2>
+<ul>
+<li>Introduce por primera vez el término <em>entrepreneur</em> en sentido técnico</li>
+</ul>
+<blockquote>
+<p>The circulation and exchange of goods and merchandise as well as their production are carried on in Europe by Undertakers and at risk” <strong>[Cantillon, Richard <em>Essay on the Nature of Commerce</em> (1755), pp.&nbsp;29]</strong></p>
+</blockquote>
+<ul>
+<li>Divide a la sociedad directamente en dos grupos
+<ul>
+<li>aquellos que son contratados a precio fijo (cierto) de antemano (retribución contractual)</li>
+<li>aquellos que no son contratados y que de alguna manera especulan acerca del futuro de los mercados para los cuales producen (retribución incierta)</li>
+</ul></li>
+</ul>
+</section>
+<section id="cantillon-contribuciones-cont.-3" class="slide level2 center">
+<h2>Cantillon: Contribuciones (cont.)</h2>
+<ul>
+<li>La parte II de su <em>Essai</em> es verdaderamente lúcida y original. Trata primariamente sobre precios, dinero e interés. Su explicación de como se forman los precios de mercado es tal vez la primera referencia en la historia de la economía que describe el <strong>mecanismo</strong> a través del cual las diferentes disposiciones a demandar y ofrecer terminan produciendo los precios de mercado
+<ul>
+<li>note la brillante descripción en las proximas diapositivas</li>
+</ul></li>
+<li>Cuando habla sobre el trueque, por ejemplo, nota que una forma de fijar precios de mercado es “are more clever in puffing up their wares, others in running them down”</li>
+</ul>
+</section>
+<section id="cantillon-contribuciones-cont.-4" class="slide level2 center">
+<h2>Cantillon: Contribuciones (cont.)</h2>
+<blockquote>
+<p>Several maitres d’hotels [at Paris] have been told to buy green Peas when they first come in. One Master has ordered the purchase of 10 quarts for 60 livres, another 10 quarts for 50 livres, a third 10 for 40 livres and a fourth 10 for 30 livres. If these orders are to be carried out there must be 40 quarts of gren Peas in the Market. Suppose there are only 20. The Vendors, seeing many Buyers, will keep up their Prices, and the Buyers will come up to the Prices prescribed to them: so that those who offer 60 livres for 10 quarts will be the first served. The Sellers, seeing later that no one will go above 50, will let the other 10 quarts go at that price. Those who had orders not to exceed 40 and 30 livres will go away empty <strong>[Cantillon, Richard <em>Essay on the Nature of Commerce</em> (1755), pp.&nbsp;119-120]</strong></p>
+</blockquote>
+</section>
+<section id="cantillon-contribuciones-cont.-5" class="slide level2 center">
+<h2>Cantillon: Contribuciones (cont.)</h2>
+<blockquote>
+<p>If instead of 40 quarts there were 400, not only would the maitres d’hotels get the new Peas much below the sums laid down for them, but the Sellers in order to be preferred one to the other by the few Buyers will lower their new Peas almost to their intrinsec value, and in that case many maitres d’hotels who had no orders will buy some <strong>[Cantillon, Richard <em>Essay on the Nature of Commerce</em> (1755), pp.&nbsp;120-121]</strong></p>
+</blockquote>
+</section>
+<section id="cantillon-contribuciones-cont.-6" class="slide level2 center">
+<h2>Cantillon: Contribuciones (cont.)</h2>
+<ul>
+<li>Discutió las rentas que debía obtener (y el destino que debía dar) el agricultor</li>
+</ul>
+<blockquote>
+<p>It is the general opinion in Englad that a Farmer must make three Rents. (1) The principal and true Rent which he pays to the propietor, supposed equal in value to the produce of one third of his Farm, a second Rent for his maintenance and that of the Men and Horses he employs to cultivate the Farm, and a third which ought to remain with him to make his undertaking profitable <strong>[Cantillon, Richard <em>Essay on the Nature of Commerce</em> (1755), pp.&nbsp;121]</strong></p>
+</blockquote>
+</section>
+<section id="cantillon-contribuciones-cont.-7" class="slide level2 center">
+<h2>Cantillon: Contribuciones (cont.)</h2>
+<ul>
+<li>Define y caracteriza los diferentes usos del dinero. Considera demanda de dinero para resguardarse de riesgos potenciales (demanda precautoria)</li>
+<li>Considera también la influencia de los hábitos cambiantes de terratenientes y de los vendedores para explicar cambios en la demanda de dinero</li>
+<li>Observa que la existencia de bancos economiza la demanda de dinero e incrementa la circulación (menos dinero, más rápida circulacion)</li>
+</ul>
+</section>
+<section id="cantillon-contribuciones-cont.-8" class="slide level2 center">
+<h2>Cantillon: Contribuciones (cont.)</h2>
+<ul>
+<li>Discutió las rentas que debía obtener (y el destino que debía dar) el agricultor</li>
+</ul>
+<blockquote>
+<p>M. Locke lays it down as a fundamental maxim that the quantity of produce and merchandise in proportion to the quantity of money serves as the regulator of Market price. I have tried to elucidate his idea in the preceeding Chapters: he has clearly seen that the abundance of money makes everything dear, but he has not considered how it does so. The great difficulty of this question consists in knowing in what way and in what proportion the increase of money raises prices <strong>[Cantillon, Richard <em>Essay on the Nature of Commerce</em> (1755), pp.&nbsp;161]</strong></p>
+</blockquote>
+</section>
+<section id="cantillon-contribuciones-cont.-9" class="slide level2 center">
+<h2>Cantillon: Contribuciones (cont.)</h2>
+<ul>
+<li>Examina las formas y mecanismos en que el dinero se esparce en la comunidad
+<ul>
+<li>argumenta que la forma en que los aumentos en la cantidad de dinero impactan en los precios dependen de a qué manos llega el dinero primero</li>
+</ul></li>
+<li>Si llega primero a quienes tienen baja <span class="math inline">\(M^{d}\)</span>, entonces circula rápidamente y precios aumentan rapido</li>
+<li>Si llega primero a quienes acumulan dinero, entonces los precios no aumentan (o aumentan menos)
+<ul>
+<li>no obstante reconoce que <em>aún en este caso</em> los precios terminarían aumentando eventualmente [NOTA: compare con aumentos de P post-Covid-19 en países avanzados]</li>
+</ul></li>
+</ul>
+</section>
+<section id="cantillon-contribuciones-cont.-10" class="slide level2 center">
+<h2>Cantillon: Contribuciones (cont.)</h2>
+<ul>
+<li>Y concluye sobre la relación entre aumentos en cantidd de dinero y aumentos en precios:</li>
+</ul>
+<blockquote>
+<p>From all this I conclude that by doubling the quantity of money in a State the prices of products and merchandise are not always doubled. A River wich runs and winds about in its bed will not flow with double the speed when the amount of its water is doubled <strong>[Cantillon, Richard <em>Essay on the Nature of Commerce</em> (1755), pp.&nbsp;177]</strong></p>
+</blockquote>
+</section>
+<section id="cantillon-contribuciones-cont.-11" class="slide level2 center">
+<h2>Cantillon: Contribuciones (cont.)</h2>
+<ul>
+<li>También escribió sobre el tema del interés y su determinación. Definitivamente ataca la visión de que es la cantidad de dinero la que afecta la tasa de interés –ofrece contraejemplos apoyando su punto</li>
+<li>Y aquí es donde introduce su análisis del mercado de dinero en relación al mercado de fondos prestables tomando en cuenta su alta complejidad
+<ul>
+<li>distingue entre préstamos para consumo y préstamos “para negocios” (inversión)</li>
+</ul></li>
+<li>Finalmente uno de los pocos párrafos no analíticos y críticos hacia la <em>praxis</em> de la política</li>
+</ul>
+</section>
+<section id="cantillon-contribuciones-cont.-12" class="slide level2 center">
+<h2>Cantillon: Contribuciones (cont.)</h2>
+<blockquote>
+<p>It is then undoubted that a Bank with the complicity of a Minister is able to raise and support the price of public stock and to lower the rate of interest in the State at the pleasure of this Minister when the steps are taken discreetly, and thus pay off the State debt. But these refinements which open the door to making large fortunes are rarely carried out for the sole advantage of the State, and those who take part in them are generally corrupted. The excess banknotes, made and issued on these occasions, do not upset the circulation, because being used for the buying and selling of stock they do not serve for household expenses and are not changed into silver. But if some panic or unforeseen crisis drove the holders to demand silver from the Bank, the bomb would burst and it would be seen that these are dangerous operations <strong>[Cantillon, Richard <em>Essay on the Nature of Commerce</em> (1755), pp.&nbsp;323]</strong></p>
+</blockquote>
+</section></section>
+<section>
+<section id="los-fisiócratas-la-primera-escuela" class="title-slide slide level1 center" data-background="#390040">
+<h1><strong>Los fisiócratas: la primera “escuela”</strong></h1>
+
+</section>
+<section id="el-contexto-de-francia-en-siglos-17-y-18" class="slide level2 center">
+<h2>El contexto de Francia en siglos 17 y 18</h2>
+<ul>
+<li>La aparición sistemática del análisis económico se ve no sólo de manera primitiva en Petty y Cantillon sino también y de manera más elocuente en los escritos de los economistas franceses que serían conocidos como los <strong>fisiócratas</strong></li>
+<li>Las condiciones en Francia durante el siglo 17 y principios del 18 era brutales para la gran mayoría de sus habitantes <span class="math inline">\(\longrightarrow\)</span> la pobreza era extrema y agonizante
+<ul>
+<li>El texto <em>The Characters</em> de La Bruyere describe que “en la campiña podían observarse animales débiles y maltratados, aparentemente despreocupados por lo que crecía en los alrededores, y de repente una de las criaturas alza la mirada –sorpresa, es un hombre!”</li>
+</ul></li>
+<li>La guerra, los impuestos y los privilegios a los ricos habían devastado al pueblo</li>
+</ul>
+</section>
+<section id="el-contexto-de-francia-en-siglos-17-y-18-cont." class="slide level2 center">
+<h2>El contexto de Francia en siglos 17 y 18 (cont.)</h2>
+<ul>
+<li>La política comercial (y la mayoría de la política económica) estaba en manos del infame Colbert –el superministro de Luis XIV
+<ul>
+<li>hay una descripción imperdible de Colbert en <em>La Riqueza de las Naciones</em> que lo ve como un hombre recto, de experiencia y uno que ha “adquirido todos los prejuicios del sistema mercantil”</li>
+</ul></li>
+<li>Este contexto era básicamente lo que enfrentaban los economistas franceses de la epoca cuando escriben</li>
+</ul>
+</section>
+<section id="críticos-de-políticas-y-de-sistemas" class="slide level2 center">
+<h2>Críticos de políticas y de sistemas</h2>
+<ul>
+<li>Uno de los principales ataques a las políticas y al sistema mercantil fue la de <strong>Boisguillebert (1646-1714)</strong>
+<ul>
+<li>Era un juez que escribió <em>Detail de la France</em> en el que ataca al <em>colbertismo</em> en el punto en que privilegiaba las manufacturas en desmedro de la agricultura (la principal ocupación de las mayorías)</li>
+<li>Argumentó que la verdadera naturaleza de la riqueza nacional estaba en los <strong>bienes y servicios y no en el dinero</strong></li>
+<li>Fustigó el opresivo sistema impositivo –la <em>taille</em> (<span class="math inline">\(T\)</span> a la propiedad), las <em>aides</em> (<span class="math inline">\(T\)</span> a las ventas) y las <em>douanes</em> (<span class="math inline">\(T\)</span> al comercio exterior)</li>
+</ul></li>
+</ul>
+</section>
+<section id="quesnay-1694-1774-y-sus-discípulos" class="slide level2 center">
+<h2>Quesnay [1694-1774] y sus discípulos</h2>
+<ul>
+<li>En la primera mitad del siglo 18 hubo muy poca discusión y debate sobre cuestiones económicas –entre otras cosas ayudado por la fenomenal debacle del esquema Mississippi y del colapso de la economía francesa; hubo algunos autores como Melon, Dutot y hasta el mismo Montesquieu con ideas economicas aisladas</li>
+<li>Pero entre 1750 y 1760, florecieron los escritos y especulaciones económicas de la mano de los fisiócratas –el Dr Quesnay y sus amigos</li>
+<li>Hubo contribuciones importantes de los fisiócratas –pero posiblemente no al nivel de Cantillon, Hume o Smith</li>
+</ul>
+</section>
+<section id="quesnay-y-sus-discípulos-cont." class="slide level2 center">
+<h2>Quesnay y sus discípulos (cont.)</h2>
+<blockquote>
+<p><span style=" font-size:25px; line-height:0.5; padding:0">Gentlemen, we have lost our master, the veritable benefactor of humanity belongs to this earth only by the moemory of his good deeds and the imperishable record of his achievements. Socrates has been said to have brought down morality from the skies. Our master has made it germinate upon earth. Celestial morality was a guide only for a few chosen souls. The doctrine of the net product procures subsistence for the children of men, secures them in its enjoyment from violence and fraud, lays down the principles of its distribution and assures its reproduction. O bust! O venerable bust that represents to us the features of our common master. It is before you, it is to the vow of universal fraternity which our conscience, enlightened by the teaching of the excellent man whom you portrayed for us bids us observe. O Master, look down from your heavenly heights. Smile still on our words and works and our tears, while my trembling hand offers on your tomb laurels which will never perish <strong>[Marquis Mirabeau, Eulogy on the Funeral of Francois Quesnay (1774)]</strong></span></p>
+</blockquote>
+<ul>
+<li>No cabe duda de la ornamentación y dramatismo francés viendo cómo despiden a uno sus pensadores!</li>
+</ul>
+</section>
+<section id="quesnay-y-sus-discípulos-cont.-1" class="slide level2 center">
+<h2>Quesnay y sus discípulos (cont.)</h2>
+<ul>
+<li>Francois Quesnay [1694 fue el líder y figura intelectual indiscutida de los fisiócratas. Nació en el seno de una familia humilde, dedicada a la agricultura</li>
+<li>Se convirtio en cirujano y luego devino en médico por problemas de visión
+<ul>
+<li>Una de sus principales obras <em>On the Circulation of Blood</em></li>
+</ul></li>
+<li>Se mantuvo en los más altos círculos políticos y sociales, residía en Versalles</li>
+<li>Fue el asistente personal de Madame de Pompadour (la amante del rey!)</li>
+</ul>
+</section>
+<section id="quesnay-y-sus-discípulos-cont.-2" class="slide level2 center">
+<h2>Quesnay y sus discípulos (cont.)</h2>
+<ul>
+<li>Se interesó por la agricultura y particularemnte en avances técnicos. Por lo anterior, había obtenido fortuna y adquirido tierras. Escribió algunos articulos breves y esto lo fue conduciendo al análisis económico más general y su creación más famosa –el <em>Tableau Economique</em> –no sobre la circulación de la sangre sino de la riqueza!</li>
+<li>Quesnay probablemente hubiera sido una figura aislada (al igual que Cantillon) si no hubiera sido por sus continuadores –Mirabeau quien era extremadamente social lo popularizó y formó una escuela de seguidores</li>
+</ul>
+</section>
+<section id="quesnay-y-sus-discípulos-cont.-3" class="slide level2 center">
+<h2>Quesnay y sus discípulos (cont.)</h2>
+<ul>
+<li>El rasgo distintivo más importante de los fisiócratas era su <strong>posición pro-agricultura</strong> (y por añadidura anti-promoción de las manufacturas)</li>
+<li>Un segundo rasgo es que su actitud frente al Gobierno era una de relativo <em>laissez-faire</em></li>
+<li>Tercero, la filosofía de los fisiócratas no era utilitarista en el sentido en que podemos decir que la de Smith y Hume lo era
+<ul>
+<li>descansaba mas bien en una concepción bastante <em>simplista</em> de la ley natural</li>
+</ul></li>
+<li>“You simply obey the laws of nature” parece haber sido una respuesta común a muchas inquietudes
+<ul>
+<li>lecturas de los textos fisiocráticos revelan el lugar de <em>primacía que le asignaban a la ley natural</em></li>
+</ul></li>
+</ul>
+</section>
+<section id="quesnay-y-sus-discípulos-cont.-4" class="slide level2 center">
+<h2>Quesnay y sus discípulos (cont.)</h2>
+<ul>
+<li>Produjeron una clasificación (tipificación) de los miembros de la sociedad
+<ul>
+<li>sólo <strong>la agricultura era productiva</strong></li>
+</ul></li>
+<li>No negaron la importancia de otros tipos de trabajo (sectores) pero distinción analítica entre <strong>trabajo productivo</strong> y <strong>trabajo improductivo</strong> (o estéril)</li>
+<li>Las clases productivas consistían en: <strong>agricultores</strong> y <strong>terratenientes (propietarios)</strong>; los <strong>artesanos</strong> eran la clase estéril
+<ul>
+<li><strong>Terratenientes</strong> eran productivos por su contribución de <strong>adelantos</strong> (capital) que hacían fértil la tierra <span class="math inline">\(\longrightarrow\)</span> por ello recibían el <strong>producto neto (<em>produit net</em>)</strong></li>
+<li><strong>Trabajadores</strong> aplicaban su trabajo a la tierra y cobraban salarios de subsistencia</li>
+</ul></li>
+</ul>
+</section>
+<section id="quesnay-y-sus-discípulos-cont.-5" class="slide level2 center">
+<h2>Quesnay y sus discípulos (cont.)</h2>
+<ul>
+<li>Esta idea tenía un fundamento <span class="math inline">\(\longrightarrow\)</span> los terratenientes eran los responsables de <strong>todo impuesto</strong> y que el resto de impuestos debía abolirse</li>
+<li>En base a su clasificaicón erigieron una <strong>teoría de la distribución</strong>
+<ul>
+<li>los trabajos de las clases productivas se concebían como un flujo anual</li>
+<li>el flujo anual se distribuía entre aumentos en los <strong>adelantos</strong> a las clases productivas y compras a las clases no productivas</li>
+</ul></li>
+<li>Idea fundamental <span class="math inline">\(\longrightarrow\)</span> compras (pagos) a las clases no productivas no interfieran con adelantos a los agricultures – recuerde que todos estos pagos salían del <strong>produit net</strong></li>
+<li>Si este era el caso entonces el producto neto sería menor y la economía empeoraría</li>
+</ul>
+</section>
+<section id="quesnay-y-sus-discípulos-cont.-6" class="slide level2 center">
+<h2>Quesnay y sus discípulos (cont.)</h2>
+
+<img data-src="../fig/fig-03-006.png" class="quarto-figure quarto-figure-center r-stretch"></section>
+<section id="quesnay-y-sus-discípulos-cont.-7" class="slide level2 center">
+<h2>Quesnay y sus discípulos (cont.)</h2>
+
+<img data-src="../fig/fig-03-007.png" class="quarto-figure quarto-figure-center r-stretch"></section>
+<section id="quesnay-y-sus-discípulos-cont.-8" class="slide level2 center">
+<h2>Quesnay y sus discípulos (cont.)</h2>
+<ul>
+<li>La idea de un flujo anual de producción y su consecuente distribución está contenida en el famoso <em>Tableau Economique</em> en la figura anterior</li>
+<li>Existen 3 (tres) columnas: 1) la clase productiva de los agricultores, 2) la clase terrateniente que recibía el <em>produit net</em> y 3) la clase estéril</li>
+<li>Se parte de un <em>produit net</em> (terratenientes) y se va distribuyendo entre clase productiva (agricultores) y estéril (manufacturas)
+<ul>
+<li>cada una de estas clases gasta ese ingreso entre clase productiva y clase estéril –los agricultures usan los 1000 para comprar 500 a si mismo (insumos y materiales) y 500 a la clase estéril</li>
+</ul></li>
+</ul>
+</section>
+<section id="quesnay-y-sus-discípulos-cont.-9" class="slide level2 center">
+<h2>Quesnay y sus discípulos (cont.)</h2>
+<blockquote>
+<p><strong>El <em>Tableau Economique</em>.</strong> Terratenientes gastaban 1000 en la clase productiva y 1000 en la clase estéril; la clase estéril gastaba 500 en los productos de la clase productiva y 500 en los productos de la clase estéril. Y así sucesivamente. Este es un esquema estático en el sentido que se realiza cada año con la idea de mantener -periodo tras periodo- el flujo anual del <em>produit net</em>. Con este diagrama, los fisiócratas podían inferir si las sociedades estaban avanzando o declinando. Y de este diagrama dedujeron que <em>todos</em> los impuestos deberían recaer en el <em>produit net</em> –debían eliminarse todos los <em>impuestos intermedios</em>.</p>
+</blockquote>
+</section>
+<section id="quesnay-y-sus-discípulos-cont.-10" class="slide level2 center">
+<h2>Quesnay y sus discípulos (cont.)</h2>
+<ul>
+<li>¿Era sólo semántica la distinción entre clases y roles? La intuición es que no y que los fisiócratas entendían que <strong>sólo el producto de la agricultura y la extracción producían un excedente</strong> <span class="math inline">\(\longrightarrow\)</span> sólo estos producían <strong>nuevas riquezas</strong>
+<ul>
+<li>el resto de los trabajos sólo cubrían sus costos de producción</li>
+</ul></li>
+<li>Adam Smith luego criticaría pero retendría la distinción entre trabajo productivo e improductivo
+<ul>
+<li>pero la distinción era entre trabajo que dejaba <em>algo en términos de acumulación (capital)</em> y aquel no</li>
+</ul></li>
+<li>En el caso de Smith el trabajo improductivo no agregaba riqueza en el sentido de riqueza de capital <span class="math inline">\(\longrightarrow\)</span> bastante más relevante que la distinción de los fisiócratas</li>
+</ul>
+</section>
+<section id="quesnay-y-sus-discípulos-cont.-11" class="slide level2 center">
+<h2>Quesnay y sus discípulos (cont.)</h2>
+<ul>
+<li>Un punto importante es que los <strong>fisiócratas crearon un sistema de análisis</strong> <span class="math inline">\(\longrightarrow\)</span> el <em>Tableau Economique</em> no es otra cosa que un sistema de relaciones
+<ul>
+<li>el mérito principal es que se dieron cuenta de que mirando al sistema en general podían explicar <strong>variaciones en las relaciones del sistema como un todo</strong></li>
+</ul></li>
+<li>Otro mérito fue que no sólo vieron al sistema interconectado en un momento del tiempo sino también <strong>interconectado a través del tiempo</strong>
+<ul>
+<li>el foco estaba puesto <strong>no en la riqueza <em>per se</em> sino en la circulacíon de la riqueza!</strong></li>
+</ul></li>
+</ul>
+</section>
+<section id="quesnay-y-sus-discípulos-cont.-12" class="slide level2 center">
+<h2>Quesnay y sus discípulos (cont.)</h2>
+<blockquote>
+<p><strong>¿Cuál es el <em>status</em> del <em>Tableau Economique</em> en la HPE?</strong> Adam Smith pensaba que estaba basado en una <em>falacia</em> –la división “factica” de clases no solamente verbal. ¿Es un precedente de Walras y su sistema de equilibrio general? No, al menos en las características esenciales del sistema walrasiano. El sistema fisiocrático <em>no era un sistema estable</em> –no había ni mecanismo ni fuerzas que garantizaran equilibrio. No hay relación entre precios relativos y producción/distribución de recursos. Tampoco guarda relación con el sistema keynesiano –hay un precedente de flujo circular gasto-ingreso pero no multiplicador. Tampoco relación con dinámica post-keynesiana –no es un sistema dinámico <em>genuino</em> más bien la dinámica se introduce a partir de estática comparativa entre períodos</p>
+</blockquote>
+</section>
+<section id="quesnay-y-sus-discípulos-cont.-13" class="slide level2 center">
+<h2>Quesnay y sus discípulos (cont.)</h2>
+<ul>
+<li>Tal vez una opinión justa y mesurada es que el <em>Tableau Economique</em> puede ser reescrito como un sistema de Leontief –matriz insumo-producto.</li>
+<li>Tampoco fueron un precedente de teorías primitivas de sub-consumo <span class="math inline">\(\longrightarrow\)</span> sólo puede decirse que se opusieron a consumos de lujo si interferían con el mantenimiento del <em>produit net</em></li>
+</ul>
+</section>
+<section id="la-simple-y-accesibilidad-de-turgot-1727-1781" class="slide level2 center">
+<h2>La simple y accesibilidad de Turgot [1727-1781]</h2>
+<ul>
+<li>Fue de hecho Turgot quien definió las dos clases como las de “los <em>Cultivadores</em> –clase productiva- y la de los <em>Artesanos</em> –clase estipendiaria.”</li>
+<li>En cierta manera, Turgot tuvo la característica de escribir en un lenguaje mucho más común que era el lenguaje típico de Quesnay y los fisiócratas
+<ul>
+<li>en efecto, Turgot era amigo de los fisiócratas y escribió en la misma linea</li>
+</ul></li>
+<li>Escribe sobre la importancia de la tierra, la desigualdad en su distribución y las diferentes clases</li>
+</ul>
+</section>
+<section id="la-simpleza-y-accesibilidad-de-turgot-1727-1781-cont." class="slide level2 center">
+<h2>La simpleza y accesibilidad de Turgot [1727-1781] (cont.)</h2>
+<blockquote>
+<p>There is another way of being wealthy without working and without possessing land of which I have not yet spoken. It is necessary to explain its origin and its relation with the rest of the system of the distribution of wealth in society, of which I have just sketched the outlines…Each commodity can serve as a scale or common measure with which to compare the value of all others <strong>[Turgot <em>Reflections on the Formation and the Distribution of Wealth</em> (1770), pp.&nbsp;134-135]</strong></p>
+</blockquote>
+</section>
+<section id="la-simpleza-y-accesibilidad-de-turgot-1727-1781-cont.-1" class="slide level2 center">
+<h2>La simpleza y accesibilidad de Turgot [1727-1781] (cont.)</h2>
+<ul>
+<li>La obra e ideas de Turgot realmente son interesantes. En cierta manera, simplifican, aclaran y amplian algunas de las ideas de Quesnay</li>
+<li>Turgot escribió sobre la moneda ideal y las funciones del dinero para facilitar la separación de diferentes trabajos</li>
+<li>Habla sobre la “reserva del producto anual, acumulado para formar capitales” y sobre “la necesidad de adelantos en la agricultura” antes de generar el <em>produit net</em>
+<ul>
+<li>empleos de adelantos pueden ser ya bien en “compra de tierras” o también en “adelantos para manufacturas y emprendimientos industriales”</li>
+</ul></li>
+</ul>
+<div class="quarto-auto-generated-content">
+<div class="footer footer-default">
+
+</div>
+</div>
+</section></section>
+    </div>
+  </div>
+
+  <script>window.backupDefine = window.define; window.define = undefined;</script>
+  <script src="lect03_files/libs/revealjs/dist/reveal.js"></script>
+  <!-- reveal.js plugins -->
+  <script src="lect03_files/libs/revealjs/plugin/quarto-line-highlight/line-highlight.js"></script>
+  <script src="lect03_files/libs/revealjs/plugin/pdf-export/pdfexport.js"></script>
+  <script src="lect03_files/libs/revealjs/plugin/reveal-menu/menu.js"></script>
+  <script src="lect03_files/libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
+  <script src="lect03_files/libs/revealjs/plugin/reveal-chalkboard/plugin.js"></script>
+  <script src="lect03_files/libs/revealjs/plugin/quarto-support/support.js"></script>
+  
+
+  <script src="lect03_files/libs/revealjs/plugin/notes/notes.js"></script>
+  <script src="lect03_files/libs/revealjs/plugin/search/search.js"></script>
+  <script src="lect03_files/libs/revealjs/plugin/zoom/zoom.js"></script>
+  <script src="lect03_files/libs/revealjs/plugin/math/math.js"></script>
+  <script>window.define = window.backupDefine; window.backupDefine = undefined;</script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://revealjs.com/config/
+      Reveal.initialize({
+'controlsAuto': true,
+'previewLinksAuto': true,
+'pdfSeparateFragments': false,
+'autoAnimateEasing': "ease",
+'autoAnimateDuration': 1,
+'autoAnimateUnmatched': true,
+'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"<i class=\"fas fa-gear\"></i>","content":"<ul class=\"slide-menu-items\">\n<li class=\"slide-tool-item active\" data-item=\"0\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\"><kbd>f</kbd> Fullscreen</a></li>\n<li class=\"slide-tool-item\" data-item=\"1\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\"><kbd>s</kbd> Speaker View</a></li>\n<li class=\"slide-tool-item\" data-item=\"2\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>o</kbd> Slide Overview</a></li>\n<li class=\"slide-tool-item\" data-item=\"3\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.togglePdfExport(event)\"><kbd>e</kbd> PDF Export Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"4\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleChalkboard(event)\"><kbd>b</kbd> Toggle Chalkboard</a></li>\n<li class=\"slide-tool-item\" data-item=\"5\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleNotesCanvas(event)\"><kbd>c</kbd> Toggle Notes Canvas</a></li>\n<li class=\"slide-tool-item\" data-item=\"6\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.downloadDrawings(event)\"><kbd>d</kbd> Download Drawings</a></li>\n<li class=\"slide-tool-item\" data-item=\"7\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\"><kbd>?</kbd> Keyboard Help</a></li>\n</ul>"}],"openButton":true},
+'chalkboard': {"buttons":false},
+'smaller': false,
+ 
+        // Display controls in the bottom right corner
+        controls: false,
+
+        // Help the user learn the controls by providing hints, for example by
+        // bouncing the down arrow when they first encounter a vertical slide
+        controlsTutorial: false,
+
+        // Determines where controls appear, "edges" or "bottom-right"
+        controlsLayout: 'edges',
+
+        // Visibility rule for backwards navigation arrows; "faded", "hidden"
+        // or "visible"
+        controlsBackArrows: 'faded',
+
+        // Display a presentation progress bar
+        progress: true,
+
+        // Display the page number of the current slide
+        slideNumber: 'c/t',
+
+        // 'all', 'print', or 'speaker'
+        showSlideNumber: 'all',
+
+        // Add the current slide number to the URL hash so that reloading the
+        // page/copying the URL will return you to the same slide
+        hash: true,
+
+        // Start with 1 for the hash rather than 0
+        hashOneBasedIndex: false,
+
+        // Flags if we should monitor the hash and change slides accordingly
+        respondToHashChanges: true,
+
+        // Push each slide change to the browser history
+        history: true,
+
+        // Enable keyboard shortcuts for navigation
+        keyboard: true,
+
+        // Enable the slide overview mode
+        overview: true,
+
+        // Disables the default reveal.js slide layout (scaling and centering)
+        // so that you can use custom CSS layout
+        disableLayout: false,
+
+        // Vertical centering of slides
+        center: true,
+
+        // Enables touch navigation on devices with touch input
+        touch: true,
+
+        // Loop the presentation
+        loop: false,
+
+        // Change the presentation direction to be RTL
+        rtl: false,
+
+        // see https://revealjs.com/vertical-slides/#navigation-mode
+        navigationMode: 'linear',
+
+        // Randomizes the order of slides each time the presentation loads
+        shuffle: false,
+
+        // Turns fragments on and off globally
+        fragments: true,
+
+        // Flags whether to include the current fragment in the URL,
+        // so that reloading brings you to the same fragment position
+        fragmentInURL: false,
+
+        // Flags if the presentation is running in an embedded mode,
+        // i.e. contained within a limited portion of the screen
+        embedded: false,
+
+        // Flags if we should show a help overlay when the questionmark
+        // key is pressed
+        help: true,
+
+        // Flags if it should be possible to pause the presentation (blackout)
+        pause: true,
+
+        // Flags if speaker notes should be visible to all viewers
+        showNotes: false,
+
+        // Global override for autoplaying embedded media (null/true/false)
+        autoPlayMedia: null,
+
+        // Global override for preloading lazy-loaded iframes (null/true/false)
+        preloadIframes: null,
+
+        // Number of milliseconds between automatically proceeding to the
+        // next slide, disabled when set to 0, this value can be overwritten
+        // by using a data-autoslide attribute on your slides
+        autoSlide: 0,
+
+        // Stop auto-sliding after user input
+        autoSlideStoppable: true,
+
+        // Use this method for navigation when auto-sliding
+        autoSlideMethod: null,
+
+        // Specify the average time in seconds that you think you will spend
+        // presenting each slide. This is used to show a pacing timer in the
+        // speaker view
+        defaultTiming: null,
+
+        // Enable slide navigation via mouse wheel
+        mouseWheel: false,
+
+        // The display mode that will be used to show slides
+        display: 'block',
+
+        // Hide cursor if inactive
+        hideInactiveCursor: true,
+
+        // Time before the cursor is hidden (in ms)
+        hideCursorTime: 5000,
+
+        // Opens links in an iframe preview overlay
+        previewLinks: false,
+
+        // Transition style (none/fade/slide/convex/concave/zoom)
+        transition: 'none',
+
+        // Transition speed (default/fast/slow)
+        transitionSpeed: 'default',
+
+        // Transition style for full page slide backgrounds
+        // (none/fade/slide/convex/concave/zoom)
+        backgroundTransition: 'none',
+
+        // Number of slides away from the current that are visible
+        viewDistance: 3,
+
+        // Number of slides away from the current that are visible on mobile
+        // devices. It is advisable to set this to a lower number than
+        // viewDistance in order to save resources.
+        mobileViewDistance: 2,
+
+        // The "normal" size of the presentation, aspect ratio will be preserved
+        // when the presentation is scaled to fit different resolutions. Can be
+        // specified using percentage units.
+        width: 1500,
+
+        height: 700,
+
+        // Factor of the display size that should remain empty around the content
+        margin: 0.1,
+
+        math: {
+          mathjax: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js',
+          config: 'TeX-AMS_HTML-full',
+          tex2jax: {
+            inlineMath: [['\\(','\\)']],
+            displayMath: [['\\[','\\]']],
+            balanceBraces: true,
+            processEscapes: false,
+            processRefs: true,
+            processEnvironments: true,
+            preview: 'TeX',
+            skipTags: ['script','noscript','style','textarea','pre','code'],
+            ignoreClass: 'tex2jax_ignore',
+            processClass: 'tex2jax_process'
+          },
+        },
+
+        // reveal.js plugins
+        plugins: [QuartoLineHighlight, PdfExport, RevealMenu, RevealChalkboard, QuartoSupport,
+
+          RevealMath,
+          RevealNotes,
+          RevealSearch,
+          RevealZoom
+        ]
+      });
+    </script>
+    <script id="quarto-html-after-body" type="application/javascript">
+    window.document.addEventListener("DOMContentLoaded", function (event) {
+      const toggleBodyColorMode = (bsSheetEl) => {
+        const mode = bsSheetEl.getAttribute("data-mode");
+        const bodyEl = window.document.querySelector("body");
+        if (mode === "dark") {
+          bodyEl.classList.add("quarto-dark");
+          bodyEl.classList.remove("quarto-light");
+        } else {
+          bodyEl.classList.add("quarto-light");
+          bodyEl.classList.remove("quarto-dark");
+        }
+      }
+      const toggleBodyColorPrimary = () => {
+        const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+        if (bsSheetEl) {
+          toggleBodyColorMode(bsSheetEl);
+        }
+      }
+      toggleBodyColorPrimary();  
+      const tabsets =  window.document.querySelectorAll(".panel-tabset-tabby")
+      tabsets.forEach(function(tabset) {
+        const tabby = new Tabby('#' + tabset.id);
+      });
+      const isCodeAnnotation = (el) => {
+        for (const clz of el.classList) {
+          if (clz.startsWith('code-annotation-')) {                     
+            return true;
+          }
+        }
+        return false;
+      }
+      const onCopySuccess = function(e) {
+        // button target
+        const button = e.trigger;
+        // don't keep focus
+        button.blur();
+        // flash "checked"
+        button.classList.add('code-copy-button-checked');
+        var currentTitle = button.getAttribute("title");
+        button.setAttribute("title", "Copied!");
+        let tooltip;
+        if (window.bootstrap) {
+          button.setAttribute("data-bs-toggle", "tooltip");
+          button.setAttribute("data-bs-placement", "left");
+          button.setAttribute("data-bs-title", "Copied!");
+          tooltip = new bootstrap.Tooltip(button, 
+            { trigger: "manual", 
+              customClass: "code-copy-button-tooltip",
+              offset: [0, -8]});
+          tooltip.show();    
+        }
+        setTimeout(function() {
+          if (tooltip) {
+            tooltip.hide();
+            button.removeAttribute("data-bs-title");
+            button.removeAttribute("data-bs-toggle");
+            button.removeAttribute("data-bs-placement");
+          }
+          button.setAttribute("title", currentTitle);
+          button.classList.remove('code-copy-button-checked');
+        }, 1000);
+        // clear code selection
+        e.clearSelection();
+      }
+      const getTextToCopy = function(trigger) {
+          const codeEl = trigger.previousElementSibling.cloneNode(true);
+          for (const childEl of codeEl.children) {
+            if (isCodeAnnotation(childEl)) {
+              childEl.remove();
+            }
+          }
+          return codeEl.innerText;
+      }
+      const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+        text: getTextToCopy
+      });
+      clipboard.on('success', onCopySuccess);
+      if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+        // For code content inside modals, clipBoardJS needs to be initialized with a container option
+        // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+        const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+          text: getTextToCopy,
+          container: window.document.getElementById('quarto-embedded-source-code-modal')
+        });
+        clipboardModal.on('success', onCopySuccess);
+      }
+        var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+        var mailtoRegex = new RegExp(/^mailto:/);
+          var filterRegex = new RegExp('/' + window.location.host + '/');
+        var isInternal = (href) => {
+            return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+        }
+        // Inspect non-navigation links and adorn them if external
+     	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+        for (var i=0; i<links.length; i++) {
+          const link = links[i];
+          if (!isInternal(link.href)) {
+            // undo the damage that might have been done by quarto-nav.js in the case of
+            // links that we want to consider external
+            if (link.dataset.originalHref !== undefined) {
+              link.href = link.dataset.originalHref;
+            }
+              // target, if specified
+              link.setAttribute("target", "_blank");
+              if (link.getAttribute("rel") === null) {
+                link.setAttribute("rel", "noopener");
+              }
+          }
+        }
+      function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+        const config = {
+          allowHTML: true,
+          maxWidth: 500,
+          delay: 100,
+          arrow: false,
+          appendTo: function(el) {
+              return el.closest('section.slide') || el.parentElement;
+          },
+          interactive: true,
+          interactiveBorder: 10,
+          theme: 'light-border',
+          placement: 'bottom-start',
+        };
+        if (contentFn) {
+          config.content = contentFn;
+        }
+        if (onTriggerFn) {
+          config.onTrigger = onTriggerFn;
+        }
+        if (onUntriggerFn) {
+          config.onUntrigger = onUntriggerFn;
+        }
+          config['offset'] = [0,0];
+          config['maxWidth'] = 700;
+        window.tippy(el, config); 
+      }
+      const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+      for (var i=0; i<noterefs.length; i++) {
+        const ref = noterefs[i];
+        tippyHover(ref, function() {
+          // use id or data attribute instead here
+          let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+          try { href = new URL(href).hash; } catch {}
+          const id = href.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note) {
+            return note.innerHTML;
+          } else {
+            return "";
+          }
+        });
+      }
+      const findCites = (el) => {
+        const parentEl = el.parentElement;
+        if (parentEl) {
+          const cites = parentEl.dataset.cites;
+          if (cites) {
+            return {
+              el,
+              cites: cites.split(' ')
+            };
+          } else {
+            return findCites(el.parentElement)
+          }
+        } else {
+          return undefined;
+        }
+      };
+      var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+      for (var i=0; i<bibliorefs.length; i++) {
+        const ref = bibliorefs[i];
+        const citeInfo = findCites(ref);
+        if (citeInfo) {
+          tippyHover(citeInfo.el, function() {
+            var popup = window.document.createElement('div');
+            citeInfo.cites.forEach(function(cite) {
+              var citeDiv = window.document.createElement('div');
+              citeDiv.classList.add('hanging-indent');
+              citeDiv.classList.add('csl-entry');
+              var biblioDiv = window.document.getElementById('ref-' + cite);
+              if (biblioDiv) {
+                citeDiv.innerHTML = biblioDiv.innerHTML;
+              }
+              popup.appendChild(citeDiv);
+            });
+            return popup.innerHTML;
+          });
+        }
+      }
+    });
+    </script>
+    
+
+</body></html>
