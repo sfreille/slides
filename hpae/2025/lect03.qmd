@@ -428,7 +428,93 @@ disminución de C
   mercantilismo francés.
 
 
-# **La transición liberal y los primeros "padres fundadores"** {background="#390040"}
+# **La filosofía del individualismo. La transición liberal y los primeros "padres fundadores"**** {background="#390040"}
+
+## El capitalismo: Acumulación y capital.
+
+> La clase capitalista fue la gran beneficiada de la revolución de
+> los precios. Recibía ganancias cada vez mayores y pagaba salarios e
+> insumos (reales) cada vez menores. Estas grandes ganancias se
+> acumulaban en forma de capital. El capital se refiere a los
+> materiales necesarios para la producción, el intercambio y el
+> comercio y consiste de todas aquellas herramientas, equipamiento,
+> fábricas materias primas, bienes intermedios, transporte y
+> dinero. Idea distintiva: existen medios físicos de producción en
+> cualquier sistema pero sólo pueden ser capital en un contexto social
+> en que existan relaciones sociales que son necesarias para la
+> producción de mercancías y propiedad privada. El capital, entonces
+> es más que simples objetos físicos, refiere también a un conjunto
+> complejo de relaciones sociales.
+
+## El capitalismo: Características
+
+- El capitalismo puede ser definido y entendido como un **modo de
+  producción** que es caracterizado por las **fuerzas de producción**
+  y las **relaciones sociales de producción**
+- El capitalismo se caracteriza por cuatro conjuntos de arreglos
+  institucionales y/o comportamentales
+  1. Producción de mercancías orientada al mercado
+  2. Propiedad privada de los medios de producción
+  3. Una proporción importante de la sociedad que no podría existir a
+     menos que vendiera sus servicios (de fuerza) de trabajo en el
+     mercado
+  4. Un comportamiento individualista, adquisitivo y maximizador por
+     parte la mayoría de los individuos
+ 
+## Transiciones en los hechos y las ideas
+
+- Pobreza de los escritos mercantilistas no por carencias
+  intelectuales/teóricas sino que su foco en la compra y
+  venta (comercio) antes que en la producción como fuente de ganancias
+  y riquezas se debió a las realidades de su época
+  - capital comercial vinculado con propiedad de medios de compra,
+  transporte y venta; capital industrial con la propiedad de los
+  medios de producción
+- Gradual caída en descrédito de ideas y doctrinas mercantilistas:
+  1. el aumento del comercio y el crecimiento de la competencia
+     (especialmente intra-pais) $\longrightarrow$ reducción y
+     convergencia de precios
+  2. integración capitalista de procesos de producción y comercio
+     $\longrightarrow$ emerge la figura del productor-capitalista
+
+## Cambios en los hechos
+
+- Primero, comerciantes buscaron mayor control sobre la producción a
+  través del **sistema de taller doméstico (putting-out system)**
+  - metodo de sub-contratación de trabajo donde el mercador brindaba
+    insumos y materias primas, trabajadores lo producían en hogar y
+    luego devolvían producto terminado para la venta
+- Luego, los maestros del gremio empezaron gradualmente a pasar de
+  trabajadores junto con sus aprendices a organizar y controlar todo
+  el proceso productivo
+  - maestros devinieron en empleadores --*"productores-capitalistas"*, para nuestros
+    propósitos
+	- aprendices y otros se convirtieron en meros empleados sin
+      capacidad (o posibilidad) de ser empleadores
+- *Productores-capitalistas* tenían intereses opuestos a *mercaderes-capitalistas*	
+	
+## Cambios en las ideas
+
+- Una parte importante de los filósofos y otros pensadores rechazaban
+  cada vez más la visión paternalista estatal y la regulación 
+  - empezaron a formular una **nueva filosofía del individualismo**
+    $\longrightarrow$ egoísmo motivo principal de conducta humana;
+    todo acto humano vinculado a la autopreservación; pensadores
+    importantes (Hobbes, Locke)
+- Además, desplazamiento gradual de la idea de que los precios era
+  determinados *primariamente* por oferta, demanda y utilidad a la
+  idea de que los precios eran determinados por las condiciones de
+  producción y que las ganancias se originaban en el proceso
+  productivo. 
+  - impactos posteriores en escuelas heterodoxas
+  
+## Cambios en las ideas (cont.)
+
+> ...the view that the human person ought to be independent,
+> self-directing, autonomous, free --ought to be, that is, an
+> individual, a unit distinguished from the social mass rather than
+> submerged in it 
+[McDonald, **Western Political Theory**, pp. 16]
 
 ## El siglo XVII
 
@@ -505,7 +591,6 @@ disminución de C
     - "ilustración de las condiciones y prospectos de la sociedad"
 - Pero no fueron los profesores alemanes quien dieron curso e impulso
   decisivo a estos desarrollos
-
 
 # **Sir William Petty [1623-87]** {background="#390040"}
 
