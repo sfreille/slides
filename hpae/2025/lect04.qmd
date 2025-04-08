@@ -22,7 +22,7 @@ format:
     link-external-newwindow: true
 ---
 
-# Adam Smith: el padre de la economía {background="#43464B"}
+# **Adam Smith: el padre de la economía** {background="#390040"}
 
 ## Economía pre-científica y científica
 
@@ -85,7 +85,7 @@ format:
     francés y el empirismo británico 
 - Referente fundamental en los debates contemporáneos sobre economía, política y filosofía moral.
 
-# Método {background="#43464B"}
+# **Método y filosofía** {background="#390040"}
 
 ## Motivaciones humanas y sentimientos
 
@@ -272,18 +272,22 @@ format:
 - La fuerza que motoriza la transición entre períodos es para Smith el
   egoísmo económico
 
-# La microeconomía de Smith {background="#43464B"}
+# **La microeconomía de Smith** {background="#390040"}
 
-## La teoría del valor
+## Valor y precios
 
 - El tema e hilo central de *La Riqueza de las Naciones* es el
   crecimiento económico. Pero una diferencia con la contribución de
   los fisiócratas es que Smith desarrolló una **teoría del valor**
-- La teoría del valor de Smith aparece cuando discute las reglas que
-  la gente observa "naturalmente" cuando se produce el intercambio
-  de cosas 
-    
-## La teoría del valor (cont.)
+- Una distinción conceptual útil para el desarrollo de la economía
+  - **valor en uso** $\longrightarrow$ utilidad de un objeto particular
+  - **valor en cambio** $\longrightarrow$ capacidad de comprar otros bienes
+- Valor en uso es **un requisito previo** del valor en cambio --¿algo que
+  no tiene utilidad y que nadie desea puede tener valor en cambio?
+  - pero el valor en cambio determinado a partir de elementos
+    diferentes de los que se determina el valor en uso
+	
+## Valor en uso y valor en cambio
 
 > ...la palabra valor tiene dos significados distintos: unas veces
 > expresa la utilidad de un objeto particular, y otras veces la
@@ -297,43 +301,80 @@ format:
 > y, sin embargo, se puede cambiar por una gran cantidad de bienes
 **[Smith, A. *La Riqueza de las Naciones*, Libro I (1776)]**
 
-## La teoría del valor (cont.)
+## Paradoja del valor y matices sobre el valor
 
-- Conocida como la *paradoja del valor*, la economía clásica fue
+- Conocida como la **paradoja del valor**, la economía clásica fue
   incapaz de resolverla --no supieron explicar la existencia y
-  significado de las valoraciones marginales
-- En sus escritos a veces discutía simultaneamente el *trabajo como
-  medida del valor (precio)* del *trabajo como causa del valor*
-  - Idea de que lo que se compra con con dinero/bienes se adquiere con
-    trabajo; no fue original en esto
+  significado de las valoraciones marginales [Smith y los clásicos **no
+  consideran el valor en uso como algo mensurable**]
+- En la economía clásica la referencia al valor es en general valor en
+  cambio pero reconocieron algunos matices de la discusión sobre el
+  valor en función de si el objetivo es:
+  - remontarse al origen de todo --**"fuente" del valor**
+  - facilitar comparaciones entre bienes --**patrón (medida) del
+    valor**
+  - identificar teóricamente cómo se fijan --**determinación del valor
+    de cambio**
 
-## La teoría del valor (cont.)
+## Trabajo y valor
 
-> El valor de una mercancía para la persona que la posee y que no
-> tiene intención de consumirla, sino de intercambiarla por otras
-> mercancías es igual a la cantidad de trabajo de que puede
-> disponer o comprar con la misma. El trabajo es, por tanto, la medida
-> real del valor de cambio de todas las mercancías
+- Inicialmente **centraron el problema del valor en el trabajo** --teoría
+  del valor-trabajo comunes entre filósofos del derecho natural;
+  trabajo y tierra componentes del valor para Petty y Cantillon
+  - los primeros concebían al **valor-trabajo como un índice de
+    sacrificio** para obtener un bien
+  - los segundos concebían al **valor-trabajo como una teoría de los
+    costes de producción física**
+- Smith usó ambas; teoría del
+  valor-trabajo (TVT) propuesta como **teoría del trabajo necesario** y como
+  **teoría del trabajo ordenado**
+  - Discutía *trabajo como medida del valor* y *trabajo como causa del valor*
+
+## Teoría del trabajo "ordenado" 
+
+> Todo hombre es rico o pobre según el grado en que pueda gozar de las cosas necesarias, convenientes y gratas para la vida. Pero una vez establecida la división del trabajo, es sólo una pequeña parte la que se puede procurar con el esfuerzo personal. La mayor parte de ellas se conseguirán mediante el trabajo de otras personas, y será rico o pobre, de acuerdo con la cantidad de trabajo ajeno de que pueda disponer o se halle en condiciones de adquirir. En consecuencia, el valor de cualquier bien, para la persona que lo posee y que no piense usarlo o consumirlo, sino cambiarlo por otros, es igual a la cantidad de trabajo que pueda adquirir o de que pueda disponer por mediación suya. El trabajo, por consiguiente, es la medida real del valor en cambio de toda clase de bienes
 **[Smith, A. *La Riqueza de las Naciones*, Libro I (1776)]**
 
-## La teoría del valor (cont.)
+## Teoría del trabajo "ordenado" (cont.)
 
-- Distinguió entre *precios reales* y *precios nominales* y lo aplicó
-  al precio del trabajo
+- En el pasaje Smith no pretende identificar los factores que
+  determinan el valor de cambio sino que **indicar el patrón con el
+  que medirlos** --la base del tiempo de trabajo sería buena para
+  expresar relaciones de intercambio en terminos cuantitativos
+- Trabajo ordenado da el número de horas de trabajo requeridas para
+  ganar un salario igual al precio del bien
+  - diríamos "dos horas de trabajo *adquieren* (*ordenan*) un kilo de carne 
+- Pero esto no resuelve el tema de la determinación del valor de
+  cambio
 
-> puede decirse que el trabajo, como las mercancías, tiene un precio
-> real y un precio nominal. Se puede considerar que su precio real
-> consiste en la cantidad de las cosas necesarias y convenientes de la
-> vida que se entregan a cambio de él, y su precio nominal en la
-> cantidad de dinero. El trabajador es rico o pobre, está bien o mal
-> retribuido, según el precio real de su trabajo y no según su precio nominal
-**[Smith, A. *La Riqueza de las Naciones*, Libro I (1776)]**
+## Teoría del trabajo necesario
 
-## La teoría del valor (cont.)
+- Según esta teoría, las proporciones de cambio entre dos mercancías
+  son proporcionales a las cantidades de trabajo necesario para
+  producirlas
+  - Smith sólo consideró valida esta teoría en las sociedad primitivas
+- Pero en sociedad modernas (capitalista) los trabajadores no poseen
+  ni el $K$ ni la $T$ que usan en su trabajo
+  - no tiene sentido esta teoría en este tipo de sociedad
+  
+## Teoría del trabajo necesario (cont.)
 
-- También reconoció que luego de los primeros dos períodos de la
-  civilización, el trabajo sólo no puede explicar adecuadamente el
-  precio de mercado
+> En el estado primitivo y rudo de la sociedad, que precede a la
+> acumulación de capital y a la apropiación de la tierra, la única
+> circunstancia que puede servir de norma para el cambio recíproco de
+> diferentes objetos parece ser la proporción entre las distintas
+> cantidades de trabajo que se necesitan para adquirirlos. Si en una
+> nación de cazadores, por ejemplo, cuesta usualmente doble trabajo
+> matar un castor que un ciervo, el castor, naturalmente, se cambiará
+> por o valdrá dos ciervos. Es natural que generalmente es producto
+> del trabajo de dos días o de dos horas valga el doble que la que es
+> consecuencia de un día o de una hora 
+
+## Teoría del trabajo necesario (cont.)
+
+- En este pasaje reconoció lo dicho anteriormente sobre el trabajo
+  como explicación *única* del precio de mercado luego de los primeros dos
+  períodos de la civilización
 
 > Los salarios, el beneficio y la renta son las tres fuentes
 > originarias de todo el ingreso, así como de todo valor de
@@ -341,27 +382,93 @@ format:
 > deriva en última instancia de alguna de esas tres 
 **[Smith, A. *La Riqueza de las Naciones*, Libro I (1776)]**
 
-## La teoría del valor (cont.)
+## Valor de cambio: determinación
 
-- Y en este punto reconoció e identificó el concepto de **costo de
-  oportunidad**
-  - note que Smith sólo creía válida la teoría del valor trabajo (TVT)
-    como *fuente* de valor sólo aplicaban a sociedades primitivas
+- Distinguió entre **precio de mercado** --precio observado en el
+  mercado- y **precio natural** --precio teórico que expresa
+  condiciones de reproducción del proceso productivo
 
-> ...aunque en el lenguaje corriente lo que se llama el coste primario
-> no comprende el beneficio de la persona que la revende, si esta no
-> la vende a un precio que le permita obtener la tasa ordinaria de
-> beneficios en su vecindad se le considerará perdedor en su negocio,
-> ya que empleando su capital de cualquier otra forma podría haber
-> obtenido dicho beneficio
+> Cuando el precio de una cosa no es ni más ni menos que el suficiente
+> para pagar la renta de la tierra, los salarios del trabajo y los
+> beneficios del capital empleado en obtenerla, prepararla y traerla
+> al mercado, de acuerdo con sus precios corrientes, aquélla se vende
+> por lo que se llama su **precio natural**. [...] El precio al que se
+> vende comúnmente la mercancía se llama **precio de mercado**.
+
+## Valor de cambio: determinación (cont.)
+
+- Smith refiere a **costos de producción** pero es insuficiente como
+  teoría de los precios $\longrightarrow$ si se necesita acero para
+  producir carbón y carbón para producir acero no se puede determinar
+  el precio del carbón si no se lo conoce de antemano; el argumento
+  resulta en **circularidad**!
+  - aquí Petty y Cantillon parecen haber sido más refinados usando el
+    principo del trabajo necesario
+- La determinación del valor de cambio es un tema no resuelto en Smith
+  $\longrightarrow$ sugirió también la **teoría de la suma de los
+  componentes**
+
+  
+## Valor de cambio: determinación (cont.)
+
+> La teoría del valor natural explica el precio en términos del coste
+> de producción. Pero los costes son precios. Se hacen pagos para
+> comprar (alquilar) los diferentes factores. En definitiva, la teoría
+> del valor natural explica los precios por medio de los precios! Una
+> teoría completa del valor debe explicar las *causas* y *fundamentos*
+> de los pagos que se realizan a los factores 
 **[Smith, A. *La Riqueza de las Naciones*, Libro I (1776)]**
+
+## Valor de cambio: determinación (cont.)
+
+> **Costo $\longrightarrow$ precio**. Esta formulación
+> analítica introduce severos problemas. Los **costos explican
+> precios**. Pero los **costos a su vez son precios**. De este modo, o
+> el costo es explicado por el precio del bien final (loop infinito) o
+> por otro costo (cadena infinita de costos). **Ejemplo.** El precio
+> del pan es determinado por el costo del trabajo (del capital y de la
+> tierra). Pero el costo del trabajo es determinado por el costo de
+> necesidades primarias como el pan, cuyo precio depende a su vez del
+> precio del trabajo. 
+
+
+## Valor de cambio: determinación (cont.)
+
+![](../fig/fig-04-adam-smith-loop.png){fig-align="center"}
+
+## Valor de cambio: determinación (cont.)
+
+- Esta teoría implica que el **precio de una mercancía** corresponde a los
+  salarios, beneficios y rentas más los costes soportados (incurridos)
+  por los factores diferentes de la tierra y el trabajo, es decir, los
+  salarios, beneficios y rentas del capital (medios de producción) y
+  así hasta el origen
+
+\begin{align}
+p=w+\pi+r
+\end{align}
+
+- el **valor de una mercancía pues depende de la tecnología y de los
+  "tipos" naturales de salario, renta y beneficio**
+
+## Valor de cambio: determinación (cont.)
+
+- Problema con esto (crítica de Ricardo) $\longrightarrow$ un aumento
+  de (la tasa de) salario debe producir un aumento del precio al mismo
+  tiempo que no se modifica (la tasa de) beneficio $\longrightarrow$
+  lo cual no era observable
+  - sólo viable si los pagos a los tres factores son independientes!
+- La **teoría de la suma de los componentes** no resuelve el problema
+  de la determinación de los valores de cambio $\longrightarrow$ más
+  apropiada como antecedente de contabilidad nacional --i.e. teoría
+  distributiva del $Y$
 
 ## Precio de mercado y precio natural
 
 - Establece una dicotomía entre *precio natural* y *precio de mercado
   (precio real)*
-  1. *Precio real* $\longrightarrow$ se determina por interacción de $O$
-     y $D$ a corto plazo
+  1. *Precio de mercado (precio real)* $\longrightarrow$ se determina
+     por interacción de $O$ y $D$ a corto plazo
   2. *Precio natural* $\longrightarrow$ se determina por costos de
      producción a largo plazo
 - Si bien no tiene la claridad del análisis marshalliano, puede
@@ -440,23 +547,38 @@ format:
     --antecedente de Walras
 - Importante contribución pero con algún elemento residual de
   explicación tautológica
-  
+
+
 ## Precio de mercado y precio natural (cont.)
 
-> La teoría del valor natural explica el precio en términos del coste
-> de producción. Pero los costes son precios. Se hacen pagos para
-> comprar (alquilar) los diferentes factores. En definitiva, la teoría
-> del valor natural explica los precios por medio de los precios! Una
-> teoría completa del valor debe explicar las *causas* y *fundamentos*
-> de los pagos que se realizan a los factores 
-**[Smith, A. *La Riqueza de las Naciones*, Libro I (1776)]**
+- En conclusión, **Adam Smith no provee una teoría completamente
+  adecuada de los valores de cambio** $\longrightarrow$ lo que si
+  proporciona es una teoría del trabajo ordenado que es simplemente
+  una indicación de cómo medir los precios de las mercancías
+- Sólo con **David Ricardo la teoría del valor en su sentido moderno de
+  teoría de los precios relativos toma el centro de la escena**. 
 
 ## Los factores de producción
 
-- Smith no desarrolló una teoría satisfactoria de la determinación de
-  salarios $w$, renta $r$ y beneficio $\pi$ aunque si ofreció
-  intuiciones
-- 
+- A diferencia de sus predecesores, Smith fue de los primeros que
+  **dividió a la sociedad en 3 (tres) clases o grupos sociales**
+  - Trabajadores $\longrightarrow$ salario
+  - Capitalistas (empresarios) $\longrightarrow$ beneficio
+  - Terratenientes $\longrightarrow$ renta 
+- Sin embargo, **Smith no desarrolló una teoría satisfactoria de la
+  determinación los precios de los factores**: salarios $w$, renta $r$
+  y beneficio $\pi$ aunque si ofreció algunas intuiciones
+
+## Los factores de producción (cont.)
+
+- Razonaba que los **trabajadores recibían un salario estrictamente de
+  supervivencia** (por asimetrías de poder y negociación)
+- **Ingresos de capitalistas y terratenientes** --beneficios y rentas-,
+  podían **considerarse como excedente**
+  - para Smith el excedente es la parte del ingreso que excede a lo
+    que es necesario para reconstituir el stock inicial de medios de
+    producción y subsistencia (trabajadores)
+- En el proceso de crecimiento, **aumentan las rentas** y **disminuyen los beneficios** (competencia de los capitales)
 
 ## Los factores de producción: salario
 
@@ -579,7 +701,7 @@ format:
     productividad de la tierra en su mejor uso alternativo
   
 
-# La macroeconomía de Smith {background="#43464B"}
+# **La macroeconomía de Smith** {background="#390040"}
 
 ## La organización productiva
 
@@ -587,8 +709,29 @@ format:
   partida de la **teoría de crecimiento económico de Smith**
 - Explica con ejemplos y aplicaciones las **ganancias de la
   especialización y de la división de trabajo**
+- División del trabajo no es un fenómeno nuevo pero Smith es el
+  **primero en ubicarla en el centro de su análisis** aplicado al
+  crecimiento y niveles de vida de un país
+  - razones para la división de trabajo en Platón --provenían más de
+    la naturaleza, diferencias *innatas* 
+  - Smith privlegia **rol de la educación y la experiencia**
+  
+## Riqueza nacional y trabajo
 
-## La organización productiva (cont.)
+- "...la riqueza de las naciones" viene dada por el
+  ingreso per capita --i.e. nivel de vida la población. Sean la renta
+  nacional, $Y$, la cantidad de producto obtenida en promedio por cada
+  trabajador mult. por el nro. de trabajadores empleados. Dividiendo
+  por $N$ (población total)
+
+\begin{align}
+Y&=\pi L \\
+\frac{Y}{N}&=\pi\frac{L}{N}
+\end{align}
+
+- tenemos que el **nivel de vida depende de 2 factores**: 1) la proporción de ciudadanos empleados; 2) la productividad de su trabajo
+
+## La fábrica de alfileres
 
 - Una de las más famosas anécdotas en la economía es la famosa
   alegoría de Smith de **la fábrica de alfileres** 
@@ -599,22 +742,38 @@ format:
 > aplicado, parecen haber sido los efectos de la división del trabajo
 **[Smith, A. *La Riqueza de las Naciones*, Libro I (1776)]**
 
-## La organización productiva (cont.)
+## Productividad y división del trabajo
 
-- Enumera las *causas* del incremento en la cantidad de trabajo que,
-  como consecuencia de la división del trabajo, cada trabajador puede realizar:
+> Según Adam Smith, la productividad del trabajo depende
+> principalmente del nivel y extensión alcanzado por la división del
+> trabajo y a su vez este depende de la dimensión y tamaño de los
+> mercados. 
+
+- identifica 3 circunstancias que **vinculan la productividad con la
+  división del trabajo**: 
   1. El aumento en la destreza en cada uno de los trabajadores
      individuales
   2. El ahorro de tiempo que se suele perder en pasar de un tipo
      (puesto) de trabajo a otro
   3. La invención de un gran número de máquinas que facilitan y
      abrevian la tarea 
-- Contraste esto con las razones para la división de trabajo que
-  brindaba Platón --que provenían más de la naturaleza, diferencias
-  *innatas* 
-  - Privilegia Smith el **rol de la educación y la experiencia**
 
-## La organización productiva (cont.)
+## División del trabajo y tamaño del mercado
+
+- Cuando una empresa se expande aumenta su producción tanto por el
+  aumento de trabajadores como por el aumento de productividad. La
+  tabla muestra un ejemplo.
+  
+| **Empresa** 	| **L** 	| **Y** 	| **Var Y** 	| **Var L** 	| **Var Pi** 	|
+|-------------	|-------	|-------	|-----------	|-----------	|------------	|
+| A           	| 1     	| 10    	|           	|           	|            	|
+| B           	| 10    	| 50000 	| 5000%     	| 10%       	| 500%       	|
+  
+- toda restricción al tamaño (crecimiento) del mercado es por lo tanto
+  opuesta tajantamente por Smith
+
+
+## La base de la riqueza y el crecimiento
 
 > <span style=" font-size:25px; line-height:0.5; padding:0">Si se observan las comodidades del más común de los artesanos o
 > jornaleros en un país civilizado y próspero se ve que el número de
@@ -635,7 +794,7 @@ format:
 > que a menudo proceden de los rincones mas remotos del mundo!
 **[Smith, A. *La Riqueza de las Naciones*, Libro I (1776)]**
 
-## La organización productiva (cont.)
+## La base de la riqueza y el crecimiento (cont.)
 
 > <span style=" font-size:25px; line-height:0.5; padding:0"> si
 > examinamos, repito, todas esas cosas, y observamos qué variedad de
@@ -653,7 +812,7 @@ format:
 **[Smith, A. *La Riqueza de las Naciones*, Libro I (1776)]**
 
 
-## La organización productiva (cont.)
+## La base de la riqueza y el crecimiento (cont.) 
 
 > It is the great multiplication of the productions of all the
 > different arts, in consequence of the division of labour, which
@@ -661,20 +820,24 @@ format:
 > lowest ranks of the people
 **[Adam Smith, *The Wealth of Nations, Libro I (1776)]** 
 
-## La riqueza nacional y el crecimiento económico
+## Riqueza nacional y crecimiento económico
+
+![](../fig/fig-04-adam-smith-growth.png){fig-align="center"}
+
+## Riqueza y tipos de trabajo
 
 - Discrepaba fuertemente con los mercantilistas sobre lo que era
   riqueza $\longrightarrow$ "el valor de cambio del producto anual de
   la tierra y el trabajo del país"
   - Pero $\longrightarrow$ sólo consideraba que riqueza involucraba
-    producción de bienes físicos y cayó en la desafortunada distinción
-    entre trabajo productivo (bienes tangibles) e improductivo (cosas
+    producción de bienes físicos y cayó en la desafortunada **distinción
+    entre trabajo productivo** (bienes tangibles) e **improductivo** (cosas
     intangibles) --esencialmente todo servicio era improductivo!
 - Como dijimos antes, Smith en realidad pretendía distinguir entre
     actividades que aumentan la inversión y aquellas que no (sólo
     satisfacen consumo) 
 	
-## La riqueza nacional y el crecimiento económico (cont.)
+## Acumulación de $K$
 
 - La división de trabajo pone en marcha el proceso de crecimiento es
   la **acumulación de $K$** lo que mantiene el proceso
@@ -686,8 +849,7 @@ format:
 - El crecimiento es así un fenómeno continuo y la restricción última a
   este crecimiento es la dificultad de encontrar inversiones rentables
 
-## La riqueza nacional y el crecimiento económico (cont.)
+## La dinámica de crecimiento de Smith
 
 ![](../fig/fig-04-004.png){fig-align="center"}
-
 
