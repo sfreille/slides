@@ -1,11 +1,10 @@
 ---
-title: U4. El modelo estándar de comercio 
-subtitle: Comercio y Finanzas Internacionales [UCC]
-author: |
-  | **Sebastián Freille**
-  | 0933217@ucc.edu.ar
-  | Licenciatura en Ciencia Política y Licenciatura en RRII
-  | FCPyRRII - UCC
+title: Comercio y Finanzas Internacionales [CyFI]
+title-slide-attributes:
+  data-background-image: ../fig/fig-00-background.png
+  data-background-size: stretch
+  data-background-opacity: "0.85"
+subtitle:  U4. El modelo estándar de comercio 
 format:
   revealjs:
     slide-number: true
@@ -22,7 +21,7 @@ format:
     toc-title: Contenidos
 ---
 
-# El modelo estándar de comercio {background="#43464B"}
+# **El modelo estándar de comercio** {background="#4b6e5c"}
 
 ## ¿Cuál modelo?
 
@@ -162,7 +161,7 @@ P_{T}Q_{T}+P_{A}Q_{A}=P_{T}D_{T}+P_{A}D_{A}
 > --en el gráfico representado por punto $D_{3}$. Note que es el peor
 > nivel de bienestar posible
 
-## Modelo general: determinación de los precios relativos
+## Determinación de los precios relativos
 
 - Nuestro país exporta $T$ y país extranjero exporta $A$. Relación de
   intercambio en nuestro país es $\frac{P_{T}}{P_{A}}$; la del país
@@ -175,6 +174,87 @@ P_{T}Q_{T}+P_{A}Q_{A}=P_{T}D_{T}+P_{A}D_{A}
 - La DR se obtiene de manera similar, $\frac{(D_{T}+D_{T}^{*})}{(D_{A}+D_{A}^{*})}$
 
 
-## Modelo general:determinación de los precios relativos (cont.)
+## Determinación de los precios relativos (cont.)
 
-![](../fig/fig-04-005.png){fig-align="center"}
+
+![Precio relativo con comercio](../fig/fig-04-005.png) 
+
+## Determinación de los precios relativos (cont.)
+
+- $DR$ son igual al ser iguales las preferencias. Precio relativo via
+  intersección de $OR$ y $DR$. Este precio determina el perfil de
+  exportación e importación de cada país
+  - las exportaciones de tela de nuestro país, $Q_{T}-D_{T}$ son
+    iguales a las importaciones de tela del extranjero
+    $D_{T}^{*}-Q_{T}^{*}$; del mismo modo, las importaciones de
+    alimentos de nuestro país, $D_{A}-Q_{A}$ son iguales a las
+    exportaciones de alimentos del extranjero, $Q_{A}^{*}-D_{A}^{*}$. 
+- De esta manera vemos como se determinan la $OR$, $DR$, la relación
+  de intercambio y el bienestar en el **modelo estándar de comercio**
+
+
+# **Crecimiento económico** {background="#4b6e5c"}	
+
+## Desplazmiento de la OR
+
+- Dos temas relevantes cuando hay crecimiento económico mundial
+  1. ¿Crecimiento económico en otros países es positivo o negativo
+     para nuestro país?
+  2. ¿Crecimiento económico en un país es más o menos valioso cuando
+     el país forma parte de un mundo integrado?
+- Ambas preguntas dan lugar a respuestas que no terminan siendo
+  concluyentes --i.e. ambigüedades en los efectos, hay beneficios y
+  costos en ambos casos
+  
+## Crecimiento y FPP
+
+- Sabemos que el crecimiento puede ser visto como un desplazamiento
+  hacia afuera de la FPP de un país --FPP puede desplazarse por
+  aumento de factores o por cambio tecnológico
+- El crecimiento no siempre suele ser paralelo --es decir, todos los
+  sectores iguales- sino que suele ser **sesgado**
+- Dos razones principales detrás del **crecimiento sesgado**
+  1. Progreso tecnológico sesgado $\longrightarrow$ progreso técnico
+     es sólo o mayor en un sector
+  2. Aumento oferta de factor de producción $\longrightarrow$ sesgo a
+     favor del bien cuya producción es intensiva en factor que aumentó
+
+## Crecimiento sesgado
+
+![Crecimiento sesgado](../fig/fig-04-006.png) 
+
+
+## Crecimiento sesgado (cont.)
+
+![Crecimiento sesgado y OR](../fig/fig-04-007.png) 
+
+## Crecimiento sesgado y OR
+
+- Con el crecimiento sesgado la economía puede en principio **producir
+  más de ambos bienes** pero para un *precio relativo constante* la
+  producción de $T$ se reduce cuando el sesgo favorece a $A$ y la
+  producción de $A$ se reduce cuando el sesgo favorece a $T$ [¿por
+  qué?]
+- Esto quiere decir que la curva de $OR$ se desplazará hacia la
+  derecha si el crecimiento es aunque sea levemente sesgado hacia $T$
+  --aumento de producción de $T$ relativo a la de $A$ (de $OR1$ a
+  $OR2$). Algo similar si el movimiento es en la otra dirección
+
+## OR mundial y relación de intercambio
+
+- Suponga que nuestro país tiene un **crecimiento sesgado hacia la
+  tela** producción relativa de $T$ aumenta a nivel mundial y se
+  desplaza $OR$ a la derecha
+- La consecuencia de esto es una **reducción del precio relativo de la
+  $T$** $\longrightarrow$ deterioro de la relación de intercambio para
+  nuestro país
+  - importante $\longrightarrow$ no es **qué** país experimenta el
+    crecimiento sesgado sino **cuál es el sesgo** 
+- De ahí que surgen las nociones de **crecimiento sesgado hacia la
+  exportación** y **crecimiento sesgado hacia la importacion**
+  - el primero empeora la relación de intercambio para nuestro país y
+    beneficia al otro; el segundo es al revés!
+
+## OR mundial y relación de intercambio (cont.)
+
+![Crecimiento sesgado y OR](../fig/fig-04-008.png) 
