@@ -1,11 +1,10 @@
 ---
-title: U4. La economía política. El pensamiento clásico. Adam Smith
-subtitle: Historia del Pensamiento y del Análisis Económico
-author: |
-  | **Sebastián Freille**
-  | sfreille@unc.edu.ar
-  | Licenciatura en Economía
-  | FCE-UNC
+title: Historia del Pensamiento y del Análisis Económico
+title-slide-attributes:
+  data-background-image: ../fig/background-002.png
+  data-background-size: stretch
+  data-background-opacity: "0.85"
+subtitle: U4. La economía política. El corazón de la escuela clásica inglesa. Ricardo, Malthus, Say y Bentham. 
 format:
   revealjs:
     slide-number: true
@@ -23,622 +22,620 @@ format:
     link-external-newwindow: true
 ---
 
-# La economía como disciplina científica {background="#43464B"}
+# **Contexto y desarrollo de la economía clásica. Thomas Malthus, Jean Baptiste Say y Jeremy Bentham** {background="#390040"}
 
-## Economía pre-científica y científica
 
-- El estudio de la economía como un campo distintivo de análisis
-  comienza efectivamente en el siglo XVII
-  - Petty, Cantillon y los fisiócratas
-    fueron importantes y consituyeron un puente natural
-  - Pero es la **escuela clásica de economía** la que funda
-    y da origen a la disciplina de la economía --nace la **economía
-    política**
-- Antes del siglo 18, la investigación sobre temas 
-  económicos tenía dos deficiencias fundamentales
-  - ausencia de una concepción sistémica y de interdependencia
-    --ie. equilibrio general
-  - ausencia de identificación de reglas, leyes y regularidades que
-    gobiernan las interacciones económicas --i.e "leyes naturales"
+## El contexto histórico: Revolución francesa y reformismo
+
+- Tras la **Revolución francesa**, el debate intelectual se polarizó
+  - El reformismo quedó limitado solo a aspectos económicos
+- William Godwin representaba una de las pocas voces favorables a la Revolución
+- El reformismo en sentido pleno solo regresaría medio siglo después
+  - Con el **movimiento cooperativo** en Inglaterra 
+  - Con las ideas de **John Stuart Mill**
+
+## Malthus: vida y obra
+
+- **Thomas Robert Malthus** (1766-1834)
+  - Estudiante en Cambridge (1784-1788)
+  - Ministro de la Iglesia anglicana
+  - Profesor en el East India College (1805)
+
+## El Ensayo sobre población
+
+- Su obra más famosa: **"Ensayo sobre el principio de población"** (1798)
+  - Primera edición $\longrightarrow$ constituyó un **panfleto
+    político provocador** 
+  - Ediciones posteriores $\longrightarrow$ volumen erudito con
+    referencias empíricas 
+  - Respuesta conservadora a las ideas de Godwin
+
+## El principio de población (I)
+
+> **Tesis central**: Desequilibrio entre población y recursos por medio
+> del cual la producción agrícola crece en **proporción aritmética**
+> mientras que la poblacíon crece en **proporción geométrica**
+
+## El principio de población (II)
+
+- El crecimiento poblacional está limitado por los medios de subsistencia
+  - El excedente de recursos acelera el crecimiento poblacional
+  - El desequilibrio afecta negativamente las condiciones de vida
+
+## El mecanismo económico
+
+> **Proceso automático.** El crecimiento poblacional presionaba los
+> precios de los alimentos que aumentaban. En consecuencia, esto
+> implicaba una reducción de los salarios reales lo que repercutía en
+> una menor calidad de vida. Eventualmente esto conducía a un aumento
+> de la mortalidad y/o reducción de la natalidad. 
+
+## Las alternativas humanas
+
+- **Vías de intervención** para mantener el equilibrio:
+  - La senda de la "**virtud**": castidad y continencia
+  - La senda del "**vicio**": anticoncepción (posición neomaltusiana)
+
+## Antecedentes históricos
+
+- La tesis de Malthus tenía precedentes:
+  - **Giovanni Botero** (1544-1617): contraste entre capacidades generativa y nutritiva
+  - **Gianmaria Ortes** (1713-1790): crecimiento poblacional en progresión geométrica
+- Debate previo entre **Turgot** y **Necker** en Francia
+- Malthus citó a algunos autores pero no a todos sus predecesores
+  - Posible influencia no reconocida de Robert Wallace (1761)
+
+## El impacto político (I)
+
+- Mayor repercusión por su enfoque específico:
+  - Centrado en las **implicaciones políticas** de la relación población-subsistencia
+  - Cuestionamiento de cambios institucionales radicales
+- Economistas como Ricardo utilizaron el principio para apoyar:
+  - La **"ley de bronce de los salarios"** $\longrightarrow$ tendencia al nivel de subsistencia
+  - Nivel interpretado en términos sociales, no meramente biológicos
+
+## La dinámica de los salarios (I)
+
+- Salario por encima del nivel de subsistencia:
+  - Crecimiento poblacional
+  - Insuficiente producción agrícola
+  - Aumento de precios alimentarios
+  - Descenso del salario real
+
+## La dinámica de los salarios (II)
+
+- Salario por debajo del nivel de subsistencia:
+  - Reducción poblacional
+  - Menor demanda de bienes básicos
+  - Descenso de precios alimentarios
+  - Aumento del salario real
+
+## Críticas fundamentales (I)
+
+- Problemas de la teoría maltusiana:
+  - **Desfase temporal**: efectos laborales solo visibles 14-16 años después
+  - Presupone **ausencia de progreso tecnológico** agrícola
+
+## Críticas fundamentales (II)
+
+- La experiencia histórica contradice la teoría:
+  - Menor proporción de población produce más alimentos
+- La explicación de Smith sobre el poder de negociación parece más sólida
+
+## El propósito del Ensayo (I)
+
+- Malthus buscaba demostrar la **inutilidad de reformas sociales**:
+  - Mejoras temporales generarían mayor crecimiento poblacional
+  - Los salarios volverían al nivel de subsistencia
+
+## El propósito del Ensayo (II)
+
+- Las mejoras solo vendrían de **"frenos preventivos"** poblacionales
+  - Activados únicamente bajo amenaza de pobreza
+  - Las políticas contra la pobreza serían contraproducentes
+  - El temor fomenta la laboriosidad
+
+## El debate sobre incentivos (I)
+
+- Malthus se oponía frontalmente a Smith, Condorcet y Godwin:
+  - Reformistas: la **esperanza de mejora** impulsa la industria
+  - Smith: "el temor es un despreciable instrumento de gobierno"
+
+## El debate sobre incentivos (II)
+
+- Godwin y Thompson argumentaban:
+  - Los "frenos preventivos" surgen de **mejores niveles de vida**
+  - La organización social puede modificar la ley de población
+  - La independencia económica femenina altera la dinámica
+
+## La "ciencia lúgubre" (I)
+
+- Las ideas maltusianas dominaron la economía política clásica
+  - Su **pesimismo** sobre el progreso marcó la disciplina
+  - Thomas Carlyle (1849) la llamó "**ciencia lúgubre**"
+- Consecuencias para la economía:
+  - Creciente **desconfianza** pública
+  - **Separación** entre teoría económica y cuestiones sociales
+  - Preparación para la **revolución marginalista**
+
+## La "ley de Say" (I)
+
+- Formulada por **Jean-Baptiste Say** (1767-1832) en 1803
+  - Idea básica: "la oferta crea su propia demanda"
+  - Múltiples interpretaciones de esta "ley"
+- Crítica a aspectos de la doctrina fisiocrática
+  - Reafirmaba tesis de Smith:
+    - Posibilidad de **desarrollo a largo plazo**
+    - Importancia del **ahorro e inversión** sobre el consumo
+
+## Versiones de la ley (I)
+
+- Distinciones conceptuales:
+  - **"Identidad de Say"**: oferta agregada igual a demanda agregada (versión fuerte)
+  - **"Igualdad de Say"**: desequilibrios temporales con fuerzas correctoras (versión débil)
+
+## Versiones de la ley (II)
+
+- Característica distintiva de la "escuela ricardiana"
+  - Adoptada por Mill, Torrens, McCulloch y Ricardo
+  - Criticada por Sismondi, Malthus y Lauerdale que defendían la
+    posibilidad de crisis de sobreproducción
 	
-# Adam Smith [1723-1790]: El padre de la economía {background="#43464B"}
+# **El corazón de la escuela clásica: David Ricado** {background="#390040"}
 
-## El padre de la criatura
+## El corazón de la economía clásica
 
-![](fig/fig-04-002.png){fig-align="center"}
+- **Adam Smith** no sólo **estableció los fundamentos de la teoría clásica
+  del valor** y la primera **teoría sobre crecimiento económico**, sino que
+  generó una curiosidad e interés inusitado por las cuestiones
+  económicas
+- David Ricardo, Thomas Malthus, James y John Stuart Mill, Jeremy
+  Bentham y Nassau Senior fueron **otras figuras realmente importantes de la
+  escuela clásica inglesa** que ciertamente vieron en la obra de Smith
+  un oasis de curiosidad intelectual
+  - de todos ellos, **David Ricardo** por estatura intelectual, rigor
+    analítico y contribuciones a la teoría y análisis económico fue el
+    punto más alto
 
-## Vida y obras
+## Vida temprana
 
-- Nació en Kircaldy (Escocia) en 1723. Estudió en Glasgow y Oxford. Se
-  convirtió en profesor de Lógica (1752) y de Filosofía Moral (1752)
-  en Glasgow donde también cubrió economía política
-- Ordenó quemar casi todos sus escritos excepto algunos de los
-  filosóficos y se descubrieron varios apuntes de estudiantes que
-  luego se compilaron
-- En 1759 escribió *Theory of Moral Sentiments* que el mismo Smith
-  consideró su mejor obra
+- Nació en Londres en 1772, hijo de un **agente de bolsa judío sefardí**
+  - Estudió en Ámsterdam entre los 11 y 13 años, educación comercial básica
 
-## Vida y obras (cont.)
+- A los 21 años se casó contra la voluntad familiar, siendo **repudiado**
+  - Se vio obligado a abrirse camino por sí mismo
+  - Alcanzó rápidamente una posición importante en los negocios dado
+    que era **astuto para los negocios y las inversiones**
+
+
+
   
-- Tomó contacto con los fisiócratas en su estadía de varios años en
-  Francia. Conoció y respectó a Quesnay y hasta pensó en dedicarle su
-  principal libro 
-- A su regreso a UK, dedicó 10 años a escribir *La Riqueza de las
-  Naciones**, publicado en 1776. Dos años después fue designado
-  Comisionado de Aduanas de Escocia y murió en 1790
 
-## Los avances
+## Carrera y retiro
 
-> **Los avances (inversión).** Los fisiócratas habían desarrollado
-> ideas sobre el capital en tanto inversión. Distinguián 3 (tres)
-> tipos de avances o "adelantos": 1) *adelantos soberanos* que eran
-> inversiones en obras públicas de infraestructuras; 2) *adelantos
-> raíces* que eran inversiones en la preparación de terrenos para el
-> cultivo; y 3) *adelantos primitivos* que era inversión en capital
-> fijo para la explotación y 4) *adelantos anuales* que era inversión
-> en capital circulante para la producción anual. 
+- Su trabajo en la bolsa lo impulsó a considerar las **vicisitudes económicas**
+  - En 1799 leyó "**La riqueza de las naciones**" de Adam Smith
 
-## La noción de *sistema* en Adam Smith
+- Se retiró de la bolsa en 1815, a los 43 años, ya como **persona adinerada**
+  - Se trasladó al campo, a Gatcomb
+  - Desde 1819 fue **miembro del Parlamento**
 
-- Muchos sugieren que Smith obtuvo la noción e idea de *sistema* de
-  los fisiócratas
-  - notas de clase y apuntes sugieren que las ideas de sistema ya
-    estaban presentes *antes* de que Smith viajara a Francia
-    [principales partes del Libro I]
-- Pero si es posible que haya sido influenciado para escribir el Libro
-  II donde elabora sobre el concepto de "adelantos al capital"
-- El libro *La Riqueza de las Naciones* --cuyo título original fue *An Inquiry into the Nature
-  and Causes of the Wealth of Nations* es un libro de naturaleza mixta
+## Primeras obras
+
+- Sus primeros escritos (1809-1810) abordaron **controversias monetarias**
+  - "El precio del oro" (1809), artículos en Morning Chronicle
+  - "El alto precio de los metales" (1810)
+
+## Obras principales
+
+- **"Ensayo sobre la influencia de un bajo precio del grano sobre los beneficios del capital"** (1815)
+
+- **"Principios de economía política y tributación"** (1817)
+  - Nuevas ediciones en 1819 y 1821
+  - Consolidó su posición como figura importante de la élite política-cultural
+
+- Falleció en 1823
+
+## La visión económica ricardiana
+
+- Ricardo tomó de Smith su "visión" del sistema económico
+  - Sociedad basada en la **división del trabajo**
+  - Dos sectores: **agricultura y manufacturas**
+
+- Tres clases sociales con sus respectivas rentas:
+  - **Trabajadores**: salarios
+  - **Capitalistas**: beneficios
+  - **Terratenientes**: rentas
+
+## Enfoque metodológico
+
+- Su enfoque era más **analítico y riguroso** que el de Smith
+  - Smith intentó abarcar diversos aspectos de la realidad económica
+  - Ricardo construyó un **edificio analítico meticuloso**
+
+- **Concentró su atención** en problemas específicos
+  - Excluyó lo que consideraba no directamente relevante
+  - Priorizó el rigor lógico y la precisión
+
+
+## El sistema de David Ricado
+
+- El sistema de David Ricardo era un **monumento al proceso de
+  razonamiento deductivo**. Giraba fundamentalmente alrededor 3 (tres)
+  principios básicos
+  1. la teoría clásica de la renta
+  2. el principio de la población de Malthus
+  3. la doctrina del fondo de salarios
+
+
+
+
+## Distribución del excedente
+
+- Ricardo se enfocó en la **distribución del excedente** entre rentas y beneficios
+  - Los salarios corresponden al consumo de **subsistencia** de los trabajadores
+  - Las rentas y beneficios forman el **excedente**
+
+## Clases sociales y uso del excedente
+
+- Diferente uso del excedente según la clase social:
+  - **Terratenientes**: asignan sus rentas a **consumos de lujo**
+  - **Capitalistas**: invierten la totalidad de sus beneficios
+
+- El **desarrollo económico** procede de la **acumulación** realizada por los capitalistas
+  - La parte de renta que va a beneficios determina el ritmo de acumulación
+
+## Teoría de la renta diferencial I
+
+- La renta de tierras fértiles corresponde a la **reducción en costes unitarios**
+  - Es igual a la diferencia entre costes en tierras menos fértiles y la tierra considerada
+  - Multiplicada por la cantidad de producto obtenida
+
+## Teoría de la renta diferencial II
+
+- La renta de las tierras cultivadas menos fértiles es **nula**
+  - No entra en el coste de producción
+  - Los beneficios resultan ser una **magnitud residual**
+
+- Propuesta durante el debate sobre **derechos arancelarios** al grano (1815)
+  - Aunque se atribuye a Ricardo, fue propuesta antes por Malthus y West
+
+## Crecimiento económico
+
+- El crecimiento económico procede de la **acumulación y los beneficios**
+  - Lo que reduce los beneficios obstaculiza la acumulación
+
+- El desarrollo económico reduce automáticamente los beneficios:
+  - El crecimiento conlleva **aumento poblacional**
+  - Aumenta la demanda de productos agrícolas
+
+## Tendencia de los beneficios
+
+- Se expanden los cultivos a tierras **menos fértiles**
+  - La tierra marginal resulta cada vez menos productiva
+  - Aumentan los **costes unitarios** del producto
+
+- Las rentas aumentan en tierras ya cultivadas
+  - Los beneficios disminuyen
+  - Se **frena la acumulación**
+
+## Comercio internacional
+
+- Las importaciones de grano son la mejor solución ante el aumento de demanda
+  - Evitan cultivar nuevas tierras menos fértiles
+  - Previenen el **aumento de la renta**
+  - Mantienen el **ritmo de acumulación**
+
+## Política económica
+
+- Ricardo abogaba por eliminar **obstáculos al comercio internacional**
+  - Particularmente los derechos sobre productos agrícolas
+
+- Su teoría expresaba el **conflicto** entre terratenientes y burguesía manufacturera
+
+- Su **teoría de la ventaja comparativa** reforzaba esta conclusión política
+  - El comercio beneficia al conjunto de países implicados
+
+## Teoría del valor
+
+- Ricardo consideraba como dato el tamaño del excedente
+  - Los beneficios aparecen como **magnitud residual**
+
+- El **tipo de beneficio** está en el centro de su análisis
+  - Más importante que la cantidad agregada de beneficios
+
+## Implicaciones políticas
+
+- Su construcción teórica demostraba que:
+  - La abolición de derechos sobre el grano tendría **efectos positivos** sobre la acumulación
+  - Aumentaría la "**riqueza de las naciones**"
+  - Beneficiaría a la naciente **burguesía manufacturera**
+
+## Legado inicial
+
+- Tras su muerte, su herencia científica se fue **disipando gradualmente**
+  - Se produjo una distorsión de su pensamiento original
+
+- Con el enfoque marginalista (después de 1870):
+  - Se le consideraba un **genio mal encaminado**
+  - Se sugirió que había metido a la economía en una senda equivocada
+
+## Recuperación de su pensamiento
+
+- La edición de **Sraffa (1951-1955)** de sus obras y correspondencia:
+  - Una obra maestra del **rigor filológico**
+  - Limpió el campo de malas interpretaciones
+
+- Renovó las discusiones sobre la teoría del valor y distribución
+  - Conexión con **debates teóricos contemporáneos**
+
+
+
+
+## La doctrina clásica de la renta
+
+- La primera vez que se sugiere la existencia de rendimientos
+  decrecientes es en un tratado de James Anderson, padre e inventor
+  del arado escocés
+- Uno de los elementos centrales que permitió aflorar esta discusión
+  fue el papel preponderante de las denominadas *Leyes de Granos*
+  durante las guerras napoleónicas
+  - Napoleón trazó un embargo sobre puertos británicos --escasez de
+    grano extranjero requirió de aumento de producción de grano en UK
+- El costo de producción era más alto lo que siguió fue un fuerte
+  aumento del principal alimento $\longrightarrow$ un 18% anual en
+  promedio entre 1790 y 1810!
   
-## La noción de sistema en Adam Smith (cont.)
+## La doctrina clásica de la renta (cont.)
 
-- El sistema de Smith combinaba varios elementos: 1) *teoría de la
-  naturaleza humana*, 2) *teoría de la historia*, 3) forma de
-  *teología natural* y 4) observaciones prácticas sobre la vida
-  económica
-- El principal problema económico en la época de Smith era la relación
-  del individuo con el Estado y las funciones adecuadas del Estado
-- Las opiniones de Smith se basaban en su sistema de teología natural
-  --doctrina greco-escolástica del derecho natural
+- Al mismo tiempo las *rentas de la tierra* aumentaron --esto generó
+  intereses para seguir promoviendo (lobby) la protección
+- Aquí es donde entran las *Leyes de Granos* de 1815 $\longrightarrow$
+  proteccionismo agrícola y los efectos sobre la distribución de la
+  renta y el crecimiento dieron paso al análisis económico sobre estas
+  cuestiones
   
-## La noción de sistema en Adam Smith (cont.)
+## La doctrina clásica de la renta (cont.)
 
-- El derecho natural es más facil entenderlo como aquel que se
-  interesa por la propiedad personal que cada individuo tiene sobre si
-  mismo y como un esfuerzo para subrayar que hay un *corpus* de
-  derechos del hombre antes de la existencia del Estado
-  - en otras palabras, el derecho natural es visto como una coraza
-    ante el avance del Estado y una prescripción en el sentido de
-	restringir las funciones del gobierno en interés de la
-    libertad individual
+- Ya Malthus se había anticipado a Ricardo en una intuición poderosa 
 
-## El derecho natural y la naturaleza humana
+> La causa del precio monetario comparativamente alto del grano es su
+>  precio real comparativamente costoso...y la razón por la que el
+>  precio real del grano es más alto...en la necesidad de recurrir a
+>  tierras cada vez más pobres...que exigen un gasto mayor para
+>  trabajarlas...Se sigue el precio del producto en todo país
+>  progresivo debe ser exactamente igual al coste de producción de la
+>  tierra de peor calidad...
+**[Thomas Malthus, *An Inquiry into the Nature and Progess of Rent* (1815)]**
 
-> <span style=" font-size:30px; line-height:0.5; padding:0">Cada individuo intenta [mediante el empleo de su capital] que el
-> ingreso anual de la sociedad sea tan grande como pueda. Por regla
-> general, no intenta promover el bienestar público ni sabe cuánto
-> está contribuyendo a ello. Prefiriendo apoyar la actividad doméstica
-> en vez de la foránea, sólo busca su propia seguridad, y dirigiendo
-> esa actividad de forma que consiga el mayor valor, sólo busca su
-> propia ganancia, y en este como en otros casos está conducido por
-> una mano invisible que promueve un objetivo que no entra en sus
-> propósitos. Tampoco es negativo para la sociedad que no sea parte de
-> su intención ya que persiguiendo su propio interés promueve el de la
-> sociedad de forma más efectiva que si realmente intentase
-> promoverlo. No son muchas las cosas buenas hechas por aquellos que
-> dicen dedicarse al comercio en favor del bienestar público. También
-> es verdad que esta es una actitud poco común entre los comerciantes,
-> y unas pocas palabras bastan para disuadirlos de ella
-**[Smith, A. *La Riqueza de las Naciones*, Libro I (1776)]** 
+## La doctrina clásica de la renta (cont.)
 
-## El derecho natural y la naturaleza humana (cont.)
+- Ricardo **definía la renta como "lo que se paga...por el uso de las
+  energías originarias e indestructibles del suelo"**
+  - la renta no existía en el margen y sólo aparece en las mejores
+    tierras cuando se activan las peores tierras
+- Identifica correctamente el **margen extensivo** (ampliación de
+  frontera agrícola a tierras nuevas)y **margen intensivo** (caída de
+  rendimientos de tierra de misma calidad)
+- Efecto de las *Leyes de Granos* forzar una agricultura más
+  intensiva y extensiva $\longrightarrow$ Ricardo demuestra que **existían rendimientos decrecientes
+  tanto en el margen intensivo --mayor cantidad de factores aplicada a
+  la *misma* tierra- como en el margen extensivo --misma cantidad de
+  factores aplicada a diferentes clases de tierra**
+  
+## La doctrina clásica de la renta (cont.)
 
-- Consideraba que existía una **armonía natural en el mundo
-  económico** que hace que la intervención gubernamental sea
-  innecesaria e indeseable *en la mayoría de las materias*
-- Pero también esta premisa y proposición resulta de la convicción de
-  Smith del descaro del burócrata que desde una posición
-  *paternalista* nos dice lo que debemos hacer en areas y temas en los
-  que conocemos nuestros propios intereses mejor que nadie
+![Rendimientos de las tierras](../fig/fig-04-005.png){#fig-precios}
 
-## El derecho natural y la naturaleza humana (cont.)
 
-- Para Smith esta naturaleza humana era invariable y tenía
-  características innatas:
-  1. Que los humanos nos interesamos más por las cosas más próximas y
-     menos por las más distantes
-  2. Que los humanos tienen un deseo arrollador por mejorar su
-     condición
-- En otras palabras, los humanos son *self-centered* 
-- Más importante $\longrightarrow$ el hombre económico en la RN no es
-  diferente del hombre moral en la TSM 
-  - en la primera, la simpatía refrena el egoísmo; en la segunda, la
-    competencia limita el egoísmo [Smith critica fuertemenete el
-    monopolio]
+## La doctrina clásica de la renta (cont.)
+
+> $K$ y $L$ se combinan en proporciones fijas. Cada columna denota
+> calidad de tierras (fertilidad) en orden descendente. $PM$ es la
+> variación del producto total (primera columna) que resulta de la
+> adición de 1 (una)> unidad de $K$-$L$. Siendo la renta "la
+> diferencia entre entre el producto obtenido por el empleo de dos
+> cantidades iguales de capital y trabajo", entonces vemos como
+> aparece en el *margen intensivo* --10 al agregar la 2da unidad, 30
+> al agregar la 3ra unidad y así. También aparece en el *margen
+> extensivo* --si se usan tierras 1, 2 y 3 con sólo 1 (una) unidad e
+> $K$-$L$, la renta sería de 60 para tierra 1 y de 30 para
+> tierra 2. La tierra 3 no tiene renta
+
+## La doctrina clásica de la renta (cont.)
+
+- Esta teoría permite encontrar la asignación óptima de recursos entre
+  diferentes tierras si contamos con información de $P$ de bienes y
+  factores
+  - Si precio por bushel de grano es $1$ y precio de cada dosis de
+    $K$-$L$ es igual a 100, sólo habría producción en la tierra 1
+  - Si precio de cada dosis de $K$-$L$ es igual a 60, se pondrían en
+    producción todas las tierras, incluso la 5
+	-- note que se emplearían 5 (cinco) unidades de $K$-$L$ en la
+    tierra 1, 4 (cuatro) unidades de $K$-$L$ en la tierra 2 y así. 
+
+## La doctrina clásica de la renta (cont.)
+
+- Un comentario importantes es que Ricardo **suponía que la tierra no
+  tiene usos alternativos** --grano o "barbecho" que no tiene valor
+  (i.e. la manufactura no tiene uso valioso para la tierra)
+- Esto es entendible por cuanto la principal preocupación de Ricardo,
+  Malthus et al era el de determinar la distribución del producto
+  total entre renta, salario y beneficios. 
+
+## La teoría del valor trabajo
+
+- Ricardo y Malthus fueron dos de los grandes titanes de la escuela
+  clásica inglesa pero frecuentemente tuvieron opiniones contrarias
+  -- Tenían visiones opuestas sobre las *Leyes de Granos* --Malthus a
+  favor, Ricardo en contra
+  - Malthus $\longrightarrow$ la libre importación de granos, reduciría
+  precios de cereales (y de salarios) y causaría depresión 
+  - Ricardo $\longrightarrow$ las *Leyes de Grano* implicaban aumento
+  de salarios y disminución de beneficios, menos acumulación de $K$ y
+  menos crecimiento
+  
+## La teoría del valor trabajo (cont.)
+
+- Ricardo elabora una teoría del valor trabajo como **una teoría del
+  coste real** 
+- Ricardo quería entender cómo los cambios en las proporciones
+  relativas en la renta correspondientes a $K$, $L$ y $T$ afectaban
+  la acumulación de capital y el crecimiento 
+- Criticó algunos aspectos de la teoría del valor trabajo de Smith
+  --particularmente su visión de que un aumento en el precio del
+	  factor aumentaría el precio de bienes producidos por ese factor
+	  
+## La teoría del valor trabajo (cont.)
+
+- La relación entre valor y tiempod e trabajo empleado en la
+  producción era simple
+  
+> cualquier aumento de la cantidad de trabajo debe elevar el valor de
+> este bien sobre el que se ha aplicado, así como cualquier
+> disminución debe reducir su valor 
+**[David Ricardo, *Principios de Economía Política y Tributación* (1817)]**
+	  
+- Si bien orientó su TVT a conclusiones generales hizo ciertas
+  consideraciones
+  
+## La teoría del valor trabajo (cont.)
+
+- **Bienes no reproducibles** $\longrightarrow$ "existen ciertos
+  bienes cuyo valor está determinado tan sólo por su escasez. Ningún
+  trabajo puede aumentar la cantidad de dichos bienes y, por tanto, su
+  valor no puede ser reducido por una mayor oferta de los mismos"
+- **Capital como trabajo incorporado** $\longrightarrow$ Ricardo
+  distinguió famosamente entre **capital fijo** y **capital
+  circulante**
+  - Capital circulante $\longrightarrow$ "perece rápidamente y tiene
+    que ser reproducido con frecuencia"
+  - Capital fijo $\longrightarrow$ "se consume lentamente"
+    --i.e. depreciación
+
+## La teoría del valor trabajo (cont.)
+
+- Reconoció las dos maneras en que el capital afecta al valor de los
+  bienes
+  1. el capital utilizado en la producción constituye una adición al
+     valor del producto
+  2. el capital utilizado por *unidad de tiempo* tiene que ser
+     compensado 
+- Uno de los primeros y lúcidos reconocimientos del *valor del tiempo*
+  como un factor importante del valor
+- Queda claro que Ricardo basó el valor en los costes reales de $L$ y
+  $K$
+  - Diferencia con TVT de Smith $\longrightarrow$ excluía la renta de
+    los costes
 	
-## El libro *La Riqueza de las Naciones*
+## La teoría del valor trabajo (cont.)
 
-- Los títulos de sus 5 (cinco) libros son:
-  1. *Of The Causes of Improvement in the productive Powers of Labour,
-     and of the Order according to which is Produce is naturally
-     distributed among the different Ranks of the People*
-  2. *Of the Nature, Accumulation and Employment of Stock*
-  3. *Of the different Progress of Opulence in different Nations*
-  4. *Of Systems of political Econonomy*
-  5. *Of the Revenue of the Sovereign or Commonwealth*
+- Pero esencialmente sostenía que las **cantidades relativas de
+  trabajo** usadas en la producción son los principales determinantes
+  de los valores relativos
+  - no omitió considerar otros factores que influían per ose encargó
+    establecer los **supuestos sobre los que derivaba sus
+    conclusiones**
+- ¿Era una TVT sin deficiencias? La respuesta es no. No trataba
+  adecuadamente las diferencias cualitativas en el trabajo. 
+  - Además, excluir la renta de los costes sólo puede justificarse si
+    la $T$ no tiene usos alternativos 
+  - Limitaba el rol de la demanda a una clase especial de bienes (no
+    reproducibles) --¿qué pasa con costos de producción no constantes?
+	
+## El progreso económico y el estado estacionario
 
-  
-## El libro *La Riqueza de las Naciones* (cont.)
-
-- No es un libro enteramente científico, analítico y desacoplado de
-  cuestiones de la realidad como el *Essai* de Cantillon
-- De hecho, el libro 3 es un libro esencialmente normativo --donde
-  Smith opina sobre cómo debió haber sido el progreso en diferentes
-  etapas y naciones y el libro 4 es abiertamente polémico --ataque
-  decisivo contra el mercantilismo y su extenso sistema de
-  regulaciones
-- No obstante a pesar de ello, es una obra escrita por un pensador
-  profundo ansioso por descubrir la naturaleza de las cosas
-  
-## El libro *La Riqueza de las Naciones* (cont.)
-
-- Hay una gran cantidad de elementos y temas en semejante obra. Pueden
-  resumirse las principales aportaciones en las siguientes:
-  1. Una teoría de la organización productiva
-  2. Una teoría de las causas del crecimiento económico
-  3. Una teoría del valor y la distribución
-  4. Una teoría del dinero y el capital
-- 
-
-## El libro *La Riqueza de las Naciones* (cont.)
-
-- El Libro I argumenta que el crecimiento económico depende de la
-  división del trabajo la cual a su vez es organizada a través del
-  mercado y de lo que él llama el interés individual
-- El Libro II explica cómo la posesión de activos facilita la división
-  del trabajo (la promueve) y la acumulación de activos promueve el
-  incremento
+- En Ricardo, la teoría del valor junto con la teoría de la renta
+  proporcionaba la clave para el problema de la distribución de la
+  renta
+- Relacionó el precio de mercado con los costes de producción de la
+  empresa marginal (aquella que no produce renta)
+- Ideó el concepto de la *empresa media* --la proporción de $K$ y $L$
+  son iguales a las de la media de la economía
+  - de este modo pudo a su manera resolver el problema de la
+    distribución de la renta y sus variaciones
 
 
-## Teoría de la historia
+## El progreso económico y el estado estacionario (cont.)
 
-- Identificó cuatro etapas evolutivas en el desarrollo de la
-  civilización:
-  1. **Período cazador** $\longrightarrow$ no habia derechos de
-     propiedad, no había demanda de gobierno (nomadismo, escasez poblacional)
-  2. **Período pastoril** $\longrightarrow$ aparece sociedad civil
-     como consecuencia de propiedad privada y acumulación; sociedad de
-     jerarquías; gobierno replica esa estructura
- 
-## Teoría de la historia (cont.)
+> El valor de cambio de todos los bienes, ya sean manufacturados,
+> extraídos de las minas u obtenidos de la tierra, está siempre
+> reguladono por la menor cantidad de mano de obra que bastaría para
+> producirlos, en circunstancias ampliamente favorables y de las
+> cuales disfrutan exclusivamente quienes poseen facilidades
+> peculiares de producción, sino por la mayor cantidad de trabajo
+> necesariamente gastada en su producción, por quienes no disponen de
+> dichas facilidades, por aquellos que siguen produciendo esos bienes
+> en las circunstancias más desfavorables
+**[David Ricardo, *Principios de Economía Política y Tributación* (1817)]**
 
-- Identificó cuatro etapas evolutivas en el desarrollo de la
-  civilización:
-  1. **Período agrícola** $\longrightarrow$ mayor estabilidad en
-     producción, mayor población y asentamientos; gobierno civil
-     desecentralizado --"feudalismo"
-  2. **Período comercial** $\longrightarrow$ ciudades como centros
-     comerciales; surgen librecambistas y capitalistas; conflicto
-     urbano-rural; autogobierno de ciudades; florece comercio y
-     oportunidades
-- La fuerza que motoriza la transición entre períodos es para Smith el
-  egoísmo económico
 
-# La microeconomía de Smith {background="#43464B"}
+## El progreso económico y el estado estacionario (cont.)
 
-## La teoría del valor
-
-- El tema e hilo central de *La Riqueza de las Naciones* es el
-  crecimiento económico. Pero una diferencia con la contribución de
-  los fisiócratas es que Smith desarrolló una **teoría del valor**
-- La teoría del valor de Smith aparece cuando discute las reglas que
-  la gente observa "naturalmente" cuando se produce el intercambio
-  de cosas 
+![Distribución de la renta](../fig/fig-04-006.png){#fig-precios}	
     
-## La teoría del valor (cont.)
+## El progreso económico y el estado estacionario (cont.)
 
-> ...la palabra valor tiene dos significados distintos: unas veces
-> expresa la utilidad de un objeto particular, y otras veces la
-> capacidad de comprar otros bienes que confiere la posesión de tal
-> objeto Podemos llamar al primero "valor en uso" y al otro "valor en
-> cambio". Las cosas que tienen gran valor en uso, frecuentemente
-> apenas tienen valor en cambio; y por el contrario, aquellas que
-> tienen un gran valor en cambio apenas tienen valor en uso. Pocas
-> cosas hay más útiles que el agua, pero con ella no se puede comprar
-> casi nada. Por el contrario, un diamante apenas tiene valor en uso
-> y, sin embargo, se puede cambiar por una gran cantidad de bienes
-**[Smith, A. *La Riqueza de las Naciones*, Libro I (1776)]**
+- Suponga que 3 (tres) dosis de $L$ y $K$ producen 270 bushels de
+  cereal por año. Cada unidad de $L$ es un gasto de *capital
+  circulante* (i.e. fondo de salarios)y cada unidad de $K$ es un gasto
+  de *capital fijo* (i.e. depreciación)
+- El *beneficio total* es el ingreso total menos la suma de capital
+  fijo y circulante. Suponga $\longrightarrow$ precio de cereal ($1),
+  $w$ de $10 bushels de cereal, $10 por otras necesidades, y
+  depreciación de $10
+  - la nómina es $60, la depreciación es $30 y la ganancia total es de
+    $180, la renta es $0 (tierra 1)
 
-## La teoría del valor (cont.)
+## El progreso económico y el estado estacionario (cont.)
 
-- Conocida como la *paradoja del valor*, la economía clásica fue
-  incapaz de resolverla --no supieron explicar la existencia y
-  significado de las valoraciones marginales
-- En sus escritos a veces discutía simultaneamente el *trabajo como
-  medida del valor (precio)* del *trabajo como causa del valor*
-  - Idea de que lo que se compra con con dinero/bienes se adquiere con
-    trabajo; no fue original en esto
+- Ahora el cultivo se extiende a la tierra 2 $\longrightarrow$ ahora 3
+  (tres) dosis de $K$ y $L$ producen sólo 240, el precio del grano
+  debe aumentar a 1.125 (para obtener el mismo valor de producto)
+  - este aumento del precio eleva salarios monetarios y rentas
+    agregadas y disminuye beneficios
+- La renta sólo aparece en la tierra 1 cuando se pone en producción la
+  tierra 2
+  - el crecimiento económico perjudica a los capitalistas/empresarios
+    a costa del terrateniente --¿y los trabajadores/agricultores?
+    Salario real no cambia
 
-## La teoría del valor (cont.)
+## El progreso económico y el estado estacionario (cont.)
 
-> El valor de una mercancía para la persona que la posee y que no
-> tiene intención de consumirla, sino de intercambiarla por otras
-> mercancías es igual a la cantidad de trabajo de que puede
-> disponer o comprar con la misma. El trabajo es, por tanto, la medida
-> real del valor de cambio de todas las mercancías
-**[Smith, A. *La Riqueza de las Naciones*, Libro I (1776)]**
+![Disminución de los beneficios](../fig/fig-04-007.png){#fig-precios}
 
-## La teoría del valor (cont.)
+## El progreso económico y el estado estacionario (cont.)
 
-- Distinguió entre *precios reales* y *precios nominales* y lo aplicó
-  al precio del trabajo
+> **Nota.** Recuerde que para David Ricardo la renta se calcula como
+> el valor del producto inicial de la empresa menos el valor del
+> producto de la empresa marginal
 
-> puede decirse que el trabajo, como las mercancías, tiene un precio
-> real y un precio nominal. Se puede considerar que su precio real
-> consiste en la cantidad de las cosas necesarias y convenientes de la
-> vida que se entregan a cambio de él, y su precio nominal en la
-> cantidad de dinero. El trabajador es rico o pobre, está bien o mal
-> retribuido, según el precio real de su trabajo y no según su precio nominal
-**[Smith, A. *La Riqueza de las Naciones*, Libro I (1776)]**
+## El progreso económico y el estado estacionario (cont.)
 
-## La teoría del valor (cont.)
-
-- También reconoció que luego de los primeros dos períodos de la
-  civilización, el trabajo sólo no puede explicar adecuadamente el
-  precio de mercado
-
-> Los salarios, el beneficio y la renta son las tres fuentes
-> originarias de todo el ingreso, así como de todo valor de
-> cambio. Cualquier otro ingreso [intereses, impuestos, etc.] se
-> deriva en última instancia de alguna de esas tres 
-**[Smith, A. *La Riqueza de las Naciones*, Libro I (1776)]**
-
-## La teoría del valor (cont.)
-
-- Y en este punto reconoció e identificó el concepto de **costo de
-  oportunidad**
-  - note que Smith sólo creía válida la teoría del valor trabajo (TVT)
-    como *fuente* de valor sólo aplicaban a sociedades primitivas
-
-> ...aunque en el lenguaje corriente lo que se llama el coste primario
-> no comprende el beneficio de la persona que la revende, si esta no
-> la vende a un precio que le permita obtener la tasa ordinaria de
-> beneficios en su vecindad se le considerará perdedor en su negocio,
-> ya que empleando su capital de cualquier otra forma podría haber
-> obtenido dicho beneficio
-**[Smith, A. *La Riqueza de las Naciones*, Libro I (1776)]**
-
-## Precio de mercado y precio natural
-
-- Establece una dicotomía entre *precio natural* y *precio de mercado
-  (precio real)*
-  1. *Precio real* $\longrightarrow$ se determina por interacción de $O$
-     y $D$ a corto plazo
-  2. *Precio natural* $\longrightarrow$ se determina por costos de
-     producción a largo plazo
-- Si bien no tiene la claridad del análisis marshalliano, puede
-  interpretarse como veía esto Smith
+- Ricardo estimaba que las tasas salariales se mantendrían al nivel de
+  subsistencia a largo plazo (por teoría poblacional)
+  - pero salarios más altos temporales presionan sobre beneficios a
+    medida que aumenta producto y eventualmente se llega a un **estado
+    estacionario**
+- ¡El resultado lógico del crecimiento es el estancamiento!
+  - Claramente no hay lugar para el progreso técnico aquí y también
+    acepta como válido el principio de la población
+- Lo que importa, no obstante, es que es un sistema lógicamente
+  consistente que deriva esas conclusiones a partir de supuestos dados
+  y de lógica deductiva
   
-## Precio de mercado y precio natural (cont.)
+## El progreso económico y el estado estacionario (cont.)
 
-![](fig/fig-04-003.png){fig-align="center"}
+> **El mecanismo.** La tasa media de salarios determinada por
+> proporción entre capital fijo y circulante (fondo de salarios) y la
+> población Mientras los beneficios son positivos, el *stock* de
+> $K$ aumenta y el aumento en la demanda de trabajo aumenta
+> *temporalmente* la tasa media de salarios. Pero cuando la tasa media
+> de salarios sube por encima de la subsistencia, entonces aumenta la
+> procreación y la población. Población mayor exige más alimentos (y
+> en condiciones de restricciones a la $M$) deben ponerse en uso
+> tierras menos fértiles. Empiezan a aumentar las rentas agregadas,
+> disminuyen los beneficios, y los salarios vuelven a subsitencia
+> --**estado estacionario**
 
-## Precio de mercado y precio natural (cont.)
-
-- Si $p_{0}$ es el *precio natural* --igual a suma de tasas naturales
-  de salarios, beneficio y renta- y una curva de demanda efectiva con
-  pendiente negativa, $D_{0}$
-  - la demanda efectiva de Smith es la cantidad demanda al precio
-    natural, $0Q_{0}$ $\longrightarrow$ $p_{0}$ y $D_{0}$ son precio y
-    cantidad de equilibrio a largo plazo
-- Si la cantidad es menor ($Q_{1}$) a la demanda efectiva, algunos
-  podrían pagar más y pujan subiendo el precio hasta $p_{1}$. 
-- Si la cantidad es mayor ($Q_{2}$) a la demanda efectiva, algunos
-  bienes deberán venderse a consumidores que paguen menos que el
-  precio natural
-  
-## Precio de mercado y precio natural (cont.)
-
-- En definitiva, Smith a través de este análisis parece haber
-  comprendido los conceptos de elasticidad de oferta y demanda a corto
-  plazo, y también el proceso de ajuste del mercado entre el corto y
-  largo plazo
-- Notese como aqui juega el rol del egoísmo (self-interest) y la
-  competencia para ajustar el mercado 
-  - básicamente terminó por hacer obsoleto el concepto y la naturaleza
-    del *justo precio* de los escolásticos --la competencia aseguraba
-    la difusión homogénea del poder de mercado y que se volviera al
-    precio natural!
-	
-## Precio de mercado y precio natural (cont.)
-
-- Smith no logró desenmarañar las dos vertientes/tradiciones del valor
-  --aunque concedió que el valor podía verse influenciado por la
-  utilidad
-- Distinguió entre demanda absoluta (deseo) y demanda efectiva
-  (deseo+poder de compra) --DE aquella de compradores que estén
-  dispuestos a pagar el precio natural (suficiente para pagar los
-  costos de producción)
-- El precio natural para Smith era no sólo de equilibrio ("precio
-  central hacia el que gravitan continuamente los precios de todas las
-  mercancias") sino que era *invariable* a largo plazo --OALP
-  horizontal!
-  
-## Precio de mercado y precio natural (cont.)
-
-- Además reconoció que su modelo y tratamiento era abstracto --los
-  mercados en la vida real no funcionan siempre asi!
-
-> ...aunque el precio de mercado de cada mercancía particular está de
-> esta forma oscilando en torno al precio natural, pueden acaecer
-> circunstancias particulares, causas naturales, y regulaciones
-> políticas concretas, que mantengan el precio de mercado durante
-> mucho tiempo por encima del precio natural
-**[Smith, A. *La Riqueza de las Naciones*, Libro I (1776)]**
-  
-- Por circunstancias particulares y causas naturales refiere a temas
-  de información; tierras especiales para ciertas producciones; y por
-  regulaciones todo lo atinente a monopolios
-
-  
-## Precio de mercado y precio natural (cont.)
-
-- Su modelo guarda relación con el *Tableau Economique* de los
-  fisiócratas por ser un sistema y preveer relaciones de causa-efecto
-- También comprendió de manera clave la interdependencia de mercados
-  de bienes y de factores 
-  - los precios de los productos no pueden estar en equilibrio a LP a
-    menos que los precios de los factores también lo estén
-    --antecedente de Walras
-- Importante contribución pero con algún elemento residual de
-  explicación tautológica
-  
-## Precio de mercado y precio natural (cont.)
-
-> La teoría del valor natural explica el precio en términos del coste
-> de producción. Pero los costes son precios. Se hacen pagos para
-> comprar (alquilar) los diferentes factores. En definitiva, la teoría
-> del valor natural explica los precios por medio de los precios! Una
-> teoría completa del valor debe explicar las *causas* y *fundamentos*
-> de los pagos que se realizan a los factores 
-**[Smith, A. *La Riqueza de las Naciones*, Libro I (1776)]**
-
-## Los factores de producción
-
-- Smith no desarrolló una teoría satisfactoria de la determinación de
-  salarios $w$, renta $r$ y beneficio $\pi$ aunque si ofreció
-  intuiciones
-- 
-
-## Los factores de producción: salario
-
-- Prepara el terreno para el desarrollo del concepto clásico del
-  **fondo de salarios**
-  - esta es al mismo tiempo una *teoría de los salarios* y una *teoría
-    del capital*
-- Acumulación de $K$ permite el empleo de $L$ al tiempo que este
-  capital acumulado es un *fondo para el mantenimiento de la población
-  trabajadora* $\longrightarrow$ fondo de salarios representan
-  **adelantos a los trabajadores** por parte del capitalista a partir
-  de los cuales está legimitado para resarcirse
-
-## Los factores de producción: salario (cont.)
-
-> La persona que cultiva la tierra rara vez tiene lo suficiente para
-> mantenerse hasta la recolección. Su mantenimiento lo obtiene
-> generalmente del capital del patrón que le emplea, y que no tendría
-> interés alguno en hacerlo a menos que participe en el producto de su
-> trabajo o a menos que reponga su capital con un beneficio
-**[Smith, A. *La Riqueza de las Naciones*, Libro I (1776)]**
-
-- como puede verse la existencia de un fondo de salarios es al mismo
-  tiempo una fundamentación del ahorro (acumulación), una explicación
-  del salario y el beneficio y un determinante del crecimiento de la
-  población
-  
-## Los factores de producción: salario (cont.)
-
-- En el análisis de Smith, todo ahorro debe ser invertido --i.e. va al
-  fondo de salarios
-- Por otra parte, ofrece una teoría alternativa  --"teoría contractual
-  de los salarios"
-  - $w$ dependen de fuerzas relativas de empleadores y trabajadores
-    --obvio: límite mínimo a la baja del salario (salario de
-    subsistencia)
-- Si fondo de salarios crece, y $w$ por encima del nivel de
-  subsistencia, puede crecer la población (propagación de especie)
-  - pero no puede ser indefinido porque será cada vez mayor la carga
-    sobre el fondo de salarios (a largo plazo $\longrightarrow$
-    salarios de subsistencia)
-	
-## Los factores de producción: salario (cont.)
-
-- Diferenció entre determinación de salarios a largo plazo y corto
-  plazo
-  - a LP considera que $w$ determinado por costo de mantenimiento y
-    reproducción de trabajadores --*salario natural* es de
-    "subsistencia" entendida como pago mínimo exigido antes de tener hijos 
-  - a CP $w$ puede estar por arriba/abajo de $w$ en LP por varias
-    razones
-- Incluso prevee que $w$ a LP puede ser creciente si economía en
-  crecimiento (por mayor demanda de trabajo)
-
-## Los factores de producción: salario (cont.)
-
-- Interpretó las "diferencias" (primas) salariales en equilibrio
-  - elaboró sobre idea de Cantillon en relación a diferencias de
-    habilidad y esfuerzo; de riesgo e insalubridad
-- Salarios pueden variar por:
-  1. Ingratitud del empleo (directamente proporcional)
-  2. Costo de aprendizaje (directamente proporcional)
-  3. Continuidad del empleo (inversamente proporcional)
-  4. Confianza en el empleado (directamente proporcional)
-  5. Probabilidad de éxito (inversamente proporcional)
-
-## Los factores de producción: beneficio e interés
-
-- Consideró al **beneficio como un rendimiento del capital** mas que
-  como una recompensa al empresario
-- La principal característica del beneficio es su **incertidumbre**
-- Para Smith el beneficio surge como la suma de 2 (dos) pagos
-  1. rendimiento por el $K$ adelantado
-  2. compensación por el riesgo 
-- Se considera que **vio al beneficio como un residuo** pero algunos
-  pasajes de su obra muestran que a veces lo incluyó como determinante del
-  precio de los bienes
-  
-## Los factores de producción: beneficio e interés (cont.) 
-  
-> En realidad, los beneficios elevados tienden mucho más que los
-> salarios altos a elevar el precio de la obra... Nuestros
-> comerciantes y fabricantes se quejan mucho de los malos efectos de
-> los salarios altos porque elevan el precio, disminuyendo en
-> consecuencia sus ventas tanto en el interior como en el
-> extranjero. Pero no dicen nada en cuanto a los males efectos de los
-> altos beneficios.
-**[Smith, A. *La Riqueza de las Naciones*, Libro I (1776)]**
-  
-## Los factores de producción: renta
-
-- Para Smith, la discusión de renta involucra tres elementos
-  1. elementos de monopolio
-  2. idea de excedente residual
-  3. costes alternativos
-- "La renta de la tierra es un precio de monopolio" declaró Smith y la
-  definió como "el precio que se paga por el uso de la tierra"
-- A diferencia del beneficio que no es claro, para Smith **la renta es
-  claramente un pago residual**
-  - es la parte que queda luego de pagar salarios y beneficios
-    $\longrightarrow$ renta no determina el precio sino que viene
-    determinada por el precio
-
-## Los factores de producción: renta (cont.) 
-  
-> La renta entra en la composición del precio de las mercancías de
-> manera distinta a como lo hacen los salarios y el
-> beneficio. Salarios y beneficios altos (o bajos) son la causa de
-> precios altos (o bajos); una renta alta (o baja) es la consecuencia
-> del precio.
-**[Smith, A. *La Riqueza de las Naciones*, Libro I (1776)]**
-
-## Los factores de producción: renta (cont.)
-
-- Consideró que había elementos de monopolio --negociación de
-  contrato (area cultivable), fertilidad, localización
-- ¿Comó se explican las **rentas diferenciales**? $\longrightarrow$
-  sobre la base de costes alternativos
-  - la renta de la tierra dedicada a un uso concreto dependerá de la
-    productividad de la tierra en su mejor uso alternativo
-  
-
-# La macroeconomía de Smith {background="#43464B"}
-
-## La organización productiva
-
-- La organización y división del trabajo es la base y el punto de
-  partida de la **teoría de crecimiento económico de Smith**
-- Explica con ejemplos y aplicaciones las **ganancias de la
-  especialización y de la división de trabajo**
-
-## La organización productiva (cont.)
-
-- Una de las más famosas anécdotas en la economía es la famosa
-  alegoría de Smith de **la fábrica de alfileres** 
-  - [Animación e ilustración de La fábrica de alfileres](https://www.adamsmithworks.org/pin_factory.html)
-
-> El mayor progreso de la capacidad productiva del trabajo, y la mayor
-> parte de la habilidad, destreza y juicio con que ha sido dirigido o
-> aplicado, parecen haber sido los efectos de la división del trabajo
-**[Smith, A. *La Riqueza de las Naciones*, Libro I (1776)]**
-
-## La organización productiva (cont.)
-
-- Enumera las *causas* del incremento en la cantidad de trabajo que,
-  como consecuencia de la división del trabajo, cada trabajador puede realizar:
-  1. El aumento en la destreza en cada uno de los trabajadores
-     individuales
-  2. El ahorro de tiempo que se suele perder en pasar de un tipo
-     (puesto) de trabajo a otro
-  3. La invención de un gran número de máquinas que facilitan y
-     abrevian la tarea 
-- Contraste esto con las razones para la división de trabajo que
-  brindaba Platón --que provenían más de la naturaleza, diferencias
-  *innatas* 
-  - Privilegia Smith el **rol de la educación y la experiencia**
-
-## La organización productiva (cont.)
-
-> <span style=" font-size:25px; line-height:0.5; padding:0">Si se observan las comodidades del más común de los artesanos o
-> jornaleros en un país civilizado y próspero se ve que el número de
-> personas cuyo trabajo, aunque en una proporción muy pequeña, ha sido
-> dedicado a procurarle esas comodidades supera todo cálculo. Por
-> ejemplo, la chaqueta de lana que abriga al jornalero, por tosca y
-> basta que sea, es el producto de la labor conjunta de una multitud
-> de trabajadores. El pastor, el seleccionador de lana, el peinador o
-> cardador, el tintorero, el desmotador, el hilandero, el tejedor, el
-> batanero, el confeccionador, y muchos otros que deben unir sus
-> diversos oficios para completar incluso un producto tan corriente. Y
-> además ¡cuántos mercaderes y transportistas se habrán ocupado de
-> desplazar materiales desde algunos de estos trabajadores a otros
-> que, con frecuencia viven en lugares muy apartados del país!
-> Especialmente, ¡cuánto comercio y navegación, cuántos armadores,
-> marineros, fabricantes de velas y de jarcías, se habrán dedicado a
-> conseguir los productos de droguería empleados por el tintorero, y
-> que a menudo proceden de los rincones mas remotos del mundo!
-**[Smith, A. *La Riqueza de las Naciones*, Libro I (1776)]**
-
-## La organización productiva (cont.)
-
-> <span style=" font-size:25px; line-height:0.5; padding:0"> si
-> examinamos, repito, todas esas cosas, y observamos qué variedad de
-> trabajo está ocupada en torno a cada una de ellas, comprenderemos
-> que sin la ayuda y cooperación de muchos miles de personas el
-> individuo más insignificante de un país civilizado no podría
-> disponer de las comodidades que tiene, comodidades que solemos
-> suponer equivocadamente que son fáciles y sencillas de conseguir. Es
-> verdad que en comparación con el lujo extravagante de los ricos, su
-> condición debe parecer sin duda sumamente sencilla; y sin embargo
-> también es cierto que las comodidades de un príncipe europeo no
-> siempre superan tanto a las de un campesino laborioso y frugal, como
-> las de éste superan a las de muchos reyes [...] que son los amos
-> absolutos de las vidas y libertades de diez mil [...]
-**[Smith, A. *La Riqueza de las Naciones*, Libro I (1776)]**
-
-
-## La organización productiva (cont.)
-
-> It is the great multiplication of the productions of all the
-> different arts, in consequence of the division of labour, which
-> occasions...that universal opulence which extends itself to the
-> lowest ranks of the people
-**[Adam Smith, *The Wealth of Nations, Libro I (1776)]** 
-
-## La riqueza nacional y el crecimiento económico
-
-- Discrepaba fuertemente con los mercantilistas sobre lo que era
-  riqueza $\longrightarrow$ "el valor de cambio del producto anual de
-  la tierra y el trabajo del país"
-  - Pero $\longrightarrow$ sólo consideraba que riqueza involucraba
-    producción de bienes físicos y cayó en la desafortunada distinción
-    entre trabajo productivo (bienes tangibles) e improductivo (cosas
-    intangibles) --esencialmente todo servicio era improductivo!
-- Como dijimos antes, Smith en realidad pretendía distinguir entre
-    actividades que aumentan la inversión y aquellas que no (sólo
-    satisfacen consumo) 
-	
-## La riqueza nacional y el crecimiento económico (cont.)
-
-- La división de trabajo pone en marcha el proceso de crecimiento es
-  la **acumulación de $K$** lo que mantiene el proceso
-  - Naturaleza, acumulación y empleo de **stock** (ie. riqueza)
-- Acumulación de $K$ amplía fondo de salarios, lo que permite mayor
-  cantidad de trabajadores y esto amplía el producto nacional
-  - el beneficio es lo que permite aumentar continuamente el fondo de
-    salarios
-- El crecimiento es así un fenómeno continuo y la restricción última a
-  este crecimiento es la dificultad de encontrar inversiones rentables
-
-## La riqueza nacional y el crecimiento económico (cont.)
-
-![](fig/fig-04-004.png){fig-align="center"}
 
