@@ -323,7 +323,52 @@ format:
     diario
 - Eventualmente esta estructura llamada Estado aumenta su poder sobre
   la vida de la gente sólo porque esta permite que lo haga. 
-  
+
+## La alienación del trabajador
+
+- Con este concepto Marx busca caracterizar **la posición del
+  trabajador en el modo de producción capitalista**. El trabajador se
+  ve alienado por tres razones
+  1. El trabajador **no posee sus propios medios de producción** sino que
+     pertenecen al capitalista
+  2. El trabajador **no es propietario del producto de su actividad**
+     (trabajo)
+  3. El trabajador **no controla la organización del proceso productivo**
+     en el que sólo tienen un papel específico y limitado
+- De este modo, **las herramientas**, **el producto** y **el proceso**
+  aparecen ante los trabajadores **como entidades ajenas** ("alien")
+  - en Das Capital desaparece la noción de alienación y da paso al
+    concepto de **fetichismo de la mercancía**.
+	
+## El fetichismo de la mercancía
+
+- La teoría del valor cualitativo de Marx tiene su corolario en la
+  doctrina del fetichismo de la mercancía. Por ella Marx refiere a que
+  en la producción de mercancías la relación básica entre los hombres
+  "adopta a sus ojos, la fantástica forma de una relación entre las
+  cosas"
+- Esto implica una **materialización de las relaciones sociales**. Según
+  Marx esto no sucedía en sociedades pre-capitalistas donde las
+  relaciones de producción tenían un carácter personal directo
+- Es una situación en que "el proceso de producción tiene dominio sobre
+  el hombre en lugar de ser controlado por él"
+
+## El fetichismo de la mercancía (cont.)
+
+> Desde la economía clásica y salvo con la posible excepción de JS
+> Mill, los autores no se habían preocupado más alla de ofrecer una
+> concepción racional de las relaciones de producción capitalistas. Es
+> con algunos de los primeros sociales y con Marx fundamentalmente que
+> trataron de descubrir las relaciones sociales reales subyacentes en
+> en las formas de producción de las mercancías. En el capitalismo
+> cada quien aparece como vendedor de alguna mercancía de la que es
+> propietario; como propietarios de mercancías están en un plano de
+> igualdad perfecta pero no advierten frecuentemente que el trabajo de
+> uno se dicta en condiciones que otro dispone; en consecuencia, no
+> advierte que está siendo sujeto de explotación 
+
+
+
 ## Marx: El materialismo histórico
 
 > **El materialismo histórico.** Para Marx había solo dos tipos de
@@ -340,27 +385,13 @@ format:
 
 
   
-
-## El sistema marxista: filosofía (cont.)
-
-- Para Marx cambios continuos de la tecnología --el *desarrollo* de
-  las **fuerzas productivas**- son un elemento dinámico y progresista que
-  tensiona con el elemento estático y conservador que representan las
-  **relaciones de producción** --i.e. conjunto de instituciones y
-  costumbres en el que tiene lugar la actividad económica
-- No había una dependencia mecánica de la superestructura
-  institucional e ideológica respecto de la estructura económica
-  - más bien una relación compleja entendido más como un proceso
-    dialéctico que como un proceso netamente causal 
-
-
 # **La teoría de la historia** {background="#390040"}
 
 ## La producción como acto histórico
 
 - Marx inserta el materialismo de Feuerbach en la dialectica de Hegel
-  y patenta su **materialismo dialéctico** para aplicarlo a su teoría
-  de la historia
+  y patenta su "materialismo dialéctico" para aplicarlo a su teoría
+  de la historia (convirtiendose en **materialismo histórico**)
 - El **primer motor de la historia** es la forma en que los individuos
   se buscan la vida $\longrightarrow$ *satisfacción de necesidades
   materiales*
@@ -486,10 +517,22 @@ format:
     económica de la sociedad**
     - A su vez, sobre esta, se superpone una **superestructura
       política y legal**
- 	  
+
 ## El sistema marxista: economía (cont.)	
 
 ![La "pirámide social" de Karl Marx](../fig/fig-05-003.png){#fig-precios}
+
+## El sistema marxista: filosofía (cont.)
+
+- Para Marx cambios continuos de la tecnología --el *desarrollo* de
+  las **fuerzas productivas**- son un elemento dinámico y progresista que
+  tensiona con el elemento estático y conservador que representan las
+  **relaciones de producción** --i.e. conjunto de instituciones y
+  costumbres en el que tiene lugar la actividad económica
+- No había una dependencia mecánica de la superestructura
+  institucional e ideológica respecto de la estructura económica
+  - más bien una relación compleja entendido más como un proceso
+    dialéctico que como un proceso netamente causal 
 
 ## El sistema marxista: economía (cont.)
 
@@ -521,8 +564,7 @@ format:
 
 - El Estado aparece independiente de este conflicto
   --es un poder independiente divorciado de intereses individuales y
-  comunitarios
-- Su lógica sería asi: 
+  comunitarios. Su lógica sería asi: 
   - Clases sociales por la división del trabajo promueven
     aparición del estado
   - Cada clase que ocupa el poder busca promover su propio interés
@@ -703,32 +745,3 @@ format:
   valor cualitativo; mientras que *trabajo socialmente necesario* a la
   teoría del valor cuantitativo
   
-## El fetichismo de la mercancía
-
-- La teoría del valor cualitativo de Marx tiene su corolario en la
-  doctrina del fetichismo de la mercancía. Por ella Marx refiere a que
-  en la producción de mercancías la relación básica entre los hombres
-  "adopta a sus ojos, la fantástica forma de una relación entre las
-  cosas"
-- Esto implica una **materialización de las relaciones sociales**. Según
-  Marx esto no sucedía en sociedades pre-capitalistas donde las
-  relaciones de producción tenían un carácter personal directo
-- Es una situación en que "el proceso de producción tiene dominio sobre
-  el hombre en lugar de ser controlado por él"
-
-## El fetichismo de la mercancía (cont.)
-
-> Desde la economía clásica y salvo con la posible excepción de JS
-> Mill, los autores no se habían preocupado más alla de ofrecer una
-> concepción racional de las relaciones de producción capitalistas. Es
-> con algunos de los primeros sociales y con Marx fundamentalmente que
-> trataron de descubrir las relaciones sociales reales subyacentes en
-> en las formas de producción de las mercancías. En el capitalismo
-> cada quien aparece como vendedor de alguna mercancía de la que es
-> propietario; como propietarios de mercancías están en un plano de
-> igualdad perfecta pero no advierten frecuentemente que el trabajo de
-> uno se dicta en condiciones que otro dispone; en consecuencia, no
-> advierte que está siendo sujeto de explotación 
-
-
-
