@@ -1,0 +1,557 @@
+---
+title: Historia del Pensamiento y del Análisis Económico
+title-slide-attributes:
+  data-background-image: ../fig/background-002.png
+  data-background-size: stretch
+  data-background-opacity: "0.85"
+subtitle: U5. La economía política. El pensamiento clásico II. Socialismo científico
+format:
+  revealjs:
+    slide-number: true
+    chalkboard:
+      buttons: false
+    preview-links: auto
+    css: ..\quarto.css
+    width: 1500
+    center-title-slide: true
+    center: true
+    tbl-cap-location: bottom	
+    toc: true
+    toc-depth: 1
+    toc-title: Contenidos
+    link-external-newwindow: true
+---
+
+# **El socialismo científico: Karl Marx** {background="#390040"}
+
+## Transición al socialismo científico
+
+- Tal vez uno de los primeros y más directos antecedentes de Karl Marx
+	fue Simone de Sismondi --por sus ideas de conflictos de clases, la
+	división entre proletarios y capitalistas, fallos y fluctuaciones del capitalismo
+- Pero no fue hasta **Karl Marx** que el rejunte variopinto de ideas
+  socialistas de rigor analítico y conceptual diverso fue puesto en un
+  **marco unificado de pensamiento económico, político y social**
+- En efecto, Marx desarrolló sus ideas de modo **contribuir  una
+  estructura teórica y un movimiento social** que tendrían impacto en la
+  sociedad
+
+## Introducción y contexto
+
+- La idea de *excedente* y la representación del sistema económico
+  como un flujo circular de producción y consumo fueron adoptadas y
+  utilizadas por Karl Marx de un modo original
+  - su foco estuvo en el **conflicto de intereses entre la burguesía y
+    el proletariado**, lo que no era independiente de un objetivo
+    político dominante
+	- crítica radical del modo de producción capitalista
+- Fuertemente influido por la filosofía hegeliana, particularmente los
+  "hegelianos de izquierda" (Feuerbach, Bauer y Stirner), y por
+  filosofía anticapitalista francesa
+  
+## Introducción y contexto (cont.)
+
+- Marx propuso una feroz crítica de la división del trabajo en la
+  sociedad capitalista a través de dos teorías que desarrollamos luego
+  1. su **teoría de la alienación**
+  2. su **teoría del fetichismo de las mercancías**
+- A través de su **teoría de la explotación**, buscaba demostrar que el
+  beneficio proviene del "trabajo no pagado"
+  - a partir de esto deriva su **teoría del valor-trabajo contenido**
+- Fue **consciente de las limitaciones de esta
+  teoría y de las prescripciones políticas** derivadas de su esquema
+  teórico --ley de tendencia decreciente de la tasa de beneficio y ley
+  del empobrecimiento del proletariado
+
+## Vida y escritos
+
+- Nació en Treveris (Prusia) en 1818. Hijo de padres judíos de clase
+  media convertidos al protestantismo. No mostró gran aplicacion  como
+  estudiante --primero en Bonn donde abandonó rápidamente y luego 
+  en Berlín donde se expuso a Hegel y Feuerbach; finalmente en Jena
+  donde se raduó en 1841. Se casó con la hija de un alto funcionario
+  prusiano, Jenny von Westphalen. 
+- Aunque su ambición inicial fue dedicarse al mundo académico como
+  profesor de filosofía, terminó recostándose en el mundo del
+  periodismo
+  - se convirtió en editor de la *Rheinische Zeitung*, un periódico
+    liberal de Colonia que fue cerrado al cabo de un año
+
+## Vida y escritos (cont.)
+
+- En París encontró a Friedrich Engels (1820-1895) su gran
+  amigo y colaborador. Aquí empieza a escribir sobre
+  filosofía pero también sobre temas económicos $\longrightarrow$
+  *Manuscritos económicos y filosóficos (1844)* 
+- Expulsado de París, emigra a Bruselas. Entre 1845 y 1848 una gran productividad
+  - *Tesis sobre Feuerbach* (1845)
+  - *La ideología alemana* (1846) 
+  - *La miseria de la filosofía* (1847) 
+  - *El Manifiesto Comunista* (1848)
+  - *Trabajo asalariado y capital* (1849)
+
+## Vida y escritos (cont.)
+
+> Manifiesto del partido comunista. Escrito en 1848 este famoso texto
+> sería uno de los escritos más influyentes de todos los
+> tiempos. Expresa en términos enérgicos y penetrantes el proyecto
+> revolucionario de Marx y Engels. Una frase permite resumir el
+> espíritu del texto "La historia de todas las sociedades que han
+> existido hasta ahora es la historia de la lucha de clases". El
+> programa preveía la superación de la propiedad privada mediante la
+> expropiación y transferencia al control directo del Estado que
+> sería, según los autores, la "expresión política del proletariado"
+
+## Vida y escritos (cont.)
+
+> "Un fantasma recorre Europa: el fantasma del comunismo." 
+**[Marx y Engels (1848) *Manifiesto del partido comunista*, pp. 48)]** 
+
+> "Los comunistas [...] declaran abiertamente que sus fines sólo
+> pueden alcanzarse por el derrocamiento forzado de todas las
+> condiciones sociales existentes. Dejemos que las clases dirigentes
+> tiemblen ante una revolución comunista. Los proletarios no tienen
+> nada que perder, excepto sus cadenas. Tienen un mundo que
+> ganar. Trabajadores de todos los países, ¡uníos!" 
+**[Marx y Engels (1848) *Manifiesto del partido comunista*, pp. 82)]** 
+
+## Vida y escritos (cont.)
+
+![Principios del comunismo moderno](../fig/fig-05-002.png){#fig-precios}
+
+## Vida y escritos (cont.)
+
+- Vuelve a Prusia en un tiempo de agitación política y es expulsado
+  nuevamente. Emigra a Londres donde pasa el resto de sus días. **Desde
+  1857 otro gran período de productividad** $\longrightarrow$ publica
+  los *Grundrisse* (1857), la *Historia crítica de la teoría de la
+  plusvalía* (1863). 
+  - su concepción materialista de la historia mejor expresada en
+    *Contribución a la crítica de la economía política* (1859)
+- En **1867 se publicó el primer tomo de su obra magna, *El Capital***
+  --dado que murió en 1883, los restantes dos tomos se publicaron
+  póstumamente, cortesía de su amigo Friedrich Engels
+
+# **Metodología y método en Marx** {background="#390040"}
+
+## Objetivo y preocupación
+
+- Objetivo y principal preocupación de Marx $\longrightarrow$
+  **sociedad en su conjunto y el proceso de cambio social**. En sus
+  palabras, "poner al desnudo la ley económica del
+  movimiento de la sociedad moderna"
+  - radicalmente distinto de pensadores previos
+- Por eso resulta tan relevante su **teoría de la sociedad**
+  - esgrime que "la anatomía de esa sociedad civil ha de verse en la
+  economía política" y relaciona la producción social, relaciones de
+  producción y fuerzas productivas
+	
+## Relaciones de producción y fuerzas productivas
+
+> En la producción social que realizan, los hombres entran en
+> relaciones determinadas que son necesarias e independientes de su
+> voluntad; estas relaciones de producción corresponden a una etapa
+> definida de desarrollo de sus fuerzas productivas materiales. La
+> suma total de estas relaciones de producción constituye la
+> estructura económica de la sociedad, su fundamento real, sobre la
+> que se elevan las superestructuras legales y políticas y a la que
+> corresponden unas formas determinadas de conciencia social. El modo
+> de producción de la vida material condiciona el proceso de vida
+> social, política e intelectual en general. 
+
+## Relaciones de producción y fuerzas productivas (cont.)
+
+> No es la conciencia de los hombres la que determina su ser sino que,
+> por el contrario, su ser social determina su conciencia. En una
+> determinada etapa de su desarrollo las fuerzas productivas
+> materiales de la sociedad entran en conflicto con las relaciones de
+> producción existentes, o --lo que no es sino una expresión legal de
+> la misma cosa- con las relaciones de propiedad con las que habían
+> estado funcionando antes. Estas relaciones pasan de ser formas de
+> desarrollo de las fuerzas productivas a convertirse en sus
+> cadenas. Sobreviene entonces un período de revolución social. 
+**[Marx, K. *Contribución a la crítica de la economía política* (1859), pp. 84]** 
+  	
+## El método de Marx 
+
+- De Hegel tomó los elementos que enfatizaban el proceso y desarrollo
+  **a través del conflicto** --conflicto en el modo de producción
+  ["conflictos de clase"] 
+  - no era en extremo diferente a la metodología de Ricardo --también
+    existían conflicto entre terratenientes y capitalistas
+- Pero rechazó el planteo ricardiano y **centró su análisis en el
+  factor capital (no tierra)** --"el capital es la fuerza que todo lo
+  domina en la sociedad burguesa". 
+- La **relación y conflicto principal para Marx es entre capitalistas
+  (burguesía) y trabajadores (proletariado)**. 
+
+	
+## Foco y abstracción
+
+> *La relación entre el trabajo asalariado y el capital determina todo
+> el carácter del modo de producción*
+
+- esta era la relación esencial y el foco de su
+  abstracción debía ser aislarla, reducirla a su forma más pura y
+  analizarla de modo riguroso. 
+  - implicaba dejar de lado toda otra relacion social
+
+## Valor de cambio y valor de uso
+
+- Marx excluía el valor de uso de la esfera de investigación de la
+  economía política --no se trata sobre una relación social ("entre
+  las gentes) sino de una relacion entre personas y cosas
+  - el valor de cambio si se trata de relaciones entre las gentes
+- Robbins argumenta que "el sistema económico como una serie de
+  relaciones interdependientes aunque conceptualmente discretas entre
+  hombres y bienes económicos"
+- 
+
+
+## Valor de cambio y valor de uso (cont.)
+
+- La relación cuantitativa entre cosas que llamamos valor de cambio
+  es, en realidad, sólo una forma exterior de la relación social entre
+  los propietarios de mercancisa --o lo que viene a ser igual en la
+  producción simple de mercancías- entre los productores mismos
+- El cambio de mercancías es un cambio de los productos del trabajo de
+  productores individuales
+- Distingue entre trabajo útil y trabajo abstracto ("trabajo en
+  general") --aquel que hace abstracción de toda diferencia en las
+  clases de trabajo cambiado
+  
+## Valor de cambio y valor de uso (cont.)
+
+- La relación cuantitativa entre cosas que llamamos valor de cambio
+  es, en realidad, sólo una forma exterior de la relación social entre
+  los propietarios de mercancisa --o lo que viene a ser igual en la
+  producción simple de mercancías- entre los productores mismos
+- El cambio de mercancías es un cambio de los productos del trabajo de
+  productores individuales
+- Distingue entre trabajo útil y trabajo abstracto ("trabajo en
+  general") --aquel que hace abstracción de toda diferencia en las
+  clases de trabajo cambiado
+  
+## Valor de cambio y valor de uso (cont.)
+
+![Trabajo abstracto según Marx](fig/fig-05-add-001.png){#fig-precios}
+
+## Valor de cambio y valor de uso (cont.)
+
+- La relación cuantitativa entre cosas que llamamos valor de cambio
+  es, en realidad, sólo una forma exterior de la relación social entre
+  los propietarios de mercancisa --o lo que viene a ser igual en la
+  producción simple de mercancías- entre los productores mismos
+- El cambio 
+
+## $K$ y $L$: relación de cambio
+
+- La relación capital-trabajo es una **relación de cambio**
+  1. Capitalista compra fuerza de trabajo al trabajador
+  2. Trabajador recibe del capitalista dinero a cambio con el cual
+  adquiere lo necesario para la vida. 
+- Para entenderla debía realizar un  **análisis general del
+  fenómeno del cambio**
+  - "todo lo lo que habitualmente se destina al cambio más bien que al uso
+  directo es una *mercancía*"
+- Análisis de mercancías implica análisis de relacion de cambio y el
+    aspecto cuantitativo de esta relación --i.e. **valor de cambio**
+
+  
+## Abstracción, resultados y predicciones
+
+- El volumen I de El Capital dedicado al estudio de esta relación de
+  cambio con un **alto nivel de abstracción**
+  - equivale a decir que analizó esa relación en las más pura
+  abstracción como sea posible 
+- En este sentido, **resultados e implicancias por tanto son
+  provisionales** y dependen de la verificación de ese nivel de abstracción
+  - ejemplo $\longrightarrow$ ley de la miseria creciente del
+    proletariado es deducida en un alto nivel de abstracción y no
+    constituye una predicción del futuro sino **una ley en el marco de
+    la abstracción realizada** 
+	
+## Críticas al método y predicciones
+
+- Gran parte de las **críticas dirigidas al trabajo de Marx son a los
+  supuestos** con los que trabaja. Es importante establecer criterios
+  para juzgar validez de las críticas. En particular, con respecto a
+  los supuestos de Marx, cabe hacerse las preguntas:
+  1. ¿están hechas con la debida consideración del problema que se
+     estudia?
+  2. ¿eliminan los elementos no esenciales del problema?
+  3. ¿se abstiene de eliminar elementos no esenciales? 
+- Si las respuestas a esas tres preguntas es afirmativa, entonces se
+  ha procedido observando el principio de la abstracción apropiada
+  
+
+# **El sistema marxista: filosofía** {background="#390040"}
+
+## Análisis amplio e integrador
+
+- En el centro del pensamiento de Marx se encuentra una **teoría de
+  los procesos históricos** basada en las fuerzas económicas y
+  materiales y que culmina en el cambio económico y social
+- Esto marca un contraste y un precedente tanto con autores clásicos y
+  con las reacciones críticas anteriores a Marx --su análisis fue
+  general, amplio e integrador de filosofía, historia y economía
+
+## Hegel: La dialéctica hegeliana
+
+- Figura dominante en la filosofía alemana $\longrightarrow$ Georg
+  Hegel [1770-1831]
+  - influyó sobre los historicistas alemanes y sobre Marx
+- Marx quedó fascinado con la **teoría del progreso** de Hegel
+- El progreso para Hegel no es un proceso de continuidad suave sino
+  que resulta de fuerzas opuestas, más específicamente, cuando se
+  enfrentan
+- En la lucha, ambas fuerzas desaparecen y son reemplazadas por un
+  tercera 
+  - idea de *tesis*, *antitesis* y *sintesis*
+- La *síntesis* prevalece y así es como la historia avanza
+
+## Feuerbach: La doctrina del materialismo
+
+- Adoptó la **diálectica hegeliana** pero la modificó a la luz de la
+  **doctrina del materialismo** de Feuerbach
+  - seres humanos no eran solo una clase de seres sino
+    seres sensuales 
+- Feuerbach $\longrightarrow$ toda la historia es el proceso de
+  preparación de los humanos para que lleguen a ser objetos de una
+  actividad "consciente" más que "inconsciente" --i.e la religión;
+  Feuerbach era un realista; la religión era *irreal* y por
+  tanto una forma de *auto-alienación*
+- Marx utilizó esta nomenclatura para referirse al **proceso de
+  conversión de productos de la actividad individual y social en algo
+  independiente de la misma**
+	 
+
+## El concepto de alienación
+
+- Lo interesante en la adopción de Marx era que **extendió el
+  concepto de *alienación* a toda clase de actividad económica y
+  política**
+  - el Estado, para Marx se origina y deriva su poder del hecho de que
+    los seres humanos no pueden/no quieren enfrentarse con los
+    problemas que enfrentan en la interacción económica y social a
+    diario
+- Eventualmente esta estructura llamada Estado aumenta su poder sobre
+  la vida de la gente sólo porque esta permite que lo haga. 
+  
+## Marx: El materialismo histórico
+
+> **El materialismo histórico.** Para Marx había solo dos tipos de
+> filosofías: el idealismo (da primacía al espíritu sobre la materia)
+> y el materialismo (da primacía a la materia sobre el espíritu). La
+> alienación es la pérdida del ser y la esencia del hombre --por eso
+> el hombre debe liberarse. Lo único existente es la materia y por su
+> propia esencia es dinámica, en constante cambio. Y actúa de manera
+> dialéctica: tesis-antitesis-sintesis. El materialismo histórico es
+> pues la aplicación del materialismo dialéctico a los fenomenos
+> históricos y sociales. Pretende explicar la evolución de la sociedad
+> humana y del hombre como individuo mediante factores principalmente
+> materiales, y concretamente, factores económicos. 
+
+
+  
+
+## El sistema marxista: filosofía (cont.)
+
+- Para Marx cambios continuos de la tecnología --el *desarrollo* de
+  las **fuerzas productivas**- son un elemento dinámico y progresista que
+  tensiona con el elemento estático y conservador que representan las
+  **relaciones de producción** --i.e. conjunto de instituciones y
+  costumbres en el que tiene lugar la actividad económica
+- No había una dependencia mecánica de la superestructura
+  institucional e ideológica respecto de la estructura económica
+  - más bien una relación compleja entendido más como un proceso
+    dialéctico que como un proceso netamente causal 
+
+
+# La teoría de la historia {background="#390040"}
+
+## La producción como acto histórico
+
+- Marx inserta el materialismo de Feuerbach en la dialectica de Hegel
+  y patenta su **materialismo dialéctico** para aplicarlo a su teoría
+  de la historia
+- El **primer motor de la historia** es la forma en que los individuos
+  se buscan la vida $\longrightarrow$ *satisfacción de necesidades
+  materiales*
+
+> El primer acto histórico es...la producción de los medios para
+> satisfacer estas necesidades, la producción de la propia vida material
+**[Karl Marx, *La ideología alemana*]**
+
+## ...y económico
+
+- Pero la producción no es sólo un acto histórico sino un acto
+  económico $\longrightarrow$ la producción para Marx es la fuerza
+  central de las fuerzas mutuamente condicionantes (producción,
+  distribución, cambio, consumo)
+  - la economía para Marx es **la ciencia de la producción**
+- Afirmaba que los *métodos de producción* contribuían a formar la
+  propia naturaleza humana
+  
+## Modos de producción y modos de vida
+
+> El modo como los hombres producen sus medios de vida depende, ante
+> todo, de la naturaleza misma de los medios de vida con que cuentan,
+> y que tratan de reproducir. Este modo de producción no puede
+> considerarse únicamente en el sentido de ser la reproducción de la
+> existencia física de los individuos. Es ya más bien un modo
+> determinado de la actividad de estos individuos, de manifestar su
+> vida, un determinado *modo de vida* de los mismos. Los individuos
+> son tal y como manifiestan su vida. Lo que son los individuos
+> coincide, por tanto, con su producción, es decir, tanto con *lo que*
+> producen como con el modo *como* producen. Lo que los individuos son
+> depende, por tanto, de las condiciones materiales de producción
+**[Karl Marx, *La ideología alemana*]**
+
+# Marx sobre el capitalismo {background="#390040"}
+
+## Teoría de la historia y capitalismo
+
+- La teoría económica de Marx es una aplicación de su teoría de la
+  historia a la economía capitalista $\longrightarrow$ quería revelar
+  las leyes de la dinámica del capitalismo
+- Otros economistas centran su atención en la **estática**; Marx se
+  focalizó en la **dinámica**, en el cambio. 
+- Algunos autores marxistas como Sweezy y Lange sugirieron que la
+  economía marxista ayuda a comprender las fuerzas que subyacen al
+  mercado y el análisis clásico convencional es util para organizar y
+  gestionar la economía socialista
+  - para Lange, análisis económico marxista y ortodoxo no eran
+    excluyentes sino complementarios
+  - "...sólo es posible comprender la evolución apelando a la economía
+  marxista"
+ 
+
+## Producción simple y capitalista
+
+- Producción simple $\longrightarrow$ cada productor posee sus propios
+  medios de producción y trabaja con ellos
+- Producción capitalista $\longrightarrow$ un grupo posee los medios
+  de producción (propiedad) y otro grupo realiza el trabajo
+  (trabajadores)
+- Importante $\longrightarrow$ tanto **medios de producción** como
+  **trabajo** son mercancías
+  - ambos tienen **valor de cambio**
+- Para Marx es la **compra y venta de la fuerza de trabajo** lo que es
+  la diferencia específica del capitalismo
+  
+## Circuitos M-D-M y D-M-D
+
+- Producción simple $\longrightarrow$ M-D-M --empieza con Mercancía
+  (trabajo), las convierte en Dinero (intercambio), y de ahí una vez
+  más en Mercancía
+- Producción capitalista $\longrightarrow$ D-M-D --se presenta el
+  capitalista con Dinero, compra Mercancias (fuerza de trabajo y
+  medios de producción) y vuelve al mercado para mas Dinero (producto
+  terminado)
+- Y como no tiene ningún sentido que la $D$ del final sea igual que la
+  $D$ del inicio entonces el circuito debe ser
+  $D-M-D'$ donde $D' > D$ 
+
+## Dinero, mercancias y *plusvalía*
+
+> El incremento del dinero medido por la diferencia entre $D'$ y $D$
+> es lo que Marx denomina plusvalía. Constituye el ingreso del
+> capitalista como tal y suministra "el fin directo y el incentivo
+> determinante de la producción"
+
+- Note que Marx plantea que el capitalista sólo tiene por qué
+  desembolsar dinero a cambio de fuerza de trabajo y medios de
+  producción si en esa forma puede adquirir más dinero en el proceso
+
+## Circulación de mercancías y circulación de capital
+
+> La circulación simple de mercancías -vender para comprar- es un
+> medio de realizar un propósito no conectado con la circulación, a
+> saber, la apropiación de los valores de uso, la satisfacción de
+> necesidades. La circulación de dinero como capital es, por el
+> contrario, un fin en sí misma, puesto que la expansión del valor
+> sólo tiene lugar en el curso de este movimiento renovado sin
+> cesar. La circulación del capital, por tanto, no tiene límites...La
+> expansión del valor, que es la base objetiva o el resorte principal
+> de la circulación D-M-D, se convierte en su fin subjetivo...Los
+> valores de uso, por lo tanto, no deben considerarse nunca el fin
+> real del capitalista; ni tampoco la ganancia lograda en una sola
+> transacción. El proceso inacabable y sin descanso de la obtención de
+> ganancias es el solo fin que persigue.
+**[Mark, Karl, *El Capital*, Tomo I, pp. 169-170]**
+   
+   
+   
+   
+## El sistema marxista: economía
+
+- Las **fuerzas productivas --dinámicas** para Marx son fruto de la división del
+  trabajo y son: tierra, trabajo, capital y tecnología. 
+- Cada una está en constante cambio (dinámica) tanto en *cantidad*
+  como en *calidad* $\longrightarrow$ esto es por cambios
+  demográficos, tecnológicos, educación y demás
+- Pero están sujetas a ciertas **relaciones de producción
+  --estáticas** $\longrightarrow$ son las que considera las reglas de
+  juego capitalista y son de dos tipos:
+  1. relaciones de propiedad
+  2. relaciones humanas
+
+## El sistema marxista: economía (cont.)
+
+- Las **relaciones de propiedad** existen entre las personas y las
+  cosas mientras que las **relaciones humanas** existen entre las
+  personas
+  - La suma total de estas relaciones da pie a la **estructura
+    económica de la sociedad**
+    - A su vez, sobre esta, se superpone una **superestructura
+      política y legal**
+ 	  
+## El sistema marxista: economía (cont.)	
+
+![La "pirámide social" de Karl Marx](../fig/fig-05-003.png){#fig-precios}
+
+## El sistema marxista: economía (cont.)
+
+- Puede resumirse el esquema de la **teoría de la sociedad de Marx**
+  1. A medida que la división del trabajo se profundiza, el trabajo se
+     hace cada vez más fragmentado
+  2. Conflictos de intereses cada vez más agudos via institución de
+     propiedad privada --partición del capital acumulado entre
+     diferentes propietarios, $K$ y $L$
+  3. Las **fuerzas dinámicas de la producción** entran en conflicto
+     con las **relaciones estáticas de la producción** 
+  4. En el punto más álgido, se produce **la lucha de clases y la
+     revolución** 
+  5. Se invierte la **pirámide de la sociedad** 
+
+
+
+## Fuerzas productivas
+
+- Marx reconocía que el *desarrollo de las fuerzas productivas*
+  dependía de la mayor/menor división del trabajo --pero hasta ahí
+  llegaban los acuerdos
+  - argumentó que había una **conexión entre mayor división del
+    trabajo y mayor conflicto de intereses**
+- Habla de las separaciones graduales: 1) entre trabajo
+  industrial/comercial y trabajo agrícola (ciudad vs campo); 2) entre
+  trabajo industrial y comercial; 3) entre trabajadores de cada
+  clase/tipo de trabajo
+  
+## El sistema marxista: historia (cont.)
+
+- El Estado aparece independiente de este conflicto
+  --es un poder independiente divorciado de intereses individuales y
+  comunitarios
+- Su lógica sería asi: 
+  - Clases sociales por la división del trabajo promueven
+    aparición del estado
+  - Cada clase que ocupa el poder busca promover su propio interés
+  - La comunidad ve este interés de clase como ajeno y que no controla
+- La situación tensiona cuando se dan 2 (dos) condiciones
+  1. grandes masas de la humanidad es desposeída de la propiedad al
+     tiempo que existe un mundo de riquezas y culturas
+  2. el desarrollo de las fuerzas productivas es universal --debe
+     ocurrir en todos lados o la revolución y el comunismo serán
+     fenómenos locales

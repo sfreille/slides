@@ -4,7 +4,7 @@ title-slide-attributes:
   data-background-image: ../fig/background-002.png
   data-background-size: stretch
   data-background-opacity: "0.85"
-subtitle: U4. La economía política. La segunda generación de clásicos.
+subtitle: U4. 
 format:
   revealjs:
     slide-number: true
@@ -35,6 +35,103 @@ format:
   - En general se mantuvieron dentro de un mismo cuerpo de principios
     generales sobre los que todos acordaban en mayor o menor medida
 	
+## La tradición ricardiana: contexto
+
+- Ricardo poseía indudablemente una autoridad muy fuerte en la época
+  --tal es así que constituyó el modelo canónico durante 50 años luego
+  de la publicación de sus *Principios*
+- Surgió intensa actividad de debate político y económico --el
+  *Political Economy Club*; incluso cuestionando cuánto de la
+  contribución ricardiana quedaba en pie
+  - debate económico entrecruzado con debate político (líneas
+    reformistas, conservadoras)
+- Debate económico sin embargo acotado a Inglaterra --centro de
+  cultura europea y mundial era Londres, no París [industrialización,
+  anglocentrismo de historiadores, personalidades influyentes]
+  
+## Los "ricardianos": Robert Torrens 
+
+- Crítico de la teoría del valor trabajo, este oficial de los Royal
+  Marines y miembro del Parlamento fue uno de los fundadores del
+  *Political Economy Club* y uno de sus miembros más activos
+- Intervino en debate sobre efectos económicos del bloqueo napoleónico
+  y atacó a la Fisiocracia --el sector manufacturero también produce
+  excedente no sólo la agricultura
+  - destacó las ventajas del comercio al favorecer la división del
+    trabajo
+- Sus ideas sobre la teoría de la renta no fueron superiores a las de
+  Ricardo
+
+## Los "ricardianos": Robert Torrens (cont.)
+
+- Contribuyó una teoría del comercio internacional basada en los
+  costes comparados --misma mercancía en diferentes países- a
+  diferencia de Ricardo --estructura de costes entre diferentes
+  mercancías. 
+- Criticó la rígida proporcionalidad entre precios relativos y la
+  cantidad de trabajo contenida en las mercancías; resaltaba las
+  "excepciones" 
+  - $TVT$ ricardiana debía rechazarse y reemplazarse por una teoría
+    general
+- "Es siempre la cantidad de capital, y nunca la cantidad de
+  trabajo...lo que determina el valor de cambio de las mercancías"
+
+## Los "ricardianos": Robert Torrens (cont.)
+
+- Cayó en razonamiento circular $\longrightarrow$ si los precios
+  relativos de las mercancías se explican por los valores de los
+  capitales, ¿cómo determinamos el valor de los capitales?
+- Acercó ejemplos e intuiciones pertinentes pero fue poco riguroso e
+  impreciso en su análisis
+- Su teoría de los precios basada en la dificultad de producción
+  expresada en términos físicos (cantidad de medios de producción
+  usados para un $Y$ dado más que cantidad de trabajo directa e
+  indirectamente incoporado)
+
+## Los "ricardianos": Robert Torrens (cont.)
+
+- Promovía una política comercial de tipo recíproca, no acordaba con
+  la posición librecambista unilateral
+- Fue uno de los principales proponentes de la *Currency School* en
+  temas monetarios
+  - convertibilidad de papel moneda (en oro) necesaria pero no
+    suficiente para mantener sistema estable; proponía limitación
+    rigurosa a la emisión de papel moneda; división del BoE en
+    emisión y banca (Peel Act en 1844)
+	
+## Los "ricardianos": Samuel Bailey
+
+- Samuel Bailey fue más allá de la idea de que había una "sustancia de
+  valor" o un "valor absoluto" incorporado en los bienes
+  - sostenía que el valor de cambio dependía de la valoración de los
+    agentes económicos en el acto de intercambio
+- Distinguía bienes de: 1) lmonopolio; 2) costos
+  crecientes; y 3) costos constantes. Teoría ricardiana sólo válida
+  para los terceros 
+- Bailey decía que los segundos eran más relevantes en el mundo real 
+  - para estos la relación entre valoración relativa de compradores y
+    escasez (relativa) era la clave
+	- precursor de pensamiento utilitarista y marshalliano!
+   
+## Los "ricardianos": Samuel Bailey (cont.)
+
+- Fue de los pocos que avanzaron en la tradición del valor subjetivo
+  - crítica de Bailey "los economistas intentan demasiado cuando
+    quieren resolver todas las causas del valor en una, reduciendo así
+    la ciencia a una simplicidad que ella no admite" $\longrightarrow$
+    pretensión de la economía *reductio ad unum* 
+- Esto era esencialmente una crítica directa a los exponentes de las
+  explicaciones metafísicas para la noción de valor (que estaba
+  presente en todas las variantes de la TVT)
+
+## Los "ricardianos": Thomas de Quincey
+
+## Los "ricardianos": John Ramsey McCulloch
+
+## Los "ricardianos": los socialistas y cooperativistas
+
+## William Nassau Senior y el anti-ricardianismo
+
 ## John Stuart Mill [1806-1873]
 
 - Publicó su principal obra económica en 1848 con el libro *Principles
