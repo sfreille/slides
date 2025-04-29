@@ -22,7 +22,7 @@ format:
     link-external-newwindow: true
 ---
 
-# La economía de Marx {background="#390040"}
+# **La economía de Marx: introducción, nomenclatura y el rol de la fuerza de trabajo** {background="#390040"}
 
 ## Sistema de Marx y metodología
 
@@ -32,7 +32,7 @@ format:
   teoría de la historia a la sociedad de su epoca buscando descubrir
   las **contradicciones entre las fuerzas productivas y las relaciones
   de producción** que llevarían a la lucha de clases
-- 
+ 
 
 ## Sistema de Marx y metodología (cont.)
 
@@ -90,7 +90,7 @@ format:
 - Su crítica a la economía política era porque ocultaba la *alienación
   inherente a la naturaleza del trabajo* por no considerar la relación
   directa *entre el trabajador y la producción*
-  - esta idea es el sello distintivo de la economia marxiana
+  - esta idea es el sello distintivo de la economia marxista
   
 ## Los primeros escritos económicos (cont.)
 
@@ -106,8 +106,92 @@ format:
   distribucion)
   - para Marx toda forma de producción crea sus propias relaciones
   legales y formas de gobierno ("instituciones") 
+
+
+## Nomenclatura y elementos principales
+
+- Las **fuerzas productivas --dinámicas** para Marx son fruto de la división del
+  trabajo y son: tierra, trabajo, capital y tecnología. 
+- Cada una está en constante cambio (dinámica) tanto en *cantidad*
+  como en *calidad* $\longrightarrow$ esto es por cambios
+  demográficos, tecnológicos, educación y demás
+- Pero están sujetas a ciertas **relaciones de producción
+  --estáticas** $\longrightarrow$ son las que considera las reglas de
+  juego capitalista y son de dos tipos:
+  1. relaciones de propiedad
+  2. relaciones humanas
+
+## Nomenclatura y elementos principales (cont.)
+
+- Las **relaciones de propiedad** existen entre las personas y las
+  cosas mientras que las **relaciones humanas** existen entre las
+  personas
+  - La suma total de estas relaciones da pie a la **estructura
+    económica de la sociedad**
+    - A su vez, sobre esta, se superpone una **superestructura
+      política y legal**
+
+## Estructura, superestructura y revolución	
+
+![La "pirámide social" de Karl Marx](../fig/fig-05-003.png){#fig-precios}
+
+## Diálectica y cambio
+
+- Para Marx cambios continuos de la tecnología --el *desarrollo* de
+  las **fuerzas productivas**- son un elemento dinámico y progresista que
+  tensiona con el elemento estático y conservador que representan las
+  **relaciones de producción** --i.e. conjunto de instituciones y
+  costumbres en el que tiene lugar la actividad económica
+- No había una dependencia mecánica de la superestructura
+  institucional e ideológica respecto de la estructura económica
+  - más bien una relación compleja entendido más como un proceso
+    dialéctico que como un proceso netamente causal 
+
+## El proceso de cambio y revolución social
+
+- Puede resumirse el esquema de la **teoría de la sociedad de Marx**
+  1. A medida que la división del trabajo se profundiza, el trabajo se
+     hace cada vez más fragmentado
+  2. Conflictos de intereses cada vez más agudos via institución de
+     propiedad privada --partición del capital acumulado entre
+     diferentes propietarios, $K$ y $L$
+  3. Las **fuerzas dinámicas de la producción** entran en conflicto
+     con las **relaciones estáticas de la producción** 
+  4. En el punto más álgido, se produce **la lucha de clases y la
+     revolución** 
+  5. Se invierte la **pirámide de la sociedad** 
+
+## Fuerzas productivas
+
+- Marx reconocía que el *desarrollo de las fuerzas productivas*
+  dependía de la mayor/menor división del trabajo --pero hasta ahí
+  llegaban los acuerdos
+  - argumentó que había una **conexión entre mayor división del
+    trabajo y mayor conflicto de intereses**
+- Habla de las separaciones graduales: 1) entre trabajo
+  industrial/comercial y trabajo agrícola (ciudad vs campo); 2) entre
+  trabajo industrial y comercial; 3) entre trabajadores de cada
+  clase/tipo de trabajo
   
-## La naturaleza del capitalismo y la TVT
+## El Estado para Marx
+
+- El Estado aparece independiente de este conflicto
+  --es un poder independiente divorciado de intereses individuales y
+  comunitarios. Su lógica sería asi: 
+  - Clases sociales por la división del trabajo promueven
+    aparición del estado
+  - Cada clase que ocupa el poder busca promover su propio interés
+  - La comunidad ve este interés de clase como ajeno y que no controla
+- La situación tensiona cuando se dan 2 (dos) condiciones
+  1. grandes masas de la humanidad es desposeída de la propiedad al
+     tiempo que existe un mundo de riquezas y culturas
+  2. el desarrollo de las fuerzas productivas es universal --debe
+     ocurrir en todos lados o la revolución y el comunismo serán
+     fenómenos locales
+
+# **La economía de Marx: la teoría del valor trabajo (TVT)** {background="#390040"}
+
+## La naturaleza del capitalismo y la teoría del valor
 
 - En el ideario de Marx, debía demostrar
   1. Como la mercancía de cambio en el mercado lleva a la lucha de
@@ -120,13 +204,13 @@ format:
 - El capitalismo para Marx era un sistema económico en que las
   personas vivían comprando y vendiendo mercancías
   
-## La naturaleza del capitalismo y la TVT (cont.)
+## La naturaleza del capitalismo y la teoría del valor (cont.)
 
 - Casi toda esta sección se desprende de contribuciones escritas en
   *El Capital*. Es aquí donde comienza a analizar la producción y
   distribución de mercancías y para ello parte de las TVT de Smith y
   Ricardo
-- Marx **identificó al trabajo como la esencia de todo valor**
+- Marx **identificó al trabajo como la esencia (causa) de todo valor**
   $\longrightarrow$ el valor era una propiedad objetiva de todas las
   mercancías 
   - ni por asomo Marx daba crédito a fuentes subjetivas del valor
@@ -134,7 +218,7 @@ format:
     determinaban el valor
 - Pero el **valor se determina *antes* del precio**
 
-## La naturaleza del capitalismo y la TVT (cont.)
+## La naturaleza del capitalismo y la teoría del valor (cont.)
 
 - Marx percibió y atacó la aparente contradicción entre las dos TVT de
   los clásicos: 1) precio de mercado (CP) y 2) precio natural (LP) por
@@ -146,7 +230,7 @@ format:
   -- en otras palabras, para Marx el valor venía determinado no por
   las leyes del mercado sino por la producción
 
-## La naturaleza del capitalismo y la TVT (cont.)
+## La naturaleza del capitalismo y la teoría del valor (cont.)
 
 > Algunos "traductores" de Marx sugieren que el "resolvía" este contraste de
 > la siguiente forma. Los *precios de mercado* son estimaciones
@@ -158,22 +242,49 @@ format:
 > lo que realmente importaba era las relaciones de intercambio
 > objetivas
 
-## Salarios y capital
+## Trabajo y fuerza de trabajo
 
-- Marx enfrentó las mismas 2 (dos) preguntas que Ricardo:
-  1. ¿Cuál es el valor de cambio del trabajo? $\longrightarrow$ teoría
-  de los salarios 
-  2. ¿Cómo se determina el valor de los bienes producidos por la
-     maquinaria? $\longrightarrow$ teoría del capital
-- Marx descompuso el valor de la fuerza de trabajo en dos componentes
-  1. **Trabajo socialmente necesario** $\longrightarrow$ determina el
-     *valor de cambio* del trabajo en sí (salario)
-  2. **Plusvalía** $\longrightarrow$ es apropiada por el capitalista
-- En esto Marx fue claro $\longrightarrow$ "el capitalismo no podría
-  existir si el trabajador no produjese un valor mayor que el
-  requerido por su propia subsistencia"
+- Distinguió entre **trabajo** -ejercicio en la práctica real de
+  alguna actividad productiva- y **fuerza de trabajo** -trabajador
+  como persona que incorpora el potencial para ejercitar una actividad
+  productiva 
+  - paralelo $\longrightarrow$ calor y fuerza de calor (carbón). El
+    carbón es una *mercancía* que se compra y se vende en el mercado
+    al precio que cubra sus costos de producción. El comprador
+    **utiliza el carbón para obtener calor** --pero podría usarla de
+    cualquier otra forma. 
+- Una vez adquirida, la *mercancía* pertenece al comprador
 
-## Salarios y capital (cont.)
+## Trabajo y fuerza de trabajo (cont.)
+
+> **Trabajo y fuerza de trabajo.** La mercancía vendida por el
+> trabajador es la *fuerza de trabajo* (capacidad de trabajo); el
+> capitalista paga por ella su *valor* (lo suficiente para cubrir los
+> costos de producción de la fuerza de trabajo --i.e. medios de
+> subsistencia para mantener vivo al trabajador y su familia). El
+> capitalista adquiere el derecho de utilizarlo en el proceso
+> productivo para obtener de él un número dado de horas diarias de
+> trabajo. Dada la extensión de un una jornada laboral, el número de
+> horas de trabajo que el capitalista "extraería" del trabajador sería
+> mayor al *valor* de la fuerza de trabajo --i.e. número de horas de
+> trabajo "contenido" en los medios de subsistencia 
+
+
+## Trabajo necesario y trabajo excedente
+
+- Si hay un excedente, la cantidad de trabajo diario que proporcionan los
+  trabajadores es mayor que la cantidad de trabajo requerida para
+  *producir* sus medios diarios de subsistencia. Marx
+  distinguió:
+  1. **Trabajo (socialmente) necesario** $\longrightarrow$ es el que se
+     requiere para producir los medios de subsistencia de todos los
+     trabajadores en la economía **[salario/valor de cambio del trabajo]**
+  2. **Trabajo excedente** $\longrightarrow$ es el *resto* del trabajo
+     realizado en la jornada diaria **[plusvalía]**
+- El **trabajo excedente** es pues igual a la diferencia entre el
+  **trabajo social total** y el **trabajo necesario**
+
+## Producción y *plusvalía*
 
 - Aquí un famoso pasaje sobre la aparición de la **plusvalía**
 
@@ -187,36 +298,141 @@ format:
 > surge de por sí...
 **[Karl Marx, *Elementos fundamentales para la crítica de la economía política*]**
 
-## Salarios y capital (cont.)
+## El origen de la plusvalía
 
-- Punto importante $\longrightarrow$  *plusvalía no surge en el
+- Dijimos antes que el trabajo (fuerza de trabajo) es una
+  **mercancía** --valor de cambio de la mercancía **fuerza de
+  trabajo**
+  - La **fuerza de trabajo** es el *trabajador mismo* en un sentido
+    estricto
+- Dado que la **fuerza de trabajo** es una mercancía, debe tener un
+  valor como cualquier otra $\longrightarrow$ ¿cómo se determina el
+  valor?
+  - el valor de la fuerza de trabajo se reduce al valor de una
+    cantidad más o menos precisa de mercancías ordinarias
+
+## El origen de la plusvalía (cont.)
+
+> El valor de la fuerza de trabajo se determina, como en el caso de
+> cualquier otra mercancía, por el tiempo de trabajo necesario para la
+> producción, y, en consecuencia, también para la reproducción de este
+> artículo especial...Dado el individuo, la producción de fuerza de
+> trabajo consiste en la reproducción de sí mismo o su manutención. Porc
+> consiguiente el tiempo de trabajo requerido para la producción de
+> fuerza de trabajo se reduce al necesario para la producción de los
+> medios de subsistencia; en otras palabras, el valor de la fuerza de
+> trabajo es el valor de los medios de subsistencia necesarios para el
+> mantenimiento del trabajador...Sus medios de susbistencia
+> deben...ser suficientes para mantenerlo en su estado normal como
+> individuo laborante....
+**[Mark, Karl, *El Capital*, Tomo I, pp. 189-190]**
+
+## El origen de la plusvalía (cont.)
+
+- ¿Cómo es posible que el capitalista a través del proceso de
+  comprar-producir-vender **llegue con $D$ y se retire con $D'$
+  comprando y vendiendo siempre a los valores de equilibrio?**
+  - en otras palabras, ¿cómo es posible que se *cree* valor
+    (plusvalía)?
+- **Plusvalía no puede surgir del proceso de circulación de mercancías**
+  $\longrightarrow$ supongamos que todos suben los precios 10%,
+  entonces lo que vendo a un 10% mas, lo termino pagando en forma de
+  insumos a un 10% mas --inflación
+- **Plusvalía no puede surgir a partir de materiales y/o máquinas** que
+  entran en el proceso productivo $\longrightarrow$ materiales y
+  máquinas *pasan* su valor al producto final pero *no aumentan* su
+  valor entre ambas puntas del proceso
+  
+## El origen de la plusvalía (cont.)
+
+- **Plusvalía sólo puede surgir a partir de la fuerza de
+  trabajo**. Veamos
+  1. Capitalista compra la fuerza de trabajo por su valor --salario
+     igual al valor de los medios de subsistencia [i.e. suponga igual
+     a $6 horas$]
+  2. Luego de esas 6 horas el trabajador ha añadido ese equivalente al
+     valor de la mercancía (más las horas de trabajao contenidas en
+     materiales y maquinaria)
+  3. Si la jornada de trabajo fuera de 12 horas, durante las ultimas 6
+     horas el obrero continúa agregando valor pero es un valor *en
+     exceso del necesario para compensar sus medios de subsistencia* 
+- En resumen **es una plusvalía que el capitalista toma para si**
+
+## El origen de la plusvalía (cont.)
+
+> Todas las condiciones del problema se cumplen, en tanto que las
+> leyes que regulan el cambio de mercancías no han sido en ninguna
+> forma violadas. Pues el capitalista como comprador pagó por cada
+> mercancía, por el algodón, por el huso y por la fuerza de trabajo,
+> su valor completo. Vende su hilaza...en su valor exacto. Sin
+> embargo, retira...de la circulación más de lo que originalmente
+> lanzó a ella
+**[Mark, Karl, *El Capital*, Tomo I, pp. 217]**
+
+## El origen de la plusvalía (cont.)
+
+- Con el trabajo de 1 (un) día, el trabajador *produce más* que los
+  medios de susbsistencia de un día
+- La *jornada de trabajo* puede pues dividirse en 2 (dos)
+  1. trabajo necesario $\longrightarrow$ producto de este trabajo va
+     al trabajador como salario
+  2. trabajo excedente $\longrightarrow$ producto de este trabaja va
+     para el capitalista como *plusvalía*
+- El trabajo necesario y el trabajo excedente surgen en toda sociedad
+  que en que la productividad del trabajo humano se ha elevado por
+  encima de cierto mínimo muy bajo  -i.e. todas excepto las más
+  primitivas
+  
+## El origen de la plusvalía (cont.)
+
+> Lo específico del capitalismo no es *el hecho* de la explotación de
+> una parte de la población por otra, sino *la forma* que adopta esta
+> explotación, es decir, la *producción de plusvalía*
+
+
+## Salarios, *plusvalía* y capital
+
+- Marx enfrentó las mismas 2 (dos) preguntas que Ricardo:
+  1. ¿Cuál es el **valor de cambio del trabajo?** $\longrightarrow$ teoría
+  de los salarios 
+  2. ¿Cómo se determina el **valor de los bienes producidos por la
+     maquinaria?** $\longrightarrow$ teoría del capital
+
+- En esto Marx fue claro $\longrightarrow$ "el capitalismo no podría
+  existir si el trabajador no produjese un valor mayor que el
+  requerido por su propia subsistencia"
+
+
+## Salarios, *plusvalía* y capital (cont.)
+
+- Punto importante $\longrightarrow$  **plusvalía no surge en el
   intercambio sino en la producción** 
   - por esta razón Marx argumenta que la finalidad de la producción
     en el sistema capitalista es extraer plusvalía del trabajador
     [explotación del trabajo por el capital]
 - La plusvalía surge no porque el trabajador **reciba menos** de lo que
   vale sino porque **produce más** de lo que vale
-  - dado que esta cantidad excedente es expropiada de manos del
+  - dado que este trabajo excedente es expropiado de manos del
     trabajador, puede definirse a la plusvalía como la suma de renta,
     interés y beneficio --es decir pagos que no van al factor trabajo
 - Marx consideraba que este principio era su contribución más
   importante
 
-## Salarios y capital (cont.)
+## Salarios, *plusvalía* y capital (cont.)
 
 > **Ilustración de cálculo de valor trabajo**. Marx añadía todo el trabajo
-> directo e indirecto usado. El **valor de un bien** que requería 10
+> directo e indirecto usado. El **valor de un bien** que requería 12
 > horas de trabajo directo más materias primas cuya producción insumió
 > 12 horas de trabajo mas 1/1000 de la vida de una máquina cuya
 > producción insumió 5000 horas de trabajo sumaría en total unas 27
 > horas de trabajo, entre trabajo, insumos y depreciación del
 > $K$. ¿Cómo genera beneficio el capitalista si tiene que vender el
-> bien a su valor de 27? Sólo pagandole a al menos uno de los factores
+> bien a su valor de 29? Sólo pagandole a al menos uno de los factores
 > a un precio *por debajo de su valor*. Dado que compra máquinas e
 > insumos de otros capitalistas, la ganancia debe venir de los
 > trabajajores
 
-## Salarios y capital (cont.)
+## Salarios, *plusvalía* y capital (cont.)
 
 - ¿Y el valor del trabajo?
 
@@ -231,22 +447,22 @@ format:
 > de su trabajo es el equivalente en dinero de esas 6 horas. Y eso es
 > precisamente lo que le paga el "perfecto capitalista". Lo que deja
 > al capitalista con un beneficio o *plusvalía*, del equivalente en
-> dinero a 4 horas de trabajo
+> dinero a 6 horas de trabajo
 
-## Salarios y capital (cont.)
+## Salarios, *plusvalía* y capital (cont.)
 
 - ¿Por qué el trabajador no podría simplemente trabajar por sí mismo y
-  quedarse con el equivalente a 10 hs. de trabajo que son necesarias para producir el bien?
-  - la respueta de Marx es porque el **valor de un bien** se basa en
-    lo que Marx llamó **trabajo socialmente necesario**
+  quedarse con el equivalente a 12 hs. de trabajo que son necesarias para producir el bien?
+  - la respuesta de Marx es porque el **valor de un bien** en el
+    mercado se basa en los componentes del valor (ver luego)
 - En otras palabras, si el trabajador pudiera producir el bien sin la
   maquinaria avanzada y demas insumos, pero le requeriría 50 horas,
-  sólo lo podría vender por el equivalente a 27 horas de trabajo
+  sólo lo podría vender por el equivalente a 29 horas de trabajo
   - el capitalista puede apropiarse de la plusvalía y explotar al
     trabajador por la simple razón de que es dueño de la maquinaria
     que permite que el excedente social sea tan grande como es!
 
-## Salarios y capital (cont.)
+## Salarios, *plusvalía* y capital (cont.)
 
 - Ricardo
   1. trabajo como *medida* del valor
@@ -260,6 +476,117 @@ format:
 - Obviamente Marx ignoró la crítica (válida) de que esto negaba que
   las máquinas fueran productivas per se y deben valorarse por encima
   del costo de trabajo invertido en ellas
+
+## Los componentes del valor
+
+- El **valor de toda mercancía** producida en la economía capitalista
+  puede divirse en 3 (tres) partes
+  1. Valor de materiales y maquinaria usados $\longrightarrow$
+     **capital constante, $c$**
+  2. Valor de la fuerza de trabajo $\longrightarrow$ **capital
+     variable, $v$**
+  3. Excedente producido por la fuerza de trabajo $\longrightarrow$
+     **plusvalía, $p$**
+\begin{equation}
+c+v+p=valor \quad total
+\end{equation}
+
+## Los componentes del valor (cont.)
+
+- Un comentarios relevante
+  - Esta fórmula refleja en mayor o menor medida (aunque
+     simplificada) los balances de las empresas modernas --valor total
+     equivale a ventas brutas; $c$ es materiales/insumos mas
+     depreciacion; $v$ son sueldos y salarios; y $p$ ingreso
+     disponible para distribuir como intereses/dividendos/beneficio (o
+     reinvertir
+
+## Los componentes del valor (cont.)
+
+- Define la **tasa de plusvalía** como la proporción de plusvalía
+  respecto al capital variable
+\begin{equation}
+\frac{p}{v}=p'
+\end{equation}
+- Con el ejemplo anterior de jornada de 12 (doce) horas, la tasa de
+  plusvalía es igual a 100%
+- Puede ser expresada en horas de trabajo como en valores --sólo hace
+  falta valorizar monetariamente el producido de una hora de
+  trabajo.
+- La tasa de plusvalía depende de 3 factores: a) duración de jornada;
+  b) cantidad de mercancías que entran en el salario real; c) productividad
+  del trabajo
+  
+## Los componentes del valor (cont.)
+
+- La tasa de plusvalía aumenta:
+  - con un aumento en la duración de la jornada de trabajo
+  - con una disminución del salario real 
+  - con un aumento en la productividad del trabajo
+- Marx frecuentemente suponía que la tasa de plusvalía era igual en
+  todas las ramas de la industria y en todas las empresas hacia
+  adentro de cada industria
+  - decía que la movilidad del trabajo iba a eliminar diferencias
+    significativas de tasas de plusvalía
+	
+## Los componentes del valor (cont.)
+
+- También define la **composición orgánica del capital** como la
+proporción entre el capital constante y el capital total:
+\begin{equation}
+\frac{c}{c+v}=o
+\end{equation}
+- La **COK** no es otra cosa que una medida de la amplitud/extensión
+  en que el trabajo es provisto de maquinas e insumos en el proceso
+  productivo
+
+## Los componentes del valor (cont.)
+
+- Finalmente define la **tasa de ganancia** como la proporción de
+  plusvalía con respecto al desembolso total del capital:
+\begin{equation}
+\frac{p}{c+v}=g
+\end{equation}
+- Estrictamente esto muestra la tasa de ganancia (rentabilidad) sobre
+  el capital realmente empleado en la producción de una mercancía
+  - note aquí que capital realmente empleado (durante un año) no es lo
+    mismo que inversión total (durante un período más largo)
+
+## Los componentes del valor (cont.)
+
+- Recordando que $p'=\frac{p}{v}$, $o=\frac{c}{c+v}$ y
+  $g=\frac{p}{c+v}$ se sigue que:
+\begin{equation}
+g=p'(1-o)
+\end{equation}
+- Esto es, la **tasa de ganancia**, como la variable más importante a
+  mirar por el capitalista, depende en forma clave de las dos
+  variables más fundamental del análisis marxista, la *tasa de
+  plusvalía* y la *composición orgánica del capital*
+- También supuso que la tasa de ganancia era uniforme a nivel de
+  industria y de empresas --por movilidad tanto de $L$ como de $K$
+  [suponía técnicas iguales en todos lados]
+  
+## Los componentes del valor (cont.)
+
+> **El problema de la transformación.** Si la **tasa de plusvalía** y
+> la **tasa de ganancia** son iguales en todos lados, si el *cambio de
+> las mercancias* debe hacerse de acuerdo a la *ley del valor*,
+> entonces se sigue que la **COK debe ser igual en todos lados**. Si
+> el **valor de la mercancía A** se forma $10c+20v+20p=50$ y el
+> **valor de la mercancía B** se forma $30c+10v+10p=50$, en ambos
+> casos la tasa de plusvalía es la misma (100%) y ambos bienes
+> deberían cambiarse 1 a 1. Pero si ocurre esto, el capitalista de A
+> tendría una $g=66,66%$ y el capitalista de B una $g=25%$. Esto no
+> sería sostenible ni estable. Tampoco son iguales las COK. 
+
+- En los dos primeros volúmenes de El Capital ignoró diferencias en la
+  COK (no existían para el); en el tercer volumen "se retracta" y
+  ofrece como respuesta el problema de la transformación
+
+
+# **La economía de Marx: la gran contradicción y el problema de la transformación** {background="#390040"}
+
 
 ## La gran contradicción
 
@@ -364,7 +691,7 @@ agregada igual a 500
     neo-marxistas!
 	
 	
-# Las leyes del movimiento capitalista y el fin del capitalismo {background="#43464B"}
+# **Las leyes del movimiento capitalista y el fin del capitalismo** {background="#390040"}
 
 ## La evolución del capitalismo
 
