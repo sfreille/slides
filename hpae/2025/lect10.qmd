@@ -501,7 +501,7 @@ format:
 	
 ## El subjetivismo de Menger (cont.)
 
-[Necesidades, bienes y utilidad marginal](../fig/fig-06-010.png){#fig-precios}
+![Necesidades, bienes y utilidad marginal](../fig/fig-06-010.png){#fig-precios}
 
 ## El subjetivismo de Menger (cont.)
 
