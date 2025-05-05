@@ -1,11 +1,10 @@
 ---
-title: U5. La economía política. El pensamiento clásico II. Socialismo
-subtitle: Historia del Pensamiento y del Análisis Económico
-author: |
-  | **Sebastián Freille**
-  | sfreille@unc.edu.ar
-  | Licenciatura en Economía
-  | FCE-UNC
+title: Historia del Pensamiento y del Análisis Económico
+title-slide-attributes:
+  data-background-image: ../fig/background-002.png
+  data-background-size: stretch
+  data-background-opacity: "0.85"
+subtitle: U6. La escuela neoclásica. La revolución marginalista. Antecedentes y precursores
 format:
   revealjs:
     slide-number: true
@@ -23,833 +22,972 @@ format:
     link-external-newwindow: true
 ---
 
-# El socialismo científico: Crítica integral de la economía clásica {background="#43464B"}
+# **Más alla de Inglaterra: los "microeconomistas" franceses** {background="#390040"}
 
-## Transición al socialismo científico
+## Cambio de foco y variantes continentales
 
-- Tal vez uno de los primeros y más directos antecedentes de Karl Marx
-	fue Simone de Sismondi --por sus ideas de conflictos de clases, la
-	división entre proletarios y capitalistas, fallos y fluctucaiones del capitalismo
-- Pero no fue hasta Karl Marx que el rejunte variopinto de ideas
-  socialistas de rigor analítico y conceptual diverso fue puesto en un
-  marco unificado de pensamiento económico, político y social
-- En efecto, Marx desarrolló sus ideas de modo contribuir  una
-  estructura teórica y un movimiento social que tendrían impacto en la
-  sociedad
-
-# Karl Marx
-
-## Introducción y contexto
-
-- La idea de *excedente* y la representación del sistema económico
-  como un flujo circular de producción y consumo fueron adoptadas y
-  utilizadas por Karl Marx de un modo original
-  - su foco estuvo en el **conflicto de intereses entre la burguesía y
-    el proletariado**, lo que no era independiente de un objetivo
-    político dominante
-	- crítica radical del modo de producción capitalista
-- Fuertemente influido por la filosofía hegeliana, particularmente los
-  "hegelianos de izquierda" (Feuerbach, Bauer y Stirner), y por
-  filosofía anticapitalista francesa
+- La escuela clásica inglesa fue la primera que, en su conjunto,
+  utilizó métodos formales y abstracción guiada por la lógica
+  deductiva para estudiar fenómenos económicos
+- Pero la difusión de las ideas clásicas pronto impactaría
+  positivamente sobre el surgimiento de análisis económico en el
+  continente, Francia y Austria fueron dos ejemplos de ello
+- Pero a diferencia de las preocupaciones de la escuela clásica
+  inglesa --la renta, el producto, la población y el crecimiento- el
+  foco del análisis estuvo en la microeconomía
+  - precios, cantidades, y estructuras de mercado
   
-## Introducción y contexto (cont.)
+## La irrupción del análisis microeconómico
 
-- Marx propuso una feroz crítica de la división del trabajo en la
-  sociedad capitalista a través de dos teorías que desarrollamos luego
-  1. su **teoría de la alienación**
-  2. su **teoría del fetichismo de las mercancías**
-- A través de su **teoría de la explotación**, buscaba demostrar que el
-  beneficio proviene del "trabajo no pagado"
-  - a partir de esto deriva su **teoría del valor-trabajo contenido**
-- Fue consciente hacia el final de su vida de las limitaciones de esta
-  teoría y de las prescripciones políticas derivadas de su esquema
-  teórico --ley de tendencia decreciente de la tasa de beneficio y ley
-  del empobrecimiento del proletariado
+- Se realizaron avances en temas de finanzas públicas y economía del
+  bienestar; sobre decisiones de localización y costos de transporte;
+- Además se sentaron las bases sobre las cuales se desarrollan las
+  teorías de discriminación de precios y de diferenciación del
+  producto
+- Y fundamentalmente se terminó de cerrar definitivamente el problema
+  del valor con la contribución fundamental de la teoría de la
+  utilidad de Jevons
+- Comencemos ahora con las contribuciones de los "ingenieros"
+  franceses que dieron un particular impulso a la introducción del
+  análisis microeconómico
+  
+## Antoine-Agustin Cournot [1801-1877]: Vida
 
-## Vida y escritos
+- Una mente muy original, estudió matemática en la *Ecole
+  Normale* de París y su doctorado en la Universidad de Paris
+  y tuvo contacto fluido con físicos e ingenieros
+- Gracias a su amistad con Poisson (si, el de la distribución!) se
+  aseguró posiciones docentes y de gestión académica --
+- Su voraz apetito por la lectura científica le causaron una ceguera
+  progresiva que influyó sobre la calidad de su trabajo
+  - su principal contribución está en el libro *Recherches sur les
+    principes mathématiques de la théorie des richesses*
+- Murió casi en la más absoluta anonimidad en relación a su trabajo y
+  contribución --salvo Walras. 
 
-- Nació en Treveris (Prusia) en 1818. Hijo de padres judíos de clase
-  media convertidos al protestantismo. No mostró gran aplicacion  como
-  estudiante --primero en Bonn donde abandonó rápidamente y luego 
-  en Berlín donde se expuso a Hegel y Feuerbach; finalmente en Jena
-  donde se raduó en 1841. Se casó con la hija de un alto funcionario
-  prusiano, Jenny von Westphalen. 
-- Aunque su ambición inicial fue dedicarse al mundo académico como
-  profesor de filosofía, terminó recostándose en el mundo del
-  periodismo
-  - se convirtió en editor de la *Rheinische Zeitung*, un periódico
-    liberal de Colonia que fue cerrado al cabo de un año
+## Cournot [1801-1877]: Sobre el método
 
-## Vida y escritos (cont.)
+- Valoró y abogó por el uso de las matemáticas como procedimiento
+  abreviado para expresar ideas complejas
+- Pero también decía que su principal uso no era para lograr cálculos
+  numéricos sino "para encontrar relaciones entre magnitudes, entre
+  funciones" --relativizaba el rol de lo empírico en el proceso de la ciencia
+- Cournot descubre "la ley de la demanda", $D=F(P)$ $\longrightarrow$
+  Cournot comprendió perfectamente el supuesto *ceteris paribus* 
+ 
+## Cournot [1801-1877]: Sobre el método (cont.)
 
-- En París encontró a Friedrich Engels (1820-1895) su gran
-  amigo y colaborador. Aquí empieza a escribir sobre
-  filosofía pero también sobre temas económicos $\longrightarrow$
-  *Manuscritos económicos y filosóficos (1844)* 
-- Expulsado de París, emigra a Bruselas. Entre 1845 y 1848 una gran productividad
-  - *Tesis sobre Feuerbach* (1845)
-  - *La ideología alemana* (1846) 
-  - *La miseria de la filosofía* (1847) 
-  - *El Manifiesto Comunista* (1848)
-  - *Trabajo asalariado y capital* (1849)
+![En defensa de las matemáticas](../fig/fig-06-001.png){#fig-precios}
+  
 
-## Vida y escritos (cont.)
+## Cournot [1801-1877]: Sobre el método (cont.)
 
-> Manifiesto del partido comunista. Escrito en 1848 este famoso texto
-> sería uno de los escritos más influyentes de todos los
-> tiempos. Expresa en términos enérgicos y penetrantes el proyecto
-> revolucionario de Marx y Engels. Una frase permite resumir el
-> espíritu del texto "La historia de todas las sociedades que han
-> existido hasta ahora es la historia de la lucha de clases". El
-> programa preveía la superación de la propiedad privada mediante la
-> expropiación y transferencia al control directo del Estado que
-> sería, según los autores, la "expresión política del proletariado"
+![El supuesto *ceteris paribus*](../fig/fig-06-002.png){#fig-precios}
+  
 
-## Vida y escritos (cont.)
+## Cournot [1801-1877]: Sobre el método (cont.)
 
-> "Un fantasma recorre Europa: el fantasma del comunismo." 
-**[Marx y Engels (1848) *Manifiesto del partido comunista*, pp. 48)]** 
+- Rechazó la utilidad como fundamento de su función de demanda, hace
+  una aproximación empírica a la misma $\longrightarrow$ "la venta, o
+  la demanda...crece en general cuando el precio desciende"
+- Su especificación teórica --$D$ continua y con pendiente negativa-
+  se deduce de la observación y de simplificaciones; pero la teoría se
+  eleva por encima de los hechos y puede usarse para hacer deducciones
+  y generalizaciones
+- Como puede notarse, Cournot fue muy lúcido en cuanto a formulación
+  de teorías y construcción de modelos
+  
+## Cournot [1801-1877]: los modelos microeconómicos
 
-> "Los comunistas [...] declaran abiertamente que sus fines sólo
-> pueden alcanzarse por el derrocamiento forzado de todas las
-> condiciones sociales existentes. Dejemos que las clases dirigentes
-> tiemblen ante una revolución comunista. Los proletarios no tienen
-> nada que perder, excepto sus cadenas. Tienen un mundo que
-> ganar. Trabajadores de todos los países, ¡uníos!" 
-**[Marx y Engels (1848) *Manifiesto del partido comunista*, pp. 82)]** 
+- Usó estos metódos y teorías para crear **modelos de comportamiento de
+  la empresa**. Entre ellos, dos de sus modelos más importantes
+  fueron: 1) modelo del monopolio, 2) modelo del oligopolio
+- El primero es el **modelo del manantial de agua** y analiza
+  el problema de la maximización del beneficio del productor
+- El segundo es tal vez la más famosa de sus teorías, el famoso
+  **modelo de duopolio de Cournot** donde introdujo un vendedor
+  adicional a su modelo de monopolio
+  
+## Cournot [1801-1877]: el monopolio
 
-## Vida y escritos (cont.)
+- El monopolista cobra un precio $p$ tal que el ingreso total $pF(p)$
+  sea máximo --cuando $CM=IM$. Si costos son nulos, el máximo es
+  cuando el $IM=0$
+- Recuerdo que $\Pi=TR-TC$ $\longrightarrow$ si $TC=0$ entonces
+  $\Pi=TR$ --el monopolista con costos nulos vende más $q$ que el
+  monopolista de costos positivos [$Q_{n}>Q_{c}$ 
+- Es decir, vende cuando maxizima sus ingresos brutos --que fue la
+  gran demostración de Cournot
+  - el caso de costos positivos revela el "principio marginalista"
+    $\longrightarrow$ $MC=MR$
 
-- Vuelve a Prusia en un tiempo de agitación política y es expulsado
-  nuevamente. Emigra a Londres donde pasa el resto de sus días. **Desde
-  1857 otro gran período de productividad** $\longrightarrow$ publica
-  los *Grundrisse* (1857), la *Historia crítica de la teoría de la
-  plusvalía* (1863). 
-  - su concepción materialista de la historia mejor expresada en
-    *Contribución a la crítica de la economía política* (1859)
-- En **1867 se publicó el primer tomo de su obra magna, *El Capital***
-  --dado que murió en 1883, los restantes dos tomos se publicaron
-  póstumamente, cortesía de su amigo Friedrich Engels
+## Cournot [1801-1877]: el monopolio (cont.)
+
+![Monopolio: costos positivos y nulos](../fig/fig-06-003.png){#fig-precios}
+
+## Cournot [1801-1877]: el duopolio
+
+- Consideró ahora dos vendedores $A$ y $B$ que conocen la curva de
+  demanda agregada de su producto
+- Cada uno de ellos supone que la decisión del otro en relación a
+  mantener/aumentar la $q$ es independiente de lo que haga uno
+- Supuso además que $A$ y $B$ (cada uno) podían suministrar *toda* el
+  agua demandada. Nuevamente supone que la producción no tiene costo
+- Su gran contribución original fue la (hoy) famosa **curva (función)
+  de reacción**
+  
+## Cournot [1801-1877]: el duopolio (cont.)
+
+![La función de reacción](../fig/fig-06-004.png){#fig-precios}
+
+## Cournot [1801-1877]: el duopolio (cont.)
+
+> **Función de reacción.** Es una funcíon que representa los niveles
+> de producción $q_{A}$ que elige A para maximizar sus beneficios dada
+> la eleccion de producción $q_{B}$ que elige B. Es decir A tiene un
+> plan de producción para cada nivel de producción de B. Además A
+> piensa que la cantidad que fija B será permanente. ¿Cómo se
+> determina los niveles de $q_{A}$ y $q_{B}$? Juntando la función de
+> reacción de A y B. Si B decidiera producir $Ob_{0}$ y A
+> mantendrá su producción en $Oa_{0}$, entonces B maximizaría sus
+> beneficios. El punto importante es que B (y A) tienen incentivos a
+> aumentar la producción (suponiendo que el otro la mantiene). Este
+> supuesto como puede notarse es bastante cuestionable. 
+
+## Cournot [1801-1877]: el duopolio (cont.)
+
+![Funciones de reacción y determinación de $q$](../fig/fig-06-005.png){#fig-precios}
 
 
-# El sistema marxiano: filosofía, historia y economía {background="#43464B"}
+## Cournot [1801-1877]: el duopolio (cont.)
 
-## El sistema marxiano: un análisis amplio e integrador
+- El punto $E$ representa el equilibrio y es estable --una posición a
+  la que regresan sin por alguna razón no estuvieran
+- En este punto, los duopolistas se reparten el beneficio y *cargan el
+  mismo precio* --más bajo que el que cargarían en monopolio pero más
+  alto que el de competencia
+- Fue muy preciso respecto de las relaciones entre cantidades vendidas
+  en monopolio, duopolio y competencia
+  
+## Cournot [1801-1877]: evaluación
 
-- En el centro del pensamiento de Marx se encuentra una **teoría de
-  los procesos históricos** basada en las fuerzas económicas y
-  materiales y que culmina en el cambio económico y social
-- Esto marca un contraste y un precedente tanto con autores clásicos y
-  con las reacciones críticas anteriores a Marx --su análisis fue
-  general, amplio e integrador de filosofía, historia y economía
+- Si bien su fama se debe al modelo de duopolio, nos dejó muchas otras
+  intuiciones
+- Sus modelos de monopolio y duopolio fueron sujeto de muchas críticas
+  --supuesto de inacción ante cambios en el precio del otro[Bertrand,
+  Edgeworth]. Incluso ante la evidencia repetida disponible
+- Aún así, este modelo dio pie a una muy fructífera linea de
+  investigación en economía en relación a la interdependencia
+  estrategica y la variación conjetural --i.e. supuesto de como
+  reacciona un vendedor a las acciones del otro
+  
+## Jules Dupuit [1804-1866]: vida
 
-## El sistema marxiano: filosofía
+- Fue en paralelo a la figura de Cournot, el otro estandarte del
+  análisis microeconómico en Francia. Al igual que Cournot, concebía
+  la economía como una vocación y no como profesión
+- Estudió ingenieria en prestigiosos centros educativos --tuvo una
+  ilustre carrera como ingeniero sobre todo como gestor y director- y
+  se interesó por la economía 
+- Sus contribuciones a la economía no fueron de menor calibre aunque
+  la mayoría encontradas en revistas y no en libros
+  
+## Jules Dupuit [1804-1866]: sobre el método
 
-- Figura dominante en la filosofía alemana $\longrightarrow$ Georg
-  Hegel [1770-1831]
-  - influyó sobre los historicistas alemanes y sobre Marx
-- Marx quedó fascinado con la **teoría del progreso** de Hegel
-- El progreso para Hegel no es un proceso de continuidad suave sino
-  que resulta de fuerzas opuestas, más específicamente, cuando se
-  enfrentan
-- En la lucha, ambas fuerzas desaparecen y son reemplazadas por un
-  tercera 
-  - idea de *tesis*, *antitesis* y *sintesis*
-- La *síntesis* prevalece y así es como la historia avanza
+- Escribió casi en paralelo con Cournot pero sin conocerse ni leerse
+  -- su método guardaba relación con el de Cournot dado que para el la
+  economía política era una ciencia combinada entre razón y
+  observación
+- En efecto combinó 3 (tres) elementos:
+  1. temas de interes y relevancia economica
+  2. hechos relevantes observados y estadísticas
+  3. análisis matemático --lógica deductiva y análisis gráfico
+- Asi las teorías concebidas se contrastarían con nuevos datos y actualizarían
 
-## El sistema marxiano: filosofía (cont.)
+## Jules Dupuit [1804-1866]: utilidad marginal y demanda
 
-- Adoptó la **diálectica hegeliana** pero la modificó a la luz de la
-  **doctrina del materialismo** de Feuerbach
-  - Decía que los seres humanos no eran solo una clase de seres sino
-    seres sensuales 
-- Para Feuerbach toda la historia es el proceso de preparación de los
-  humanos para que lleguen a ser objetos de una actividad "consciente"
-  más que "inconsciente"
-- Distinguía actividades inherentemente inconscientes --la
-  religión. Era una realista y para el la religión era *irreal* y por
-  tanto una forma de *auto-alienación*
-  - Marx utilizó esta nomenclatura para referirse al proceso de
-    conversión de productos de la actividad individual y social en
-    algo independiente de la misma 
+- Fue el primer economista que presentó una discusión del concepto de
+  UM y lo relacionó con la curva de demanda (en 1844). 
+  - argumentó que la utilidad que un individuo obtiene de un *stock*
+    de bienes se determina por el uso a que se destinan las *últimas
+    unidades del stock*
+- Jevons reconoció honorablemente que Dupuit era quien debía ser *"credited with the
+  earliest perfect comprehension of the theory of utility"*
+- Todo consumidor "atribuye una utilidad diferente al mismo objeto,
+  según la cantidad que consume"
+- Elaboró un ejemplo con el uso de cantidades crecientes de agua y lo
+  vinculó con las bajas en el precio
+
+## Jules Dupuit [1804-1866]: utilidad marginal y demanda
+
+> Si el precio se redujese en 20 francos, el individuo demandaría 4
+> hectolitros para poder limpiar su casa todos los días; si se la dan
+> a 10 francos, pedirá 10 hl., para poder regar su jardín; a 5 francos,
+> pedirá 20 hl. para instalarse una fuente; a 1 franco, pediría 100
+> hl. para disponer de una corriente continua y así sucesivamente. Es
+> la necesidad menos apremiante que se siente de una mercancía, no la
+> más apremiante, lo que define el valor de cambio de todo el stock de
+> bienes.
+
+## Jules Dupuit 1804-1866]: utilidad marginal y demanda (cont.)
+
+![Cantidad y utilidad marginal (precio)](../fig/fig-06-006.png){#fig-precios}
+
+## Jules Dupuit [1804-1866]: utilidad marginal y demanda
+
+- Partiendo de equilibrio del consumidor en punto $n$, si el $p$ del
+  agua baja a $p_2$, el individuo no está en equilibrio en el punto
+  $c$ al nuevo precio --la UM de la última unidad del *stock de que
+  dispone, $q_1$* es mayor que la UM del agua *representada por un
+  precio menor*
+- En otras palabras, lo que el *consumidor pagaría por una cantidad
+  $q_1$ de agua* es mayor que *el precio que debe pagar por esa
+  cantidad $q_1$* 
+  - la curva de UM es la curva de demanda de Dupuit!
+  
+## Jules Dupuit [1804-1866]: utilidad marginal y demanda
+
+> Si en una tabla de dos columnas se colocan en la primera todos los
+> precios, desde 0, al que le corresponde un mayor consumo, hasta el
+> precio al que ya no se consume nada; y en la segunda, en relación
+> con cada precio, se coloca la correspondiente cantidad consumida,
+> tendremos la representación exacta de lo que llamamos la ley del
+> consumo
+**[Jules Dupuit, *Dictionnaire de l'economie politique*]**
+
+## Jules Dupuit [1804-1866]: utilidad marginal y demanda
+
+![La curva de demanda](../fig/fig-06-006.png){#fig-precios}
+
+## Jules Dupuit [1804-1866]: utilidad marginal y demanda
+
+- Expresaba la curva de demanda como $Q_d=f(p)$ y colocó la variable
+  independiente en el eje de las $x$ y la depediente en el eje de las
+  $y$ --quien rompió con esto fue Alfred Marshall porque el trató al
+  *precio como función de la cantidad*
+- Al vincular la curva de demanda con la teoría de la utilidad
+  básicamente funda la *economía del bienestar*
+- En su grafico distingue las areas delimitadas por el precio que
+  efectivamente pagan y la que está por encima del precio pagado le
+  llama "utilidad que queda a los consumidores"
+  
+## Jules Dupuit [1804-1866]: otras contribuciones
+
+- También realizó grandes contribuciones en las áreas de monopolio y
+  discriminación de precios $\longrightarrow$ estudia factores detrás
+  de formación de precios de monopolio [i.e. compañías ferroviarias]
+- Comparó los precios de alquileres versus tarifas ferroviarias --los
+  primeros no podrían mantenerse altos por mucho tiempo porque
+  operaría la movilidad de $K$ hacia la industria más rentable
+  --entrada y salida de empresas previene el monopolio a largo plazo
+- Pero no existía tal cosa como libre entrada en la industria
+  ferroviaria sujeta a ciertas caraterísticas especiales: 1)
+  escala/costos, 2) 
+  
+  
+## Jules Dupuit [1804-1866]: otras contribuciones (cont.)
+
+- Exploró el comportamiento del monopolista --regla de maximización
+  del beneficio --el rendimiento/beneficio bruto en caso de costos
+  cero y el rendimiento/beneficio neto en caso de costos (variables) positivos
+- Pero su teoría la realizó en terminos del beneficio neto 
+- También destacó otro elemento que tomaría Marshall $\longrightarrow$
+  relacionó el ingreso del monopolista con el excedente del consumidor 
+- Finalmente la discriminación de precios posibilitaría
+  aumentar/disminuir via políticas de discriminación de precios
+  
+## Jules Dupuit [1804-1866]: otras contribuciones (cont.)
+
+![Monopolio con discriminación](../fig/fig-06-007.png){#fig-precios}
+
+## Jules Dupuit [1804-1866]: otras contribuciones (cont.)
+
+- Si $OM$ es el precio que maximiza el beneficio, $OMTR$ es el ingreso
+  del monopolista, $TMP$ el excedente de los consumidores, y $RTN$ la
+  utilidad perdida. 
+- Ahora si el monopolista *aumenta* cantidad hasta $Or$ y la *utilidad
+  total* --suma de excedente de consumidores y el ingreso del
+  monopolista- sería igual a $OPnr$ que es mayor que $OPTr$ (por
+  $RTnr$)
+- El beneficio del monopolista aumenta --en $Mp'n'q'$+$Rqnr$; la
+  utilidad total no cambia pero se distribuye hacia adentro (ganan
+  $O$, pierden $D$)
+  
+## Jules Dupuit [1804-1866]: otras contribuciones (cont.)
+
+- Finalmente, realizó contribuciones en el **análisis
+  beneficio-costo** munido de su descubrimiento de la curva de $UM$
+- La regla general era que el gobierno debía proveer los bienes si tal
+  que el costo anual pudiera cubrirse dejando alguna "utilidad neta"
+  --es decir, si $IM=CM$
+- Distinguió entre un monopolio privado (discriminación total) y uno gestionado por el
+  gobierno (discriminación restringida) $\longrightarrow$ es decir
+  podría decidir maximizar el excedente de los consumidores
+  - esto no sería posible con un monopolista privado
+- En esto hubo un tímido interés por el tema de la distribución de la
+  renta
+  
+## Resumen de las contribuciones
+
+- Fueron ingenieros y economistas franceses quienes primero se acercan
+  a formalizar la **teoría de la empresa** $\longrightarrow$ análisis
+  de maximización del producto y beneficio (Cournot) en diferentes
+  estructuras junto a las teorías de la utilidad y bienestar (Dupuit)
+- Recordatorio que muchas veces ideas novedosas fueron "pasadas por
+  alto" por la corriente principal --note las fechas en que
+  escribieron
+- Nota de caución en relación a la sobreespecialización disciplinar y
+  la importancia de abrir la investigación disciplinar no sólo a otras
+  metodologías, disciplinas y enfoques
+
+# **La escuela austríaca de Viena** {background="#390040"}
+  
+## De Alemania a Austría: raíces del análisis marginalista
+
+- Cuando se habla de ela escuela de Viena, hay 3 nombres principales
+  que vienen a la mente: Carl Menger, Friedrich Wieser y Eugene
+  Böhm-Bawerk
+  - entre ellos instalaron una aproximación sistemática y científica
+    al análisis económico
+- En paralelo pero influenció e influenciada por la corriente
+  principal (escuela neoclásica inglesa)
+  - toda una tradición de autores famosos se han formado en esa
+    tradición [Schumpeter, von Mises, Hayek, Machlup, Haberler y
+    Morgernstern]
 	
+## Precursores de la escuela de Viena
 
-## El sistema marxiano: filosofía (cont.)
-
-- Lo realmente interesante en la adopción de Marx era que extendió el
-  concepto de *alienación* a toda clase de actividad económica y
-  política
-  - el Estado, para Marx se origina y deriva su poder del hecho de que
-    los seres humanos no pueden/no quieren enfrentarse con los
-    problemas que enfrentan en la interacción económica y social a
-    diario
-- Eventualmente esta estructura llamada Estado aumenta su poder sobre
-  la vida de la gente sólo porque esta permite que lo haga. 
+- Algunos autores alemanes y austríacos presagiaron lo que estaba por venir,
+  aunque tuvieron contribuciones acotadas y aisladas. Ellos fueron:
+  - von Thünen (1783-1850) $\longrightarrow$ influyó en Marshall a
+    través del principio equimarginal. Pionero de la teoría económica
+    de la localización espacial --a diferencia de Ricardo priorizó
+    diferencias de localización y no de productividad
+  - Gossen (1810-1858) $\longrightarrow$ buscó matematizra el cálculo
+    hedonístico de Bentham y tuvo influencia en Jevons ya que fue el
+    primero que formuló el principio fundamental de la teoría de la utilidad
+    marginal
+  - von Mangoldt (1824-1868) $\longrightarrow$ un teórico liberal que
+    estudio con Roscher (EHA) y estudió dos temas centrales: 1) teoría
+    del beneficio y papel del empresario; 2) teoría subjetiva del valor
   
-## El sistema marxiano: filosofía (cont.)
+## Precursores de la escuela de Viena (cont.)
 
-> **El materialismo histórico.** Para Marx había solo dos tipos de
-> filosofías: el idealismo (da primacía al espíritu sobre la materia)
-> y el materialismo (da primacía a la materia sobre el espíritu). La
-> alienación es la pérdida del ser y la esencia del hombre --por eso
-> el hombre debe liberarse. Lo único existente es la materia y por su
-> propia esencia es dinámica, en constante cambio. Y actúa de manera
-> dialéctica: tesis-antitesis-sintesis. El materialismo histórico es
-> pues la aplicación del materialismo dialéctico a los fenomenos
-> históricos y sociales. Pretende explicar la evolución de la sociedad
-> humana y del hombre como individuo mediante factores principalmente
-> materiales, y concretamente, factores económicos. 
+> A person maximizes his utility when he distributes his available
+> money among the various goods so that he obtains the same amount of
+> satisfaction from the last unit of money (*Geld-atom*) spent upon
+> each commodity
+**[Heinrich Gossen, *Entwickelung der Gesetze des menschlichen>> Verkhers* (1927)]**
+
+- En otras palabras,
+\begin{equation}
+\frac{MU_{1}}{p_{1}}=\frac{MU_{2}}{p_{2}}=\frac{MU_{3}}{p_{3}}=...
+\end{equation}
+
+## Carl Menger [1840-1921]
+
+- Carl Menger nació en Polonia en 1840, en aquel entonces parte del imperio
+  austro-húngaro. Estudió derecho en la Universidad en Viena, Praga y
+  Cracovia donde se doctoró. 
+- Su primer y más importante libro *Principios de economía política* (1871)
+  le abrió las puertas del mundo académico y de la vida pública
+- Menger no escribió en una tradición académica típica ; el contraste
+  con los otros autores marginalistas es notable
+  - su objetivo no era construir una teoría económica y mucho menos
+    usar lenguaje matemático (de hecho era escéptico sobre esto y lo
+    hizo saber) 
+
+## Carl Menger [1840-1921]: el líder
+
+- Sus principales influencias fueron de la escuela historicista
+- Fue el líder de una verdadera revolución teórica en el pensamiento
+  $\longrightarrow$ además de un fenomenal polemista verbal (su blanco
+  predilecto fue el historicismo aleman)
+- Su idea era aportar una construcción que trascendiera la simple
+  descripción de los fenómenos económicos manteniendo fuertes vínculos
+  con la realidad empírica
+  - de hecho "dedicó" sus *Principios* a Wilhelm Roscher uno de los
+    máximos exponentes de la "vieja" escuela histórica alemana. 
+
+## El subjetivismo de Menger
+
+- En las universidades austro-alemanas, reinaba el enfoque subjetivo
+  de la teoría del valor basado en comparación entre oferta y demanda,
+  valor de uso y escasez [recuerde que esta tradición tenía sus raíces
+  en las viejas *scolas* medievales] 
+- Este enfoque rechazaba de plano la teoría ricardiana del
+  valor-trabajo [no así la teoría de la renta diferencial o la teoría
+  del crecimiento de Smith basada en la división del trabajo]
+
+## El subjetivismo de Menger (cont.)
+
+- Su obra seguía una estructura típica de la tradición alemana
+  - análisis exhaustivo de bienes y necesidades lleva a la teoría del
+    valor, intercambio y precio
+  - de ahi seguía a temas como distribución, desarrollo y dinero
+- A diferencia de Jevons y Walras, Menger definía la actividad
+  económica como una búsqueda de conocimiento y poder
+  - su **objetivo era analizar relaciones causales entre bienes y
+    valores humanos**
+- Distinguió entre *bienes* y *bienes económicos*
+
+## El subjetivismo de Menger (cont.)
+
+> **Bienes no económicos (tout-court, libres) y bienes económicos.** Los
+> bienes no económicos no tienen valor --no solo valor de cambio, sino
+> también de uso. La diferencia entre ambos tiene que ver con la
+> disponibilidad (escasez). 
+
+> Respecto de aquellos bienes cuya cantidad disponible es superior a
+> las necesidades queda excluida la actividad económica de los hombres
+> de la misma natural y necesaria manera en que aparece cuando los
+> bienes se hallan en la relación cuantitativa opuesta. No constituyen
+> en el primer caso objetos de la economía humana y, por ende, los
+> llamamos **bienes no económicos**
+**[Carl Menger, *Principios de economía política* (1871), pp. 154]**
+
+
+## El subjetivismo de Menger (cont.)
+
+- Y sigue:
+
+> Si la cantidad disponible de bienes económicos aumenta
+> constantemente, hasta que acaban por perder su carácter económico,
+> entonces ya no hay carencia de los mismos y salen del círculo de
+> aquellos bienes que forman parte de la riqueza de los hombres
+> económicos, es decir, de los círculos de aquellos bienes de los que
+> hay carencia parcial
+**[Carl Menger, *Principios de economía política* (1871), pp. 167]**
+
+
+## El subjetivismo de Menger (cont.)
+
+- Entre las características del pensamiento de Menger estaban
+  - valoración que hace cada individuo de su propia situación
+  - individualismo metodológico
   
-## El sistema marxiano: historia
+> El *valor* viene dado por la manera en que los seres humanos
+> aprecian la distinta importancia de sus diversas necesidades y la
+> adecuación de los distintos bienes a la satisfacción de tales necesidades 
 
-- Marx inserta el materialismo de Feuerbach en la dialectica de Hegel
-  y patenta su **materialismo dialéctico** para aplicarlo a su teoría
-  de la historia
-- El **primer motor de la historia** es la forma en que los individuos
-  se buscan la vida $\longrightarrow$ *satisfacción de necesidades
-  materiales*
+## El subjetivismo de Menger (cont.)
 
-> El primer acto histórico es...la producción de los medios para
-> satisfacer estas necesidades, la producción de la propia vida material
-**[Karl Marx, *La ideología alemana*]**
+- En otras palabras, las necesidades se clasifican según orden de
+  importancia y suponía que la intensidad de cada una disminuía
+  progresivamente al satisfacerla. Debía alcanzarse un cierto grado de
+  satisfacción de la necesidad más apremiante antes de abordar la que
+  seguía en orden de importancia. 
+- Para determinar el valor pues se requería además de considerar el
+  valor de uso de los bienes también la escasez $\longrightarrow$
+  determinaba la medida en que podían satisfacerse las necesidades 
+  - por tanto su valoración no tenía que ver con la **importancia
+    absoluta** de cada necesidad sino con su **importancia en el margen**
 
-## El sistema marxiano: historia (cont.)
 
-- Pero la producción no es sólo un acto histórico sino un acto
-  económico $\longrightarrow$ la producción para Marx es la fuerza
-  central de las fuerzas mutuamente condicionantes (producción,
-  distribución, cambio, consumo)
-  - la economía para Marx es **la ciencia de la producción**
-- Afirmaba que los *métodos de producción* contribuían a formar la
-  propia naturaleza humana
+## El subjetivismo de Menger (cont.)
+
+- La valoración se hacía **directamente en el caso de los bienes de
+  consumo (bienes de primer orden)** e **indirectamente en el caso de
+  los bienes de producción (bienes de segundo, tercer...orden)**
+  - en este último caso a los **bienes de producción** se les *imputaba*
+    una parte del valor que tenía el bien producido para el consumidor
+    y se calculaba esta parte en proporción a la contribución
+    realizada por el bien o servicio al proceso productivo  --i.e. la
+    **teoría de la imputación** de Menge
+- Note como el consumidor es soberano en el sistema económico de
+  Menger --es el *primum movens*. 
+  - sentido positivo y normativo --fundamentalmente para justificar
+    liberalismo económico y dejar libre de toda interferencia
+	
+## El subjetivismo de Menger (cont.)
+
+[Necesidades, bienes y utilidad marginal](../fig/fig-06-010.png){#fig-precios}
+
+## El subjetivismo de Menger (cont.)
+
+- Existían tipos/clases de bienes (mercancías) --indexados por números
+  romanos de menor a mayor según su condición de esencial. Además, con
+  números arábigos se representaban las utilidades a medida que se
+  consumía más cantidad de cada bien
+- Si el agua es el bien I y los diamantes son el bien VIII y suponga
+  que un consumidor ha consumido 8 unidades de agua y ninguna de
+  diamantes, la $UMg$ de una unidad de agua adicional es de sólo 2
+  pero la de diamantes (primera unidad) es de 3. 
+  - La utilidad total del agua, $UT$, es la suma de las $UMg$ es
+    claramente mayor que la de los diamantes; y sin embargo la $UMg$
+		de los diamantes es mayor que la de agua
+
+## El subjetivismo de Menger (cont.)
+
+> El precio de los diamantes es mayor que el precio del agua porque es
+> la utilidad marginal (UMg) la que determina la elección del
+> consumidor y no la utilidad total, y por tanto, es la que determina
+> el precio. 
+	
+	
+## El subjetivismo de Menger (cont.)
+
+- Aunque prevaleció en su análisis el elemento subjetivo, evitó usar
+    el término *utilidad* y se refirió a *importancia de
+    satisfacciones*
+- Sobre el valor de cambio $\longrightarrow$ partió del intercambio en
+  un monopolio bilateral (entre dos individuos)
+  - vio el **intercambio como un tema de valores desiguales** (a
+    diferencia del valor de cambio como **dificultad de producción**)
+    que implica una ventaja para ambos participantes
+- Generalizó a casos de mas de dos mercancías y dos individuos
+
+## Valoracion y contribuciones de Menger
+
+- Su análisis fue menos riguroso e inferior en términos técnicos a los
+  de Walras y Jevons pero su **contribución fue la de resaltar elementos
+  de conocimiento humano e incertidumbre** que son claves en las
+  decisiones de los agentes económicos
+- Menger parecía **más interesado en aspectos dinámicos** (cambio,
+  evolución); el **desarrollo original de la propiedad privada**; y
+  modo como los agentes buscan aumentar su conocimiento y modificar
+  sus preferencias
+
+## Valoracion y contribuciones de Menger
+
+- Destacó la **existencia de costos de transacción** --resalta el papel de
+	los intermediarios --ayudan a mayor conocimiento- y al dinero --la
+	mercancía más facilmente comercializable. 
+- El **proceso de civilización** para Menger se da con la **reducción de la
+  ignorancia y el desarrollo de instituciones** que ayudan a los
+  individuos a enfrentarse con la incertidumbre
+  - de hecho el dinero, el mercado, la división del trabajo eran
+    vistos como efectos no deseados de elecciones individuales
+    descoordinadas
+
+
+## La *methodenstreit*
+
+- El historicismo se oponía por naturaleza al universalismo, es decir,
+  la pretensión que es posible deducir reglas de validez en todo
+  tiempo y lugar. En su gran mayoría en lo político, defendían el
+  Estado absoluto y el nacionalismo económico. 
+- La *vieja escuela histórica alemana* veía a la economía como la
+  ciencia que estudia las leyes naturales del desarrollo económico sin
+  oponerse al enfoque de la escuela clásica inglesa. 
+  - Menger no veí oposición ni conflicto alguna entre su teoría y los
+    postulados de la vieja EHA
+- Sin embargo la *nueva escuela histórica alemana* tuvo opiniones más
+  radicales $\longrightarrow$ se oponía a las deducciones teóricas
+  abstractas y rechazaba separación entre economía y política
   
-## El sistema marxiano: historia (cont.)
+## La *methodenstreit* (cont.)
 
-> El modo como los hombres producen sus medios de vida depende, ante
-> todo, de la naturaleza misma de los medios de vida con que cuentan,
-> y que tratan de reproducir. Este modo de producción no puede
-> considerarse únicamente en el sentido de ser la reproducción de la
-> existencia física de los individuos. Es ya más bien un modo
-> determinado de la actividad de estos individuos, de manifestar su
-> vida, un determinado *modo de vida* de los mismos. Los individuos
-> son tal y como manifiestan su vida. Lo que son los individuos
-> coincide, por tanto, con su producción, es decir, tanto con *lo que*
-> producen como con el modo *como* producen. Lo que los individuos son
-> depende, por tanto, de las condiciones materiales de producción
-**[Karl Marx, *La ideología alemana*]**
+- Surgió así la *methodenstreit* o "batalla de los métodos", una
+  famos disputa entre Menger y Schmoller $\longrightarrow$ Menger
+  defendía la naturaleza atomística y subjetiva de la economía
+  - las ideas colectivas y agregadas no podían tener una
+    fundamentación adecuada
+- Schmoller en cambio defendía el método histórico $\longrightarrow$
+  única forma de considerar instituciones dinámicas
+  - criticaba el foco en comportamiento individual ("individualismo
+    metodológico") bajo fuertes restricciones
+- Eventualmente la disputa se zanjó para el lado austríaco y parte de
+  la razón fueron los *Principios* de Menger
 
-## El sistema marxiano: historia (cont.)
+## La *methodenstreit* (cont.)
 
-- Marx reconocía que el *desarrollo de las fuerzas productivas*
-  dependía de la mayor/menor división del trabajo --pero hasta ahí
-  llegaban los acuerdos
-  - Marx argumentó que había una conexión entre mayor división del
-    trabajo y mayor conflicto de intereses
-- Habla de las separaciones graduales: 1) entre trabajo
-  industrial/comercial y trabajo agrícola (ciudad vs campo); 2) entre
-  trabajo industrial y comercial; 3) entre trabajadores de cada
-  clase/tipo de trabajo
-- Conflicto entre intereses individuales e intereses comunitarios
-
-## El sistema marxiano: historia (cont.)
-
-- El Estado aparece independiente de este conflicto
-  --es un poder independiente divorciado de intereses individuales y
-  comunitarios
-- Su lógica sería asi: 
-  - Clases sociales por la división del trabajo promueven
-    aparición del estado
-  - Cada clase que ocupa el poder busca promover su propio interés
-  - La comunidad ve este interés de clase como ajeno y que no controla
-- La situación tensiona cuando se dan 2 (dos) condiciones
-  1. grandes masas de la humanidad es desposeída de la propiedad al
-     tiempo que existe un mundo de riquezas y culturas
-  2. el desarrollo de las fuerzas productivas es universal --debe
-     ocurrir en todos lados o la revolución y el comunismo serán
-     fenómenos locales
-   
-## El sistema marxiano: economía
-
-- Las **fuerzas productivas --dinámicas** para Marx son fruto de la división del
-  trabajo y son: tierra, trabajo, capital y tecnología. 
-- Cada una está en constante cambio (dinámica) tanto en *cantidad*
-  como en *calidad* $\longrightarrow$ esto es por cambios
-  demográficos, tecnológicos, educación y demás
-- Pero están sujetas a ciertas **relaciones de producción
-  --estáticas** $\longrightarrow$ son las que considera las reglas de
-  juego capitalista y son de dos tipos:
-  1. relaciones de propiedad
-  2. relaciones humanas
-
-## El sistema marxiano: economía (cont.)
-
-- Las **relaciones de propiedad** existen entre las personas y las
-  cosas mientras que las **relaciones humanas** existen entre las
-  personas
-  - La suma total de estas relaciones da pie a la **estructura
-    económica de la sociedad**
-    - A su vez, sobre esta, se superpone una **superestructura
-      política y legal**
- 	  
-## El sistema marxiano: economía (cont.)	  
-
-![La "pirámide social" de Karl Marx](fig/fig-05-003.png){#fig-precios}
-
-## El sistema marxiano: economía (cont.)
-
-- Puede resumirse el esquema de la **teoría de la sociedad de Marx**
-  1. A medida que la división del trabajo se profundiza, el trabajo se
-     hace cada vez más fragmentado
-  2. Conflictos de intereses cada vez más agudos via institución de
-     propiedad privada --partición del capital acumulado entre
-     diferentes propietarios, $K$ y $L$
-  3. Las **fuerzas dinámicas de la producción** entran en conflicto
-     con las **relaciones estáticas de la producción** 
-  4. En el punto más álgido, se produce **la lucha de clases y la
-     revolución** 
-  5. Se invierte la **pirámide de la sociedad** 
+- Menger distinguía tres componenentes de la economía política:
+  1. el aspecto histórico-estadístico
+  2. la teoría 
+  3. la política económica
+- Le atribuía un rol especial a la teoría --proponía un enfoque
+  causal-genético: partir de elementos simples para llegar a leyes
+  compuestas
+  - la economía política llegaba a "leyes exactas" pero sólo sobre un
+    subconjunto de las acciones humanas [insistía con énfasis en que
+    la nocíon de *hommo economicus* era una construcción ficticia]
+- Proponía una íntima conexión entre teoría y realidad como
+  mencionamos antes
 
 
-## Vida y escritos (cont.)
+# **La teoría de la utilidad marginal** {background="#390040"}
 
-> En la producción social que realizan, los hombres entran en
-> relaciones determinadas que son necesarias e independientes de su
-> voluntad; estas relaciones de producción corresponden a una etapa
-> definida de desarrollo de sus fuerzas productivas materiales. La
-> suma total de estas relaciones de producción constituye la
-> estructura económica de la sociedad, su fundamento real, sobre la
-> que se elevan las superestructuras legales y políticas y a la que
-> corresponden unas formas determinadas de conciencia social. El modo
-> de producción de la vida material condiciona el proceso de vida
-> social, política e intelectual en general. 
+## La teoría de la utilidad marginal
 
-## Vida y escritos (cont.)
-
-> No es la conciencia de los hombres la que determina su ser sino que,
-> por el contrario, su ser social determina su conciencia. En una
-> determinada etapa de su desarrollo las fuerzas productivas
-> materiales de la sociedad entran en conflicto con las relaciones de
-> producción existentes, o --lo que no es sino una expresión legal de
-> la misma cosa- con las relaciones de propiedad con las que habían
-> estado funcionando antes. Estas relaciones pasan de ser formas de
-> desarrollo de las fuerzas productivas a convertirse en sus
-> cadenas. Sobreviene entonces un período de revolución social. 
-**[Marx, K. *Contribución a la crítica de la economía política* (1859), pp. 84]** 
-
-## Vida y escritos (cont.)
-
-- Para Marx cambios continuos de la tecnología --el *desarrollo* de
-  las **fuerzas productivas**- son un elemento dinámico y progresista que
-  tensiona con el elemento estático y conservador que representan las
-  **relaciones de producción** --i.e. conjunto de instituciones y
-  costumbres en el que tiene lugar la actividad económica
-- No había una dependencia mecánica de la superestructura
-  institucional e ideológica respecto de la estructura económica
-  - más bien una relación compleja entendido más como un proceso
-    dialéctico que como un proceso netamente causal 
-
-
-# El socialismo científico de Karl Marx {background="#43464B"}
-
-
-
-
-## Karl Marx [1818-1883]: Vida y obra
-
-
-
-
-## Karl Marx [1818-1883]: Vida y obra (cont.)
-
-- Fue ante todo un filósofo preocupado no sólo por interpretar y
-  analizar sino también por impulsar y promover los cambios que
-  consideraba deseables
-- A diferencia de los clásicos, abogó por una revolución fundamental
-  de la sociedad y la economía
-  - sin embargo, hay una falsa concepción de que Marx se explayó los
-    sistemas socialistas y comunistas
-- Marx dedicó su vida a **estudiar el capitalismo** --sus referencias
-  a los principios y características del socialismo y comunismo como
-  sistema se agotan en el **Manifiesto Comunista** de 1848
+- La teoría de la utilidad finalmente empezó a ganarse un lugar en la
+  economía aceptada y consensuada en los años 1870s de la mano del
+  tríptico de autores que desarrollaron (versiones similares de) la
+  teoría de manera independiente y descoordinada $\longrightarrow$
+  Jevons, Menger y Walras
+- Cada uno de ellos criticó el "canon ricardiano" de la
+  teoría del valor pero esto fue generalmente en segundo plano --cada
+  uno de ellos creía que la teoría de la utilidad marginal tenía
+  mérito suficiente para ser aceptada
   
-## Karl Marx [1818-1883]: Vida y obra (cont.)
+## La crítica a Ricardo
 
-![Principios del comunismo moderno](fig/fig-05-002.png){#fig-precios}
+- Jevons identificó varias deficiencias en la teoría ricardiana
+  1. Ricardo requería una teoría especial para bienes con oferta fija
+     (estatuas, pinturas) --esto sugería que el costo del trabajo *no
+     era esencial* al valor
+  2. Altos costos de trabajo no darán alto valor a una mercancía si la
+     demanda futura es erroneamente estimada 
+  3. El trabajo es heterogéneo y los diferentes tipos de $L$ sólo
+     pueden ser comparados a través de los valores de sus productos
+- Además sugirió que la teoría del valor del costo de producción
+  encaja bien como un caso especial de la teoría de la utilidad
+  $\longrightarrow$ explica la cantidad relativa de mercancías que
+  será provista
   
-## Karl Marx [1818-1883]: Vida y obra (cont.)
+  
+## La crítica a Ricardo (cont.)
 
-- La teoría económica de Marx es una aplicación de su teoría de la
-  historia a la economía capitalista $\longrightarrow$ quería revelar
-  las leyes de la dinámica del capitalismo
-- Otros economistas centran su atención en la **estática**; Marx se
-  focalizó en la **dinámica**, en el cambio. 
-- Algunos distinguidos autores marxistas como Sweezy y Lange
-  sugirieron que la economía marxista ayuda a comprender las fuerzas
-  que subyacen al mercado y el análisis clásico convencional es util
-  para organizar y gestionar la economía socialista 
-  - para Lange, análisis económico marxista y ortodoxo no eran excluyentes sino complementarios
-- "Sólo es posible comprender la evolución apelando a la economía
-  marxista"
+- Menger y Walras tomaron esencialmente la misma posición. Menger
+  particularmente añadió una crítica a la teoría de la renta
+  $\longrightarrow$ si el valor de la tierra no dependía de los costos
+  de trabajo, esto demostraba una falta de generalidad bastante seria
+  de la teoría clásica del valor (TCV) [misma crítica de Walras]
+- Ademas Walras enfatizó los efectos recíprocos de precios de bienes y
+  factores entre sí y negaba la existencia de bienes que cuya oferta
+  podía ser incrementada inifitamente
+- Quienes se encargaron de "hipear" la teoría de la utilidad marginal
+  y relativizar la "utilidad" de la TCV fueron dos discípulos que,
+  según Stigler, poco contribuyeron a la teoría de la utilidad
+  marginal: Wieser y Böhm-Bawerk
   
 
+## La mensurabilidad de la utilidad
 
-# Sus escritos y contribuciones económicas {background="#43464B"}
+- Los tres autores aceptaron la utilidad como un hecho de la
+  experiencia común congruente con cualquier introspección casual
 
-## Sistema de Marx y metodología
+> The science of Economics, however, is in some degree peculiar, owing
+> to the fact...that its ultimate laws are known to us immediately by
+> intuition, or, at any rate, they are furnished to us ready made by
+> other mental or physical sciences. ...The theory here given may be
+> described as *the mechanics of utility and self-interest*. Oversights
+> may have been committed in tracing out its details, but in its main
+> features this theory must be the true one. Its method is as sure and
+> demonstrative as that of kinematics or statics, nay, almost as
+> self-evident as are the elements of Euclid...
+**[William Stanley Jevons, *Theory of Political Economy* (1911)]**
 
-- El sistema de Marx es, como dijimos, una mezcla de análisis
-  filosófico, sociológico-histórico y económico. 
-- Estando convencido de la inevitable caída del capitalismo aplicó su
-  teoría de la historia a la sociedad de su epoca buscando descubrir
-  las **contradicciones entre las fuerzas productivas y las relaciones
-  de producción** que llevarían a la lucha de clases
+## La mensurabilidad de la utilidad (cont.)
+
+- Menger fue tal vez el mayor militante y apologista de la
+  mensurabilidad de la utilidad
+  - representó la $UM$ a través de números y empleó el mecanismo de la
+    igualación de $UM$ en varios usos para determinar asignación de
+    una mercancía
+- Walras también supuso la existencia de una unidad de medida de la
+  utilidad y eventualmente hablaba en términos de la utilidad como un
+  magnitud absoluta
+- Pero Jevons fue más enérgico y confuso $\longrightarrow$ la
+  utilidad para él *no era mensurable*
+  - sin embargo, su rechazo fue mutando a escepticismo y eventualmente
+  sugirió un método ingenioso para "medir la utilidad"
+  
+## La mensurabilidad de la utilidad (cont.)
+
+> There is no unit of labour, or suffering, or enjoyment. I have
+> granted that we can hardly form the conception of a unit of pleasure
+> or pain, so that the numerical expression of quantities of feelings
+> seems to be out of question
+**[William Stanley Jevons, *Theory of Political Economy* (1911)]**
+
+## La mensurabilidad de la utilidad (cont.)
+
+- En la segunda edición del libro argumenta muestra más escepticismo
+  y borra varios pasajes críticos de la mensurabilidad
+- Luego dice que no le interesa medir "the whole pleasure gained"
+  sino más bien comparar placeres de cantidades incrementales de
+  tener mas de algo en relación al precio monetario pagado
+
+## La mensurabilidad de la utilidad (cont.)
+  
+> It is from the quantitative effects of the feelings that we must
+> estimate their comparative amounts. I never attempt to estimate the
+> whole pleasure gained by purchasing a commodity; the theory merely
+> expressed that, when a man has purchased enough, he would derive
+> equal pleasure from the possession of a small quantity more as he
+> would from the money price of it
+**[William Stanley Jevons, *Theory of Political Economy* (1911)]**
+  
+## La mensurabilidad de la utilidad (cont.)
+  
+- Relaciona ingeniosamente demanda con utilidad marginal a partir de la siguiente
+  formula
+- Argumenta que puede construirse un curva de $D$ a través de la
+observación y/o experimentación y luego pasar a la curva de $UM$ a
+través de la siguiente ecuación:
+\begin{equation}
+MU_{r}p_{i}=MU_{i}
+\end{equation}
+- donde $MU_{r}$ es la utilidad marginal del ingreso
+
+## La mensurabilidad de la utilidad (cont.)
+
+> For the first approximation we may assume that the general utility
+> of a person's income is not affected by the changes of price of the
+> commodity...The method of determining the function of utility
+> explained above will hardly apply, however, to the main elements of
+> expenditure. The price of bread, for instance, cannot be properly
+> brought under the equation in question, because, when the price of
+> bread rises much, the resources of poor persons are strained, money
+> becomes scarcer with them, and [$MU_{r}$], the [marginal] utility of
+> money, rises
+**[William Stanley Jevons, *Theory of Political Economy* (1911)]**
+
+## La mensurabilidad de la utilidad (cont.)
+
+- A diferencia de Menger y Walras, Jevons consideró el **tema de las
+  comparaciones interpersonales de utilidad** y las consideró
+  expresamente imposibles (aunque el mismo no pudo no incurrir en
+  algunas comparaciones!)
+- Menger directamente evitó el problema mientras que Walras hizo
+  algunas referencias y comparaciones interpersonales de utilidad
+  incidentales
+- El tratamiento de la $UM$ de Jevons fue el más cercano al que luego
+  haría Marshall en sus *Principios*
+  
+## Maximización de la utilidad y la curva de $D$
+
+- Menger pareció ignorar la relación entre utilidad y demanda aunque
+  se ocupó de establecer algunos precios de demanda los cuales
+  representaban de alguna manera utilidades marginales
+- Pero desarrolló una discusión de determinación de precios en
+  monopolio bilateral (indeterminación), duopolio (brindó un
+  equilibrio competitivo) y competencia (ausencia de teoría de la
+  producción)
+- El intento de Jevons trazar un puente entre utilidad y demanda no
+  fue ayudado por su dificultad para trasladar ideas en matemática
+
+## Maximización de la utilidad y la curva de $D$ (cont.)
+
+- Sin embargo presentó su ecuación principal como un "hecho consumado"
+\begin{equation}
+	\frac{MU_{1}}{MU_{2}}=\frac{p_{1}}{p_{2}}
+\end{equation}
+- Esta ecuación era cierta al *nivel del individuo* ($p$
+  dados) pero *no al nivel del mercado*
+- Jevons creó dos conceptos relevantes
+  1. **El cuerpo comercial** $\longrightarrow$ era basicamente un
+     conjunto grande de compradores y vendedores de una mercancía en
+     un mercado competitivo
+  2. **La ley de la indiferencia** $\longrightarrow$ decía que debía
+     haber sólo *un* precio en el mercado
+
+## Maximización de la utilidad y la curva de $D$ (cont.)
+
+- Si la ecuación del intercambio se aplicaba a cada cuerpo comercial;
+  para cada grupo de individuos competitivos la ecuación determinará
+  la relación entre la cantidad ofrecida y la cantidad demandada
+- Entonces tenemos 2 (dos) ecuaciones para determinar 2 (dos)
+  incógnitas: las cantidades de $x_{1}$ y $x_{2}$ intercambiadas
 - 
 
-## Sistema de Marx y metodología (cont.)
+## Maximización de la utilidad y la curva de $D$ (cont.)
 
-> Para Marx, la estructura institucional de una sociedad son las
-> fuerzas de producción. Así con el *molino manual* la estructura
-> institucional adecuada es el feudalismo. Del mismo modo, con el
-> *molino a vapor* la estructura institucional adecuada es el
-> capitalismo. La *lógica del progreso tecnológico* crea las
-> condiciones y las fuerzas que permitan pasar del molino manual al
-> molino a vapor. Y cuando cambian las fuerzas, las antiguas
-> relaciones de producción deben dejar paso a formas institucionales
-> más adecuadas. 
+- Fue Walras sin embargo quien estableció la correcta
+  relacion/correspondencia entre utilidad y demanda
+- Primero, derivó las ecuaciones de satisfacción máxima para un
+  individuo: si hay $m$ mercancías y una unidad de la mercancía
+  $x_{1}$ es el *numerario* en términos del cual los precios de las
+  otras mercancías son expresadas $(p_{1}=I)$, entonces tenemos
+  $(m-I)$ ecuaciones:
+\begin{equation}
+MU_{1}=\frac{MU_{2}}{p_{2}}=\frac{MU_{3}}{p_{3}}=....
+\end{equation}
 
-## Los primeros escritos económicos
+## Maximización de la utilidad y la curva de $D$ (cont.)
 
-- En sus *Manuscritos...* el tema central es que la historia es la
-  saga de alienación que se produce en la vida de las personas, en
-  tanto que productores, y que el comunismo, al que se llega a través
-  de una revolución contra la propiedad privada, es la escapatoria a
-  esa alienación
-- En esos escritos sugiere la idea de que a pesar de que **el trabajo
-  es la fuente de toda riqueza, el trabajador sólo obtiene una
-  pequeña parte de esa riqueza**
-  - la parte del león de la riqueza va para el capitalista
-- Basicamente postula que el capitalista se enriquece inevitablemente
-  a costa del trabajador
-
-## Los primeros escritos económicos (cont.)
-
-- Argumente que existe una tendencia hacia la concentración
-  monopolística del capital en un númerco cada vez menor de personas
-  - esto aumenta los beneficios totales y aumenta la miseria de los
-    trabajadores
-- Tambien en estos escritos elabora una **razonada crítica metodológica
-  a la economía política**
-  - critica el hecho de que los economistas clásico no explicaban
-    ("comprendían") las **causas** subyacentes del capitalismo
-- Además crítica las **contradicciones sociales reales** que se
-  observaban $\longrightarrow$ *"el trabajador se va haciendo cada vez
-  más pobre cuanta más riqueza produce...se convierte en una mercancía
-  cada vez más barata cuantas más mercancías crea"*
-
-## Los primeros escritos económicos (cont.)
-
-![Crítica metodológica a la escuela clásica](fig/fig-05-004.png){#fig-precios}
-  
-
-## Los primeros escritos económicos (cont.)
-
-- Y sigue desarrollando esta idea cuando dice que los trabajadores se
-  enfrentan en el proceso con los objetos de *su* trabajo (bienes)
-  como con cosas exteriores a sí mismos, cosas sobre las que ya no
-  ejercen ningún control ni propiedad
-  - *cosas ajenas* se han convertido en independiente de su productor
-- Su crítica a la economía política era porque ocultaba la *alienación
-  inherente a la naturaleza del trabajo* por no considerar la relación
-  directa *entre el trabajador y la producción*
-  - esta idea es el sello distintivo de la economia marxiana
-  
-## Los primeros escritos económicos (cont.)
-
-- Otras contribuciones las hizo en el marco de sus *Grundrisse*
-  $\longrightarrow$ discute por ejemplo las características de los
-  sistemas pre-capitalistas y de las interrelaciones entre las partes
-  del capitalismo (producción, distribución, cambio)
-- Se opuso a una visión ahistórica de la producción (economía clásica)
-  --intentó vincular el proceso de producción con la etapa de
-  desarrollo de la sociedad
-- Claramente se enfrentó con Mill acá (recuerde su distinción entre
-  "leyes invariables" de la producción y "leyes variables" de la 
-  distribucion)
-  - para Marx toda forma de producción crea sus propias relaciones
-  legales y formas de gobierno ("instituciones") 
-  
-## La naturaleza del capitalismo y la TVT
-
-- En el ideario de Marx, debía demostrar
-  1. Como la mercancía de cambio en el mercado lleva a la lucha de
-     clases
-  2. Como el sistema de mercancías se "rompe" eventualmente por sus
-     contradicciones internas
-  3. Porqué el conflicto de clases en el capitalismo resultaría en la
-     toma del poder por parte de la clase explotada --a diferencia de
-     en todas las etapas anteriores
-- El capitalismo para Marx era un sistema económico en que las
-  personas vivían comprando y vendiendo mercancías
-  
-## La naturaleza del capitalismo y la TVT (cont.)
-
-- Casi toda esta sección se desprende de contribuciones escritas en
-  *El Capital*. Es aquí donde comienza a analizar la producción y
-  distribución de mercancías y para ello parte de las TVT de Smith y
-  Ricardo
-- Marx **identificó al trabajo como la esencia de todo valor**
-  $\longrightarrow$ el valor era una propiedad objetiva de todas las
-  mercancías 
-  - ni por asomo Marx daba crédito a fuentes subjetivas del valor
-    --era un materialista y sólo las relaciones materiales
-    determinaban el valor
-- Pero el **valor se determina *antes* del precio**
-
-## La naturaleza del capitalismo y la TVT (cont.)
-
-- Marx percibió y atacó la aparente contradicción entre las dos TVT de
-  los clásicos: 1) precio de mercado (CP) y 2) precio natural (LP) por
-  cuanto *observaba* que los precios de mercado fluctúan continuamente
-- Reconocía que *en condiciones de competencia, los precios no
-  fluctúan aleatoriamente sino que lo hacen en torno a un punto
-  definido* $\longrightarrow$ este punto es para Marx el verdadero
-  costo de producción, es decir, el costo del trabajo
-  -- en otras palabras, para Marx el valor venía determinado no por
-  las leyes del mercado sino por la producción
-
-## La naturaleza del capitalismo y la TVT (cont.)
-
-> Algunos "traductores" de Marx sugieren que el "resolvía" este contraste de
-> la siguiente forma. Los *precios de mercado* son estimaciones
-> *ideales* de las relaciones de intercambio entre $O$ y $D$. Y la
-> competencia exige que estas estimaciones ideales se conformen a la
-> realidad material del trabajo incurrido en la producción. El
-> materialismo de Marx *requiere que la causalidad sea de la relación
-> de intercambio objetiva a la valoración ideal*. En última instancia,
-> lo que realmente importaba era las relaciones de intercambio
-> objetivas
-
-## Salarios y capital
-
-- Marx enfrentó las mismas 2 (dos) preguntas que Ricardo:
-  1. ¿Cuál es el valor de cambio del trabajo? $\longrightarrow$ teoría
-  de los salarios 
-  2. ¿Cómo se determina el valor de los bienes producidos por la
-     maquinaria? $\longrightarrow$ teoría del capital
-- Marx descompuso el valor de la fuerza de trabajo en dos componentes
-  1. **Trabajo socialmente necesario** $\longrightarrow$ determina el
-     *valor de cambio* del trabajo en sí (salario)
-  2. **Plusvalía** $\longrightarrow$ es apropiada por el capitalista
-- En esto Marx fue claro $\longrightarrow$ "el capitalismo no podría
-  existir si el trabajador no produjese un valor mayor que el
-  requerido por su propia subsistencia"
-
-## Salarios y capital (cont.)
-
-- Aquí un famoso pasaje sobre la aparición de la **plusvalía**
-
-> Si fuera necesaria una jornada de trabajo para mantener vivo durante
-> una jornada de trabajo a un obrero, el capital no existiría, porque
-> la jornada de trabajo se intercambiaría por su propio producto, y de
-> esta suerte el capital como capital no se podría valorizar ni, por
-> consiguiente, conservar...Por el contrario, si, pongamos por caso,
-> sólo se necesita media jornada de trabajo para mantener vivo a un
-> obrero durante toda una jornada laboral, la plusvalía del producto
-> surge de por sí...
-**[Karl Marx, *Elementos fundamentales para la crítica de la economía política*]**
-
-## Salarios y capital (cont.)
-
-- Punto importante $\longrightarrow$  *plusvalía no surge en el
-  intercambio sino en la producción** 
-  - por esta razón Marx argumenta que la finalidad de la producción
-    en el sistema capitalista es extraer plusvalía del trabajador
-    [explotación del trabajo por el capital]
-- La plusvalía surge no porque el trabajador **reciba menos** de lo que
-  vale sino porque **produce más** de lo que vale
-  - dado que esta cantidad excedente es expropiada de manos del
-    trabajador, puede definirse a la plusvalía como la suma de renta,
-    interés y beneficio --es decir pagos que no van al factor trabajo
-- Marx consideraba que este principio era su contribución más
-  importante
-
-## Salarios y capital (cont.)
-
-> **Ilustración de cálculo de valor trabajo**. Marx añadía todo el trabajo
-> directo e indirecto usado. El **valor de un bien** que requería 10
-> horas de trabajo directo más materias primas cuya producción insumió
-> 12 horas de trabajo mas 1/1000 de la vida de una máquina cuya
-> producción insumió 5000 horas de trabajo sumaría en total unas 27
-> horas de trabajo, entre trabajo, insumos y depreciación del
-> $K$. ¿Cómo genera beneficio el capitalista si tiene que vender el
-> bien a su valor de 27? Sólo pagandole a al menos uno de los factores
-> a un precio *por debajo de su valor*. Dado que compra máquinas e
-> insumos de otros capitalistas, la ganancia debe venir de los
-> trabajajores
-
-## Salarios y capital (cont.)
-
-- ¿Y el valor del trabajo?
-
-> Para Marx, el trabajo era diferente. Si **el valor de un bien** es la
-> cantidad de trabajo que insumió producirlo, debemos preguntarnos
-> ¿cuál es el **valor del trabajo**? El valor del trabajo es la
-> cantidad de trabajo que insume producir la comida y subsistencia del
-> trabajador y su familia. Y desde que los humanos inventaron la
-> agricultura, el $L$ ha producido un excedente social --más de lo que
-> es necesario para su subsistencia. En el ejemplo, si el trabajador
-> consume bienes y servicios cuya producción insumió 6 horas, el valor
-> de su trabajo es el equivalente en dinero de esas 6 horas. Y eso es
-> precisamente lo que le paga el "perfecto capitalista". Lo que deja
-> al capitalista con un beneficio o *plusvalía*, del equivalente en
-> dinero a 4 horas de trabajo
-
-## Salarios y capital (cont.)
-
-- ¿Por qué el trabajador no podría simplemente trabajar por sí mismo y
-  quedarse con el equivalente a 10 hs. de trabajo que son necesarias para producir el bien?
-  - la respueta de Marx es porque el **valor de un bien** se basa en
-    lo que Marx llamó **trabajo socialmente necesario**
-- En otras palabras, si el trabajador pudiera producir el bien sin la
-  maquinaria avanzada y demas insumos, pero le requeriría 50 horas,
-  sólo lo podría vender por el equivalente a 27 horas de trabajo
-  - el capitalista puede apropiarse de la plusvalía y explotar al
-    trabajador por la simple razón de que es dueño de la maquinaria
-    que permite que el excedente social sea tan grande como es!
-
-## Salarios y capital (cont.)
-
-- Ricardo
-  1. trabajo como *medida* del valor
-  2. trabajo no única *causa* del valor
-- Marx 
-  1. trabajo como *medida* y *causa* (única) del valor
-  2. sólo trabajo (no las máquinas) puede producir *plusvalía*
-- ¿Valor de cambio de la maquinaria? $\longrightarrow$ la máquina es
-  vista como *trabajo cristalizado* y por tanto igual al costo del
-  trabajo que las produjo
-- Obviamente Marx ignoró la crítica (válida) de que esto negaba que
-  las máquinas fueran productivas per se y deben valorarse por encima
-  del costo de trabajo invertido en ellas
-
-## La gran contradicción
-
-- ¿Cómo concilia la TVT de Marx el hecho de que en competencia la tasa
-  de beneficios debía ser uniforme y que a su vez según su teoría
-  distintas relaciones $K/L$ entre industrias darían distintas tasas
-  de beneficios?
-  - esto era algo que empíricamente no se observaba --y si se
-    observaba diferentes relaciones $K/L$.
-- Lo que sucedía era que el precio de mercado de las mercancías
-  discrepaban frecuentemente de sus valores trabajo (para cumplir con
-  la tasa de beneficio uniforme)
-  - no puede ser cierto que el valor se determine sólo por los pagos
-    efectuados al $L$
-  
-## La gran contradicción (cont.)
-
-- La respuesta de Marx es que esto se debía a la teoría de la
-  competencia de los capitales --competencia entre empresas e
-  industrias llevaba a una tasa uniforme de beneficios 
-- Cuando esta tasa media se añade a los (diferentes) costos de
-  producció de las diferentes industrias, desaparecen las desviaciones
-  individuales de los precios de mercado respecto de los valores de
-  trabajo [desaparecen en sentido agregado, que se compensan]
-
-## La gran contradicción (cont.)
-
-![Nomenclatura y definiciones en Marx](fig/fig-05-005.png){#fig-precios}
-
-## La gran contradicción (cont.)
-
-- En función de estos conceptos, y en terminos modernos, diríamos que
-
+- Y finalmente la restricción presupuestaria establece la igualdad de
+  valores de los stocks iniciales de bienes $(x_{i}^{o})$ y los stocks
+  luego del intercambio
+\begin{equation}
+x_{1}+x_{2}p_{2}+x_{3}p_{3}+....=x_{1}^{0}+x_{2}^{0}p_{2}+x_{3}^{0}p_{3}+....
+\end{equation}
+- Entonces un sistema de $m$ ecuaciones para $m$ incógnitas
+  (cantidades)
 \begin{align}
-PNB&=c+v+s \\
-PNN&=v+s
+x_{2}&=x_{2}(p_{2}, p_{3},...) \\
+x_{3}&=x_{3}(p_{2}, p_{3},...) \\
+....&= ............. \\
+x_{1}&=(x_{1}^{0}+x_{2}^{0}p_{2}+x_{3}^{0}p_{3}+...)-(x_{2}p_{2}+x_{3}p_{3}+...)
 \end{align}
 
-- Su intento por resolver "la gran contradicción" dio lugar al famoso
-  **problema de la transformación** que es uno de los aspectos
-  técnicos más discutidos de la teoría de Marx
+## Maximización de la utilidad y la curva de $D$ (cont.)
+
+- $x_{1}$, $x_{2}$  son **las $q$ demandadas** y las
+  $(x_{1}^{0}-x_{1})$, $(x_{2}^{0}-x_{2})$  son las **$q$
+  frecidas**. Para l os **precios de mercado** sumamos las $n$
+  demandas para cada mercancía
+\begin{align}
+X_{2}&=\sum^{n} x_{2}=\sum^{n} x_{2}(p_{2}, p_{3}, ...) \\
+X_{3}&=\sum^{n} x_{3}=\sum^{n} x_{3}(p_{2}, p_{3}, ...) \\
+....&=...........
+\end{align}
+- e igualamos las $q$ demandadas a las cantidades diponibles,
+  $X_{i}^{0}$
+\begin{align}
+X_{2}^{0}&=X_{2} \\
+X_{3}^{0}&=X_{3} \\
+...&=....
+\end{align}
+
+## Maximización de la utilidad y la curva de $D$ (cont.)
+
+- Si sumamos las $RP$ individuales, tenemos
+\begin{equation}
+\sum^{n}x_{1}-X_{1}^{0}=p_{2}(X_{2}^{0}-X_{2})+p_{3}(X_{3}^{0}-X_{3})+...=0
+\end{equation}
+- Por lo tanto, si la cantidad demandada iguala a la cantidad
+  disponible en $(m-I)$ mercados, la igualdad también deberá regir en
+  el mercado $m$th
+- La **función de demanda walrasiana** es la relación entre la cantidad
+  de una mercancía y *todos los precios* cuando las preferencias y el
+  ingreso de los individuos se mantiene constante
   
-## La gran contradicción (cont.)
-
-- Supuestos:
-  1. Diferentes mercancías se producen con diferentes **composiciones
-     orgánicas del K (COK), $K/L$** y además utilizan capital constante en
-     diferentes proporciones en la producción	 
-  2. Tasa de plusvalía del 100%
-  3. Competencia tiende a igualar la tasa de beneficio entre
-     industrias a la **tasa media**, es decir, al ratio de plusvalía
-     agregada sobre inversión agregada
-- El estimaba que la COK dependía de relaciones técnicas entre fuerza
-  de trabajo y otros medios de producción
-
-## La gran contradicción (cont.)
-
-![El problema de la transformación](fig/fig-05-006.png){#fig-precios}
-
-## La gran contradicción (cont.)
-
-- Cinco mercancías cada una con diferente COK --$A$ usa 80 $c$ y 20
-$v$ --hacemos equivaler unidades con valores monetarios. Cada
-industria tiene una inversión total, $k$, igual a 100 y la inversión
-agregada igual a 500
-- Costo de cada mercancía es la suma del capital utilizado (columa 3)
-  y $v$ --está dado en la columna 4 [note que no hay factor tierra en
-  el ejemplo]
-- La plusvalía es dada en la columna 5 -y recuerde que era 100% de
-  $v$; lo importante es que la columna 6 revela el "verdadero valor de
-  costo" según la TVT de Marx (la suma de columna 4 y 5)
+# *Aplicaciones de la teoría* {background="#390040"}
   
-## La gran contradicción (cont.)
+## Aplicaciones de la teoría
 
-- Según Marx, el verdadero coste de la mercancía se diferencia del
-  precio de venta en la cantidad media de ganancia --dada en
-  columna 7. 
-  - esta gcia. media es uniforme en todas las industrias y sale de
-    dividir plusvalía sobre inversión, es decir,
-    $\frac{s}{c+v}$ lo que queda $110/500=0.22$ en este ejemplo
-- La ganancia media (ya no como tasa sino aplicada a la
-  inversión) se suma al costo y determina simultáneamete el precio de
-  venta y las desviaciones respecto del valor trabajo
-  - *"Las desviaciones del precio se anulan mutuamente mediante una
-    distribución uniforme de la plusvalía o por el agregado de la
-    ganancia media de 22 por cada 100 de capital adelantado a los
-    respectivos precios de costo de las mercancias"*
+- Jevons sólo logró dar una aplicación concreta a la teoría
+  desarrollada $\longrightarrow$ una demonstracion de que ambas partes
+  en un intercambio ganan (aumentan su) satisfacción
+- Menger fue aún menos específico pero bastante más persuasivo: para
+  el la teoría de la UM era *la base* de la teoría económica
+  - incluso la teoría de la producción era simplemente una instancia
+    de la teoría de la UM $\longrightarrow$ los servicios de producicón
+    (factores) sólo se distinguían de los servicios de consumo por ser
+    bienes de mayor orden
+- Walras también reestructruó gran parte de la teoría económica
+  alrededor de la teoría de la UM
+
+## Aplicaciones de la teoría (cont.)
+
+- De hecho fue Walras quien contribuyó una de las aplicaciones más
+  importantes $\longrightarrow$ reducciones de $p$ aumentaban $q$
+  demandada y aumentos de $p$ reducían $q$ demandada
+\begin{equation}
+\frac{MU_{1}}{p_{1}}=\frac{MU_{2}}{p_{2}}=\frac{MU_{3}}{p_{3}}=....
+\end{equation}
+- Si $p_{2}$ cae en $\delta p_{2}$ y suponiendo que al individuo no se
+  le brinda su ingreso real excedente $x_{2}\delta p_{2}$, al nuevo
+  precio $p_{2}-\delta p_{2}$, el individuo obtiene un mayor utilidad
+  marginal por dólar de $X_{2}$ que de cualquier otra mercancía
+  - por lo que sustituirá $X_{2}$ por otras mercancías
+  - restaurando $x_{2}\delta p_{2}$ ahora comprará más de cada una
+
+## Aplicaciones de la teoría (cont.)
+
+- Otra de las aplicaciones fue la teoría walrasiana de los equilibrios
+  múltiples $\longrightarrow$ intercambio de una mercancía por otra en
+  mercado competitivo y ambas dan utilidad
+- Los poseedores de $X_{1}$ tienen un stock fijo --¿cuánto ofrecerán a
+  varios precios de $X_{1} (en términos de $X_{2}$?
+  - Si $p_{1}$ es $0$ [note que implica que no se da nada de $X_{2}$ a
+    cambio de una unidad de $X_{1}$] entonces $X_{1}=0$.
+  - A mayor $p_{1}$ ofrecen más de $X_{1}$ para obtener más de $X_{2}$
+    pero más allá de cierto precio, *ofrecen menos de X_{1}* ya que
+    están relativamente saciados con $X_{2}$
+- Su curva de $D$ pues cruza a la de oferta en varios puntos --algunos
+  como $A'$ y $A''$ son estables mientras que $A$ es inestable
   
-## La gran contradicción (cont.)
+## Aplicaciones de la teoría (cont.)
 
-- Este fue el famoso problema de la **transformación de valores en
-  precios** apoya el arguemnto de Marx de que en el agregado el
-  trabajo es la verdadera fuente del valor
-- Esta elegante e ingeniosa salida demuestra con creces la brillante
-  capacidad analítica de Marx para tratar con razonamientos lógicos y
-  deductivos
-- Por muy ingenioso que sea el argumento, no obstante, esta solución
-  sigue negando que la maquinaria sea productiva
-  - a pesar de ello, y de que Marx no le dio tanta importancia al
-    problema de la transformación, fue retomado con pasión y ahínco
-    por los economistas neoclásicos mucho más que por los
-    neo-marxistas!
+![UM y equilibrios múltiples](fig/fig-06-009.png){#fig-precios}
+  
+
+## La forma de la función de utilidad
+
+- Los tres fundadores de la teoría de la utilidad *trataron a la
+  utilidad de una mercancía como función solamente de la cantidad de
+  esa mercancía*. Por ejemplo, Jevons y Walras escribieron la
+  **utilidad total de un individuo** como:
+\begin{equation}
+f(x_{1})+g(x_{2})+h(x_{3})+....
+\end{equation}
+- Además c/mercancía tenía asociada *utilidad
+  marginal decreciente* --ie. $D$ pend. negativa
+- Y también que un aumento de $Y$ conduce a un
+  aumento en la $q$ de todas las mercancías --recuerde
+\begin{equation}
+MU_{r}=\frac{MU_{1}}{p_{1}}=\frac{MU_{2}}{p_{2}}=\frac{MU_{3}}{p_{3}}=...
+\end{equation}
+
+## La forma de la función de utilidad (cont.)
+
+- Fue Edgeworth quien pateó el tablero cuando trató de darle mas
+  generalidad a la función de utilidad. 
+\begin{equation}
+\phi(x_{1}, x_{2}, x_{3}, ...)
+\end{equation}
+- El problema era importante
+  - Con la **función de utilidad total aditiva** la *utilidad marginal
+    decreciente* era una condición suficiente para obtener curvas de
+    indiferencia (CI) convexas
+  - Con la **función de utilidad total generalizada** la *utilidad
+    marginal decreciente* no es condición necesaria ni suficiente para
+    CI convexas
+- En este caso no puede garantizarse que todas las $D$ tienen
+  pendiente negativa	
 	
-	
-# Las leyes del movimiento capitalista y el fin del capitalismo {background="#43464B"}
+## La forma de la función de utilidad (cont.)
 
-## La evolución del capitalismo
-
-- Una separación importante de Marx con la economía clásica fue el rol
-  que asignó a la **tecnología** --para él, era la fuerza motriz
-  principal de la dinámica social
-- Tanto Smith como Ricardo escribieron en una época en que no les
-  resultaba facil y/o evidente comprender e incorporar el progreso
-  tecnológico como parte de su teoría
-  - Marx en cambio le atribuyó un rol central
-- Escribió y desarrolló 5 (cinco) leyes --tendencias generales-
-  inherentes al capitalismo
-  - Según Marx cada una brota de la naturaleza dinámica de la economía
-    y surge a partir del conflicto entre *fuerzas productivas* y
-    *relaciones de producción*
-	
-## La ley de la acumulación y la tasa decreciente de ganancia
-
-- En el capitalismo todos los empresarios intentan obtener más
-  *plusvalía* para aumentar el beneficio y como esta proviene del trabajo
-  - sería esperable ver más *métodos intensivos en $L$* pero Marx
-    observó que lo contrario sucedía
-- Había una lógica $\longrightarrow$ la maquinaria abarata el precio
-  de la mercancía y reducir por tanto la parte de la jornada laboral
-  que el obrero necesita para sí por tanto aumentando el resto de la
-  jornada de trabajo --la que cede al capialista
-  - así el capitalista va sustituyendo $L$ por $K$ y los que primero
-    lo hagan venderán a un precio de mercado con costos mas bajos
-
-## La ley de la acumulación y la tasa decreciente de ganancia (cont.)
-
-- Pero si todos los capitalistas lo hacen entonces aumenta la
-  *composición orgánica del capital, $O$* por lo que disminuye la
-  plusvalía, $s$ y la tasa de ganancia, $p'$
-- También dio otra razón $\longrightarrow$ trabajadores presión por
-  tasas salariales más altas. Esto eleva los *costos de producción*
-  pero los precios determinados aún por *trabajo socialmente
-  necesario*
-- Como Marx no era malthusiano, veía que salario más altos podían ser
-  estables y permanentes
+- La otra generalización fue la inclusión de la $q$ consumida por
+  otros individuos en la fn. de utilidad individual --ie. la utilidad
+  del consumo de diamantes mio se ve reducida mientras mas individuos
+  consuman diamantes
+  - Fue Fisher quien sugirió esta idea luego ampliada por Cunynghame y
+    Pigou
+- Pigou de hecho tomó esta idea para concluir que los excedentes del
+  consumidor de varios individuos no podían ser sumados simplemente
+  - con la aclaración de que cuando las variaciones de $p$ eran
+    pequeñas estos efectos cruzados entre las utilidades de varios
+    consumidores eran estables 
+	- "utilidad marginal del prestigio" constante
   
-## La ley de la concentración creciente y de la centralización de la industria
-  
-- La ley anterior lleva a una *concentración cada vez mayor del $K$*
-  via sustitución de $L$ por $K$ y transform la industria
-  $\longrightarrow$ de pequeña a gran escala --más división del
-  trabajo y más producción
-- Creía en la aparición de **sobreproducción general** que terminaría
-  en una reducción de precios --sólo más eficientes sobrevivirían
-  - peces grandes "comen" a peces chicos y se refueza tendencia a
-    concentración
+## La forma de la función de utilidad (cont.)
 
-## La ley del creciente ejército industrial de reserva
+> Almost the whole value of strawberries in March, to those who like
+> this tasteless mode of ostentation, is the fact that others cannot
+> get them. As my landlady once remarked, "Surely, sir, you would not
+> like anything so common and cheap as a fresh herring?" The demand
+> for diamonds, rubies and sapphires is another example of this
+**[Henry Cunynghame, *Some Improvements in Simple Geometrical Methods
+of Treating Exchange Value, Monopoly and Rent* (1892)]**
 
-- Para Marx, la dinámica que acompaña a la innovación tecnológica y la
-  sustitución de $L$ por $K$ hace inevitable el **desempleo**
-- Este desplazamiento de trabajadores da origen a un creciente
-  **ejército industrial de desempleados (reserva)**
-  - este desempleo es de 2 (dos) tipos
-    1. desempleo tecnológico (por sustitución de $L$ por $K$)
-	2. desempleo cíclico (por crisis de exceso de producción) 
+## La forma de la función de utilidad (cont.)
 
-## La ley de la miseria creciente del proletariado
+- Hubo algunos intentos de Pigou, Marshall y Edgeworth por estimar
+  estos efectos e interrelaciones --en general concluyeron que eran
+  muy pequeños y descartables
+- La tradición principal del análisis microeconómico ha descartado, al
+  menos hasta décadas recientes, estos efectos de interdependencia de
+  utilidades
+- Sin embargo, tres temas han quedado en la tradición principal: 1) la
+  apliccación gráfica de la fn. de utilidad generalizada (diagramas de
+  Edgeworth); 2) la actitud de los economistas contemporáneos ante la
+  generalización de Edgeworth; y 3) la hipótesis de Bernoulli sobre la
+  forma de la fn. de utilidad
+   
+## Resumiendo
 
-- El crecimiento del *ejército industrial de reserva* se acompaña por
-  una **miseria creciente del proletariado** --a esto se suma que los
-  capitalistas intentan contrarrestar la tasa decreciente de ganancia
-  con un menor salario, mas horas de trabajo y peores condiciones
-- Marx veía inevitable la incorporación de mujeres y niños a la fuerza
-  de trabajo
-  - *"el trabajador se convierte en un comerciante de esclavos"*
-- Esto conduce a mayores tasas de mortalidad infantil y a la
-  degradación moral de mujeres y niños
-  
-## La ley de la miseria creciente del proletariado
+- Jevons, Menger y Walras fueron los tres padres de la teoría de la
+  utilidad --llegaron a la misma en forma independiente y dieron
+  versiones muy similares entre sí. Jevons y Walras fueron los más
+  precisos y formalmente elegantes
+- La función de utilidad total que más se utiliza es la aditiva y no
+  la generalizada --tal vez por razones prácticas, tal vez por razones
+  empíricas --aunque incluso Marshall reconoció la existencia de
+  bienes para los que no había $D$ con pendiente negativa [bienes
+  Giffen]
+- Pero más allá de estas discusiones, no hubo una reformulación
+  significativa de la teoría de la utilidad como la concibieron
+  Jevons, Menger y Walras y la inmortalizara Marshall
 
-- La máquina se convierte para Marx en el instrumento más poderoso
-  para reducir el tiempo de trabajo para producir un bien
-  $\longrightarrow$ empresarios buscan reducir al máximo tiempo
-  ocioso de la máquina
-- Dificil contrastar esto con algunas evidencias empíricas --tal vez
-  su predicción más errónea
 
-## La ley de la miseria creciente del proletariado (cont.)
+ 
 
-![Nomenclatura y definiciones en Marx](fig/fig-05-007.png){#fig-precios}
 
-## La ley de la miseria creciente del proletariado (cont.)
+ 
+ 
 
-![Nomenclatura y definiciones en Marx](fig/fig-05-008.png){#fig-precios}
-
-## La ley de las crisis y depresiones
-
-- Explicó en forma moderna la **vinculación entre los ciclos económicos
-  (crisis) e inversión** $\longrightarrow$ notó que empresarios
-  invertían más cuando el salario era bajo y desempleo alto (y menos maquinaria)
-  - esto producía crisis periódicas 
-- Su teoría de las crisis era parte de su explicación general
-  $\longrightarrow$ debía demostrar que el capitalismo sufriría cada
-  vez más y más graves crisis
-- Tendencia a acumulación $\longrightarrow$ sobreproducción
-  $\longrightarrow$ mayor desempleo $\longrightarrow$ miseria
-  creciente
-  - eventualmente todo lleva al **exceso de producción del capital**
-
-## La ley de las crisis y depresiones (cont.)
-
-- La tasa media decreciente de ganancia señala la inminente crisis 
-- Gravedad de las crisis dada por la cantidad de personas que afectan;
-  cada vez mas y de mayor duración
-  - tendencia a la *depresión permanente* porque el ejercito
-    industrial de reserva aumentaría con cada crisis
-- La consecuencia lógica e inevitable de todo esto es **la revolución
-  social** a través de la cual el proletariado se alza, se libera de
-  sus cadenas y se apodera de los medios de producción
-  
   

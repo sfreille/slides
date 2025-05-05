@@ -1,0 +1,408 @@
+---
+title: U6. La escuela neoclásica. La revolución marginalista. La teoría de la utilidad marginal
+subtitle: Historia del Pensamiento y del Análisis Económico
+author: |
+  | **Sebastián Freille**
+  | sfreille@unc.edu.ar
+  | Licenciatura en Economía
+  | FCE-UNC
+format:
+  revealjs:
+    slide-number: true
+    chalkboard:
+      buttons: false
+    preview-links: auto
+    css: ..\quarto.css
+    width: 1500
+    center-title-slide: true
+    center: true
+    tbl-cap-location: bottom	
+    toc: true
+    toc-depth: 1
+    toc-title: Contenidos
+    link-external-newwindow: true
+---
+
+# Los comienzos del enfoque moderno {background="#43464B"}
+
+## El avance fuera de Inglaterra: cambio de foco
+
+- La teoría de la utilidad finalmente empezó a ganarse un lugar en la
+  economía aceptada y consensuada en los años 1870s de la mano del
+  tríptico de autores que desarrollaron (versiones similares de) la
+  teoría de manera independiente y descoordinada $\longrightarrow$
+  Jevons, Menger y Walras
+- Cada uno de ellos criticó el "canon ricardiano" de la
+  teoría del valor pero esto fue generalmente en segundo plano --cada
+  uno de ellos creía que la teoría de la utilidad marginal tenía
+  mérito suficiente para ser aceptada
+  
+## La crítica a Ricardo
+
+- Jevons identificó varias deficiencias en la teoría ricardiana
+  1. Ricardo requería una teoría especial para bienes con oferta fija
+     (estatuas, pinturas) --esto sugería que el costo del trabajo *no
+     era esencial* al valor
+  2. Altos costos de trabajo no darán alto valor a una mercancía si la
+     demanda futura es erroneamente estimada 
+  3. El trabajo es heterogéneo y los diferentes tipos de $L$ sólo
+     pueden ser comparados a través de los valores de sus productos
+- Además sugirió que la teoría del valor del costo de producción
+  encaja bien como un caso especial de la teoría de la utilidad
+  $\longrightarrow$ explica la cantidad relativa de mercancías que
+  será provista
+  
+  
+## La crítica a Ricardo (cont.)
+
+- Menger y Walras tomaron esencialmente la misma posición. Menger
+  particularmente añadió una crítica a la teoría de la renta
+  $\longrightarrow$ si el valor de la tierra no dependía de los costos
+  de trabajo, esto demostraba una falta de generalidad bastante seria
+  de la teoría clásica del valor (TCV) [misma crítica de Walras]
+- Ademas Walras enfatizó los efectos recíprocos de precios de bienes y
+  factores entre sí y negaba la existencia de bienes que cuya oferta
+  podía ser incrementada inifitamente
+- Quienes se encargaron de "hipear" la teoría de la utilidad marginal
+  y relativizar la "utilidad" de la TCV fueron dos discípulos que,
+  según Stigler, poco contribuyeron a la teoría de la utilidad
+  marginal: Wieser y Böhm-Bawerk
+  
+# La teoría de la utilidad marginal {background="#43464B"}
+
+## La mensurabilidad de la utilidad
+
+- Los tres autores aceptaron la utilidad como un hecho de la
+  experiencia común congruente con cualquier introspección casual
+
+> The science of Economics, however, is in some degree peculiar, owing
+> to the fact...that its ultimate laws are known to us immediately by
+> intuition, or, at any rate, they are furnished to us ready made by
+> other mental or physical sciences. ...The theory here given may be
+> described as *the mechanics of utility and self-interest*. Oversights
+> may have been committed in tracing out its details, but in its main
+> features this theory must be the true one. Its method is as sure and
+> demonstrative as that of kinematics or statics, nay, almost as
+> self-evident as are the elements of Euclid...
+**[William Stanley Jevons, *Theory of Political Economy* (1911)]**
+
+## La mensurabilidad de la utilidad (cont.)
+
+- Menger fue tal vez el mayor militante y apologista de la
+  mensurabilidad de la utilidad
+  - representó la $UM$ a través de números y empleó el mecanismo de la
+    igualación de $UM$ en varios usos para determinar asignación de
+    una mercancía
+- Walras también supuso la existencia de una unidad de medida de la
+  utilidad y eventualmente hablaba en términos de la utilidad como un
+  magnitud absoluta
+- Pero Jevons fue más enérgico y confuso $\longrightarrow$ la
+  utilidad para él *no era mensurable*
+  - sin embargo, su rechazo fue mutando a escepticismo y eventualmente
+  sugirió un método ingenioso para "medir la utilidad"
+  
+## La mensurabilidad de la utilidad (cont.)
+
+> There is no unit of labour, or suffering, or enjoyment. I have
+> granted that we can hardly form the conception of a unit of pleasure
+> or pain, so that the numerical expression of quantities of feelings
+> seems to be out of question
+**[William Stanley Jevons, *Theory of Political Economy* (1911)]**
+
+## La mensurabilidad de la utilidad (cont.)
+
+- En la segunda edición del libro argumenta muestra más escepticismo
+  y borra varios pasajes críticos de la mensurabilidad
+- Luego dice que no le interesa medir "the whole pleasure gained"
+  sino más bien comparar placeres de cantidades incrementales de
+  tener mas de algo en relación al precio monetario pagado
+
+## La mensurabilidad de la utilidad (cont.)
+  
+> It is from the quantitative effects of the feelings that we must
+> estimate their comparative amounts. I never attempt to estimate the
+> whole pleasure gained by purchasing a commodity; the theory merely
+> expressed that, when a man has purchased enough, he would derive
+> equal pleasure from the possession of a small quantity more as he
+> would from the money price of it
+**[William Stanley Jevons, *Theory of Political Economy* (1911)]**
+  
+## La mensurabilidad de la utilidad (cont.)
+  
+- Relaciona ingeniosamente demanda con utilidad marginal a partir de la siguiente
+  formula
+- Argumenta que puede construirse un curva de $D$ a través de la
+observación y/o experimentación y luego pasar a la curva de $UM$ a
+través de la siguiente ecuación:
+\begin{equation}
+MU_{r}p_{i}=MU_{i}
+\end{equation}
+- donde $MU_{r}$ es la utilidad marginal del ingreso
+
+## La mensurabilidad de la utilidad (cont.)
+
+> For the first approximation we may assume that the general utility
+> of a person's income is not affected by the changes of price of the
+> commodity...The method of determining the function of utility
+> explained above will hardly apply, however, to the main elements of
+> expenditure. The price of bread, for instance, cannot be properly
+> brought under the equation in question, because, when the price of
+> bread rises much, the resources of poor persons are strained, money
+> becomes scarcer with them, and [$MU_{r}$], the [marginal] utility of
+> money, rises
+**[William Stanley Jevons, *Theory of Political Economy* (1911)]**
+
+## La mensurabilidad de la utilidad (cont.)
+
+- A diferencia de Menger y Walras, Jevons consideró el **tema de las
+  comparaciones interpersonales de utilidad** y las consideró
+  expresamente imposibles (aunque el mismo no pudo no incurrir en
+  algunas comparaciones!)
+- Menger directamente evitó el problema mientras que Walras hizo
+  algunas referencias y comparaciones interpersonales de utilidad
+  incidentales
+- El tratamiento de la $UM$ de Jevons fue el más cercano al que luego
+  haría Marshall en sus *Principios*
+  
+# Maximización de la utilidad y la curva de $D$ {background="#43464B"}
+
+## Maximización de la utilidad y la curva de $D$
+
+- Menger pareció ignorar la relación entre utilidad y demanda aunque
+  se ocupó de establecer algunos precios de demanda los cuales
+  representaban de alguna manera utilidades marginales
+- Pero desarrolló una discusión de determinación de precios en
+  monopolio bilateral (indeterminación), duopolio (brindó un
+  equilibrio competitivo) y competencia (ausencia de teoría de la
+  producción)
+- El intento de Jevons trazar un puente entre utilidad y demanda no
+  fue ayudado por su dificultad para trasladar ideas en matemática
+
+## Maximización de la utilidad y la curva de $D$ (cont.)
+
+- Sin embargo presentó su ecuación principal como un "hecho consumado"
+\begin{equation}
+	\frac{MU_{1}}{MU_{2}}=\frac{p_{1}}{p_{2}}
+\end{equation}
+- Esta ecuación era cierta al *nivel del individuo* ($p$
+  dados) pero *no al nivel del mercado*
+- Jevons creó dos conceptos relevantes
+  1. **El cuerpo comercial** $\longrightarrow$ era basicamente un
+     conjunto grande de compradores y vendedores de una mercancía en
+     un mercado competitivo
+  2. **La ley de la indiferencia** $\longrightarrow$ decía que debía
+     haber sólo *un* precio en el mercado
+
+## Maximización de la utilidad y la curva de $D$ (cont.)
+
+- Si la ecuación del intercambio se aplicaba a cada cuerpo comercial;
+  para cada grupo de individuos competitivos la ecuación determinará
+  la relación entre la cantidad ofrecida y la cantidad demandada
+- Entonces tenemos 2 (dos) ecuaciones para determinar 2 (dos)
+  incógnitas: las cantidades de $x_{1}$ y $x_{2}$ intercambiadas
+- 
+
+## Maximización de la utilidad y la curva de $D$ (cont.)
+
+- Fue Walras sin embargo quien estableció la correcta
+  relacion/correspondencia entre utilidad y demanda
+- Primero, derivó las ecuaciones de satisfacción máxima para un
+  individuo: si hay $m$ mercancías y una unidad de la mercancía
+  $x_{1}$ es el *numerario* en términos del cual los precios de las
+  otras mercancías son expresadas $(p_{1}=I)$, entonces tenemos
+  $(m-I)$ ecuaciones:
+\begin{equation}
+MU_{1}=\frac{MU_{2}}{p_{2}}=\frac{MU_{3}}{p_{3}}=....
+\end{equation}
+
+## Maximización de la utilidad y la curva de $D$ (cont.)
+
+- Y finalmente la restricción presupuestaria establece la igualdad de
+  valores de los stocks iniciales de bienes $(x_{i}^{o})$ y los stocks
+  luego del intercambio
+\begin{equation}
+x_{1}+x_{2}p_{2}+x_{3}p_{3}+....=x_{1}^{0}+x_{2}^{0}p_{2}+x_{3}^{0}p_{3}+....
+\end{equation}
+- Entonces un sistema de $m$ ecuaciones para $m$ incógnitas
+  (cantidades)
+\begin{align}
+x_{2}&=x_{2}(p_{2}, p_{3},...) \\
+x_{3}&=x_{3}(p_{2}, p_{3},...) \\
+....&= ............. \\
+x_{1}&=(x_{1}^{0}+x_{2}^{0}p_{2}+x_{3}^{0}p_{3}+...)-(x_{2}p_{2}+x_{3}p_{3}+...)
+\end{align}
+
+## Maximización de la utilidad y la curva de $D$ (cont.)
+
+- $x_{1}$, $x_{2}$  son **las $q$ demandadas** y las
+  $(x_{1}^{0}-x_{1})$, $(x_{2}^{0}-x_{2})$  son las **$q$
+  frecidas**. Para l os **precios de mercado** sumamos las $n$
+  demandas para cada mercancía
+\begin{align}
+X_{2}&=\sum^{n} x_{2}=\sum^{n} x_{2}(p_{2}, p_{3}, ...) \\
+X_{3}&=\sum^{n} x_{3}=\sum^{n} x_{3}(p_{2}, p_{3}, ...) \\
+....&=...........
+\end{align}
+- e igualamos las $q$ demandadas a las cantidades diponibles,
+  $X_{i}^{0}$
+\begin{align}
+X_{2}^{0}&=X_{2} \\
+X_{3}^{0}&=X_{3} \\
+...&=....
+\end{align}
+
+## Maximización de la utilidad y la curva de $D$ (cont.)
+
+- Si sumamos las $RP$ individuales, tenemos
+\begin{equation}
+\sum^{n}x_{1}-X_{1}^{0}=p_{2}(X_{2}^{0}-X_{2})+p_{3}(X_{3}^{0}-X_{3})+...=0
+\end{equation}
+- Por lo tanto, si la cantidad demandada iguala a la cantidad
+  disponible en $(m-I)$ mercados, la igualdad también deberá regir en
+  el mercado $m$th
+- La **función de demanda walrasiana** es la relación entre la cantidad
+  de una mercancía y *todos los precios* cuando las preferencias y el
+  ingreso de los individuos se mantiene constante
+  
+# Aplicaciones de la teoría {background="#43464B"} 
+  
+## Aplicaciones de la teoría
+
+- Jevons sólo logró dar una aplicación concreta a la teoría
+  desarrollada $\longrightarrow$ una demonstracion de que ambas partes
+  en un intercambio ganan (aumentan su) satisfacción
+- Menger fue aún menos específico pero bastante más persuasivo: para
+  el la teoría de la UM era *la base* de la teoría económica
+  - incluso la teoría de la producción era simplemente una instancia
+    de la teoría de la UM $\longrightarrow$ los servicios de producicón
+    (factores) sólo se distinguían de los servicios de consumo por ser
+    bienes de mayor orden
+- Walras también reestructruó gran parte de la teoría económica
+  alrededor de la teoría de la UM
+
+## Aplicaciones de la teoría (cont.)
+
+- De hecho fue Walras quien contribuyó una de las aplicaciones más
+  importantes $\longrightarrow$ reducciones de $p$ aumentaban $q$
+  demandada y aumentos de $p$ reducían $q$ demandada
+\begin{equation}
+\frac{MU_{1}}{p_{1}}=\frac{MU_{2}}{p_{2}}=\frac{MU_{3}}{p_{3}}=....
+\end{equation}
+- Si $p_{2}$ cae en $\delta p_{2}$ y suponiendo que al individuo no se
+  le brinda su ingreso real excedente $x_{2}\delta p_{2}$, al nuevo
+  precio $p_{2}-\delta p_{2}$, el individuo obtiene un mayor utilidad
+  marginal por dólar de $X_{2}$ que de cualquier otra mercancía
+  - por lo que sustituirá $X_{2}$ por otras mercancías
+  - restaurando $x_{2}\delta p_{2}$ ahora comprará más de cada una
+
+## Aplicaciones de la teoría (cont.)
+
+- Otra de las aplicaciones fue la teoría walrasiana de los equilibrios
+  múltiples $\longrightarrow$ intercambio de una mercancía por otra en
+  mercado competitivo y ambas dan utilidad
+- Los poseedores de $X_{1}$ tienen un stock fijo --¿cuánto ofrecerán a
+  varios precios de $X_{1} (en términos de $X_{2}$?
+  - Si $p_{1}$ es $0$ [note que implica que no se da nada de $X_{2}$ a
+    cambio de una unidad de $X_{1}$] entonces $X_{1}=0$.
+  - A mayor $p_{1}$ ofrecen más de $X_{1}$ para obtener más de $X_{2}$
+    pero más allá de cierto precio, *ofrecen menos de X_{1}* ya que
+    están relativamente saciados con $X_{2}$
+- Su curva de $D$ pues cruza a la de oferta en varios puntos --algunos
+  como $A'$ y $A''$ son estables mientras que $A$ es inestable
+  
+## Aplicaciones de la teoría (cont.)
+
+![UM y equilibrios múltiples](fig/fig-06-009.png){#fig-precios}
+  
+# La forma de la función de utilidad {background="#43464B"}
+  
+## La forma de la función de utilidad
+
+- Los tres fundadores de la teoría de la utilidad *trataron a la
+  utilidad de una mercancía como función solamente de la cantidad de
+  esa mercancía*. Por ejemplo, Jevons y Walras escribieron la
+  **utilidad total de un individuo** como:
+\begin{equation}
+f(x_{1})+g(x_{2})+h(x_{3})+....
+\end{equation}
+- Además c/mercancía tenía asociada *utilidad
+  marginal decreciente* --ie. $D$ pend. negativa
+- Y también que un aumento de $Y$ conduce a un
+  aumento en la $q$ de todas las mercancías --recuerde
+\begin{equation}
+MU_{r}=\frac{MU_{1}}{p_{1}}=\frac{MU_{2}}{p_{2}}=\frac{MU_{3}}{p_{3}}=...
+\end{equation}
+
+## La forma de la función de utilidad (cont.)
+
+- Fue Edgeworth quien pateó el tablero cuando trató de darle mas
+  generalidad a la función de utilidad. 
+\begin{equation}
+\phi(x_{1}, x_{2}, x_{3}, ...)
+\end{equation}
+- El problema era importante
+  - Con la **función de utilidad total aditiva** la *utilidad marginal
+    decreciente* era una condición suficiente para obtener curvas de
+    indiferencia (CI) convexas
+  - Con la **función de utilidad total generalizada** la *utilidad
+    marginal decreciente* no es condición necesaria ni suficiente para
+    CI convexas
+- En este caso no puede garantizarse que todas las $D$ tienen
+  pendiente negativa	
+	
+## La forma de la función de utilidad (cont.)
+
+- La otra generalización fue la inclusión de la $q$ consumida por
+  otros individuos en la fn. de utilidad individual --ie. la utilidad
+  del consumo de diamantes mio se ve reducida mientras mas individuos
+  consuman diamantes
+  - Fue Fisher quien sugirió esta idea luego ampliada por Cunynghame y
+    Pigou
+- Pigou de hecho tomó esta idea para concluir que los excedentes del
+  consumidor de varios individuos no podían ser sumados simplemente
+  - con la aclaración de que cuando las variaciones de $p$ eran
+    pequeñas estos efectos cruzados entre las utilidades de varios
+    consumidores eran estables 
+	- "utilidad marginal del prestigio" constante
+  
+## La forma de la función de utilidad (cont.)
+
+> Almost the whole value of strawberries in March, to those who like
+> this tasteless mode of ostentation, is the fact that others cannot
+> get them. As my landlady once remarked, "Surely, sir, you would not
+> like anything so common and cheap as a fresh herring?" The demand
+> for diamonds, rubies and sapphires is another example of this
+**[Henry Cunynghame, *Some Improvements in Simple Geometrical Methods
+of Treating Exchange Value, Monopoly and Rent* (1892)]**
+
+## La forma de la función de utilidad (cont.)
+
+- Hubo algunos intentos de Pigou, Marshall y Edgeworth por estimar
+  estos efectos e interrelaciones --en general concluyeron que eran
+  muy pequeños y descartables
+- La tradición principal del análisis microeconómico ha descartado, al
+  menos hasta décadas recientes, estos efectos de interdependencia de
+  utilidades
+- Sin embargo, tres temas han quedado en la tradición principal: 1) la
+  apliccación gráfica de la fn. de utilidad generalizada (diagramas de
+  Edgeworth); 2) la actitud de los economistas contemporáneos ante la
+  generalización de Edgeworth; y 3) la hipótesis de Bernoulli sobre la
+  forma de la fn. de utilidad
+   
+## Resumiendo
+
+- Jevons, Menger y Walras fueron los tres padres de la teoría de la
+  utilidad --llegaron a la misma en forma independiente y dieron
+  versiones muy similares entre sí. Jevons y Walras fueron los más
+  precisos y formalmente elegantes
+- La función de utilidad total que más se utiliza es la aditiva y no
+  la generalizada --tal vez por razones prácticas, tal vez por razones
+  empíricas --aunque incluso Marshall reconoció la existencia de
+  bienes para los que no había $D$ con pendiente negativa [bienes
+  Giffen]
+- Pero más allá de estas discusiones, no hubo una reformulación
+  significativa de la teoría de la utilidad como la concibieron
+  Jevons, Menger y Walras y la inmortalizara Marshall
+
+
+ 
