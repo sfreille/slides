@@ -1,0 +1,179 @@
+---
+title: Historia del Pensamiento y del Análisis Económico
+title-slide-attributes:
+  data-background-image: ../fig/background-002.png
+  data-background-size: stretch
+  data-background-opacity: "0.85"
+subtitle: U6. La escuela neoclásica. La teoría de la utilidad marginal. Introducción y contexto
+format:
+  revealjs:
+    slide-number: true
+    chalkboard:
+      buttons: false
+    preview-links: auto
+    css: ..\quarto.css
+    width: 1500
+    center-title-slide: true
+    center: true
+    tbl-cap-location: bottom	
+    toc: true
+    toc-depth: 1
+    toc-title: Contenidos
+    link-external-newwindow: true
+---
+
+# La "revolución" marginalista. Contexto y generalidades {background="#390040"}
+
+## La revolución marginalista: una perspectiva general
+
+- La **revolución marginalista** se conoce como el repentino cambio
+  entre el abandono del enfoque clásico (ricardiano) y la teoría
+  objetiva del valor y el paso a un nuevo enfoque basado en una
+  **teoría subjetiva del valor** y la noción analítica de **utilidad
+  marginal** 
+- Temporalmente se la centra entre 1870 y 1875, años entre los que
+  aparecieron las principales contribuciones de este enfoque --Jevons
+  (1871), Menger (1871) y Walras (1874)
+  
+## Similitudes y enfoques
+
+- Hubo **precursores importantes del concepto de utilidad marginal** y
+  también de la teoría subjetiva del valor
+- Además hubo **diferencias significativas en cuanto al método y al
+  funcionamiento de la economía** entre los enfoques de los
+  principales autores marginalistas
+  - enfoque austríaco de la imputación
+  - enfoque francés del equilibrio general
+  - enfoque marshalliano del equilibrio parcial
+- Marhsall **siguió un camino propio diferente del radicalmente
+  subjetivo** de Jevons $\longrightarrow$ Marshall muchísimo más influyente
+
+## Contrastes entre escuelas
+
+> Sraffa sintetiza de manera didáctica el contraste entre la escuela
+> clásica y la escuela marginalista. El enfoque clásico consiste en la
+> *presentación del sistema de producción y consumo como un proceso
+> circular* mientras que el enfoque marginalista adopta la perspectiva
+> de una avenida unidireccional que lleva de los factores de
+> producción a los bienes de consumo. 
+
+- Distinción sutil pero no menor --ambos enfoques difieren en temas
+  significativos como la noción del valor y el problema de la
+  distribución
+- Veamos más en detalle los principales contrastes entre ambas escuelas
+
+## Contrastes entre escuelas (cont.)
+
+- En relación al **problema económico**:
+  - para los clásicos, consistía en **analizar condiciones que
+    hacían funcionar un sistema de producción,
+    distribución y acumulación** del producto
+  - para el marginalismo, importaba la
+    **utilización óptima de recursos** escasos para satisfacer necesidades
+    y deseos de agentes económicos
+- En relación a la **noción de valor**:
+  - para los clásicos, **visión objetiva del valor basada en la
+    dificultad de producción**
+  - para el marginalismo, **visión subjetiva del valor basada en
+    valoración de la utilidad** de las mercancías por parte de
+    consumidores
+
+## Contrastes entre escuelas (cont.)
+
+- En relación a la **noción de equilibrio**:
+  1. para los clásicos el equilibrio refería a lo sumo a **igualación de
+     tasas de beneficio** ("competencia de capitales")
+  2. para el marginalismo el **equilibrio ocupaba un rol central**
+     $\longrightarrow$ correspondía a condiciones de **uso óptimo de
+     recursos** y se identificaba con un vector de valores para $p$ y
+     $q$ simultáneamente
+- En relación a los **precios**:
+  1. para los clásicos eran **indicadores de dificultad relativa de
+     producción**
+  2. para el marginalismo eran **indicadores de escasez** (relativa a
+     preferencias de consumidores)
+
+## Contrastes entre escuelas (cont.)
+
+- En relación a la **distribución del $Y$**:
+  1. para los clásicos era **un problema con entidad separada vinculado
+     con las diferentes clases y grupos sociales** --i.e. de ahí
+     "economía política"
+  2. para el marginalismo era **un caso específico de la teoría de los
+     precios** --i.e. precio de factores de producción
+- Aún así las diferentes variantes de la escuela marginalista adoptaron
+  matices y enfoques con ciertas particularidades
+  
+## Variantes marginalistas
+
+> **La corriente francesa del equilibrio general.** Fundada por Walras
+> y adoptada y desarrollada por Pareto y continuada por Arrow y
+> Debreu, se basa en el supuesto de dotaciones iniciales de recursos
+> (diferentes clases de capacidades laborales, tierras, bienes de
+> capital) consideradas fijas (dadas) y se contraponían a las
+> preferencias de los agentes económicos
+
+## Variantes marginalistas (cont.)
+
+> **La corriente marginalista inglesa.** Encabezada por Jevons y
+> Marshall, tendía a considerar las cantidades disponibles de los
+> diferentes factores pero consideraba exógenas los (mapas de)
+> utilidad de los agentes ecónomicos. El equilibrio entre la utilidad
+> de los bienes y la desutilidad del trabajo lo que determinaba la
+> cantidad de trabajo realizado y la cantidad de producto. 
+
+## Variantes marginalistas (cont.)
+
+> **La corriente marginalista austríaca.** Adoptaron un punto de vista
+> radicalmente subjetivo según el cual el valor de todo bien o
+> servicio se deducía de su utilidad para el consumidor final
+> --directamente en el caso de los bienes de consumo; indirectamente
+> en el caso de los bienes de capital. En el último caso, parte de la
+> utilidad de los consumidores se "imputaba" al factor calculando en
+> proporción a la contribución representada por el bien (o servicio)
+> en cuestión al proceso productivo. 
+
+## Equilibrio entre escasez y demanda
+
+- Idea que trae e impone la escuela marginalista $\longrightarrow$ **escasez de los recursos disponibles con respecto a la demanda potencial**
+  - esto no nace con la "revolución marginalista" de los 1870s sino
+    que hay antecedentes desde mucho antes 
+- Antecedentes en Italia --Galiani, Davanzati, Valeriani; Francia
+  --Condillac, Dupuit, Cournot; Alemania --Gossen, von Thünen. También
+  en Inglaterra $\longrightarrow$ Bailey, Senior, Forster Lloyd, 
+- En este desarrollo analítico jugaron un rol crucial las
+  explicaciones de las elecciones del consumidor y la demanda
+  - principal innovación $\longrightarrow$ **explicar el valor de cambio
+    a través del valor de uso!** 
+
+
+## Equilibrio entre escasez y demanda (cont.)
+
+> **La paradoja de San Petersburgo.** Curiosamente Jevons no encontró
+> entre los antecesores a Daniel Bernoulli que en el marco de la
+> teoría de la probabilidad había destacado la aversión al riesgo por
+> parte de los individuos que prefieren una suma de dinero segura a
+> una suma igual dada por el valor actuarial (actual) de una
+> apuesta. En otras palabras, que preferían 1000 euros seguros a la
+> probabilidad de ganar 0 o 2000 euros lanzando una moneda --note que
+> el valor actuarial de ambos casos es el mismo. Bernoulli suponía que
+> el aumento en la riqueza individual se acompaña de un aumento en la
+> utilidad, que es una función inversa de la riqueza que ya se posee
+> --antecedente de principio de utilidad marginal decreciente. 
+
+## Equilibrio entre escasez y demanda (cont.)
+
+- **Antes el valor de uso se consideró una
+  cualidad de las mercancías y una característica indispensable**
+  --recuerde que para tener valor de cambio una cosa *debía* tener
+  valor de uso
+  - **no la consideraron una característica medible** --en
+    sentido de intensidad- lo cual hubiera ayudado mucho a desarrollar
+    la teoría de la utilidad marginal
+	- Hablaron de valor de uso grande o pequeño ("paradoja del agua y
+      los diamantes") 
+- Preanunciaba elemento clave de teoría marginalista
+  $\longrightarrow$ idea de que el valor de uso disminuye cuando
+  aumenta la cantidad consumida
+  
+  
