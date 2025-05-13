@@ -22,7 +22,7 @@ format:
     link-external-newwindow: true
 ---
 
-# La "revolución" marginalista. Contexto y generalidades {background="#390040"}
+# **La "revolución" marginalista. Contexto y generalidades** {background="#390040"}
 
 ## La revolución marginalista: una perspectiva general
 
@@ -177,3 +177,163 @@ format:
   aumenta la cantidad consumida
   
   
+# **La teoría de la utilidad marginal: William Stanley Jevons** {background="#390040"}
+
+## Vida y obra
+
+- Jevons nació en Liverpool en 1835 y murió ahogado cerca de Hastings
+  en 1882. Creció en el seno de una familia unitaria y religiosa, la
+  vida no le sonrió; su madre murió en 1845, su padre 10 años
+  después y sus hermanos corrieron suerte dispar. En su adolescencia
+  pasó por duras crisis y hambrunas en 1847 y 1848 lo que hizo quebrar
+  a la empresa familiar
+- Estudió ciencias naturales, química y matemáticas. Inicialmente
+  trabajó en esa area, emigró a Australia donde residió por cinco años
+  y en 1857 empezó a interesarse por temas económicos y sociales ("el
+  estudio del hombre")
+
+## Vida y obra (cont.)
+
+- A principios de 1860 se matriculó en University College London (UCL)
+  y se graduó en economía en 1862. Trabajó como periodista y tutor
+  general (rango académico inicial). En esta epoca empezó a delinear
+  los elementos principales de su teoría subjetiva del valor. 
+- Tuvo mucho interés en el campo de la lógica y filosofía que le valió
+  su primera cátedra en Manchester. 
+- Escribió *The Coal Question* en 1865 y *The theory of political
+  economy* en 1871. Estos textos con buena recepción le abrieron el
+  paso a una cátedra de economía en UCL (Londres). 
+
+## Visión 
+
+- Jevons adhería a la consideración de la economía como ciencia
+  equiparable a la física o matemática y no una ciencia moral como la
+  historia o la política [tip: recuerde el trayecto formativo de Jevons]
+- Sus opiniones sobre psicología humana derivadas del
+  sensualismo de Condorcet apuntaban en la dirección de
+  conexiones cuantitativas ("leyes") en el campo de las ciencias
+  sociales y humanas 
+  - la lógica como ciencia puramente formal y abstracta proveía los
+    instrumentos para el análisis de "leyes" en todos los ámbitos
+- La matemática considera relaciones entre cantidades, la lógica
+  considera relaciones entre cualidades. 
+  - en tradición desde Petty hasta Condorcet "los números pueden
+    expresarlo todo"
+	
+## Teoría subjetiva del valor
+
+- Su teoría subjetiva del valor era el producto conjunto del proyecto
+  de contar con el método matemático en la economía con una visión
+  sensualista la psicología humana
+- Noción de *utilidad* heredadad de Bentham fue refinada y dotada de
+  mayor rigor $\longrightarrow$ para Jevons los elementos del placer y
+  el dolor era dos: 1) intensidad y 2) duración [cfr. con Bentham]
+  - la duración (tiempo) e intensidad se trataban como variables
+  continuas $\longrightarrow$ la utilidad también era variable
+  continua
+    - clave para el cálculo diferencial y para desarrollar la noción
+      jevonsiana de *grado final de utilidad* (utilidad marginal)
+  
+## La utilidad: relacion entre persona y objeto
+
+- La utilidad era una relación abstracta entre objeto y persona no una
+  propiedad intrínsica de la cosa
+  - todo objeto puede tener una utilidad distinta para diferentes
+    personas o en diferentes momentos para una misma persona
+- Lo que importa es el incremento de utilidad cuando aumenta la
+  cantidad disponible de la mercancía $\longrightarrow$ *grado final
+  de utilidad*
+  - cada individuo indica tal magnitud con su **disposición a pagar por
+    la mercancía**
+
+## La utilidad: relación entre persona y objeto (cont.)
+
+> **Utilidad y disposición a pagar.** En el mercado podemos comparar
+> las valoraciones que realiza **un mismo individuo de los diferentes
+> bienes** y también las valoraciones que realizan **los diferentes
+> individuos de un mismo bien**. Sin embargo, esto no garantiza la
+> posibilidad de hacer un cálculo agregado de la felicidad social
+> (bienestar social) por cuanto nada garantiza que cada individuo
+> atribuya la misma utilidad a una cantidad *dada* de dinero. 
+
+## Diferencias con Bentham, JS Mill y los clásicos
+
+- Estas ideas son diferentes de los clásicos $\longrightarrow$ Jevons
+  construyó una economía utilitarista en oposición a la escuela
+  clásica de Ricardo 
+  - esto **implicó reducir la cienciae económica a una teoría de la
+    elección racional** sujeta al postulado de que cada individuo puede
+    calcular en un espacio unidimensional todas las consecuencias de
+    cualquier acción
+- Un tema es que Jevons admitía *implícitamente* la posibilidad de un
+  cálculo de bienestar al nivel individual pero en su texto negó
+  enfáticamente la posiblidad de calculo de bienestar al nivel
+  colectivo
+  - debía desaparecer la idea de comparaciones interpersonales
+    - podía considerarse "bueno" para cada individuo lo que aumenta su
+      utilidad personal pero esto está en las antípodas de la visión
+      Benthamita/Mill sobre que lo que importa para la valoración
+      moral de toda acción es la consecuencia social
+	  
+## La economía para Jevons
+
+- Definicion de economía de Jevons diferente de la definición de
+  economía política de Mill $\longrightarrow$ Mill limitaba la
+  economía política a un aspecto específico de la naturaleza humana
+  (deseo de poseer riqueza
+  - Jevons limitaba la economía a un subconjunto específico de
+    sentimientos 
+	
+> El cálculo de la utilidad tiene por objeto satisfacer los deseos
+> ordinarios del hombre al menor coste de trabajo
+
+## La economía para Jevons (cont.)
+
+- Esto implicaba cambios implícitos y explícitos en la
+  forma de concebir la economía y la naturaleza humana
+  - núcleo de la teoría consistía en análisis de las elecciones
+    individuales entre distintos placeres (consumo) y dolores
+    (trabajo) --sentimientos (preferencias) venían dados y eran
+    independiente del problema
+- Bajo estas condiciones podía concebirse que la suma de
+  comportamientos individuales constituía una teoría de la economía en
+  su conjunto $\longrightarrow$ el individualismo metodológico *era*
+  un requisito de la teoría subjetiva del valor!
+  
+## La economía para Jevons (cont.)
+
+- El problema de la economía puede formularse así: 
+
+> Dada una determinada población, con diversas necesidades y fuerzas
+> productivas, que posee determinadas tierras y otras fuentes de
+> materias primas: obtener la manera de utilizar su trabajo de modo
+> que maximice la utilidad del producto
+**[William Jevons, *The theory of political economy* (1871), pp. 254]**
+
+## La economía para Jevons (cont.)
+
+- En su teoría Jevons aplica la perfecta racionalidad a un aspecto del
+  comportamiento individual --el grado más bajo de sentimientos. Cada
+  individuo estaba aislado de los demás (no había interdependencia de
+  preferencias) sino que este aspecto específico estudiado por la
+  economía estaba aislado de todos los otros aspectos de la naturaleza
+  humana
+  - Jevons sugirió que "en la ciencia de la economía no tratamos a los
+    hombres como debieran ser, sino como son"
+- Pero esto era un problema $\longrightarrow$ los hombres *como son*
+  son más complejos que meras máquinas sensualistas [contraste con
+  Smith]
+  
+## La economía para Jevons (cont.)
+
+- La decision de Jevons de formular la economía como una ciencia
+  matemática lo forzó a redefinir como magnitudes medibles las
+  motivaciones de las acciones humanas
+  - el costo de esto $\longrightarrow$ empobrecer grandemente la
+    riqueza y sutileza de noción smithiana del sujeto económico
+- Este es un punto controvertido en la historia del pensamiento
+  económico 
+  - si la tradición marginalista basada en una teoría del
+    comportamiento racional no es en realidad una línea "divergente"
+    en la HPE; teniendo en cuenta como la concibieron y desarrollaron
+    los padres y escuelas fundadoras
