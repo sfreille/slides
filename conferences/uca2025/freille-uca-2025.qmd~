@@ -1,0 +1,183 @@
+---
+title: "Algunos apuntes desde la economía y política sobre el
+federalismo argentino"
+author: "Sebastián Freille^[Instituto de Economía y Finanzas, Facultad de Ciencias Económicas (FCE)-UNC. Email: sfreille@unc.edu.ar. Web: https://sfreille.github.io]"
+date: "`r format(Sys.Date(),'%d %B %Y')`"
+format:
+  revealjs:
+    fontsize: 24pt
+    slide-number: true
+    chalkboard:
+      buttons: false
+    preview-links: auto
+    css: ..\quarto.css
+    width: 1500
+    center-title-slide: true
+    center: true
+    tbl-cap-location: bottom	
+    toc: true
+    toc-depth: 1
+    toc-title: Contenidos
+    link-external-newwindow: true
+---
+
+# **Tendencias y diagnóstico** {background="#43464B"}
+
+## El funcionamiento del federalismo fiscal en Argentina
+
+1. Argentina tiene un gobierno federal con múltiples 
+
+## Tendencias del gasto público
+
+```{r}
+library(data.table)
+library(tidyverse)
+library(plotly)
+library(scales)
+options(scipen=999)
+
+gp <- fread("consolidado-gp.csv",dec=",")
+
+gp <- gp %>%
+    pivot_longer(c("gp_nac_pbi","gp_pro_pbi","gp_mun_pbi"),names_to="nivel",values_to="porc_pbi")
+
+p6 <- ggplot(gp,aes(year,porc_pbi,colour=nivel))+geom_line(linewidth=1.25,linetype=1)+geom_smooth(method="lm",linetype=2)+labs(title="Gasto publico (como %PBI) segun nivel de gobierno", x="Periodo", y="Gasto publico total (como % PBI)")+scale_x_continuous(breaks = scales::pretty_breaks(n = 10))
+
+ggplotly(p6,width=1400,height=600)
+
+```
+
+## Tendencias del gasto público (cont.)
+
+- Tendencia secular al **crecimiento del gasto público de todos los
+  niveles**
+  - diferencias en nivel y variabilidad
+    - nivel provincial crece a mayor tasa que nivel municipal; pero
+      similar al nivel nacional
+- Gasto público de **nivel provincial mucha menor dispersión que el
+  nivel nacional** $\longrightarrow$ probablemente refleje mayor
+  estabilidad política en nivel subnacional
+
+
+
+## ROP: Dependencia estructural de IIBB
+
+```{r}
+library(data.table)
+library(tidyverse)
+library(plotly)
+library(scales)
+options(scipen=999)
+rop <- fread("subnational-rop.csv",encoding="Latin-1")
+
+rop <- rop %>%
+    pivot_longer(
+        c("iibb","inmuebles","sellos","automotor","otros"),names_to="impuesto",values_to="valor")
+
+rop <- rop %>%
+    arrange(desc(valor)) %>%
+    mutate(impuesto=factor(impuesto,levels=rev(unique(impuesto))))
+
+p1 <- ggplot(rop,aes(year,valor,fill=impuesto))+geom_bar(position="fill",stat='identity')+scale_x_continuous(breaks = scales::pretty_breaks(n = 16))
+
+ggplotly(p1,width=1400,height=600)
+
+```
+
+## ROP: Dependencia estructural de IIBB
+
+- En promedio las provincias argentinas pasan de 57.32\% en 1984 a
+  83.18% en 2024
+  - se produce una **sustitución gradual de impuestos patrimoniales
+    (directos) por impuestos a las ventas (indirectos)**
+  - relativa homogeneidad provincial con notable excepción de Tierra
+    del Fuego en que la participación de IIBB se mantiene debajo de
+    60% --principalmente regalías y derechos hidrocarburífero; y otros
+    fondos de financiamiento específicos
+
+## El efecto "matamoscas": *flypaper effect*
+
+- Contra-argumento positivo a la teoría *normativa* del federailsmo
+  fiscal $\longrightarrow$ hipótesis del efecto matamoscas (*flypaper
+  effect*) 
+  - observacion empírica de que **aumentos en las transferencias
+    (verticales) no  condicionadas  suelen estar asociadas a mayor
+    impacto sobre el gasto público que aumentos en el ingreso
+    privado** 
+	- va en contra de la intuición del votante mediano
+- ¿Existe un efecto matamoscas en Argentina?
+
+## El efecto "matamoscas": *flypaper effect* (cont.)
+
+```{r}
+library(data.table)
+library(tidyverse)
+library(plotly)
+library(scales)
+options(scipen=999)
+
+rot <- fread("subnational-rot.csv",encoding="Latin-1",fill=TRUE,dec=".")
+
+rot <- rot[rot$year>1990,]
+rot$res_pri_cat <- as.factor(ifelse(rot$res_pri>0, "Sup. Primario","Déf. Primario"))
+rot$res_tot_cat <- as.factor(ifelse(rot$res_tot>0, "Sup. Total","Déf. Total"))
+rot$gas_cor_per <- rot$gas_cor/rot$gas_tot
+rot$gas_cap_per <- rot$gas_cap/rot$gas_tot
+rot$gas_cor_pc  <- (rot$gas_cor/rot$pop)*1000000
+rot$gas_cap_pc  <- (rot$gas_cap/rot$pop)*1000000
+rot$gas_tot_pc <- (rot$gas_tot/rot$pop)*1000000
+rot$trf_cor_pc <- (rot$trf_cor/rot$pop)*1000000
+rot$trf_copa_pc <- (rot$trf_copa/rot$pop)*1000000
+rot$gas_cor_cte_pc  <- (rot$gas_cor_cte/rot$pop)*1000000
+rot$gas_cap_cte_pc  <- (rot$gas_cap_cte/rot$pop)*1000000
+rot$gas_tot_cte_pc <- (rot$gas_tot_cte/rot$pop)*1000000
+rot$trf_cor_cte_pc <- (rot$trf_cor_cte/rot$pop)*1000000
+rot$trf_copa_cte_pc <- (rot$trf_copa_cte/rot$pop)*1000000
+
+rot$year_period <- as.factor(ifelse(rot$year>1989&rot$year<2000,"Menem",ifelse(rot$year>2002&rot$year<2016,"Kirchner","Post-Kirchner")))
+
+rot$year_period2 <- as.factor(ifelse(rot$year>1989&rot$year<2000,"Menem",ifelse(rot$year>2002&rot$year<2016,"Kirchner",ifelse(rot$year>2015&rot$year<2020,"Macri",ifelse(rot$year>2019&rot$year<2024,"AF/CFK","Milei")))))
+
+p3a <- ggplot(rot,aes(log(trf_cor_cte_pc),log(gas_tot_cte_pc),colour=year_period))+geom_point()+geom_smooth(method="lm")
+ggplotly(p3a,width=1400,height=600)
+
+```
+
+## El efecto "matamoscas": *flypaper effect* (cont.)
+
+```{r}
+library(data.table)
+library(tidyverse)
+library(plotly)
+library(scales)
+options(scipen=999)
+
+rot <- fread("subnational-rot.csv",encoding="Latin-1",fill=TRUE,dec=".")
+
+rot <- rot[rot$year>1990,]
+rot$res_pri_cat <- as.factor(ifelse(rot$res_pri>0, "Sup. Primario","Déf. Primario"))
+rot$res_tot_cat <- as.factor(ifelse(rot$res_tot>0, "Sup. Total","Déf. Total"))
+rot$gas_cor_per <- rot$gas_cor/rot$gas_tot
+rot$gas_cap_per <- rot$gas_cap/rot$gas_tot
+rot$gas_cor_pc  <- (rot$gas_cor/rot$pop)*1000000
+rot$gas_cap_pc  <- (rot$gas_cap/rot$pop)*1000000
+rot$gas_tot_pc <- (rot$gas_tot/rot$pop)*1000000
+rot$trf_cor_pc <- (rot$trf_cor/rot$pop)*1000000
+rot$trf_copa_pc <- (rot$trf_copa/rot$pop)*1000000
+rot$gas_cor_cte_pc  <- (rot$gas_cor_cte/rot$pop)*1000000
+rot$gas_cap_cte_pc  <- (rot$gas_cap_cte/rot$pop)*1000000
+rot$gas_tot_cte_pc <- (rot$gas_tot_cte/rot$pop)*1000000
+rot$trf_cor_cte_pc <- (rot$trf_cor_cte/rot$pop)*1000000
+rot$trf_copa_cte_pc <- (rot$trf_copa_cte/rot$pop)*1000000
+
+rot$year_period <- as.factor(ifelse(rot$year>1989&rot$year<2000,"Menem",ifelse(rot$year>2002&rot$year<2016,"Kirchner","Post-Kirchner")))
+
+rot$year_period2 <- as.factor(ifelse(rot$year>1989&rot$year<2000,"Menem",ifelse(rot$year>2002&rot$year<2016,"Kirchner",ifelse(rot$year>2015&rot$year<2020,"Macri",ifelse(rot$year>2019&rot$year<2024,"AF/CFK","Milei")))))
+
+p4a <- ggplot(rot,aes(log(trf_copa_cte_pc),log(gas_tot_cte_pc),colour=year_period))+geom_point()+geom_smooth(method="lm")
+ggplotly(p4a,width=1400,height=600)
+
+```
+
+## **Desafíos y ¿oportunidades?** {background="#43464B"} 
+

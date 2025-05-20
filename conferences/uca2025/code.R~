@@ -1,0 +1,15 @@
+
+options(scipen=999)
+rop <- fread("subnational-rop.csv",encoding="Latin-1")
+
+rop <- rop %>%
+    pivot_longer(
+        c("iibb","inmuebles","sellos","automotor","otros"),names_to="impuesto",values_to="valor")
+
+rop <- rop %>%
+    arrange(desc(valor)) %>%
+    mutate(impuesto=factor(impuesto,levels=unique(impuesto)))
+
+p1 <- ggplot(rop,aes(year,valor,fill=impuesto))+geom_bar(position="fill",stat='identity')
+
+ggplotly(p1,width=800,height=200)
