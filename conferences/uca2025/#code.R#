@@ -23,6 +23,7 @@ ggplotly(p1,width=1400,height=500)
 ### Plot 2
 
 p2 <- ggplot(rop[rop$provincia=="Buenos Aires",],aes(year,valor,fill=impuesto))+geom_bar(position="fill",stat='identity')+scale_x_continuous(breaks = scales::pretty_breaks(n = 16))+facet_wrap(~provincia)
+ggplotly(p2,width=1400,height=500)
 
 ggplot(rop[rop$provincia=="Tierra Del Fuego",],aes(year,valor,fill=impuesto))+geom_bar(position="fill",stat='identity')+scale_x_continuous(breaks = scales::pretty_breaks(n = 16))+facet_wrap(~provincia)
 
@@ -102,5 +103,5 @@ ggplotly(p7e)
 p7f <- ggplot(rot,aes(log(trf_copa_cte_pc),emp_pc,colour=year_period))+geom_point()+geom_smooth(method="lm",se=FALSE)+facet_wrap(~region,scales="free")+labs(title="Coparticipacion y empleo publico",x="(Log) Coparticipacion pc, a valores constantes",y="Empleo publico (por 1000 habitantes)")
 ggplotly(p7f)
 
-p7g <- ggplot(rot,aes(log(trf_cor_cte_pc),emp_pc,colour=year_period))+geom_point()+geom_smooth(method="lm",se=FALSE)+ facet_wrap(~region,scales="free")
+p7g <- ggplot(rot,aes(log(trf_cor_cte_pc),emp_pc,colour=year_period))+geom_point()+geom_smooth(method="lm",se=FALSE)+ facet_wrap(~region,scales="free")+labs(title="Transferencias corrientes y empleo publico",x="(Log) Transferencias corrientes pc, a valores constantes",y="Empleo publico (por 1000 habitantes)")
 ggplotly(p7g)
