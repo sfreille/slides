@@ -260,14 +260,14 @@ ggplotly(p4a,width=1400,height=600)
 
 ## Transferencias y empleo público provincial
 
-- Tanto las transferencias presupuestarias (no automatícas) como
+- Tanto transferencias presupuestarias (no automatícas) como
   las transferencias automáticas (por régimen de Coparticipación)
-  tienen un alto grado de no condicionalidad 
+  tienen un **alto grado de no condicionalidad** 
   - libre disponibilidad para uso sin considerar eficiencia económica
-- Evidencia de crecimiento desproporcionado de bienes y servicios no
-  transables en provincias vis-a-vis sector privado --prima salarial
+- Evidencia de **crecimiento desproporcionado de bienes y servicios no
+  transables en provincias vis-a-vis sector privado** --prima salarial
   del sector público, desincentivo a relocalizar empresas
-  - posible sobredimensionamiento del empleo público
+  - posible **sobredimensionamiento del empleo público**
 - ¿causalidad o mera correlación? evidencia de gasto político
   --*targeting* de gasto público social
 
@@ -345,9 +345,9 @@ ggplotly(p7g,width=1400,height=600)
 
 ## ¿Gobernadores pobres, políticamente fuertes?
 
-- Por razones de diseño institucional y de práctica, el federalismo
+- Por razones de diseño institucional y de funcionamiento, el federalismo
   existente en Argentina tiende a generar una suerte de tormenta
-  perfecta cuando existe fuerte competencia electoral 
+  perfecta cuando existe una alta competencia y fragmentación electoral 
   
 > Ejecutivo nacional con bajo caudal electoral, legislativo nacional
 > fragmentado y opositor, gobernadores provinciales con alto apoyo
@@ -371,5 +371,17 @@ ggplotly(p7g,width=1400,height=600)
    (nacionales) para redistribución; impuestos al $C$ (provinciales)
    para asignación 
 
+## Desafíos (cont.)
 
-  
+3. **Promover correspondencia fiscal.** Adecuar incentivos económicos
+   y políticos a partir de asegurar un mínimo de provisión de bienes
+   públicos a las provincias y municipios; expansiones por encima de
+   ese nivel a partir de esfuerzo fiscal provincial
+4. **Reformas político-institucionales.** Cuestiones de diseño
+   institucional $\longrightarrow$ corrección de la
+   sobre-representación distrital por diseño (tanto en D como en S);
+   suavización de la restricción política *de facto* de gobierno con
+   representación minoritaria (duración de mandato presidencial y
+   elecciones de medio término)
+   
+   
