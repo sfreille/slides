@@ -1,0 +1,245 @@
+---
+title: U8. El nacimiento de la macroeconomía
+subtitle: Historia del Pensamiento y del Análisis Económico
+author: |
+  | **Sebastián Freille**
+  | sfreille@unc.edu.ar
+  | Licenciatura en Economía
+  | FCE-UNC
+format:
+  revealjs:
+    slide-number: true
+    chalkboard:
+      buttons: false
+    preview-links: auto
+    css: ..\quarto.css
+    width: 1500
+    center-title-slide: true
+    center: true
+    tbl-cap-location: bottom	
+    toc: true
+    toc-depth: 1
+    toc-title: Contenidos
+    link-external-newwindow: true
+---
+
+# El siglo XX: nacimiento, desarrollo y evolución de la macroeconomía {background="#43464B"}
+
+## Contexto
+
+- El nacimiento de la macroeconomía como campo específico de
+  la economía se da en la década de 1930s con la publicación de dos
+  obras fundamentales del que es por muchos considerado la figura
+  económica más importante del siglo XX, John Maynard Keynes
+  - *"Tratado sobre el Dinero"* (1930)
+  - *"Teoría General de la Ocupación, el Interés y el Dinero"* (1936)
+- Ambos libros revelan el principal interés y objetivo de Keynes
+  $\longrightarrow$ explicar las fluctuaciones en el producto y empleo
+  que caracterizan al ciclo económico. 
+
+## Contexto (cont.)
+
+> He llamado a este libro *Teoría general de la ocupación, el interés
+> y el dinero*, recalcando el sufijo *general*, con objeto de que el
+> título sirva para contrastar mis argumentos y conclusiones con los
+> de la teoría *clásica*... ...Sostendré que los postulados de la
+> teoría clásica sólo son aplicables a un caso especial, y no en
+> general, porque las condiciones que supone son un caso extremo de
+> todas las posiciones posibles de equilibrio. Mas aún, las
+> características del caso especial supuesto por la teoría clásica no
+> son las de la sociedad económica en que hoy vivimos, razón por la
+> que sus enseñanzas engañan y son desastrosas si intentamos
+> aplicarlas a los hechos reales. [Keynes, J.M. (1936), **Teoría
+> general de la ocupación, el interés y el dinero**, pp. 15]
+
+## Contexto (cont.)
+
+- Varias razones confluyen para surgimiento de interes por
+  macroeconomía
+  - Marcha de acontecimientos económicos --ciclo de crédito 1920s,
+    crisis 1929
+  - Revolución de la estadística liderada por Clark y Kuznets
+  - Experiencia, intereses y situaciones personales (Hayek y los
+    efectos de la inflación sobre Viena)
+- ¿Existían ideas y análisis macroeconómico antes de Keynes?
+  - Tradiciones de pensamiento que se ocuparon de cuestiones que hoy
+    consideramos parte de la macroeconomía 
+	- ciclos de negocios (Jevons, Juglar, Mitchell)
+	- teoría monetaria (Hume, Thornton, Ricardo, Wicksell y Fisher) 
+	
+## Contexto (cont.)
+
+- Cierta idea de que la macroeconomía se desarrolla por una serie de
+  batallas, revoluciones y contrarrevoluciones 
+  - Blanchard (2000) argumenta que en realidad ha sido un proceso de
+    acumulación de conocimiento estable
+- Propone la siguiente periodización
+  1. Pre-1940: período de exploración
+  2. De 1940 a 1980: período de consolidacio´n
+  3. Post-1980: nuevo período de exploración
+
+## Períodos 
+
+- Enfoque casi exclusivamente de corto plazo. Dominado por estudio de
+  2 (dos) campos paralelos: 1) teoría monetaria; 2) teoría del ciclo
+  económico. 
+- Durante mucho tiempo estos dos campos aislados con distinto grado de desarrollo
+- Contribuciones metodológicas de 1920s/1930s (Keynes) permiten avanzar en la
+  integración de ambos campos
+
+## Períodos (cont.)
+
+- Se desarrolla conceptual, analítica y esquemáticamente el modelo
+  keynesiano a partir de la formulación IS-LM (Hicks-Hansen)
+- Paradigma útil como estándar unificado de la teoría macroeconómica y
+  lo suficientemente flexible como para incorporar extensiones y
+  ampliaciones (curva de Phillips, ER, relaciones comportamentales)
+- Este período culmina con el desarrollo e incorporación de
+  fundamentos microeconómicos
+  
+## Períodos (cont.)
+
+- Nuevo período de exploración que cuestiona radicalmente algunas de
+  las cuasi-verdades de la ortodoxia reinante
+- Las dos principales rupturas con esa ortodoxia macroeconómica fueron
+  - idea de que los ciclos económicos provocados por perturbaciones de
+    demanda son siempre indeseables y de que la economía regresaría a
+    una situación de tasa natural
+  - idea de que las interacciones económicas de los agentes económicos
+    ocurren principalmente en entornos de competencia e información
+    perfecta en los mercados de bienes, trabajo y crédito
+
+## Período I: Exploración
+
+- Hasta la publicación de la *Teoría General*, el cuerpo teórico y
+  analítico de la economía y consolidado la economía clásica y
+  neoclásica [Keynes consideraba a los neoclásicos continuadores y
+  seguidores de los clásicos]
+  - cuerpo relativamente homogéneo en términos de orientación y
+    mensaje principal
+	- confianza en mecanismos espontáneos de ajuste del mercado como
+      medio de mantener equilibrio de pleno empleo
+- Keynes primero "construye" su enemigo, le da forma y luego pelea. 
+
+
+## Período I: Exploración (cont.)
+
+- A principios del siglo XX no había una teoría única y formalizada
+  sobre la determinación del nivel de empleo y producto agregados
+  - si una variedad de hipótesis y explicaciones sobre la naturaleza y
+    características de los ciclos económicos
+- Aún así, era mucho más rudimentaria y menos cohesionada que el
+  estadío que había alcanzado la teoría microeconómica
+- De hecho, gran parte de las ideas sobre macroeconomía de la escuela
+  clásica son sistematizadas a partir de la obra de Keynes 
+
+## Período I: la escuela clásica
+
+- Los clásicos eran plenamente conscientes de que una economía
+  capitalista podía desviarse de su nivel de equilibrio de producto y
+  empleo 
+- Pero en general suponían que estas desviaciones serían temporales y
+  de corta duración
+- En esta situación, no había ningún rol para la injerencia estatal en
+  relación a cuestiones de estabilización del producto y el empleo
+  - consideraban que el equilibrio de PE era el estado normal de los
+    mercados (norma) y que las fluctuaciones eran la excepción
+	
+## Período I: la escuela clásica (cont.)
+
+- La macroeconomía de la escuela clásica puede resumirse en la
+  interacción de 3 (tres) elementos centrales: 
+  1. Teoría clásica de la determinación del empleo y del producto
+  2. La ley de Say de los mercados
+  3. La teoría cuantitativa del dinero
+- La interacción de los primeros resulta en que las variables reales
+  --producto real, $Y$; nivel de empleo, $L$; salario real, $W/P$; y
+  tasa de interés real, $r$- se determinan en los mercados de bienes y
+  trabajo
+  - $Y$ es una función de $L$, $K$ y $A$ (productividad) y hay una
+    relación directa entre $L$ y $Y$
+		
+## Período I: la escuela clásica (cont.)
+
+- Nivel de empleo se determina a partir de igual el costo marginal de
+  emplear unidades adicionales de $L$ y del ingreso marginal. Es
+  decir, donde $PML_{i}P_{i}=W_{i}$ lo que es igual a $PML_{i}=\frac{W_{i}}{P_{i}}$
+- El salario real se ajusta ante excesos de oferta (baja) y demanda de
+  trabajo (sube)
+  - Keynes dijo --los postulados clásicos no admiten la posibilidad de
+    "desempleo involuntario"
+- Si salarios reales por encima del equilibrio $\longrightarrow$ para
+  los clásicos debía bajarse el salario nominal
+  
+
+## Período I: la escuela clásica (cont.)
+
+- Tasa de interés natural equilibra ahorro e inversión
+  reales. Suponiendo 2 (dos) sectores --hogares y empresas-, tenemos
+  que:
+
+\begin{align}
+E=C(r)+I(r)&=Y \\
+Y-C(r)&=S(r)
+\end{equation}
+
+- todas las variables son función de la tasa de interés real
+
+## Período I: la escuela clásica (cont.)
+
+- El modelo se cerraba con la ecuación cuantitativa del dinero que en
+  formulación de Marshall era
+
+\begin{equation}
+M=kPY
+\end{equation}
+
+- donde $k$ es la inversa de la velocidad de circulacion
+
+## Período I: la escuela clásica (cont.)
+
+- El "modelo macroeconómico clásico" implicaba un resultado muy
+  importante $\longrightarro$ **dicotomía clásica entre sector real y
+  monetario**
+  - cambios en las variables nominales no afectarán los valores de
+    equilibrio de las variables reales
+- Y de aquí se deriva el famoso postulado sobre la neutralidad del
+  dinero en la economía clásica
+ 
+## Período I: la macroeconomía keynesiana
+
+- Para Keynes, $Y$ depende del volumen de $L$ pero es posible la
+  existencia de desempleo involuntario en el equilibrio
+- Una diferencia clave entre clasicos y keynesianos era el mecanismo
+  de ajuste $\longrightarrow$ para los clásicos el ajuste se daba por
+  precios, para keynesianos por cantidades
+- Principal elemento innovador en la teoría keynesiana
+  $\longrightarrow$ introducción del concepto de **demanda efectiva**
+
+## Período I: la macroeconomía keynesiana (cont.)
+
+> El principio de la demanda efectiva estable que en una economía
+> cerrada con capacidad ociosa, el nivel de ingreso, $Y$ (y por tanto
+> el nivel de empleo) viene determinado por el gasto agregado
+> planeado, $E$, que consiste de dos componenetes, el gasto de consumo
+> de los hogares, $C$ y el gasto de inversión de las empresas, $I$. 
+
+## Período I: la macroeconomía keynesiana (cont.)
+
+- Por tanto:
+
+\begin{equation}
+E=C+I 
+\end{equation}
+
+- Note la gran diferencia $\longrightarrow$ en modelo keynesiano $C$
+  es endógeno (depende de $Y$), y la inversión depende de la
+  rentabilidad esperada de la inversión y la tasa de interés que
+  representa el costo de pedir prestado fondos --i.e eficiencia
+  marginal del capital
+  - Keynes era bastante escéptico sobre el rol que la tasa de interés
+    tenía sobre $I$ --incertidumbre, expectativas
+
+## Período I: la macroeconomía keynesiana (cont.)
+
+- 
