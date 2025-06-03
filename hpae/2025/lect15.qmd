@@ -1,0 +1,250 @@
+---
+title: Historia del Pensamiento y del Análisis Económico
+title-slide-attributes:
+  data-background-image: ../fig/background-002.png
+  data-background-size: stretch
+  data-background-opacity: "0.85"
+subtitle: U9. La renovación teórica desde el período interguerras
+format:
+  revealjs:
+    slide-number: true
+    chalkboard:
+      buttons: false
+    preview-links: auto
+    css: ..\quarto.css
+    width: 1500
+    center-title-slide: true
+    center: true
+    tbl-cap-location: bottom	
+    toc: true
+    toc-depth: 1
+    toc-title: Contenidos
+    link-external-newwindow: true
+---
+
+# **Segunda mitad del siglo XX: la era de la fragmentación** {background="#390040"}
+
+
+## La era de la fragmentación
+
+- Desde aproximadamente la segunda mitad del siglo XX, la ciencia
+  económica entra en un período de gradual fragmentación y
+  compartimentalización de la teoría y el pensamiento económico
+  $\longrightarrow$ ramificación de la investigación (temas) pero
+  también diversificación de métodos y técnicas
+  - en ocasiones campos totalmente aislados y sin ningún tipo de
+    contacto
+	- i.e. teorías evolucionistas de la empresa y teorías microfundadas de
+      la macroeconomía
+- Creciente endogamia, autoselección de pensadores y limitada
+  inter-(sub)disciplina 
+  - resulta difícil comprender y analizar el progreso y avance de la
+    ciencia
+
+## La macroeconomía desde la 2GM
+
+- La macroeconomía no ha sido ajena al orden de cosas mencionado en el
+  párrafo anterior sin embargo una diferencia importante es que casi
+  sin excepción la gran mayoría de autores remiten a las ideas de
+  Keynes como punto de partida, ya sea para revivirlas o para
+  criticarlas
+- Pueden distinguirse 3 (tres) grupos
+  1. los economistas de la síntesis neoclásica $\longrightarrow$ 
+  2. el monetarismo y la escuela de expectativas racionales 
+  3. los poskeynesianos
+
+## La síntesis neoclásica
+
+- Como dijimos antes, la síntesis neoclásica fue la respuesta de la
+  macroeconomía ante la evidencia de que la política activa podía
+  contrarrestar el desempleo y la depresión pero a la vez sin
+  abandonar la teoría marginalista del valor y la distribución
+  $\longrightarrow$ adaptada convenientemente con supuestos *ad-hoc*
+  como la rigidez salarial para permitir la existencia de desempleo
+- El famoso modelo de equilibrio general de 3 (tres) mercados 
+  --bienes, dinero y bonos [Hicks (1937)] $\longrightarrow$ equilibrio
+  en mercado de bienes cuando producción igual a $DA$ (cuando $S=I$) y
+  equilibrio en mercado de dinero cuando $OM=DM$
+
+## La síntesis neoclásica (cont.)
+
+- Modigliani (1944, 1963) amplía este modelo IS-LM y le agrega el mercado de
+  trabajo pero en su versión clásica el ajuste es via $P$ para
+  restablecer el mercado; la variante keynesiana surge al agregar
+  imperfecciones en el mercado --naturaleza no competitiva; poder de
+  negociación de sindicatos
+- Patinkin (1956) otra importante contribución $\longrightarrow$ no
+  neutralidad del dinero fuera del estado de equilibrio
+  - efecto Pigou (mecanismo de ajuste): aumento del valor real de las
+    tenencias de dinero debido a disminución de $P$ provoca aumento
+    del $C$ [el $C$ no sólo dependía del $Y$ corriente sino también de
+    la riqueza real]
+	
+## La síntesis neoclásica (cont.)
+
+> La síntesis neoclásica de algún modo implicó que el caso "general"
+> de Keynes fuera reinterpretado como un caso particular de la teoría
+> marginalista! $\longrightarrow$ cuando el equilibrio de $PE$ no se
+> da porque el mercado de trabajo no es competitivo 
+
+## La síntesis neoclásica: variantes
+
+- No todo fue unanimidad alrededor de la síntesis neoclásica. Hubo al
+  menos 3 (tres) líneas de investigación importantes que representaron
+  un *detour* de la línea de la síntesis neoclásica
+- Una primera línea fue la de la **teoría del desequilibrio** [Clower,
+     Leijonhufuvd] $\longrightarrow$ microfundamentos no walrasianos
+     (sin subastador walrasiano) sino marshallianos pero incorporando
+     problemas de información, difusión y coordinación intertemporal 
+
+## La síntesis neoclásica: variantes (cont.)
+
+- Una segunda línea fue la de la **nueva economía keynesiana**
+  [Stiglitz] $\longrightarrow$ el origen del desempleo estaba en
+  diferente tipos de fallos del mercado 
+  - explicaciones microeconómicas (microfundamentadas) de las
+    rigideces en mercados de trabajo, crédito y dinero
+- Surgen varios tipos de explicaciones
+  1. Modelos basados en **costos de menú** $\longrightarrow$ altos
+     costos de ajustar $P$ para empresas por lo que varías mas $Q$ que
+     $P$
+  2. Modelos **insider-outsider** $\longrightarrow$ los que están
+     "adentro" (empleados) negocian salarios mayores a costa de mayor
+     empleo
+  3. **Efficiency wages** $\longrightarrow$ empresas evitan bajar
+     salarios nominales para conservar trabajo experimentados
+
+## La síntesis neoclásica: variantes (cont.)
+
+- Finalmente, una tercera línea fue la **extensión de la síntesis
+  neoclásica a la teoría monetaria** [Tobin]
+  - explica la demanda de dinero como elección de cartera por el
+    agente racional en presencia de riesgo
+	- presenta la noción *q* de Tobin --relación entre valoración
+    corriente de un stock de $K$ dado y su valoración de reposición 
+- A partir de esas consideraciones para la $DD$ se insertan luego esos
+  efectos en los modelos estándares de la sintesis neoclásica
+
+## Monetarismo y las expectativas racionales
+
+- Si bien Friedman criticó fuertemente los supuestos, teoría y
+  prescripciones de política de Keynes, reconoció que las
+  intervenciones de política producían efectos en el corto plazo pero
+  que podían ser inciertos y negativos [por efectos de los rezagos]
+- En cambio una nueva escuela, *la nueva escuela clásica*, encabezada
+  por Robert Lucas proponía una visión aún más radical y extrema
+  - Lucas combinó el supuesto de mercados en equilibrio continuo con
+    el de las expectativas racionales por parte de los agentes y
+    concluyó que cualquier medida de política sería *anticipada* por
+    los agentes por lo que no tendrían impacto alguno sobre las
+    variables reales [ni siquiera de corto plazo!]
+
+## La nueva escuela clásica
+
+- Para Lucas la teoría keynesiana tenía una falla fundamental
+  $\longrightarrow$ la omisión de considerar que los agentes formaran
+  sus expectativas *endógenamente* y las posibles implicancias de
+  ello sobre su conducta y comportamiento
+- La **crítica de Lucas** fue no sólo una crítica a la forma en que se
+  concebía la política económica sino también a la deficiente
+  especificación de las relaciones estructurales entre las variables
+  econoómicas
+  
+## La nueva escuela clásica (cont.)
+
+- El punto central de la crítica era que la política macroeconómica
+  era concebida esencialmente como un proceso mecánico equivalente al
+  de mantener a una nave en una trayectoria espacial $\longrightarrow$
+  el rol de la Pol. Econ. era mantener a la economía alejada de la
+  inflación y en el sendero del pleno empleo
+- El *policymaker* era meramente un calibrador $\longrightarrow$
+  ajusta impuestos, alícuotas, gastos para estos objetivos
+  - fuerte crítica durante los años 60s y 70s
+
+## La nueva escuela clásica (cont.)
+
+- En *Econometric Policy Evaluation: A Critique*, Lucas planteó que
+  los modelos macroeconométricos no resultaban confiables ni adecuados
+  para la tarea encomendada
+  - los parámetros estimados en las ecuaciones y relaciones
+    funcionales de esos modelos no eran fijos (exógenos) sino que
+    dependían de los cambios en la política (endógenos)
+- Utilizó la idea de cómo la forma en que los agentes construían sus
+    expectativas cambiaba cuando la política económica cambiaba
+
+## La nueva escuela clásica (cont.)
+
+- Suponga un agente maximiza la utilidad sobre un horizonte de 2 (dos)
+  períodos, con $y$ y $r$ dados
+
+\begin{align}
+U(c_{1},c_{2}) \\
+c_{1}+\frac{c_{2}}{1+r}=y_{1}+\frac{y_{2}}{1+r}
+\end{align}
+
+- y supongamos que esto resulta en una función consumo como:
+
+\begin{align}
+\hat{c_{1}}=a+br+dy_{1}+ey_{2}
+\end{align}
+
+## La nueva escuela clásica (cont.)
+
+- Además, suponga que *para políticas dadas*, $y_{2}$ es un múltiplo
+  de $y_{1}$ de modo que $y_{2}=hy_{1}$. En los modelos tradicionales,
+  integramos ambas ecuaciones y queda
+
+\begin{align}
+\hat{c_{1}}=a+br+fy_{1}
+\end{align}
+
+- donde $f=d+eh$. Ahora, si un cambio en la política --reducción de
+  impuestos- causa un cambio en $y_{1}$ a $y_{1}^{'}$; y mas
+  importante, un cambio en la relación entre $y_{1}$ y $y_{2}$, tal
+  que $y_{2}^{'}=h^{'}y_{1}^{'}$
+  
+## La nueva escuela clásica (cont.)
+
+- Entonces la nueva función de consumo será
+
+\begin{align}
+\hat{c_{1}}=a+br+f^{'}y_{1}^{'}
+\end{align}
+
+- donde $f^{'}=d+eh^{'}$. El problema con los modelos macroeconómicos
+  tradicionales era que sostenía una función
+  $\hat{c_{1}}=a+br+fy_{1}^{'}$
+  
+## La nueva escuela clásica (cont.)
+
+> Punto central de la crítica de Lucas es que en los modelos
+> tradicionales se incorpora el cambio en la variable $y$ pero no el
+> cambio en el consumo que viene dado por $f$. En otras palabras, usar
+> $f$ y no $f^{'}$ implica no capturar la respuesta individual (a
+> nivel microeconómico) de los agentes al cambio de política que
+> alteró la relación entre $y_{1}$ y $y_{2}$
+
+## La nueva escuela clásica (cont.)
+
+- Esto llevo al reconocimiento de que los agentes económicos son de
+  mirar hacia adelante y no hacia atrás $\longrightarrow$ enormes
+  cambios en la concepción de la política económica
+- Podemos resumir las implicancias de la crítica de Lucas: 1)
+  proposición de la irrelevancia de la política; 2) costos en término
+  de empleo-producto de reducir la inflación; 3) inconsistencia
+  temporal dinámica, credibilidad y reglas monetarias; 4)
+  independencia del banco central; 5) rol de las políticas
+  microeconómicas para aumentar la $OA$
+  
+## La nueva escuela clásica (cont.)
+
+> **Inconsistencia temporal de la política.** Suponga que mejor
+> $PM$ es conseguir objetivo de inflación $0$ para todos los
+> períodos. En período 1 se anuncia esa política, los agentes ajustan
+> expectativas. En período 2, incentivo posible a desviar --dadas
+> expectativas fijadas en período 1- para estimular demanda. Gobierno
+> podría querer comprometerse a no engañar a los agentes en el
+> futuro. Pero nuevamente el gobernante tendrá incentivo a desviarse
+> el períodd próximo y así. El problema de la inconsistencia temporal
+> es pues el incentivo del gobernante a desviarse de la política optima
+  
