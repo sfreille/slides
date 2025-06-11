@@ -1,0 +1,345 @@
+---
+pagetitle: "ALA"
+format:
+  revealjs: 
+    theme: ../custom.scss
+    height: 900
+    width: 1600
+    highlight-style: a11y
+    code-line-numbers: false
+    code-copy: hover
+    menu: false
+editor: visual
+---
+
+##  {#title data-menu-title="Title" background-image="title_ridges.png"}
+
+[IA y ciencias sociales: apuntes y aplicaciones]{.title} [Sebastián Freille
+<br>sfreille@unc.edu.ar | X @sebafreille <br> Posdoctorado en
+Inteligencia Artificial (IA)]{.subtitle}
+
+
+
+# **Patrones y tendencias en relación a la oferta y demanda de aplicaciones de IA** {background="#5300b8"}
+
+## El ecosistema AI
+
+- Puede pensarse el ecosistema IA compuesto por los siguientes
+  subsistemas
+  1. Aplicaciones de IA generativa --audio, video, texto y código
+  2. Datos --infraestructura, bases relacionales
+  3. Modelos fundacionales --sistemas integrados
+  4. Poder computacional --nubes, *warehouses*
+  5. Chips --unidades de procesamiento
+  
+## El nuevo petróleo: los datos
+
+![](figure-002.png){#fig:01003 width=80% fig-align="center"}
+
+## El crecimiento de la oferta 
+
+- Inversión cada vez mayor en **data centers**:
+  - Microsoft: $46 billones (2024); Google: $33 billones (2024); Meta:
+    $27 billones (2024); Amazon: $19 billones (2024) 
+- Dos tercios de la inversión va a **entrenamiento de modelos**, el
+  resto de la inversión se destina a **ejecución de modelos** para el
+  usuario final
+  - estimado alrededor de $320 billones en 2025 --i.e. aumento
+    planeado de $156%$!
+- Entre el **$20%$ y $25%$ del total de inversión de capital** de en las empresas del $S\&P500$
+
+## La IA generativa como shock de productividad
+
+- La IA generativa tiene ciertamente **características de una mejora
+  tecnológica** --impacto en economía depende de velocidad e intensidad
+  de adopción
+  - $40\%$ población usa IA generativa, $23\%$ de los empleados la
+    usaron al menos *una* vez la semana pasada y $9\%$ de los
+    empleados la usan todos los días [Bick et al (2025)]
+  - sólo un $5.4\%$ de las empresas han formalmente adoptado IA
+    generativa [Bonney (2024)]
+- Proyecciones optimistas **suponen aumentos impresionantes de la
+  productividad real por trabajador** duplicació en EEUU y
+  triplicación en Europa
+  - ...pero 
+  
+## Efectos sobre mercado laboral
+
+- Acemoglu \& Restrepo (2022) brindan una primera estimación de
+  efectos de automatización sobre salarios reales 
+  - **entre el 50\% y el 70\% de los cambios en la estructura salarial
+    de EEUU** de las últimas 4 décadas se explican por **declinación de
+    salarios relativos de grupos de trabajadores especializados en
+    tareas que enfrentan automatización rápida y creciente** (minería,
+    productos químicos, automóviles, transporte y computación y electrónica)
+- Además muestran que cambios grandes en salarios relativos y
+  desigualdad pueden ir de la mano de cambios moderados en productividad
+  
+## Efectos sobre mercado laboral
+
+![](figure-004.png){#fig:01003 width=80% fig-align="center"}
+
+##  Ocupaciones: baja y alta exposicion a la IA
+
+| **Baja exposición**  	| **Alta exposición**                 	|
+|----------------------	|-------------------------------------	|
+| Cocineros            	| Intérpretes                         	|
+| Albañil              	| Contadores                          	|
+| Atletas              	| Asistenes legales y administrativos 	|
+| Mecánicos            	| Auditores                           	|
+| Operador de maquinas 	| Escritores y autores                	|
+
+
+## ¿Para qué usa la IA la gente?
+
+![](figure-001.png){#fig:01003 width=80% fig-align="center"}
+
+## ¿Para qué usa la IA la gente? (cont.)
+
+- Difícil intuir patrones y tendencias $\longrightarrow$ cambio
+  continuo en usos y aplicaciones en parte por nuevas ofertas de
+  productos *customizados* 
+  - aplicaciones de IA que *matchean* cada vez mejor intereses de la
+    demanda
+- Mix heterogéneo entre habilidades técnicas y habilidades blandas
+  - actividades de alto nivel técnico altamente estructuradas y repetitivas
+    junto a actividades de nivel técnico bajo y medio bajamente
+    estructuradas y repetitivas
+
+
+# **El caso de los LLMs** {background="#5300b8"}
+
+## Modelos de lenguaje
+
+- Un **modelo de lenguaje** en su esencia básica no es más que una
+  **distribución de probabilidad sobre todas las secuencias de palabras**
+  que pueden ser habladas o escritas (en un determinado lenguaje, en
+  un determinado contexto)
+  - en esencia una aplicación de la **teoría frecuentista de la
+    probabilidad** aplicada a grandes conjuntos de secuencias de
+    palabras
+
+## Modelos de lenguaje (cont.)
+  
+![](figure-probability-001.png){#fig:01003 width=80% fig-align="center"}
+  
+## Modelos de lenguaje (cont.)
+  
+![](figure-probability-002.png){#fig:01003 width=80% fig-align="center"}
+  
+## Modelos de lenguaje: usos
+
+![](figure-translation.png){#fig:01003 width=80% fig-align="center"}
+  
+## Modelos de lenguaje: progreso 
+
+- Los modelos de lenguaje han progresado enormemente en los últimos 30
+  años
+  - desde los **modelos N-grama** --basados en descomposicin de secuencias
+    de palabras- hasta los **modelos de lenguaje neurales** --permiten
+    obtener diferentes representaciones de palabras según contexto-
+    como GPT-3
+    - el progeso en cuestiones como fluidez es notable!
+
+## Modelos de lenguaje: progreso (cont.)
+
+![](figure-avances.png){#fig:01003 width=80% fig-align="center"}
+
+# **Aplicaciones de IA en ciencias sociales** {background="#5300b8"}
+
+## Modelos de lenguaje: aplicaciones
+
+- En un paper fundacional, Korinek (2023) estudia cómo los LLMs tienen
+  un potencial significativo para revolucionar la investigación en
+  economía (y otras ciencias sociales)
+- Provee un listado de casos de uso agrupados en 6 (seis) áreas: 1)
+  creatividad y feedback; 2) escritura; 3) contexto de investigación;
+  4) análisis de datos; 5) programación (coding); y 6) derivaciones
+  matemáticas
+  - ganancias de productividad en investigación diferenciales según
+    tareas
+
+## Modelos de lenguaje: aplicaciones (cont.)
+
+- Las tareas y actividades con mayor potencial de asistencia por parte
+  de los LLMs son
+  - altamente útiles $\longrightarrow$ *brainstorming*; resumir,
+    editar y evaluar texto; resumir y acotar tema;
+    condensar videos de Youtube; formatear referencias; traducción de
+    texto; escribir, explicar, traducir y depurar código; reformatear
+    datos; clasificar y categorizar texto; extraer sentimiento
+  - útiles $\longrightarrow$ revisar referencias bibliográficas;
+    explicar conceptos; encontrar fuentes de datos; crear figuras;
+    diseñar modelos; derivar ecuaciones
+
+## Modelos de lenguaje: aplicaciones (cont.)
+
+![](figure-simulation-001.png){#fig:01003 width=80%
+fig-align="center"}
+
+## Modelos de lenguaje: aplicaciones (cont.)
+
+![](figure-simulation-002.png){#fig:01003 width=80% fig-align="center"}
+
+## Modelos de lenguaje: aplicaciones (cont.)
+
+![](figure-optimizacion.png){#fig:01003 width=80% fig-align="center"}
+
+## Modelos de lenguaje: aplicaciones (cont.)
+
+- Los LLMs se presentan potencialmente como un **tutor personal 24/7**
+  para estudiantes de cualquier edad y dificultad
+  - *smarter learning*
+- Algunas ideas
+  - De la automatización al "aumento"
+  - AI como un **colaborador de la mente** no una mera máquina de
+    respuestas
+  - Andamiaje adaptativo --IA se ajusta al nivel de cada persona
+  - *Prompting* --focalizar en mejorar el prompting antes que ajustar
+    continuamente las preguntas
+
+## Modelos de lenguaje: aplicaciones (cont.)
+
+{{< video https://www.youtube.com/watch?v=MHv1FAinSX8 width="800" height="500">}}
+
+## Aplicaciones IA: ejemplos
+
+- La ciudad de Filadelfia emprendió un enfoque integral para la mejora
+  de su infraestructura urbana a través de la combinación de
+  - herramientas tradicionales y GIS
+  - IA a través de sensores instalados en diferentes unidades
+    (automóviles, lamparas, edificios)
+- El programa se denomina **SmartCityPHL** y es un ejemplo muy
+  relevante de como la IA puede automatizar tareas, optimizar tiempos
+  de respuesta y brindar mayor *accountability* a los ciudadanos
+- Web: [SmartCityPHL](https://streetsmartphl.phila.gov/) 
+  
+## Aplicaciones IA: ejemplos (cont.)
+
+![](figure-philadelphia.png){#fig:01003 width=80% fig-align="center"}
+
+## Aplicaciones IA: reforma legal 
+
+- En EEUU muchas ciudades preservaban leyes que introducían
+  cláusulas de privilegios raciales (*"racial covenants"*) en contratos
+  de compravente de inmuebles en contra de personas de ascendencia no
+  blanca [esto fue prohibido por la Corte Suprema en 1948]
+  - problema la enorme cantidad de contratos de compraventa en un
+    estado o partes de estado
+- Paper de Surani et al (2025) realizó una proceso conjunto con las
+  autoridades del condado de Santa Clara (California)
+  - escanearon con LLMs más de 25 millones de registros
+
+## Aplicaciones IA: reforma legal (cont.)
+
+- Resultados
+  1. El proceso con IA generó un ahorro de 86500 horas-hombre y
+     cuesta sólo un $2\%$ del costo de un proceso manual
+  2. Modelo es escalable para cualquier otra jurisdicción que tenga un
+     precedente similar en privilegios raciales en contratos de
+     compraventa
+  3. Una de cuatro propiedades en 1950 estaban sujetas a estos
+     privilegios raciales; un número reducido de desarrollistas
+     involucrados en mantener esta discriminación
+
+## Aplicaciones IA: reforma legal (cont.)
+
+![](figure-racial.png){#fig:01003 width=80% fig-align="center"}
+
+
+## Aplicaciones IA: publicidad con IA
+
+- Un tema que genera preocupación entre académicos, policymakers y
+  think-tanks es el de la irrupción de la IA en el mundo de la
+  publicidad y propaganda fundamentalmente en el mundo de la política
+  pero también en relación a políticas públicas
+- Creciente cantidad de estudios documentan un efecto importante de
+  publicidad generada por IA sobre la credibilidad y capacidad de
+  persuasión de la misma
+  - Goldstein et al (2024) estudian esto en un experimento comparando
+    propaganda real (extranjera) con propaganda IA generada 
+
+## Aplicaciones IA: publicidad con IA (cont.)
+
+![](figure-propaganda-001.png){#fig:01003 width=80% fig-align="center"}
+
+
+## Aplicaciones IA: publicidad con IA (cont.)
+
+- Potencial disruptivo en múltiples dimensiones
+  - "desencantamiento" y polarización de preferencias ciudadanas
+  - desconfianza en instituciones (democracia, justicia, elecciones) y
+    organizaciones/profesiones (periodismo, educadores, científicos)
+  - bajísimo costo de producción de *fake news* y propaganda engañosa
+- IA también puede proveer herramientas que balancean aquellos
+  fenómenos pero hay un potencial *mismatch* entre ambos
+  - disrupción tecnológica y empoderamiento digital $\longrightarrow$
+   ¿es tan deseable como suena?
+
+# **La IA en el mundo de la educación** {background="#5300b8"}
+
+## Aplicaciones IA: corrección automática
+
+- Un aspecto crucial del mundo de la educación es la **evaluación**
+  $\longrightarrow$ ¿qué rol puede jugar la IA en esta dimensión de la
+  educación?
+  - Floden (2024) investiga **diferencias entre la corrección de
+    exámenes manual versus la corrección de exámenes automatizada
+    (ChatGPT)**
+- El $70\%$ de los puntajes de ChatGPT estuvieron dentro de un rango
+    de $10\%$ de los puntajes manuales; un $31\%$ estuvieron dentro de
+    un rango de $5\%$ de los puntajes manuales
+	- ChatGPT tiende a otorgar puntajes marginalmente mayores pero...
+	  - sólo en respuesta relativamente cortas
+
+## Aplicaciones IA: corrección automática (cont.)
+
+![](figure-correccion-002.png){#fig:01003 width=80% fig-align="center"}
+
+
+## Aplicaciones IA: corrección automática (cont.)
+
+![](figure-correccion.png){#fig:01003 width=80% fig-align="center"}
+
+## Aplicaciones IA: corrección automática (cont.)
+
+- Existen aún diferencias bastante importantes entre corrección
+  automática y corrección manual. Esto es un problema en particular en
+  cierto tipo de preguntas por lo que es dificil generalizar
+  - un aspecto relevante es el de *feedback y retroalimentación* a los
+    estudiantes
+	- la corrección automática puede ayudar/complementar en este aspecto
+- Otros estudios tienden a coincidir con el anterior --la correlación
+  entre puntajes y resultados por corrección automática y manual estan
+  lejos de ser perfecta pero tienden a coincidir en los agregados
+  
+## Aplicaciones IA: corrección automática (cont.)
+
+![](figure-correccion-003.png){#fig:01003 width=80% fig-align="center"}
+
+## Aplicaciones IA: educación inicial
+
+- Estudio basado en American School District Panel (ASDP) investiga el
+  uso de IA en la educación K-12 en EEUU 
+  -- $66\%$ de educadores aún no usan IA; de los que usan IA en el
+  aula, el $75\%$ pretende usarla aún más en el futuro
+  
+## Aplicaciones IA: educación inicial (cont.)
+
+![](figure-k12.png){#fig:01003 width=80% fig-align="center"}
+
+# **IA y ciencias sociales...** {background="#5300b8"}
+
+## ¿Quo vadis?
+
+- Prematuro aún juzgar el alcance, impacto y transformaciones que la
+  IA causará en las ciencias sociales, tanto en el dominio de la
+  investigación, de la política pública y de la educación
+- Indudablemente hay algunas dimensiones en que las herramientas de la
+  IA están siendo usando regularmente por investigadores, educadores y
+  funcionarios 
+  - automatización de tareas (mails, mensajes audio/texto, chatbots,
+    replicación de código)
+  - reemplazo gradual de cierto tipo de asistentes humanos
+  - replicación y escalamiento de tareas (corrección, revisión,
+    traducción)
