@@ -113,6 +113,8 @@ de 17:00 a 18:00 (Cat. B)** y **miércoles de 16:00 a 19:00
 4. Unidad 4: Economía política de la redistribución
 5. Unidad 5: Tópicos globales de economía política
 
+# Programa ampliado {background="#691DAB"}
+
 ## Unidad 1. Introducción. Economía y política. Métodos y problemas
 
 - Introducción al enfoque de economía política para el estudio de las
@@ -127,7 +129,6 @@ de 17:00 a 18:00 (Cat. B)** y **miércoles de 16:00 a 19:00
      interméstico de las RRII; niveles de negociación vinculados
   3. Teoría de los juegos $\longrightarrow$ interdependencia
      estratégica
-- Unidad clave que articular con todas las unidades
 	 
 ## Unidad 2. Política comercial. Factores y sectores. Votantes y políticos. Instituciones. 
 
@@ -154,7 +155,31 @@ de 17:00 a 18:00 (Cat. B)** y **miércoles de 16:00 a 19:00
   - desequilibrios globales
   - integración monetaria y financiera
 
+## Unidad 4. Economía política de la redistribución
 
+- Globalización, desigualdad y redistribución
+  - interacciones globales (economía) y políticas locales (política)
+  - populismo y economía política
+- Tecnología e integración de cadenas globales
+  - Outsourcing de servicios $\longrightarrow$ diferencias con el
+    comercio de bienes. Impactos políticos
+  - tecnologización, automatización y mercados laborales
+- Migraciones
+  - globalización y migración
+  - percepción sobre inmigración y redistribución; polarización y
+    políticas públicas
+
+## Unidad 5. Tópicos globales de economía política
+ 
+- Medio ambiente y cambio climático $\longrightarrow$ economía
+  política de la política ambiental internacional
+  - cooperación y conflicto entre Estados
+  - influencia y grupos de interés
+- Polarización y preferencias $\longrightarrow$ política, redes
+  sociales y polarización
+  - la irrupción de las redes sociales
+  - efectos sobre polarización y democracia
+  
 
 ## Bibliografía y textos
 
