@@ -1,0 +1,154 @@
+---
+title: Economía Política Internacional
+title-slide-attributes:
+  data-background-image: ../fig/background-image-2.png
+  data-background-size: stretch
+  data-background-opacity: "0.85"
+subtitle: Presentación de la materia
+author:
+  - name: Sebastian Freille
+    affiliation: CPyRRII-UCC
+    email: 0933217@ucc.edu.ar
+pdf-engine: pdflatex
+format:
+  revealjs:
+    include-in-header:
+      - text: |
+          <style>
+            #title-slide .title {
+              color: #08DEFF;
+            }
+              
+            #title-slide .subtitle {
+              color: #08DEFF;
+            }
+ 
+            #title-slide {
+              color: #FFFFFF; 
+            }
+          </style>
+    slide-number: true
+    chalkboard:
+      buttons: false
+    preview-links: auto
+    css: ..\quarto.css
+    width: 1500
+    center-title-slide: true
+    center: true
+    tbl-cap-location: bottom	
+    toc: true
+    toc-depth: 1
+    toc-title: Contenidos
+    link-external-newwindow: true
+---
+
+# Presentación y equipo {background="#691DAB"}
+
+## Bienvenida 
+
+Este es un **sitio de diapositivas de clase** de la materia Economía
+Política Internacional del cuarto año de las carreras de
+Licenciatura en Ciencia Política y Licenciatura en Relaciones
+Internacionales de la Facultad de Ciencia Política y Relaciones
+Internacionales [CPyRRII] de la Universidad Católica de Córdoba [UCC]
+
+## Aspectos organizativos 
+
+En esta sección presentaremos los principales aspectos generales y organizativos de la materia. 
+
+## Equipo de cátedra
+
+- **Profesor Titular: FREILLE, Sebastián**
+    - Lic en Economía (UNC)
+    - PhD en Economía (University of Nottingham)
+- Director de Proyecto de Investigación **"Grupos de interés especial,
+  polarización de preferencias y políticas y recesión democrática"**
+  para el período 2023-2026. 
+
+- **Profesor Adjunto: CARO, Matías**
+    - Lic en Ciencia Política (UCC)
+	- MA en Justicia Penal y Criminología (University of Leeds)
+
+::: {.content-hidden}
+- **Profesora Adjunta: GORONDY NOVAK, Melisa**
+    - Lic en Relaciones Internacionales (UCC)
+    - MA en Ciencias Sociales "Global Studies Programme" (Universidad
+      Albert Ludwigs-FLACSO-Jawarhalal Nehru University)
+:::
+
+# Objetivos y organización del dictado {background="#691DAB"}
+
+## Objetivo general
+
+El objetivo de la materia es estudiar y analizar la
+interacción entre las relaciones económicas internacionales de los
+países, las instituciones políticas y el proceso de agregación de
+preferencias de múltiples actores y las políticas económicas
+resultantes de esa interacción. 
+
+## Objetivos específicos
+
+- Estimular y desarrollar en los estudiantes la capacidad analítica para el estudio de los principales fenómenos económicos internacionales.
+- Proponer un enfoque y abordaje positivo que permita un  análisis riguroso de los temas 
+- Contribuir a una mayor integración de los elementos económicos y políticos que interactúan en la configuración de las relaciones económicas internacionales
+- Promover en los estudiantes una visión reflexiva y crítica de
+  los fenómenos estudiados
+
+## Clases y dictado
+
+- El curso se dicta íntegramente de manera presencial **usando una
+  metodología tradicional** aunque complementada con: 
+  1. Material digitalizado y audiovisual en aula virtual 
+  2. Actividades para realizar en aula virtual
+- Las clases serán los días **martes de 16:00 a 17:00 (Cat. A)/martes
+de 17:00 a 18:00 (Cat. B)** y **miércoles de 16:00 a 19:00
+(Cat. A)/jueves de 15:00 a 18:00 (Cat. B)** 
+
+## Programa de la materia
+
+1. Unidad 1: Introducción: Economía y política. Métodos y problemas
+2. Unidad 2: Política comercial: Factores y sectores. Votantes y
+  políticos. Instituciones
+3. Unidad 3: Integración de mercados globales
+4. Unidad 4: Economía política de la redistribución
+5. Unidad 5: Tópicos globales de economía política
+
+## Bibliografía y textos
+
+- La cátedra no sigue un texto único
+- Se dará una bibliografía detallada de papers y extractos de libro
+- Hay bibliografía en castellano pero un número importante de textos es en inglés
+
+# Metodología de evaluación y otros aspectos importantes {background="#691DAB"}
+
+
+## Evaluación
+
+- La evaluación tendrá dos instancias: parciales y finales. Habrá 2
+  (dos) parciales y se podrá recuperar hasta uno ya sea por aplazo o ausencia.
+- El alumno obtendrá la **condición de regular (R) aprobando 2
+  (dos) parciales**. En caso contrario, quedará libre parciales (LP)/libre asistencia (LA). 
+- La evaluación final comprenderá todos los temas del programa y la modalidad a definir.
+- Cada evaluación (parcial/final) se aprobará con el 50\% del puntaje total
+
+## Fechas importantes
+
+- Parcial #1: a definir
+- Parcial #2: a definir
+- Parcial Recuperatorio: a definir
+
+## Puntos de encuentro
+
+1. Aula virtual de la materia: [Aula virtual](https://campusvirtual.ucc.edu.ar/course/view.php?id=2037)
+2. Web de S Freille: [Página de Economía Política Internacional](https://sfreille.github.io/teaching/epin)
+4. Mail y otros
+    - Se responden mails y mensajes en foros (no usamos grupos de whatsapp)
+
+## Resumiendo
+
+1. Usen los espacios y metodologías dispuestos por la cátedra
+2. **Dificultad media/alta** pero la filosofía de la catedra es:
+    1. Explicamos los temas del programa 
+    2. Evaluamos sólo lo que explicamos
+    3. Explicamos cómo evaluamos y cómo corregimos
+    4. Mostramos evaluaciones y devoluciones
