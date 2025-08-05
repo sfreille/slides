@@ -113,6 +113,49 @@ de 17:00 a 18:00 (Cat. B)** y **miércoles de 16:00 a 19:00
 4. Unidad 4: Economía política de la redistribución
 5. Unidad 5: Tópicos globales de economía política
 
+## Unidad 1. Introducción. Economía y política. Métodos y problemas
+
+- Introducción al enfoque de economía política para el estudio de las
+  interacciones económicas y políticas internacionales. El problema
+  político. Diferencias con el problema económico. 
+- Métodos y modelos usados
+  1. Teoría de la elección social $\longrightarrow$ decisiones
+     individuales versus decisiones colectivas
+	 - teorema del votante mediano; modelos espaciales de preferencias
+       y votación.
+  2. Juegos de dos niveles $\longrightarrow$ integración con enfoque
+     interméstico de las RRII; niveles de negociación vinculados
+  3. Teoría de los juegos $\longrightarrow$ interdependencia
+     estratégica
+- Unidad clave que articular con todas las unidades
+	 
+## Unidad 2. Política comercial. Factores y sectores. Votantes y políticos. Instituciones. 
+
+- Determinacion endógena de la política comercial. La "política"
+  detrás de la política comercial. Lobbies, sectores y
+  factores. Clivajes y coaliciones de política comercial
+- Preferencias sobre el comercio $\longrightarrow$ beneficios difusos
+  y costos concentrados; beneficios concentrados y costos difusos
+- Diseño institucional y regulación $\longrightarrow$ cómo cambian
+  endógenamente las preferencias; la sostenibilidad de la política
+  comercial 
+
+## Unidad 3. Integración de mercados globales
+
+- Comercio y regionalismo $\longrightarrow$ economía y política detrás
+  de las decisiones de integración
+  - integración multilateral vs integración regional
+  - economía política de la regionalización y regionalismo 
+- Localización de la producción $\longrightarrow$ rol de la geografía
+  y los accidentes históricos
+  - concentración y dispersión
+  - efectos de la política pública
+- Integración y union monetaria
+  - desequilibrios globales
+  - integración monetaria y financiera
+
+
+
 ## Bibliografía y textos
 
 - La cátedra no sigue un texto único
