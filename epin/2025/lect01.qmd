@@ -1,15 +1,32 @@
 ---
-title: Economía Política Internacional [UCC]
-subtitle: Unidad 1. Introducción. Economia y política. Métodos y problemas.
+title: Economía Política Internacional
+title-slide-attributes:
+  data-background-image: ../fig/background-image-2.png
+  data-background-size: stretch
+  data-background-opacity: "0.85"
+subtitle: U1. Introducción a la economía politica. Las tres I's. Heterogeneidad y conflicto
 author:
   - name: Sebastian Freille
     affiliation: CPyRRII-UCC
     email: 0933217@ucc.edu.ar
-date: today
-date-format: DD MMMM, YYYY
 pdf-engine: pdflatex
 format:
   revealjs:
+    include-in-header:
+      - text: |
+          <style>
+            #title-slide .title {
+              color: #08DEFF;
+            }
+              
+            #title-slide .subtitle {
+              color: #08DEFF;
+            }
+ 
+            #title-slide {
+              color: #FFFFFF; 
+            }
+          </style>
     slide-number: true
     chalkboard:
       buttons: false
@@ -100,7 +117,7 @@ soporte. Es decir, se debe ser un político.
 
 ## Economía política: Sistema
 
-![El sistema de economía política](fig/fig_sistema.png)
+![El sistema de economía política](../fig/fig_sistema.png)
 
 # Hechos estilizados: variación en las políticas económicas {background="#691DAB"}
 
@@ -113,7 +130,7 @@ soporte. Es decir, se debe ser un político.
 
 ## Ilustración #1
 
-![Correlación gasto público y PBI per cápita](fig/fig_gp_pbi.png)
+![Correlación gasto público y PBI per cápita](../fig/fig_gp_pbi.png)
 
 ## Ilustración #1 (cont.)
 
@@ -123,11 +140,11 @@ soporte. Es decir, se debe ser un político.
 
 ## Ilustración #2
 
-![Gasto público como porcentaje de PBI](fig/fig_gp_pbi_per.png)
+![Gasto público como porcentaje de PBI](../fig/fig_gp_pbi_per.png)
 
 ## Ilustración #3
 
-![Gasto público como porcentaje de PBI - Otros países](fig/fig_gp_pbi_per_sub.png)
+![Gasto público como porcentaje de PBI - Otros países](../fig/fig_gp_pbi_per_sub.png)
 
 ## Ilustración #4 
 
@@ -138,11 +155,11 @@ soporte. Es decir, se debe ser un político.
 
 ## Ilustración #4 (cont.)
 
-![Recaudación tributaria y PBIpc](fig/fig_rec_pbi_per_pbipc.png)
+![Recaudación tributaria y PBIpc](../fig/fig_rec_pbi_per_pbipc.png)
 
 ## Ilustración #5
 
-![Recaudación tributaria como porcentaje de PBI](fig/fig_rec_pbi_per.png)
+![Recaudación tributaria como porcentaje de PBI](../fig/fig_rec_pbi_per.png)
 
 # El problema político: diferencias con el problema económico {background="#691DAB"}
 
@@ -275,7 +292,7 @@ $$u'(x_{t})=(1+r_{t})[\alpha \beta^{A}+(1-\alpha)\beta^{J}]u'(x_{t+1})$$
 
 ## Economía y política: Dos sistemas (cont.)
 
-![Preferencias diferentes por políticas en el espacio](fig/fig_preferencias.png)
+![Preferencias diferentes por políticas en el espacio](../fig/fig_preferencias.png)
 
 ## Heterogeneidad y preferencias
 
