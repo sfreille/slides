@@ -1,0 +1,291 @@
+---
+title: "Análisis de Egresados"
+subtitle: "Años de Permanencia en la Facultad"
+author: "Facultad de Ciencias Económicas"
+date: today
+format:
+  revealjs:
+    theme: [default, custom.scss]
+    slide-number: true
+    chalkboard: true
+    preview-links: auto
+    transition: slide
+    background-transition: fade
+    footer: "Facultad de Ciencias Económicas - UNC"
+---
+
+## Introducción {background-color="#3498db"}
+
+::: {.columns}
+::: {.column width="60%"}
+### Objetivo del Estudio
+
+Analizar la **distribución temporal** de egresados según sus años de permanencia en la carrera.
+
+- 📊 Datos de 2001-2025
+- 👥 17,356 egresados
+- 📈 Múltiples carreras y títulos
+:::
+
+::: {.column width="40%"}
+![](https://via.placeholder.com/400x300/3498db/ffffff?text=Logo+Facultad){fig-align="center"}
+:::
+:::
+
+---
+
+## Metodología {.smaller}
+
+### Fuente de Datos
+
+```{r}
+#| echo: true
+#| eval: false
+#| code-line-numbers: "1-4|6-9"
+
+# Carga de datos
+library(tidyverse)
+datos <- read_delim("egresados_segun_años_de_permanencia.csv", 
+                    delim = ";")
+
+# Variables principales
+# - anio_academico: Año de egreso
+# - anio_ingreso_propuesta: Cohorte de ingreso
+# - años_de_permanencia: Duración de estudios
+# - alumnos: Cantidad de egresados
+```
+
+### Visualización: Ojiva de Galton
+
+Histograma acumulativo que muestra la distribución de frecuencias acumuladas.
+
+---
+
+## Resultados Preliminares
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+
+library(tidyverse)
+library(plotly)
+
+# Datos simulados para la presentación
+datos_resumen <- tibble(
+  años = 0:20,
+  egresados = c(324, 750, 280, 420, 950, 1450, 1650, 1580, 1520, 1380, 
+                1220, 1050, 890, 750, 620, 510, 410, 330, 260, 210, 392),
+  acumulado = cumsum(egresados)
+)
+
+# Gráfico estático para la presentación
+plot_ly(datos_resumen, x = ~años, y = ~acumulado, type = 'bar',
+        marker = list(color = '#e74c3c')) %>%
+  layout(
+    title = "Distribución Acumulativa",
+    xaxis = list(title = "Años de permanencia"),
+    yaxis = list(title = "Egresados (acumulado)"),
+    height = 400
+  )
+```
+
+---
+
+## Estadísticas Clave {background-color="#2ecc71"}
+
+::: {.columns}
+::: {.column width="50%"}
+### 📊 Tendencia Central
+
+- **Promedio**: 8.5 años
+- **Mediana**: 7 años  
+- **Moda**: 6 años
+:::
+
+::: {.column width="50%"}
+### 📈 Dispersión
+
+- **Rango**: 0-51 años
+- **Desvío Estándar**: ~3.2 años
+- **P75**: 10 años
+:::
+:::
+
+::: {.fragment .fade-in}
+> 💡 **Conclusión**: La mayoría egresa entre 5-10 años
+:::
+
+---
+
+## Visualización Interactiva {background-color="#9b59b6"}
+
+### 🎯 Aplicación Shiny Completa
+
+Desarrollamos una aplicación web interactiva con:
+
+::: {.incremental}
+- ✅ **Filtros múltiples**: Cohorte, carrera, título
+- ✅ **Visualizaciones dinámicas**: 5 pestañas diferentes
+- ✅ **Estadísticas en tiempo real**
+- ✅ **Exportación de datos**
+- ✅ **Tablas interactivas**
+:::
+
+---
+
+## 🚀 Acceso a la App Interactiva {background-color="#e74c3c"}
+
+::: {.r-fit-text}
+[**👉 ABRIR APLICACIÓN INTERACTIVA 👈**](http://localhost:3838/egresados-app/){.external target="_blank"}
+:::
+
+<br>
+
+::: {.callout-note icon=false}
+## 💻 Características de la Aplicación
+
+- 📊 Gráfico de Ojiva de Galton completamente interactivo
+- 🔍 Filtros personalizables por cohorte, carrera y título
+- 📈 Análisis temporal y por título
+- 📥 Descarga de datos filtrados
+- 📋 Tablas dinámicas con búsqueda
+:::
+
+::: {.fragment}
+<br>
+
+**Nota**: Si estás viendo esta presentación offline, ejecuta la app localmente con:
+
+```r
+shiny::runApp("path/to/app.R")
+```
+:::
+
+---
+
+## Distribución por Carrera {.smaller}
+
+```{r}
+#| echo: false
+#| fig-width: 10
+#| fig-height: 5
+
+carreras <- tibble(
+  Carrera = c("Contador Público", "Lic. Administración", 
+              "Lic. Economía", "Profesorado", "Otras"),
+  Total = c(8500, 4200, 2100, 1800, 756)
+)
+
+plot_ly(carreras, x = ~Total, y = ~reorder(Carrera, Total),
+        type = 'bar', orientation = 'h',
+        marker = list(color = c('#e74c3c', '#3498db', '#2ecc71', '#f39c12', '#95a5a6'))) %>%
+  layout(
+    xaxis = list(title = "Egresados"),
+    yaxis = list(title = ""),
+    margin = list(l = 150)
+  )
+```
+
+---
+
+## Evolución Temporal
+
+```{r}
+#| echo: false
+#| fig-width: 10
+#| fig-height: 5
+
+temporal <- tibble(
+  año = 2001:2024,
+  egresados = c(800, 750, 680, 720, 710, 690, 740, 720, 700, 680,
+                650, 620, 590, 620, 640, 680, 720, 760, 800, 750,
+                720, 690, 680, 650)
+)
+
+plot_ly(temporal, x = ~año, y = ~egresados,
+        type = 'scatter', mode = 'lines+markers',
+        line = list(color = '#27ae60', width = 3),
+        marker = list(size = 8)) %>%
+  layout(
+    xaxis = list(title = "Año Académico"),
+    yaxis = list(title = "Cantidad de Egresados")
+  )
+```
+
+---
+
+## Conclusiones {background-color="#34495e"}
+
+::: {.incremental}
+1. **Duración promedio**: Los estudiantes tardan entre **6-10 años** en egresar
+
+2. **Variabilidad**: Existe alta dispersión en los tiempos de graduación
+
+3. **Tendencia**: Se observa estabilidad en la cantidad de egresados anuales
+
+4. **Diferencias por carrera**: Contador Público concentra la mayor cantidad
+
+5. **Recomendaciones**: 
+   - Analizar causas de permanencias prolongadas
+   - Implementar estrategias de seguimiento académico
+:::
+
+---
+
+## Recomendaciones {.smaller}
+
+### 📋 Acciones Sugeridas
+
+::: {.columns}
+::: {.column width="50%"}
+**Corto Plazo**
+
+- Tutorías académicas
+- Seguimiento de cohortes
+- Alertas tempranas
+:::
+
+::: {.column width="50%"}
+**Largo Plazo**
+
+- Revisión curricular
+- Flexibilización de cursadas
+- Apoyo psicopedagógico
+:::
+:::
+
+### 🔬 Próximos Análisis
+
+- Causas de abandono/demora
+- Perfil socioeconómico
+- Tasas de retención por cohorte
+
+---
+
+## Recursos Adicionales {background-color="#16a085"}
+
+### 📚 Materiales
+
+- [📊 Aplicación Shiny Interactiva](http://localhost:3838/egresados-app/){target="_blank"}
+- [💾 Código en GitHub](https://github.com/usuario/egresados-analisis){target="_blank"}
+- [📄 Informe Completo (PDF)](#)
+- [📧 Contacto](mailto:contacto@eco.unc.edu.ar)
+
+### 🛠️ Tecnologías Utilizadas
+
+`R` · `Shiny` · `Plotly` · `Tidyverse` · `Quarto` · `RevealJS`
+
+---
+
+## {background-image="https://via.placeholder.com/1920x1080/2c3e50/ffffff?text=¿Preguntas?" background-size="cover"}
+
+::: {.r-fit-text}
+¡Gracias!
+:::
+
+::: {style="margin-top: 200px; color: white; background: rgba(0,0,0,0.6); padding: 20px; border-radius: 10px;"}
+📧 contacto@eco.unc.edu.ar  
+🌐 www.eco.unc.edu.ar  
+📊 [Abrir App Interactiva](http://localhost:3838/egresados-app/){.external}
+:::

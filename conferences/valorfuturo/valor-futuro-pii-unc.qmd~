@@ -1,0 +1,50 @@
+---
+title: "&nbsp;"
+title-slide-attributes:
+  data-background-image: logo-pii-unc.png
+  data-background-size: contain
+  data-background-opacity: "0.5"
+  data-background-color: "#ffffff"
+subtitle: Mesa Académica
+author: "Sebastián Freille"
+date: today
+format:
+  revealjs:
+    theme: dark
+    slide-number: true
+    chalkboard: true
+    preview-links: auto
+    logo: logo-pii-unc.png
+    footer: "Facultad de Ciencias Económicas"
+---
+
+## Programa de Inteligencia Institucional [Pii-UNC]
+
+- Creado en 2023 bajo la órbita de la **Secretaría de Bienestar y
+  Modernización (ByMO)**
+  - espacio centralizados de articulación inter-facultades para la
+    co-gestión de datos, indicadores y trayectorias de actividad
+    académica
+- Dinámica de **mesas de trabajo** --académica, institucional,
+  posgrado.
+- La **mesa académica** espacio de encuentro de secretarios
+  académicos. Reuniones periódicas. Trabaja en 3 (tres) ejes:
+  1. Definición de **dimensiones estratégicas**
+  2. Homogeneización de **criterios conceptuales y metodológicos**
+  3. Formato de **presentación y visualización**
+
+## Tablero académico
+
+![Tablero Académico - Tablero Sintético (tiempo real)](tablero-academico-001.png){#fig:03001 width=100%}
+
+
+## Introducción {.smaller}
+
+Este análisis presenta la distribución de egresados según sus años de permanencia en la facultad, utilizando una ojiva de Galton (histograma acumulativo).
+
+### Datos
+
+- **Fuente:** Registros académicos
+- **Período:** 2001-2025
+- **Total de registros:** 1,480 filas
+- **Total de egresados:** 17,356 estudiantes

@@ -1,0 +1,98 @@
+# ============================================================================
+# VERSIÓN MÍNIMA - PARA DEBUGGING
+# Si esta versión funciona, el problema está en la versión completa
+# ============================================================================
+
+library(shiny)
+library(tidyverse)
+library(plotly)
+
+# Cargar datos con mejor manejo de errores
+datos <- tryCatch({
+  read_delim("egresados_segun_años_de_permanencia.csv",
+             delim = ";",
+             locale = locale(encoding = "UTF-8"),
+             show_col_types = FALSE)
+}, error = function(e) {
+  # Si falla, intentar con otro encoding
+  read_delim("egresados_segun_años_de_permanencia.csv",
+             delim = ";",
+             locale = locale(encoding = "latin1"),
+             show_col_types = FALSE)
+})
+
+# Verificar que los datos se cargaron
+if (nrow(datos) == 0) {
+  stop("No se pudieron cargar los datos")
+}
+
+# UI simplificada
+ui <- fluidPage(
+  titlePanel("Test - Análisis de Egresados"),
+
+  sidebarLayout(
+    sidebarPanel(
+      h4("Información de datos"),
+      textOutput("info_datos"),
+      hr(),
+      selectInput("propuesta", "Propuesta:",
+                 choices = unique(datos$propuesta_formativa)),
+      selectInput("cohorte", "Cohorte:",
+                 choices = sort(unique(datos$anio_ingreso_propuesta),
+                               decreasing = TRUE),
+                 multiple = TRUE,
+                 selected = tail(sort(unique(datos$anio_ingreso_propuesta)), 5))
+    ),
+
+    mainPanel(
+      h3("Gráfico de Prueba"),
+      plotlyOutput("grafico_test", height = "500px"),
+      hr(),
+      h4("Vista de datos"),
+      tableOutput("tabla_test")
+    )
+  )
+)
+
+# Server
+server <- function(input, output, session) {
+
+  output$info_datos <- renderText({
+    paste0("Total registros: ", nrow(datos), "\n",
+           "Cohortes: ", length(unique(datos$anio_ingreso_propuesta)), "\n",
+           "Propuestas: ", length(unique(datos$propuesta_formativa)))
+  })
+
+  datos_filtrados <- reactive({
+    req(input$propuesta, input$cohorte)
+
+    datos %>%
+      filter(
+        propuesta_formativa == input$propuesta,
+        anio_ingreso_propuesta %in% input$cohorte
+      )
+  })
+
+  output$grafico_test <- renderPlotly({
+    df <- datos_filtrados() %>%
+      group_by(años_de_permanencia) %>%
+      summarise(total = sum(alumnos, na.rm = TRUE), .groups = "drop") %>%
+      arrange(años_de_permanencia) %>%
+      mutate(acumulado = cumsum(total))
+
+    plot_ly(df, x = ~años_de_permanencia, y = ~acumulado,
+           type = 'bar',
+           marker = list(color = '#e74c3c')) %>%
+      layout(
+        xaxis = list(title = "Años de permanencia"),
+        yaxis = list(title = "Egresados (acumulado)")
+      )
+  })
+
+  output$tabla_test <- renderTable({
+    head(datos_filtrados(), 10)
+  })
+}
+
+# Ejecutar
+shinyApp(ui = ui, server = server)

@@ -1,0 +1,277 @@
+---
+title: "Análisis de Egresados - Años de Permanencia"
+subtitle: "Facultad de Ciencias Económicas"
+author: "Tu Nombre"
+date: today
+format:
+  revealjs:
+    theme: [default, custom.scss]
+    slide-number: true
+    chalkboard: true
+    preview-links: auto
+    logo: logo.png
+    css: styles.css
+    footer: "Facultad de Ciencias Económicas"
+  html:
+    code-fold: true
+    code-summary: "Ver código"
+    toc: true
+    toc-depth: 3
+    theme: flatly
+    embed-resources: true
+---
+
+## Introducción {.smaller}
+
+Este análisis presenta la distribución de egresados según sus años de permanencia en la facultad, utilizando una ojiva de Galton (histograma acumulativo).
+
+### Datos
+
+- **Fuente:** Registros académicos
+- **Período:** 2001-2025
+- **Total de registros:** 1,480 filas
+- **Total de egresados:** 17,356 estudiantes
+
+---
+
+## Visualización Interactiva
+
+```{r}
+#| label: setup
+#| include: false
+#| message: false
+#| warning: false
+
+library(tidyverse)
+library(plotly)
+library(crosstalk)
+library(htmltools)
+library(DT)
+
+# Leer datos
+datos <- read_delim("egresados_segun_años_de_permanencia.csv", 
+                    delim = ";",
+                    locale = locale(encoding = "UTF-8"))
+```
+
+```{r}
+#| label: grafico-interactivo
+#| echo: false
+#| warning: false
+#| message: false
+#| fig-width: 12
+#| fig-height: 7
+
+# Obtener valores únicos para los filtros
+cohortes_disponibles <- sort(unique(datos$anio_ingreso_propuesta))
+propuestas_disponibles <- sort(unique(datos$propuesta_formativa))
+titulos_disponibles <- sort(unique(datos$titulo))
+
+# Crear interfaz con filtros estilo checkbox para cohortes
+div(
+  style = "background: #f8f9fa; padding: 20px; border-radius: 10px; margin-bottom: 20px;",
+  
+  h3("Filtros", style = "margin-top: 0;"),
+  
+  # Filtro de Cohortes con checkboxes
+  div(
+    style = "margin-bottom: 20px;",
+    h4("Año de Ingreso (Cohorte):"),
+    div(
+      id = "filtro-cohortes",
+      style = "max-height: 300px; overflow-y: auto; border: 1px solid #ddd; padding: 10px; background: white; border-radius: 5px;",
+      HTML(paste0(
+        '<div style="margin-bottom: 5px;">',
+        '<input type="checkbox" id="select-all-cohortes" checked> ',
+        '<label for="select-all-cohortes"><strong>Seleccionar todas</strong></label>',
+        '</div><hr style="margin: 10px 0;">',
+        paste0(
+          '<div style="margin: 5px 0;">',
+          '<input type="checkbox" class="cohorte-check" value="', cohortes_disponibles, '" checked> ',
+          '<label>', cohortes_disponibles, '</label>',
+          '</div>',
+          collapse = ""
+        )
+      ))
+    )
+  ),
+  
+  # Filtros de Propuesta y Título
+  div(
+    style = "display: grid; grid-template-columns: 1fr 1fr; gap: 20px;",
+    div(
+      h4("Propuesta Formativa:"),
+      selectInput(
+        "filtro_propuesta",
+        NULL,
+        choices = c("Todas" = "todas", setNames(propuestas_disponibles, propuestas_disponibles)),
+        selected = "todas",
+        multiple = TRUE,
+        selectize = TRUE
+      )
+    ),
+    div(
+      h4("Título:"),
+      selectInput(
+        "filtro_titulo",
+        NULL,
+        choices = c("Todos" = "todos", setNames(titulos_disponibles, titulos_disponibles)),
+        selected = "todos",
+        multiple = TRUE,
+        selectize = TRUE
+      )
+    )
+  ),
+  
+  # JavaScript para manejar los checkboxes
+  tags$script(HTML("
+    document.getElementById('select-all-cohortes').addEventListener('change', function(e) {
+      document.querySelectorAll('.cohorte-check').forEach(function(cb) {
+        cb.checked = e.target.checked;
+      });
+    });
+  "))
+)
+
+# Calcular datos para el gráfico (con todos los datos por defecto)
+datos_grafico <- datos %>%
+  group_by(años_de_permanencia) %>%
+  summarise(total_alumnos = sum(alumnos, na.rm = TRUE), .groups = "drop") %>%
+  arrange(años_de_permanencia) %>%
+  mutate(
+    acumulado = cumsum(total_alumnos),
+    porcentaje = round(acumulado / sum(total_alumnos) * 100, 1)
+  )
+
+# Crear el gráfico
+plot_ly(
+  data = datos_grafico,
+  x = ~años_de_permanencia,
+  y = ~acumulado,
+  type = 'bar',
+  marker = list(
+    color = '#ef4444',
+    line = list(color = '#dc2626', width = 1.5)
+  ),
+  text = ~paste0(
+    "<b>Años de permanencia:</b> ", años_de_permanencia, "<br>",
+    "<b>Egresados en este período:</b> ", format(total_alumnos, big.mark = "."), "<br>",
+    "<b>Total acumulado:</b> ", format(acumulado, big.mark = "."), "<br>",
+    "<b>Porcentaje acumulado:</b> ", porcentaje, "%"
+  ),
+  hovertemplate = '%{text}<extra></extra>'
+) %>%
+  layout(
+    title = list(
+      text = "<b>Ojiva de Galton - Distribución Acumulativa</b>",
+      font = list(size = 20, family = "Arial, sans-serif")
+    ),
+    xaxis = list(
+      title = "<b>Años desde la primera inscripción</b>",
+      tickmode = "linear",
+      tick0 = 0,
+      dtick = 1,
+      gridcolor = '#e0e0e0'
+    ),
+    yaxis = list(
+      title = "<b>Egresados (acumulado)</b>",
+      separatethousands = TRUE,
+      gridcolor = '#e0e0e0'
+    ),
+    hovermode = 'x unified',
+    plot_bgcolor = 'rgba(0,0,0,0)',
+    paper_bgcolor = 'white',
+    font = list(family = "Arial, sans-serif", size = 12),
+    margin = list(l = 80, r = 40, t = 80, b = 80)
+  ) %>%
+  config(
+    displayModeBar = TRUE,
+    displaylogo = FALSE,
+    modeBarButtonsToRemove = c('lasso2d', 'select2d', 'pan2d'),
+    toImageButtonOptions = list(
+      format = 'png',
+      filename = 'ojiva_egresados',
+      height = 600,
+      width = 1200
+    )
+  )
+```
+
+---
+
+## Estadísticas Descriptivas
+
+```{r}
+#| label: estadisticas
+#| echo: false
+
+# Calcular estadísticas
+total_egresados <- sum(datos$alumnos, na.rm = TRUE)
+promedio_años <- weighted.mean(datos$años_de_permanencia, datos$alumnos, na.rm = TRUE)
+
+# Mediana (aproximada)
+datos_expandidos <- datos %>%
+  uncount(alumnos)
+mediana_años <- median(datos_expandidos$años_de_permanencia, na.rm = TRUE)
+
+# Moda
+moda_años <- datos %>%
+  group_by(años_de_permanencia) %>%
+  summarise(total = sum(alumnos)) %>%
+  arrange(desc(total)) %>%
+  slice(1) %>%
+  pull(años_de_permanencia)
+
+# Crear tabla de estadísticas
+tibble(
+  Estadística = c("Total de Egresados", "Promedio de Años", "Mediana de Años", "Moda de Años"),
+  Valor = c(
+    format(total_egresados, big.mark = "."),
+    round(promedio_años, 2),
+    mediana_años,
+    moda_años
+  )
+) %>%
+  knitr::kable(align = 'lr')
+```
+
+---
+
+## Tabla de Datos Resumidos {.scrollable}
+
+```{r}
+#| label: tabla-datos
+#| echo: false
+
+datos %>%
+  group_by(años_de_permanencia) %>%
+  summarise(
+    `Total Egresados` = sum(alumnos, na.rm = TRUE),
+    .groups = "drop"
+  ) %>%
+  arrange(años_de_permanencia) %>%
+  mutate(
+    `Acumulado` = cumsum(`Total Egresados`),
+    `Porcentaje` = round(`Acumulado` / sum(`Total Egresados`) * 100, 1)
+  ) %>%
+  rename(`Años` = años_de_permanencia) %>%
+  DT::datatable(
+    options = list(
+      pageLength = 10,
+      dom = 'Bfrtip',
+      buttons = c('copy', 'csv', 'excel')
+    ),
+    extensions = 'Buttons'
+  )
+```
+
+---
+
+## Conclusiones
+
+::: {.incremental}
+- La mayoría de los estudiantes egresan entre **5 y 10 años** de permanencia
+- El **promedio de años** de permanencia es de aproximadamente **`r round(promedio_años, 1)` años**
+- La **mediana** se encuentra en **`r mediana_años` años**
+- Existe una variabilidad considerable en los tiempos de egreso
+:::

@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Años de Permanencia de Egresados - FCE</title>
+    <script src="https://cdn.plot.ly/plotly-2.26.0.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background-color: white;
+            padding: 40px;
+            border-radius: 15px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            margin-bottom: 10px;
+            font-size: 28px;
+            font-weight: 700;
+        }
+        .subtitle {
+            text-align: center;
+            color: #7f8c8d;
+            margin-bottom: 30px;
+            font-size: 15px;
+            font-weight: 400;
+        }
+        .filters {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+            padding: 20px;
+            background-color: #f8f9fa;
+            border-radius: 10px;
+        }
+        .filter-group {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+        .filter-group label {
+            font-weight: 600;
+            color: #34495e;
+            font-size: 14px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        select {
+            padding: 12px 15px;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            font-size: 14px;
+            background-color: white;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+        select:hover {
+            border-color: #667eea;
+        }
+        select:focus {
+            outline: none;
+            border-color: #667eea;
+            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+        }
+        #chart {
+            width: 100%;
+            height: 550px;
+            margin-bottom: 30px;
+        }
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 20px;
+            margin-top: 30px;
+        }
+        .stat-box {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 25px 20px;
+            border-radius: 12px;
+            text-align: center;
+            box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
+            transition: transform 0.3s ease;
+        }
+        .stat-box:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 6px 20px rgba(102, 126, 234, 0.4);
+        }
+        .stat-box .label {
+            font-size: 12px;
+            opacity: 0.95;
+            margin-bottom: 8px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            font-weight: 500;
+        }
+        .stat-box .value {
+            font-size: 32px;
+            font-weight: 700;
+            line-height: 1.2;
+        }
+        .note {
+            margin-top: 30px;
+            padding: 20px;
+            background-color: #e8f4f8;
+            border-left: 5px solid #3498db;
+            border-radius: 8px;
+            font-size: 14px;
+            color: #2c3e50;
+            line-height: 1.6;
+        }
+        .note strong {
+            color: #2980b9;
+        }
+        @media (max-width: 768px) {
+            .container {
+                padding: 20px;
+            }
+            h1 {
+                font-size: 22px;
+            }
+            #chart {
+                height: 400px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>📊 Años de Permanencia de los Egresados</h1>
+        <div class="subtitle">Distribución de egresados según años necesarios para el egreso | Cohortes 2005-2020</div>
+        
+        <div class="filters">
+            <div class="filter-group">
+                <label for="propuestaFilter">🎓 Propuesta Formativa</label>
+                <select id="propuestaFilter">
+                    <option value="all">Todas las propuestas</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label for="cohorteFilter">📅 Cohorte de Ingreso</label>
+                <select id="cohorteFilter">
+                    <option value="all">Todas las cohortes</option>
+                </select>
+            </div>
+        </div>
+
+        <div id="chart"></div>
+
+        <div class="stats">
+            <div class="stat-box">
+                <div class="label">Total Egresados</div>
+                <div class="value" id="totalEgresados">-</div>
+            </div>
+            <div class="stat-box">
+                <div class="label">Años Promedio</div>
+                <div class="value" id="anosPromedio">-</div>
+            </div>
+            <div class="stat-box">
+                <div class="label">Mediana</div>
+                <div class="value" id="mediana">-</div>
+            </div>
+            <div class="stat-box">
+                <div class="label">Moda (más común)</div>
+                <div class="value" id="moda">-</div>
+            </div>
+        </div>
+
+        <div class="note">
+            <strong>📌 NOTA:</strong> Este análisis considera las cohortes desde el año 2005 hasta 2020. 
+            Se muestran únicamente egresados con 4 o más años de permanencia, ya que es el mínimo tiempo posible para completar una carrera. 
+            Los años de permanencia están truncados a un máximo de 20 años para facilitar la visualización. 
+            Cada barra representa la cantidad total de egresados que tardaron ese número específico de años en graduarse.
+        </div>
+    </div>
+
+    <script>
+        const datosGlobales = [{"anio_ingreso": 2005, "propuesta": "Contador Público", "anos_permanencia": 4, "alumnos": 36}, {"anio_ingreso": 2005, "propuesta": "Licenciatura en Administración", "anos_permanencia": 4, "alumnos": 12}, {"anio_ingreso": 2005, "propuesta": "Licenciatura en Economía", "anos_permanencia": 4, "alumnos": 13}, {"anio_ingreso": 2005, "propuesta": "Contador Público", "anos_permanencia": 5, "alumnos": 95}, {"anio_ingreso": 2005, "propuesta": "Licenciatura en Administración", "anos_permanencia": 5, "alumnos": 20}, {"anio_ingreso": 2005, "propuesta": "Licenciatura en Economía", "anos_permanencia": 5, "alumnos": 10}, {"anio_ingreso": 2006, "propuesta": "Contador Público", "anos_permanencia": 4, "alumnos": 22}, {"anio_ingreso": 2006, "propuesta": "Licenciatura en Administración", "anos_permanencia": 4, "alumnos": 11}, {"anio_ingreso": 2006, "propuesta": "Licenciatura en Economía", "anos_permanencia": 4, "alumnos": 3}, {"anio_ingreso": 2005, "propuesta": "Contador Público", "anos_permanencia": 6, "alumnos": 106}, {"anio_ingreso": 2005, "propuesta": "Licenciatura en Administración", "anos_permanencia": 6, "alumnos": 20}, {"anio_ingreso": 2005, "propuesta": "Licenciatura en Economía", "anos_permanencia": 6, "alumnos": 9}, {"anio_ingreso": 2006, "propuesta": "Contador Público", "anos_permanencia": 5, "alumnos": 91}, {"anio_ingreso": 2006, "propuesta": "Licenciatura en Administración", "anos_permanencia": 5, "alumnos": 25}, {"anio_ingreso": 2006, "propuesta": "Licenciatura en Economía", "anos_permanencia": 5, "alumnos": 7}, {"anio_ingreso": 2007, "propuesta": "Contador Público", "anos_permanencia": 4, "alumnos": 15}, {"anio_ingreso": 2007, "propuesta": "Licenciatura en Administración", "anos_permanencia": 4, "alumnos": 14}, {"anio_ingreso": 2007, "propuesta": "Licenciatura en Economía", "anos_permanencia": 4, "alumnos": 10}, {"anio_ingreso": 2005, "propuesta": "Contador Público", "anos_permanencia": 7, "alumnos": 76}, {"anio_ingreso": 2005, "propuesta": "Licenciatura en Administración", "anos_permanencia": 7, "alumnos": 20}, {"anio_ingreso": 2005, "propuesta": "Licenciatura en Economía", "anos_permanencia": 7, "alumnos": 4}, {"anio_ingreso": 2006, "propuesta": "Contador Público", "anos_permanencia": 6, "alumnos": 94}, {"anio_ingreso": 2006, "propuesta": "Licenciatura en Administración", "anos_permanencia": 6, "alumnos": 25}, {"anio_ingreso": 2006, "propuesta": "Licenciatura en Economía", "anos_permanencia": 6, "alumnos": 5}, {"anio_ingreso": 2007, "propuesta": "Contador Público", "anos_permanencia": 5, "alumnos": 73}, {"anio_ingreso": 2007, "propuesta": "Licenciatura en Administración", "anos_permanencia": 5, "alumnos": 24}, {"anio_ingreso": 2007, "propuesta": "Licenciatura en Economía", "anos_permanencia": 5, "alumnos": 14}, {"anio_ingreso": 2008, "propuesta": "Contador Público", "anos_permanencia": 4, "alumnos": 33}, {"anio_ingreso": 2008, "propuesta": "Licenciatura en Administración", "anos_permanencia": 4, "alumnos": 13}, {"anio_ingreso": 2008, "propuesta": "Licenciatura en Economía", "anos_permanencia": 4, "alumnos": 9}, {"anio_ingreso": 2005, "propuesta": "Contador Público", "anos_permanencia": 8, "alumnos": 47}, {"anio_ingreso": 2005, "propuesta": "Licenciatura en Administración", "anos_permanencia": 8, "alumnos": 6}, {"anio_ingreso": 2005, "propuesta": "Licenciatura en Economía", "anos_permanencia": 8, "alumnos": 1}, {"anio_ingreso": 2006, "propuesta": "Contador Público", "anos_permanencia": 7, "alumnos": 62}, {"anio_ingreso": 2006, "propuesta": "Licenciatura en Administración", "anos_permanencia": 7, "alumnos": 11}, {"anio_ingreso": 2006, "propuesta": "Licenciatura en Economía", "anos_permanencia": 7, "alumnos": 1}, {"anio_ingreso": 2007, "propuesta": "Contador Público", "anos_permanencia": 6, "alumnos": 85}, {"anio_ingreso": 2007, "propuesta": "Licenciatura en Administración", "anos_permanencia": 6, "alumnos": 22}, {"anio_ingreso": 2007, "propuesta": "Licenciatura en Economía", "anos_permanencia": 6, "alumnos": 8}, {"anio_ingreso": 2008, "propuesta": "Contador Público", "anos_permanencia": 5, "alumnos": 83}, {"anio_ingreso": 2008, "propuesta": "Licenciatura en Administración", "anos_permanencia": 5, "alumnos": 31}, {"anio_ingreso": 2008, "propuesta": "Licenciatura en Economía", "anos_permanencia": 5, "alumnos": 8}, {"anio_ingreso": 2009, "propuesta": "Contador Público", "anos_permanencia": 4, "alumnos": 22}, {"anio_ingreso": 2009, "propuesta": "Licenciatura en Administración", "anos_permanencia": 4, "alumnos": 12}, {"anio_ingreso": 2009, "propuesta": "Licenciatura en Economía", "anos_permanencia": 4, "alumnos": 6}, {"anio_ingreso": 2005, "propuesta": "Contador Público", "anos_permanencia": 9, "alumnos": 38}, {"anio_ingreso": 2005, "propuesta": "Licenciatura en Administración", "anos_permanencia": 9, "alumnos": 9}, {"anio_ingreso": 2006, "propuesta": "Contador Público", "anos_permanencia": 8, "alumnos": 54}, {"anio_ingreso": 2006, "propuesta": "Licenciatura en Administración", "anos_permanencia": 8, "alumnos": 11}, {"anio_ingreso": 2006, "propuesta": "Licenciatura en Economía", "anos_permanencia": 8, "alumnos": 5}, {"anio_ingreso": 2007, "propuesta": "Contador Público", "anos_permanencia": 7, "alumnos": 57}, {"anio_ingreso": 2007, "propuesta": "Licenciatura en Administración", "anos_permanencia": 7, "alumnos": 15}, {"anio_ingreso": 2007, "propuesta": "Licenciatura en Economía", "anos_permanencia": 7, "alumnos": 1}, {"anio_ingreso": 2008, "propuesta": "Contador Público", "anos_permanencia": 6, "alumnos": 91}, {"anio_ingreso": 2008, "propuesta": "Licenciatura en Administración", "anos_permanencia": 6, "alumnos": 28}, {"anio_ingreso": 2008, "propuesta": "Licenciatura en Economía", "anos_permanencia": 6, "alumnos": 2}, {"anio_ingreso": 2009, "propuesta": "Contador Público", "anos_permanencia": 5, "alumnos": 149}, {"anio_ingreso": 2009, "propuesta": "Licenciatura en Administración", "anos_permanencia": 5, "alumnos": 26}, {"anio_ingreso": 2009, "propuesta": "Licenciatura en Economía", "anos_permanencia": 5, "alumnos": 11}, {"anio_ingreso": 2010, "propuesta": "Contador Público", "anos_permanencia": 4, "alumnos": 42}, {"anio_ingreso": 2010, "propuesta": "Licenciatura en Administración", "anos_permanencia": 4, "alumnos": 7}, {"anio_ingreso": 2010, "propuesta": "Licenciatura en Economía", "anos_permanencia": 4, "alumnos": 5}, {"anio_ingreso": 2005, "propuesta": "Contador Público", "anos_permanencia": 10, "alumnos": 40}, {"anio_ingreso": 2005, "propuesta": "Licenciatura en Administración", "anos_permanencia": 10, "alumnos": 4}, {"anio_ingreso": 2005, "propuesta": "Licenciatura en Economía", "anos_permanencia": 10, "alumnos": 2}, {"anio_ingreso": 2006, "propuesta": "Contador Público", "anos_permanencia": 9, "alumnos": 46}, {"anio_ingreso": 2006, "propuesta": "Licenciatura en Administración", "anos_permanencia": 9, "alumnos": 14}, {"anio_ingreso": 2007, "propuesta": "Contador Público", "anos_permanencia": 8, "alumnos": 56}, {"anio_ingreso": 2007, "propuesta": "Licenciatura en Administración", "anos_permanencia": 8, "alumnos": 13}, {"anio_ingreso": 2007, "propuesta": "Licenciatura en Economía", "anos_permanencia": 8, "alumnos": 1}, {"anio_ingreso": 2008, "propuesta": "Contador Público", "anos_permanencia": 7, "alumnos": 79}, {"anio_ingreso": 2008, "propuesta": "Licenciatura en Administración", "anos_permanencia": 7, "alumnos": 30}, {"anio_ingreso": 2008, "propuesta": "Licenciatura en Economía", "anos_permanencia": 7, "alumnos": 2}, {"anio_ingreso": 2009, "propuesta": "Contador Público", "anos_permanencia": 6, "alumnos": 102}, {"anio_ingreso": 2009, "propuesta": "Licenciatura en Administración", "anos_permanencia": 6, "alumnos": 29}, {"anio_ingreso": 2009, "propuesta": "Licenciatura en Economía", "anos_permanencia": 6, "alumnos": 1}, {"anio_ingreso": 2010, "propuesta": "Contador Público", "anos_permanencia": 5, "alumnos": 98}, {"anio_ingreso": 2010, "propuesta": "Licenciatura en Administración", "anos_permanencia": 5, "alumnos": 18}, {"anio_ingreso": 2010, "propuesta": "Licenciatura en Economía", "anos_permanencia": 5, "alumnos": 6}, {"anio_ingreso": 2011, "propuesta": "Contador Público", "anos_permanencia": 4, "alumnos": 32}, {"anio_ingreso": 2011, "propuesta": "Licenciatura en Administración", "anos_permanencia": 4, "alumnos": 8}, {"anio_ingreso": 2011, "propuesta": "Licenciatura en Economía", "anos_permanencia": 4, "alumnos": 5}, {"anio_ingreso": 2005, "propuesta": "Contador Público", "anos_permanencia": 11, "alumnos": 29}, {"anio_ingreso": 2005, "propuesta": "Licenciatura en Administración", "anos_permanencia": 11, "alumnos": 7}, {"anio_ingreso": 2006, "propuesta": "Contador Público", "anos_permanencia": 10, "alumnos": 32}, {"anio_ingreso": 2006, "propuesta": "Licenciatura en Administración", "anos_permanencia": 10, "alumnos": 4}, {"anio_ingreso": 2007, "propuesta": "Contador Público", "anos_permanencia": 9, "alumnos": 41}, {"anio_ingreso": 2007, "propuesta": "Licenciatura en Administración", "anos_permanencia": 9, "alumnos": 5}, {"anio_ingreso": 2008, "propuesta": "Contador Público", "anos_permanencia": 8, "alumnos": 43}, {"anio_ingreso": 2008, "propuesta": "Licenciatura en Administración", "anos_permanencia": 8, "alumnos": 13}, {"anio_ingreso": 2009, "propuesta": "Contador Público", "anos_permanencia": 7, "alumnos": 68}, {"anio_ingreso": 2009, "propuesta": "Licenciatura en Administración", "anos_permanencia": 7, "alumnos": 26}, {"anio_ingreso": 2009, "propuesta": "Licenciatura en Economía", "anos_permanencia": 7, "alumnos": 8}, {"anio_ingreso": 2010, "propuesta": "Contador Público", "anos_permanencia": 6, "alumnos": 78}, {"anio_ingreso": 2010, "propuesta": "Licenciatura en Administración", "anos_permanencia": 6, "alumnos": 7}, {"anio_ingreso": 2010, "propuesta": "Licenciatura en Economía", "anos_permanencia": 6, "alumnos": 3}, {"anio_ingreso": 2011, "propuesta": "Contador Público", "anos_permanencia": 5, "alumnos": 84}, {"anio_ingreso": 2011, "propuesta": "Licenciatura en Administración", "anos_permanencia": 5, "alumnos": 23}, {"anio_ingreso": 2011, "propuesta": "Licenciatura en Economía", "anos_permanencia": 5, "alumnos": 15}, {"anio_ingreso": 2012, "propuesta": "Contador Público", "anos_permanencia": 4, "alumnos": 30}, {"anio_ingreso": 2012, "propuesta": "Licenciatura en Administración", "anos_permanencia": 4, "alumnos": 7}, {"anio_ingreso": 2012, "propuesta": "Licenciatura en Economía", "anos_permanencia": 4, "alumnos": 2}, {"anio_ingreso": 2005, "propuesta": "Contador Público", "anos_permanencia": 12, "alumnos": 11}, {"anio_ingreso": 2005, "propuesta": "Licenciatura en Administración", "anos_permanencia": 12, "alumnos": 3}, {"anio_ingreso": 2005, "propuesta": "Licenciatura en Economía", "anos_permanencia": 12, "alumnos": 1}, {"anio_ingreso": 2006, "propuesta": "Contador Público", "anos_permanencia": 11, "alumnos": 25}, {"anio_ingreso": 2006, "propuesta": "Licenciatura en Administración", "anos_permanencia": 11, "alumnos": 3}, {"anio_ingreso": 2007, "propuesta": "Contador Público", "anos_permanencia": 10, "alumnos": 24}, {"anio_ingreso": 2007, "propuesta": "Licenciatura en Administración", "anos_permanencia": 10, "alumnos": 3}, {"anio_ingreso": 2008, "propuesta": "Contador Público", "anos_permanencia": 9, "alumnos": 34}, {"anio_ingreso": 2008, "propuesta": "Licenciatura en Administración", "anos_permanencia": 9, "alumnos": 2}, {"anio_ingreso": 2009, "propuesta": "Contador Público", "anos_permanencia": 8, "alumnos": 55}, {"anio_ingreso": 2009, "propuesta": "Licenciatura en Administración", "anos_permanencia": 8, "alumnos": 21}, {"anio_ingreso": 2009, "propuesta": "Licenciatura en Economía", "anos_permanencia": 8, "alumnos": 3}, {"anio_ingreso": 2010, "propuesta": "Contador Público", "anos_permanencia": 7, "alumnos": 73}, {"anio_ingreso": 2010, "propuesta": "Licenciatura en Administración", "anos_permanencia": 7, "alumnos": 18}, {"anio_ingreso": 2010, "propuesta": "Licenciatura en Economía", "anos_permanencia": 7, "alumnos": 6}, {"anio_ingreso": 2011, "propuesta": "Contador Público", "anos_permanencia": 6, "alumnos": 94}, {"anio_ingreso": 2011, "propuesta": "Licenciatura en Administración", "anos_permanencia": 6, "alumnos": 17}, {"anio_ingreso": 2011, "propuesta": "Licenciatura en Economía", "anos_permanencia": 6, "alumnos": 11}, {"anio_ingreso": 2012, "propuesta": "Contador Público", "anos_permanencia": 5, "alumnos": 84}, {"anio_ingreso": 2012, "propuesta": "Licenciatura en Administración", "anos_permanencia": 5, "alumnos": 29}, {"anio_ingreso": 2012, "propuesta": "Licenciatura en Economía", "anos_permanencia": 5, "alumnos": 11}, {"anio_ingreso": 2013, "propuesta": "Contador Público", "anos_permanencia": 4, "alumnos": 57}, {"anio_ingreso": 2013, "propuesta": "Licenciatura en Administración", "anos_permanencia": 4, "alumnos": 2}, {"anio_ingreso": 2005, "propuesta": "Contador Público", "anos_permanencia": 13, "alumnos": 8}, {"anio_ingreso": 2005, "propuesta": "Licenciatura en Administración", "anos_permanencia": 13, "alumnos": 2}, {"anio_ingreso": 2005, "propuesta": "Licenciatura en Economía", "anos_permanencia": 13, "alumnos": 1}, {"anio_ingreso": 2006, "propuesta": "Contador Público", "anos_permanencia": 12, "alumnos": 16}, {"anio_ingreso": 2007, "propuesta": "Contador Público", "anos_permanencia": 11, "alumnos": 20}, {"anio_ingreso": 2007, "propuesta": "Licenciatura en Administración", "anos_permanencia": 11, "alumnos": 1}, {"anio_ingreso": 2008, "propuesta": "Contador Público", "anos_permanencia": 10, "alumnos": 18}, {"anio_ingreso": 2008, "propuesta": "Licenciatura en Administración", "anos_permanencia": 10, "alumnos": 3}, {"anio_ingreso": 2008, "propuesta": "Licenciatura en Economía", "anos_permanencia": 10, "alumnos": 1}, {"anio_ingreso": 2009, "propuesta": "Contador Público", "anos_permanencia": 9, "alumnos": 37}, {"anio_ingreso": 2009, "propuesta": "Licenciatura en Administración", "anos_permanencia": 9, "alumnos": 12}, {"anio_ingreso": 2009, "propuesta": "Licenciatura en Economía", "anos_permanencia": 9, "alumnos": 1}, {"anio_ingreso": 2010, "propuesta": "Contador Público", "anos_permanencia": 8, "alumnos": 51}, {"anio_ingreso": 2010, "propuesta": "Licenciatura en Administración", "anos_permanencia": 8, "alumnos": 14}, {"anio_ingreso": 2010, "propuesta": "Licenciatura en Economía", "anos_permanencia": 8, "alumnos": 10}, {"anio_ingreso": 2011, "propuesta": "Contador Público", "anos_permanencia": 7, "alumnos": 68}, {"anio_ingreso": 2011, "propuesta": "Licenciatura en Administración", "anos_permanencia": 7, "alumnos": 18}, {"anio_ingreso": 2011, "propuesta": "Licenciatura en Economía", "anos_permanencia": 7, "alumnos": 4}, {"anio_ingreso": 2012, "propuesta": "Contador Público", "anos_permanencia": 6, "alumnos": 68}, {"anio_ingreso": 2012, "propuesta": "Licenciatura en Administración", "anos_permanencia": 6, "alumnos": 14}, {"anio_ingreso": 2012, "propuesta": "Licenciatura en Economía", "anos_permanencia": 6, "alumnos": 8}, {"anio_ingreso": 2013, "propuesta": "Contador Público", "anos_permanencia": 5, "alumnos": 79}, {"anio_ingreso": 2013, "propuesta": "Licenciatura en Administración", "anos_permanencia": 5, "alumnos": 20}, {"anio_ingreso": 2013, "propuesta": "Licenciatura en Economía", "anos_permanencia": 5, "alumnos": 16}, {"anio_ingreso": 2014, "propuesta": "Contador Público", "anos_permanencia": 4, "alumnos": 56}, {"anio_ingreso": 2014, "propuesta": "Licenciatura en Administración", "anos_permanencia": 4, "alumnos": 7}, {"anio_ingreso": 2014, "propuesta": "Licenciatura en Economía", "anos_permanencia": 4, "alumnos": 2}, {"anio_ingreso": 2005, "propuesta": "Contador Público", "anos_permanencia": 14, "alumnos": 5}, {"anio_ingreso": 2005, "propuesta": "Licenciatura en Administración", "anos_permanencia": 14, "alumnos": 2}, {"anio_ingreso": 2006, "propuesta": "Contador Público", "anos_permanencia": 13, "alumnos": 12}, {"anio_ingreso": 2006, "propuesta": "Licenciatura en Administración", "anos_permanencia": 13, "alumnos": 3}, {"anio_ingreso": 2007, "propuesta": "Contador Público", "anos_permanencia": 12, "alumnos": 9}, {"anio_ingreso": 2007, "propuesta": "Licenciatura en Administración", "anos_permanencia": 12, "alumnos": 1}, {"anio_ingreso": 2008, "propuesta": "Contador Público", "anos_permanencia": 11, "alumnos": 14}, {"anio_ingreso": 2008, "propuesta": "Licenciatura en Administración", "anos_permanencia": 11, "alumnos": 2}, {"anio_ingreso": 2008, "propuesta": "Licenciatura en Economía", "anos_permanencia": 11, "alumnos": 1}, {"anio_ingreso": 2009, "propuesta": "Contador Público", "anos_permanencia": 10, "alumnos": 27}, {"anio_ingreso": 2009, "propuesta": "Licenciatura en Administración", "anos_permanencia": 10, "alumnos": 4}, {"anio_ingreso": 2009, "propuesta": "Licenciatura en Economía", "anos_permanencia": 10, "alumnos": 1}, {"anio_ingreso": 2010, "propuesta": "Contador Público", "anos_permanencia": 9, "alumnos": 35}, {"anio_ingreso": 2010, "propuesta": "Licenciatura en Administración", "anos_permanencia": 9, "alumnos": 9}, {"anio_ingreso": 2010, "propuesta": "Licenciatura en Economía", "anos_permanencia": 9, "alumnos": 1}, {"anio_ingreso": 2011, "propuesta": "Contador Público", "anos_permanencia": 8, "alumnos": 45}, {"anio_ingreso": 2011, "propuesta": "Licenciatura en Administración", "anos_permanencia": 8, "alumnos": 7}, {"anio_ingreso": 2011, "propuesta": "Licenciatura en Economía", "anos_permanencia": 8, "alumnos": 6}, {"anio_ingreso": 2012, "propuesta": "Contador Público", "anos_permanencia": 7, "alumnos": 70}, {"anio_ingreso": 2012, "propuesta": "Licenciatura en Administración", "anos_permanencia": 7, "alumnos": 12}, {"anio_ingreso": 2012, "propuesta": "Licenciatura en Economía", "anos_permanencia": 7, "alumnos": 7}, {"anio_ingreso": 2013, "propuesta": "Contador Público", "anos_permanencia": 6, "alumnos": 57}, {"anio_ingreso": 2013, "propuesta": "Licenciatura en Administración", "anos_permanencia": 6, "alumnos": 17}, {"anio_ingreso": 2013, "propuesta": "Licenciatura en Economía", "anos_permanencia": 6, "alumnos": 16}, {"anio_ingreso": 2014, "propuesta": "Contador Público", "anos_permanencia": 5, "alumnos": 80}, {"anio_ingreso": 2014, "propuesta": "Licenciatura en Administración", "anos_permanencia": 5, "alumnos": 22}, {"anio_ingreso": 2014, "propuesta": "Licenciatura en Economía", "anos_permanencia": 5, "alumnos": 10}, {"anio_ingreso": 2015, "propuesta": "Contador Público", "anos_permanencia": 4, "alumnos": 42}, {"anio_ingreso": 2015, "propuesta": "Licenciatura en Administración", "anos_permanencia": 4, "alumnos": 11}, {"anio_ingreso": 2015, "propuesta": "Licenciatura en Economía", "anos_permanencia": 4, "alumnos": 2}, {"anio_ingreso": 2005, "propuesta": "Contador Público", "anos_permanencia": 15, "alumnos": 4}, {"anio_ingreso": 2006, "propuesta": "Contador Público", "anos_permanencia": 14, "alumnos": 6}, {"anio_ingreso": 2007, "propuesta": "Contador Público", "anos_permanencia": 13, "alumnos": 7}, {"anio_ingreso": 2007, "propuesta": "Licenciatura en Administración", "anos_permanencia": 13, "alumnos": 2}, {"anio_ingreso": 2008, "propuesta": "Contador Público", "anos_permanencia": 12, "alumnos": 9}, {"anio_ingreso": 2008, "propuesta": "Licenciatura en Administración", "anos_permanencia": 12, "alumnos": 4}, {"anio_ingreso": 2009, "propuesta": "Contador Público", "anos_permanencia": 11, "alumnos": 29}, {"anio_ingreso": 2009, "propuesta": "Licenciatura en Administración", "anos_permanencia": 11, "alumnos": 1}, {"anio_ingreso": 2010, "propuesta": "Contador Público", "anos_permanencia": 10, "alumnos": 25}, {"anio_ingreso": 2010, "propuesta": "Licenciatura en Administración", "anos_permanencia": 10, "alumnos": 6}, {"anio_ingreso": 2010, "propuesta": "Licenciatura en Economía", "anos_permanencia": 10, "alumnos": 1}, {"anio_ingreso": 2011, "propuesta": "Contador Público", "anos_permanencia": 9, "alumnos": 52}, {"anio_ingreso": 2011, "propuesta": "Licenciatura en Administración", "anos_permanencia": 9, "alumnos": 7}, {"anio_ingreso": 2011, "propuesta": "Licenciatura en Economía", "anos_permanencia": 9, "alumnos": 2}, {"anio_ingreso": 2012, "propuesta": "Contador Público", "anos_permanencia": 8, "alumnos": 52}, {"anio_ingreso": 2012, "propuesta": "Licenciatura en Administración", "anos_permanencia": 8, "alumnos": 10}, {"anio_ingreso": 2012, "propuesta": "Licenciatura en Economía", "anos_permanencia": 8, "alumnos": 3}, {"anio_ingreso": 2013, "propuesta": "Contador Público", "anos_permanencia": 7, "alumnos": 65}, {"anio_ingreso": 2013, "propuesta": "Licenciatura en Administración", "anos_permanencia": 7, "alumnos": 12}, {"anio_ingreso": 2013, "propuesta": "Licenciatura en Economía", "anos_permanencia": 7, "alumnos": 9}, {"anio_ingreso": 2014, "propuesta": "Contador Público", "anos_permanencia": 6, "alumnos": 85}, {"anio_ingreso": 2014, "propuesta": "Licenciatura en Administración", "anos_permanencia": 6, "alumnos": 17}, {"anio_ingreso": 2014, "propuesta": "Licenciatura en Economía", "anos_permanencia": 6, "alumnos": 8}, {"anio_ingreso": 2015, "propuesta": "Contador Público", "anos_permanencia": 5, "alumnos": 93}, {"anio_ingreso": 2015, "propuesta": "Licenciatura en Administración", "anos_permanencia": 5, "alumnos": 19}, {"anio_ingreso": 2015, "propuesta": "Licenciatura en Economía", "anos_permanencia": 5, "alumnos": 14}, {"anio_ingreso": 2016, "propuesta": "Contador Público", "anos_permanencia": 4, "alumnos": 48}, {"anio_ingreso": 2016, "propuesta": "Licenciatura en Administración", "anos_permanencia": 4, "alumnos": 10}, {"anio_ingreso": 2005, "propuesta": "Contador Público", "anos_permanencia": 16, "alumnos": 4}, {"anio_ingreso": 2005, "propuesta": "Licenciatura en Economía", "anos_permanencia": 16, "alumnos": 1}, {"anio_ingreso": 2006, "propuesta": "Contador Público", "anos_permanencia": 15, "alumnos": 4}, {"anio_ingreso": 2007, "propuesta": "Contador Público", "anos_permanencia": 14, "alumnos": 3}, {"anio_ingreso": 2007, "propuesta": "Licenciatura en Administración", "anos_permanencia": 14, "alumnos": 1}, {"anio_ingreso": 2008, "propuesta": "Contador Público", "anos_permanencia": 13, "alumnos": 9}, {"anio_ingreso": 2009, "propuesta": "Contador Público", "anos_permanencia": 12, "alumnos": 12}, {"anio_ingreso": 2009, "propuesta": "Licenciatura en Administración", "anos_permanencia": 12, "alumnos": 1}, {"anio_ingreso": 2010, "propuesta": "Contador Público", "anos_permanencia": 11, "alumnos": 16}, {"anio_ingreso": 2010, "propuesta": "Licenciatura en Administración", "anos_permanencia": 11, "alumnos": 4}, {"anio_ingreso": 2011, "propuesta": "Contador Público", "anos_permanencia": 10, "alumnos": 16}, {"anio_ingreso": 2011, "propuesta": "Licenciatura en Administración", "anos_permanencia": 10, "alumnos": 2}, {"anio_ingreso": 2011, "propuesta": "Licenciatura en Economía", "anos_permanencia": 10, "alumnos": 1}, {"anio_ingreso": 2012, "propuesta": "Contador Público", "anos_permanencia": 9, "alumnos": 29}, {"anio_ingreso": 2012, "propuesta": "Licenciatura en Administración", "anos_permanencia": 9, "alumnos": 3}, {"anio_ingreso": 2012, "propuesta": "Licenciatura en Economía", "anos_permanencia": 9, "alumnos": 4}, {"anio_ingreso": 2013, "propuesta": "Contador Público", "anos_permanencia": 8, "alumnos": 41}, {"anio_ingreso": 2013, "propuesta": "Licenciatura en Administración", "anos_permanencia": 8, "alumnos": 14}, {"anio_ingreso": 2013, "propuesta": "Licenciatura en Economía", "anos_permanencia": 8, "alumnos": 2}, {"anio_ingreso": 2014, "propuesta": "Contador Público", "anos_permanencia": 7, "alumnos": 52}, {"anio_ingreso": 2014, "propuesta": "Licenciatura en Administración", "anos_permanencia": 7, "alumnos": 11}, {"anio_ingreso": 2014, "propuesta": "Licenciatura en Economía", "anos_permanencia": 7, "alumnos": 1}, {"anio_ingreso": 2015, "propuesta": "Contador Público", "anos_permanencia": 6, "alumnos": 67}, {"anio_ingreso": 2015, "propuesta": "Licenciatura en Administración", "anos_permanencia": 6, "alumnos": 19}, {"anio_ingreso": 2015, "propuesta": "Licenciatura en Economía", "anos_permanencia": 6, "alumnos": 11}, {"anio_ingreso": 2016, "propuesta": "Contador Público", "anos_permanencia": 5, "alumnos": 59}, {"anio_ingreso": 2016, "propuesta": "Licenciatura en Administración", "anos_permanencia": 5, "alumnos": 19}, {"anio_ingreso": 2016, "propuesta": "Licenciatura en Economía", "anos_permanencia": 5, "alumnos": 16}, {"anio_ingreso": 2017, "propuesta": "Contador Público", "anos_permanencia": 4, "alumnos": 44}, {"anio_ingreso": 2017, "propuesta": "Licenciatura en Administración", "anos_permanencia": 4, "alumnos": 2}, {"anio_ingreso": 2017, "propuesta": "Licenciatura en Economía", "anos_permanencia": 4, "alumnos": 2}, {"anio_ingreso": 2005, "propuesta": "Contador Público", "anos_permanencia": 17, "alumnos": 4}, {"anio_ingreso": 2007, "propuesta": "Contador Público", "anos_permanencia": 15, "alumnos": 4}, {"anio_ingreso": 2008, "propuesta": "Contador Público", "anos_permanencia": 14, "alumnos": 1}, {"anio_ingreso": 2009, "propuesta": "Contador Público", "anos_permanencia": 13, "alumnos": 9}, {"anio_ingreso": 2009, "propuesta": "Licenciatura en Administración", "anos_permanencia": 13, "alumnos": 3}, {"anio_ingreso": 2010, "propuesta": "Contador Público", "anos_permanencia": 12, "alumnos": 2}, {"anio_ingreso": 2011, "propuesta": "Contador Público", "anos_permanencia": 11, "alumnos": 13}, {"anio_ingreso": 2011, "propuesta": "Licenciatura en Administración", "anos_permanencia": 11, "alumnos": 7}, {"anio_ingreso": 2011, "propuesta": "Licenciatura en Economía", "anos_permanencia": 11, "alumnos": 1}, {"anio_ingreso": 2012, "propuesta": "Contador Público", "anos_permanencia": 10, "alumnos": 15}, {"anio_ingreso": 2012, "propuesta": "Licenciatura en Administración", "anos_permanencia": 10, "alumnos": 4}, {"anio_ingreso": 2012, "propuesta": "Licenciatura en Economía", "anos_permanencia": 10, "alumnos": 3}, {"anio_ingreso": 2013, "propuesta": "Contador Público", "anos_permanencia": 9, "alumnos": 25}, {"anio_ingreso": 2013, "propuesta": "Licenciatura en Administración", "anos_permanencia": 9, "alumnos": 3}, {"anio_ingreso": 2013, "propuesta": "Licenciatura en Economía", "anos_permanencia": 9, "alumnos": 3}, {"anio_ingreso": 2014, "propuesta": "Contador Público", "anos_permanencia": 8, "alumnos": 47}, {"anio_ingreso": 2014, "propuesta": "Licenciatura en Administración", "anos_permanencia": 8, "alumnos": 4}, {"anio_ingreso": 2014, "propuesta": "Licenciatura en Economía", "anos_permanencia": 8, "alumnos": 5}, {"anio_ingreso": 2015, "propuesta": "Contador Público", "anos_permanencia": 7, "alumnos": 38}, {"anio_ingreso": 2015, "propuesta": "Licenciatura en Administración", "anos_permanencia": 7, "alumnos": 10}, {"anio_ingreso": 2015, "propuesta": "Licenciatura en Economía", "anos_permanencia": 7, "alumnos": 2}, {"anio_ingreso": 2016, "propuesta": "Contador Público", "anos_permanencia": 6, "alumnos": 45}, {"anio_ingreso": 2016, "propuesta": "Licenciatura en Administración", "anos_permanencia": 6, "alumnos": 15}, {"anio_ingreso": 2016, "propuesta": "Licenciatura en Economía", "anos_permanencia": 6, "alumnos": 7}, {"anio_ingreso": 2017, "propuesta": "Contador Público", "anos_permanencia": 5, "alumnos": 64}, {"anio_ingreso": 2017, "propuesta": "Licenciatura en Administración", "anos_permanencia": 5, "alumnos": 22}, {"anio_ingreso": 2017, "propuesta": "Licenciatura en Economía", "anos_permanencia": 5, "alumnos": 9}, {"anio_ingreso": 2018, "propuesta": "Contador Público", "anos_permanencia": 4, "alumnos": 21}, {"anio_ingreso": 2018, "propuesta": "Licenciatura en Economía", "anos_permanencia": 4, "alumnos": 5}, {"anio_ingreso": 2006, "propuesta": "Contador Público", "anos_permanencia": 17, "alumnos": 3}, {"anio_ingreso": 2007, "propuesta": "Contador Público", "anos_permanencia": 16, "alumnos": 3}, {"anio_ingreso": 2008, "propuesta": "Contador Público", "anos_permanencia": 15, "alumnos": 6}, {"anio_ingreso": 2008, "propuesta": "Licenciatura en Administración", "anos_permanencia": 15, "alumnos": 1}, {"anio_ingreso": 2009, "propuesta": "Contador Público", "anos_permanencia": 14, "alumnos": 7}, {"anio_ingreso": 2009, "propuesta": "Licenciatura en Administración", "anos_permanencia": 14, "alumnos": 4}, {"anio_ingreso": 2009, "propuesta": "Licenciatura en Economía", "anos_permanencia": 14, "alumnos": 1}, {"anio_ingreso": 2010, "propuesta": "Contador Público", "anos_permanencia": 13, "alumnos": 6}, {"anio_ingreso": 2010, "propuesta": "Licenciatura en Administración", "anos_permanencia": 13, "alumnos": 6}, {"anio_ingreso": 2010, "propuesta": "Licenciatura en Economía", "anos_permanencia": 13, "alumnos": 1}, {"anio_ingreso": 2011, "propuesta": "Contador Público", "anos_permanencia": 12, "alumnos": 8}, {"anio_ingreso": 2011, "propuesta": "Licenciatura en Administración", "anos_permanencia": 12, "alumnos": 1}, {"anio_ingreso": 2011, "propuesta": "Licenciatura en Economía", "anos_permanencia": 12, "alumnos": 1}, {"anio_ingreso": 2012, "propuesta": "Contador Público", "anos_permanencia": 11, "alumnos": 7}, {"anio_ingreso": 2012, "propuesta": "Licenciatura en Administración", "anos_permanencia": 11, "alumnos": 6}, {"anio_ingreso": 2012, "propuesta": "Licenciatura en Economía", "anos_permanencia": 11, "alumnos": 1}, {"anio_ingreso": 2013, "propuesta": "Contador Público", "anos_permanencia": 10, "alumnos": 11}, {"anio_ingreso": 2013, "propuesta": "Licenciatura en Administración", "anos_permanencia": 10, "alumnos": 9}, {"anio_ingreso": 2014, "propuesta": "Contador Público", "anos_permanencia": 9, "alumnos": 19}, {"anio_ingreso": 2014, "propuesta": "Licenciatura en Administración", "anos_permanencia": 9, "alumnos": 8}, {"anio_ingreso": 2014, "propuesta": "Licenciatura en Economía", "anos_permanencia": 9, "alumnos": 1}, {"anio_ingreso": 2015, "propuesta": "Contador Público", "anos_permanencia": 8, "alumnos": 26}, {"anio_ingreso": 2015, "propuesta": "Licenciatura en Administración", "anos_permanencia": 8, "alumnos": 9}, {"anio_ingreso": 2015, "propuesta": "Licenciatura en Economía", "anos_permanencia": 8, "alumnos": 3}, {"anio_ingreso": 2016, "propuesta": "Contador Público", "anos_permanencia": 7, "alumnos": 31}, {"anio_ingreso": 2016, "propuesta": "Licenciatura en Administración", "anos_permanencia": 7, "alumnos": 18}, {"anio_ingreso": 2016, "propuesta": "Licenciatura en Economía", "anos_permanencia": 7, "alumnos": 7}, {"anio_ingreso": 2017, "propuesta": "Contador Público", "anos_permanencia": 6, "alumnos": 65}, {"anio_ingreso": 2017, "propuesta": "Licenciatura en Administración", "anos_permanencia": 6, "alumnos": 16}, {"anio_ingreso": 2017, "propuesta": "Licenciatura en Economía", "anos_permanencia": 6, "alumnos": 16}, {"anio_ingreso": 2018, "propuesta": "Contador Público", "anos_permanencia": 5, "alumnos": 54}, {"anio_ingreso": 2018, "propuesta": "Licenciatura en Administración", "anos_permanencia": 5, "alumnos": 23}, {"anio_ingreso": 2018, "propuesta": "Licenciatura en Economía", "anos_permanencia": 5, "alumnos": 9}, {"anio_ingreso": 2019, "propuesta": "Contador Público", "anos_permanencia": 4, "alumnos": 11}, {"anio_ingreso": 2019, "propuesta": "Licenciatura en Administración", "anos_permanencia": 4, "alumnos": 9}, {"anio_ingreso": 2019, "propuesta": "Licenciatura en Economía", "anos_permanencia": 4, "alumnos": 4}, {"anio_ingreso": 2005, "propuesta": "Contador Público", "anos_permanencia": 19, "alumnos": 2}, {"anio_ingreso": 2006, "propuesta": "Contador Público", "anos_permanencia": 18, "alumnos": 3}, {"anio_ingreso": 2007, "propuesta": "Contador Público", "anos_permanencia": 17, "alumnos": 4}, {"anio_ingreso": 2007, "propuesta": "Licenciatura en Administración", "anos_permanencia": 17, "alumnos": 1}, {"anio_ingreso": 2008, "propuesta": "Contador Público", "anos_permanencia": 16, "alumnos": 3}, {"anio_ingreso": 2008, "propuesta": "Licenciatura en Economía", "anos_permanencia": 16, "alumnos": 1}, {"anio_ingreso": 2009, "propuesta": "Contador Público", "anos_permanencia": 15, "alumnos": 9}, {"anio_ingreso": 2009, "propuesta": "Licenciatura en Administración", "anos_permanencia": 15, "alumnos": 2}, {"anio_ingreso": 2010, "propuesta": "Contador Público", "anos_permanencia": 14, "alumnos": 3}, {"anio_ingreso": 2010, "propuesta": "Licenciatura en Administración", "anos_permanencia": 14, "alumnos": 3}, {"anio_ingreso": 2011, "propuesta": "Contador Público", "anos_permanencia": 13, "alumnos": 7}, {"anio_ingreso": 2011, "propuesta": "Licenciatura en Administración", "anos_permanencia": 13, "alumnos": 3}, {"anio_ingreso": 2012, "propuesta": "Contador Público", "anos_permanencia": 12, "alumnos": 8}, {"anio_ingreso": 2012, "propuesta": "Licenciatura en Administración", "anos_permanencia": 12, "alumnos": 1}, {"anio_ingreso": 2012, "propuesta": "Licenciatura en Economía", "anos_permanencia": 12, "alumnos": 1}, {"anio_ingreso": 2013, "propuesta": "Contador Público", "anos_permanencia": 11, "alumnos": 18}, {"anio_ingreso": 2013, "propuesta": "Licenciatura en Administración", "anos_permanencia": 11, "alumnos": 4}, {"anio_ingreso": 2013, "propuesta": "Licenciatura en Economía", "anos_permanencia": 11, "alumnos": 1}, {"anio_ingreso": 2014, "propuesta": "Contador Público", "anos_permanencia": 10, "alumnos": 11}, {"anio_ingreso": 2014, "propuesta": "Licenciatura en Administración", "anos_permanencia": 10, "alumnos": 4}, {"anio_ingreso": 2015, "propuesta": "Contador Público", "anos_permanencia": 9, "alumnos": 28}, {"anio_ingreso": 2015, "propuesta": "Licenciatura en Administración", "anos_permanencia": 9, "alumnos": 10}, {"anio_ingreso": 2015, "propuesta": "Licenciatura en Economía", "anos_permanencia": 9, "alumnos": 3}, {"anio_ingreso": 2016, "propuesta": "Contador Público", "anos_permanencia": 8, "alumnos": 25}, {"anio_ingreso": 2016, "propuesta": "Licenciatura en Administración", "anos_permanencia": 8, "alumnos": 9}, {"anio_ingreso": 2016, "propuesta": "Licenciatura en Economía", "anos_permanencia": 8, "alumnos": 3}, {"anio_ingreso": 2017, "propuesta": "Contador Público", "anos_permanencia": 7, "alumnos": 28}, {"anio_ingreso": 2017, "propuesta": "Licenciatura en Administración", "anos_permanencia": 7, "alumnos": 11}, {"anio_ingreso": 2017, "propuesta": "Licenciatura en Economía", "anos_permanencia": 7, "alumnos": 10}, {"anio_ingreso": 2018, "propuesta": "Contador Público", "anos_permanencia": 6, "alumnos": 44}, {"anio_ingreso": 2018, "propuesta": "Licenciatura en Administración", "anos_permanencia": 6, "alumnos": 20}, {"anio_ingreso": 2018, "propuesta": "Licenciatura en Economía", "anos_permanencia": 6, "alumnos": 4}, {"anio_ingreso": 2019, "propuesta": "Contador Público", "anos_permanencia": 5, "alumnos": 40}, {"anio_ingreso": 2019, "propuesta": "Licenciatura en Administración", "anos_permanencia": 5, "alumnos": 16}, {"anio_ingreso": 2019, "propuesta": "Licenciatura en Economía", "anos_permanencia": 5, "alumnos": 10}, {"anio_ingreso": 2020, "propuesta": "Contador Público", "anos_permanencia": 4, "alumnos": 20}, {"anio_ingreso": 2020, "propuesta": "Licenciatura en Administración", "anos_permanencia": 4, "alumnos": 8}, {"anio_ingreso": 2020, "propuesta": "Licenciatura en Economía", "anos_permanencia": 4, "alumnos": 2}, {"anio_ingreso": 2019, "propuesta": "Licenciatura en Administración", "anos_permanencia": 6, "alumnos": 1}];
+
+        function inicializar() {
+            // Poblar filtros
+            const propuestas = [...new Set(datosGlobales.map(d => d.propuesta))].sort();
+            const cohortes = [...new Set(datosGlobales.map(d => d.anio_ingreso))].sort().reverse();
+            
+            const selectPropuesta = document.getElementById('propuestaFilter');
+            propuestas.forEach(prop => {
+                const option = document.createElement('option');
+                option.value = prop;
+                option.textContent = prop;
+                selectPropuesta.appendChild(option);
+            });
+
+            const selectCohorte = document.getElementById('cohorteFilter');
+            cohortes.forEach(cohorte => {
+                const option = document.createElement('option');
+                option.value = cohorte;
+                option.textContent = `Cohorte ${cohorte}`;
+                selectCohorte.appendChild(option);
+            });
+
+            // Event listeners
+            selectPropuesta.addEventListener('change', actualizarGrafico);
+            selectCohorte.addEventListener('change', actualizarGrafico);
+
+            // Renderizar gráfico inicial
+            actualizarGrafico();
+        }
+
+        function filtrarDatos() {
+            const propuestaSeleccionada = document.getElementById('propuestaFilter').value;
+            const cohorteSeleccionada = document.getElementById('cohorteFilter').value;
+
+            return datosGlobales.filter(d => {
+                const cumplePropuesta = propuestaSeleccionada === 'all' || d.propuesta === propuestaSeleccionada;
+                const cumpleCohorte = cohorteSeleccionada === 'all' || d.anio_ingreso.toString() === cohorteSeleccionada;
+                return cumplePropuesta && cumpleCohorte;
+            });
+        }
+
+        function actualizarGrafico() {
+            const datosFiltrados = filtrarDatos();
+
+            // Agrupar por años de permanencia (4-20 años)
+            const agrupado = {};
+            for (let i = 4; i <= 20; i++) {
+                agrupado[i] = 0;
+            }
+
+            datosFiltrados.forEach(d => {
+                const anos = d.anos_permanencia;
+                const alumnos = d.alumnos;
+                if (anos >= 4 && anos <= 20) {
+                    agrupado[anos] += alumnos;
+                }
+            });
+
+            const x = Object.keys(agrupado).map(Number);
+            const y = Object.values(agrupado);
+
+            // Calcular estadísticas
+            const totalEgresados = y.reduce((a, b) => a + b, 0);
+            
+            // Años promedio (ponderado)
+            let sumaProducto = 0;
+            x.forEach((anos, i) => {
+                sumaProducto += anos * y[i];
+            });
+            const anosPromedio = totalEgresados > 0 ? (sumaProducto / totalEgresados).toFixed(1) : 0;
+
+            // Mediana
+            const valores = [];
+            x.forEach((anos, i) => {
+                for (let j = 0; j < y[i]; j++) {
+                    valores.push(anos);
+                }
+            });
+            valores.sort((a, b) => a - b);
+            const mediana = valores.length > 0 ? valores[Math.floor(valores.length / 2)] : 0;
+
+            // Moda
+            const maxCantidad = Math.max(...y);
+            const indiceModa = y.indexOf(maxCantidad);
+            const moda = maxCantidad > 0 ? x[indiceModa] : 0;
+
+            // Actualizar estadísticas
+            document.getElementById('totalEgresados').textContent = totalEgresados.toLocaleString('es-AR');
+            document.getElementById('anosPromedio').textContent = anosPromedio;
+            document.getElementById('mediana').textContent = mediana + ' años';
+            document.getElementById('moda').textContent = moda + ' años';
+
+            // Crear gráfico
+            const trace = {
+                x: x,
+                y: y,
+                type: 'bar',
+                marker: {
+                    color: '#5dade2',
+                    line: {
+                        color: '#3498db',
+                        width: 1.5
+                    }
+                },
+                text: y.map(val => val > 0 ? val.toLocaleString('es-AR') : ''),
+                textposition: 'outside',
+                textfont: {
+                    size: 10,
+                    color: '#2c3e50',
+                    family: 'Arial, sans-serif'
+                },
+                hovertemplate: '<b>%{x} años de permanencia</b><br>' +
+                               'Cantidad de egresados: %{y}<br>' +
+                               '<extra></extra>'
+            };
+
+            const layout = {
+                title: {
+                    text: 'Años de permanencia de los egresados (en cantidad de egresados)',
+                    font: { 
+                        size: 16, 
+                        color: '#2c3e50',
+                        family: 'Arial, sans-serif'
+                    },
+                    x: 0.5,
+                    xanchor: 'center'
+                },
+                xaxis: {
+                    title: {
+                        text: 'Años de permanencia',
+                        font: { size: 14, color: '#34495e' }
+                    },
+                    tickmode: 'linear',
+                    tick0: 4,
+                    dtick: 1,
+                    range: [3.5, 20.5],
+                    gridcolor: '#ecf0f1',
+                    showline: true,
+                    linecolor: '#bdc3c7',
+                    linewidth: 2
+                },
+                yaxis: {
+                    title: {
+                        text: 'Cantidad de egresados',
+                        font: { size: 14, color: '#34495e' }
+                    },
+                    gridcolor: '#ecf0f1',
+                    showline: true,
+                    linecolor: '#bdc3c7',
+                    linewidth: 2
+                },
+                plot_bgcolor: 'white',
+                paper_bgcolor: 'white',
+                hovermode: 'closest',
+                bargap: 0.2,
+                margin: { t: 70, b: 70, l: 80, r: 40 },
+                font: {
+                    family: 'Arial, sans-serif'
+                }
+            };
+
+            const config = {
+                displayModeBar: true,
+                displaylogo: false,
+                modeBarButtonsToRemove: ['pan2d', 'lasso2d', 'select2d', 'autoScale2d'],
+                toImageButtonOptions: {
+                    format: 'png',
+                    filename: 'histograma_egresados_fce',
+                    height: 600,
+                    width: 1200,
+                    scale: 2
+                },
+                locale: 'es'
+            };
+
+            Plotly.newPlot('chart', [trace], layout, config);
+        }
+
+        // Iniciar la aplicación
+        inicializar();
+    </script>
+</body>
+</html>

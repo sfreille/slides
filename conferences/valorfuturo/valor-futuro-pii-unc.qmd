@@ -1,0 +1,137 @@
+---
+title: "&nbsp;"
+title-slide-attributes:
+  data-background-image: logo-pii-unc-modernizacion.png
+  data-background-size: contain
+  data-background-opacity: "1"
+  data-background-color: "#620b32"
+subtitle: "&nbsp;"
+author: "&nbsp;"
+format:
+  revealjs:
+    css: sytle.css
+    width: 1280
+    center-slide: true
+    slide-number: true
+    chalkboard: true
+    preview-links: auto
+    logo: logo-pii-unc.png
+    footer: "Secretaría de Bienestar y Modernización [UNC]"
+---
+
+# **Programa de Inteligencia Institucional [UNC-$\pi$i]** {background=#00345E}
+
+## Programa de Inteligencia Institucional
+
+- Creado en 2023 en la **Secretaría de Bienestar y
+  Modernización (BiMo)**
+  - **espacio centralizado de articulación inter-facultades para la
+    co-gestión** de datos, indicadores y trayectorias de actividad
+    académica
+- Contiene varias iniciativas entre las cuales se
+  encuentran
+  - **Portal de Transparencia de la UNC** $\longrightarrow$
+    [Portal  de   Transparencia de la UNC](https://transparencia.unc.edu.ar/)
+  - **Plataforma de Identidad UNC**: perfil digital y plataforma MiUNC
+  - **Mesas de gestión de datos centralizadas**: mesas de trabajo temáticas
+
+##  Programa de Inteligencia Institucional (cont.)
+
+> **Propósito y objetivo.** Constituir un espacio centralizado para la
+confluencia de criterios y esfuerzos respecto de la identificación,
+definición y producción coordinada y planificada de información de
+utilidad para la toma de decisiones basadas en datos y evidencias y
+para el fomento de la gobernanza y la transparencia en el ámbito de la UNC. 
+
+## Programa de Inteligencia Institucional (cont.)
+
+- Dinámica de **mesas de trabajo** --académica, institucional,
+  posgrado.
+- La **mesa académica** espacio de encuentro de secretarios
+  académicos. Reuniones periódicas. Trabaja en 3 (tres) ejes:
+  1. Definición de **dimensiones estratégicas**
+  2. Homogeneización de **criterios conceptuales y metodológicos**
+  3. Formato de **presentación y visualización**
+
+## Dimensiones estratégicas
+
+- Se identificaron **4 (cuatro) dimensiones** para seguimiento
+  1. Composición y tipología de población estudiantil
+     $\longrightarrow$ **TT1-Estudiantes**
+  2. Desgranamiento y retención de estudiantes $\longrightarrow$ **TT2-Desgranamiento**
+  3. Rendimiento y desempeño de estudiantes
+     $\longrightarrow$ **TT3-Rendimiento**
+  4. Composición y tipología de la planta de personal
+     $\longrightarrow$ **TT4-Personal**
+
+## Homogeneización criterios y prácticas
+
+- La mesa académica gestiona y produce indicadores, visualizaciones y
+  tableros a **dos niveles de desagregación**:
+  1. Unidad académica --i.e facultad y colegios universitarios
+  2. Area central --i.e. Universidad
+- Existe **heterogeneidad de prácticas y criterios**:
+  1. **Inter-facultades** --i.e. condiciones de cursada (categorías), tiempos de
+     registración, actas de promoción
+  2. **Intra-facultades**  --i.e. condiciones de cursada (carga manual)
+
+## Homogeneización criterios y prácticas (cont.)
+
+- Diseño y desarrollo de **fichas de metadatos**:
+  - contribuye a **comparabilidad intra-UNC**
+  - permite **trazabilidad y evolución** en el tiempo
+  - posibilita **comparabilidad extra-UNC**
+- Sistema centralizado con criterios y categorías homogéneas y
+  unificadas
+  - tiene en cuenta **necesidades de unidades académicas como de área
+    central**
+
+## Homogeneización criterios y prácticas (cont.)
+
+::: {layout-ncol=2}
+![Ficha de metadatos modelo (a)](fichas-001.png)
+
+![Ficha de metadatos modelo (b)](fichas-002.png)
+:::
+
+## Formato de visualización y accesibilidad
+
+- Naturaleza diferente de otros componentes del Pii-UNC (portal del
+  transparencia)
+- Se acordó diseñar un **sistema de tableros interactivos** integrados
+  para un **acceso ágil, intuitivo y flexible:**
+  1. **Tableros sintéticos (TS):** visión ejecutiva, rápida, visual
+  2. **Tableros temáticos  (TT):** análisis granular y especializado
+
+# **Tablero académico [UNC-$\pi$i]** {background=#00345E}
+
+## Tablero académico (cont.)
+
+- Tableros online con acceso de usuarios y claves a autoridades y
+  secretarias académicas
+  1. Superset Apache
+  2. Proyectos experimentales en otros formatos (Shiny, Tableau)
+- Acceso al tablero: [acceso a Superset via keycloack](https://superset.psi.unc.edu.ar/superset/dashboard/134/)
+
+## Tablero académico
+
+![Tablero Académico - Tablero Sintético (tiempo real)](tablero-academico-001.png){#fig:03001 width=100%}
+
+
+## Tablero académico
+
+![Tablero Académico - Tablero Temático: Desgranamiento](tablero-academico-002.png){#fig:03001 width=100%}
+
+
+# **Proyectos experimentales [UNC-$\pi$i]** {background=#00345E}
+
+## Tableros experimentales
+
+- Análisis integrados de dimensiones y temas específicos con mayor
+  profundidad y herramientas analíticas
+- Ejemplo $\longrightarrow$ distribución de **universo de egresados** según sus años de permanencia en la facultad
+  - Acceso a app Shiny: [acceso a app análisis de egresados](https://sfreille.shinyapps.io/egresados-fce/)
+- Otros proyectos en curso en relación a cursadas y examenes
+
+
+
