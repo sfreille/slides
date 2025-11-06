@@ -21,267 +21,204 @@ format:
     link-external-newwindow: true
 ---
 
-# Análisis avanzado de información presupuestaria {background="#390040"}
+# **Ejecución presupuestaria** {background="#390040"}
 
-## Elementos de análisis presupuestario
+## Registración de ingresos y gastos
 
-- Existen 5 (cinco) elementos e instrumentos principales para
-  **analizar un presupesto:**
-  1. Ecuación fundamental
-  2. Clasificadores de ingresos y gastos $\longrightarrow$
-     clasificaciones presupuestarias
-  3. Esquema-ahorro-inversión financiamiento
-  4. Modificaciones presupuestarias
-  5. Etapas de registración del gasto
+- A lo largo de todo el proceso presupuestario, los recursos y los gastos se van asignando y contabilizando en diferentes momentos.
+- Los **momentos contables** son las etapas secuenciales relacionadas con la previsión y la ejecución de los gastos e ingresos.
 
-## Ecuación fundamental
+## Registración de ingresos y gastos (cont.)
 
-- Al igual que todos los agentes económicos, el sector público también
-  enfrenta una **restricción presupuestaria** 
+![Gasto total del gobierno general como porcentaje del PBI](fig/uni3-001.png){fig-align="center"}
 
-\begin{align}
-I_{t}-G_{t}=RP_{t}
-\end{align}
+## Criterios de registración de ingresos
 
-- donde $I$ son ingresos, $G$ son gastos y $RP$ es el resultado del
-  sector público, o simplemente, resultado primario. Este puede ser: 
-  1. Superávit $\longrightarrow$ ingresos mayores a los gastos
-  2. Déficit $\longrightarrow$ gastos mayores a los ingresos
-  3. Equilibrio $\longrightarrow$ ingresos iguales a los gastos
-  
-  
-## Ecuación fundamental (cont.)
+- Los ingresos públicos se registran en dos momentos:
+  - **Presupuestado:** lo que se estima recaudar, según la Ley de Presupuesto.
+  - **Recaudación:** cuando los fondos efectivamente ingresan a la Administración Pública.
+- **Ejemplo - Momento de registración de un IMPUESTO** 
+  - **Presupuestado:** el gobierno, en función del nivel de actividad económica e inflación que espera para el año siguiente, presupuesta el monto que estima recaudar de impuestos.
+  - **Recaudación:** cuando el contribuyente paga el monto correspondiente al impuesto y el dinero efectivamente ingresa en la cuenta del gobierno.
 
-- La ecuación anterior suele ser conocida como **resultado fiscal
-  primario**. Existe otra versión como la siguiente: 
+## Criterios de registración del gasto
 
-\begin{align}
-I_{t}-G_{t}-INT_{t-1}=RF_{t}
-\end{align}
+- Los gastos públicos se registran en cuatro momentos:
+  - **Presupuesto:** lo que se proyecta gastar, según la Ley de Presupuesto.
+  - **Compromiso:** relación jurídica que dará lugar a una eventual salida de fondos. De carácter preventivo (está sujeta a la efectiva contraprestación).
+  - **Devengamiento:** cuando por una relación jurídica se establece una obligación de la Administración.
+  - **Pago:** Cuando los fondos efectivamente salen de la oficina de la Administración.
 
-- donde $INT$ son intereses de la deuda pública y $RF$ es resultado
-  financiero. 
+## Criterios de registración del gasto (cont.)
 
-## Ecuación fundamental (cont.)
+- **EJEMPLO. Momentos de registración de la compra de una computadora**
+  - Al confeccionar el presupuesto para el año 2023, se prevé la compra de una computadora, por la que estima gastar \$ 150.000.
+    - **PRESUPUESTO 2023:** \$ 150.000
+  - A fines de mayo, se requiere la computadora, por lo que emite una orden de compra, solicitando así que se lleve adelante dicha adquisición.
+    - **COMPROMETIDO Mayo 2023:** \$150.000
 
-- En términos económicos, sin embargo, la restricción presupuestaria
-  del sector público viene dada y entendida en términos
-  intertemporales
+## Criterios de registración del gasto (cont.)
 
-\begin{align}
-G_{t}-I_{t}+INT_{t-1}=B_{t}-B_{t-1}+M_{t}-M_{t-1}
-\end{align}
+- **EJEMPLO. Momentos de registración de la compra de una computadora**
+  - A los 15 días, llega a la oficina la computadora. Desde este momento, el fisco tiene la obligación de abonar por dicho bien. Emite una orden de pago por el monto adeudado.
+    - **DEVENGADO Junio 2023:** \$150.000
+  - A la semana, se transfiere desde la cuenta del gobierno a la cuenta del proveedor el dinero adeudado.
+    - **PAGADO Junio 2023:** \$150.000
 
-- donde $B$ son bonos públicos y $M$ emisión monetaria, muestra que
-  los requerimientos nominales de financiamiento del sector público --déficit fiscal primario mas intereses de la deuda-
-  deben proveni **de un aumento de la deuda** o **de un aumento de la emisión**. 
+## Deuda flotante
 
-## Clasificaciones presupuestarias
+- Diferencias entre los diferentes momentos de registración del gasto dan origen a otro concepto trascendental, que es el de la **Deuda Flotante**.
+- La Deuda flotante es una **deuda de muy corto plazo** y se calcula como la diferencia entre el gasto efectivamente pagado y el gasto devengado.
 
-- Son instrumentos normativos agrupan los recursos y gastos de acuerdo
-  a ciertos criterios
-- Conforman un sistema de informacion ajustado a necesidades de
-  gobierno y de organismos internacionales
-- Se considera como **ingreso** toda transacción que implique la
-  utilización de un medio de financiamiento (fuente de fondos)
-- Se considera como **gasto** toda transacción que implica una aplicación
-  financiera (uso de fondos) 
-- Permiten discernir más claramente aspectos fundamentales como el
-  tamaño, la estructura y al evolución. 
+## Deuda flotante (cont.)
 
-## Clasificaciones presupuestarias (cont.)
+![Deuda flotante: devengado menos pagado](fig/uni3-002.png){fig-align="center"}
 
-- Los gastos públicos se suelen clasificar: 
-  1. Por ubicación geográfica
-  2. Por objeto
-  3. Por su carácter económico
-  4. Por finalidad y función
-  5. Por categoría programática
-  6. Por  fuente de financiamiento
+## Deuda flotante (cont.)
 
-## Clasificaciones presupuestarias (cont.)
-
-- Los **gastos corrientes** son los pagos que se deben realizar en
-  forma indispensable para el correcto y normal desenvolvimiento de
-  los servicios públicos y de la administración en general, como ser
-  gastos de consumo (reparación de edificios, renovación de bienes
-  muebles, etc.) o retribuciones de servicios (sueldos, salarios,
-  gastos bancarios, intereses de la deuda, etc.).
-- Los **gastos de capital** son todas aquellas erogaciones del
-  gobierno que significan un incremento del patrimonio público. Pueden
-  ser erogaciones destinadas a la adquisición, a la producción o a la
-  construcción de bienes materiales o inmateriales, o inversiones
-  financieras que sirven para la producción de bienes y servicios.
-
-## Clasificaciones presupuestarias (cont.)
-
-- Los recursos públicos se suelen clasificar: 
-  1. Por rubros
-  2. Por su caracter económico
-  
-
-## Clasificaciones presupuestarias (cont.)
-
-- Los principales **ingresos corrientes** del nivel provincial son:
-  1. Ingresos impositivos: 1) IIBB, 2) Imp. Inmobiliario, 3)
-     Imp. Sellos, 4) Imp. Automotor, 5) Imp. Embarcaciones
-  2. Ingresos no impositivos $\longrightarrow$ tasas, derechos, multas
-  3. Transferencias corrientes: desde Nación y otros organismos
-  4. Venta de bienes y servicios: bienes y servicios que la provincia
-     presta
-  5. Rentas de la propiedad: alquileres percibidos, intereses
-
-## Clasificaciones presupuestarias (cont.)
-
-- Los principales **ingresos de capital** del nivel provincial son:
-  1. Transferencias de capital: de otros niveles y organismos para
-     financiar obras, inversiones y demás
-  2. Recupero de préstamos: ingresos obtenidos por amortización de
-     préstamos dados con anteriores
-  3. Venta de activos: ingresos por venta de edificios y terrenos, de patentes y marcas. 
+![Evolución deuda flotante](fig/uni3-003.png){fig-align="center"}
 
 
-## Esquema AIF 
+# **Resultado y deuda** {background="#390040"}
 
-- El **esquema ahorro-inversión-financiamiento (AIF) es un estado
-  financiero** que reúne todos los **flujos de ingresos y gastos** cuya estructura facilita el análisis del impacto económico de
-  la gestión gubernamental
-- Su objetivo es ordenar las cuentas públicas de modo de **permitir su
-  análisis económico y evaluar las repercusiones de las transacciones
-  financieras** del sector público en la economía en general
-- Surge de relacionar la **clasificación económica de recursos y gastos** 
+## Resultado y deuda
 
-## Esquema AIF (cont.)
+![Resultados corriente y financiero](fig/uni3-004.png){fig-align="center"}
 
-<div style="font-size: 0.5em;">
+## Resultado y deuda (cont.)
 
-<style>
-.tabla-ahorro table {
-  table-layout: fixed;
-  width: 100%;
-}
-.tabla-ahorro th:first-child,
-.tabla-ahorro td:first-child {
-  width: 40%;
-  word-wrap: break-word;
-}
-.tabla-ahorro th:not(:first-child),
-.tabla-ahorro td:not(:first-child) {
-  width: 14%;
-  word-wrap: break-word;
-}
-</style>
-
-<div class="tabla-ahorro">
-
-| CONCEPTO | Administración Central | Organismos Descentralizados | Fondos Fiduciarios | Institutos de Seguridad Social | TOTAL |
-|----------|------------------------|----------------------------|-------------------|-------------------------------|-------|
-| **I. INGRESOS CORRIENTES** | 1.000 | 320 | 120 | 115 | 1.555 |
-| **II. GASTOS CORRIENTES** | 850 | 280 | 98 | 120 | 1.348 |
-| **III. RESULTADO ECONÓMICO (I-II)** | 150 | 40 | 22 | -5 | 207 |
-| **IV. INGRESOS DE CAPITAL** | 230 | 130 | 225 | 3 | 588 |
-| **V. GASTOS DE CAPITAL** | 280 | 125 | 230 | 5 | 640 |
-| **VI. INGRESOS TOTALES (I+IV)** | 1.230 | 450 | 345 | 118 | 2.143 |
-| **VII. GASTOS TOTALES (II+V)** | 1.130 | 405 | 328 | 125 | 1.988 |
-| **VIII. RESULTADO FINANCIERO PREVIO CONTRIBUCIONES Y GASTOS FIGURATIVOS** | 100 | 45 | 17 | -7 | 155 |
-| . Contribuciones Figurativas | - | 25 | 10 | 7 | 42 |
-| . Gastos Figurativos | 42 | - | - | - | 42 |
-| **VIII. RESULTADO FINANCIERO (I+IV-II-V)** | 58 | 70 | 27 | 0 | 155 |
-
-</div>
-
-</div>
-
-## Esquema AIF (cont.)
-
-> Las contribuciones figurativas y los gastos figurativos son
-transacciones entre los diferentes universos que consolida la APMNF. El total de contribuciones figurativas y el total de gastos
-figurativos deberán coincidir, esto significa que al sumarse
-contribuciones figurativas y restarse gastos figurativos el resultado
-es cero. En el caso de haber contribuciones figurativas o gastos
-figurativos con organismos que no consolidan (ejemplo alguna empresa
-estatal) la contribución de esa empresa hacia la APMNF deberán figurar
-en Ingresos - transferencias corrientes o de capital- y los fondos que
-la APMNF transfiere a ese organismo se deberán imputar en gastos transferencias corrientes o de capital según corresponda. 
-
-## Esquema AIF (cont.)
-
-- Los resultados que surgen de la cuenta --ahorro/desahorro; resultado
-  primario; resultado financiero
-  - indicadores resumen de la política fiscal
-- Los recursos y gastos públicos se distinguen según se ubiquen:
-  1. Por encima de la línea $\longrightarrow$ se colocan los **recursos
-     y gastos**, tanto corrientes como de capital
-  2. Por debajo de la línea $\longrightarrow$ se colocan las **fuentes y
-     aplicaciones financieras** --determinan el tamaño, estructura y
-     evolución de la deuda pública
-
-## Esquema AIF (cont.)
-
-> Un aspecto clave del esquema AIF es que permite relacionar el
-déficit o superávit financiero con las fuentes y aplicaciones. A
-grandes rasgos, si el resultado es un superávit, deberá analizarse en
-que se aplicará dicho excedente, mientras que si el resultado es un déficit, deben encontrarse fuentes financieras que permitan cubrirlo. En
-resumen, la suma del resultado financiero, las fuentes financieras y
-las aplicaciones financieras (con signo negativo) debe ser igual a cero
-
-## Esquema AIF (cont.)
-
-<div style="font-size: 0.5em;">
-
-<style>
-.tabla-ahorro2 table {
-  table-layout: fixed;
-  width: 100%;
-}
-.tabla-ahorro2 th:first-child,
-.tabla-ahorro2 td:first-child {
-  width: 40%;
-  word-wrap: break-word;
-}
-.tabla-ahorro2 th:not(:first-child),
-.tabla-ahorro2 td:not(:first-child) {
-  width: 14%;
-  word-wrap: break-word;
-}
-
-.tabla-ahorro2 tbody tr:nth-last-child(-n+3) {
-  color: blue;
-  font-weight: bold;
-}
-</style>
-
-<div class="tabla-ahorro2">
-
-| CONCEPTO | Administración Central | Organismos Descentralizados | Fondos Fiduciarios | Institutos de Seguridad Social | TOTAL |
-|----------|------------------------|----------------------------|-------------------|-------------------------------|-------|
-| **I. INGRESOS CORRIENTES** | 1.000 | 320 | 120 | 115 | 1.555 |
-| **II. GASTOS CORRIENTES** | 850 | 280 | 98 | 120 | 1.348 |
-| **III. RESULTADO ECONÓMICO (I-II)** | 150 | 40 | 22 | -5 | 207 |
-| **IV. INGRESOS DE CAPITAL** | 230 | 130 | 225 | 3 | 588 |
-| **V. GASTOS DE CAPITAL** | 280 | 125 | 230 | 5 | 640 |
-| **VI. INGRESOS TOTALES (I+IV)** | 1.230 | 450 | 345 | 118 | 2.143 |
-| **VII. GASTOS TOTALES (II+V)** | 1.130 | 405 | 328 | 125 | 1.988 |
-| **VIII. RESULTADO FINANCIERO PREVIO CONTRIBUCIONES Y GASTOS FIGURATIVOS** | 100 | 45 | 17 | -7 | 155 |
-| . Contribuciones Figurativas | - | 25 | 10 | 7 | 42 |
-| . Gastos Figurativos | 42 | - | - | - | 42 |
-| **VIII. RESULTADO FINANCIERO (I+IV-II-V)** | 58 | 70 | 27 | 0 | 155 |
-| **IX. FINANCIAMIENTO NETO** | -58 | -70 | -27 | 0 | -155 |
-| **X. FUENTES FINANCIERAS** | 130 | 153 | 21 | 0 | 304 |
-| **XI. APLICACIONES FINANCIERAS** | 188 | 223 | 48 | 0 | 459 |
+![Stock de deuda (porcentaje de ingresos corrientes)](fig/uni3-005.png){fig-align="center"}
 
 
-</div>
+# **Transferencias a municipios** {background="#390040"}
 
-</div>
+## Transferencias a municipios
 
-## Esquema AIF (cont.)
+![Mirando descentralización provincia-municipios (inter-departamento)](fig/uni3-006.png){fig-align="center"}
 
-- Los principales componentes de las fuentes financieras son:
-  1. Disminución de la inversión financiera
-  2. Endeudamiento público y aumento de otros pasivos
-  3. Ajuste al patrimonio
-- Los principales componentes de las aplicaciones financieras son:
-  1. Incremento de la inversión financiera 
-  2. Amortización de deuda y disminución de otros pasivos
+## Transferencias a municipios (cont.)
+
+- Principales fondos de transferencias a municipios:
+  - **FOFINDES:** Fondo de Financiamiento de la Descentralización de la Salud
+  - **FASAMU:** Fondo Anticrisis y Saneamiento Municipal
+  - **FODEMEEP:** Fondo para la Descentralización del Mantenimiento de Edificios Escolares Provinciales
+- Existen otros fondos, algunos van desapareciendo y otros nuevos se
+  van creando 
+
+## Transferencias a municipios (cont.)
+
+![Mirando todos los gobiernos locales (intra-departamento)](fig/uni3-007.png){fig-align="center"}
+
+
+# **Análisis avanzado de información presupuestaria** {background="#390040"}
+
+## Reglas fiscales: ¿Qué es una Regla Fiscal?
+
+- Es una **restricción permanente para la política fiscal**, la cual se refleja en un indicador de desempeño fiscal.
+- El objetivo de la Regla Fiscal es alcanzar una **solidez económica** a lo largo del tiempo, promoviendo la disciplina fiscal evitando así la incertidumbre que genera la intervención discrecional.
+
+## Tipos de reglas fiscales
+
+- Existen dos criterios para clasificar las Reglas Fiscales:
+  - **Por Límite:**
+    - **Numéricas:** limitan o restringen un indicador fiscal.
+    - **Procedimiento:** consisten en las pautas con las que se rigen los diversos agentes económicos dentro del contexto presupuestario.
+    - **Transparencia:** consisten en las buenas prácticas implementadas para que exista un buen gobierno y transparencia fiscal.
+  - **Por Indicador Fiscal**
+    - deuda; equilibrio presupuestario; equilibrio presupuestario
+      estructural; etc
+
+
+## Reglas fiscales: ventajes
+
+- **Disciplina Fiscal** para reducir el sesgo hacia el Déficit Fiscal
+- Aumenta nivel de **credibilidad**
+- Agentes económicos están **más y mejor informados**
+- **Consistencia en el tiempo**
+
+## Reglas fiscales: desventajas
+
+- La credibilidad de las políticas públicas se ven afectadas en el caso que no exista un compromiso político para aplicar una política disciplinada o no cumpla los requisitos necesarios para que ésta sea sostenible
+- Las reglas numéricas especialmente las que limitan el déficit y la deuda pueden **dificultar el desarrollo de políticas contra-cíclicas**
+- Las reglas fiscales pueden estimular a la contabilidad "creativa", para cumplir con la regla y restar transparencia a la política fiscal
+
+## Reglas fiscales: diseño y características
+
+- **Diseño:**
+  - Un vínculo certero y estable entre el objetivo numérico y el objetivo final
+  - Suficiente flexibilidad para responder a los shocks. Es necesario hacer la distinción entre choques temporales y permanentes
+  - Un mecanismo institucional claro para mapear las desviaciones de los objetivos numéricos para ejercer medidas correctivas
+
+## Reglas fiscales: diseño y características (cont.)
+
+- **Características:**
+  - **Transparencia:** debe ser de fácil entendimiento
+  - **Consistencia:** debe estar acorde con el tamaño óptimo del estado
+  - **Credibilidad:** Compromiso político para elevar el grado de confianza en los agentes económicos
+  - **Obligatoriedad:** un incumplimiento de la regla lleva a la aplicación de sanciones
+
+## Reglas fiscales: la experiencia argentina
+
+> *¿PARA QUÉ SIRVEN LAS REGLAS FISCALES? UN ANÁLISIS CRÍTICO DE LA EXPERIENCIA ARGENTINA.* Miguel Braun y Nicolás Gadano. Agosto 2006
+
+"En países con baja reputación fiscal e institucionalidad débil, las reglas pueden no solamente ser completamente inefectivas en materia fiscal, sino que su incumplimiento puede justamente contribuir a deteriorar más el frágil contexto institucional que dificulta su efectividad."
+
+[Documento completo](https://www.cippec.org/wp-content/uploads/2017/03/2299.pdf)
+
+# **Responsabilidad fiscal en Córdoba y provincias** {background="#390040"}
+
+## Responsabilidad fiscal en Córdoba
+
+![Marco normativo - Responsabilidad fiscal en Córdoba](fig/uni3-008.png){fig-align="center"}
+
+
+## Responsabilidad fiscal en Córdoba (cont.)
+
+![Marco normativo - Responsabilidad fiscal en Córdoba](fig/uni3-009.png){fig-align="center"}
+
+## Responsabilidad fiscal: provincias
+
+![Monitoreo de cumplimiento fiscal](fig/uni3-010.png){fig-align="center"}
+
+## Responsabilidad fiscal: provincias (cont.)
+
+![Criterios para indice](fig/uni3-011.png){fig-align="center"}
+
+## Responsabilidad fiscal: provincias (cont.)
+
+![Comparación entre provincias](fig/uni3-012.png){fig-align="center"}
+
+## Responsabilidad fiscal: provincias (cont.)
+
+![Comparación entre provincias: semáforo](fig/uni3-013.png){fig-align="center"}
+
+# **Información fiscal en municipios de Córdoba** {background="#390040"}
+
+## Información fiscal en municipios de Córdoba
+
+![Responsabilidad fiscal en municipios](fig/uni3-014.png){fig-align="center"}
+
+## Información fiscal en municipios de Córdoba (cont.)
+
+![Responsabilidad fiscal en municipios](fig/uni3-015.png){fig-align="center"}
+
+## Información fiscal en municipios de Córdoba (cont.)
+
+![Transparencia en municipios](fig/uni3-015.png){fig-align="center"}
+
+## Información fiscal en municipios de Córdoba (cont.)
+
+![Transparencia en municipios](fig/uni3-016.png){fig-align="center"}
+
+## Información fiscal en municipios de Córdoba (cont.)
+
+![Transparencia en municipios](fig/uni3-017.png){fig-align="center"}
+
+## Información fiscal en municipios de Córdoba (cont.)
+
+![Transparencia en municipios](fig/uni3-018.png){fig-align="center"}
+
+## Información fiscal en municipios de Córdoba (cont.)
+
+![Transparencia en municipios](fig/uni3-019.png){fig-align="center"}
 
