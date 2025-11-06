@@ -1,0 +1,287 @@
+---
+title: Taller III. Gestión Presupuestaria
+title-slide-attributes:
+  data-background-image: background-002.png
+  data-background-size: stretch
+  data-background-opacity: "0.65"
+format:
+  revealjs:
+    slide-number: true
+    chalkboard:
+      buttons: false
+    preview-links: auto
+    css: ..\quarto2.css
+    width: 1500
+    center-title-slide: true
+    center: true
+    tbl-cap-location: bottom	
+    toc: true
+    toc-depth: 1
+    toc-title: Contenidos
+    link-external-newwindow: true
+---
+
+# Análisis avanzado de información presupuestaria {background="#390040"}
+
+## Elementos de análisis presupuestario
+
+- Existen 5 (cinco) elementos e instrumentos principales para
+  **analizar un presupesto:**
+  1. Ecuación fundamental
+  2. Clasificadores de ingresos y gastos $\longrightarrow$
+     clasificaciones presupuestarias
+  3. Esquema-ahorro-inversión financiamiento
+  4. Modificaciones presupuestarias
+  5. Etapas de registración del gasto
+
+## Ecuación fundamental
+
+- Al igual que todos los agentes económicos, el sector público también
+  enfrenta una **restricción presupuestaria** 
+
+\begin{align}
+I_{t}-G_{t}=RP_{t}
+\end{align}
+
+- donde $I$ son ingresos, $G$ son gastos y $RP$ es el resultado del
+  sector público, o simplemente, resultado primario. Este puede ser: 
+  1. Superávit $\longrightarrow$ ingresos mayores a los gastos
+  2. Déficit $\longrightarrow$ gastos mayores a los ingresos
+  3. Equilibrio $\longrightarrow$ ingresos iguales a los gastos
+  
+  
+## Ecuación fundamental (cont.)
+
+- La ecuación anterior suele ser conocida como **resultado fiscal
+  primario**. Existe otra versión como la siguiente: 
+
+\begin{align}
+I_{t}-G_{t}-INT_{t-1}=RF_{t}
+\end{align}
+
+- donde $INT$ son intereses de la deuda pública y $RF$ es resultado
+  financiero. 
+
+## Ecuación fundamental (cont.)
+
+- En términos económicos, sin embargo, la restricción presupuestaria
+  del sector público viene dada y entendida en términos
+  intertemporales
+
+\begin{align}
+G_{t}-I_{t}+INT_{t-1}=B_{t}-B_{t-1}+M_{t}-M_{t-1}
+\end{align}
+
+- donde $B$ son bonos públicos y $M$ emisión monetaria, muestra que
+  los requerimientos nominales de financiamiento del sector público --déficit fiscal primario mas intereses de la deuda-
+  deben proveni **de un aumento de la deuda** o **de un aumento de la emisión**. 
+
+## Clasificaciones presupuestarias
+
+- Son instrumentos normativos agrupan los recursos y gastos de acuerdo
+  a ciertos criterios
+- Conforman un sistema de informacion ajustado a necesidades de
+  gobierno y de organismos internacionales
+- Se considera como **ingreso** toda transacción que implique la
+  utilización de un medio de financiamiento (fuente de fondos)
+- Se considera como **gasto** toda transacción que implica una aplicación
+  financiera (uso de fondos) 
+- Permiten discernir más claramente aspectos fundamentales como el
+  tamaño, la estructura y al evolución. 
+
+## Clasificaciones presupuestarias (cont.)
+
+- Los gastos públicos se suelen clasificar: 
+  1. Por ubicación geográfica
+  2. Por objeto
+  3. Por su carácter económico
+  4. Por finalidad y función
+  5. Por categoría programática
+  6. Por  fuente de financiamiento
+
+## Clasificaciones presupuestarias (cont.)
+
+- Los **gastos corrientes** son los pagos que se deben realizar en
+  forma indispensable para el correcto y normal desenvolvimiento de
+  los servicios públicos y de la administración en general, como ser
+  gastos de consumo (reparación de edificios, renovación de bienes
+  muebles, etc.) o retribuciones de servicios (sueldos, salarios,
+  gastos bancarios, intereses de la deuda, etc.).
+- Los **gastos de capital** son todas aquellas erogaciones del
+  gobierno que significan un incremento del patrimonio público. Pueden
+  ser erogaciones destinadas a la adquisición, a la producción o a la
+  construcción de bienes materiales o inmateriales, o inversiones
+  financieras que sirven para la producción de bienes y servicios.
+
+## Clasificaciones presupuestarias (cont.)
+
+- Los recursos públicos se suelen clasificar: 
+  1. Por rubros
+  2. Por su caracter económico
+  
+
+## Clasificaciones presupuestarias (cont.)
+
+- Los principales **ingresos corrientes** del nivel provincial son:
+  1. Ingresos impositivos: 1) IIBB, 2) Imp. Inmobiliario, 3)
+     Imp. Sellos, 4) Imp. Automotor, 5) Imp. Embarcaciones
+  2. Ingresos no impositivos $\longrightarrow$ tasas, derechos, multas
+  3. Transferencias corrientes: desde Nación y otros organismos
+  4. Venta de bienes y servicios: bienes y servicios que la provincia
+     presta
+  5. Rentas de la propiedad: alquileres percibidos, intereses
+
+## Clasificaciones presupuestarias (cont.)
+
+- Los principales **ingresos de capital** del nivel provincial son:
+  1. Transferencias de capital: de otros niveles y organismos para
+     financiar obras, inversiones y demás
+  2. Recupero de préstamos: ingresos obtenidos por amortización de
+     préstamos dados con anteriores
+  3. Venta de activos: ingresos por venta de edificios y terrenos, de patentes y marcas. 
+
+
+## Esquema AIF 
+
+- El **esquema ahorro-inversión-financiamiento (AIF) es un estado
+  financiero** que reúne todos los **flujos de ingresos y gastos** cuya estructura facilita el análisis del impacto económico de
+  la gestión gubernamental
+- Su objetivo es ordenar las cuentas públicas de modo de **permitir su
+  análisis económico y evaluar las repercusiones de las transacciones
+  financieras** del sector público en la economía en general
+- Surge de relacionar la **clasificación económica de recursos y gastos** 
+
+## Esquema AIF (cont.)
+
+<div style="font-size: 0.5em;">
+
+<style>
+.tabla-ahorro table {
+  table-layout: fixed;
+  width: 100%;
+}
+.tabla-ahorro th:first-child,
+.tabla-ahorro td:first-child {
+  width: 40%;
+  word-wrap: break-word;
+}
+.tabla-ahorro th:not(:first-child),
+.tabla-ahorro td:not(:first-child) {
+  width: 14%;
+  word-wrap: break-word;
+}
+</style>
+
+<div class="tabla-ahorro">
+
+| CONCEPTO | Administración Central | Organismos Descentralizados | Fondos Fiduciarios | Institutos de Seguridad Social | TOTAL |
+|----------|------------------------|----------------------------|-------------------|-------------------------------|-------|
+| **I. INGRESOS CORRIENTES** | 1.000 | 320 | 120 | 115 | 1.555 |
+| **II. GASTOS CORRIENTES** | 850 | 280 | 98 | 120 | 1.348 |
+| **III. RESULTADO ECONÓMICO (I-II)** | 150 | 40 | 22 | -5 | 207 |
+| **IV. INGRESOS DE CAPITAL** | 230 | 130 | 225 | 3 | 588 |
+| **V. GASTOS DE CAPITAL** | 280 | 125 | 230 | 5 | 640 |
+| **VI. INGRESOS TOTALES (I+IV)** | 1.230 | 450 | 345 | 118 | 2.143 |
+| **VII. GASTOS TOTALES (II+V)** | 1.130 | 405 | 328 | 125 | 1.988 |
+| **VIII. RESULTADO FINANCIERO PREVIO CONTRIBUCIONES Y GASTOS FIGURATIVOS** | 100 | 45 | 17 | -7 | 155 |
+| . Contribuciones Figurativas | - | 25 | 10 | 7 | 42 |
+| . Gastos Figurativos | 42 | - | - | - | 42 |
+| **VIII. RESULTADO FINANCIERO (I+IV-II-V)** | 58 | 70 | 27 | 0 | 155 |
+
+</div>
+
+</div>
+
+## Esquema AIF (cont.)
+
+> Las contribuciones figurativas y los gastos figurativos son
+transacciones entre los diferentes universos que consolida la APMNF. El total de contribuciones figurativas y el total de gastos
+figurativos deberán coincidir, esto significa que al sumarse
+contribuciones figurativas y restarse gastos figurativos el resultado
+es cero. En el caso de haber contribuciones figurativas o gastos
+figurativos con organismos que no consolidan (ejemplo alguna empresa
+estatal) la contribución de esa empresa hacia la APMNF deberán figurar
+en Ingresos - transferencias corrientes o de capital- y los fondos que
+la APMNF transfiere a ese organismo se deberán imputar en gastos transferencias corrientes o de capital según corresponda. 
+
+## Esquema AIF (cont.)
+
+- Los resultados que surgen de la cuenta --ahorro/desahorro; resultado
+  primario; resultado financiero
+  - indicadores resumen de la política fiscal
+- Los recursos y gastos públicos se distinguen según se ubiquen:
+  1. Por encima de la línea $\longrightarrow$ se colocan los **recursos
+     y gastos**, tanto corrientes como de capital
+  2. Por debajo de la línea $\longrightarrow$ se colocan las **fuentes y
+     aplicaciones financieras** --determinan el tamaño, estructura y
+     evolución de la deuda pública
+
+## Esquema AIF (cont.)
+
+> Un aspecto clave del esquema AIF es que permite relacionar el
+déficit o superávit financiero con las fuentes y aplicaciones. A
+grandes rasgos, si el resultado es un superávit, deberá analizarse en
+que se aplicará dicho excedente, mientras que si el resultado es un déficit, deben encontrarse fuentes financieras que permitan cubrirlo. En
+resumen, la suma del resultado financiero, las fuentes financieras y
+las aplicaciones financieras (con signo negativo) debe ser igual a cero
+
+## Esquema AIF (cont.)
+
+<div style="font-size: 0.5em;">
+
+<style>
+.tabla-ahorro2 table {
+  table-layout: fixed;
+  width: 100%;
+}
+.tabla-ahorro2 th:first-child,
+.tabla-ahorro2 td:first-child {
+  width: 40%;
+  word-wrap: break-word;
+}
+.tabla-ahorro2 th:not(:first-child),
+.tabla-ahorro2 td:not(:first-child) {
+  width: 14%;
+  word-wrap: break-word;
+}
+
+.tabla-ahorro2 tbody tr:nth-last-child(-n+3) {
+  color: blue;
+  font-weight: bold;
+}
+</style>
+
+<div class="tabla-ahorro2">
+
+| CONCEPTO | Administración Central | Organismos Descentralizados | Fondos Fiduciarios | Institutos de Seguridad Social | TOTAL |
+|----------|------------------------|----------------------------|-------------------|-------------------------------|-------|
+| **I. INGRESOS CORRIENTES** | 1.000 | 320 | 120 | 115 | 1.555 |
+| **II. GASTOS CORRIENTES** | 850 | 280 | 98 | 120 | 1.348 |
+| **III. RESULTADO ECONÓMICO (I-II)** | 150 | 40 | 22 | -5 | 207 |
+| **IV. INGRESOS DE CAPITAL** | 230 | 130 | 225 | 3 | 588 |
+| **V. GASTOS DE CAPITAL** | 280 | 125 | 230 | 5 | 640 |
+| **VI. INGRESOS TOTALES (I+IV)** | 1.230 | 450 | 345 | 118 | 2.143 |
+| **VII. GASTOS TOTALES (II+V)** | 1.130 | 405 | 328 | 125 | 1.988 |
+| **VIII. RESULTADO FINANCIERO PREVIO CONTRIBUCIONES Y GASTOS FIGURATIVOS** | 100 | 45 | 17 | -7 | 155 |
+| . Contribuciones Figurativas | - | 25 | 10 | 7 | 42 |
+| . Gastos Figurativos | 42 | - | - | - | 42 |
+| **VIII. RESULTADO FINANCIERO (I+IV-II-V)** | 58 | 70 | 27 | 0 | 155 |
+| **IX. FINANCIAMIENTO NETO** | -58 | -70 | -27 | 0 | -155 |
+| **X. FUENTES FINANCIERAS** | 130 | 153 | 21 | 0 | 304 |
+| **XI. APLICACIONES FINANCIERAS** | 188 | 223 | 48 | 0 | 459 |
+
+
+</div>
+
+</div>
+
+## Esquema AIF (cont.)
+
+- Los principales componentes de las fuentes financieras son:
+  1. Disminución de la inversión financiera
+  2. Endeudamiento público y aumento de otros pasivos
+  3. Ajuste al patrimonio
+- Los principales componentes de las aplicaciones financieras son:
+  1. Incremento de la inversión financiera 
+  2. Amortización de deuda y disminución de otros pasivos
+
