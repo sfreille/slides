@@ -1,0 +1,487 @@
+---
+title: Taller III. Gestión Presupuestaria
+title-slide-attributes:
+  data-background-image: background-002.png
+  data-background-size: stretch
+  data-background-opacity: "0.65"
+format:
+  revealjs:
+    slide-number: true
+    chalkboard:
+      buttons: false
+    preview-links: auto
+    css: ..\quarto2.css
+    width: 1500
+    center-title-slide: true
+    center: true
+    tbl-cap-location: bottom	
+    toc: true
+    toc-depth: 1
+    toc-title: Contenidos
+    link-external-newwindow: true
+---
+
+# **El sector público: dimensiones y aproximaciones** {background="#390040"}
+
+## Dimensiones del sector público
+
+> Las dimensiones más relevantes alrededor de la discusión del rol del Estado en la economía pueden resumirse en las siguientes
+
+::: {style="display: flex; flex-direction: column; gap: 30px; margin-top: 40px;"}
+
+::: {.fragment .fade-in}
+::: {style="display: flex; align-items: left; justify-content: left; gap: 50px;"}
+::: {style="background-color: #5B9BD5; color: white; padding: 20px 40px; border-radius: 15px; font-size: 1.1em; font-weight: bold; max-width: 650px; text-align: center;"}
+¿CUÁNTO GASTA/RECAUDA?
+:::
+
+::: {style="font-size: 2.5em; color: #666;"}
+→
+:::
+
+::: {style="background-color: #DC143C; color: white; padding: 20px 40px; border-radius: 15px; font-size: 1.1em; font-weight: bold; min-width: 350px; text-align: center;"}
+TAMAÑO
+:::
+:::
+:::
+
+::: {.fragment .fade-in}
+::: {style="display: flex; align-items: left; justify-content: left; gap: 50px;"}
+::: {style="background-color: #5B9BD5; color: white; padding: 20px 40px; border-radius: 15px; font-size: 1.1em; font-weight: bold; max-width: 650px; text-align: center;"}
+¿EN QUÉ GASTA/RECAUDA?
+:::
+
+::: {style="font-size: 2.5em; color: #666;"}
+→
+:::
+
+::: {style="background-color: #DC143C; color: white; padding: 20px 40px; border-radius: 15px; font-size: 1.1em; font-weight: bold; min-width: 250px; text-align: center;"}
+ESTRUCTURA
+:::
+:::
+:::
+
+::: {.fragment .fade-in}
+::: {style="display: flex; align-items: left; justify-content: left; gap: 50px;"}
+::: {style="background-color: #5B9BD5; color: white; padding: 20px 40px; border-radius: 15px; font-size: 1.1em; font-weight: bold; max-width: 650px; text-align: center;"}
+¿CÓMO EVOLUCIONAN SUS GASTOS/RECURSOS?
+:::
+
+::: {style="font-size: 2.5em; color: #666;"}
+→
+:::
+
+::: {style="background-color: #DC143C; color: white; padding: 20px 40px; border-radius: 15px; font-size: 1.1em; font-weight: bold; min-width: 350px; text-align: center;"}
+EVOLUCIÓN
+:::
+:::
+:::
+
+:::
+
+## Tamaño 
+
+- Existen múltiples formas de calcular el tamaño del sector
+  público. Algunas de las mas usadas son: 
+  1. Gasto público (% PBI)
+  2. Recaudación total (% PBI)
+  3. Cantidad de empleados públicos (% cantidad de empleados totales)
+  4. Consumo público (excluye transferencias) (% PBI)
+  5. Transferencias y subsidios (% PBI)
+  6. Resultado del sector público (% PBI)
+- Ninguna es por si sóla suficiente para ser concluyentes pero son
+  útiles individualmente para comparar en el tiempo
+
+## Tamaño (cont.)
+
+![Gasto total del gobierno general como porcentaje del PBI](fig/expenditure-gdp-map.png){fig-align="center"}
+  
+## Tamaño (cont.)
+
+![Recaudación total del gobierno general como porcentaje del PBI](fig/revenue-gdp-map.png){fig-align="center"}
+  
+  
+## Tamaño (cont.)
+
+![Resultado primario (excluye intereses) del gobierno general como porcentaje del PBI](fig/primary-balance-map.png){fig-align="center"}
+
+
+## Estructura 
+
+- Suponga dos países que tienen el mismo tamaño de gasto público pero
+  uno gasta el 80% en educación y salud y el 20% en el resto
+  (vivienda, seguridad, defensa, y justicia) y el otro
+  gasta el 20% en educación y salud y el 20% en el resto.
+  - ¿podemos decir que son lo mismo? ¿habrá diferentes resultados en
+    términos de crecimiento (eficiencia) y distribucion (equidad)?
+- La estructura del gasto (y de la recaudación) de los gobiernos es
+  muy relevante y aporta una mirada más rica, detallada y cualitativa
+  del foco y prioridades del gobierno --en última instancia, de la
+  sociedad. 
+  
+## Estructura (cont.)
+
+- OECD (1999) provee una clasificación de categorías de
+  gastos públicos
+  - servicios públicos generales
+  - defensa 
+  - orden público y seguridad
+  - protección ambiental
+  - vivienda y comunidad
+  - salud
+  - educación
+  - protección social
+
+
+## Estructura (cont.)
+
+![Gasto en protección social como porcentaje del PBI](fig/expenditure-on-social-protection-total-map.png){fig-align="center"}
+
+
+## Estructura (cont.)
+
+![Gasto en educación (todos los niveles) como porcentaje del PBI](fig/expenditure-on-education-gdp-map.png){fig-align="center"}
+
+## Estructura (cont.)
+
+![Gasto militar como porcentaje del PBI. Fuente: Stockholm International Peace Research Institute (2025)](fig/expenditure-on-military-gdp-map.png){fig-align="center"}
+
+## Estructura (cont.)
+
+![Estructura de recursos tributarios como porcentaje del PBI](fig/revenue-composition-gdp.png){fig-align="center"}
+
+## Evolución
+
+- Si bien el tamaño y la estructura del sector público nos brindan una
+  caracterización bastante detallada del sector público en una
+  economía, resulta incompleto si uno quiere hacer análisis
+  longitudinales (temporales)
+  - foto (tamaño y composición) versus película (evolución)
+- Es importante el período de evolución de las variables
+  - idealmente tomar el período más largo y amplio posible para poder
+    ver tendencias de largo plazo
+
+## Evolución (cont.)
+
+![Evolución gasto total del gobierno general como porcentaje del PBI -
+Países desarrollados](fig/expenditure-gdp-evolution-advanced.png){fig-align="center"}
+
+## Evolución (cont.)
+
+![Evolución gasto total del gobierno general como porcentaje del PBI -
+Países en desarrollo](fig/expenditure-gdp-evolution-developing.png){fig-align="center"}
+
+## Evolución (cont.)
+
+![Evolución recaudación total del gobierno general como porcentaje del PBI -
+Países en desarrollo](fig/revenue-gdp-evolution.png){fig-align="center"}
+
+## Evolución (cont.)
+
+![Evolución gasto social del gobierno general como porcentaje del PBI -
+Países en desarrollo](fig/expenditure-social-spending-gdp-evolution.png){fig-align="center"}
+
+# **¿Y por casa cómo andamos?** {background="#390040"}
+
+## Tendencias de gasto público
+
+```{r}
+library(data.table)
+library(tidyverse)
+library(plotly)
+library(scales)
+options(scipen=999)
+
+gp <- fread("consolidado-gp.csv",dec=",")
+
+gp <- gp %>%
+    pivot_longer(c("gp_nac_pbi","gp_pro_pbi","gp_mun_pbi"),names_to="nivel",values_to="porc_pbi")
+
+p6 <- ggplot(gp,aes(year,porc_pbi,colour=nivel))+geom_line(linewidth=1.25,linetype=1)+geom_smooth(method="lm",linetype=2)+labs(title="Gasto publico (como %PBI) segun nivel de gobierno", x="Periodo", y="Gasto publico total (como % PBI)")+scale_x_continuous(breaks = scales::pretty_breaks(n = 10))
+
+ggplotly(p6,width=1400,height=600)
+
+```
+
+## Tendencias del gasto público (cont.)
+
+- Tendencia secular al **crecimiento del gasto público de todos los
+  niveles**
+  - diferencias en nivel y variabilidad
+    - **nivel provincial crece a mayor tasa que otros niveles**
+- Gasto público de **nivel provincial mucha menor dispersión que el
+  nivel nacional** $\longrightarrow$ probablemente refleje mayor
+  poderío y estabilidad política en nivel subnacional
+  - producto de reglas institucionales --sistema de pluralidad, menor
+    *accountability*, límites a la reelección. 
+
+## Tendencias del gasto público (cont.)
+
+![Resultado fiscal primario del gobierno nacional como porcentaje del PBI -
+Países en desarrollo](fig/deficits-serie-historica-2.png){fig-align="center"}
+
+## Financiamiento de gobiernos provinciales
+
+- En su conjunto, los gobiernos provinciales tienen una **alta
+  dependencia financiera  del gobierno nacional** en torno al 48%
+  - pero la **media esconde ciertas heterogeneidades** --i.e mientras que
+    los recursos propios (ROP) de las provincias grandes (PBA,
+    Córdoba, y Santa Fe) y las patagónicas representan más del 50\%
+    del total de sus recursos, para las provincias del NOA y NEA este
+    porcentaje es menos del 25\%
+- La composición de los ROP es incluso un tema más delicado
+  $\longrightarrow$ provincias deben **recurrir cada vez más a impuestos
+  más distorsivos e inequitativos**
+  
+## ROP: Dependencia estructural de IIBB
+
+```{r}
+library(data.table)
+library(tidyverse)
+library(plotly)
+library(scales)
+options(scipen=999)
+rop <- fread("subnational-rop.csv",encoding="Latin-1")
+
+rop <- rop %>%
+    pivot_longer(
+        c("iibb","inmuebles","sellos","automotor","otros"),names_to="impuesto",values_to="valor")
+
+rop <- rop %>%
+    arrange(desc(valor)) %>%
+    mutate(impuesto=factor(impuesto,levels=rev(unique(impuesto))))
+
+p1 <- ggplot(rop,aes(year,valor,fill=impuesto))+geom_bar(position="fill",stat='identity')+scale_x_continuous(breaks = scales::pretty_breaks(n = 16))+labs(title="Composicion de recursos tributarios de origen provincial",x="year",y="Proporcion del total (tanto por uno)")
+
+ggplotly(p1,width=1400,height=600)
+
+```
+
+## ROP: Dependencia estructural de IIBB (cont.)
+
+- En promedio las provincias argentinas pasan de 57.32\% en 1984 a
+  83.18% en 2024
+  - se produce una **sustitución gradual de impuestos patrimoniales
+    (directos) por impuestos a las ventas (indirectos)**
+  - relativa homogeneidad provincial con notable excepción de Tierra
+    del Fuego en que la participación de IIBB se mantiene debajo de
+    60% --principalmente regalías y derechos hidrocarburífero; y otros
+    fondos de financiamiento específicos
+
+
+## ROP: Dependencia estructural de IIBB (cont.)
+
+
+```{r}
+library(data.table)
+library(tidyverse)
+library(plotly)
+library(scales)
+options(scipen=999)
+rop <- fread("subnational-rop.csv",encoding="Latin-1")
+
+rop <- rop %>%
+    pivot_longer(
+        c("iibb","inmuebles","sellos","automotor","otros"),names_to="impuesto",values_to="valor")
+
+rop <- rop %>%
+    arrange(desc(valor)) %>%
+    mutate(impuesto=factor(impuesto,levels=rev(unique(impuesto))))
+
+p3 <- ggplot(rop,aes(year,valor,fill=impuesto))+geom_bar(position="fill",stat='identity')+scale_x_continuous(breaks = scales::pretty_breaks(n = 16))+labs(title="Composicion de recursos tributarios de origen provincial-Por provincia",x="year",y="Proporcion del total (tanto por uno)")+facet_wrap(~provincia)
+                                                                            ggplotly(p3,width=1400,height=600)
+
+```
+
+## Economía política del presupuesto
+
+- Por razones de diseño institucional y de funcionamiento, el federalismo
+  existente en Argentina tiende a generar una suerte de tormenta
+  perfecta cuando existe una alta competencia y fragmentación electoral 
+  
+> Ejecutivo nacional con bajo caudal electoral, legislativo nacional
+> fragmentado y opositor, gobernadores provinciales con alto apoyo
+> electoral
+
+## Economía política del presupuesto (cont.)
+
+![Poderío electoral relativo](fig/mapping.png){#fig:01003 width=80%}
+
+
+# **Roles y funciones del Estado** {background="#390040"}
+
+## Funciones del Estado
+
+> El Estado realiza una gran cantidad de actividades en la vida económica. Desde la economía del sector público, se las  suele dividir en las siguientes
+
+::: {style="display: flex; flex-direction: column; gap: 30px; margin-top: 40px;"}
+
+::: {.fragment .fade-in}
+::: {style="display: flex; align-items: left; justify-content: left; gap: 20px;"}
+::: {style="background-color: #5B9BD5; color: white; padding: 20px 40px; border-radius: 15px; font-size: 0.9em; font-weight: bold; min-width: 300px; text-align: center;"}
+ASIGNACIÓN
+:::
+
+::: {style="font-size: 2.5em; color: #666;"}
+→
+:::
+
+::: {style="background-color: #DC143C; color: white; padding: 20px 40px; border-radius: 15px; font-size: 0.9em; font-weight: bold; max-width: 800px; text-align: center;"}
+Construcción de espacio verde, alumbrado público, recolección de residuos
+:::
+:::
+:::
+
+::: {.fragment .fade-in}
+::: {style="display: flex; align-items: left; justify-content: left; gap: 20px;"}
+::: {style="background-color: #5B9BD5; color: white; padding: 20px 40px; border-radius: 15px; font-size: 0.9em; font-weight: bold; min-width: 300px; text-align: center;"}
+DISTRIBUCIÓN
+:::
+
+::: {style="font-size: 2.5em; color: #666;"}
+→
+:::
+
+::: {style="background-color: #DC143C; color: white; padding: 20px 40px; border-radius: 15px; font-size: 0.9em; font-weight: bold; max-width: 800px; text-align: center;"}
+Cobra impuestos progresivos, brinda
+subsidios, transferencias y ayuda
+:::
+:::
+:::
+
+::: {.fragment .fade-in}
+::: {style="display: flex; align-items: left; justify-content: left; gap: 20px;"}
+::: {style="background-color: #5B9BD5; color: white; padding: 20px 40px; border-radius: 15px; font-size: 0.9em; font-weight: bold; max-width: 300px; text-align: center;"}
+ESTABILIZACIÓN
+:::
+
+::: {style="font-size: 2.5em; color: #666;"}
+→
+:::
+
+::: {style="background-color: #DC143C; color: white; padding: 20px 40px; border-radius: 15px; font-size: 0.9em; font-weight: bold; max-width: 800px; text-align: center;"}
+Utiliza política fiscal, monetaria, cambiaria, y regulatoria para
+suavizar fluctuaciones de la actividad económica
+:::
+:::
+:::
+
+:::
+
+## Funciones del Estado (cont.)
+
+- ¿Cómo se expresan estas funciones del Estado en la práctica? ¿Cómo
+  sabemos la ponderación que los diferentes gobiernos asignan a las
+  diferentes funciones?
+  - mirando la política de gastos y la política tributaria
+
+> En muchas situaciones, el gobierno utiliza una cierta política
+> pública para realizar más de una de estas funciones al mismo
+> tiempo. Ejemplo: 1) gobierno puede hacer función redistribución a
+> través de función asignación --i.e. recorta gastos en planta
+> administrativa y aumenta gastos en educación y salud pública; 2)
+> gobierno puede hacer función estabilización y redistribución al
+> mismo tiempo --i.e. aumenta la AUH para estabilizar y estimular
+> demanda (vía consumo)
+
+## Funciones del Estado (cont.)
+
+- A diferencia de los agentes privados que interactúan y toman
+  decisiones a través del mecanismo de mercado, el **gobierno toma
+  decisiones (asignación, redistribución y estabilización) a través
+  del mecanismo político**
+- Este mecanismo y proceso es un **proceso eminentemente político**
+  - intervienen múltiples actores --políticos, burócratas,
+    empresarios, organizaciones de la sociedad civil, ciudadanos
+  - el combo de asignación, redistribución y estabilización alcanzado
+    *debería* reflejar en mayor o menor medida los **acuerdos (y
+    desacuerdos) resultantes de este proceso**.
+
+## Funciones del Estado (cont.)
+
+> Así como el mecanismo de mercado brinda señales (precios,
+> cantidades) para la asignación de recursos privados, el mecanismo
+> político agrega colectivamente las preferencias de los ciudadanos
+> para identificar el tamaño, la estructura y la evolución de la
+> participación del Estado en la economía 
+
+- La principal herramienta a través de la cual el Estado realiza esto
+  es
+  - **el presupuesto público**
+
+# **El Presupuesto público** {background="#390040"}
+
+## Conceptualización
+
+> **Enfoque tradicional.** El Presupuesto es la expresión, en términos
+> financieros, de lo que el gobierno pretende llevar a cabo en un
+> período determinado, por regla general, un año
+
+> **Enfoque moderno.** El Presupuesto es un instrumento útil para la
+> programación económica y social, de gobierno, de administración y
+> necesariamente un acto legislativo. 
+
+## Importancia
+
+![Importancia y utilidad del presupuesto](fig/utilidad-presupuesto.png){fig-align="center"}
+
+
+## Sistema de administración financiera
+
+- El presupuesto público forma parte del sistema presupuetario que a
+  su vez es uno de los subsistemas del sistema de administración
+  financiera del Estado
+- Ley 24156 (1992) de Administración Financiera y de los Sistemas de Control
+  del Sector Público Nacional brinda el paraguas legal de todo el
+  sistema
+- A su vez la Constitución Nacional varios artículos refieren a las
+  diferentes potestades y responsabilidades de los diferentes poderes
+  republicanos y otros organismos públicos
+  - el curso se enfoca principalmente en el sistema presupuestario y
+    específicamente en el presupuesto público
+
+## Sistema de administración financiera (cont.)
+
+![Sistema de administración financiera del Estado](fig/sistema-administracion-financiera.png){fig-align="center"}
+
+
+## Roles
+
+1. Como instrumento de gobierno $\longrightarrow$ el más importante de
+   todos
+2. Como instrumento de programación económica y social
+   $\longrightarrow$ acciones económicas de mediano plazo se elaboran
+   en términos de agregados macroeconómicos. Operativiza las
+   orientaciones de la política económica
+3. Como instrumento de administración $\longrightarrow$ ejecución del
+   presupuesto involucra división de trabajo entre diferentes unidades
+4. Como acto legislativo $\longrightarrow$ aprobación del presupuesto
+   constituye un acto legislativo indispensable
+5. Como documento $\longrightarrow$ se expresa en un documento
+   -analítico, sintético, resumen. 
+
+
+## Ciclo Presupuestario
+
+![El ciclo prespuestario](fig/ciclo-presupuestario.png){fig-align="center"}
+
+## Ciclo Presupuestario (cont.)
+
+- El ciclo presupuestario en la actualidad consta de 4 (cuatro) fases
+  1. **Formulación (programación)** $\longrightarrow$ involucra etapas de
+     *preparación* --marzo a junio- y *elaboración* --julio a
+     septiembre. 
+  2. **Discusión y aprobación (autorización)** $\longrightarrow$ involucra las etapas
+     de tratamiento y discusión en Diputados, Senadores y
+     posteriormente Poder Ejecutivo (diciembre)
+  3. **Ejecución** $\longrightarrow$ incluye las etapas de distribución,
+     evaluación y cierre de cuentas
+  4. **Evaluación y control** $\longrightarrow$ involucra las etapas de control
+     parlamentario (legislativo), administrativo interno (SIGEN, UAI)
+     y administrativo externo (AGN)
+
+
+  
+
+ 
+ 
