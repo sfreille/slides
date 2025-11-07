@@ -1,0 +1,209 @@
+---
+title: Taller III. Gestión Presupuestaria
+title-slide-attributes:
+  data-background-image: background-002.png
+  data-background-size: stretch
+  data-background-opacity: "0.65"
+format:
+  revealjs:
+    slide-number: true
+    chalkboard:
+      buttons: false
+    preview-links: auto
+    css: ..\quarto2.css
+    width: 1500
+    center-title-slide: true
+    center: true
+    tbl-cap-location: bottom	
+    toc: true
+    toc-depth: 1
+    toc-title: Contenidos
+    link-external-newwindow: true
+---
+
+# Módulo 6. Análisis de Políticas Públicas desde el punto de vista presupuestario {background="#390040"}
+
+## El caso del Programa Primer Paso (PPP)
+
+# Tipos de presupuesto {background="#390040"}
+
+## Presupuesto por programas
+
+- El **presupuesto por programas** busca eficacia de largo plazo mediante análisis y evaluación continua de programas públicos
+- No es tan relevante en qué o cómo se gasta sino **la eficacia relativa de los programas alternativos** de gasto para alcanzar un objetivo
+- Uno de los aspectos claves es identificar necesidades y objetivos y expresarlos en **indicadores cualitativos y cuantitativos**
+
+## Presupuesto por programas
+
+::: {.callout-note}
+**[Aquí insertar gráfico/esquema sobre presupuesto por programas]**
+:::
+
+## Presupuesto por programas en Córdoba
+
+- La provincia de Córdoba viene hace varios años implementado un presupuesto por programas. En él se describen las necesidades, objetivos e indicadores
+- Puede consultarse en el siguiente link (para el año 2019):
+  - [Descripciones-de-Programas.pdf](https://www.cba.gov.ar)
+- Más de **300 programas presupuestados** con sus respectivas descripciones y que atienden a diferentes áreas y necesidades
+
+## Presupuesto por resultados (PpR)
+
+**Conjunto de principios, procesos y herramientas aplicables a la gestión presupuestal**
+
+**Objetivo:**
+
+- Conectar la decisión de financiación y de acción (política) pública con cambios concretos sobre el ciudadano y su entorno en variables relevantes al desarrollo
+
+**Características:**
+
+- Basado en lógicas de causalidad y evidencia científica para las decisiones de política pública
+
+## Presupuesto por resultados (PpR)
+
+- Relaciones de causalidad entre **condiciones de interés (CI)**, factores e intervenciones
+- Note que esto involucra un enfoque totalmente radical que contrasta con el ordenamiento de las cuentas públicas en clasificaciones presupuestarias tradicionales
+
+## Presupuesto por resultados (PpR)
+
+::: {.callout-note}
+**[Diapositiva 10 - Insertar diagrama/esquema sobre relaciones de causalidad en PpR]**
+:::
+
+## Presupuesto por resultados (PpR)
+
+::: {.callout-note}
+**[Diapositiva 11 - Insertar gráfico/esquema adicional sobre PpR]**
+:::
+
+## Presupuesto por resultados (PpR)
+
+::: {.callout-note}
+**[Diapositiva 12 - Insertar ejemplo o esquema de aplicación de PpR]**
+:::
+
+# El Programa Primer Paso (PPP) {background="#390040"}
+
+## El programa PPP
+
+**Creado en 1999 por el gobierno provincial**
+
+- Es el programa de empleo focalizado más importante de la provincia de Córdoba
+
+**Objetivo:**
+
+- Promover y facilitar la transición hacia empleo formal de jóvenes de ambos sexos comprendidos entre 16 y 25 años en condición de desocupados y sin formación y/o experiencia laboral
+
+**Duración:**
+
+- 12 meses
+
+## El programa PPP
+
+**Portal de Transparencia**
+
+::: {.callout-note}
+**[Diapositiva 14 - Insertar información/gráfico del Portal de Transparencia sobre el programa]**
+:::
+
+## El programa PPP: diseño
+
+<div style="font-size: 0.45em;">
+
+| Cohorte | Tipo | Nro | Modalidad | Monto beca | Edades | Vigencia | Cupo | Cupo mínimo | Duración | Hs (dia/sem) |
+|---------|------|-----|-----------|------------|--------|----------|------|-------------|----------|--------------|
+| 1999 | Decreto | 1759 | PPP | 140 | 16 a 25 | 01/09/99 al 31/08/00 | 10000 | 500 a departamentos de menor ingreso y 200 a discapacitados | 12 meses | 4/20 |
+| 2012 | Decreto | 190 | PPP | 1000 | 16 a 25 | 01/06/12 al 31/05/13 | 10000 | 500 a departamentos de menor ingreso y 500 a discapacitados | 12 meses | 4/20 |
+| | Resolución | 167 | | | | | | | | 4/20 |
+| 2013 | Resolución | 8 | PPP | 1500 | 16 a 25 | 01/06/13 al 31/05/14 | 10000 | 500 a departamentos de menor ingreso y 500 a discapacitados | 12 meses | 4/20 |
+| | Resolución | 35 | | | | 01/01/14 a 31/12/14 | 5000 (ampl) | 250 a departamentos de menor ingreso y 250 a discapacitados | | 4/20 |
+
+</div>
+
+## El programa PPP: diseño (cont.)
+
+<div style="font-size: 0.45em;">
+
+| Cohorte | Tipo | Nro | Modalidad | Monto beca | Edades | Vigencia | Cupo | Cupo mínimo | Duración | Hs (dia/sem) |
+|---------|------|-----|-----------|------------|--------|----------|------|-------------|----------|--------------|
+| 2014 | Ley | 10236 | PPP | 1500 | 16 a 25 | 01/07/14 a 30/06/14 | no menor a 15000 | 500 a departamentos de menor ingreso y 500 a discapacitados | 12 meses | 4/20 |
+| 2015 | Ley | 10236 | PPP | 2500 | 16 a 25 | 01/07/15 al 30/06/16 | 15000 | 500 a departamentos de menor ingreso y 500 a discapacitados | 12 meses | 4/20 |
+| 2016 | Resolución | 235 | Todos | | | 01/10/16 al 30/09/17 | | No explicita | 12 meses | 4/20 |
+| | Decreto | 840 | PPP | 3000 | 16 a 24 | 01/09/16 al 31/08/17 | 8000 | | | 4/20 |
+| | | | PPPA | 3500 | 16 a 24 | 01/10/16 al 30/09/17 | 12000 | | | 4/20 |
+| | Resolución | 307 | PPP | 3500 | 16 a 24 | 01/10/16 al 30/09/17 | 2000 (ampl) | No explicita | 12 meses | 4/20 |
+
+</div>
+
+## El programa PPP: diseño (cont.)
+
+<div style="font-size: 0.45em;">
+
+| Cohorte | Tipo | Nro | Modalidad | Monto beca | Edades | Vigencia | Cupo | Cupo mínimo | Duración | Hs (dia/sem) |
+|---------|------|-----|-----------|------------|--------|----------|------|-------------|----------|--------------|
+| 2016 (cont.) | Resolución | 691 | PPP | 3000 | 16 a 24 | 01/10/16 al 30/09/17 | 7500 | No explicita | 12 meses | 4/20 |
+| | | | PPPA | 3500 | 16 a 24 | 01/10/16 al 30/09/17 | 7000 | | | 4/20 |
+| 2017 | Decreto | 1296 | Todos | | | 01/11/17 al 31/10/18 | 15000 | No explicita | 12 meses | 4/20 |
+| | | | PPP | 3500 | 16 a 24 | 01/11/17 al 31/10/18 | | | | 4/20 |
+| | | | PPPA | 4000 | 16 a 24 | 01/11/17 al 31/10/18 | | | | 4/20 |
+| | Resolución | 1132 | Todos | | | | 15000 | No explicita | 12 meses | 4/20 |
+| | | | PPP | 3500 | 16 a 24 | 01/11/17 al 31/10/18 | 5000 | | | 4/20 |
+| | | | PPPA | 4000 | 16 a 24 | 01/11/17 al 31/10/18 | 8500 | | | 4/20 |
+
+</div>
+
+## El programa PPP: diseño (cont.)
+
+**Características adicionales del diseño:**
+
+- **Prohibición Organización Pública:** Varía según cohorte (No en 1999, Sí desde 2012, No en 2017)
+- **Prohibición Otro Subsidio:** Sí en la mayoría de las cohortes
+- **Elección:** Sistema de sorteo implementado desde 2012
+- **Exclusión Beneficiarios Previos:** Sí desde 2012
+
+# Implementación y Evaluación {background="#390040"}
+
+## El programa PPP: implementación y evaluación
+
+::: {.callout-note}
+**[Diapositiva 16 - Insertar información sobre metodología de implementación y evaluación del programa]**
+:::
+
+## El programa PPP: tratamiento y control
+
+::: {.callout-note}
+**[Diapositiva 17 - Insertar información sobre grupos de tratamiento y control en la evaluación del programa]**
+:::
+
+# Características de los participantes {background="#390040"}
+
+## El programa PPP: características
+
+::: {.callout-note}
+**[Diapositiva 18 - Insertar gráficos/tablas con características de los participantes del programa]**
+:::
+
+## El programa PPP: características
+
+::: {.callout-note}
+**[Diapositiva 19 - Insertar gráficos/tablas adicionales con características de los participantes]**
+:::
+
+# Resultados del programa {background="#390040"}
+
+## El programa PPP: resultados
+
+::: {.callout-note}
+**[Diapositiva 20 - Insertar gráficos con resultados del programa - impacto en empleo]**
+:::
+
+## El programa PPP: resultados
+
+::: {.callout-note}
+**[Diapositiva 21 - Insertar gráficos con resultados del programa - indicadores de éxito]**
+:::
+
+## El programa PPP: resultados
+
+::: {.callout-note}
+**[Diapositiva 22 - Insertar gráficos con resultados del programa - análisis comparativo]**
+:::
