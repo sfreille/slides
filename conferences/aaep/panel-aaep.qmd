@@ -12,15 +12,15 @@ style=\"width: 50%; margin: 20px auto;\"><div class=\"collaborators\"
 style=\"font-size: 0.5em;\"><strong>Colaboradores:</strong><br>Rubio,
 M; Jaroszewski, V.; Hofmann, R.; Albarracin, C.; Prazoni, G.; Larovere, S.; Seijas,
 L; Bachiglione, C.; Balbo, S.</div>"
-format: 
+format:
   revealjs:
     slide-number: true
     preview-links: auto
-    css: ../quarto.css
+    css: ../\quarto.css
     width: 1500
     center-title-slide: true
     center: true
-    tbl-cap-location: bottom	
+    tbl-cap-location: bottom
     toc: true
     toc-depth: 1
     toc-title: Outline
