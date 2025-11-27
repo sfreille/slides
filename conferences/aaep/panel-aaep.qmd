@@ -136,92 +136,8 @@ puzzle](imagenes/ideology-puzzle-republicans.png){fig-align="center"}
 ![Conservative (republicans) support por liberal policies](imagenes/healthcare-support-trend.png){fig-align="center"}
 -->
 
-# **Research agenda #1: Preference ordering and voting choices** {background=#00345E}
 
-<!-- 
-## Preference and voting
-
--   Year #1 $\longrightarrow$ single-peak preferences, vote transfer
-    and political outcome surveys
-	- employed a ranked-choice survey experiment to explore electoral
-      preferences among public university students [relatively
-      homogeneous course]
--   Year #2 $\longrightarrow$ the probabilistic voting model,
-    individual preferences on ideology & policy and the *political
-    compass*
-	- political compass --i.e. multidimensional ideology and policy
-
-
-# *1st Intervention*
-
-First intervention was to employed 
-
-This kind of survey helps analyze how students rank candidates from left to right and create opportunities to test foundational concepts like single peak preferences, vote transfers and agenda power.
--->
-
-
-## Single-peaked pref. (SPP) and Condorcet cycles
-
--   SPP imply that the ordering of alternatives follows a pattern
-      where individual welfare (utility) decreases as alternatives
-      move away from the bliss point
--   **Condorcet winner** $\longrightarrow$ an alternative whichs is
-    preferred to *any* other alternative by a majority of voters
-	- if no Condorcet winner $\longrightarrow$ **voting cycles**
-      [indeterminate collective choice]
-	- if **SPP** then **Condorcet winner is guaranteed
-      to exist**.
-	  - Condorcet winner *may* exist even without SPP
--   We ran two surveys: august 8th (before PASO) and october 12th
-    (before General). Students were **asked to rank five candidates from
-    least (1) to most preferred (5)**. We ordered from most left-wing
-    to most right-wing using *La Nación* survey. 
-
-## PASO survey: preference profiles
-
-![](imagenes/spp_paso.png){fig-align="center"}
-
-- **16 out of 48 (33\%) preference profiles non-single peaked** orderings.
-
-## General survey: preference profiles 
-
-![](imagenes/spp_gen.png){fig-align="center"}
-
-- Now **23 out of 41 (56%) profiles produced non-single peaked** orderings.
-
-## Pairwise voting and Condorcet winner
-
-| Candidato   | massa | bullrich | schiaretti | bregman | milei |
-|-------------|------:|----------|------------|---------|-------|
-| massa       | 0     | 7        | 5          | 28      | 10    |
-| bullrich    | 32 | 0 | **<span style="background-color: #90EE90;">24</span>** | 37 | **<span style="background-color: #90EE90;">25</span>** |
-| schiaretti  | **<span style="background-color: #90EE90;">34</span>** | **<span style="background-color: #90EE90;">15</span>** | 0 | **<span style="background-color: #90EE90;">39</span>** | 17 |
-| bregman     | 11    | 2        | 0          | 0       | 5     |
-| milei       | 29    | 14       | 22         | 34 | 0 |
-
-## Pairwise voting and Condorcet winner (cont.)
-
-| Candidato   | -1 | 0 | 1 |
-|-------------|---:|--:|--:|
-| massa       | 1  | 0 | 1 |
-| **<span style="background-color: #90EE90;">bullrich</span>** | 0  | 0 | 4 |
-| schiaretti  | 2  | 0 | 2 |
-| **<span style="background-color: #ffcccb;">bregman</span>** | 4  | 0 | 0 |
-| milei       | 1  | 0 | 3 |
-
-- Bullrich is a Condorcet-winner; Bregman a Condorcet-loser 
-  - note this only holds for **pairwise-voting**, not in real elections
-
-
-## Vote transfer
-
-After the results of the general election, which determined the *ballotage* candidates: Javier Milei and Sergio Massa. At this stage, students were asked to report their votes cast in the first and second electoral rounds (*PASO* and general election, respectively), as well as their **intended vote in the *ballotage***. By documenting their previous votes, this approach ensures that all respondents have disclosed their electoral behavior in each of the three stages, allowing for **accurate individual-level tracking of voting patterns**.
-
-## Vote transfer (cont.) 
-
-![](imagenes/vote_transfer.png){fig-align="center"}
-
-# **Research agenda #2: Multidimensional ideology and policies** {background=#00345E}
+# **Research agenda: Multidimensional ideology and policies** {background=#00345E}
 
 ## 2nd Intervention
 
@@ -396,7 +312,9 @@ $$
   --candidate identity; voter disengagement; etc
 
 
-# **Appendix** {background=#00345E}
+
+
+# **Appendix I: Estimating candidate ideal points** {background=#00345E}
 
 
 ## Appendix I: Candidate's ideal policy points
@@ -484,5 +402,91 @@ Complementación fuentes
 
 Complementación fuentes
 :::
+
+# **Appendix II: Preference ordering and voting choices** {background=#00345E}
+
+
+<!-- 
+## Preference and voting
+
+-   Year #1 $\longrightarrow$ single-peak preferences, vote transfer
+    and political outcome surveys
+	- employed a ranked-choice survey experiment to explore electoral
+      preferences among public university students [relatively
+      homogeneous course]
+-   Year #2 $\longrightarrow$ the probabilistic voting model,
+    individual preferences on ideology & policy and the *political
+    compass*
+	- political compass --i.e. multidimensional ideology and policy
+
+
+# *1st Intervention*
+
+First intervention was to employed 
+
+This kind of survey helps analyze how students rank candidates from left to right and create opportunities to test foundational concepts like single peak preferences, vote transfers and agenda power.
+-->
+
+
+## Single-peaked pref. (SPP) and Condorcet cycles
+
+-   SPP imply that the ordering of alternatives follows a pattern
+      where individual welfare (utility) decreases as alternatives
+      move away from the bliss point
+-   **Condorcet winner** $\longrightarrow$ an alternative whichs is
+    preferred to *any* other alternative by a majority of voters
+	- if no Condorcet winner $\longrightarrow$ **voting cycles**
+      [indeterminate collective choice]
+	- if **SPP** then **Condorcet winner is guaranteed
+      to exist**.
+	  - Condorcet winner *may* exist even without SPP
+-   We ran two surveys: august 8th (before PASO) and october 12th
+    (before General). Students were **asked to rank five candidates from
+    least (1) to most preferred (5)**. We ordered from most left-wing
+    to most right-wing using *La Nación* survey. 
+
+## PASO survey: preference profiles
+
+![](imagenes/spp_paso.png){fig-align="center"}
+
+- **16 out of 48 (33\%) preference profiles non-single peaked** orderings.
+
+## General survey: preference profiles 
+
+![](imagenes/spp_gen.png){fig-align="center"}
+
+- Now **23 out of 41 (56%) profiles produced non-single peaked** orderings.
+
+## Pairwise voting and Condorcet winner
+
+| Candidato   | massa | bullrich | schiaretti | bregman | milei |
+|-------------|------:|----------|------------|---------|-------|
+| massa       | 0     | 7        | 5          | 28      | 10    |
+| bullrich    | 32 | 0 | **<span style="background-color: #90EE90;">24</span>** | 37 | **<span style="background-color: #90EE90;">25</span>** |
+| schiaretti  | **<span style="background-color: #90EE90;">34</span>** | **<span style="background-color: #90EE90;">15</span>** | 0 | **<span style="background-color: #90EE90;">39</span>** | 17 |
+| bregman     | 11    | 2        | 0          | 0       | 5     |
+| milei       | 29    | 14       | 22         | 34 | 0 |
+
+## Pairwise voting and Condorcet winner (cont.)
+
+| Candidato   | -1 | 0 | 1 |
+|-------------|---:|--:|--:|
+| massa       | 1  | 0 | 1 |
+| **<span style="background-color: #90EE90;">bullrich</span>** | 0  | 0 | 4 |
+| schiaretti  | 2  | 0 | 2 |
+| **<span style="background-color: #ffcccb;">bregman</span>** | 4  | 0 | 0 |
+| milei       | 1  | 0 | 3 |
+
+- Bullrich is a Condorcet-winner; Bregman a Condorcet-loser 
+  - note this only holds for **pairwise-voting**, not in real elections
+
+
+## Vote transfer
+
+After the results of the general election, which determined the *ballotage* candidates: Javier Milei and Sergio Massa. At this stage, students were asked to report their votes cast in the first and second electoral rounds (*PASO* and general election, respectively), as well as their **intended vote in the *ballotage***. By documenting their previous votes, this approach ensures that all respondents have disclosed their electoral behavior in each of the three stages, allowing for **accurate individual-level tracking of voting patterns**.
+
+## Vote transfer (cont.) 
+
+![](imagenes/vote_transfer.png){fig-align="center"}
 
 
