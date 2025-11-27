@@ -71,7 +71,7 @@ format:
 
 - **Median voter theorem (MVT)** extremely limited as is; increasing
   polarization may render it pretty useless to explain and understand
-- Probabilistic voting model (PVM) (aka *swing-voter model*). Voters derive
+- Probabilistic voting model (PVM) $\longrightarrow$ voters derive
   utility from:
   - consumption --fiscal policy affects income groups differently
     **[policy]**	
