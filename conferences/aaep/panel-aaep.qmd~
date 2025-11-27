@@ -1,0 +1,446 @@
+---
+title: Panel de Economía Política 
+title-slide-attributes:
+  data-background-image: background.png
+  data-background-size: contain
+  data-background-opacity: "0.5"
+subtitle: LX Reunión Anual - Asociación Argentina de Economía Política (AAEP)
+author: |
+  | **Sebastián Freille**
+  | sfreille@unc.edu.ar
+  | FCE-UNC
+format: 
+  revealjs:
+    slide-number: true
+    preview-links: auto
+    css: ..\quarto.css
+    width: 1500
+    center-title-slide: true
+    center: true
+    tbl-cap-location: bottom	
+    toc: true
+    toc-depth: 1
+    toc-title: Outline
+    link-external-newwindow: true
+---
+
+> Action speaks louder than words but not nearly as often.\
+> **\[Mark Twain\]**
+
+# Background and motivation {background=#00345E}
+
+<!--
+## A *different* way of teaching & doing research in political economy
+
+-   Over the course of two years, a series of classroom interventions
+    were designed and applied in the Political Economy elective class
+    at Facultad de Ciencias Económicas (UNC)
+	- main purpose $\longrightarrow$ to enrich learning experience by
+      testing key theories, results and concepts in politics and
+      political economy [but often *alien* to undergraduate students]
+
+ 
+## Motivation and literature: voting choice models
+
+-   Pedagogical
+    - easier to grasp abstract and theoretical concepts --Condorcet
+      winner, single-peaked and single-crossing properties,
+      probabilistic two-dimensional voting, etc. 
+-   Methodological
+    - helps to develop ideas, methods and procedures to understand
+      domestic politics and policies
+-->	
+
+## The (intended) research agenda
+
+- Research agenda fits along 3 (three) loosely related fields
+  1. Voting choice models (PolEcon)
+  2. Social identity theory (Social Psychology)
+  3. Ideology puzzle/conflicted conservatism (Public Opinion)
+- Fueled new directions of research in important political economy
+  topics $\longrightarrow$ polarization, democratic backsliding,
+  populism and democracy, policy swings, and cognitive processes
+  associated with voting
+
+## Motivation and literature: voting choice models
+
+- *Median voter theorem (MVT)* extremely limited as is; increasing
+  polarization may render it pretty useless to explain and understand
+- Probabilistic voting model (PVM) (aka *swing-voter model*). Voters derive
+  utility from:
+  - consumption --fiscal policy affects income groups differently
+    [policy]	
+  - things other than consumption -non-economic policies, candidate
+    attributes, group identity, etc [ideology/identity]
+- May help to explain why voters go against their
+  policy preferences
+  - Lindbeck & Weibull (1987), Cukierman (1991), Roemer (1998), Groseclose (2001), Lee & Roemer (2006), 
+    Acemoglu et al (2015))
+ 
+## Motivation and literature: voting choice models (cont.)
+
+![Argentina, Presidencial 2023. ¿MVT?](imagenes/voto-economico-2023.png){fig-align="center"}
+
+## Motivation and literature: voting choice models (cont.)
+
+![EEUU: últimas 3 elecciones. ¿Los menos educados votan en contra de
+sus preferencias de política?](imagenes/voto-trump-white-college.png){fig-align="center"}
+  
+## Motivation and literature: social identity theory
+  
+- Social identity theory [Tajfel & Turner (1979), Turner & Oakes
+  (1986), Fearon & Laitin (2000)] and spin-offs [Akerlof & Kranton (2000), Shayo
+  (2009), Klor & Shayo (2010), Enke (2020), Gennaioli & Tabellini (2023] 
+  - a person's sense of who they are based on group membership (class,
+    family, football team, party) 
+- Groups give us a sense of social identity
+  - allows for dividing the world between "us" and "them". Tendency to
+    exaggerate:
+	1. differences between groups [in-group vs out-group]
+	2. similarities within groups [in-group]
+
+## Motivation and literature: social identity theory (cont.)
+
+![In-group versus out-group](imagenes/social-identity-theory.png){fig-align="center"}
+    
+  
+## Motivation and literature: ideology puzzle
+
+- Ellis and Stimson (2012), Stimson (2015), Claassen et al (2015)
+  $\longrightarrow$ between 25\% and 32\% of americans experience
+  *conflicted conservatism* (conservadurismo conflictuado) 
+  - group which self-perceive as conservative yet adopt liberal policy
+    views (generally favor liberal policies)
+- Alrededor de un 90% de los argentinos rechazan recortes en salud y
+  educación pública [Encuesta Nacional de Creencias Sociales (UBA),
+  ondas 2023 y 2024]
+
+## Motivation and literature (cont.)
+
+![Distancias ideológicas entre grupos. Source: Ojer et al (2025)](imagenes/distance-between-groups-evolution.png){fig-align="center"}
+
+<!--
+## Motivation and literature (cont.)
+
+![The ideology
+puzzle](imagenes/ideology-puzzle-republicans.png){fig-align="center"}
+
+
+## Motivation and literature (cont.)
+
+![Conservative (republicans) support por liberal policies](imagenes/healthcare-support-trend.png){fig-align="center"}
+-->
+
+# Research agenda #1: Preference ordering and voting choices {background=#00345E}
+
+## Preference and voting
+
+-   Year #1 $\longrightarrow$ single-peak preferences, vote transfer
+    and political outcome surveys
+	- employed a ranked-choice survey experiment to explore electoral
+      preferences among public university students [relatively
+      homogeneous course]
+-   Year #2 $\longrightarrow$ the probabilistic voting model,
+    individual preferences on ideology & policy and the *political
+    compass*
+	- political compass --ie multidimensional ideology and policy
+
+<!-- 
+# *1st Intervention*
+
+First intervention was to employed 
+
+This kind of survey helps analyze how students rank candidates from left to right and create opportunities to test foundational concepts like single peak preferences, vote transfers and agenda power.
+-->
+
+
+## *Single-peaked preferences*: the model
+
+Given $k$ alternatives denoted as $x_1,x_2,...,x_k$, which are ordered linearly, that is, $x_1<x_2<...<x_k$; and individual satisfies this condition if there doesn't exist an alternative $x_s$ such that its neighbouring alternatives ($x_{s-1}$ and $x_{s+1}$) are preferred over $x_s$.
+
+In other words, single-peaked preferences imply that the ordering of alternatives follows a pattern where individual welfare (utility) decreases as alternatives move away from the highest point of preference.
+
+## Individual preferences orderings
+
+Two surveys were run:
+
+-   8th August (before PASO[^1])
+
+-   12th October (before general election)
+
+[^1]: The PASO (Primarias, abiertas, simultaneas y obligatorias) used to have two purposes: (i) Determining which political parties could compete in the general elections (\> 3% of the vote share to qualify), and (ii) selecting each party's official candidate.
+
+Students were asked to rank five candidates from least (1) to most preferred (5) one. In order to produce preference orderings we sourced candidates policy position in a one-dimensional scale from a political compass organized by *La Nación* newspaper.
+
+## First survey: 8th August (PASO)
+
+- Chosen candidates poll were as follows --from top (most left-wing) to bottom (most right-wing):
+
+|        **Answers**        |
+|:-------------------------:|
+|       Juan Grabois        |
+|       Sergio Massa        |
+| Horacio Rodriguez Larreta |
+|     Patricia Bullrich     |
+|       Javier Milei        |
+
+- Note that **16 out of 48 preference profiles produced non-single peaked** preference orderings.
+
+## First survey: 8th August (PASO) (cont.)
+
+![](imagenes/spp_paso.png){fig-align="center"}
+
+## Second survey: 12th October
+
+- Chosen candidates were those who had won their party’s *interna*[^2] (internal power struggle). They were ordered from top (most left-wing) to bottom (most right-wing):
+
+[^2]: PASO elections work as the *interna*.
+
+|    **Answers**    |
+|:-----------------:|
+|  Myriam Bregman   |
+|   Sergio Massa    |
+|  Juan Schiaretti  |
+| Patricia Bullrich |
+|   Javier Milei    |
+
+- Now **23 of 41 profiles produced non-single peaked** preference orderings.
+
+## Second survey: 12th October (cont.)
+
+![](imagenes/spp_gen.png){fig-align="center"}
+
+## Vote transfer
+
+After the results of the general election, which determined the *ballotage* candidates: Javier Milei and Sergio Massa. At this stage, students were asked to report their votes cast in the first and second electoral rounds (*PASO* and general election, respectively), as well as their intended vote in the *ballotage*. By documenting their previous votes, this approach ensures that all respondents have disclosed their electoral behavior in each of the three stages, allowing for accurate individual-level tracking of voting patterns.
+
+# 
+
+![](imagenes/vote_transfer.png){fig-align="center"}
+
+# **Research agenda #2: Multidimensional ideology and policies** {background=#00345E}
+
+## 2nd Intervention*
+
+-   Step #1: Instrument design & testing
+-   Step #2: Surveys & preliminary results
+-   Step #3: Data treatment & methodology
+-   Step #4: Presidential candidates political compass
+-   Step #5: Voting inference based on this *novel* methodology
+
+## Step #1: Instrument design & testing
+
+- Self-perceived ideology placement scales as a proxy for ideology is
+  misleading --conditioned by knowledege, engagement,
+  education, subjective meaning, etc
+
+![](imagenes/anes-self-perceived-ideology.png){fig-align="center"}
+
+## Step #1: Instrument design & testing
+
+- We asked **students to respond to 2 (two) questionnaires** --vague,
+  identitarian, philosophical questions
+  - first questionnaire both **economic and social themes** 
+  - second questionnarie both **economic and social policies** --concrete,
+    real questions
+- **Ideology and policy questions are connected** --i.e. "smaller state..."
+  and "privatizing Aerolineas, BNA y ARSAT"
+  
+  
+## Step #1: Instrument design & testing
+
+![Cuestionario -
+Ideología](imagenes/preguntas-encuesta-ideologia.png){fig-align="center"}
+
+![Cuestionario - Políticas](imagenes/preguntas-encuesta-policies.png){fig-align="center"}
+
+## Step #1: Instrument design & testing
+
+- All questions had a 6-item Likert-type scale.
+
+
+## Step #2: Surveys & Preliminary Results
+
+-   A survey was conducted among students to reveal their political and ideological preferences, capturing their positions along two main dimensions: **economic** and **social**. The figure below displays each respondent’s political position on the **political compass**.
+-   Arrows illustrate the gap between an individual's **policy stance** (starting point) and **ideological preference** (arrowhead). The color of each point indicates the candidate chosen in the runoff election.
+
+## *Step #2: Surveys & Preliminary Results*
+
+![Political Compass](imagenes/politicas%20--%20ideologia.png){fig-align="center"}
+
+## *Step #3: Data treatment and methodology*
+
+-   The main methodological change consists in transforming the inverse utility function used in the probabilistic voting model:
+
+$$
+V^{ij} = V^{j}(\mathbf{q}) + \sigma^{ij}(P)
+$$
+
+-   into a **spatial loss function** within a political compass framework. Formally, the loss function can be expressed as:
+
+$$
+L^{ij} = \alpha \sqrt{(\sigma^{ij} - \sigma^A)^2} + \beta \sqrt{(q^{ij} - q^A)^2}
+$$
+
+-   This specification enables the estimation of voting probabilities as a function of multidimensional ideological distances, instead of unidimensional utilities.
+
+## *Step #4: Presidential candidates political compass*
+
+-   Include a brief summary of the methodology applied. Justify the use of GPT/Natural Language Models with well-phrased prompts that allow us to isolate candidates' debate and reduce noise arising from the researcher's subjectivity and timing issues (over two years since the elections). In short, to isolate biases.
+-   Complemented the results with the political platforms presented at the JNE
+-   Focus on PASO only: in theory, the closest to their true beliefs and platforms, as per MVT.
+
+## *Step #5: Voting inference based on this novel* methodology
+
+-   Include compasses with the candidates' ideal points and their voters' distances.
+-   Voters are in both cases more centrist than their candidates. \[Median voter\]\^-1. Does pollarization stem from voters or politicians?
+-   Include the logit model and its results
+-   Confusion matrix
+-   The political version of *Say's Law*
+
+## *Step #5: Voting inference based on this novel* methodology
+
+![Political compass POLITICAL with politician](imagenes\politica,%20candidatos.png)
+
+## *Step #5: Voting inference based on this novel* methodology
+
+Using the ChatGPT-based natural methodology, it is possible to identify each candidate’s position on the political compass. It is also possible to calculate the distance between each individual and the candidate they voted for, providing a quantitative measure of policy proximity.
+
+## *Step #5: Voting inference based on this novel* methodology
+
+![Political compass SOCIAL with politician](imagenes\ideologia,%20candidatos.png)
+
+## *Step #5: Voting inference based on this novel* methodology
+
+Using the ChatGPT-based natural methodology, it is possible to identify each candidate’s position on the political compass. It is also possible to calculate the distance between each individual and the candidate they voted for, providing a quantitative measure of ideological proximity.
+
+## Econometric Model
+
+Using a Logic model to stimate the MVP, it's possible to forcast the vote of the individual.
+
+Following the next model, the predict of the votes are stimates:
+
+$$
+P(V_i = 1) = \frac{1}{1 + \exp\left( \gamma_0 + \alpha \cdot ( d_{\text{ideo}}^{iA} - d_{\text{ideo}}^{iB}) + \beta \cdot ( d_{\text{pol}}^{iA}  -  d_{\text{pol}}^{iB}) \right)} + \epsilon 
+$$
+
+## Econometric Model
+
+![Probabily to vote about policy](imagenes\probabilidad,%20politica,%20lineal.png)
+
+## Econometric Model
+
+![Probabily to vote about policy](imagenes\probabilidad%20ideologica,%20lineal.png)
+
+## Econometric Model
+
+The result of the predicts it's possible to observe in the confuxion matrix:
+
+| Predicho \\ Observado |  0  |  1  |
+|:---------------------:|:---:|:---:|
+|           0           |  7  |  3  |
+|           1           |  3  | 12  |
+
+**tengo que revisar que paso con los votos en blanco**
+
+# Interpretation and further research
+
+- ¿How to think about these (very preliminary) results? 
+  1. Perceptions and misperceptions of issues $\longrightarrow$ people on the right and on the left of the political spectrum
+    incur in a "polarization of reality" [Alesina, Miano & Stantcheva
+    (2020)] $\longrightarrow$ their perceptions of how taxes (and the
+    tax system) work are very different  --more information, better
+    decisions
+  2. 
+
+
+# Appendix {.appendix} {background=#00345E}
+
+
+## Appendix I: Candidate's ideal policy points
+
+- Rather than assuming candidates' ideal policy points (i.e. La
+  Nación Brujula Política) we used our two survey questionnaires to
+  "ask" the candidates where they stood on ideology and policies
+  - transcript of first Presidential debate (01 october 2023)
+- We used Google Gemini's 2.5 Pro Model to automate. 
+  - the scale used was: 1-Totalmente en desacuerdo, 2-Muy en
+    desacuerdo, 3-Levemente en desacuerdo, 4-Levemente de acuerdo,
+    5-Muy de acuerdo, 6-Totalmente de acuerdo
+	
+## Appendix I: Candidates' ideal policy points (cont.)
+
+- AI model was only asked to use transcription of debate as only
+  source for answering survey questions on the 1-6 scale. AI model scores
+  were cross-checked manually using excerpts from the transcript
+  returned by the IA model
+  - IA had to justify its score based on excerpts from actual
+    transcript
+- We chose a routine which meant each candidate was asked all the
+  questions sequentially; we then moved onto the next candidate and so
+  on
+
+  
+## Appendix I: Candidates' ideal policy points (cont.)
+
+::: {layout-ncol=3}
+![](imagenes/discursos-ai-interaccion-001.png)
+
+![](imagenes/discursos-ai-interaccion-002.png)
+
+![](imagenes/discursos-ai-interaccion-003.png)
+
+Preguntas e interacción
+:::
+
+## Appendix I: Candidates' ideal policy points (cont.)
+
+::: {layout-ncol=3}
+![](imagenes/discursos-ai-interaccion-004.png)
+
+![](imagenes/discursos-ai-interaccion-005.png)
+
+![](imagenes/discursos-ai-interaccion-006.png)
+
+Justificación de puntajes
+:::
+
+## Appendix I: Candidates' ideal policy points (cont.)
+
+- We then asked the AI model to use external sources to try to score
+  questions which went unanswered on the basis of the
+  transcripts. These sources could be personal interviews, political
+  platforms in the CNE and additional indirect sources. 
+  - we limited the search to information within one year prior to the
+    Presidential debate
+- As in the first stage, we asked the AI model to provide quotes and
+  excerpts used in its scoring. 
+- All the questions were thus answered using this procedure. 
+
+
+## Appendix I: Candidates' ideal policy points (cont.)
+
+::: {layout-ncol=3}
+![](imagenes/discursos-ai-interaccion-007.png)
+
+![](imagenes/discursos-ai-interaccion-008.png)
+
+![](imagenes/discursos-ai-interaccion-009.png)
+
+Complementación fuentes
+:::
+
+
+## Appendix I: Candidates' ideal policy points (cont.)
+
+::: {layout-ncol=3}
+![](imagenes/discursos-ai-interaccion-010.png)
+
+![](imagenes/discursos-ai-interaccion-011.png)
+
+![](imagenes/discursos-ai-interaccion-012.png)
+
+Complementación fuentes
+:::
+
+

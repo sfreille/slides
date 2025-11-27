@@ -101,6 +101,7 @@ ggplotly(p6,width=1400,height=600)
   - producto de reglas institucionales --sistema de pluralidad, menor
     *accountability*, límites a la reelección. 
 
+
 ## Financiamiento de gobiernos provinciales
 
 - En su conjunto, los gobiernos provinciales tienen una **alta
