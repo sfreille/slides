@@ -1,9 +1,5 @@
 ---
 title: Ideology, policy and voting 
-title-slide-attributes:
-  data-background-image: background.png
-  data-background-size: contain
-  data-background-opacity: "0.5"
 subtitle: LX Reunión Anual - Asociación Argentina de Economía Política
   (AAEP)<br/>Panel de Economía Política
 author: "<div class=\"author-main\"><strong>Sebastián
@@ -16,7 +12,7 @@ format:
   revealjs:
     slide-number: true
     preview-links: auto
-    css: ../\quarto.css
+    css: ..\quarto.css
     width: 1500
     center-title-slide: true
     center: true
@@ -26,8 +22,6 @@ format:
     toc-title: Outline
     link-external-newwindow: true
 ---
-
-
 
 # **Background and motivation** {background=#00345E}
 
