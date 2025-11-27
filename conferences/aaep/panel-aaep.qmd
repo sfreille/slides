@@ -6,7 +6,7 @@ author: "<div class=\"author-main\"><strong>Sebastián
 Freille</strong><br>sfreille@unc.edu.ar</div><hr
 style=\"width: 50%; margin: 20px auto;\"><div class=\"collaborators\"
 style=\"font-size: 0.5em;\"><strong>Colaboradores:</strong><br>Rubio,
-M; Jaroszewski, V.; Hofmann, R.; Albarracin, C.; Prazoni, G.; Larovere, S.; Seijas,
+M; Jaroszewski, V.; Hofmann, R.; Albarracin, C.; Prazoni, G.; Larovere, S.; Seia,
 L; Bachiglione, C.; Balbo, S.</div>"
 format:
   revealjs:
@@ -45,17 +45,18 @@ format:
 -   Methodological
     - helps to develop ideas, methods and procedures to understand
       domestic politics and policies
--->	
+
 
 > Action speaks louder than words but not nearly as often.\
 > **\[Mark Twain\]**
+-->	
+
 
 ## Motivation and literature: context
 
-- Research agenda fits along **3 (three) loosely related fields**:
-  1. Voting choice models (PolEcon)
-  2. Social identity theory (Social Psychology)
-  3. Ideology puzzle/conflicted conservatism (Public Opinion)
+- Research agenda fits along **2 (two) related fields**:
+  - Voting choice models (PolEcon)
+  - Ideology puzzle/conflicted conservatism (Public Opinion)
 - Fueled **new surge of research** in important political economy
   topics 
   - polarization, populism and democracy, policy swings, democratic
@@ -65,7 +66,7 @@ format:
 
 - **Median voter theorem (MVT)** extremely limited as is; increasing
   polarization may render it pretty useless to explain and understand
-- Probabilistic voting model (PVM) $\longrightarrow$ voters derive
+- **Probabilistic voting model (PVM)** $\longrightarrow$ voters derive
   utility from:
   - consumption --fiscal policy affects income groups differently
     **[policy]**	
@@ -85,6 +86,7 @@ format:
 ![EEUU: últimas 3 elecciones. ¿Los menos educados votan en contra de
 sus preferencias de política?](imagenes/voto-trump-white-college.png){fig-align="center"}
   
+<!--  
 ## Motivation and literature: social identity theory
   
 - **Social identity theory** [Tajfel & Turner (1979), Turner & Oakes
@@ -101,7 +103,7 @@ sus preferencias de política?](imagenes/voto-trump-white-college.png){fig-align
 ## Motivation and literature: social identity theory
 
 ![In-group versus out-group](imagenes/social-identity-theory.png){fig-align="center"}
-    
+--> 
   
 ## Motivation and literature: ideology puzzle
 
@@ -113,7 +115,8 @@ sus preferencias de política?](imagenes/voto-trump-white-college.png){fig-align
 	- 4 out of 10 republicans hold that universal health coverage is
       federal government's responsibility (Pew Research Center)
 - Alrededor de un **90% de los argentinos rechazan recortes en salud y
-  educación pública** [Encuesta Nacional de Creencias Sociales (UBA),
+  educación pública** [Encuesta Nacional de Creencias Sociales (Pulsar
+  UBA),
 	  ondas 2023 y 2024] 
 
 <!--
@@ -157,56 +160,62 @@ This kind of survey helps analyze how students rank candidates from left to righ
 -->
 
 
-## Single-peaked preferences (SPP) and Condorcet cycles
+## Single-peaked pref. (SPP) and Condorcet cycles
 
--   Given $k$ alternatives denoted as $x_1,x_2,...,x_k$, which are ordered linearly, that is, $x_1<x_2<...<x_k$; and individual satisfies this condition if there doesn't exist an alternative $x_s$ such that its neighbouring alternatives ($x_{s-1}$ and $x_{s+1}$) are preferred over $x_s$.
-    - SPP imply that the ordering of alternatives follows a pattern
+-   SPP imply that the ordering of alternatives follows a pattern
       where individual welfare (utility) decreases as alternatives
       move away from the bliss point
 -   **Condorcet winner** $\longrightarrow$ an alternative whichs is
     preferred to *any* other alternative by a majority of voters
 	- if no Condorcet winner $\longrightarrow$ **voting cycles**
       [indeterminate collective choice]
+	- if **SPP** then **Condorcet winner is guaranteed
+      to exist**.
+	  - Condorcet winner *may* exist even without SPP
+-   We ran two surveys: august 8th (before PASO) and october 12th
+    (before General). Students were **asked to rank five candidates from
+    least (1) to most preferred (5)**. We ordered from most left-wing
+    to most right-wing using *La Nación* survey. 
 
-## Individual preferences orderings
-
--   Two surveys were run:
-    -   August 8th (before PASO)
-    -   October 12th  (before general election)
--   Students were asked to rank five candidates from least (1) to most preferred (5). In order to produce preference orderings we sourced candidates policy position in a one-dimensional scale from a political compass organized by *La Nación* newspaper.
-
-## First survey: August 8th  (PASO)
-
-- We selected candidates as follows --from top (most left-wing) to
-  bottom (most right-wing):
-  - Juan Grabois (JG)
-  - Sergio Massa (SM)
-  - Horacio Rodriguez Larreta (HRL)
-  - Patricia Bullrich (PB)
-  - Javier Milei (JM)
-- Note that **16 out of 48 (33\%) preference profiles produced non-single peaked** orderings.
-
-## First survey: August 8th  (PASO) (cont.)
+## PASO survey: preference profiles
 
 ![](imagenes/spp_paso.png){fig-align="center"}
 
-## Second survey: October 12th 
+- **16 out of 48 (33\%) preference profiles non-single peaked** orderings.
 
-- We chose candidates who won their party’s *interna*. They were ordered from top (most left-wing) to bottom (most right-wing):
-  - Myriam Bregman (MB)
-  - Sergio Massa (SM)
-  - Juan Schiaretti (JS)
-  - Patricia Bullrich (PB)
-  - Javier Milei (JM)
-- Now **23 out of 41 (56%) profiles produced non-single peaked** orderings.
-
-## Second survey: 12th October (cont.)
+## General survey: preference profiles 
 
 ![](imagenes/spp_gen.png){fig-align="center"}
 
+- Now **23 out of 41 (56%) profiles produced non-single peaked** orderings.
+
+## Pairwise voting and Condorcet winner
+
+| Candidato   | massa | bullrich | schiaretti | bregman | milei |
+|-------------|------:|----------|------------|---------|-------|
+| massa       | 0     | 7        | 5          | 28      | 10    |
+| bullrich    | 32 | 0 | **<span style="background-color: #90EE90;">24</span>** | 37 | **<span style="background-color: #90EE90;">25</span>** |
+| schiaretti  | **<span style="background-color: #90EE90;">34</span>** | **<span style="background-color: #90EE90;">15</span>** | 0 | **<span style="background-color: #90EE90;">39</span>** | 17 |
+| bregman     | 11    | 2        | 0          | 0       | 5     |
+| milei       | 29    | 14       | 22         | 34 | 0 |
+
+## Pairwise voting and Condorcet winner (cont.)
+
+| Candidato   | -1 | 0 | 1 |
+|-------------|---:|--:|--:|
+| massa       | 1  | 0 | 1 |
+| **<span style="background-color: #90EE90;">bullrich</span>** | 0  | 0 | 4 |
+| schiaretti  | 2  | 0 | 2 |
+| **<span style="background-color: #ffcccb;">bregman</span>** | 4  | 0 | 0 |
+| milei       | 1  | 0 | 3 |
+
+- Bullrich is a Condorcet-winner; Bregman a Condorcet-loser 
+  - note this only holds for **pairwise-voting**, not in real elections
+
+
 ## Vote transfer
 
-After the results of the general election, which determined the *ballotage* candidates: Javier Milei and Sergio Massa. At this stage, students were asked to report their votes cast in the first and second electoral rounds (*PASO* and general election, respectively), as well as their intended vote in the *ballotage*. By documenting their previous votes, this approach ensures that all respondents have disclosed their electoral behavior in each of the three stages, allowing for accurate individual-level tracking of voting patterns.
+After the results of the general election, which determined the *ballotage* candidates: Javier Milei and Sergio Massa. At this stage, students were asked to report their votes cast in the first and second electoral rounds (*PASO* and general election, respectively), as well as their **intended vote in the *ballotage***. By documenting their previous votes, this approach ensures that all respondents have disclosed their electoral behavior in each of the three stages, allowing for **accurate individual-level tracking of voting patterns**.
 
 ## Vote transfer (cont.) 
 
@@ -224,8 +233,8 @@ After the results of the general election, which determined the *ballotage* cand
 
 ## Step #1: Instrument design & testing
 
-- Self-perceived ideology placement scales as a proxy for ideology is
-  misleading --conditioned by knowledege, engagement,
+- **Self-perceived ideology** placement scales as a proxy for ideology **is
+  misleading** --conditioned by knowledege, engagement,
   education, subjective meaning, etc.
 
 ![](imagenes/anes-self-perceived-ideology.png){fig-align="center"}
@@ -287,16 +296,16 @@ $$
 
 ## Step #4: Presidential candidates political compass
 
-- Since we only asked students, we have no way to know $\sigma^A$ and
+- We only asked students, thus no way to know $\sigma^A$ and
   $q^A$ (also for B party). 
-  - but what *if we could ask candidates the same questions and
-    scales*?
+  - but what **if we could ask candidates the same questions and
+    scales?**
 - We:
-  - fed AI-engines transcripts of Presidential debates, official
+  - **fed AI-engines transcripts** of Presidential debates, official
     political platforms (CNE) and newspapers articles and ask it to
     use this information to scale questions for each candidate
   - focused only on PASO --i.e. closest to true beliefs and preferences
-- This way, we built a proxy for candidate ideology and policy position
+- This way, we **built a proxy for candidate ideology and policy position**
   which is now comparable to students' replies. 
 	
 <!--
@@ -305,20 +314,23 @@ $$
 -   Focus on PASO only: in theory, the closest to their true beliefs and platforms, as per MVT.
 -->
 
+
 ## Step #5: Voting inference
-
--   Put it all together, candidate ideal points and their voters'
-    distances. 
-    -   Voters are in both cases more centrist than their candidates. \[Median voter\]\^-1. Does polarization stem from voters or politicians?
-    -   ¿A political *Say's Law*?
-
-## Step #5: Voting inference (cont.)
 
 ![Political compass - Candidates (policy)](imagenes\politica,%20candidatos.png)
 
 ## Step #5: Voting inference (cont.)
 
 ![Political compass - Candidates (ideology)](imagenes\ideologia,%20candidatos.png)
+
+## Step #5: Voting inference (cont.)
+
+-   Put it all together, candidate ideal points and their voters'
+    distances. 
+    -   **Voters** are in both cases **more centrist than their
+	candidates**  $\longrightarrow$ inverse median voter? 
+	    - Does polarization stem from voters or politicians?
+        - ¿A political *Say's Law*?
 
 
 <!--
@@ -329,8 +341,8 @@ Using the ChatGPT-based natural methodology, it is possible to identify each can
 ## Econometric model
 
 - Using a logistic model to estimate the PVM, it's possible to
-  forecast the vote of each individual. Following the next model, we
-  get the predicted votes based on ideology and policy positions:
+  predict the vote of each individual. Following the next model, we
+  get the **predicted votes based on ideology and policy positions**:
 
 $$
 P(V_i = 1) = \frac{1}{1 + \exp\left( \gamma_0 + \alpha \cdot ( d_{\text{ideo}}^{iA} - d_{\text{ideo}}^{iB}) + \beta \cdot ( d_{\text{pol}}^{iA}  -  d_{\text{pol}}^{iB}) \right)} + \epsilon 
@@ -360,16 +372,29 @@ $$
 
 ## Interpretation
 - ¿How to think about these (very preliminary) results? 
-  1. Perceptions and misperceptions of issues $\longrightarrow$ people on the right and on the left of the political spectrum
-    incur in a "polarization of reality" [Alesina, Miano & Stantcheva
-    (2020)] $\longrightarrow$ their perceptions of how taxes (and the
-    tax system) work are very different  --more information, better
+  - **Perceptions and misperceptions of issues** $\longrightarrow$
+    people on the right and on the left have different perceptions of
+    how tax policy works [Alesina, Miano & Stantcheva
+    (2020)] $\longrightarrow$ more information, better
     decisions
+  - **Patterns of voters according with their distance between
+    ideology and policy**? Differences in ideological dimension wegiht
+    tied to differences in group/ideology?
+   - ¿Do people's vote associate with group membership?
+     $\longrightarrow$ **social identity** 
+     - which groups important --peronism vs antiperonism; privatists versus statists $\longrightarrow$  more information, no change in decisions?
 
+## Issues and further research
 
-## Issues
+- **Enlarge and make sample representative**
+  - first aimed at undergraduate level population
+  - ideally more representative electorate
+- Larger, heterogeneous sample: do different people think of ideology
+  and policies in the same way? check **validity of instrument, response biases**
+- Incoporate **attitudes towards in- and out-groups** in questionnaire
+- Test other **possible ideological** motives other than groups
+  --candidate identity; voter disengagement; etc
 
-## Further research
 
 # **Appendix** {background=#00345E}
 
