@@ -16,7 +16,7 @@ format:
   revealjs:
     slide-number: true
     preview-links: auto
-    css: quarto.css
+    css: ../quarto.css
     width: 1500
     center-title-slide: true
     center: true
@@ -27,8 +27,7 @@ format:
     link-external-newwindow: true
 ---
 
-> Action speaks louder than words but not nearly as often.\
-> **\[Mark Twain\]**
+
 
 # **Background and motivation** {background=#00345E}
 
@@ -54,18 +53,20 @@ format:
       domestic politics and policies
 -->	
 
-## The (intended) research agenda
+> Action speaks louder than words but not nearly as often.\
+> **\[Mark Twain\]**
 
-- Research agenda fits along 3 (three) loosely related fields
+## Motivation and literature: context
+
+- Research agenda fits along **3 (three) loosely related fields**:
   1. Voting choice models (PolEcon)
   2. Social identity theory (Social Psychology)
   3. Ideology puzzle/conflicted conservatism (Public Opinion)
-- Fueled new directions of research in important political economy
+- Fueled **new surge of research** in important political economy
   topics 
-  - polarization, democratic backsliding,
-  populism and democracy, policy swings, and cognitive processes
-  associated with voting
-
+  - polarization, populism and democracy, policy swings, democratic
+    backsliding
+	
 ## Motivation and literature: voting choice
 
 - **Median voter theorem (MVT)** extremely limited as is; increasing
@@ -140,6 +141,7 @@ puzzle](imagenes/ideology-puzzle-republicans.png){fig-align="center"}
 
 # **Research agenda #1: Preference ordering and voting choices** {background=#00345E}
 
+<!-- 
 ## Preference and voting
 
 -   Year #1 $\longrightarrow$ single-peak preferences, vote transfer
@@ -152,7 +154,7 @@ puzzle](imagenes/ideology-puzzle-republicans.png){fig-align="center"}
     compass*
 	- political compass --i.e. multidimensional ideology and policy
 
-<!-- 
+
 # *1st Intervention*
 
 First intervention was to employed 
@@ -161,7 +163,7 @@ This kind of survey helps analyze how students rank candidates from left to righ
 -->
 
 
-## Single-peaked preferences (SPP): the concept
+## Single-peaked preferences (SPP) and Condorcet cycles
 
 -   Given $k$ alternatives denoted as $x_1,x_2,...,x_k$, which are ordered linearly, that is, $x_1<x_2<...<x_k$; and individual satisfies this condition if there doesn't exist an alternative $x_s$ such that its neighbouring alternatives ($x_{s-1}$ and $x_{s+1}$) are preferred over $x_s$.
     - SPP imply that the ordering of alternatives follows a pattern
@@ -169,18 +171,15 @@ This kind of survey helps analyze how students rank candidates from left to righ
       move away from the bliss point
 -   **Condorcet winner** $\longrightarrow$ an alternative whichs is
     preferred to *any* other alternative by a majority of voters
+	- if no Condorcet winner $\longrightarrow$ **voting cycles**
+      [indeterminate collective choice]
 
 ## Individual preferences orderings
 
-Two surveys were run:
-
--   August 8th (before PASO[^1])
-
--   October 12th  (before general election)
-
-[^1]: The PASO (Primarias, Abiertas, Simultaneas y Obligatorias) used to have two purposes: (i) Determining which political parties could compete in the general elections (\> 3% of the vote share to qualify), and (ii) selecting each party's official candidate.
-
-Students were asked to rank five candidates from least (1) to most preferred (5). In order to produce preference orderings we sourced candidates policy position in a one-dimensional scale from a political compass organized by *La Nación* newspaper.
+-   Two surveys were run:
+    -   August 8th (before PASO)
+    -   October 12th  (before general election)
+-   Students were asked to rank five candidates from least (1) to most preferred (5). In order to produce preference orderings we sourced candidates policy position in a one-dimensional scale from a political compass organized by *La Nación* newspaper.
 
 ## First survey: August 8th  (PASO)
 
@@ -191,7 +190,7 @@ Students were asked to rank five candidates from least (1) to most preferred (5)
   - Horacio Rodriguez Larreta (HRL)
   - Patricia Bullrich (PB)
   - Javier Milei (JM)
-- Note that **16 out of 48 preference profiles produced non-single peaked** orderings.
+- Note that **16 out of 48 (33\%) preference profiles produced non-single peaked** orderings.
 
 ## First survey: August 8th  (PASO) (cont.)
 
@@ -205,7 +204,7 @@ Students were asked to rank five candidates from least (1) to most preferred (5)
   - Juan Schiaretti (JS)
   - Patricia Bullrich (PB)
   - Javier Milei (JM)
-- Now **23 out of 41 profiles produced non-single peaked** orderings.
+- Now **23 out of 41 (56%) profiles produced non-single peaked** orderings.
 
 ## Second survey: 12th October (cont.)
 
