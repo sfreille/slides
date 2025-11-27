@@ -1,0 +1,140 @@
+---
+title: Economía Política Internacional
+title-slide-attributes:
+  data-background-image: ../fig/background-image-2.png
+  data-background-size: stretch
+  data-background-opacity: "0.85"
+subtitle: U1. Introducción a la economía politica. Las tres I's. Heterogeneidad y conflicto
+author:
+  - name: Sebastian Freille
+    affiliation: CPyRRII-UCC
+    email: 0933217@ucc.edu.ar
+pdf-engine: pdflatex
+format:
+  revealjs:
+    include-in-header:
+      - text: |
+          <style>
+            #title-slide .title {
+              color: #08DEFF;
+            }
+              
+            #title-slide .subtitle {
+              color: #08DEFF;
+            }
+ 
+            #title-slide {
+              color: #FFFFFF; 
+            }
+          </style>
+    slide-number: true
+    chalkboard:
+      buttons: false
+    preview-links: auto
+    css: ..\quarto.css
+    width: 1500
+    center-title-slide: true
+    center: true
+    tbl-cap-location: bottom	
+    toc: true
+    toc-depth: 1
+    toc-title: Contenidos
+    link-external-newwindow: true
+---
+
+## Clivajes políticos
+
+- Múltiples clivajes políticos en los países --cuáles y por qué cambian es una pregunta clave de política comparada. Ejemplos: religiosos, culturales, industrialización
+- Un clivaje menos estudiado --cambios externamente inducidos en la exposición al comercio internacional
+- Rogowski (1987) muestra que los resultados del modelo neoclásico de comercio de Heckscher-Ohlin y fundamentalmente el teorema Stolper-Samuelson implica que aumentos/disminuciones en los costos y dificultades asociadas al comercio internacional afectan poderosamente los clivajes políticos internos de manera diferente en países con diferentes dotaciones factoriales
+
+## Teoría neoclásica
+
+> **Teorema de Stolper-Samuelson.** En cualquier país, la protección beneficia (y la liberalización perjudica) a los propietarios de factores en los que el país tiene escasez relativa y también a productores que usan los factores escasos intensivamente. Asimismo, la protección perjudica (y la liberalización beneficia) a los propietarios de factores en el que el país tiene abundancia relativa y también a productores que usan los factores abundantes intensivamente
+
+- En un país rico en $L$ y pobre en $K$, la protección beneficiará al capital y perjudicará al trabajo; la liberalización beneficiará al trabajo y perjudicará al capital
+
+## Pero..
+
+- Cambios exógenos podrían tener exactamente los mismos efectos que aumentos/disminuciones de protección (aranceles a la M)
+- Ejemplo: brusca disminución de costos de transporte equivalente a una baja general de aranceles a la M. Del mismo modo para cualquier otro cambio exógeno
+- Esto es relevante $\longrightarrow$ cambios en los **riesgos** y **costos** del comercio internacional han sido frecuentes en la historia --vías férreas, buques a vapor, industria refrigeración.
+
+## ...y entonces
+
+- Cambios globales de este tipo deberían asociarse a consecuencias globales --en todos los países los propietarios y empleadores de factores relativamente abundantes deberían haberse beneficiado mientras que los propietarios y empleadores de factores relativamente escasos deberían haberse perjudicado
+- Los eventos de la década de 1930 deberían haber tenido exactamente el efecto opuesto
+- ¿Cuáles habrían sido las **consecuencias políticas** de esas redistribuciones de ingreso/riqueza?
+
+## Modelo simple de política y economía
+
+- Dos supuestos principales sobre el proceso político: 
+    1. Actores que ganan con un cambio intentan continuarlo y acelerarlo; actores que pierden con un cambio intentan detenerlo y desacelerarlo
+    2. Actores con brusco aumento en su ingreso/riqueza ven posible incrementar su influencia política
+- Traduciendo en términos de comercio internacional:
+    1. Ganadores con el cambio exógeno buscarán seguir expandiendo el libre comercio mientras que los perdedores buscarán obtener protección
+    2. Ganadores en términos económicos también aumentan su poder (influencia) política
+
+## La economía
+
+- Modelo tradicional de 3 (tres) factores: tierra (T), capital (K) y trabajo (L)
+- El ratio $T/L$ informa *totalmente* la dotación de ambos factores
+  - Ningún país puede ser abundante (escaso) en ambos factores
+- Economía avanzada aquella en que $K/L$ y $K/T$ es alto
+- Modelo de dotaciones factoriales hipersimplificado pero que permite categorizar cualquier país en terminos de un simple diagrama
+
+## La economia (cont.)
+
+![Cuatro tipos de dotaciones factoriales](fig/fig_dotaciones_factoriales_01.png)
+
+## La política
+
+- El modelo de Stolper-Samuelson (economía) aplicado al simple proceso político (política) implica que un **aumento en la exposición al comercio debe resultar en conflicto urbano-rural en dos tipos de países y en conflicto de clase en los otros dos tipos**
+- **Economía avanzada, pobre en $T$.** Aumentos de comercio benefician a $K$ y $L$ y perjudican a $T$. Los sectores urbanos --trabajadores y capitalistas- favorecen el libre comercio, los sectores rurales (i.e. agro) se oponen.
+- **Economía atrasada, pobre en $L$.** También surge el conflicto urbano rural; tanto $K$ como $L$ son escasos por lo que pierden ante la apertura comercial y buscarán protección
+
+## La política (cont.)
+
+- **Economía atrasada, pobre en $T$.** Acá surge el **conflicto de clase** --el $L$ va a promover el comercio; terratenientes, capitalistas e industrias manufactureras intensivas en $K$ buscan la protección.
+- **Economía avanzada, rica en $T$.** Emerge el conflicto de clase por razones opuestas --los terratenientes, capitalistas y sectores agrarios se benefician y apoyan al comercio; trabajadores e industrias intensivas en mano de obra buscan la protección.
+- Estas predicciones tienen alguna validez empírica --Alemania, UK y EEUU en el período 1860/1900. 
+
+## La política (cont.)
+
+![Efectos previstos de liberalización según tipología](fig/fig_dotaciones_factoriales_02.png)
+
+## La política (cont.)
+
+- EEUU y Alemania eran sociedades atrasadas (bajo $K$), pero mientras EEUU era rico en $T$ y pobre en $L$, Alemania era lo opuesto
+- Esto predice conflicto de clase en Alemania entre trabajadores promoviendo libre comercio y $K$ y $T$ apoyando proteccionismo 
+- Para EEUU, la teoría predice conflicto urbano-rural, con el el sector agrario (rural) promoviendo el libre comercio y el sector urbano ($K$,$L$) buscando y apoyando la protección
+- UK era un país avanzado con abundancia de $K$ y $L$ --el clivaje era urbano-rural aunque ahora los terranientes promovían la protección.
+
+## La política (cont.)
+
+> **Implicancias y cambios políticos.** En UK, el $K$ y $L$ efectivamente se unieron en el partido Liberal y trajeron cambios como el sufragio extendido y un recorte del poder aristocrático terrateniente. En Alemania, con el liberalismo retraido, el sufragio fue recortado y lejos de erosionar el poder aristocrático, la burguesía aumentó su poder
+
+## Menor exposición al comercio
+
+- Cuando el comercio se restringe, los ganadores y perdedores cambian --propietarios de factores escasos ganan y propietarios de factores abundantes pierden (con el agravante de que no pueden promover más proteccionismo, el proteccionismo viene con las condiciones!)
+- **Economía avanzada, rica en $T$.**. Se da un conflicto de clase por parte de una clase trabajadora agresiva. El $K$ y $T$ pierden pero el $L$ gana y tratará de ganar poder político.
+- **Economía avanzada, rica en $L$.** Aparece conflicto urbano-rural ya que el agro (escaso) se beneficia y buscará que se mantenga esta situación
+
+## Menor exposición al comercio (cont.)
+
+- **Economía atrasada, rica en $T$.** Nuevamente conflicto urbano-rural pero al revés. Se unen los sectores urbanos ($K$ y $L$) para mantener la situación de menor comercio
+- **Economía atrasada, rica en $L$.** Conflicto de clase con el sector $L$ a la defensiva que buscará mantener el *status-quo* (menos comercio)
+- Nuevamente, una mirada rápida permite ver algunas de estas predicciones plasmadas en ciertos regímenes y países
+
+## Menor exposición al comercio (cont.)
+
+![Efectos previstos de menor liberalización según tipología](fig/fig_dotaciones_factoriales_03.png)
+
+## Menor exposición al comercio (cont.)
+
+- El New Deal en EEUU fue un ejemplo de coalición que incrementó el poder político de los sindicatos de trabajadores. Alternativamente, en Alemania, con otras dotaciones y ante una depresión similar, emergieron procesos dictatoriales con gran influencia política de la clase agraria
+- En América Latina, la Depresión generó (o al menos fortaleció) coaliciones "populistas" que unieron $L$ y $K$ (clases medias urbanas) en oposición a la clase terraniente.
+- En Asia, y en Japón más especificamente, la influencia militar suprimió las organizaciones de trabajadores favoreciendo al $K$ y $T$. 
+
+
+

@@ -1,0 +1,1177 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Los Instrumentos de la Política Comercial</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+        
+        .slide-container {
+            display: none;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 40px;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+            margin-top: 20px;
+            margin-bottom: 20px;
+            min-height: 600px;
+            position: relative;
+        }
+        
+        .slide-container.active {
+            display: block;
+        }
+        
+        .slide-header {
+            background: linear-gradient(135deg, #2c3e50, #3498db);
+            color: white;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+        
+        .slide-title {
+            font-size: 2.5em;
+            font-weight: bold;
+            margin: 0;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+        
+        .slide-subtitle {
+            font-size: 1.2em;
+            margin: 10px 0 0 0;
+            opacity: 0.9;
+        }
+        
+        .slide-content {
+            font-size: 1.1em;
+            line-height: 1.6;
+            color: #2c3e50;
+        }
+        
+        .slide-content h2 {
+            color: #2c3e50;
+            font-size: 2em;
+            margin-bottom: 20px;
+            border-bottom: 3px solid #3498db;
+            padding-bottom: 10px;
+        }
+        
+        .slide-content h3 {
+            color: #34495e;
+            font-size: 1.5em;
+            margin-top: 25px;
+            margin-bottom: 15px;
+        }
+        
+        .slide-content ul {
+            margin: 15px 0;
+            padding-left: 30px;
+        }
+        
+        .slide-content li {
+            margin: 10px 0;
+            position: relative;
+        }
+        
+        .slide-content li::marker {
+            color: #3498db;
+            font-weight: bold;
+        }
+        
+        .formula {
+            background: #f8f9fa;
+            border-left: 4px solid #3498db;
+            padding: 15px;
+            margin: 20px 0;
+            font-family: 'Courier New', monospace;
+            font-weight: bold;
+            border-radius: 5px;
+        }
+        
+        .example {
+            background: #e8f5e8;
+            border: 2px solid #27ae60;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 10px;
+        }
+        
+        .example h4 {
+            color: #27ae60;
+            margin-top: 0;
+            font-size: 1.3em;
+        }
+        
+        .navigation {
+            position: fixed;
+            bottom: 30px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: rgba(0,0,0,0.8);
+            padding: 15px 30px;
+            border-radius: 50px;
+            display: flex;
+            gap: 15px;
+            align-items: center;
+            z-index: 1000;
+        }
+        
+        .nav-btn {
+            background: #3498db;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 25px;
+            cursor: pointer;
+            font-weight: bold;
+            transition: all 0.3s ease;
+        }
+        
+        .nav-btn:hover {
+            background: #2980b9;
+            transform: translateY(-2px);
+        }
+        
+        .nav-btn:disabled {
+            background: #7f8c8d;
+            cursor: not-allowed;
+            transform: none;
+        }
+        
+        .slide-counter {
+            color: white;
+            font-weight: bold;
+            padding: 0 15px;
+        }
+        
+        .copyright {
+            position: absolute;
+            bottom: 10px;
+            right: 20px;
+            font-size: 0.8em;
+            color: #7f8c8d;
+            font-style: italic;
+        }
+        
+        .highlight {
+            background: linear-gradient(120deg, #a8edea 0%, #fed6e3 100%);
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-weight: bold;
+        }
+        
+        .important {
+            background: #fff3cd;
+            border: 2px solid #ffc107;
+            padding: 15px;
+            margin: 15px 0;
+            border-radius: 8px;
+            font-weight: bold;
+        }
+        
+        .table-container {
+            overflow-x: auto;
+            margin: 20px 0;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background: white;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        
+        th, td {
+            padding: 12px 15px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        
+        th {
+            background: #3498db;
+            color: white;
+            font-weight: bold;
+        }
+        
+        tr:hover {
+            background: #f5f5f5;
+        }
+    </style>
+</head>
+<body>
+
+<!-- Diapositiva 1: Portada -->
+<div class="slide-container active">
+    <div class="slide-header">
+        <h1 class="slide-title">Capítulo 9</h1>
+        <p class="slide-subtitle">Los Instrumentos de la Política Comercial</p>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 2: Vista Previa -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Vista Previa</h1>
+    </div>
+    <div class="slide-content">
+        <ul>
+            <li>Análisis de equilibrio parcial de aranceles en una sola industria: oferta, demanda y comercio</li>
+            <li>Costos y beneficios de los aranceles</li>
+            <li>Subsidios a las exportaciones</li>
+            <li>Cuotas de importación</li>
+            <li>Restricciones voluntarias de exportación</li>
+            <li>Requisitos de contenido local</li>
+        </ul>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 3: Tipos de Aranceles -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Tipos de Aranceles</h1>
+    </div>
+    <div class="slide-content">
+        <p>Un <span class="highlight">arancel</span> es un impuesto que se aplica cuando se importa un bien.</p>
+        
+        <h3>Arancel Específico</h3>
+        <p>Un <span class="highlight">arancel específico</span> se aplica como un cargo fijo por cada unidad de bienes importados.</p>
+        <div class="example">
+            <h4>Ejemplo:</h4>
+            <p>$3 por barril de petróleo.</p>
+        </div>
+        
+        <h3>Arancel Ad Valorem</h3>
+        <p>Un <span class="highlight">arancel ad valorem</span> se aplica como una fracción del valor de los bienes importados.</p>
+        <div class="example">
+            <h4>Ejemplo:</h4>
+            <p>Arancel del 25% sobre el valor de camiones importados.</p>
+        </div>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 4: Oferta, Demanda y Comercio -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Oferta, Demanda y Comercio en una Sola Industria</h1>
+    </div>
+    <div class="slide-content">
+        <ul>
+            <li>Consideremos cómo un arancel afecta un solo mercado, digamos el del trigo.</li>
+            <li>Supongamos que en ausencia de comercio el precio del trigo es más alto en el país Local que en el país Extranjero.</li>
+            <li>Con comercio, el trigo será enviado desde el país Extranjero al país Local hasta que se elimine la diferencia de precios.</li>
+        </ul>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 5: Curва de Demanda de Importaciones -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Oferta, Demanda y Comercio (cont.)</h1>
+    </div>
+    <div class="slide-content">
+        <p>Una <span class="highlight">curva de demanda de importaciones</span> es la diferencia entre la cantidad que los consumidores locales demandan menos la cantidad que los productores locales ofrecen, a cada precio.</p>
+        
+        <div class="formula">
+            La curva de demanda de importaciones del país Local:<br>
+            MD = D - S
+        </div>
+        
+        <p>Intercepta el eje de precios en P<sub>A</sub> y tiene pendiente descendente:</p>
+        <ul>
+            <li>A medida que el precio aumenta, la cantidad de importaciones demandada disminuye.</li>
+        </ul>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 6: Figura 9-1 -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Fig. 9-1: Derivando la Curva de Demanda de Importaciones del País Local</h1>
+    </div>
+    <div class="slide-content">
+        <div class="important">
+            [Esta diapositiva contiene una figura que muestra gráficamente la derivación de la curva de demanda de importaciones]
+        </div>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 7: Curva de Oferta de Exportaciones -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Oferta, Demanda y Comercio (cont.)</h1>
+    </div>
+    <div class="slide-content">
+        <p>Una <span class="highlight">curva de oferta de exportaciones</span> es la diferencia entre la cantidad que los productores extranjeros ofrecen menos la cantidad que los consumidores extranjeros demandan, a cada precio.</p>
+        
+        <div class="formula">
+            La curva de oferta de exportaciones del país Extranjero:<br>
+            XS* = S* - D*
+        </div>
+        
+        <p>Intercepta el eje de precios en P<sub>A</sub>* y tiene pendiente ascendente:</p>
+        <ul>
+            <li>A medida que el precio aumenta, la cantidad de exportaciones ofrecida aumenta.</li>
+        </ul>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 8: Figura 9-2 -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Fig. 9-2: Derivando la Curva de Oferta de Exportaciones del País Extranjero</h1>
+    </div>
+    <div class="slide-content">
+        <div class="important">
+            [Esta diapositiva contiene una figura que muestra gráficamente la derivación de la curva de oferta de exportaciones]
+        </div>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 9: Equilibrio Mundial -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Oferta, Demanda y Comercio (cont.)</h1>
+    </div>
+    <div class="slide-content">
+        <h3>En equilibrio:</h3>
+        <div class="formula">
+            demanda de importaciones = oferta de exportaciones<br><br>
+            demanda local - oferta local = oferta extranjera - demanda extranjera<br><br>
+            demanda local + demanda extranjera = oferta local + oferta extranjera<br><br>
+            demanda mundial = oferta mundial
+        </div>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 10: Figura 9-3 -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Fig. 9-3: Equilibrio Mundial</h1>
+    </div>
+    <div class="slide-content">
+        <div class="important">
+            [Esta diapositiva contiene una figura que muestra el equilibrio mundial donde se intersectan las curvas de demanda de importaciones y oferta de exportaciones]
+        </div>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 11: Efectos de un Arancel -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Efectos de un Arancel</h1>
+    </div>
+    <div class="slide-content">
+        <p>Un arancel actúa como un costo de transporte, haciendo que los vendedores no estén dispuestos a enviar bienes a menos que el precio local exceda el precio extranjero por el monto del arancel:</p>
+        
+        <div class="formula">
+            P<sub>T</sub> - t = P<sub>T</sub>*
+        </div>
+        
+        <div class="important">
+            Un arancel hace que el precio aumente en el mercado local y disminuya en el mercado extranjero.
+        </div>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 12: Figura 9-4 -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Fig. 9-4: Efectos de un Arancel</h1>
+    </div>
+    <div class="slide-content">
+        <div class="important">
+            [Esta diapositiva contiene una figura que muestra los efectos de un arancel en los mercados local y extranjero]
+        </div>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 13: Efectos en el Mercado Local -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Efectos de un Arancel (cont.)</h1>
+    </div>
+    <div class="slide-content">
+        <p>Debido a que el precio en el mercado local aumenta de P<sub>W</sub> bajo libre comercio a P<sub>T</sub> con el arancel:</p>
+        
+        <ul>
+            <li>Los productores locales ofrecen más y los consumidores locales demandan menos, por lo que</li>
+            <li>la cantidad de importaciones disminuye de Q<sub>W</sub> bajo libre comercio a Q<sub>T</sub> con el arancel.</li>
+        </ul>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 14: Efectos en el Mercado Extranjero -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Efectos de un Arancel (cont.)</h1>
+    </div>
+    <div class="slide-content">
+        <p>Debido a que el precio en el mercado extranjero disminuye de P<sub>W</sub> bajo libre comercio a P<sub>T</sub>* con el arancel:</p>
+        
+        <ul>
+            <li>Los productores extranjeros ofrecen menos, y los consumidores extranjeros demandan más, por lo que</li>
+            <li>la cantidad de exportaciones disminuye de Q<sub>W</sub> a Q<sub>T</sub>.</li>
+        </ul>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 15: Condición de Equilibrio -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Efectos de un Arancel (cont.)</h1>
+    </div>
+    <div class="slide-content">
+        <p>La cantidad de importaciones locales demandada es igual a la cantidad de exportaciones extranjeras ofrecida cuando:</p>
+        
+        <div class="formula">
+            P<sub>T</sub> - P<sub>T</sub>* = t
+        </div>
+        
+        <div class="important">
+            <p>El aumento en el precio local puede ser menor que el monto del arancel.</p>
+            <ul>
+                <li>Parte del efecto del arancel causa que el precio de exportación extranjero disminuya.</li>
+                <li>Pero este efecto a veces es muy pequeño.</li>
+            </ul>
+        </div>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 16: Arancel en País Pequeño -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Efectos de un Arancel en un País Pequeño</h1>
+    </div>
+    <div class="slide-content">
+        <p>Cuando un país es <span class="highlight">"pequeño"</span>, no tiene efecto sobre el precio extranjero (mundial) porque su demanda es una parte insignificante de la demanda mundial del bien.</p>
+        
+        <ul>
+            <li>El precio extranjero no disminuye, sino que permanece en P<sub>w</sub>.</li>
+            <li>El precio en el mercado local aumenta por el monto completo del arancel, a P<sub>T</sub> = P<sub>w</sub> + t.</li>
+        </ul>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 17: Figura 9-5 -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Fig. 9-5: Un Arancel en un País Pequeño</h1>
+    </div>
+    <div class="slide-content">
+        <div class="important">
+            [Esta diapositiva contiene una figura que muestra los efectos de un arancel en un país pequeño]
+        </div>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 18: Tasa Efectiva de Protección -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Midiendo el Monto de Protección</h1>
+    </div>
+    <div class="slide-content">
+        <p>La <span class="highlight">tasa efectiva de protección</span> mide cuánta protección proporciona un arancel (u otra política comercial).</p>
+        
+        <ul>
+            <li>Representa el cambio en el valor que las empresas de una industria agregan al proceso de producción cuando cambia la política comercial, lo cual depende del cambio en los precios que causa la política comercial.</li>
+        </ul>
+        
+        <p>Las tasas efectivas de protección a menudo difieren de las tasas arancelarias porque los aranceles afectan sectores distintos al sector protegido, causando efectos indirectos en los precios y el valor agregado para el sector protegido.</p>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 19: Ejemplo de Tasa Efectiva -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Midiendo el Monto de Protección (cont.)</h1>
+    </div>
+    <div class="slide-content">
+        <div class="example">
+            <h4>Ejemplo:</h4>
+            <p>Supongamos que los automóviles se venden en los mercados mundiales por $8,000, y están hechos de factores de producción por valor de $6,000.</p>
+            <ul>
+                <li>El valor agregado del proceso de producción es $8,000 - $6,000 = $2,000.</li>
+            </ul>
+            <p>Supongamos que un país pone un arancel del 25% sobre los autos importados para que las empresas locales de ensamblaje de autos ahora puedan cobrar hasta $10,000 en lugar de $8,000.</p>
+        </div>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 20: Cálculo de Tasa Efectiva -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Midiendo el Monto de Protección (cont.)</h1>
+    </div>
+    <div class="slide-content">
+        <p>La tasa efectiva de protección para las empresas locales de ensamblaje de autos es el cambio en el valor agregado:</p>
+        
+        <div class="formula">
+            ($4,000 - $2,000) / $2,000 = 100%
+        </div>
+        
+        <div class="important">
+            En este caso, la tasa efectiva de protección es mayor que la tasa arancelaria.
+        </div>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 21: Costos y Beneficios -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Costos y Beneficios de los Aranceles</h1>
+    </div>
+    <div class="slide-content">
+        <ul>
+            <li>Un arancel aumenta el precio de un bien en el país importador, por lo que perjudica a los consumidores y beneficia a los productores allí.</li>
+            <li>Además, el gobierno obtiene ingresos arancelarios.</li>
+            <li>¿Cómo medir estos costos y beneficios?</li>
+            <li>Usar los conceptos de excedente del consumidor y excedente del productor.</li>
+        </ul>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 22: Excedente del Consumidor -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Excedente del Consumidor y del Productor</h1>
+    </div>
+    <div class="slide-content">
+        <p>El <span class="highlight">excedente del consumidor</span> mide la cantidad que los consumidores ganan de las compras calculando la diferencia entre el precio realmente pagado y el precio máximo que estarían dispuestos a pagar por cada unidad consumida.</p>
+        
+        <ul>
+            <li>Cuando el precio aumenta, la cantidad demandada disminuye así como el excedente del consumidor.</li>
+        </ul>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 23-24: Figuras del Excedente del Consumidor -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Fig. 9-6 y 9-7: Derivando y Geometría del Excedente del Consumidor</h1>
+    </div>
+    <div class="slide-content">
+        <div class="important">
+            [Estas diapositivas contienen figuras que muestran cómo se deriva el excedente del consumidor de la curva de demanda y su representación geométrica]
+        </div>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 25: Excedente del Productor -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Excedente del Consumidor y del Productor (cont.)</h1>
+    </div>
+    <div class="slide-content">
+        <p>El <span class="highlight">excedente del productor</span> mide la cantidad que los productores ganan de las ventas calculando la diferencia entre el precio recibido y el precio mínimo al cual estarían dispuestos a vender.</p>
+        
+        <ul>
+            <li>Cuando el precio aumenta, la cantidad ofrecida aumenta así como el excedente del productor.</li>
+        </ul>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 26: Figura 9-8 -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Fig. 9-8: Geometría del Excedente del Productor</h1>
+    </div>
+    <div class="slide-content">
+        <div class="important">
+            [Esta diapositiva contiene una figura que muestra la representación geométrica del excedente del productor]
+        </div>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 27: Midiendo Costos y Beneficios -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Midiendo los Costos y Beneficios de los Aranceles</h1>
+    </div>
+    <div class="slide-content">
+        <p>Un arancel aumenta el precio en el país importador:</p>
+        <ul>
+            <li>el excedente del consumidor disminuye (consumidores peor)</li>
+            <li>el excedente del productor aumenta (productores mejor)</li>
+            <li>el gobierno recauda ingresos arancelarios igual a la tasa arancelaria multiplicada por la cantidad de importaciones con el arancel.</li>
+        </ul>
+        
+        <div class="formula">
+            t Q<sub>T</sub> = (P<sub>T</sub> - P<sub>T</sub>*) (D<sub>2</sub> - S<sub>2</sub>)
+        </div>
+        
+        <p>El cambio en el bienestar debido al arancel es <span class="highlight">e - (b + d)</span>.</p>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 28: Figura 9-9 -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Fig. 9-9: Costos y Beneficios de un Arancel para el País Importador</h1>
+    </div>
+    <div class="slide-content">
+        <div class="important">
+            [Esta diapositiva contiene una figura que muestra gráficamente los costos y beneficios de un arancel, incluyendo las áreas que representan pérdidas y ganancias de bienestar]
+        </div>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 29: Análisis de Bienestar -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Midiendo los Costos y Beneficios de los Aranceles (cont.)</h1>
+    </div>
+    <div class="slide-content">
+        <p>Para un país <span class="highlight">"grande"</span>, cuyos importaciones y exportaciones afectan los precios mundiales, el efecto del bienestar de un arancel es ambiguo.</p>
+        
+        <p>Los triángulos <span class="highlight">b y d</span> representan la <span class="highlight">pérdida de eficiencia</span>.</p>
+        <ul>
+            <li>El arancel distorsiona las decisiones de producción y consumo: los productores producen demasiado y los consumidores consumen muy poco.</li>
+        </ul>
+        
+        <p>El rectángulo <span class="highlight">e</span> representa la <span class="highlight">ganancia de términos de intercambio</span>.</p>
+        <ul>
+            <li>El arancel reduce el precio extranjero, permitiendo al país Local comprar sus importaciones más baratas.</li>
+        </ul>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 30: Redistribución de Ingresos -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Midiendo los Costos y Beneficios de los Aranceles (cont.)</h1>
+    </div>
+    <div class="slide-content">
+        <p>Parte de los ingresos del gobierno (rectángulo <span class="highlight">e</span>) representa la ganancia de términos de intercambio, y parte (rectángulo <span class="highlight">c</span>) representa parte de la pérdida en excedente del consumidor.</p>
+        <ul>
+            <li>El gobierno gana a expensas de los consumidores y extranjeros.</li>
+        </ul>
+        
+        <p>Si la ganancia de términos de intercambio excede la pérdida de eficiencia, entonces el bienestar nacional aumentará bajo un arancel, a expensas de países extranjeros.</p>
+        <ul>
+            <li>Sin embargo, los países extranjeros tienden a tomar represalias.</li>
+        </ul>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 31: Figura 9-10 -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Fig. 9-10: Efectos Netos de Bienestar de un Arancel</h1>
+    </div>
+    <div class="slide-content">
+        <div class="important">
+            [Esta diapositiva contiene una figura que muestra los efectos netos de bienestar de un arancel]
+        </div>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 32: Problemas Adicionales de los Aranceles -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Midiendo los Costos y Beneficios de los Aranceles (cont.)</h1>
+    </div>
+    <div class="slide-content">
+        <ul>
+            <li>Los aranceles pueden llevar a los socios comerciales a tomar represalias con sus propios aranceles, perjudicando así a los exportadores en el país que primero adoptó el arancel.</li>
+            <li>Los aranceles pueden ser difíciles de eliminar y los aranceles grandes pueden inducir a los productores a participar en actividades desperdiciosas para evitar pagar aranceles.</li>
+        </ul>
+        
+        <div class="example">
+            <h4>Ejemplo:</h4>
+            <p>Ford y Subaru instalan (y luego remueven) asientos en camionetas y pickups para evitar el arancel estadounidense sobre importaciones de camiones comerciales ligeros.</p>
+        </div>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 33: Subsidio a las Exportaciones -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Subsidio a las Exportaciones</h1>
+    </div>
+    <div class="slide-content">
+        <p>Un subsidio a las exportaciones también puede ser <span class="highlight">específico</span> o <span class="highlight">ad valorem</span>:</p>
+        <ul>
+            <li>Un subsidio específico es un pago por unidad exportada.</li>
+            <li>Un subsidio ad valorem es un pago como proporción del valor exportado.</li>
+        </ul>
+        
+        <p>Un subsidio a las exportaciones aumenta el precio en el país exportador, disminuyendo su excedente del consumidor (consumidores peor) y aumentando su excedente del productor (productores mejor).</p>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 34: Efectos del Subsidio -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Subsidio a las Exportaciones (cont.)</h1>
+    </div>
+    <div class="slide-content">
+        <ul>
+            <li>Además, los ingresos del gobierno disminuyen debido al pago de s × XS* para el subsidio a las exportaciones.</li>
+            <li>Un subsidio a las exportaciones reduce el precio pagado en los países importadores P<sub>S</sub>* = P<sub>S</sub> - s.</li>
+            <li>En contraste con un arancel, un subsidio a las exportaciones empeora los términos de intercambio al reducir el precio de las exportaciones en los mercados mundiales.</li>
+        </ul>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 35: Figura 9-11 -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Fig. 9-11: Efectos de un Subsidio a las Exportaciones</h1>
+    </div>
+    <div class="slide-content">
+        <div class="important">
+            [Esta diapositiva contiene una figura que muestra los efectos de un subsidio a las exportaciones]
+        </div>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 36: Bienestar del Subsidio -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Subsidio a las Exportaciones (cont.)</h1>
+    </div>
+    <div class="slide-content">
+        <ul>
+            <li>Un subsidio a las exportaciones daña el bienestar nacional.</li>
+            <li>Los triángulos <span class="highlight">b y d</span> representan la <span class="highlight">pérdida de eficiencia</span>.</li>
+        </ul>
+        <ul>
+            <li>El subsidio a las exportaciones distorsiona las decisiones de producción y consumo: los productores producen demasiado y los consumidores consumen muy poco comparado con el resultado del mercado.</li>
+        </ul>
+        <ul>
+            <li>El área <span class="highlight">b + c + d + f + g</span> representa el <span class="highlight">costo del subsidio pagado por el gobierno</span>.</li>
+            <li>Los términos de intercambio <span class="highlight">disminuyen</span>, porque el precio de las exportaciones cae.</li>
+        </ul>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 37: Subsidio en Europa -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Subsidio a las Exportaciones en Europa</h1>
+    </div>
+    <div class="slide-content">
+        <p>La Política Agrícola Común de la Unión Europea establece precios altos para productos agrícolas y subsidia las exportaciones para deshacerse del exceso de producción.</p>
+        <ul>
+            <li>Las exportaciones subsidiadas reducen los precios mundiales de productos agrícolas.</li>
+        </ul>
+        
+        <p>El costo de esta política para los contribuyentes europeos es casi $30 mil millones más que sus beneficios (en 2007). Los pagos de subsidios son aproximadamente el 22% del valor de la producción agrícola.</p>
+        <ul>
+            <li>La UE ha propuesto que los agricultores reciban pagos directos independientes de la cantidad de producción para ayudar a reducir los precios de la UE y reducir la producción.</li>
+        </ul>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 38: Figura 9-12 -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Fig. 9-12: Política Agrícola Común de Europa</h1>
+    </div>
+    <div class="slide-content">
+        <div class="important">
+            [Esta diapositiva contiene una figura que muestra la Política Agrícola Común de Europa]
+        </div>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 39: Cuota de Importación -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Cuota de Importación</h1>
+    </div>
+    <div class="slide-content">
+        <ul>
+            <li>Una <span class="highlight">cuota de importación</span> es una restricción sobre la cantidad de un bien que puede ser importado.</li>
+            <li>Esta restricción usualmente se hace cumplir mediante la emisión de licencias o derechos de cuota.</li>
+            <li>Una cuota de importación vinculante aumentará el precio de la importación porque la cantidad demandada excederá la cantidad ofrecida por los productores locales y de las importaciones.</li>
+        </ul>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 40: Rentas de Cuota -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Cuota de Importación (cont.)</h1>
+    </div>
+    <div class="slide-content">
+        <ul>
+            <li>Cuando se usa una cuota en lugar de un arancel para restringir las importaciones, el gobierno no recibe ingresos.</li>
+            <li>En su lugar, los ingresos por vender importaciones a precios altos van a los poseedores de licencias de cuota.</li>
+            <li>Estos ingresos extras se llaman <span class="highlight">rentas de cuota</span>.</li>
+        </ul>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 41: Figura 9-13 -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Fig. 9-13: Precios del Azúcar Crudo de EE.UU. y Mundial en $ por tonelada, 1989-2011</h1>
+    </div>
+    <div class="slide-content">
+        <div class="important">
+            [Esta diapositiva contiene una figura que muestra la comparación de precios del azúcar crudo entre EE.UU. y el mundo]
+        </div>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 42: Figura 9-14 -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Fig. 9-14: Efectos de la Cuota de Importación de Azúcar de EE.UU.</h1>
+    </div>
+    <div class="slide-content">
+        <div class="important">
+            [Esta diapositiva contiene una figura que muestra los efectos de la cuota de importación de azúcar en Estados Unidos]
+        </div>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 43: Restricción Voluntaria de Exportación -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Restricción Voluntaria de Exportación</h1>
+    </div>
+    <div class="slide-content">
+        <ul>
+            <li>Una <span class="highlight">restricción voluntaria de exportación</span> funciona como una cuota de importación, excepto que la cuota es impuesta por el país exportador en lugar del país importador.</li>
+            <li>Estas restricciones usualmente son solicitadas por el país importador.</li>
+            <li>Las ganancias o rentas de esta política son obtenidas por gobiernos extranjeros o productores extranjeros.</li>
+            <li>Los extranjeros venden una cantidad restringida a un precio aumentado.</li>
+        </ul>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 44: Requisito de Contenido Local -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Requisito de Contenido Local</h1>
+    </div>
+    <div class="slide-content">
+        <ul>
+            <li>Un <span class="highlight">requisito de contenido local</span> es una regulación que requiere que una fracción especificada de un bien final sea producida domésticamente.</li>
+            <li>Puede ser especificado en términos de valor, requiriendo que alguna participación mínima del valor de un bien represente valor agregado local, o en unidades físicas.</li>
+        </ul>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 45: Efectos del Contenido Local -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Requisito de Contenido Local (cont.)</h1>
+    </div>
+    <div class="slide-content">
+        <ul>
+            <li>Desde el punto de vista de los productores domésticos de insumos, un requisito de contenido local proporciona protección de la misma manera que lo haría una cuota de importación.</li>
+            <li>Desde el punto de vista de las empresas que deben comprar insumos locales, sin embargo, el requisito no coloca un límite estricto sobre las importaciones, sino que permite a las empresas importar más si también usan más partes locales.</li>
+        </ul>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 46: Características del Contenido Local -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Requisito de Contenido Local (cont.)</h1>
+    </div>
+    <div class="slide-content">
+        <ul>
+            <li>El requisito de contenido local no proporciona ni ingresos del gobierno (como lo haría un arancel) ni rentas de cuota.</li>
+            <li>En su lugar, la diferencia entre los precios de los bienes locales y las importaciones se promedia en el precio del bien final y se transfiere a los consumidores.</li>
+        </ul>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 47: Ejemplo de Contenido Local -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Requisito de Contenido Local (cont.)</h1>
+    </div>
+    <div class="slide-content">
+        <p>Cualquier proyecto de obra pública financiado por la Ley de Recuperación y Reinversión Americana de 2009 (ARRA) debe usar hierro, acero y bienes manufacturados de EE.UU. (a menos que la oferta extranjera sea más de 25% más baja).</p>
+        
+        <div class="example">
+            <h4>Ejemplo:</h4>
+            <p>El Puente de la Bahía que conecta San Francisco y Oakland no usó financiamiento ARRA porque algunos componentes clave habrían sido 23% ($400 millones) más caros.</p>
+        </div>
+        
+        <ul>
+            <li>Retrasos debido a tener que mostrar que algunos artículos no están disponibles de fuentes estadounidenses.</li>
+            <li>Ha activado cláusulas proteccionistas que excluyen a empresas estadounidenses de oportunidades en el extranjero.</li>
+        </ul>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 48: Otras Políticas Comerciales -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Otras Políticas Comerciales</h1>
+    </div>
+    <div class="slide-content">
+        <h3>Subsidios de crédito a las exportaciones</h3>
+        <ul>
+            <li>Un préstamo subsidiado a exportadores</li>
+            <li>El Banco de Exportación-Importación de EE.UU. subsidia préstamos a exportadores estadounidenses.</li>
+        </ul>
+        
+        <h3>Compras gubernamentales</h3>
+        <ul>
+            <li>Las agencias gubernamentales están obligadas a comprar a proveedores locales, incluso cuando cobran precios más altos (o tienen calidad inferior) comparado con proveedores extranjeros.</li>
+        </ul>
+        
+        <h3>Regulaciones burocráticas (burocracia)</h3>
+        <ul>
+            <li>Las regulaciones de seguridad, salud, calidad o aduanas pueden actuar como una forma de protección y restricción comercial.</li>
+        </ul>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 49: Efectos de la Política Comercial -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Los Efectos de la Política Comercial</h1>
+    </div>
+    <div class="slide-content">
+        <p>Para cada política comercial, el precio aumenta en el país Local que adopta la política.</p>
+        <ul>
+            <li>Los productores locales ofrecen más y ganan.</li>
+            <li>Los consumidores locales demandan menos y pierden.</li>
+        </ul>
+        
+        <p>El precio mundial disminuye cuando el país Local es un país <span class="highlight">"grande"</span> que afecta los precios mundiales.</p>
+        
+        <ul>
+            <li>Los aranceles generan ingresos del gobierno; los subsidios a las exportaciones los reducen; las cuotas de importación no afectan los ingresos del gobierno.</li>
+            <li>Todas estas políticas comerciales crean distorsiones de producción y consumo.</li>
+        </ul>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 50: Tabla 9-1 -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Tabla 9-1: Efectos de Políticas Comerciales Alternativas</h1>
+    </div>
+    <div class="slide-content">
+        <div class="table-container">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Política</th>
+                        <th>Precio Local</th>
+                        <th>Precio Mundial</th>
+                        <th>Producción Local</th>
+                        <th>Consumo Local</th>
+                        <th>Ingresos del Gobierno</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Arancel</td>
+                        <td>Aumenta</td>
+                        <td>Disminuye*</td>
+                        <td>Aumenta</td>
+                        <td>Disminuye</td>
+                        <td>Aumenta</td>
+                    </tr>
+                    <tr>
+                        <td>Subsidio a exportaciones</td>
+                        <td>Aumenta</td>
+                        <td>Disminuye</td>
+                        <td>Aumenta</td>
+                        <td>Disminuye</td>
+                        <td>Disminuye</td>
+                    </tr>
+                    <tr>
+                        <td>Cuota de importación</td>
+                        <td>Aumenta</td>
+                        <td>Disminuye*</td>
+                        <td>Aumenta</td>
+                        <td>Disminuye</td>
+                        <td>Sin cambio</td>
+                    </tr>
+                    <tr>
+                        <td>Restricción voluntaria</td>
+                        <td>Aumenta</td>
+                        <td>Disminuye*</td>
+                        <td>Aumenta</td>
+                        <td>Disminuye</td>
+                        <td>Sin cambio</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <p><em>*Solo si el país es "grande"</em></p>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 51: Resumen -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Resumen</h1>
+    </div>
+    <div class="slide-content">
+        <ol>
+            <li>Un arancel aumenta el precio local y la cantidad ofrecida y reduce la cantidad demandada y la cantidad comerciada; también disminuye el precio mundial cuando el país es <span class="highlight">"grande"</span>.</li>
+            <li>Una cuota hace lo mismo; un subsidio a las exportaciones hace lo mismo.</li>
+            <li>Los aranceles generan ingresos del gobierno; los subsidios a las exportaciones los reducen; las cuotas de importación son neutrales en ingresos.</li>
+        </ol>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 52: Resumen (cont.) -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Resumen (cont.)</h1>
+    </div>
+    <div class="slide-content">
+        <ol start="4">
+            <li>El efecto de bienestar de un arancel, cuota o subsidio a las exportaciones puede ser medido por:
+                <ul>
+                    <li>pérdida de eficiencia por distorsiones de consumo y producción.</li>
+                    <li>ganancia o pérdida de términos de intercambio.</li>
+                </ul>
+            </li>
+            <li>Con cuotas de importación, restricciones voluntarias de exportación y requisitos de contenido local, el gobierno del país importador no recibe ingresos.</li>
+            <li>Con restricciones voluntarias de exportación y ocasionalmente cuotas de importación, las rentas de cuota van a extranjeros.</li>
+        </ol>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 53: Apéndice - Portada -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Capítulo 9<br>Apéndice: Aranceles y Cuotas de Importación en Presencia de Monopolio</h1>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 54: Figura 9A-1 -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Fig. 9A-1: Un Monopolista bajo Libre Comercio</h1>
+    </div>
+    <div class="slide-content">
+        <div class="important">
+            [Esta diapositiva contiene una figura que muestra el comportamiento de un monopolista bajo condiciones de libre comercio]
+        </div>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 55: Figura 9A-2 -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Fig. 9A-2: Un Monopolista Protegido por un Arancel</h1>
+    </div>
+    <div class="slide-content">
+        <div class="important">
+            [Esta diapositiva contiene una figura que muestra cómo un arancel afecta el comportamiento de un monopolista]
+        </div>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 56: Figura 9A-3 -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Fig. 9A-3: Un Monopolista Protegido por una Cuota de Importación</h1>
+    </div>
+    <div class="slide-content">
+        <div class="important">
+            [Esta diapositiva contiene una figura que muestra cómo una cuota de importación afecta el comportamiento de un monopolista]
+        </div>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<!-- Diapositiva 57: Figura 9A-4 -->
+<div class="slide-container">
+    <div class="slide-header">
+        <h1 class="slide-title">Fig. 9A-4: Comparando un Arancel y una Cuota</h1>
+    </div>
+    <div class="slide-content">
+        <div class="important">
+            [Esta diapositiva contiene una figura que compara los efectos de un arancel versus una cuota en un mercado monopolístico]
+        </div>
+    </div>
+    <div class="copyright">Copyright ©2015 Pearson Education, Inc. Todos los derechos reservados.</div>
+</div>
+
+<div class="navigation">
+    <button class="nav-btn" id="prevBtn" onclick="changeSlide(-1)">◀ Anterior</button>
+    <span class="slide-counter">
+        <span id="currentSlide">1</span> / <span id="totalSlides">57</span>
+    </span>
+    <button class="nav-btn" id="nextBtn" onclick="changeSlide(1)">Siguiente ▶</button>
+</div>
+
+<script>
+let currentSlideIndex = 0;
+const slides = document.querySelectorAll('.slide-container');
+const totalSlides = slides.length;
+
+document.getElementById('totalSlides').text

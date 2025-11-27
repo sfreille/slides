@@ -4,7 +4,7 @@ title-slide-attributes:
   data-background-image: ../fig/background-image-2.png
   data-background-size: stretch
   data-background-opacity: "0.85"
-subtitle: U1. Introducción a la economía politica. Las tres I's. Heterogeneidad y conflicto
+subtitle: U2. Actores, sectores, intereses y coaliciones. Clivajes políticos y coaliciones 
 author:
   - name: Sebastian Freille
     affiliation: CPyRRII-UCC
