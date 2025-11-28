@@ -86,7 +86,7 @@ format:
 ![EEUU: últimas 3 elecciones. ¿Los menos educados votan en contra de
 sus preferencias de política?](imagenes/voto-trump-white-college.png){fig-align="center"}
   
-<!--  
+
 ## Motivation and literature: social identity theory
   
 - **Social identity theory** [Tajfel & Turner (1979), Turner & Oakes
@@ -103,7 +103,7 @@ sus preferencias de política?](imagenes/voto-trump-white-college.png){fig-align
 ## Motivation and literature: social identity theory
 
 ![In-group versus out-group](imagenes/social-identity-theory.png){fig-align="center"}
---> 
+
   
 ## Motivation and literature: ideology puzzle
 
