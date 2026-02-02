@@ -1,0 +1,31 @@
+# FPUB Archive Manifest - 2025
+# This file describes the archived version of slides
+
+year: 2025
+master_year: current
+
+# Original file format
+original_format: Rmd (R Markdown with revealjs output)
+
+# File mapping: original -> master
+file_mapping:
+  - clase00.Rmd -> lect00.qmd  # Presentacion de la materia
+  - clase01.Rmd -> lect01.qmd  # U1. Economia del sector publico
+  - clase02.Rmd -> lect02.qmd  # U2. Decisiones colectivas
+  - clase03.Rmd -> lect03.qmd  # U3. Gasto publico y presupuesto
+  - clase04.Rmd -> lect04.qmd  # U3. Beneficio-costo y programas de gasto
+  - clase05.Rmd -> lect05.qmd  # U4. Recursos del sector publico
+  - clase06.Rmd -> lect06.qmd  # U4. Incidencia impositiva
+  - clase07.Rmd -> lect07.qmd  # U4. Incidencia (cont.) y tax salience
+  - clase08.Rmd -> lect08.qmd  # U5. Impuestos a los ingresos
+  - clase09.Rmd -> lect09.qmd  # U5. Efectos e incentivos
+  - clase10.Rmd -> lect10.qmd  # U6. Impuestos a los consumos
+
+# Notes
+notes: |
+  Original Rmd slides from previous offerings of Finanzas Publicas.
+  Converted to QMD format in master with lectXX naming convention.
+  Images were in local fig/ subdirectory, now consolidated in
+  _shared/images/fpub/.
+  Theme changed from theme-default.scss to theme-minimalist.scss
+  to match HPAE and CYFI courses.
