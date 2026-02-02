@@ -1,6 +1,6 @@
 ---
 title: U1. La economía del sector público
-subtitle: Finanzas Públicas
+subtitle: Finanzas Públicas [Cat. Barraud]
 ---
 
 # Bibliografía
