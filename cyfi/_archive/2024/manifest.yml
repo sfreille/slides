@@ -1,0 +1,29 @@
+# CYFI Archive Manifest - 2024
+# This file describes how to build the 2024 version of slides
+# Generated: 2026-01-10
+
+year: 2024
+master_year: current  # Compare against root (master)
+
+# Files that differ from master - use archived versions
+changed_files:
+  - lect00.qmd
+  - lect01.qmd
+  - lect02.qmd
+  - lect03.qmd
+  - lect04.qmd
+  - lect05.qmd
+  - lect07.qmd
+
+# Files unique to this year (not in master)
+unique_files:
+  - lect06.qmd  # Was removed in 2025
+
+# Files from master to exclude for this year
+# lect08 is identical in both, so not listed as changed
+excluded_files: []
+
+# Notes
+notes: |
+  2024 version has lect06 which was removed in later versions.
+  lect08 is identical to master.

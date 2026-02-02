@@ -1,0 +1,26 @@
+# ============================================
+# EPOL - Economía Política
+# Course-level Quarto configuration
+# ============================================
+
+project:
+  type: default
+
+# Inherit shared metadata
+metadata-files:
+  - ../_shared/templates/_metadata.yml
+
+# Course-specific settings
+format:
+  revealjs:
+    # Self-contained output (no _files/ folders)
+    embed-resources: true
+
+    # Theme: Default professional theme
+    css: ../_shared/css/theme-default.scss
+
+    # Default title slide background for this course
+    title-slide-attributes:
+      data-background-image: ../_shared/images/backgrounds/bg-epol-01.png
+      data-background-size: stretch
+      data-background-opacity: "0.85"

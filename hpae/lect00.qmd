@@ -1,26 +1,6 @@
 ---
 title: Presentación
 subtitle: Historia del Pensamiento y del Análisis Económico
-author: |
-  | **Sebastián Freille**
-  | sfreille@unc.edu.ar
-  | Licenciatura en Economía
-  | FCE-UNC
-format:
-  revealjs:
-    slide-number: true
-    chalkboard:
-      buttons: false
-    preview-links: auto
-    css: ..\quarto.css
-    width: 1500
-    center-title-slide: true
-    center: true
-    tbl-cap-location: bottom	
-    toc: true
-    toc-depth: 1
-    toc-title: Contenidos
-    link-external-newwindow: true
 ---
 
 # **Fundamentación y objetivos** {background="#43464B"}
@@ -134,4 +114,4 @@ format:
 
 ## Bienvenidos y bienvenidas!
 
-![...sobre hombros de gigantes](fig/fig-00-001.png){fig-align="center"}
+![...sobre hombros de gigantes](../_shared/images/hpae/fig-diagram-intro-shoulders-giants.png){fig-align="center"}

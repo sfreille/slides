@@ -1,26 +1,6 @@
 ---
 title: U4. La economía política. El pensamiento clásico. Malthus, Bentham y Stuart Mill
 subtitle: Historia del Pensamiento y del Análisis Económico
-author: |
-  | **Sebastián Freille**
-  | sfreille@unc.edu.ar
-  | Licenciatura en Economía
-  | FCE-UNC
-format:
-  revealjs:
-    slide-number: true
-    chalkboard:
-      buttons: false
-    preview-links: auto
-    css: ..\quarto.css
-    width: 1500
-    center-title-slide: true
-    center: true
-    tbl-cap-location: bottom	
-    toc: true
-    toc-depth: 1
-    toc-title: Contenidos
-    link-external-newwindow: true
 ---
 
 # Temas centrales de la economía clásica: utilidad, población y dinero {background="#43464B"}
@@ -138,7 +118,7 @@ la Legislación* (1789)]**
  
 ## El cálculo de la felicidad (cont.)
 
-![El cálculo de la felicidad](fig/fig-04-008.png){#fig-precios}
+![El cálculo de la felicidad](../_shared/images/hpae/fig-text-bentham-felicific-calculus.png){#fig-precios}
 
 ## El cálculo de la felicidad (cont.)
 
@@ -325,7 +305,7 @@ la Legislación* (1789)]**
 
 ## Primeros problemas monetarios (cont.)
 
-![Tasa natural y tasa bancaria](fig/fig-04-009.png){#fig-precios}
+![Tasa natural y tasa bancaria](../_shared/images/hpae/fig-diagram-ricardo-09.png){#fig-precios}
 
 
 ## Primeros problemas monetarios (cont.)

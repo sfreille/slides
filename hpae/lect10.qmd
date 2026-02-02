@@ -1,26 +1,6 @@
 ---
 title: U5. La economía política. El pensamiento clásico II. Socialismo
 subtitle: Historia del Pensamiento y del Análisis Económico
-author: |
-  | **Sebastián Freille**
-  | sfreille@unc.edu.ar
-  | Licenciatura en Economía
-  | FCE-UNC
-format:
-  revealjs:
-    slide-number: true
-    chalkboard:
-      buttons: false
-    preview-links: auto
-    css: ..\quarto.css
-    width: 1500
-    center-title-slide: true
-    center: true
-    tbl-cap-location: bottom	
-    toc: true
-    toc-depth: 1
-    toc-title: Contenidos
-    link-external-newwindow: true
 ---
 
 # El socialismo científico: Crítica integral de la economía clásica {background="#43464B"}
@@ -93,7 +73,7 @@ format:
   
 ## Karl Marx [1818-1883]: Vida y obra (cont.)
 
-![Principios del comunismo moderno](fig/fig-05-002.png){#fig-precios}
+![Principios del comunismo moderno](../_shared/images/hpae/fig-diagram-marx-communism-principles.png){#fig-precios}
   
 ## Karl Marx [1818-1883]: Vida y obra (cont.)
 
@@ -271,7 +251,7 @@ format:
  	  
 ## El sistema marxiano: economía (cont.)	  
 
-![La "pirámide social" de Karl Marx](fig/fig-05-003.png){#fig-precios}
+![La "pirámide social" de Karl Marx](../_shared/images/hpae/fig-diagram-marx-social-pyramid.png){#fig-precios}
 
 ## El sistema marxiano: economía (cont.)
 
@@ -342,7 +322,7 @@ format:
 
 ## Los primeros escritos económicos (cont.)
 
-![Crítica metodológica a la escuela clásica](fig/fig-05-004.png){#fig-precios}
+![Crítica metodológica a la escuela clásica](../_shared/images/hpae/fig-text-marx-methodology-critique.png){#fig-precios}
   
 
 ## Los primeros escritos económicos (cont.)
@@ -552,7 +532,7 @@ format:
 
 ## La gran contradicción (cont.)
 
-![Nomenclatura y definiciones en Marx](fig/fig-05-005.png){#fig-precios}
+![Nomenclatura y definiciones en Marx](../_shared/images/hpae/fig-table-marx-nomenclature.png){#fig-precios}
 
 ## La gran contradicción (cont.)
 
@@ -582,7 +562,7 @@ PNN&=v+s
 
 ## La gran contradicción (cont.)
 
-![El problema de la transformación](fig/fig-05-006.png){#fig-precios}
+![El problema de la transformación](../_shared/images/hpae/fig-diagram-marx-transformation-problem.png){#fig-precios}
 
 ## La gran contradicción (cont.)
 
@@ -715,11 +695,11 @@ agregada igual a 500
 
 ## La ley de la miseria creciente del proletariado (cont.)
 
-![Nomenclatura y definiciones en Marx](fig/fig-05-007.png){#fig-precios}
+![Nomenclatura y definiciones en Marx](../_shared/images/hpae/fig-table-marx-definitions-01.png){#fig-precios}
 
 ## La ley de la miseria creciente del proletariado (cont.)
 
-![Nomenclatura y definiciones en Marx](fig/fig-05-008.png){#fig-precios}
+![Nomenclatura y definiciones en Marx](../_shared/images/hpae/fig-table-marx-definitions-02.png){#fig-precios}
 
 ## La ley de las crisis y depresiones
 

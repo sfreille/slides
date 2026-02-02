@@ -1,0 +1,485 @@
+---
+title: "CyFI - Unidad 8"
+subtitle: "Economía política de la política comercial"
+format: revealjs
+---
+
+## Introducción
+
+- Los economistas generalmente favorecen el libre comercio
+- Sin embargo, los gobiernos aplican múltiples barreras comerciales
+- ¿Por qué existe esta brecha entre teoría y práctica?
+- Este capítulo analiza:
+  - Argumentos a favor de la protección
+  - Economía política de la política comercial
+  - Negociaciones comerciales internacionales
+
+## Introducción (cont.)
+
+- La política comercial es resultado de un proceso político
+- Diferentes grupos tienen intereses contrapuestos:
+  - Productores vs. consumidores
+  - Industrias que compiten con importaciones vs. exportadores
+  - Trabajadores de diferentes sectores
+- Entender estos conflictos es clave para explicar la política real
+
+# Argumentos a favor del libre comercio
+
+## El caso del libre comercio: eficiencia
+
+- El libre comercio elimina las distorsiones de la protección
+- Evita la pérdida de eficiencia (triángulos $b$ y $d$)
+- Permite especialización según ventaja comparativa
+- Aumenta el bienestar mundial agregado
+
+## El caso del libre comercio: economías de escala
+
+- El libre comercio amplía el tamaño del mercado
+- Permite explotar economías de escala en producción
+- Las empresas pueden especializarse más
+- Mayor variedad de productos para consumidores
+- Particularmente importante para países pequeños
+
+## El caso del libre comercio: competencia
+
+- La apertura comercial aumenta la competencia
+- Disciplina a monopolios y oligopolios nacionales
+- Reduce el poder de mercado de empresas ineficientes
+- Incentiva la innovación y mejora de productividad
+- Los mercados protegidos tienden a ser menos dinámicos
+
+## El caso del libre comercio: rent-seeking
+
+- La protección crea incentivos para **rent-seeking**
+- Recursos se desvían a actividades improductivas:
+  - Lobby para obtener protección
+  - Búsqueda de licencias de importación
+  - Evasión de barreras comerciales
+- Estos costos son adicionales a los triángulos de pérdida
+
+## Ganancias adicionales del libre comercio
+
+- **Evidencia empírica** sugiere que las ganancias son mayores que las predichas por modelos estáticos
+- Canales adicionales:
+  - Transferencia de tecnología
+  - Aprendizaje de mejores prácticas
+  - Acceso a insumos de mejor calidad
+  - Presión competitiva para innovar
+
+## El argumento político del libre comercio
+
+- Aunque intervenciones "óptimas" puedan existir en teoría...
+- En la práctica, el proceso político las distorsiona
+- La protección beneficia a grupos concentrados
+- Los costos se dispersan entre millones de consumidores
+- Mejor adoptar una **regla simple**: libre comercio
+
+# Argumentos a favor de la protección
+
+## El argumento de los términos de intercambio
+
+- Un país **grande** puede mejorar sus términos de intercambio con un arancel
+- El **arancel óptimo** maximiza bienestar nacional
+- Problemas:
+  - Solo aplica a países grandes
+  - Ignora represalias
+  - Reduce bienestar mundial
+  - Puede escalar a guerra comercial
+
+## El argumento de los términos de intercambio (cont.)
+
+- Las guerras comerciales dejan a todos peor
+- **Dilema del prisionero**: cada país tiene incentivo a proteger
+- Pero si todos protegen, todos pierden
+- Argumento para **cooperación internacional**
+- Base del sistema multilateral de comercio (OMC)
+
+## Falla de mercado: el argumento de la externalidad
+
+- Los mercados pueden fallar debido a externalidades
+- **Externalidades tecnológicas**: el conocimiento se difunde
+- Si una industria genera spillovers de conocimiento:
+  - El beneficio social > beneficio privado
+  - El mercado produce menos de lo óptimo
+  - Hay argumento para subsidiar esa industria
+
+## El problema del second-best
+
+- La política comercial puede corregir fallas de mercado
+- Pero generalmente **no es la mejor herramienta**
+- Un subsidio directo a la producción es mejor que un arancel:
+  - Corrige la distorsión directamente
+  - No distorsiona el consumo
+- Principio: atacar la distorsión en su fuente
+
+## Comparación: arancel vs. subsidio
+
+| Aspecto | Arancel | Subsidio producción |
+|---------|---------|---------------------|
+| Producción nacional | Aumenta | Aumenta |
+| Precio al consumidor | Sube | Sin cambio |
+| Distorsión consumo | Sí | No |
+| Costo fiscal | No (genera ingreso) | Sí |
+| Pérdida bienestar | Mayor | Menor |
+
+## La teoría del second-best
+
+- Si existe una distorsión que no puede eliminarse...
+- Puede ser óptimo introducir otra distorsión
+- Un arancel podría ser "second-best" si:
+  - No es posible subsidiar directamente
+  - Otras políticas son inviables políticamente
+- Pero este argumento es peligroso: puede justificar cualquier protección
+
+## El argumento de la industria naciente
+
+- Industrias nuevas pueden necesitar protección temporal
+- Argumento histórico importante:
+  - Alexander Hamilton (EE.UU., 1791)
+  - Friedrich List (Alemania, siglo XIX)
+- La industria aprende y reduce costos con el tiempo
+- Una vez madura, puede competir internacionalmente
+
+## Industria naciente: condiciones
+
+- Para que el argumento sea válido:
+  1. La industria debe poder volverse competitiva
+  2. Los beneficios futuros deben superar los costos de protección
+  3. Debe haber una falla de mercado que justifique intervención
+- ¿Por qué el sector privado no financia el aprendizaje?
+
+## Industria naciente: problemas
+
+- **Problema de apropiabilidad**: el conocimiento se difunde
+  - Empresas no capturan todos los beneficios de su aprendizaje
+  - Invierten menos de lo óptimo
+- **Imperfecciones del mercado de capitales**:
+  - Empresas no pueden financiar pérdidas iniciales
+  - Especialmente en países en desarrollo
+- Estos son argumentos legítimos para intervención
+
+## Industria naciente: críticas
+
+- Difícil identificar "ganadores" ex ante
+- La protección tiende a volverse permanente
+- Grupos de interés capturan la política
+- **Evidencia empírica mixta**:
+  - Algunos éxitos (Corea, Taiwán)
+  - Muchos fracasos (América Latina, África)
+- El éxito depende de la calidad institucional
+
+## Caso: Industrialización en Asia del Este
+
+- Corea del Sur, Taiwán, Singapur: protección selectiva
+- Características del modelo exitoso:
+  - Protección **temporal y condicionada**
+  - Exportaciones como requisito
+  - Disciplina a empresas ineficientes
+  - Inversión fuerte en educación
+  - Burocracia competente y autónoma
+- Difícil de replicar sin instituciones adecuadas
+
+# Economía política de la política comercial
+
+## ¿Quién decide la política comercial?
+
+- La política comercial no maximiza el bienestar social
+- Es resultado de un proceso político donde:
+  - Diferentes grupos ejercen influencia
+  - Los políticos responden a incentivos electorales
+  - Las instituciones canalizan las demandas
+- Modelos de economía política buscan explicar los resultados
+
+## Votación y comercio: modelo de votante mediano
+
+- En democracia, la política refleja preferencias del **votante mediano**
+- Si beneficios de libre comercio están concentrados:
+  - Pocos ganan mucho
+  - Muchos pierden poco
+- El votante mediano puede preferir protección
+- Pero este modelo no explica bien la realidad
+
+## El problema de la acción colectiva
+
+- **Olson (1965)**: la acción colectiva es difícil
+- Grupos pequeños se organizan más fácilmente
+- Productores (pocos) vs. consumidores (muchos)
+- Productores:
+  - Alta ganancia por persona de la protección
+  - Fácil de organizarse
+  - Fuerte incentivo para hacer lobby
+
+## El problema de la acción colectiva (cont.)
+
+- Consumidores:
+  - Pequeña pérdida por persona
+  - Difícil de organizarse (millones)
+  - Poco incentivo para oponerse a la protección
+- **Resultado**: sesgo sistemático hacia la protección
+- Los intereses concentrados dominan sobre el interés difuso
+
+## Modelo de protección endógena
+
+- La protección es un "bien" que se ofrece y demanda
+- **Demanda de protección**: industrias que compiten con importaciones
+- **Oferta de protección**: políticos que buscan votos/contribuciones
+- El "precio": contribuciones de campaña, apoyo político
+
+## Evidencia empírica sobre protección
+
+- ¿Qué industrias reciben más protección?
+- Factores asociados con mayor protección:
+  - Alta concentración de productores
+  - Baja concentración de usuarios
+  - Industrias intensivas en trabajo no calificado
+  - Industrias en declive (políticamente sensibles)
+  - Bienes de consumo final (consumidores menos organizados)
+
+## Protección y geografía política
+
+- La protección también tiene dimensión geográfica
+- Industrias concentradas geográficamente:
+  - Más fácil organizar presión política
+  - Mayor impacto en distritos electorales específicos
+  - Políticos locales tienen incentivo a proteger
+- Ejemplo: acero en Ohio, textiles en Carolina del Sur
+
+## El papel de las instituciones
+
+- Las instituciones canalizan las demandas proteccionistas
+- **Poder Ejecutivo** vs. **Legislativo**:
+  - El Ejecutivo tiende a ser más libre-cambista
+  - Representa interés nacional agregado
+  - El Legislativo responde a intereses locales
+- Delegación de autoridad comercial al Ejecutivo reduce protección
+
+## Caso: La política comercial de EE.UU.
+
+- Constitución otorga poder comercial al Congreso
+- Smoot-Hawley (1930): desastre proteccionista
+- Desde 1934: delegación al Ejecutivo
+- **Trade Promotion Authority**: Congreso aprueba o rechaza
+- Pero mantiene influencia a través de:
+  - Leyes antidumping
+  - Salvaguardias
+  - Presión sobre negociadores
+
+# Negociaciones comerciales internacionales
+
+## ¿Por qué negociar?
+
+- Los países podrían liberalizar unilateralmente
+- Beneficios de la negociación:
+  - **Reciprocidad**: intercambio de concesiones
+  - Moviliza intereses exportadores a favor
+  - Contrarresta lobby proteccionista
+  - Compromiso creíble (difícil revertir)
+
+## El sistema multilateral: del GATT a la OMC
+
+- **GATT** (1947): Acuerdo General sobre Aranceles y Comercio
+- Principios básicos:
+  - Nación más favorecida (NMF)
+  - Trato nacional
+  - Reciprocidad
+  - Consolidación arancelaria
+- **OMC** (1995): organización formal con más alcance
+
+## Rondas de negociación del GATT
+
+| Ronda | Año | Logros principales |
+|-------|-----|-------------------|
+| Ginebra | 1947 | Reducción arancelaria inicial |
+| Kennedy | 1964-67 | Reducción 35% aranceles industriales |
+| Tokio | 1973-79 | Códigos sobre BNA |
+| Uruguay | 1986-94 | Servicios, propiedad intelectual, agricultura, OMC |
+| Doha | 2001-? | Inconclusa |
+
+## La Ronda Uruguay y la OMC
+
+- Logros de la Ronda Uruguay:
+  - Creación de la OMC
+  - GATS: comercio de servicios
+  - TRIPS: propiedad intelectual
+  - Acuerdo sobre agricultura
+  - Mecanismo de solución de diferencias reforzado
+- Mayor integración de países en desarrollo
+
+## El mecanismo de solución de diferencias
+
+- Sistema cuasi-judicial para resolver disputas
+- Etapas:
+  1. Consultas entre partes
+  2. Panel de expertos
+  3. Apelación (Órgano de Apelación)
+  4. Implementación y posibles represalias
+- Más efectivo que el sistema previo del GATT
+
+## Problemas actuales del sistema multilateral
+
+- La **Ronda Doha** está estancada desde 2008
+- Principales conflictos:
+  - Agricultura: subsidios de países desarrollados
+  - Acceso a mercados industriales: países en desarrollo
+  - Temas nuevos: inversión, competencia, medio ambiente
+- Auge de **acuerdos preferenciales** como alternativa
+
+## Acuerdos comerciales preferenciales
+
+- Acuerdos bilaterales y regionales proliferan:
+  - Unión Europea
+  - USMCA (antes NAFTA)
+  - RCEP (Asia-Pacífico)
+  - Mercosur
+- ¿Son complementarios o sustitutos del multilateralismo?
+
+## Creación y desviación de comercio
+
+- **Jacob Viner (1950)**: efectos ambiguos de acuerdos regionales
+- **Creación de comercio**: nuevo comercio con socio eficiente
+  - Beneficioso
+- **Desviación de comercio**: comercio desviado de terceros eficientes
+  - Perjudicial
+- El efecto neto depende de las circunstancias
+
+## Creación de comercio: ejemplo
+
+- País A: costo producción = $100
+- País B (socio): costo = $80
+- Resto del mundo: costo = $90
+- Sin acuerdo (arancel 30%): A produce domésticamente ($100)
+- Con acuerdo (arancel 0% a B): importa de B ($80)
+- **Creación de comercio**: eficiente
+
+## Desviación de comercio: ejemplo
+
+- País A: costo producción = $100
+- País B (socio): costo = $90
+- Resto del mundo: costo = $70
+- Sin acuerdo (arancel 30%): importa del mundo ($70 + $21 = $91)
+- Con acuerdo (arancel 0% a B): importa de B ($90)
+- **Desviación de comercio**: ineficiente
+
+## Condiciones para que un ACP sea beneficioso
+
+- Mayor **creación** que **desviación** si:
+  - Aranceles previos eran altos
+  - Socios comerciales son similares (competidores)
+  - La región es grande (menos comercio con terceros)
+  - Se reducen aranceles externos simultáneamente
+- En la práctica: efectos mixtos
+
+## El debate actual sobre comercio
+
+- Descontento con la globalización en países desarrollados:
+  - Pérdida de empleos manufactureros
+  - Creciente desigualdad
+  - "China shock"
+- Respuestas políticas:
+  - Brexit
+  - Aranceles de Trump
+  - Replanteamiento de cadenas de valor post-COVID
+
+## Comercio y empleo
+
+- El comercio **destruye y crea** empleos
+- Efectos netos en empleo agregado: mínimos
+- Pero efectos **distributivos** importantes:
+  - Trabajadores desplazados sufren
+  - Comunidades dependientes de una industria
+  - Ajuste puede ser lento y doloroso
+- Argumento para **políticas de compensación**
+
+## Políticas de ajuste comercial
+
+- **Trade Adjustment Assistance** (EE.UU.):
+  - Apoyo a trabajadores desplazados por comercio
+  - Capacitación, extensión de desempleo
+  - Históricamente subfinanciado
+- Necesidad de políticas más robustas:
+  - Redes de seguridad social
+  - Inversión en educación
+  - Desarrollo regional
+
+## El futuro de la política comercial
+
+- Tensiones entre:
+  - Eficiencia global vs. ajuste doméstico
+  - Multilateralismo vs. regionalismo/bilateralismo
+  - Libre comercio vs. "comercio administrado"
+- Desafíos emergentes:
+  - Comercio digital
+  - Cambio climático y comercio
+  - Seguridad nacional y cadenas de suministro
+
+# Apéndice: modelos formales
+
+## Modelo de competencia electoral
+
+- Dos candidatos compiten por votos
+- Votantes tienen preferencias sobre nivel de arancel
+- **Teorema del votante mediano**:
+  - Ambos candidatos convergen a preferencia del votante mediano
+  - Si votante mediano es trabajador en sector protegido: protección
+
+## Modelo de contribuciones de campaña
+
+- **Grossman y Helpman (1994)**: "Protection for Sale"
+- Lobbies ofrecen contribuciones a cambio de política
+- El gobierno maximiza:
+$$G = aW + \sum_i C_i$$
+- Donde:
+  - $W$ = bienestar social agregado
+  - $C_i$ = contribuciones del lobby $i$
+  - $a$ = peso del bienestar social
+
+## Protection for Sale: predicciones
+
+- La protección es mayor para:
+  - Industrias políticamente organizadas
+  - Industrias con alta relación producción/importaciones
+  - Industrias con baja elasticidad de importaciones
+- Fórmula del arancel de equilibrio:
+$$\frac{t_i}{1+t_i} = -\frac{I_i - \alpha_L}{a + \alpha_L} \cdot \frac{z_i}{e_i}$$
+
+## Evidencia empírica del modelo
+
+- Goldberg y Maggi (1999): estiman el modelo para EE.UU.
+- Resultados:
+  - El modelo explica bien la estructura de protección
+  - $a \approx 50-100$: gobierno pone peso en bienestar
+  - Pero lobbies tienen influencia significativa
+  - Industrias organizadas obtienen ~8% más protección
+
+## Modelo de creación/desviación de comercio
+
+- Unión aduanera entre países $A$ y $B$
+- Costo de producción: $c_A > c_B > c_W$ (mundo)
+- Con arancel $t$ sobre todos:
+  - $A$ importa del más barato después de arancel
+- Con unión aduanera (arancel 0 a $B$):
+  - $A$ importa de $B$ si $c_B < c_W + t$
+  - Desviación si $c_W < c_B$
+
+## Bienestar en unión aduanera
+
+- **Creación de comercio**:
+  - Ganancia = $(c_A - c_B) \cdot Q$ (producción más eficiente)
+- **Desviación de comercio**:
+  - Pérdida = $(c_B - c_W) \cdot M$ (importación de fuente más cara)
+  - Más: pérdida de ingreso arancelario
+- Efecto neto = creación - desviación
+
+## Condiciones Kemp-Wan
+
+- **Kemp y Wan (1976)**: una unión aduanera puede ser Pareto-mejorante
+- Condición: ajustar el arancel externo para mantener comercio con terceros constante
+- En la práctica: difícil de implementar
+- Pero sugiere que acuerdos bien diseñados pueden beneficiar a todos
+
+## Referencias
+
+- Krugman, Obstfeld y Melitz, cap. 10
+- Grossman y Helpman (1994): "Protection for Sale"
+- Viner (1950): "The Customs Union Issue"
+- Rodrik (2018): "Straight Talk on Trade"

@@ -1,45 +1,6 @@
 ---
 title: Economía Política Internacional
-title-slide-attributes:
-  data-background-image: ../fig/background-image-2.png
-  data-background-size: stretch
-  data-background-opacity: "0.85"
 subtitle: Presentación de la materia
-author:
-  - name: Sebastian Freille
-    affiliation: CPyRRII-UCC
-    email: 0933217@ucc.edu.ar
-pdf-engine: pdflatex
-format:
-  revealjs:
-    include-in-header:
-      - text: |
-          <style>
-            #title-slide .title {
-              color: #08DEFF;
-            }
-              
-            #title-slide .subtitle {
-              color: #08DEFF;
-            }
- 
-            #title-slide {
-              color: #FFFFFF; 
-            }
-          </style>
-    slide-number: true
-    chalkboard:
-      buttons: false
-    preview-links: auto
-    css: ..\quarto.css
-    width: 1500
-    center-title-slide: true
-    center: true
-    tbl-cap-location: bottom	
-    toc: true
-    toc-depth: 1
-    toc-title: Contenidos
-    link-external-newwindow: true
 ---
 
 # Presentación y equipo {background="#691DAB"}

@@ -1,0 +1,75 @@
+---
+title: Sample Slides 1
+subtitle: Using CYFI/HPAE Theme (theme-highlight.scss)
+author: Sebastian Freille
+institute: Universidad Nacional de Córdoba
+format:
+  revealjs:
+    embed-resources: true
+    slide-number: true
+    center: true
+    width: 1500
+    height: 900
+    toc: true
+    toc-depth: 1
+    toc-title: "Contenidos"
+    navigation-mode: linear
+    controls: true
+    progress: true
+    transition: slide
+    css: _shared/css/theme-highlight.scss
+    title-slide-attributes:
+      data-background-image: _shared/images/backgrounds/bg-hpae-01.png
+      data-background-size: stretch
+      data-background-opacity: "0.85"
+lang: es
+---
+
+# Introduction {background="#43464B"}
+
+## What is this?
+
+- This is a **sample slide** using the CYFI/HPAE theme
+- It uses `theme-highlight.scss` for styling
+- Same configuration as course slides
+
+## Features
+
+1. Dark section headers with `{background="#43464B"}`
+2. Yellow highlight theme
+3. Centered content
+4. Table of contents
+
+# Content Examples {background="#43464B"}
+
+## Text and Lists
+
+Here's some sample content:
+
+- First bullet point
+  - Nested item
+  - Another nested item
+- Second bullet point
+- Third bullet point
+
+## Blockquotes
+
+> "The only way to do great work is to love what you do."
+**[Steve Jobs]**
+
+## Math and Code
+
+The quadratic formula: $x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$
+
+```python
+def hello_world():
+    print("Hello, World!")
+```
+
+# Conclusion {background="#43464B"}
+
+## Summary
+
+- This theme is used for HPAE and CYFI courses
+- Consistent styling across all slides
+- Professional academic appearance

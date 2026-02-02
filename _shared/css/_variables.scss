@@ -1,0 +1,76 @@
+/*-- scss:defaults --*/
+// ============================================
+// SHARED VARIABLES FOR ALL THEMES
+// Override these in theme-specific files
+// ============================================
+
+// --------------------------------------------
+// FONTS
+// --------------------------------------------
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500&display=swap');
+
+$font-family-sans: 'Source Sans Pro', 'Helvetica', 'Arial', sans-serif !default;
+$font-family-serif: 'Georgia', 'Times New Roman', serif !default;
+$font-family-mono: 'Fira Code', 'Consolas', monospace !default;
+
+$font-family-base: $font-family-sans !default;
+$font-family-headings: $font-family-sans !default;
+
+// --------------------------------------------
+// FONT SIZES
+// --------------------------------------------
+$font-size-base: 40px !default;
+$font-size-title: 2em !default;
+$font-size-h1-h2: 1.5em !default;
+$font-size-h3-h6: 1em !default;
+$font-size-code: 0.7em !default;
+
+$title-slide-title-size: 3.5em !default;
+$title-slide-subtitle-size: 1.5em !default;
+$title-slide-author-size: 1.2em !default;
+
+// --------------------------------------------
+// COLORS - Main Palette
+// --------------------------------------------
+$color-primary: #2c3e50 !default;       // Main text, headings
+$color-secondary: #34495e !default;     // Secondary elements
+$color-accent: #3498db !default;        // Links, highlights
+$color-background: #ffffff !default;    // Slide background
+$color-text: #2c3e50 !default;          // Body text
+
+// --------------------------------------------
+// COLORS - Title Slide
+// --------------------------------------------
+$title-slide-bg: transparent !default;
+$title-slide-title-color: #ffffff !default;
+$title-slide-subtitle-color: #ffffff !default;
+$title-slide-author-color: #2c3e50 !default;
+$title-slide-date-color: #2c3e50 !default;
+
+// --------------------------------------------
+// COLORS - Content
+// --------------------------------------------
+$heading-color: $color-primary !default;
+$link-color: $color-accent !default;
+$link-hover-color: darken($color-accent, 15%) !default;
+$code-bg: #f8f9fa !default;
+$code-color: #c7254e !default;
+$blockquote-color: #6c757d !default;
+
+// --------------------------------------------
+// SPACING
+// --------------------------------------------
+$paragraph-margin: 0 0 0 1em !default;
+$paragraph-margin-bottom: 10px !default;
+$list-margin: 0 0 0 0.25em !default;
+$list-padding: 0.25em !default;
+$list-item-margin: 3px !default;
+$list-item-padding: 3px !default;
+$line-height: 1.2 !default;
+
+// --------------------------------------------
+// SLIDE DIMENSIONS
+// --------------------------------------------
+$slide-width: 1500 !default;
+$slide-height: 900 !default;

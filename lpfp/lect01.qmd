@@ -1,11 +1,6 @@
 ---
-author:
-- "[Sebastian Freille]{.ul}"
-subtitle: Clase 1
 title: |
-  Universidad Nacional de La Plata (UNLP)\
-  Maestría en Finanzas Públicas Provinciales y Municipales\
-  La Politica de las Finanzas Públicas
+subtitle: Clase 1
 ---
 
 # Introducción, temas y enfoque

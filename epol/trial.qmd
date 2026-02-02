@@ -1,8 +1,5 @@
 ---
 title: Economía Política
-format:
-  revealjs:
-    link-external-newwindow: true
 ---
 
 # Unidad 5

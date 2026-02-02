@@ -1,0 +1,44 @@
+﻿# ============================================
+# SHARED QUARTO METADATA FOR ALL SLIDES
+# Include this in course _quarto.yml files
+# ============================================
+
+# Author information
+author: "Sebastian Freille"
+institute: "Universidad Nacional de Córdoba"
+
+# RevealJS format defaults
+format:
+  revealjs:
+    # Self-contained output (no _files/ folders)
+    embed-resources: true
+
+    # Slide behavior
+    slide-number: true
+    preview-links: auto
+    center-title-slide: true
+    center: true
+
+    # Dimensions
+    width: 1500
+
+    # Table of contents
+    toc: true
+    toc-depth: 1
+    toc-title: "Outline"
+
+    # Captions
+    tbl-cap-location: bottom
+    fig-cap-location: bottom
+
+    # Links
+    link-external-newwindow: true
+
+# Language settings (Spanish)
+lang: es
+
+# Execution options for code chunks
+execute:
+  echo: false
+  warning: false
+  message: false

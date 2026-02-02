@@ -1,26 +1,6 @@
 ---
 title: U6. La escuela neoclásica. La revolución marginalista. La microeconomia en Francia.
 subtitle: Historia del Pensamiento y del Análisis Económico
-author: |
-  | **Sebastián Freille**
-  | sfreille@unc.edu.ar
-  | Licenciatura en Economía
-  | FCE-UNC
-format:
-  revealjs:
-    slide-number: true
-    chalkboard:
-      buttons: false
-    preview-links: auto
-    css: ..\quarto.css
-    width: 1500
-    center-title-slide: true
-    center: true
-    tbl-cap-location: bottom	
-    toc: true
-    toc-depth: 1
-    toc-title: Contenidos
-    link-external-newwindow: true
 ---
 
 # El avance fuera de Inglaterra {background="#43464B"}
@@ -80,12 +60,12 @@ format:
  
 ## Cournot [1801-1877]: Sobre el método (cont.)
 
-![En defensa de las matemáticas](fig/fig-06-001.png){#fig-precios}
+![En defensa de las matemáticas](../_shared/images/hpae/fig-quote-cournot-smith-say-ricardo.png){#fig-precios}
   
 
 ## Cournot [1801-1877]: Sobre el método (cont.)
 
-![El supuesto *ceteris paribus*](fig/fig-06-002.png){#fig-precios}
+![El supuesto *ceteris paribus*](../_shared/images/hpae/fig-text-cournot-ceteris-paribus.png){#fig-precios}
   
 
 ## Cournot [1801-1877]: Sobre el método (cont.)
@@ -126,7 +106,7 @@ format:
 
 ## Cournot [1801-1877]: el monopolio (cont.)
 
-![Monopolio: costos positivos y nulos](fig/fig-06-003.png){#fig-precios}
+![Monopolio: costos positivos y nulos](../_shared/images/hpae/fig-diagram-cournot-monopoly.png){#fig-precios}
 
 ## Cournot [1801-1877]: el duopolio
 
@@ -141,7 +121,7 @@ format:
   
 ## Cournot [1801-1877]: el duopolio (cont.)
 
-![La función de reacción](fig/fig-06-004.png){#fig-precios}
+![La función de reacción](../_shared/images/hpae/fig-diagram-cournot-reaction-function.png){#fig-precios}
 
 ## Cournot [1801-1877]: el duopolio (cont.)
 
@@ -159,7 +139,7 @@ format:
 
 ## Cournot [1801-1877]: el duopolio (cont.)
 
-![Funciones de reacción y determinación de $q$](fig/fig-06-005.png){#fig-precios}
+![Funciones de reacción y determinación de $q$](../_shared/images/hpae/fig-diagram-cournot-equilibrium.png){#fig-precios}
 
 
 ## Cournot [1801-1877]: el duopolio (cont.)
@@ -237,7 +217,7 @@ format:
 
 ## Jules Dupuit 1804-1866]: utilidad marginal y demanda (cont.)
 
-![Cantidad y utilidad marginal (precio)](fig/fig-06-006.png){#fig-precios}
+![Cantidad y utilidad marginal (precio)](../_shared/images/hpae/fig-diagram-cournot-demand-utility.png){#fig-precios}
 
 ## Jules Dupuit [1804-1866]: utilidad marginal y demanda
 
@@ -263,7 +243,7 @@ format:
 
 ## Jules Dupuit [1804-1866]: utilidad marginal y demanda
 
-![La curva de demanda](fig/fig-06-006.png){#fig-precios}
+![La curva de demanda](../_shared/images/hpae/fig-diagram-cournot-demand-utility.png){#fig-precios}
 
 ## Jules Dupuit [1804-1866]: utilidad marginal y demanda
 
@@ -304,7 +284,7 @@ format:
   
 ## Jules Dupuit [1804-1866]: otras contribuciones (cont.)
 
-![Monopolio con discriminación](fig/fig-06-007.png){#fig-precios}
+![Monopolio con discriminación](../_shared/images/hpae/fig-diagram-cournot-price-discrimination.png){#fig-precios}
 
 ## Jules Dupuit [1804-1866]: otras contribuciones (cont.)
 

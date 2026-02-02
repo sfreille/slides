@@ -1,0 +1,469 @@
+---
+title: Producción y tipo de cambio en el corto plazo
+subtitle: Comercio y Finanzas Internacionales
+---
+
+# **Determinantes de la demanda agregada** {background="#4b6e5c"}
+
+## Un cambio de enfoque
+
+- En capítulos anteriores asumimos que la producción ($Y$) estaba dada
+- Ahora relajamos ese supuesto: la producción se determina
+  endógenamente en el corto plazo
+- Pregunta central: ¿cómo interactúan el tipo de cambio, la producción y
+  la política económica en el corto plazo?
+
+## Supuestos del modelo
+
+- **Corto plazo**: los precios son **rígidos** (no se ajustan
+  instantáneamente)
+- Los precios $P$ y $P^{*}$ están fijos
+- El tipo de cambio nominal $E$ puede variar
+- Por lo tanto, el **tipo de cambio real** $q=EP^{*}/P$ también varía
+- La producción se ajusta para igualar la demanda agregada
+
+## Componentes de la demanda agregada
+
+- La **demanda agregada** en economía abierta tiene cuatro componentes:
+  1. **Consumo, $C$**: depende del ingreso disponible $Y-T$
+  2. **Inversión, $I$**: depende del tipo de interés $R$
+  3. **Gasto público, $G$**: variable de política
+  4. **Exportaciones netas, $NX=X-M$**: depende de $Y$, $Y^{*}$, y $q$
+
+\begin{equation}
+D=C(Y-T)+I(R)+G+NX(q,Y,Y^{*})
+\end{equation}
+
+## El consumo
+
+- El **consumo** depende positivamente del ingreso disponible:
+
+\begin{equation}
+C=C(Y-T), \quad \frac{\partial C}{\partial (Y-T)}>0
+\end{equation}
+
+- La **propensión marginal a consumir** $c=\frac{\partial C}{\partial
+  (Y-T)}$ está entre 0 y 1
+- Típicamente $c \approx 0.6-0.8$
+
+## La inversión
+
+- La **inversión** depende negativamente del tipo de interés:
+
+\begin{equation}
+I=I(R), \quad \frac{\partial I}{\partial R}<0
+\end{equation}
+
+- Mayor $R$ $\longrightarrow$ mayor costo del capital $\longrightarrow$
+  menos proyectos rentables $\longrightarrow$ menor inversión
+
+## Las exportaciones netas
+
+- Las **exportaciones, $X$** dependen de:
+  - Tipo de cambio real $q$: $\frac{\partial X}{\partial q}>0$
+    (depreciación real aumenta $X$)
+  - Ingreso extranjero $Y^{*}$: $\frac{\partial X}{\partial Y^{*}}>0$
+- Las **importaciones, $M$** dependen de:
+  - Tipo de cambio real $q$: $\frac{\partial M}{\partial q}<0$
+    (depreciación real reduce $M$)
+  - Ingreso local $Y$: $\frac{\partial M}{\partial Y}>0$
+
+## Las exportaciones netas (cont.)
+
+- Las **exportaciones netas**:
+
+\begin{equation}
+NX=X(q,Y^{*})-M(q,Y)
+\end{equation}
+
+- Por lo tanto:
+  - $\frac{\partial NX}{\partial q}>0$: depreciación real mejora $NX$
+  - $\frac{\partial NX}{\partial Y}<0$: mayor ingreso empeora $NX$
+    (más importaciones)
+  - $\frac{\partial NX}{\partial Y^{*}}>0$: mayor ingreso extranjero
+    mejora $NX$
+
+## La ecuación de demanda agregada
+
+- Resumiendo:
+
+\begin{equation}
+D=C(Y-T)+I(R)+G+NX(EP^{*}/P,Y,Y^{*})
+\end{equation}
+
+- La demanda agregada depende de:
+  - Variables endógenas: $Y$, $R$, $E$
+  - Variables de política: $G$, $T$
+  - Variables exógenas: $Y^{*}$, $P$, $P^{*}$
+
+# **Determinación de la producción en el corto plazo** {background="#4b6e5c"}
+
+## Equilibrio en el mercado de bienes
+
+- El mercado de bienes está en equilibrio cuando:
+
+\begin{equation}
+Y=D=C(Y-T)+I(R)+G+NX(EP^{*}/P,Y,Y^{*})
+\end{equation}
+
+- Esta es una ecuación que relaciona $Y$, $R$ y $E$
+- Necesitamos condiciones adicionales del mercado de activos
+
+## El multiplicador en economía abierta
+
+- ¿Cómo afecta un aumento de $G$ a la producción?
+- En economía cerrada: el multiplicador es $\frac{1}{1-c}$
+- En economía abierta: parte del gasto adicional se "filtra" hacia
+  importaciones
+- El multiplicador es **menor**: $\frac{1}{1-c+m}$
+- donde $m$ es la propensión marginal a importar
+
+## El multiplicador en economía abierta (cont.)
+
+- Ejemplo numérico:
+  - $c=0.8$, $m=0.2$
+  - Multiplicador economía cerrada: $\frac{1}{1-0.8}=5$
+  - Multiplicador economía abierta: $\frac{1}{1-0.8+0.2}=2.5$
+- La economía abierta tiene multiplicador **menor** porque parte del
+  estímulo beneficia a productores extranjeros
+
+# **Equilibrio en el mercado de bienes: la curva DD** {background="#4b6e5c"}
+
+## Derivación de la curva DD
+
+- La curva **DD** muestra las combinaciones de $E$ e $Y$ que equilibran
+  el mercado de bienes
+- Para derivarla, fijamos $R$, $G$, $T$, $P$, $P^{*}$, $Y^{*}$ y
+  preguntamos: ¿cómo afecta $E$ al $Y$ de equilibrio?
+
+## Derivación de la curva DD (cont.)
+
+1. Supongamos que $E$ aumenta (depreciación)
+2. Esto aumenta $q=EP^{*}/P$ (depreciación real)
+3. Aumentan las exportaciones, disminuyen las importaciones
+4. Aumenta $NX$ $\longrightarrow$ aumenta $D$
+5. La producción de equilibrio $Y$ aumenta
+
+> La curva DD tiene **pendiente positiva**: mayor $E$ se asocia con
+> mayor $Y$
+
+## Gráfico de la curva DD
+
+- En el eje vertical: tipo de cambio $E$
+- En el eje horizontal: producción $Y$
+- La curva DD tiene pendiente positiva
+- Puntos por encima de DD: exceso de demanda de bienes
+- Puntos por debajo de DD: exceso de oferta de bienes
+
+## Desplazamientos de la curva DD
+
+- La curva DD se desplaza cuando cambian variables que afectan la
+  demanda (distintas de $E$ e $Y$):
+  - **$\uparrow G$**: aumenta demanda $\longrightarrow$ DD se desplaza
+    a la derecha
+  - **$\uparrow T$**: reduce consumo $\longrightarrow$ DD se desplaza a
+    la izquierda
+  - **$\uparrow Y^{*}$**: aumenta exportaciones $\longrightarrow$ DD a
+    la derecha
+  - **$\downarrow P$**: depreciación real $\longrightarrow$ DD a la
+    derecha
+  - **$\downarrow R$**: aumenta inversión $\longrightarrow$ DD a la
+    derecha
+
+# **Equilibrio en el mercado de activos: la curva AA** {background="#4b6e5c"}
+
+## Equilibrio simultáneo en mercados de activos
+
+- El equilibrio en el mercado de activos requiere:
+  1. **Equilibrio en el mercado monetario**:
+     $M^{s}/P=L(R,Y)$
+  2. **Paridad de intereses**:
+     $R=R^{*}+(E^{e}-E)/E$
+- Combinando ambas condiciones obtenemos la curva **AA**
+
+## Derivación de la curva AA
+
+1. Supongamos que $Y$ aumenta
+2. Aumenta la demanda de dinero $L(R,Y)$
+3. Hay exceso de demanda de dinero $\longrightarrow$ sube $R$
+4. Por paridad de intereses, si $R$ sube, $E$ debe bajar (apreciación)
+   para que se espere depreciación futura
+
+> La curva AA tiene **pendiente negativa**: mayor $Y$ se asocia con
+> menor $E$
+
+## Gráfico de la curva AA
+
+- En el eje vertical: tipo de cambio $E$
+- En el eje horizontal: producción $Y$
+- La curva AA tiene pendiente negativa
+- Puntos por encima de AA: exceso de oferta de dinero (activos locales
+  poco atractivos)
+- Puntos por debajo de AA: exceso de demanda de dinero
+
+## Desplazamientos de la curva AA
+
+- La curva AA se desplaza cuando cambian:
+  - **$\uparrow M^{s}$**: exceso de oferta de dinero $\longrightarrow$
+    baja $R$ $\longrightarrow$ AA se desplaza hacia arriba
+  - **$\uparrow P$**: reduce $M^{s}/P$ $\longrightarrow$ sube $R$
+    $\longrightarrow$ AA se desplaza hacia abajo
+  - **$\uparrow R^{*}$**: paridad de intereses requiere mayor $E$
+    $\longrightarrow$ AA hacia arriba
+  - **$\uparrow E^{e}$**: se espera depreciación $\longrightarrow$ AA
+    hacia arriba
+
+# **Equilibrio de corto plazo: el modelo DD-AA** {background="#4b6e5c"}
+
+## El equilibrio simultáneo
+
+- El equilibrio de corto plazo se encuentra en la **intersección de DD y
+  AA**
+- En este punto:
+  - El mercado de bienes está en equilibrio ($Y=D$)
+  - El mercado monetario está en equilibrio ($M^{s}/P=L(R,Y)$)
+  - El mercado de divisas está en equilibrio (paridad de intereses)
+- Se determinan simultáneamente $E$ e $Y$
+
+## El equilibrio simultáneo (cont.)
+
+- Gráficamente:
+  - DD tiene pendiente positiva
+  - AA tiene pendiente negativa
+  - La intersección determina $E^{*}$ e $Y^{*}$
+- Este es un equilibrio de **corto plazo** porque $P$ está fijo
+- En el largo plazo, $P$ se ajustará
+
+## Ajuste al equilibrio
+
+- ¿Qué sucede fuera del equilibrio?
+- **Por encima de AA**: exceso de oferta de dinero $\longrightarrow$ $R$
+  baja $\longrightarrow$ $E$ sube (depreciación rápida)
+- **Por debajo de AA**: exceso de demanda de dinero $\longrightarrow$
+  $R$ sube $\longrightarrow$ $E$ baja (apreciación rápida)
+- Los mercados de activos se ajustan **rápidamente**
+
+## Ajuste al equilibrio (cont.)
+
+- **Por encima de DD**: exceso de oferta de bienes $\longrightarrow$
+  inventarios aumentan $\longrightarrow$ $Y$ baja
+- **Por debajo de DD**: exceso de demanda de bienes $\longrightarrow$
+  inventarios disminuyen $\longrightarrow$ $Y$ sube
+- El mercado de bienes se ajusta **lentamente**
+
+# **Políticas monetaria y fiscal temporales** {background="#4b6e5c"}
+
+## Política monetaria expansiva temporal
+
+- Supongamos que el banco central **aumenta $M^{s}$ temporalmente**
+- Efectos:
+  1. AA se desplaza hacia arriba (a la derecha)
+  2. Nuevo equilibrio: mayor $E$ (depreciación) y mayor $Y$
+- **Mecanismo:**
+  - Mayor $M^{s}$ $\longrightarrow$ baja $R$
+  - Menor $R$ $\longrightarrow$ depreciación (paridad de intereses)
+  - Depreciación $\longrightarrow$ mejora $NX$ $\longrightarrow$ mayor
+    $Y$
+
+## Política monetaria expansiva temporal (cont.)
+
+- Resumen de efectos:
+
+| Variable                  | Efecto    |
+|---------------------------|-----------|
+| Producción $Y$            | Aumenta   |
+| Tipo de cambio $E$        | Aumenta (depreciación) |
+| Tipo de interés $R$       | Disminuye |
+| Exportaciones netas $NX$  | Mejoran   |
+| Cuenta corriente $CC$     | Mejora    |
+
+## Política fiscal expansiva temporal
+
+- Supongamos que el gobierno **aumenta $G$ temporalmente**
+- Efectos:
+  1. DD se desplaza hacia la derecha
+  2. Nuevo equilibrio: menor $E$ (apreciación) y mayor $Y$
+- **Mecanismo:**
+  - Mayor $G$ $\longrightarrow$ mayor demanda $\longrightarrow$ mayor
+    $Y$
+  - Mayor $Y$ $\longrightarrow$ mayor demanda de dinero
+    $\longrightarrow$ sube $R$
+  - Mayor $R$ $\longrightarrow$ apreciación (paridad de intereses)
+
+## Política fiscal expansiva temporal (cont.)
+
+- Resumen de efectos:
+
+| Variable                  | Efecto    |
+|---------------------------|-----------|
+| Producción $Y$            | Aumenta   |
+| Tipo de cambio $E$        | Disminuye (apreciación) |
+| Tipo de interés $R$       | Aumenta   |
+| Exportaciones netas $NX$  | Empeoran  |
+| Cuenta corriente $CC$     | Empeora   |
+
+## Comparación de políticas
+
+- **Política monetaria**:
+  - Aumenta $Y$ vía depreciación y mejora de $NX$
+  - Mejora la cuenta corriente
+- **Política fiscal**:
+  - Aumenta $Y$ vía demanda interna
+  - Pero aprecia la moneda y empeora $NX$
+  - Efecto sobre cuenta corriente es negativo
+
+# **Políticas monetaria y fiscal permanentes** {background="#4b6e5c"}
+
+## ¿Qué cambia con políticas permanentes?
+
+- Cuando una política es **permanente**, afecta las **expectativas**
+- En particular, afecta el tipo de cambio esperado $E^{e}$
+- Esto genera efectos adicionales sobre la curva AA
+
+## Política monetaria expansiva permanente
+
+- Si el aumento de $M^{s}$ es **permanente**:
+  1. En el largo plazo, $P$ subirá proporcionalmente
+  2. $E$ también subirá proporcionalmente (por PPA)
+  3. Por lo tanto, $E^{e}$ sube inmediatamente
+- Efectos:
+  - AA se desplaza hacia arriba (por aumento de $M^{s}$)
+  - AA se desplaza **aún más** hacia arriba (por aumento de $E^{e}$)
+
+## Política monetaria expansiva permanente (cont.)
+
+- El efecto sobre $E$ es **mayor** que con política temporal
+- Esto se conoce como **overshooting** (sobrerreacción):
+  - El tipo de cambio salta inicialmente más que su valor de largo plazo
+  - Luego se aprecia gradualmente hacia el equilibrio de largo plazo
+
+## El overshooting del tipo de cambio
+
+![](../_shared/images/cyfi/fig-diagram-exchange-rate-overshooting.svg){fig-align="center" height=450px}
+
+## El overshooting del tipo de cambio (cont.)
+
+- **Intuición del overshooting (modelo de Dornbusch)**:
+  1. $M^{s}$ aumenta $\longrightarrow$ $R$ baja inmediatamente
+  2. Para que se cumpla paridad de intereses con $R<R^{*}$, debe
+     esperarse **apreciación futura**
+  3. Para que se espere apreciación, $E$ debe **saltar por encima** de
+     su valor de largo plazo hoy
+  4. Gradualmente, $P$ sube, $R$ vuelve a subir, $E$ se aprecia
+
+## Política fiscal expansiva permanente
+
+- Si el aumento de $G$ es **permanente**:
+  - El efecto sobre $E^{e}$ es ambiguo
+  - Depende de cómo se financie el mayor gasto (impuestos, deuda)
+  - Y de cómo afecte la posición externa del país
+- En general, el efecto sobre $Y$ es similar al temporal, pero puede
+  haber ajustes de largo plazo adicionales
+
+# **Políticas macroeconómicas y la cuenta corriente** {background="#4b6e5c"}
+
+## La cuenta corriente en el modelo DD-AA
+
+- La **cuenta corriente** depende de:
+
+\begin{equation}
+CC=NX(q,Y,Y^{*})=X(q,Y^{*})-M(q,Y)
+\end{equation}
+
+- Depreciación real ($\uparrow q$) mejora $CC$
+- Mayor ingreso local ($\uparrow Y$) empeora $CC$
+
+## Efectos de política sobre la cuenta corriente
+
+- **Política monetaria expansiva**:
+  - Depreciación $\uparrow q$ $\longrightarrow$ mejora $CC$
+  - Mayor $Y$ $\longrightarrow$ empeora $CC$
+  - Efecto neto: generalmente positivo (mejora $CC$)
+- **Política fiscal expansiva**:
+  - Apreciación $\downarrow q$ $\longrightarrow$ empeora $CC$
+  - Mayor $Y$ $\longrightarrow$ empeora $CC$
+  - Efecto neto: negativo (empeora $CC$)
+
+## El dilema de política
+
+- Un gobierno puede enfrentar **objetivos conflictivos**:
+  - Quiere aumentar $Y$ para reducir desempleo
+  - Quiere mantener equilibrio en cuenta corriente
+- La política monetaria puede lograr ambos (si $CC$ no es muy deficitaria)
+- La política fiscal genera **trade-off**: más $Y$ pero peor $CC$
+
+## Coordinación de políticas
+
+- A veces se requiere **combinación de políticas**:
+  - Para aumentar $Y$ sin empeorar $CC$: política monetaria expansiva
+  - Para aumentar $Y$ manteniendo $E$ estable: combinar expansión fiscal
+    con expansión monetaria
+- También puede requerirse **coordinación internacional**:
+  - Políticas de un país afectan a otros vía $Y^{*}$ y $E$
+
+# **Apéndice: Modelo DD-AA formal** {background="#4b6e5c"}
+
+## Ecuaciones del modelo
+
+- **Demanda agregada**:
+
+\begin{equation}
+Y=C(Y-T)+I(R)+G+NX(EP^{*}/P,Y,Y^{*})
+\end{equation}
+
+- **Equilibrio monetario**:
+
+\begin{equation}
+M^{s}/P=L(R,Y)
+\end{equation}
+
+- **Paridad de intereses**:
+
+\begin{equation}
+R=R^{*}+(E^{e}-E)/E
+\end{equation}
+
+## Linealización del modelo
+
+- Linealizando alrededor del equilibrio:
+- **Curva DD**:
+
+\begin{equation}
+e=\frac{1-c+m}{\theta}y-\frac{1}{\theta}g+...
+\end{equation}
+
+- **Curva AA**:
+
+\begin{equation}
+e=-\frac{L_{Y}}{L_{R}(E^{e}/E^{2})}y+\frac{1/P}{L_{R}(E^{e}/E^{2})}m^{s}+...
+\end{equation}
+
+## Solución del modelo
+
+- Resolviendo el sistema:
+
+\begin{equation}
+y^{*}=f(m^{s},g,r^{*},e^{e},y^{*})
+\end{equation}
+
+\begin{equation}
+e^{*}=g(m^{s},g,r^{*},e^{e},y^{*})
+\end{equation}
+
+- Los multiplicadores dependen de los parámetros estructurales
+
+## Estabilidad del modelo
+
+- El modelo es **estable** si:
+  - Los mercados de activos se ajustan más rápido que el de bienes
+  - La curva AA es más empinada que DD en valor absoluto
+- En la práctica, el ajuste hacia el equilibrio es rápido en activos y
+  lento en bienes/precios
+
+## Extensiones del modelo
+
+- El modelo básico DD-AA puede extenderse para incluir:
+  - **Expectativas racionales**: $E^{e}$ se determina endógenamente
+  - **Ajuste gradual de precios**: dinámica de transición
+  - **Movilidad imperfecta de capital**: prima de riesgo
+  - **Dos países grandes**: efectos de retroalimentación

@@ -1,27 +1,6 @@
 ---
 title: Tópicos de Economía Política (UNS)
-title-slide-attributes:
-  data-background-image: background.png
-  data-background-size: contain
-  data-background-opacity: "0.5"
 subtitle: Unidad 2. Elección en democracia directa
-author: |
-  | **Sebastián Freille**
-  | sfreille@unc.edu.ar
-  | FCE-UNC
-format:
-  revealjs:
-    slide-number: true
-    preview-links: auto
-    css: ..\quarto.css
-    width: 1500
-    center-title-slide: true
-    center: true
-    tbl-cap-location: bottom	
-    toc: true
-    toc-depth: 1
-    toc-title: Contenidos
-    link-external-newwindow: true
 ---
 
 > Una mayoría sujeta a las limitaciones constitucionales y que cambie fácilmente conforme a los cambios de la opinión popular es el verdadero soberano de un pueblo libre; el que la deseche cae en la anarquía; la unanimidad es imposible; rechazando el principio de la mayoría, sólo queda ya el despotismo...\

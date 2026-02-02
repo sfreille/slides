@@ -1,27 +1,6 @@
 ---
 title: Tópicos de Economía Política (UNS)
-title-slide-attributes:
-  data-background-image: background.png
-  data-background-size: contain
-  data-background-opacity: "0.5"
 subtitle: Unidad 2. La democracia es el peor sistema de gobierno (con excepción de todas las demas)
-author: |
-  | **Sebastián Freille**
-  | sfreille@unc.edu.ar
-  | FCE-UNC
-format:
-  revealjs:
-    slide-number: true
-    preview-links: auto
-    css: ..\quarto.css
-    width: 1500
-    center-title-slide: true
-    center: true
-    tbl-cap-location: bottom	
-    toc: true
-    toc-depth: 1
-    toc-title: Contenidos
-    link-external-newwindow: true
 ---
 
 > El poder no es un medio, sino un fin en si mismo. No se establece una dictadura para salvaguardar una revolución; se hace la revolución para establecer una dictadura\

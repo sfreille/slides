@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="847"
+   height="520"
+   version="1.1"
+   id="svg136"
+   sodipodi:docname="graf_sec_partyagg5.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata142">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs140" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview138"
+     showgrid="false"
+     inkscape:zoom="1.0615385"
+     inkscape:cx="423.5"
+     inkscape:cy="260"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg136" />
+  <g
+     transform="matrix(0.96885855,0,0,0.95102879,7.5362319,37.318838)"
+     id="g134">
+    <g
+       id="g66">
+      <path
+         class="link"
+         d="m 5,63.229943 c 418.5,0 418.5,0 837,0"
+         style="fill:none;stroke:#69bfbf;stroke-width:126.45999908;stroke-opacity:0.4"
+         id="path12"
+         inkscape:connector-curvature="0">
+        <title
+           id="title10">625000</title>
+      </path>
+      <path
+         class="link"
+         d="m 5,231.96239 c 418.5,0 418.5,-57.75125 837,-57.75125"
+         style="fill:none;stroke:#b3ac15;stroke-width:95.50250244;stroke-opacity:0.4"
+         id="path16"
+         inkscape:connector-curvature="0">
+        <title
+           id="title14">472000</title>
+      </path>
+      <path
+         class="link"
+         d="m 5,392.77653 c 418.5,0 418.5,-126.06039 837,-126.06039"
+         style="fill:none;stroke:#c24747;stroke-width:89.50749969;stroke-opacity:0.4"
+         id="path20"
+         inkscape:connector-curvature="0">
+        <title
+           id="title18">442371</title>
+      </path>
+      <path
+         class="link"
+         d="m 5,296.28292 c 418.5,0 418.5,72.10662 837,72.10662"
+         style="fill:none;stroke:#b3ac15;stroke-width:33.1385994;stroke-opacity:0.4"
+         id="path24"
+         inkscape:connector-curvature="0">
+        <title
+           id="title22">163780</title>
+      </path>
+      <path
+         class="link"
+         d="m 5,165.91537 c 418.5,0 418.5,306.38486 837,306.38486"
+         style="fill:none;stroke:#69bfbf;stroke-width:16.59149933;stroke-opacity:0.4"
+         id="path28"
+         inkscape:connector-curvature="0">
+        <title
+           id="title26">82000</title>
+      </path>
+      <path
+         class="link"
+         d="m 5,149.32383 c 418.5,0 418.5,267.04617 837,267.04617"
+         style="fill:none;stroke:#69bfbf;stroke-width:16.59149933;stroke-opacity:0.4"
+         id="path32"
+         inkscape:connector-curvature="0">
+        <title
+           id="title30">82000</title>
+      </path>
+      <path
+         class="link"
+         d="m 5,320.94564 c 418.5,0 418.5,111.81356 837,111.81356"
+         style="fill:none;stroke:#b3ac15;stroke-width:16.18689919;stroke-opacity:0.4"
+         id="path36"
+         inkscape:connector-curvature="0">
+        <title
+           id="title34">80000</title>
+      </path>
+      <path
+         class="link"
+         d="m 5,491.40073 c 418.5,0 418.5,-172.03975 837,-172.03975"
+         style="fill:none;stroke:#1d9e1a;stroke-width:15.78219986;stroke-opacity:0.4"
+         id="path40"
+         inkscape:connector-curvature="0">
+        <title
+           id="title38">78000</title>
+      </path>
+      <path
+         class="link"
+         d="m 5,133.74397 c 418.5,0 418.5,210.7922 837,210.7922"
+         style="fill:none;stroke:#69bfbf;stroke-width:14.56820011;stroke-opacity:0.4"
+         id="path44"
+         inkscape:connector-curvature="0">
+        <title
+           id="title42">72000</title>
+      </path>
+      <path
+         class="link"
+         d="m 5,457.2216 c 418.5,0 418.5,-9.79306 837,-9.79306"
+         style="fill:none;stroke:#c24747;stroke-width:13.15180016;stroke-opacity:0.4"
+         id="path48"
+         inkscape:connector-curvature="0">
+        <title
+           id="title46">65000</title>
+      </path>
+      <path
+         class="link"
+         d="m 5,444.08798 c 418.5,0 418.5,-52.57146 837,-52.57146"
+         style="fill:none;stroke:#c24747;stroke-width:13.11540031;stroke-opacity:0.4"
+         id="path52"
+         inkscape:connector-curvature="0">
+        <title
+           id="title50">64820</title>
+      </path>
+      <path
+         class="link"
+         d="m 5,468.65357 c 418.5,0 418.5,25.7822 837,25.7822"
+         style="fill:none;stroke:#c24747;stroke-width:9.71212006;stroke-opacity:0.4"
+         id="path56"
+         inkscape:connector-curvature="0">
+        <title
+           id="title54">48000</title>
+      </path>
+      <path
+         class="link"
+         d="m 5,333.53092 c 418.5,0 418.5,151.55693 837,151.55693"
+         style="fill:none;stroke:#b3ac15;stroke-width:8.98371029;stroke-opacity:0.4"
+         id="path60"
+         inkscape:connector-curvature="0">
+        <title
+           id="title58">44400</title>
+      </path>
+      <path
+         class="link"
+         d="m 5,499.64591 c 418.5,0 418.5,0 837,0"
+         style="fill:none;stroke:#1d9e1a;stroke-width:1;stroke-opacity:0.4"
+         id="path64"
+         inkscape:connector-curvature="0">
+        <title
+           id="title62">3500</title>
+      </path>
+    </g>
+    <g
+       id="g132">
+      <g
+         class="node"
+         transform="translate(842)"
+         id="g74">
+        <rect
+           height="327.25208"
+           width="5"
+           style="fill:#666666"
+           id="rect70"
+           x="0"
+           y="0">
+          <title
+             id="title68">FPV
+1,617,371</title>
+        </rect>
+        <text
+           x="-6"
+           y="163.62604"
+           dy="0.34999999em"
+           style="font-size:11px;font-family:Arial, Helvetica;text-anchor:end"
+           id="text72">FPV</text>
+      </g>
+      <g
+         class="node"
+         transform="translate(842,337.25208)"
+         id="g82">
+        <rect
+           height="60.822147"
+           width="5"
+           style="fill:#666666"
+           id="rect78"
+           x="0"
+           y="0">
+          <title
+             id="title76">PJ
+300,600</title>
+        </rect>
+        <text
+           x="-6"
+           y="30.411074"
+           dy="0.34999999em"
+           style="font-size:11px;font-family:Arial, Helvetica;text-anchor:end"
+           id="text80">PJ</text>
+      </g>
+      <g
+         class="node"
+         transform="translate(842,408.07423)"
+         id="g90">
+        <rect
+           height="45.930229"
+           width="5"
+           style="fill:#666666"
+           id="rect86"
+           x="0"
+           y="0">
+          <title
+             id="title84">PRO
+227,000</title>
+        </rect>
+        <text
+           x="-6"
+           y="22.965115"
+           dy="0.34999999em"
+           style="font-size:11px;font-family:Arial, Helvetica;text-anchor:end"
+           id="text88">PRO</text>
+      </g>
+      <g
+         class="node"
+         transform="translate(842,464.00446)"
+         id="g98">
+        <rect
+           height="35.995541"
+           width="5"
+           style="fill:#666666"
+           id="rect94"
+           x="0"
+           y="0">
+          <title
+             id="title92">UCR
+177,900</title>
+        </rect>
+        <text
+           x="-6"
+           y="17.99777"
+           dy="0.34999999em"
+           style="font-size:11px;font-family:Arial, Helvetica;text-anchor:end"
+           id="text96">UCR</text>
+      </g>
+      <g
+         class="node"
+         id="g106">
+        <rect
+           height="174.21114"
+           width="5"
+           id="rect102"
+           x="0"
+           y="0">
+          <title
+             id="title100">SALUD HUMANA Y SERVICIOS SOCIALES.
+861,000</title>
+        </rect>
+        <text
+           x="11"
+           y="87.105568"
+           dy="0.34999999em"
+           style="font-size:11px;font-family:Arial, Helvetica;text-anchor:start"
+           id="text104">SALUD HUMANA Y SERVICIOS SOCIALES.</text>
+      </g>
+      <g
+         class="node"
+         transform="translate(0,483.50963)"
+         id="g114">
+        <rect
+           height="16.49037"
+           width="5"
+           id="rect110"
+           x="0"
+           y="0">
+          <title
+             id="title108">SERVICIOS ARTÍSTICOS, CULTURALES, DEPORTIVOS Y DE ESPARCIMIENTO.
+81,500</title>
+        </rect>
+        <text
+           x="11"
+           y="8.2451849"
+           dy="0.34999999em"
+           style="font-size:11px;font-family:Arial, Helvetica;text-anchor:start"
+           id="text112">SERVICIOS ARTÍSTICOS, CULTURALES, DEPORTIVOS Y DE ESPARCIMIENTO.</text>
+      </g>
+      <g
+         class="node"
+         transform="translate(0,348.02278)"
+         id="g122">
+        <rect
+           height="125.48685"
+           width="5"
+           id="rect118"
+           x="0"
+           y="0">
+          <title
+             id="title116">SERVICIOS DE ASOCIACIONES Y SERVICIOS PERSONALES.
+620,191</title>
+        </rect>
+        <text
+           x="11"
+           y="62.743427"
+           dy="0.34999999em"
+           style="font-size:11px;font-family:Arial, Helvetica;text-anchor:start"
+           id="text120">SERVICIOS DE ASOCIACIONES Y SERVICIOS PERSONALES.</text>
+      </g>
+      <g
+         class="node"
+         transform="translate(0,184.21114)"
+         id="g130">
+        <rect
+           height="153.81165"
+           width="5"
+           id="rect126"
+           x="0"
+           y="0">
+          <title
+             id="title124">SERVICIOS DE TRANSPORTE Y ALMACENAMIENTO.
+760,180</title>
+        </rect>
+        <text
+           x="11"
+           y="76.905823"
+           dy="0.34999999em"
+           style="font-size:11px;font-family:Arial, Helvetica;text-anchor:start"
+           id="text128">SERVICIOS DE TRANSPORTE Y ALMACENAMIENTO.</text>
+      </g>
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:29.48476601px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.73711914"
+     x="9.8090582"
+     y="27.723856"
+     id="text185"
+     transform="scale(0.98515082,1.015073)"><tspan
+       sodipodi:role="line"
+       id="tspan183"
+       x="9.8090582"
+       y="27.723856"
+       style="stroke-width:0.73711914">Contribuciones por sector de actividad (2003 - 2013)</tspan></text>
+</svg>

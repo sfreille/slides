@@ -1,0 +1,26 @@
+# Quarto render output
+*_files/
+*.html
+*.pdf
+
+# Node.js
+node_modules/
+
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Editor backups
+*~
+*.bak
+.#*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Quarto cache
+.quarto/
+_freeze/

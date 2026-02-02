@@ -1,26 +1,6 @@
 ---
 title: U4. La economía política. El pensamiento clásico. Stuart Mill
 subtitle: Historia del Pensamiento y del Análisis Económico
-author: |
-  | **Sebastián Freille**
-  | sfreille@unc.edu.ar
-  | Licenciatura en Economía
-  | FCE-UNC
-format:
-  revealjs:
-    slide-number: true
-    chalkboard:
-      buttons: false
-    preview-links: auto
-    css: ..\quarto.css
-    width: 1500
-    center-title-slide: true
-    center: true
-    tbl-cap-location: bottom	
-    toc: true
-    toc-depth: 1
-    toc-title: Contenidos
-    link-external-newwindow: true
 ---
 
 # Economía y sociedad en la escuela clásica {background="#43464B"}
@@ -65,7 +45,7 @@ format:
   
 ## John Stuart Mill [1806-1873] (cont.)
 
-![La humildad de un gran pensador](fig/fig-04-012.png){#fig-precios}
+![La humildad de un gran pensador](../_shared/images/hpae/fig-quote-mill-humility.png){#fig-precios}
 
   
 ## John Stuart Mill [1806-1873] (cont.)
@@ -82,7 +62,7 @@ format:
 	
 ## John Stuart Mill [1806-1873] (cont.)
 
-![La extravagante tumba de Harriet Taylor](fig/fig-04-010.png){#fig-precios}
+![La extravagante tumba de Harriet Taylor](../_shared/images/hpae/fig-photo-harriet-taylor-tomb.png){#fig-precios}
 
 
 ## John Stuart Mill [1806-1873] (cont.)
@@ -210,7 +190,7 @@ format:
 
 ## Sobre la determinación del precio de equilibrio (cont.)
 
-![Sobre relaciones y ecuaciones](fig/fig-04-013.png){#fig-precios}
+![Sobre relaciones y ecuaciones](../_shared/images/hpae/fig-text-mill-relations-equations.png){#fig-precios}
 
 
 ## Sobre la determinación del precio de equilibrio (cont.)
@@ -292,7 +272,7 @@ de las pieles GF de manera similar
   
 ## Sobre el mercado de trabajo y salarios
 
-![Discusión de rol de sindicatos](fig/fig-04-011.png){#fig-precios}
+![Discusión de rol de sindicatos](../_shared/images/hpae/fig-text-mill-unions.png){#fig-precios}
 
 ## Sobre el mercado de trabajo y salarios
 

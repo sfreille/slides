@@ -1,0 +1,44 @@
+﻿# ============================================
+# COURSE-LEVEL _quarto.yml TEMPLATE
+# Copy this to your course folder and customize
+# ============================================
+#
+# USAGE:
+# 1. Copy this file to your course folder (e.g., cyfi/_quarto.yml)
+# 2. Customize the metadata section below
+# 3. Choose your theme by uncommenting the desired css line
+#
+# Available themes:
+#   - theme-minimalist.scss : Clean black/white (Recommended)
+#   - theme-default.scss    : Clean professional (blue/gray)
+#   - theme-highlight.scss  : Yellow accent (good for dark backgrounds)
+#   - theme-academic.scss   : Elegant serif (conferences)
+#   - theme-dark.scss       : Dark mode
+# ============================================
+
+project:
+  type: default
+
+# Inherit shared metadata
+metadata-files:
+  - ../_shared/templates/_metadata.yml
+
+# Course-specific overrides
+format:
+  revealjs:
+    # THEME: Uncomment ONE of these lines
+    css: ../_shared/css/theme-minimalist.scss
+    # css: ../_shared/css/theme-default.scss
+    # css: ../_shared/css/theme-highlight.scss
+    # css: ../_shared/css/theme-academic.scss
+    # css: ../_shared/css/theme-dark.scss
+
+    # Course-specific title slide background (optional)
+    # title-slide-attributes:
+    #   data-background-image: ../_shared/images/backgrounds/bg-cyfi-01.png
+    #   data-background-size: stretch
+    #   data-background-opacity: "0.85"
+
+# Course metadata (customize these)
+# title: "Course Name"
+# subtitle: "Subtitle here"
