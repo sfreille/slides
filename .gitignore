@@ -1,7 +1,5 @@
 # Quarto render output
 *_files/
-*.html
-*.pdf
 
 # Node.js
 node_modules/
