@@ -3,7 +3,7 @@ title: U3. Análisis beneficio-costo y programas de gasto
 subtitle: Finanzas Públicas
 ---
 
-# Bibliografia
+## Bibliografia
 
 -   Rosen, H. S. (2008). Hacienda Pública (7ma. edición). Madrid:
     McGraw-Hill/Interamericana. Capítulo 8, págs 55 a 65 y 165 a 190.
@@ -228,7 +228,7 @@ planilla anexa 8 al presente artículo.
         produccion de ByS y promoción del desarrollo económico
         
 
-# Por finalidad y función (cont.)
+## Por finalidad y función (cont.)
 
 ![image](../_shared/images/fpub/uni3_clasif04.png)
 
@@ -247,7 +247,7 @@ planilla anexa 8 al presente artículo.
         financieras como amortización de deuda (externa e interna) y
         otros pasivos.
 
-# Clasificación económica (cont.)
+## Clasificación económica (cont.)
 
 ![image](../_shared/images/fpub/uni3_clasif03.png)
 
@@ -263,22 +263,22 @@ planilla anexa 8 al presente artículo.
     -   Servicio de deuda y disminución de otros pasivos
     -   Otros gastos y gastos figurativos
 
-# Por objeto del gasto (cont.)
+## Por objeto del gasto (cont.)
 
 ![image](../_shared/images/fpub/uni3_clasif02.png)
 
 
 # **Crecimiento del gasto público: Teoría y determinantes** {background="#43464B"}
 
-# Crecimiento del gasto
+## Crecimiento del gasto
 
 ![image](../_shared/images/fpub/uni3_evolgastos2.png)
 
-# Crecimiento del gasto
+## Crecimiento del gasto
 
 ![image](../_shared/images/fpub/uni3_evolgastos3.png)
 
-# Crecimiento del gasto
+## Crecimiento del gasto
 
 ![image](../_shared/images/fpub/uni3_evolgastos4.png)
 

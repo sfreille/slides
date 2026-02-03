@@ -97,7 +97,9 @@ Nacional de Córdoba (UNC).
 
 ## Evaluación
 
-- Se obtiene la **regularidad aprobando 2 (dos) de 3 (tres) parciales**. Si aprueba los 2 (dos) primeros no rinde el restante. Los dos primeros parciales serán **presenciales físicos**; el parcial recuperatorio será **remoto en aula virtual**
+- Se obtiene la **regularidad aprobando 2 (dos) de 3 (tres)
+  parciales**. Si aprueba los 2 (dos) primeros no rinde el
+  restante. Todos los parciales serán **presenciales físicos**
 -  **Se aprueba la materia** (1) rindiendo y aprobando un examen en condición de regular; o (2) rindiendo y aprobando dos exámenes, uno en condición de libre y otro en condición de regular.
 - En todos los casos **se aprueba con 50 puntos sobre 100**, sin excepciones
 -  **No hay promoción** directa ni indirecta
@@ -125,7 +127,7 @@ Nacional de Córdoba (UNC).
     - Freille: [Sala Google
       Meet](https://meet.google.com/pyx-spym-hxd)
 3. Mail y otros
-    - Se responden mails y mensajes en foros a lo largo de la semana (no en el día)
+    - Se responden mensajes en foros a lo largo de la semana (no en el día)
     - No usamos grupos de whatsapp y/u otro
 
 ---

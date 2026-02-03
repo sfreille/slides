@@ -3,7 +3,7 @@ title: U3. El gasto público y el presupuesto público
 subtitle: Finanzas Públicas
 ---
 
-# Bibliografia
+## Bibliografia
 
 -   Rosen, H. S. (2008). Hacienda Pública (7ma. edición). Madrid:
     McGraw-Hill/Interamericana. Capítulo 8, págs 55 a 65 y 165 a 190.
@@ -26,7 +26,7 @@ subtitle: Finanzas Públicas
     la Administración Nacional de la República Argentina, Ministerio de
     Economía y Finanzas. Solicitar por: 336 G 53902
 
-# El gasto y Presupuesto público.
+## El gasto y Presupuesto público.
 
 1. Los bienes públicos
    + Naturaleza y características
@@ -41,7 +41,7 @@ subtitle: Finanzas Públicas
 5. Programas de gasto
 
 
-# Preguntas
+## Preguntas
 -   ¿Qué comprende el gasto público?
 -   ¿Cómo caracterizamos a los bienes que deben ser provistos
     públicamente?
@@ -55,7 +55,7 @@ subtitle: Finanzas Públicas
 
 # **Los bienes públicos** {background="#43464B"}
 
-# Naturaleza y características
+## Naturaleza y características
 
 -   Una empresa tiene incentivos a producir autos porque puede
     cobrar un precio. ¿Una empresa tiene incentivo a
@@ -80,15 +80,15 @@ siguientes: 1. **No exclusión.** Si el bien público es provisto, ningún consu
 -   Bien público beneficia a muchos individuos simultáneamente
     $$X_{h} \leq X  \quad \forall h$$
 
-# Bien privado
+## Bien privado
 
 ![Bien privado](../_shared/images/fpub/uni3_publicgood1.png){width=75%}
 
-# Bien público
+## Bien público
 
 ![Bien público](../_shared/images/fpub/uni3_publicgood2.png){width=75%}
 
-# Algunas consideraciones
+## Algunas consideraciones
 
 -   Los bienes públicos que son excluibles (con un costo) y que sufren
     de congestion más allá de un cierto nivel de uso son llamados
@@ -155,7 +155,7 @@ siguientes: 1. **No exclusión.** Si el bien público es provisto, ningún consu
     privadas.
 
 
-# Mecanismos de provisión
+## Mecanismos de provisión
 
 -   Es útil comenzar analizando los bienes privados. Supongamos una
     sociedad con dos individuos: Adan y Eva y dos bienes privados:

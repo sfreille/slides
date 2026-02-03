@@ -1,9 +1,9 @@
 ---
 title: U2. Las decisiones colectivas
-subtitle: Finanzas Publicas
+subtitle: Finanzas Publicas [Cat. Barraud]
 ---
 
-# Bibliografia
+## Bibliografia
 
 -   Stiglitz, J. E. (2000). La Economia del Sector Publico (3ra.
     edicion), Barcelona: Antoni Bosch Editor. Capitulo 7, pags. 181
@@ -15,7 +15,7 @@ subtitle: Finanzas Publicas
     rationality, behavior, and institutions. New York: Norton. Capitulos
     2 a 5. Paginas 13 a 99. Disponible:
 
-# Las decisiones colectivas: Agregacion de preferencias y decisiones sociales
+## Las decisiones colectivas: Agregacion de preferencias y decisiones sociales
 
 1. Naturaleza y motivacion
 2. Racionalidad y preferencias individuales
@@ -24,7 +24,7 @@ subtitle: Finanzas Publicas
 
 # **Naturaleza y motivacion** {background="#43464B"}
 
-# Preguntas
+## Preguntas
 
 -   ¿Como deciden los colectivos de individuos?
 -   ¿Que mecanismos existen para "trasladar" preferencias individuales a
@@ -37,7 +37,7 @@ subtitle: Finanzas Publicas
 -   ¿Por que es importante el poder de establecer agenda?
 -   ¿Cualquier gobierno puede hacer politica redistributiva?
 
-# Tema: ¿Como se decide el nivel de gasto publico?
+## Tema: ¿Como se decide el nivel de gasto publico?
 
 -   El nivel de gasto en bienes y servicios publicos (y de impuestos) se
     decide a traves del proceso politico --a diferencia del gasto en
@@ -49,7 +49,7 @@ subtitle: Finanzas Publicas
     averiguar los puntos de vista de sus electores; 2) decidir que peso
     asignar a intereses (potencialmente) divergentes
 
-# ¿Por que difieren las politicas economicas?
+## ¿Por que difieren las politicas economicas?
 
 ![Correlacion gasto publico y PBI per capita](../_shared/images/fpub/fig_uni1_gp_pbi.png){height=450px}
 
@@ -66,7 +66,7 @@ subtitle: Finanzas Publicas
 - Tambien aqui la politica es importante $\longrightarrow$ expansion y fortalecimiento de las democracias en los ultimos 150 años
 - ¿Diferentes preferencias? ¿Diferentes instituciones?
 
-# Diferentes preferencias
+## Diferentes preferencias
 
 -   Individuos $\longrightarrow$ diferentes en varias dimensiones. Dos
     son de particular interes:
@@ -79,7 +79,7 @@ subtitle: Finanzas Publicas
 -   Conflicto de intereses $\longrightarrow$ entre ciudadanos pero
     tambien posible entre ciudadanos y politicos.
 
-# Diferentes instituciones
+## Diferentes instituciones
 
 -   **Preferencias diversas** de ciudadanos y grupos --preferencias de
     ciudadanos por diferentes niveles de gasto publico.
@@ -91,19 +91,19 @@ subtitle: Finanzas Publicas
     indole)** e impactan sobre las **preferencias diversas** de los
     individuos.
 
-# No solo varia en un momento...
+## No solo varia en un momento...
 
 ![Gasto publico como porcentaje de PBI](../_shared/images/fpub/fig_uni1_gp_pbi_per.png){height=550px}
 
-# ...sino tambien a lo largo del tiempo
+## ...sino tambien a lo largo del tiempo
 
 ![Gasto publico como porcentaje de PBI - Otros paises](../_shared/images/fpub/fig_uni1_gp_pbi_per_sub.png){height=550px}
 
-# La economia politica de la politica publica
+## La economia politica de la politica publica
 
 ![Policy-making en la nueva economia politica](../_shared/images/fpub/fig_uni1_sistema.png)
 
-# El rol de la politica
+## El rol de la politica
 
 - Un aspecto relevante de la politica es en lo que hace a la **heterogeneidad de intereses**
 - Restricciones politicas derivadas de ello implica que las politicas adoptadas en la practica **no son optimas**
@@ -128,7 +128,7 @@ las formas de gobierno excepto por todas las demas \[Winston Churchill\]
          tienen en el centro del proceso decisorio a mecanismos de
          votacion.
 
-# Escuela de la eleccion publica
+## Escuela de la eleccion publica
 
 -   Individuos racionales motivados por el propio interes en las
     interacciones politicas
@@ -145,7 +145,7 @@ que usan sus poderes para la busqueda del "interes publico"
 
 # **Racionalidad y preferencias individuales** {background="#43464B"}
 
-# Racionalidad y preferencias
+## Racionalidad y preferencias
 
 > **Racionalidad.** Los individuos que nos interesa estudiar son personas
 comunes que tienen **deseos** y **creencias**. Ambos afectan su
@@ -209,7 +209,7 @@ que los **individuos** tienen preferencias y creencias. Los colectivos
 en el sentido cognitivo. Aqui entra en juego el tema de la **agregacion
 de preferencias y creencias**
 
-# Preferencia y eleccion
+## Preferencia y eleccion
 
 -   Sea un individuo, $i$, y 3 objetos --"alternativas"-, $A$,
     $B$, y $C$ sobre los que $i$ tiene preferencias.
@@ -222,7 +222,7 @@ de preferencias y creencias**
     **preferencia**.
 -   Relaciones de preferencia sujetas a ciertas propiedades que permita "ordenarlas"
 
-# Propiedades de las relaciones
+## Propiedades de las relaciones
 
 > **Comparabilidad (completitud).** Las alternativas son comparables en
 terminos de las preferencias si, dadas dos alternativas posibles, $A$ y
@@ -237,7 +237,7 @@ $A \succ B$ y $B \succ
 C$, entonces $A \succ C$. Si el individuo $i$ prefiere estrictamente $A$
 a $B$ y $B$ a $C$, entonces prefiere $A$ a $C$.
 
-# Ordenamiento de preferencias
+## Ordenamiento de preferencias
 
 -   Si las preferencias de $i$ satisfacen estas propiedades, decimos que
     $i$ tiene un **ordenamiento de preferencias racional**. La eleccion
@@ -250,7 +250,7 @@ a $B$ y $B$ a $C$, entonces prefiere $A$ a $C$.
     -   La comparacion debe ser sobre algo que le importa al individuo
       
 
-# Ejemplo: Preferencias deportivas
+## Ejemplo: Preferencias deportivas
 
 -   Supongamos que le pedimos a un ciudadano que elabore su relacion de
     preferencias por los equipos del Mundial 2018. En total son 32
@@ -266,7 +266,7 @@ a $B$ y $B$ a $C$, entonces prefiere $A$ a $C$.
 
 # **Agregacion y preferencias colectivas: Reglas de decision** {background="#43464B"}
 
-# De lo individual a lo social
+## De lo individual a lo social
 
 -   Teoria de la eleccion social $\longrightarrow$ estudio de los
     procesos colectivos de decision a traves de modelos y paradigmas de
@@ -278,7 +278,7 @@ a $B$ y $B$ a $C$, entonces prefiere $A$ a $C$.
     en el progreso de la economia, la ciencia politica y la sociologia,
     entre otras disciplinas
 
-# Supuestos del analisis 
+## Supuestos del analisis 
 
 -   Existe un **numero impar de individuos** que eligen entre:
     -   Dos (2) alternativas
@@ -287,7 +287,7 @@ a $B$ y $B$ a $C$, entonces prefiere $A$ a $C$.
 -   Los individuos votan **sinceramente** --no estrategicamente
 -   Todos los individuos **participan**.
 
-# Sistemas  y reglas de decision
+## Sistemas  y reglas de decision
 
 -   Unanimidad $\longrightarrow$ gana quien recibe **todos** los votos
 -   Mayoria (mayoria absoluta) $\longrightarrow$ gana la alternativa que
@@ -312,7 +312,7 @@ a $B$ y $B$ a $C$, entonces prefiere $A$ a $C$.
     **puntos** suelen usarse en votaciones en comites y en concursos y
     premios.
 
-# Caso I: Dos alternativas
+## Caso I: Dos alternativas
 
 -   Condiciones deseadas de un sistema de reglas de votacion entre dos
     alternativas:
@@ -372,7 +372,7 @@ voto antes por el perdedor, ahora vota por el ganador?
 
 El ganador sigue siendo el mismo, $A$.
 
-# Caso II: Mas de dos alternativas
+## Caso II: Mas de dos alternativas
 
 -   Con dos alternativas $\longrightarrow$ regla de mayoria absoluta
     para agregar preferencias individuales en preferencias sociales
@@ -401,7 +401,7 @@ El ganador sigue siendo el mismo, $A$.
     No. Ninguna alternativa tiene mas votos que otra --ie. hay triple
     empate.
 
-# El Marques de Condorcet
+## El Marques de Condorcet
 
 -   Condorcet se focalizo en un metodo especifico de votacion
     $\longrightarrow$ votacion por mayoria.
@@ -416,7 +416,7 @@ medida que el tamaño del jurado aumenta.
 "racionales" (transitivas), las preferencias del grupo (mayoria)
 pueden ser "irracionales" (no transitivas). No hay claro ganador.
 
-# Contribuciones de Condorcet
+## Contribuciones de Condorcet
 
 -   La primera idea de Condorcet permite permite justificar votaciones
     colectivas que incluyan, dentro de lo posible, el mayor tamaño
@@ -428,7 +428,7 @@ pueden ser "irracionales" (no transitivas). No hay claro ganador.
 -   Sus planteos le valieron conceptos actuales como *ganador de
     Condorcet* y *ciclos de Condorcet*.
 
-# Votacion Condorcet
+## Votacion Condorcet
 
 -   Suponga que un colectivo debe elegir entre 3 alternativas: A, B
     y C. Hay a priori 6 formas diferentes en que las
@@ -473,7 +473,7 @@ pueden ser "irracionales" (no transitivas). No hay claro ganador.
 -   No hay transitividad. Se da lo que se llama un *ciclo de Condorcet*
     $$A \succ B \succ C \succ A$$
 
-# Ciclos y ganadores de Condorcet
+## Ciclos y ganadores de Condorcet
 
 > **Ganador de Condorcet.** Un *ganador de Condorcet* es una alternativa tal
 que recibe la mayoria de los votos cuando es apareada contra cada una de
@@ -499,7 +499,7 @@ $A \succ B \succ C \succ A$\
 
 > **Teorema II.** Un ciclo de Condorcet ocurre cuando no existe un ganador de Condorcet
 
-# Ilustracion: Fijar agenda
+## Ilustracion: Fijar agenda
 
 -   Supongamos que tenemos 30 personas cuyas preferencias por 4 (cuatro)
     alternativas se distribuyen de la siguiente manera:
@@ -517,7 +517,7 @@ $A \succ B \succ C \succ A$\
     Voto entre $B$ y $C$; 3) Voto entre $C$ y $D$ $\longrightarrow$
     todos disconformes con el resultado \[¿Por que?\]
 
-# Relevancia de los ciclos
+## Relevancia de los ciclos
 
 -   Recordando las preferencias que generaron un ciclo de Condorcet.
     Sea el orden de votacion	:
@@ -544,7 +544,7 @@ $A \succ B \succ C \succ A$\
 -   El poder de agenda no es ilimitado ni da control absoluto, pero da alguna ventaja
 
 
-# Votacion Borda
+## Votacion Borda
 
 -   El **metodo de Borda** es una alternativa a Condorcet para superar el problema de los ciclos. Sean 5 votantes y 3 alternativas tal que:
 
@@ -626,7 +626,7 @@ ordenamiento social.
 
 # **Tipos de preferencias y el teorema del votante mediano** {background="#43464B"}
 
-# ¿Que hacer cuando hay ciclos de Condorcet?
+## ¿Que hacer cuando hay ciclos de Condorcet?
 
 -   Los ciclos de Condorcet existen, sobre todo, cuando existen muchas
     alternativas entre las cuales elegir y muchos individuos que elijen.
@@ -638,11 +638,11 @@ ordenamiento social.
     eleccion social y se denomina el **Teorema de la Imposibilidad de
     Arrow**.
 
-# Pero como que no sabias!
+## Pero como que no sabias!
 
 ![Teorema de la imposibilidad version argenta](../_shared/images/fpub/fig_uni1_meme_milei.jpg)
 
-# Teorema de la Imposibilidad
+## Teorema de la Imposibilidad
 
 -   Dados:
     -   Un conjunto de alternativas, $O$
@@ -701,7 +701,7 @@ alternativas irrelevantes y no dictadura.
     imaginables (dominio mas amplio posible).
 -   ¿Que pasa si restringimos el dominio? (menos generalidad)
 
-# Tipos de preferencias
+## Tipos de preferencias
 
 -   Cuestion del aborto en EEUU $\longrightarrow$ polarizacion
     -   Provida (V) $\longrightarrow$ prohibir aborto totalmente
@@ -791,7 +791,7 @@ u_i=1-\lvert g-b_i \rvert\end{aligned}$$
     de curso; de que color pintar las aulas; preferencia por estrellas
     de cine, etc.
 
-# Preferencias espaciales 
+## Preferencias espaciales 
 
 -   Problema $\longrightarrow$ escoger un punto de una linea.
 
@@ -855,7 +855,7 @@ de ese punto en cualquier direccion
 -   Puede ahora mostrarse todas las coaliciones de mayorias posibles que
     vencen a $y$.
 
-# Preferencias y coaliciones
+## Preferencias y coaliciones
 
    Tamaño coalicion  Coalicion
   ------------------ ---------------------------------------------------------------------------------
@@ -865,7 +865,7 @@ de ese punto en cualquier direccion
 
   : Coaliciones de mayorias
 
-# El rol del mediano
+## El rol del mediano
 
 ![El rol del votante mediano](../_shared/images/fpub/uni2_tvm8.jpg)
 
@@ -914,7 +914,7 @@ un ganador de Condorcet.
         $\longrightarrow$ costo de votar (registracion); contribuciones
         de campaña; influencia.
 
-# TVM:Elegir nivel de gasto publico
+## TVM:Elegir nivel de gasto publico
 
 > Suponga 5 (cinco) personas. Lucia prefiere 6000 pesos, Tomas 8000 pesos,
 Jaime 10000 pesos, Juan 12000 pesos y Jorge 14000 pesos. Los podemos
@@ -927,7 +927,7 @@ cualquier gasto mayor a 10000 y 10000, Jaime y todos los que quieran
 gastar menos de 10000 pesos, preferiran 10000 antes que una gasto mayor
 a 10000. La alternativa ganadora es siempre 10000 pesos.
 
-# Supuestos restrictivos del TVM
+## Supuestos restrictivos del TVM
 
 -   Estos ejemplos y razonamientos se basan en 3 (tres) supuestos
     implicitos:
@@ -955,7 +955,7 @@ a 10000. La alternativa ganadora es siempre 10000 pesos.
     VM mucho mas restrictivo.
 -   No da ningun rol a las instituciones politicas $\longrightarrow$ se converge al mediano independientemente de instituciones
 
-# Ejercitacion y practica
+## Ejercitacion y practica
 
 > **Ejercicio.** Suponga tres opciones de restaurant:
 

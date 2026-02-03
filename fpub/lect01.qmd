@@ -3,7 +3,7 @@ title: U1. La economía del sector público
 subtitle: Finanzas Públicas [Cat. Barraud]
 ---
 
-# Bibliografía
+## Bibliografía
 
 -   Stiglitz, J. E. (2000). La Economia del Sector Público (3ra.
     edición), Barcelona: Antoni Bosch Editor. Capítulo 1, págs. 11-34. 
@@ -15,6 +15,8 @@ subtitle: Finanzas Públicas [Cat. Barraud]
 
 # **La economía del sector público: Introducción, concepto y alcance** {background="#43464B"}
 
+## Temas de la economía del sector público
+
 1. Economía del sector público (ESP)
 2. Roles y funciones del Estado
     + Asignación
@@ -23,15 +25,13 @@ subtitle: Finanzas Públicas [Cat. Barraud]
 3. Otros temas
 
 
-# **Economía del sector público (ESP)** {background="#43464B"}
-
-# ESP: Introducción
+## ESP: Introducción
 
 - Principales **temas y relevancia** de la economía del sector público
 - Motivación y fundamentación de la **intervención del Estado en la economía**
 - **Eficiencia y equidad**: dos objetivos (frecuentemente) en pugna
 
-# ESP: Temas de la ESP
+## ESP: Temas de la ESP
 
 Puede pensarse en los dos grandes ejes de la ESP como: 
 
@@ -44,7 +44,7 @@ Puede pensarse en los dos grandes ejes de la ESP como:
 > ¿Cómo deberían diseñarse las políticas para máximizar el bienestar?
 
 
-# ESP: ¿Por qué estudiar ESP?
+## ESP: ¿Por qué estudiar ESP?
 
 1. Relevancia práctica: casi cualquier intervencón económica ocurre
 a través de una política del gobierno a través de dos canales:
@@ -52,11 +52,11 @@ a través de una política del gobierno a través de dos canales:
     2. regulación y normativas (salario minimo, regulaciones ambientales, ley de etiquetado)
 2. El gobierno emplea una parte significativa de la población --17% en Argentina, 15% EEUU. Esto en forma directa. Mucho más en forma indirecta
 
-# ESP: Empleo en sector público
+## ESP: Empleo en sector público
 
 ![Empleo en el sector público, varios países](../_shared/images/fpub/uni1_employment.jpg)
 
-# ESP: ¿Por qué interviene el Estado?
+## ESP: ¿Por qué interviene el Estado?
 
 - Mejor aún: ¿Cuándo es necesaria la intervención del Estado en la economía? Consenso teórico:
     - Primero el mercado, sino el Estado
@@ -65,40 +65,40 @@ a través de una política del gobierno a través de dos canales:
     - ¿Cómo puede el gobierno **mejorar la eficiencia** cuando el mercado es ineficiente?
     - ¿Qué puede hacer el gobierno para **mejorar la distribución** cuando la distribución del mercado es socialmente indeseable?
 
-# ESP: Eficiencia en mercado 
+## ESP: Eficiencia en mercado 
 
 ![](../_shared/images/fpub/uni1_intervention1.png)
 
-# ESP: Rol #1 - Mejorar eficiencia 
+## ESP: Rol #1 - Mejorar eficiencia 
 
 ![](../_shared/images/fpub/uni1_intervention2.png)
 
 
-# ESP: Rol #2 - Mejorar distribución 
+## ESP: Rol #2 - Mejorar distribución 
 
 ![](../_shared/images/fpub/uni1_intervention3.png)
 
 
-# ESP: ¿Hay algún costo *económico* asociado?
+## ESP: ¿Hay algún costo *económico* asociado?
 
 - Si bien proponentes de intervención del Estado argumentan que costos de intervención son menores que beneficios (mejorar eficiencia, mejorar distribución), **la intervención del Estado puede causar distorsiones**.
 - Las distorsiones en general surgen por el hecho de que cuando el Estado interviene a través de múltiples herramientas (impuestos, subsidios, regulaciones) es posible que se **modifique la conducta de los agentes económicos**.
 
-# ESP: Mejorar distribución... 
+## ESP: Mejorar distribución... 
 
 ![](../_shared/images/fpub/uni1_intervention4.png)
 
-# ESP: ...pero empeorar eficiencia! 
+## ESP: ...pero empeorar eficiencia! 
 
 - Esta asociación entre mejorar distribución y empeorar eficiencia se conoce como **compromiso entre eficiencia y equidad (trade-off eficiencia-equidad)** y está en el núcleo de la intervención del Estado en la economía
 - El compromiso se refleja en el hecho que la **respuesta en la conducta de los agentes económicos** ante la intervención del gobierno se materializa en términos económicos!
 - Salvo en pocas y contadas excepciones (fundamentalmente curiosidades teóricas) este compromiso siempre está presente
 
-# ESP: ¿Hay almuerzos gratis?
+## ESP: ¿Hay almuerzos gratis?
 
 ![](../_shared/images/fpub/uni1_tinstaafl.jpg)
 
-# ESP: Fundamentos de la intervención estatal
+## ESP: Fundamentos de la intervención estatal
 
 - Si el mercado no asegura eficiencia. Casos: 1) externalidades, 2)
 información asimétrica/mercados incompletos y 3) competencia imperfecta
@@ -107,7 +107,7 @@ conduce a situaciones distributivas aceptadas desde el punto de vista social
 - Ante fuertes shocks en los mercados las economías pueden atravesar situaciones de alto desempleo e inflación. Políticas de estímulo
 
 
-# ESP: Funciones del Estado
+## ESP: Funciones del Estado
 
 Existe una tradicional divisíon de las funciones del Estado en términos económicos:
 
@@ -117,7 +117,7 @@ Existe una tradicional divisíon de las funciones del Estado en términos econó
 
 # **Roles y funciones del Estado** {background="#43464B"}
 
-# **Asignación** {background="#43464B"}
+## **Asignación** 
 
 1. Externalidades
 2. Recursos de propiedad común (RPC)
@@ -126,7 +126,7 @@ Existe una tradicional divisíon de las funciones del Estado en términos econó
 5. Competencia imperfecta (monopolio y otras formas de mercado)
 6. Fallos "individuales"
 
-# Asignación: Externalidades
+## Asignación: Externalidades
 
 - Los mercados pueden ser incompletos debido a la falta de precios --i.e contaminación
 - El logro de un solución Coasiana de eficiencia requiere de algo que coordine a los individuos --i.e. el Estado
@@ -149,7 +149,7 @@ Existe una tradicional divisíon de las funciones del Estado en términos econó
 - Se pueden **corregir via regulación** --se fijan niveles eficientes de producción/consumo --i.e cuotas
 - Se pueden **corregir via la aplicación de impuestos y subsidios** para internalizar la externalidad --impulsa a producir menos de la externalidad negativa y mas de la positiva
 
-# Asignación: Recursos de propiedad común (RPC)
+## Asignación: Recursos de propiedad común (RPC)
 
 - En 1968, Garrett Hardin publicó un célebre artículo en la revista *Science* llamado ["The Tragedy of the Commons"](https://science.sciencemag.org/content/162/3859/1243). 
 - Tiene casi 50 mil citaciones reintrodujo una discusión de siglos --como hacer frente al crecimiento poblacional relativo a los recursos y bienes disponibles
@@ -169,7 +169,7 @@ Existe una tradicional divisíon de las funciones del Estado en términos econó
 - Una de sus contribuciones fue cuestionar los modelos pre-existentes --tragedia de los "commons", dilema del prisionero y la lógica de la acción colectiva.
 - Su otra gran contribución fue **explorar soluciones cooperativas al problema de la administración de RPC** y proponer varias reglas plausibles y viables. 
 
-# Asignación: Bienes públicos
+## Asignación: Bienes públicos
 
 - Dos vecinas viven en la misma cuadra. Hay alumbrado de calle (un sólo poste) y un vendededor de pan casero pasa hoy. Sólo le queda un pan. ¿Cuál es la diferencia entre el alumbrado de calle y un pan casero? Las vecinas no pueden consumir el pan casero en forma simultánea: si una lo consume, la otra se queda sin pan. Pero ambas vecinas pueden consumir simultáneamente los servicios de iluminación que da el (único!) poste cuando vuelven del trabajo. En el primer caso, hay rivalidad en el consumo y es posible la exclusión del consumo. En el segundo, no. El pan es un bien privado y el alumbrado es un bien público. 
 
@@ -194,7 +194,7 @@ Existe una tradicional divisíon de las funciones del Estado en términos econó
     1. Provisión cero 
     2. Provisión menor a la óptima
 
-# Asignación: Información imperfecta
+## Asignación: Información imperfecta
 
 - Algunos fallos del mercado provienen del hecho de que existen **asimetrías de información entre diferentes agentes** (consumidores/productores).
 - Suele ocurrir que los individuos acuerdan en base a información privada en beneficio propio y en desventaja de la parte menos informada
@@ -236,13 +236,13 @@ Existe una tradicional divisíon de las funciones del Estado en términos econó
     * Empresas (demandantes) no conocen las habilidades ni responsabilidad de trabajadores 
 - Los principales problemas que surgen aquí son los de selección adversa y riesgo moral. 
 
-# Asignación: Competencia imperfecta
+## Asignación: Competencia imperfecta
 
 - Cuando los mercados no son competitivos, puede que sea necesaria la intervención del gobierno. 
 - Monopolios naturales como los servicios de electricidad y teléfonos --cuando no hay competencia, el mercado produce demasiado poco y a un precio muy alto --el Estado tal vez puede hacerse cargo de producir esos bienes y cobrar precio de competencia (subsidiando a la empresa)
 - Normalmente estos análisis se desarrollan en cursos de organización industrial que estudian estructuras de mercado diferentes de la competencia perfecta
 
-# Asignación: Fallos "individuales"
+## Asignación: Fallos "individuales"
 
 - Cuando los agentes no optimizan, puede ser deseable la intervención del gobierno --i.e. que el gobierno imponga el ahorro via un sistema de seguridad social para el futuro
 - Esto no es un fallo del mercado sino que más bien un fallo individual. Problema: ¿por qué el gobierno debería saber más que el individuo lo que es bueno para cada uno? [crítica gobierno paternalista]
@@ -254,6 +254,8 @@ Existe una tradicional divisíon de las funciones del Estado en términos econó
 
 # **Distribución** {background="#43464B"}
 
+## Distribución. Eficiencia y equidad. Justicia distributiva
+
 1. Distribución del ingreso
 2. Eficiencia y distribución (equidad)
 3. Justicia distributiva
@@ -263,7 +265,7 @@ Existe una tradicional divisíon de las funciones del Estado en términos econó
    + Enfoque de igualdad de oportunidades (Dworkin/Roemer)
 
 
-# Distribución: Ingreso y riqueza
+## Distribución: Ingreso y riqueza
 
 - En un momento dado, ¿de qué dependen la distribución de ingreso y riquezas en un pais?.
   1. De las dotaciones de factores y recursos inicial
@@ -271,7 +273,7 @@ Existe una tradicional divisíon de las funciones del Estado en términos econó
 - Esta distribución puede ajustarse a lo que la sociedad en ese momento dado considera justo. O no. Aún si a todos los factores se les paga el precio de competencia perfecta, puede que la distribución resultante no sea aceptable.
 - El gobierno puede entonces hacer política de distribución y/o redistribución de ingresos y riquezas --pueden surgir costos de eficiencia
 
-# Distribución: Ingreso y riqueza (cont.)
+## Distribución: Ingreso y riqueza (cont.)
 
 - Sea una economía compuesta por 3 (tres) personas
   -Juan, Ana y Carla- y 
@@ -286,7 +288,7 @@ Existe una tradicional divisíon de las funciones del Estado en términos econó
       hasta (2) pero probablemente no tolere una desigualdad como la (3) 
 
 
-# Distribución: Eficiencia y equidad
+## Distribución: Eficiencia y equidad
 
 > La economía del bienestar ha dado una definición de la eficiencia en
 términos que excluyen consideraciones distributivas. Se afirma que un cambio en las condiciones económicas es
@@ -295,7 +297,7 @@ empeorar la posición de (ambos) B y C. Los **problemas
 distributivos** no son del tipo alguien gana y ninguno pierde sino
  **alguien gana (Carla) y alguien pierde (Juan)**. Debemos involucrar ideas de filosofía social y juicios de valor. 
 
-# Enfoques de justicia distributiva
+## Enfoques de justicia distributiva
 
 - Existen en la discusión de fondo sobre el concepto de justicia sobre el que se basa la funcion de distribución, varios **enfoques de justicia distributiva**. Los más relevantes son:
     1. Enfoque utilitarista (Harsanyi)
@@ -347,7 +349,7 @@ $$W=\frac{1}{n_{h}}\sum_{h=1}^{n_h}\upsilon^h$$
 - No persigue igualación de resultados --admite desigualdad pero siempre que no esté basado en desigualdad de oportunidades (sólo basada en desigualdad de esfuerzo, etc).
 - Una desventaja es que no siempre es fácil (ni posible) desglosar la desigualdad debida a diferentes circunstancias y aquella debida a diferentes esfuerzos. 
 
-# Problemas c/justicia distributiva
+## Problemas c/justicia distributiva
 
 - Hay dos grandes problemas que hacen
   difícil la articulación de reglas de justicia generales.
@@ -362,7 +364,7 @@ $$W=\frac{1}{n_{h}}\sum_{h=1}^{n_h}\upsilon^h$$
       eficiencia (distorsiones) que pueden achicar la torta (i.e para
       lograr un objetivo nos alejamos de otro)
 
-# ¿Cuánto redistribuir?
+## ¿Cuánto redistribuir?
 
 - Mejor aún: ¿hay algún límite a la redistribución? 
     1. Gobierno encargado de **todas** las actividades de asignación, distribución y estabilización de manera directa [economía planificada]
@@ -371,7 +373,7 @@ $$W=\frac{1}{n_{h}}\sum_{h=1}^{n_h}\upsilon^h$$
     1. Información --¿cómo hace el gobierno para agregar preferencias/tecnología?
     2. Distorsiones --vinculadas con políticas de impuestos y subsidios. Alteran incentivos privados  [ej: impuesto a la riqueza de 50% --fuga de patrimonios y capitales]
 
-# ¿Cuánto redistribuir? (cont.)
+## ¿Cuánto redistribuir? (cont.)
 
 - La segunda (más realista) tiene el problema de cómo lograr una distribución "adecuada" de funciones entre mercado y Estado --volvemos a: "Primero, el mercado. Sino, el Estado"
 - Lo que nos lleva a que el Estado debe intervenir sólo cuando hay fallos del mercado. Pero quedan dos cuestiones pendientes
@@ -379,6 +381,8 @@ $$W=\frac{1}{n_{h}}\sum_{h=1}^{n_h}\upsilon^h$$
     2. ¿Cuánto redistribuir? Es un problema normativo y se resuelve normalmente a través del proceso político
 
 # **Estabilización** {background="#43464B"}
+
+## Estabilización como función del Estado
 
 - La tercer función del Estado es la de **contribuir a mantener
   condiciones macroeconómicas sólidas y estables**. Sin la intervención
@@ -398,7 +402,9 @@ $$W=\frac{1}{n_{h}}\sum_{h=1}^{n_h}\upsilon^h$$
 - Los instrumentos monetarios clásicos: tasa de interés y oferta monetaria. El BCRA puede controlar la OM --un aumento de la OM aumenta liquidez; una baja de la OM la disminuye
 - Los instrumentos fiscales también influyen sobre el nivel de actividad --un aumento del gasto público incrementa la demanda, al igual que una baja de impuestos. Pero ambas aumentan el déficit de gobierno --como se financia el déficit importa (en el sentido del nivel de actividad)
 
-# **Funciones: Relaciones** {background="#43464B"}
+# **Relaciones entre las funciones** {background="#43464B"}
+
+## Relaciones entre las funciones
 
 - Funciones del gobierno no son aisladas y están interrelacionadas --cumplir una función puede afectar al cumplimiento de otra
 
@@ -408,7 +414,7 @@ $$W=\frac{1}{n_{h}}\sum_{h=1}^{n_h}\upsilon^h$$
 --impuesto a $Y$ altos y subsidio a $Y$ bajos. Con esta política
 mejoraría la distribución del ingreso. Sin embargo, al gravar $Y$ altos --disminuye el ahorro promedio-- posible menor crecimiento en el futuro. 
 
-# Funciones: Relaciones (cont.)
+## Funciones: Relaciones (cont.)
 
 > Suponga que las personas desean un aumento en la oferta de servicios
 públicos. Para ello hay que aumentar los impuestos (suponga por ahora
@@ -418,7 +424,7 @@ modo, algunos votantes pueden aprobar (rechazar) el cambio propuesto
 porque les agrada (desagrada) el cambio propuesto en la distribucion y
 no porque les agrada (desagrada) el servicio público.
 
-# Funciones: Relaciones (cont.)
+## Funciones: Relaciones (cont.)
 
 > Supongamos que es necesaria una política fiscal expansiva. Puede
 lograrse elevando el gasto en servicios públicos o reduciendo los
@@ -427,6 +433,8 @@ asignación. En el segundo, con el objetivo distribución
 (potencialmente).
 
 # **Tipos de análisis (enfoques)** {background="#43464B"}
+
+## Análisis positivo, normativo y economía política
 
 - Tres tipos de análisis en relación a la ESP:
     1. **Análisis positivo** --análisis de lo que hace el
@@ -440,14 +448,14 @@ asignación. En el segundo, con el objetivo distribución
         comportamiento del gobierno e identifica políticas óptimas;
         crítica al análisis normativo (restricciones políticas)
 
-# Ejemplo
+## Ejemplo
 
 >  El **análisis positivo** describiría los efectos del
       impuesto sobre el $P$ del fernet. ¿Subirá el $P$ en 15
       pesos o menos? Describirá en cuánto disminuiría la
       $Q_{d}$ y a qué personas afectaría más. Analizaría la relación entre la $Q_{d}$ y el número de accidentes. Al decidir si debería (o no) adoptarse el impuesto, entran los juicios de valor y el **análisis normativo** deberá valorarse los beneficios de mayores ingresos fiscales, las distorsiones en el consumo, la incidencia sobre consumidores, y los beneficios de salvar vidas en accidentes.
 
-# Diferencias y discrepancias
+## Diferencias y discrepancias
 
 - Los economistas y policy-makers suelen **discrepar en los efectos** de diferentes medidas y en general sobre el comportamiento de la economía --suele surgir porque los modelos que usan hacen diferentes supuestos. Las diferencias son en cuanto a la dirección del efecto y a la magnitud del mismo.
 - También suelen **discrepar en relación a los valores**. Aún si todos están de acuerdo sobre efectos, pueden pensar diferente sobre su conveniencia. Toda política afecta diferentea a individuos y colectivos y pueden valorarse (ponderarse) diferente --algunas valoran más la estabilidad, otras la distribución.
