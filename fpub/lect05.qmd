@@ -1,9 +1,9 @@
 ---
-title: U4. Los recursos del sector público
+title: U3. El gasto público. Análisis beneficio costo. Programas de gasto social. Incentivos y efectos. 
 subtitle: Finanzas Públicas
 ---
 
-# **Bibliografia** {background="#43464B"}
+# **Bibliografia** 
 
 -   Rosen, H. S. (2008). Hacienda Pública (7ma. edición). Madrid:
     McGraw-Hill/Interamericana. Capítulo 8, págs 55 a 65 y 165 a 190.
@@ -24,7 +24,7 @@ subtitle: Finanzas Públicas
     la Administración Nacional de la República Argentina, Ministerio de
     Economía y Finanzas. Solicitar por: 336 G 53902
 
-# **Preguntas** {background="#43464B"}
+# **Preguntas** 
 
 -   ¿Qué es el analisis beneficio-costo y por qué es util?
 -   ¿En qué se diferencia el análisis costo-beneficio privado del
@@ -35,7 +35,7 @@ subtitle: Finanzas Públicas
 
 # **Análisis beneficio-costo y costo-eficacia** {background="#43464B"}
 
-# **Análisis beneficio-costo** {background="#43464B"}
+## Análisis beneficio-costo
 
 -   Para que haya eficiencia económica en un programa de gasto, los
     beneficios sociales deben ser superiores a los costos sociales
@@ -100,7 +100,7 @@ subtitle: Finanzas Públicas
 
 ![Analisis beneficio-costo](../_shared/images/fpub/uni3_beneficiocosto2.png)
 
-# **Análisis costo-eficacia** {background="#43464B"}
+## Análisis costo-eficacia
 
 -   En algunos casos es difícil o imposible aplicar el analisis
     beneficio-costo. Sobre todo cuando se consideran temas de salud,
@@ -123,7 +123,7 @@ evitada
 
 # **Programas de gasto** {background="#43464B"}
 
-# **Gasto público social** {background="#43464B"}
+## Gasto público social
 
 -   En general hay cierto consenso sobre la conveniencia de que el
     Estado alivie la situación de los más pobres, pero controversia en torno a la forma que debe adoptar tal ayuda
@@ -189,6 +189,8 @@ prestaciones despúes de un período de tiempo.
     estos gastos está relacionada con los niveles de pobreza
 
 # **Efectos sobre incentivos** {background="#43464B"}
+
+## Efectos sobre incentivos
 
 -   El principal criterio que orienta la decisión de si otorgar o no un
     beneficio social es el nivel de ingreso. Cuando aumenta el ingreso
@@ -260,6 +262,8 @@ prestaciones despúes de un período de tiempo.
     incentivos y oferta de trabajo.
 
 # **Transferencias monetarias** {background="#43464B"}
+
+## Transferencias monetarias
 
 -   Los programas de transferencias monetarias (condicionadas o no)
     suelen implicar una **transferencia en efectivo** a la familia y
@@ -357,7 +361,7 @@ que **cuando el consumidor tiene preferencias por todos los bienes de
 manera pareja** es más probable que la TED le de más
 bienestar que la TEE
 
-# **La Asignación Universal por Hijo** {background="#43464B"}
+## La Asignación Universal por Hijo
 
 -   Implementada en 2009 $\longrightarrow$ extiende beneficio de
     asignaciones familiares a hijos de desocupados, trabajadores
