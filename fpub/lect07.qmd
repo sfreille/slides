@@ -1,6 +1,6 @@
 ---
 title: U4. Incidencia impositiva (cont.)
-subtitle: Finanzas Públicas
+subtitle: Finanzas Públicas [Cat. Barraud]
 ---
 
 # **Bibliografia** {background="#43464B"}
@@ -17,7 +17,7 @@ subtitle: Finanzas Públicas
 
 # **Incidencia impositiva** {background="#43464B"}
 
-# **Impuestos e incidencia** {background="#43464B"}
+## Impuestos e incidencia
 
 ![Impuestos siempre un tema conflictivo](../_shared/images/fpub/uni4_taxnews.png)
 
@@ -56,7 +56,7 @@ subtitle: Finanzas Públicas
 
 # **Incidencia: Equilibrio parcial** {background="#43464B"}
 
-# **Incidencia: Equilibrio parcial** {background="#43464B"}
+## Incidencia: Equilibrio parcial
 
 -   El gobierno pone un impuesto a las ventas ("excise tax"), $t$, sobre
     el bien $x$
@@ -143,7 +143,7 @@ $$\frac{dp}{dt}=\frac{\epsilon_{D}}{\epsilon_{S}-\epsilon_{D}}$$
 -   Punto $\longrightarrow$ aún en modelos muchos mas complicados, estos
     resultados se mantienen siempre.
 
-# **Factores que afectan la incidencia** {background="#43464B"}
+## Factores que afectan la incidencia
 
 -   **Características del mercado**
     -   Estructura mdo: comp. vs monopolio
@@ -174,7 +174,7 @@ $$\frac{dp}{dt}=\frac{\epsilon_{D}}{\epsilon_{S}-\epsilon_{D}}$$
 
 # **Incidencia impositiva: Costos de eficiencia impositivos** {background="#43464B"}
 
-# **Costos de eficiencia** {background="#43464B"}
+## Costos de eficiencia
 
 -   Se denomina **perdida de peso muerto** --exceso de carga- a la
     pérdida de bienestar creada por el impuesto sobre y por encima de la
@@ -242,7 +242,9 @@ $$DWL=\frac{1}{2}\frac{\epsilon_{S}.\epsilon_{D}}{\epsilon_{S}-\epsilon_{D}}.\fr
 
 ![Ineficiencia - Equilibrio parcial](../_shared/images/fpub/uni4_dwl3.png)
 
-# **Aplicación: Imposición óptima** {background="#43464B"}
+# **Aplicación: Imposición óptima e incidencia** {background="#43464B"}
+
+## Aplicación I: Imposición óptima
 
 > **Problema.** Un individuo consume $K$ bienes diferentes --¿cuáles son las
 tasas $t_{1},t_{2},...t_{K}$ para cada bien que recauda una cierta
@@ -255,7 +257,7 @@ cantidad *minimizando* la perdida de bienestar individual?
 - Óptimo $\longrightarrow$ gravar más fuerte los
 bienes inelásticos (menos a más elásticos)
 
-# **Incidencia impositiva I: Evidencia** {background="#43464B"}
+## Aplicación II: Incidencia
 
 -   Doyle and Sampatharank (2008) estudiaron los recortes impositivos al
     combustible ("gas tax holidays") en USA  $\longrightarrow$ ¿los recortes llegan a consumidores o se los
@@ -280,7 +282,7 @@ bienes inelásticos (menos a más elásticos)
 
 ![Recortes impositivos - Impuesto al combustible](../_shared/images/fpub/uni4_gastax3.png)
 
-# **Incidencia impositiva II: Evidencia** {background="#43464B"}
+# Aplicación III: Incidencia
 
 -   Los impuestos específicos sobre cigarrillo varían fuertemente en los
     estados de EEUU
@@ -294,7 +296,7 @@ bienes inelásticos (menos a más elásticos)
     
 # **Incidencia impositiva: *Tax salience*** {background="#43464B"}
 
-# **Incidencia: Tax salience** {background="#43464B"}
+## Incidencia: Tax salience
 
 -   Supuesto del análisis anterior: *impuestos son
     equivalentes a los precios*. Es decir:
@@ -453,7 +455,7 @@ impreso)
 
 # **Incidencia impositiva: Equilibrio general** {background="#43464B"}
 
-# **Incidencia: Equilibrio general** {background="#43464B"}
+## Incidencia: Equilibrio general
 
 -   Hasta ahora hemos visto incidencia en *equilibrio
     parcial* $\longrightarrow$ focaliza en un mercado aislado

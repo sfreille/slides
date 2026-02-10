@@ -1,6 +1,6 @@
 ---
 title: U4. Incidencia impositiva
-subtitle: Finanzas Públicas
+subtitle: Finanzas Públicas [Cat. Barraud]
 ---
 
 # **Bibliografia** {background="#43464B"}
@@ -17,6 +17,8 @@ subtitle: Finanzas Públicas
 
 # **Los recursos del sector público** {background="#43464B"}
 
+## Los recursos del sector público
+
 1. Los recursos del Estado
    + Tributos
    + Otros recursos
@@ -29,7 +31,7 @@ subtitle: Finanzas Públicas
    + Equilibrio general
    
 
-# **Preguntas** {background="#43464B"}
+## Preguntas
 
 -   ¿Con qué recursos cuenta el Estado para financiarse?
 -   ¿En qué se diferencian los tributos de los otros tipos de recursos?
@@ -41,7 +43,7 @@ subtitle: Finanzas Públicas
     mercados?
 -   ¿Que se entiende por *tax salience*?
 
-# **Los recursos del Estado** {background="#43464B"}
+## Los recursos del Estado
 
 -   Hay 4 formas en que el Estado puede financiarse:
     -   Tributos $\longrightarrow$ constituyen una prestación pecuniaria
@@ -56,7 +58,7 @@ subtitle: Finanzas Públicas
         ni fuente inagotable pero es parte del acervo de propiedad del
         Estado
 
-# **Tipos de tributos** {background="#43464B"}
+## Tipos de tributos
 
 -   **Impuestos** $\longrightarrow$ tributos que recaen sobre todos
     los contribuyentes y no consideran
@@ -72,7 +74,7 @@ subtitle: Finanzas Públicas
     exactamente el costo del servicio y distribuida en proporción a los
     beneficiarios del servicio o no.
 
-# **Enfoques de equidad tributaria** {background="#43464B"}
+## Enfoques de equidad tributaria
 
 -   Hay **dos enfoques de equidad tributaria**:
     -   **Principio del beneficio** $\longrightarrow$ un sistema
@@ -87,7 +89,7 @@ subtitle: Finanzas Públicas
         implican trato diferente.
 
 
-# **Clasificación de impuestos** {background="#43464B"}
+## Clasificación de impuestos
 
 -   Impuestos sobre mercados de productos e impuestos sobre mercados de
     factores
@@ -99,7 +101,7 @@ subtitle: Finanzas Públicas
 -   Impuestos directos e impuestos indirectos
 -   Impuestos sobre flujos e impuestos sobre stocks.
 
-# **Estructura de un impuesto** {background="#43464B"}
+## Estructura de un impuesto
 
 -   **Materia imponible** $\longrightarrow$ elemento material
         elegido como punto de impacto del tributo --i.e. consumo,
@@ -116,13 +118,15 @@ subtitle: Finanzas Públicas
 
 # **Caracterización de impuestos** {background="#43464B"}
 
+## Caracterización de impuestos
+
 ![Caracterización de impuestos](../_shared/images/fpub/uni4_impuestos1.png)
 
-# **Caracterización de impuestos** {background="#43464B"}
+## Caracterización de impuestos (cont.)
 
 ![Caracterización de impuestos (cont.)](../_shared/images/fpub/uni4_impuestos2.png)
 
-# **Atributos de un sistema tributario** {background="#43464B"}
+## Atributos de un sistema tributario
 
 -   Un "buen" sistema tributario debería tener 5 (cinco) propiedades:
     -   Eficiencia económica $\longrightarrow$ no debe interferir en la
@@ -136,7 +140,7 @@ subtitle: Finanzas Públicas
     -   Justicia $\longrightarrow$ debe ser justo en la forma de tratar
         a los diferentes individuos
 
-# **(1) Eficiencia económica** {background="#43464B"}
+## (1) Eficiencia económica
 
 -   La gran mayoría de los impuestos **distorsionan los precios
     relativos** $\longrightarrow$ alteran asignación de recursos
@@ -180,7 +184,7 @@ obligación con un impuesto al ingreso disminuyendo su oferta de trabajo
 o su ahorro. Hay efecto renta y efecto sustitución. Todo impuesto
 distorsivo es ineficiente.
 
-# **(2) Sencillez administrativa** {background="#43464B"}
+## (2) Sencillez administrativa
 
 -   La administración del sistema fiscal tiene costos directos ("costo de
     hacer andar" AFIP) e indirectos (para los contribuyentes). Estos
@@ -193,7 +197,7 @@ distorsivo es ineficiente.
     costos con IVA recauda gran parte de un numero pequeño de empresas
     al nivel productor y fabricantes que imp a las ventas que recauda en ventas finales de miles de minoristas.
 
-# **(3) Flexibilidad** {background="#43464B"}
+## (3) Flexibilidad
 
 -   Las fluctuaciones económicas requieren ajustes en las alícuotas
     impositivas. A veces los ajustes son rápidos, otras difíciles
@@ -207,7 +211,7 @@ distorsivo es ineficiente.
     ¿Qué impuestos se suben (bajan)? El imp a las ganancias es
     difícil de subir pero imp a las riquezas no tanto. \[Opine\]
 
-# **(4) Responsabilidad política** {background="#43464B"}
+## (4) Responsabilidad política
 
 > **Jean Baptiste Colbert:** "El arte de la tributación consiste en desplumar al
 ganso de tal manera que se le pueda quitar el mayor número de plumas con
@@ -223,7 +227,7 @@ la menor cantidad posible de ruido"
     --no lo pagan las personas jurídicas sino los individuos pero
     difícil saber quien
 
-# **(5) Justicia (equidad)** {background="#43464B"}
+## (5) Justicia (equidad)
 
 -   Principal reclamo a los sistemas tributarios es la falta de equidad. Hay dos conceptos principales de equidad:
     -   Equidad horizontal $\longrightarrow$ un sistema tributario es
@@ -234,7 +238,7 @@ la menor cantidad posible de ruido"
         **equitativo verticalmente** si los que se encuentran en mejores
         condiciones para pagar impuestos efectivamente los pagan.
 
-# **Equidad horizontal y vertical** {background="#43464B"}
+## Equidad horizontal y vertical
 
 -   Existen dos conceptos vagos en nuestra definición:
     -   ¿Qué significa que dos personas sean iguales en todos los
@@ -273,7 +277,7 @@ la menor cantidad posible de ruido"
     -   determinar cuánto más debe pagar en relación con los demás con
         los que se compara.
 
-# **Criterios para establecer impuestos** {background="#43464B"}
+## Criterios para establecer impuestos
 
 -   El **ingreso** como base $\longrightarrow$ ingresos más altos
         tienen capacidad de pagar impuestos más altos. Suelen ser
