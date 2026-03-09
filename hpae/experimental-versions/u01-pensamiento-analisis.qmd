@@ -1,0 +1,333 @@
+---
+title: "U1. ¿Por qué estudiar historia del pensamiento económico?"
+subtitle: "Historia del Pensamiento y del Análisis Económico"
+author: "Sebastián Freille"
+---
+
+# El poder de las ideas y los usos del pasado {background="#43464B"}
+
+## Las ideas gobiernan el mundo
+
+> Las ideas de los economistas y filósofos políticos, tanto cuando son correctas como erróneas, tienen más poder de lo que comúnmente se entiende. De hecho, el mundo está dominado por ellas. Los hombres prácticos, que se creen exentos de cualquier influencia intelectual, son usualmente esclavos de algún economista difunto.
+**[John Maynard Keynes, *Teoría General* (1936)]**
+
+## El economista difunto
+
+- Cada vez que escuchamos hablar de "oferta y demanda", "mano invisible" o "inflación", estamos oyendo ecos de debates de hace siglos
+- Las políticas económicas de hoy --ajuste, gasto público, impuestos-- tienen raíces en discusiones que creíamos enterradas
+- **Conocer esas raíces nos permite entender mejor el presente**
+
+## Pero... ¿para qué?
+
+![](../_shared/images/hpae/fig-meme-intro-why-care.png){fig-align="center"}
+
+## Razones para estudiar HPE
+
+- **Entender el origen de las ideas actuales**
+  - La "competencia perfecta" de los cursos de micro no es lo que **Adam Smith** tenía en mente
+  - El concepto de "neutralidad del dinero" tiene una historia compleja que explica sus límites
+
+## Razones para estudiar HPE (cont.)
+
+- **Pensar fuera de la caja actual**
+  - Si no conocemos otras cajas, ¿cómo sabemos que estamos en la correcta?
+  - Muchos conceptos fueron "descubiertos" décadas después de haber sido formulados
+
+- **El conocimiento es dependiente del camino**
+  - Sin **Hume** no hay **Smith**; sin **Smith** no hay **Ricardo**; sin **Ricardo** no hay **Marx** ni **Marshall**
+
+## "Cada escritor crea a sus precursores"
+
+> Su labor modifica nuestra concepción del pasado, como ha de modificar el futuro.
+**[Jorge Luis Borges]**
+
+- Vemos el pasado a la luz de las ideas que nos han influido
+- **Keynes** "rescató" a **Mandeville**, **Malthus** y otros autores olvidados
+- La historia del pensamiento no es lineal ni progresiva
+
+## ¿Está muriendo la HPE?
+
+- **Gordon (1965)** encuestó 40 departamentos de economía en EEUU:
+  - 86% ofrecían cursos de HPE
+  - Casi la mitad había reducido la oferta en los últimos 15 años
+  - Los profesores jóvenes eran más reticentes a contratar en el área
+- Sin embargo $\longrightarrow$ cada vez más *journals*, conferencias e investigación en HPE
+
+## Tendencias en publicaciones
+
+![](../_shared/images/hpae/fig-chart-jel-codes-top5-journals.png){fig-align="center"}
+
+## El argumento de Blaug
+
+> Ninguna idea o teoría en economía es completamente comprendida excepto como el resultado final de una porción de la historia. El conocimiento económico es dependiente del camino. Sin Hayek, Robbins y Pigou, no había Keynes; sin Keynes, no había Friedman; sin Friedman, no había Lucas...
+**[Mark Blaug (2001)]**
+
+## Reconstrucciones racionales e históricas
+
+- **Reconstrucción racional** $\longrightarrow$ traducir ideas del pasado al lenguaje moderno
+  - Atractivo: usar herramientas actuales
+  - Riesgo: hacer que los clásicos parezcan economistas modernos imperfectos
+
+## Reconstrucciones racionales e históricas (cont.)
+
+- **Reconstrucción histórica** $\longrightarrow$ entender a los autores en su contexto
+  - Mayor fidelidad pero más exigente
+  - Reconoce que el progreso no es lineal
+
+> Si tu única herramienta es un martillo, tiendes a tratar cada problema como si fuera un clavo.
+**[Abraham Maslow]**
+
+# La economía como ciencia y los modelos filosóficos {background="#43464B"}
+
+## ¿Es la economía una ciencia?
+
+- La respuesta es... **depende** de qué consideremos ciencia
+- Si ciencia = física matemática $\longrightarrow$ la economía queda afuera
+- Si ciencia = conocimiento con técnicas especializadas de descubrimiento e inferencia $\longrightarrow$ la economía califica
+
+> Ciencia es sentido común refinado. Ciencia es conocimiento instrumentado.
+**[Joseph Schumpeter]**
+
+## El problema de la historia de la economía
+
+- La economía no es *enteramente* como las ciencias naturales
+- Progresa no sólo refinando modelos (vertical) sino expandiendo el rango de modelos (horizontal)
+- La realidad social es resultado de elección humana $\longrightarrow$ **inherentemente maleable**
+
+## La obsesión por los modelos
+
+- **Leijonhufvud (1973)** escribió sobre la "tribu de los economistas" y su obsesión por los modelos
+- El entrenamiento del economista consiste en aprender una secuencia de modelos
+- Para los críticos: abstracción excesiva
+- Para los defensores: los modelos capturan lo esencial
+
+## Tres modelos, tres mundos
+
+| Modelo | Resultado | Idealización |
+|--------|-----------|--------------|
+| Oferta y demanda | Equilibrio eficiente | Mercado competitivo |
+| Dilema del prisionero | Equilibrio ineficiente | Acciones independientes |
+| Caza del ciervo | Equilibrios múltiples | Información imperfecta |
+
+Ninguno está "bien" o "mal" *per se* $\longrightarrow$ cada uno provee un mecanismo válido en diferentes contextos
+
+## El modelo inductivo
+
+- Las investigaciones se inician a partir de la **observación de hechos**
+- Sigue la formulación de **leyes universales** por inferencia inductiva
+- Finalmente se llega a afirmaciones de mayor generalidad: las "teorías"
+- Tanto leyes como teorías son sometidas a **escrutinio empírico**
+
+## El modelo hipotético-deductivo
+
+- Este modelo comenzó a cuestionar al inductivo en el siglo XIX
+- En 1948 fue formalizado como el único tipo válido de explicación científica
+- Incluye al menos una **ley universal** más condicionantes iniciales --el *explanans*
+- De ellas se deduce el *explanandum* --la afirmación sobre el fenómeno a explicar
+
+## Explicación y predicción
+
+- El modelo hipotético-deductivo implica equiparar **explicación con predicción**
+- La explicación es una predicción proyectada hacia el pasado
+- Críticos $\longrightarrow$ la predicción no tiene que implicar explicación
+- Se puede predecir bien sin explicar nada [¿*machine learning*?]
+
+## El falsacionismo de Popper
+
+- **Popper** estableció una distinción entre ciencia y no-ciencia
+- Problema de la inducción $\longrightarrow$ generalizamos a partir de observaciones pero estas inferencias no tienen justificación lógica
+
+> Ningún número de observaciones de cisnes blancos permite inferir que todos los cisnes son blancos, pero un solo cisne negro refuta la conclusión.
+
+## Implicancias del falsacionismo
+
+- **Asimetría clave** entre verificación y falsación
+- Cualquier afirmación universal puede ser refutada por una sola afirmación particular
+- Pero no es posible derivar afirmaciones universales a partir de afirmaciones particulares
+- La ciencia se caracteriza por su método de formulación de proposiciones **contrastables**
+
+## La economía positiva de Friedman
+
+- **Economía positiva**: "lo que es" (hechos)
+- **Economía normativa**: "lo que debería ser" (valores)
+- Dos personas pueden acordar sobre los efectos de una ley y aún así uno apoyarla y otro rechazarla
+
+## La teoría como lenguaje e hipótesis
+
+- El objetivo es desarrollar teorías que produzcan predicciones **válidas y significativas**
+- La teoría cumple dos roles:
+  1. Un "lenguaje" para organizar el razonamiento
+  2. Un "cuerpo de hipótesis" para abstraer aspectos centrales
+
+## El realismo de los supuestos
+
+- **Friedman** argumentó que no tiene sentido testear el "realismo" de los supuestos
+- Lo relevante es si las **predicciones** son correctas
+- Los agentes se comportan *como si* hicieran los cálculos, aunque no los hagan
+
+## Ejemplos del "como si"
+
+- **Ley de caída libre** $\longrightarrow$ los cuerpos caen *como si* estuvieran en el vacío
+- **Jugadores de billar** $\longrightarrow$ tiran *como si* calcularan ángulos y fuerzas
+- **Hojas de árboles** $\longrightarrow$ se distribuyen *como si* buscaran maximizar luz solar
+
+## Las cuatro técnicas de Schumpeter
+
+Para **Schumpeter**, el **análisis económico** requiere dominio de:
+
+1. **Historia** --el campo más importante
+2. **Estadística** --métodos de medición e inferencia
+3. **Teoría** --conceptos, relaciones y métodos
+4. **Sociología** --hechos sociales e institucionales
+
+## La importancia de la historia
+
+> Los errores más fundamentales de los economistas se deben a déficits de *experiencia histórica* más que a déficits de técnicas y métodos.
+**[Joseph Schumpeter]**
+
+- El objeto de estudio de la economía es un proceso único en **tiempo histórico**
+- El registro no puede ser puramente económico: debe reflejar "hechos institucionales"
+
+## Teoría como caja de herramientas
+
+> *Economic theory is a box of tools.*
+**[Joan Robinson]**
+
+- **Conceptos**: tasa marginal de sustitución, productividad marginal, multiplicador
+- **Relaciones**: vínculos entre conceptos
+- **Métodos**: formas de conectar las relaciones
+
+# Problemas metodológicos centrales {background="#43464B"}
+
+## Los seis problemas
+
+1. **Economía positiva vs. normativa**
+2. **Razones vs. causas**
+3. **Naturalismo científico-social**
+4. **Abstracción, idealización y *ceteris paribus***
+5. **Causalidad en economía y econometría**
+6. **Estructura y estrategia: paradigmas y programas de investigación**
+
+## 1. Economía positiva vs. normativa
+
+- Contraste entre una *ciencia positiva* que estudia "los hechos" y una *indagación normativa* sobre "lo que debería ser"
+- Gran mayoría de economistas creen que existe una línea clara entre hechos y valores
+- **Varios cuestionamientos a esto**
+
+## 1. Economía positiva vs. normativa (cont.)
+
+- Los economistas deben **interpretar** las especificaciones incompletas de objetivos del *policy-maker*
+- La ciencia económica concierne la **actividad humana** y toda actividad humana está enmarcada en valores
+- Gran parte de la economía construida alrededor de una *teoría normativa de racionalidad*
+- Los juicios individuales están influidos por el **propio interés** $\longrightarrow$ posibles sesgos metodológicos
+
+## 2. Razones vs. causas
+
+- Frecuentemente los economistas construyen teorías que ofrecen:
+  1. **Explicaciones causales** acerca de por qué los individuos eligen como eligen
+  2. Relatos sobre las **razones** detrás de sus elecciones
+- Las explicaciones en términos de razones pretenden *justificar* acciones
+- Las explicaciones en términos de causas pretenden *explicarlas*
+
+## 2. Razones vs. causas (cont.)
+
+> Lo que distingue las razones que explican una acción de las razones que fallan en explicarla es que las primeras son también causas de la acción.
+**[Donald Davidson (1963)]**
+
+- Problema adicional: las creencias y preferencias que explican acciones suelen depender de **errores e ignorancia**
+- La abstracción ayuda a simplificar --información perfecta-- pero surgen problemas al agregar realismo
+
+## 3. Naturalismo científico-social
+
+- La economía es la ciencia social que más se asemeja a las ciencias naturales
+- **Tres cuestiones centrales**:
+  1. ¿Hay diferencias fundamentales en la estructura de teorías y explicaciones?
+  2. ¿Hay diferencias en los objetivos? Las ciencias naturales buscan explicar y predecir; la economía además busca "entender"
+  3. ¿Son los fenómenos sociales demasiado irregulares para ser capturados en un marco de leyes?
+
+## 3. Naturalismo científico-social (cont.)
+
+- **Weber (1904)** enfatizó la importancia de "entender" (*Verstehen*) en las ciencias sociales
+- Esto introduce un fuerte elemento de **subjetividad**
+- La economía estudia fenómenos donde las **elecciones humanas** son centrales
+- ¿Son esas elecciones suficientemente regulares como para formular leyes?
+
+## 4. Abstracción, idealización y *ceteris paribus*
+
+- La economía suele ser criticada por la fuerte dependencia de la **abstracción e idealización**
+- Supuestos típicos: racionalidad perfecta, información completa
+- Sin una buena dosis de abstracción, resulta difícil trabajar con todas las complicaciones del mundo real
+
+## 4. Abstracción, idealización y *ceteris paribus* (cont.)
+
+- Los enunciados de la economía son verdaderos estrictamente bajo la cláusula ***ceteris paribus*** ("todo lo demás constante")
+- **¿Cuánta abstracción es legítima?**
+- ¿Cuán validados están estos supuestos por la evidencia empírica disponible?
+
+## 5. Causalidad en economía y econometría
+
+![¿La gaviota dobló la barra?](../_shared/images/hpae/fig-photo-seagull-bent-bar.jpg){fig-align="center"}
+
+## 5. Causalidad: ¿por qué importa?
+
+- Muchos enunciados económicos se asemejan a enunciados causales: "cuando sube $P$, baja $Q_d$"
+- Pero la **causalidad** no fue explorada explícitamente hasta recientemente
+- Razones por las que importa:
+  1. Conocer y atacar las **verdaderas causas** de un problema
+  2. **Diseñar** políticas e intervenciones correctas
+  3. **Distinguir** correlación de causación
+
+## 5. Causalidad: la experimentación
+
+- Reencarnación moderna del debate causal $\longrightarrow$ ***randomized controlled trials***
+- Aleatorización de individuos en grupos de **tratamiento** y **control**
+- La variación en resultados se debe *totalmente* al factor de interés
+- **Problemas**: representatividad (¿aplican resultados de Uganda a México?) y cuestiones éticas
+
+## 6. Paradigmas y programas de investigación
+
+- ¿Existe alguna **estructura teórica** que guíe y unifique la investigación en economía?
+- Los economistas teóricos se acogen al marco de **Kuhn** y **Lakatos** para mostrar unicidad y estructura
+- **Kuhn**: la ciencia avanza por "revoluciones" que cambian el paradigma dominante
+- **Lakatos**: los programas de investigación tienen un "núcleo duro" protegido por hipótesis auxiliares
+
+## 6. Paradigmas y programas de investigación (cont.)
+
+- La comparación de la estructura económica con estos marcos ha echado luz sobre:
+  - **Ventajas**: identificación de supuestos centrales (equilibrio, racionalidad)
+  - **Deficiencias**: dificultad para "falsar" el núcleo duro de la teoría
+- Ejemplo: el supuesto de que el equilibrio *existe* y *se logra* rara vez se cuestiona
+
+# Resumiendo: puntos principales {background="#43464B"}
+
+## Ideas clave
+
+- **Las ideas económicas moldean el mundo** $\longrightarrow$ las políticas actuales tienen raíces en debates de siglos pasados
+- **El conocimiento es dependiente del camino** $\longrightarrow$ no podemos entender el presente sin conocer la historia
+- **Hay múltiples formas de hacer ciencia económica** $\longrightarrow$ modelos, datos, historia, instituciones
+
+## Ideas clave (cont.)
+
+- **Los supuestos "irrealistas" pueden ser útiles** $\longrightarrow$ lo importante es el poder predictivo
+- **La distinción positivo/normativo es compleja** $\longrightarrow$ los valores permean el análisis
+- **La causalidad es central pero difícil de establecer** $\longrightarrow$ correlación no es causación
+
+## Preguntas para reflexionar
+
+- Si los economistas usan las mismas matemáticas que los físicos, ¿por qué hay tanto desacuerdo en economía?
+- ¿Es posible hacer economía "libre de valores"?
+- ¿Qué ideas económicas actuales podrían estar tan equivocadas como el mercantilismo?
+
+# Bibliografía {background="#43464B"}
+
+## Lecturas principales
+
+- **Blaug, M.** (2001). "No History of Ideas, Please, We're Economists". *Journal of Economic Perspectives*, 15(1), 145-164.
+- **Schumpeter, J.A.** (1954). *History of Economic Analysis*. Part I, Capítulos 1-2.
+- **Friedman, M.** (1953). "The Methodology of Positive Economics".
+
+## Lecturas complementarias
+
+- **Leijonhufvud, A.** (2006). "The Uses of the Past". University of Trento Discussion Paper No. 3.
+- **Rodrik, D.** (2015). *Economics Rules*. Capítulo 1.
+- **Hausman, D.** (2024). "Philosophy of Economics". *Stanford Encyclopedia of Philosophy*.

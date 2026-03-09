@@ -1,0 +1,332 @@
+---
+title: "U3. La economía pre-clásica: mercantilismo y transición liberal"
+subtitle: "Historia del Pensamiento y del Análisis Económico"
+author: "Sebastián Freille"
+---
+
+# Motivación {background="#43464B"}
+
+## El Estado-nación y la obsesión por el oro
+
+> "The ordinary means therefore to increase our wealth and treasure is by Foreign Trade, wherein wee must ever observe this rule; to sell more to strangers yearly than wee consume of theirs in value."
+**[Thomas Mun, 1630]**
+
+- Entre 1500 y 1750 el mundo experimenta transformaciones sin precedentes
+- Descubrimientos geográficos, revolución de precios, surgimiento de Estados-nación
+- Por primera vez, algunos países empiezan a tener **crecimiento económico sostenido**
+
+## ¿Por qué nos importa el mercantilismo?
+
+- Es el **primer intento sistemático** de pensar la economía a nivel nacional
+- Muchas de sus ideas siguen vivas (proteccionismo, guerras comerciales, "*America First*")
+- Muestra cómo **las ideas económicas responden a intereses concretos**
+- La crítica al mercantilismo fue el trampolín para la economía clásica
+
+## Ubicación temporal
+
+![](../_shared/images/hpae/fig-diagram-modern-overview.png){fig-align="center"}
+
+# Contexto y problemáticas {background="#43464B"}
+
+## Viajes y descubrimientos
+
+::: {#fig-viajes layout-ncol=2}
+![Rutas comerciales](../_shared/images/hpae/fig-map-trade-routes-before-columbus.png){width=550}
+
+![Viajes de descubrimiento](../_shared/images/hpae/fig-map-voyages-discovery.png){width=550}
+
+El mundo se expande
+:::
+
+## De la trampa malthusiana al crecimiento
+
+- Hasta el siglo XVI: economía como **juego de suma cero**
+- Estándares de vida dependían del tamaño de la población, no de la tecnología
+- Más nacimientos $\longrightarrow$ menores ingresos; más muertes $\longrightarrow$ mayores ingresos
+
+**El cambio**:
+
+- Caída del Imperio Bizantino
+- Desarrollo de nuevas tecnologías e inventos
+- Posibilidad de aumentar el *stock* de bienes a través de la exploración
+
+## El crecimiento como fenómeno nuevo
+
+![](../_shared/images/hpae/fig-chart-gdp-europe-historical.png){fig-align="center"}
+
+## La revolución de los precios
+
+- Entre 1600 y 1750 los precios en Europa se **sextuplicaron** en promedio
+- Causa principal: entrada masiva de oro y plata de América
+- Este fenómeno puso en evidencia la **relación entre dinero y precios**
+
+![](../_shared/images/hpae/fig-chart-price-revolution.png){fig-align="center"}
+
+## ¿Qué es el mercantilismo?
+
+El mercantilismo puede entenderse como tres cosas simultáneas:
+
+1. **Colección de ideas y doctrinas teóricas** (dispersas y a veces contradictorias)
+2. **Sistema de economía política** (relación Estado-comerciantes)
+3. **Compendio de políticas económicas** (aranceles, subsidios, monopolios)
+
+**No es una "escuela" en sentido estricto**: fue más bien una reacción intelectual a las condiciones de la época.
+
+# Principales autores e ideas {background="#43464B"}
+
+## El supuesto clave: la riqueza es fija
+
+- Se partía del supuesto de que **la riqueza total en el mundo era constante**
+- Por lo tanto, la forma de enriquecerse era **a costa de otra nación**
+- Esto justificaba el uso del poder estatal para ganar ventaja comercial
+
+## Balanza comercial y acumulación de metales
+
+**Objetivo central**: mantener una balanza comercial superavitaria
+
+- Fomentar exportaciones (X)
+- Desincentivar importaciones (M)
+- Maximizar entrada de metales preciosos (*bullion*)
+
+**Instrumentos**: aranceles, cuotas, subsidios, monopolios estatales
+
+## Producción vs. consumo
+
+- Para los mercantilistas, el **objetivo de la economía era la producción**, no el consumo
+- La ecuación era:
+  1. Aumentar la producción (Y)
+  2. Aumentar las exportaciones (X)
+  3. Mantener bajo el consumo interno (C)
+
+**Resultado**: la riqueza del Estado se hacía a costa de una población empobrecida.
+
+## Dinero = riqueza (¿?)
+
+- Creencia fundamental del **mercantilismo joven**: dinero y riqueza son lo mismo
+- El **mercantilismo tardío** empezó a cuestionar esto
+- **Jean Bodin**: el aumento de precios se debe al aumento de oro y plata
+- **Thomas Mun**: las exportaciones e importaciones dependen de los **precios relativos** entre países
+
+## El error del mercantilismo
+
+> "This subject is an important and a complex one. Everyone knows what a difference it makes to the prosperity of the population in general and the prince in particular whether or not a state abounds in gold and silver."
+**[Antonio Serra, 1613]**
+
+Confundieron:
+
+- Variaciones en M $\longrightarrow$ variaciones en Y (lo que creían)
+- Variaciones en M $\longrightarrow$ variaciones en P (lo que ocurría)
+
+## El mecanismo precio-flujo de metales
+
+- Un mayor superávit comercial en país A conduce a
+- Mayor entrada de metales (*bullion*) que al monetizarse implica
+- Aumento en M en país A que si es mayor al aumento de Y produce
+- Aumento en P en país A y disminución de P en país B
+- Lo cual **reduce** el superávit comercial de A
+
+Este mecanismo, descrito por **David Hume**, mostró que la acumulación de metales era **autolimitante**.
+
+## El Estado y la búsqueda de rentas
+
+- Los mercantilistas buscaban **beneficios a través de privilegios estatales**
+- El principal privilegio: **monopolios concedidos por el Estado**
+
+**Oferta de regulación**: gobiernos
+
+**Demanda de regulación**: comerciantes y empresas
+
+Relación de *quid pro quo*: regulaciones a cambio de "votos" y dinero.
+
+## Especificidades nacionales
+
+| **Inglaterra** | **Francia** |
+|----------------|-------------|
+| Monarquía constitucional | Monarquía absolutista |
+| Poder menos centralizado | Estado garantiza unidad social |
+| Coaliciones entre grupos de interés y Estado | Conflicto más que coalición |
+| Regulación local vs. nacional | **Colbert** como figura central |
+
+## Reevaluación del mercantilismo
+
+- La escuela clásica **devastó** al mercantilismo intelectualmente
+- Pero hubo intentos de rescatarlo:
+
+**Escuela histórica alemana**: sistema racional para objetivos de la época
+
+**Keynes**: reconoció "fragmentos de sabiduría práctica"
+
+> Detrás de la obsesión con las entradas de *bullion* había una "intuición de la conexión entre la abundancia de dinero y las bajas tasas de interés".
+**[J.M. Keynes]**
+
+## Los primeros "padres fundadores"
+
+- El mercantilismo tardío vio surgir pensadores que **anticiparon la economía clásica**
+- Dos figuras destacadas:
+  - **William Petty** (1623-1687): padre de la aritmética política
+  - **Richard Cantillon** (1680-1734): primer tratado sistemático de economía
+
+## Sir William Petty
+
+> "Instead of using only comparative and superlative Words, and intellectual Arguments, I have taken the course to express myself in Terms of Number, Weight, or Measure."
+**[William Petty]**
+
+- Hijo de sastre pobre, se formó como médico, matemático, ingeniero
+- Fundador de la **aritmética política** (estadística económica)
+- Miembro fundador de la Royal Society
+
+## Petty: contribuciones clave
+
+**Concepto de velocidad de circulación del dinero**
+
+**Ingreso Nacional**: no lo definió formalmente pero reconoció su importancia analítica
+
+**"Father and mother"**: destacó los dos factores originales de producción (tierra y trabajo)
+
+> "El trabajo es el padre de la riqueza y la tierra es la madre."
+**[William Petty, citado por Marx]**
+
+## Petty: valor, renta y excedente
+
+> "Supongamos que un hombre puede plantar cierta tierra con maíz... cuando este hombre haya deducido su semilla del producto de su cosecha, y también lo que él mismo ha comido y dado a otros a cambio de ropa y otras necesidades naturales; el resto del maíz es la renta natural y verdadera de la tierra."
+
+Aquí hay una **anticipación de la teoría del valor-trabajo**. **Marx** lo consideró "el padre de la economía política inglesa".
+
+## Petty: capitalización e interés
+
+- Se interesó por el problema de la **capitalización** (tiempo, interés, renta)
+- Anticipó conceptos financieros modernos sobre descuento de rentas futuras
+- Relativizó el problema moral de la usura:
+
+> "La usura es el alquiler de la tierra que el dinero prestado podría comprar, donde la garantía es indudable."
+**[William Petty]**
+
+## Richard Cantillon: el *Essai*
+
+- Escribió uno de los mejores tratados científicos sobre economía antes de **Adam Smith**
+- Su *Essay on the Nature of Commerce* (1755) es **puramente analítico**
+- Influyó en **Quesnay** y los fisiócratas
+
+**Nota sobre su vida**: hizo fortuna con la burbuja de Mississippi, fue acusado de fraude, y murió misteriosamente en un incendio (posiblemente asesinado).
+
+## Cantillon: contribuciones clave
+
+**Anticipó a Malthus**:
+> "Los hombres se multiplican como ratones en un granero si tienen medios ilimitados de subsistencia."
+
+**Teoría del valor**:
+> "El precio o valor intrínseco de una cosa es la medida de la cantidad de tierra y trabajo que entran en su producción."
+
+**Introdujo el término *entrepreneur***:
+> "La circulación e intercambio de bienes son llevados a cabo por empresarios y bajo riesgo."
+
+## Cantillon: teoría monetaria
+
+- Entendió el mecanismo de transmisión monetaria
+- Describió cómo los aumentos de dinero afectan primero a ciertos sectores y luego se difunden
+- Esta idea se conoce hoy como **"efecto Cantillon"**
+
+## Los fisiócratas
+
+- Escuela francesa liderada por **François Quesnay** (1694-1774)
+- Primera escuela económica propiamente dicha
+- Concepto central: la tierra es la **única fuente de riqueza**
+
+**Tableau Économique**: primer intento de modelar la economía como sistema.
+
+![](../_shared/images/hpae/fig-diagram-tableau-economique.png){fig-align="center"}
+
+## David Hume: mercantilista liberal
+
+- **David Hume** (1711-1776): filósofo escocés, amigo de **Adam Smith**
+- Describió el **mecanismo precio-flujo de metales**
+- Se diferenció tanto del mercantilismo joven como de la escuela clásica:
+
+> Un aumento gradual de M puede aumentar la producción real al menos durante cierto período de tiempo.
+
+Vinculó **libertades económicas con libertades políticas**.
+
+# Valoración e importancia {background="#43464B"}
+
+## Contribuciones al desarrollo de la economía
+
+**El mercantilismo aportó**:
+
+- Primera reflexión sistemática sobre economía **a nivel nacional**
+- Desarrollo de conceptos de balanza comercial y contabilidad nacional
+- Reconocimiento de la relación dinero-precios (aunque mal interpretada inicialmente)
+
+**La transición liberal aportó**:
+
+- Método cuantitativo (**Petty**)
+- Análisis sistemático de la economía como sistema (**Cantillon**)
+- Crítica al intervencionismo excesivo (**Hume**)
+
+## Validez a través del tiempo
+
+| Idea mercantilista | Evaluación | Vigencia actual |
+|--------------------|------------|-----------------|
+| Riqueza como suma cero | Incorrecta | Obsoleta |
+| Balanza comercial positiva | Parcialmente correcta | Debates sobre déficits |
+| Proteccionismo selectivo | Contexto-dependiente | Políticas industriales |
+| Relación dinero-precios | Correcta pero mal entendida | Teoría monetaria moderna |
+
+## Caminos abiertos y cerrados
+
+**Caminos abiertos**:
+
+- **Petty** y **Cantillon** prepararon el terreno para **Smith**
+- La fisiocracia introdujo el concepto de sistema económico
+- **Hume** anticipó la teoría cuantitativa del dinero
+
+**Caminos cerrados** (pero reabiertos después):
+
+- La idea de que la política monetaria puede tener efectos reales (**Keynes** rescató esto)
+- El rol del Estado en el desarrollo económico (economía del desarrollo)
+
+## Capacidad explicativa y predictiva
+
+**Fortalezas**:
+
+- Explicaron correctamente por qué los países buscaban acumular metales
+- Identificaron (aunque no resolvieron) la relación dinero-precios
+
+**Debilidades**:
+
+- No entendieron el comercio como juego de suma positiva
+- No tenían teoría del valor ni de la distribución
+- Confundieron síntomas (acumulación de oro) con causas (productividad)
+
+# Resumiendo: puntos principales {background="#43464B"}
+
+## Ideas clave (I)
+
+- **El mercantilismo fue la primera política económica sistemática** $\longrightarrow$ aunque sus ideas eran dispersas, compartían objetivos comunes
+- **La obsesión con los metales tenía lógica en su contexto** $\longrightarrow$ pero confundieron dinero con riqueza
+- **El mecanismo precio-flujo mostró los límites del mercantilismo** $\longrightarrow$ la acumulación de metales era autolimitante
+
+## Ideas clave (II)
+
+- **Petty y Cantillon fueron precursores cruciales** $\longrightarrow$ desarrollaron métodos y conceptos que **Adam Smith** heredaría
+- **El mercantilismo no murió del todo** $\longrightarrow$ sus ideas resurgen periódicamente (proteccionismo, guerras comerciales)
+
+## Preguntas para reflexionar
+
+1. ¿En qué sentido las políticas comerciales actuales (aranceles de Trump/Biden, "guerra comercial" con China) son "mercantilistas"?
+2. ¿Por qué la obsesión con la balanza comercial persiste a pesar de 250 años de críticas?
+3. Si **Petty** y **Cantillon** fueron tan brillantes, ¿por qué **Adam Smith** se lleva todo el crédito?
+4. ¿Qué aspectos del mercantilismo podrían tener sentido en países en desarrollo hoy?
+
+# Bibliografía {background="#43464B"}
+
+## Lecturas principales
+
+- **Ekelund, R.B. y Hébert, R.F.** (2005). *Historia de la teoría económica y de su método*. Capítulos 3-4.
+- **Roncaglia, A.** (2006). *La riqueza de las ideas*. Capítulos 3-4.
+- **Schumpeter, J.A.** (1954). *History of Economic Analysis*. Part II, Capítulos 3-6.
+
+## Lecturas complementarias
+
+- **Heckscher, E.** (1935). *Mercantilism*. Capítulos seleccionados.
+- **Petty, W.** (1662). *A Treatise on Taxes and Contributions*. Capítulos 1-4.
+- **Cantillon, R.** (1755). *Essay on the Nature of Commerce*. Parte I.

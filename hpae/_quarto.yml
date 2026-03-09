@@ -1,26 +1,71 @@
-﻿# ============================================
-# HPAE - Historia del Pensamiento y Análisis Económico
-# Course-level Quarto configuration
+# ============================================
+# QUARTO PROJECT CONFIGURATION
+# Historia del Pensamiento y del Analisis Economico
+# FCE UNC - Universidad Nacional de Cordoba
 # ============================================
 
 project:
   type: default
 
-# Inherit shared metadata
-metadata-files:
-  - ../_shared/templates/_metadata.yml
+# Author information
+author: "Sebastian Freille"
+institute: "Universidad Nacional de Cordoba"
 
-# Course-specific settings
+# Language settings (Spanish)
+lang: es
+
+# RevealJS format defaults
 format:
   revealjs:
-    # Self-contained output (no _files/ folders)
+    # Theme
+    theme: theme-hpae.scss
+    
+    # Self-contained output
     embed-resources: true
+    
+    # Slide behavior
+    slide-number: true
+    preview-links: auto
+    center-title-slide: true
+    center: false
+    
+    # Dimensions
+    width: 1500
+    height: 900
+    
+    # Navigation
+    controls: true
+    progress: true
+    history: true
+    
+    # Table of contents
+    toc: true
+    toc-depth: 1
+    toc-title: "Contenidos"
+    
+    # Captions
+    tbl-cap-location: bottom
+    fig-cap-location: bottom
+    
+    # Links
+    link-external-newwindow: true
+    
+    # Transitions
+    transition: slide
+    transition-speed: default
 
-    # Theme: Clean minimalist black/white
-    css: ../_shared/css/theme-minimalist.scss
+# PDF output (via decktape)
+  pdf:
+    documentclass: scrartcl
+    papersize: letter
 
-    # Optional: Title slide background (commented - works better with highlight theme)
-    # title-slide-attributes:
-    #   data-background-image: ../_shared/images/backgrounds/bg-hpae-01.png
-    #   data-background-size: stretch
-    #   data-background-opacity: "0.85"
+# Execution options for code chunks
+execute:
+  echo: false
+  warning: false
+  message: false
+  freeze: auto
+
+# Bibliography (uncomment when bib file is populated)
+# bibliography: ../Bibliography_base.bib
+# csl: chicago-author-date.csl
