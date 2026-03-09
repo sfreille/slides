@@ -1,0 +1,14 @@
+/* CYFI-only revealjs overrides */
+
+.reveal section#title-slide h1.title,
+.reveal section#title-slide .title {
+  color: #bb3d91 !important;
+}
+
+.reveal section#title-slide p.subtitle,
+.reveal section#title-slide .subtitle,
+.reveal section#title-slide .quarto-title-author-name,
+.reveal section#title-slide .quarto-title-affiliation,
+.reveal section#title-slide .date {
+  color: #334155 !important;
+}

@@ -31,7 +31,7 @@ subtitle: Comercio y Finanzas Internacionales
 - **Sebastián Freille**
   - Email: 0933217@ucc.edu.ar
   - Box 4 (Area Investigación)
-  - Horario de consulta: a definir
+  - Horario de consulta: miércoles 17:30-18:30
   
 - **Franco Aguirre**
   - Email: 1206837@ucc.edu.ar
@@ -42,10 +42,10 @@ subtitle: Comercio y Finanzas Internacionales
 - Los **días y horarios de las clases** semanales serán:
   - Cátedra "A":
     - LUN, 15:00 a 16:00 [Aguirre]
-    - MIE, 15:00 a 18:00 [Freille]
+    - MIE, 18:30 a 22:00 [Freille]
   - Cátedra "B":
     - LUN, 16:00 a 17:00 [Aguirre]
-	- JUE, 17:00 a 20:00 [Freille]
+	- JUE, 18:30 a 20:30 [Freille]
 - No habrá videotransmisión ni clase híbrida salvo previo aviso y en
   situación excepcional por parte de la cátedra
 
@@ -99,13 +99,13 @@ subtitle: Comercio y Finanzas Internacionales
 ## Fechas importantes
 
 - Catedra "A"
-  - Parcial 1: 23-ABR
-  - Parcial 2: 28-MAY
-  - Parcial 3: 11-JUN
+  - Parcial 1: 22-ABR
+  - Parcial 2: 03-JUN
+  - Parcial 3: 17-JUN
 - Cátedra "B"
-  - Parcial 1: 24-ABR
-  - Parcial 2: 29-MAY
-  - Parcial 3: 12-JUN
+  - Parcial 1: 23-ABR
+  - Parcial 2: 04-JUN
+  - Parcial 3: 18-JUN
 
 # **Programa abreviado** {background="#4b6e5c"}
 

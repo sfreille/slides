@@ -16,11 +16,13 @@ format:
     # Self-contained output (no _files/ folders)
     embed-resources: true
 
-    # Theme: Clean minimalist black/white
-    css: ../_shared/css/theme-minimalist.scss
+    # Theme + CYFI-specific overrides
+    css:
+      - ../_shared/css/theme-highlight.scss
+      - cyfi-overrides.scss
 
     # Optional: Title slide background (commented - works better with highlight theme)
-    # title-slide-attributes:
-    #   data-background-image: ../_shared/images/backgrounds/bg-cyfi-01.png
-    #   data-background-size: stretch
-    #   data-background-opacity: "0.85"
+    title-slide-attributes:
+      data-background-image: ../_shared/images/backgrounds/bg-cyfi-01.png
+      data-background-size: stretch
+      data-background-opacity: "0.85"
