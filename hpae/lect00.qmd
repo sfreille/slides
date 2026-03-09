@@ -53,7 +53,7 @@ El objetivo de la materia es:
 
 - **Melisa Luc**
   - Email: [melisa.luc@unc.edu.ar](mailto:melisa.luc@unc.edu.ar)
-  - Horario de consulta: jueves 16:30 a 17:30 (presencial) [Box 262]
+  - Horario de consulta: a definir
 
 - **Franco Godino**
   - Email: [franco.godino@mi.unc.edu.ar](mailto:franco.godino@mi.unc.edu.ar)
@@ -90,7 +90,12 @@ Adicionalmente, se usaran otros textos generales, textos de autores originales y
 | Nota minima | **50 puntos sobre 100** |
 
 ::: {.importante}
-**No hay promocion** directa ni indirecta.
+**Examen final especial** $\longrightarrow$ accederán quiénes 
+
+1. Aprueben los 2 (dos) primeros parciales
+2. Obtengan promedio de notas igual a 7.5
+3. Obtengan nota no menor a 7 en ambos parciales aprobados
+
 :::
 
 # **Contenidos del curso** {background="#390040"}

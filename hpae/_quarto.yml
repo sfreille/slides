@@ -54,10 +54,18 @@ format:
     transition: slide
     transition-speed: default
 
+    # Optional: Title slide background (commented - works better with highlight theme)
+    title-slide-attributes:
+      data-background-image: ../_shared/images/backgrounds/bg-hpae-02.png
+      data-background-size: stretch
+      data-background-opacity: "0.85"
+
 # PDF output (via decktape)
   pdf:
     documentclass: scrartcl
     papersize: letter
+
+
 
 # Execution options for code chunks
 execute:
