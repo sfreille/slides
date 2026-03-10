@@ -32,7 +32,13 @@ execute:
 La materia tiene caracteristicas que la diferencian en naturaleza, abordaje y alcance en relacion de la mayoria de las materias de la carrera. Involucra el estudio del surgimiento, maduracion y refinamiento de las principales teorias, ideas y razonamientos involucrados en el pensar economico.
 :::
 
-**No es una historia de los acontecimientos** sino de la evolucion del pensamiento y analisis economico desde la antiguedad hasta nuestros dias.
+- **No es una historia de los acontecimientos** sino de la evolucion del
+pensamiento y analisis economico desde la antiguedad hasta nuestros
+dias.
+- **No es una mera cronología y listado de autores y sus ideas** sino
+una historia dinámica e interrelacionada de problemas, ideas y debates
+que ayudaron al desarrollo de la economía como la conocemos hoy
+- **No es una materia directamente intuitiva y sencilla** por cuanto requiere comprender, pensar y reflexionar en base a conceptos e ideas que en muchos casos han sido abandonados
 
 ## Objetivos
 
@@ -68,7 +74,14 @@ El objetivo de la materia es:
 - Landreth, H. y Colander, D. (2006). *Historia del pensamiento economico*, Cuarta edicion. McGraw-Hill.
 :::
 
-Adicionalmente, se usaran otros textos generales, textos de autores originales y articulos academicos.
+Adicionalmente, se recomiendan como textos integrales:
+
+::: {.definicion}
+**Textos complementarios (recomendados):**
+
+- Roncaglia, A. (2006). *The wealth of ideas: a history of economic thought*. Cambridge University Press.
+- Schumpeter, J. A. (2006). *History of economic analysis*. Routledge.
+:::
 
 ## Recursos y materiales
 
@@ -87,7 +100,6 @@ Adicionalmente, se usaran otros textos generales, textos de autores originales y
 | Recuperatorio | Se puede recuperar un solo parcial |
 | Aprobacion regular | Examen final en condicion de regular |
 | Aprobacion libre | Dos examenes (libre + regular) |
-| Nota minima | **50 puntos sobre 100** |
 
 ::: {.importante}
 **Examen final especial** $\longrightarrow$ accederán quiénes 

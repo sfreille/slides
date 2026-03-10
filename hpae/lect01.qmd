@@ -37,7 +37,7 @@ execute:
 
 ## Pero... ¿para qué?
 
-![Meme: estudiante escéptico preguntando por qué debería importarle la historia](../../slides/_shared/images/hpae/fig-meme-intro-why-care.png){fig-align="center" height="700" fig-alt="Meme mostrando un estudiante escéptico preguntando por qué debería importarle estudiar historia del pensamiento económico"}
+![But it was so long ago...](../../slides/_shared/images/hpae/fig-meme-intro-why-care.png){fig-align="center" height="700" fig-alt="Meme mostrando un estudiante escéptico preguntando por qué debería importarle estudiar historia del pensamiento económico"}
 
 ## ¿Por qué estudiar HPE?
 
@@ -46,11 +46,6 @@ execute:
 ::: {.cita}
 "Why study the wrong opinions of dead men?" \
 **[Atribuido a A.C. Pigou]**
-:::
-
-::: {.cita}
-"A science which hesitates to forget its founders is lost." \
-**[Alfred Whitehead, *The Aims of Education* (1927)]**
 :::
 
 . . .
@@ -62,6 +57,10 @@ execute:
 **[Robert Heilbroner, *The Worldly Philosophers* (1953)]**
 :::
 
+::: {.cita}
+"A science which hesitates to forget its founders is lost." \
+**[Alfred Whitehead, *The Aims of Education* (1927)]**
+:::
 
 
 ## Razones para estudiar HPE
@@ -94,7 +93,7 @@ execute:
 
 ## HPE en los top journals
 
-![Gráfico mostrando la evolución de códigos JEL de HPE en journals top](../../slides/_shared/images/hpae/fig-chart-jel-codes-top5-journals.png){fig-align="center" height="700" fig-alt="Gráfico de líneas mostrando la tendencia decreciente de artículos de historia del pensamiento económico en los principales journals de economía"}
+![Evolución de cantidad de artículos de HPE en journals líderes](../../slides/_shared/images/hpae/fig-chart-jel-codes-top5-journals.png){fig-align="center" height="700" fig-alt="Gráfico de líneas mostrando la tendencia decreciente de artículos de historia del pensamiento económico en los principales journals de economía"}
 
 ## ¿Está muriendo la HPE?
 
