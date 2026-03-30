@@ -1,0 +1,549 @@
+---
+title: "Historia del Pensamiento y del Análisis Económico"
+subtitle: "U3 (versión Roncaglia). Del mercantilismo a los albores de la economía política"
+author: "Sebastián Freille"
+institute: "Facultad de Ciencias Económicas, UNC"
+date: today
+format:
+  revealjs:
+    theme: theme-hpae.scss
+    embed-resources: true
+    slide-number: true
+    toc: true
+    toc-depth: 1
+    toc-title: "Contenidos"
+    width: 1500
+    height: 900
+lang: es
+execute:
+  echo: false
+  warning: false
+---
+
+# **3. Del mercantilismo a la economía política** {background="#390040"}
+
+## 3.1 El período de transición (1500-1750)
+
+- Entre el Renacimiento y la Revolución Industrial se produce una **transformación sin precedentes**
+- Surgen los **Estados nacionales** con políticas económicas sistemáticas
+- Aparece el **crecimiento económico sostenido** como fenómeno nuevo
+- Se desarrollan las bases institucionales del capitalismo moderno
+
+::: {.importante}
+Este período marca la transición del análisis moral-escolástico hacia la economía política como disciplina autónoma.
+:::
+
+## Coordenadas del capítulo
+
+1. El mercantilismo como sistema
+2. El concepto de ley natural
+3. La filosofía política del liberalismo: Locke, Mandeville, Hume
+4. Los fisiócratas y el *Tableau Économique*
+5. Los primeros economistas "científicos": Petty y Cantillon
+
+# **3.2 El mercantilismo** {background="#390040"}
+
+## ¿Qué es el mercantilismo?
+
+El mercantilismo puede entenderse como **tres cosas simultáneas**:
+
+1. **Colección de ideas y doctrinas** (dispersas y a veces contradictorias)
+2. **Sistema de economía política** (relación Estado-comerciantes)
+3. **Compendio de políticas económicas** (aranceles, subsidios, monopolios)
+
+::: {.cita}
+"The ordinary means therefore to increase our wealth and treasure is by Foreign Trade, wherein wee must ever observe this rule; to sell more to strangers yearly than wee consume of theirs in value."
+**[Thomas Mun, 1630]**
+:::
+
+## El supuesto fundamental
+
+- Se partía del supuesto de que **la riqueza total en el mundo era constante**
+- La única forma de enriquecerse era **a costa de otra nación**
+- Esto justificaba el uso del poder estatal para ganar ventaja comercial
+
+**Objetivo central**: balanza comercial superavitaria
+
+**Instrumentos**: aranceles, cuotas, subsidios, monopolios estatales
+
+## Dinero y riqueza: el error mercantilista
+
+- El **mercantilismo joven** equiparaba **dinero con riqueza**
+- El **mercantilismo tardío** comenzó a cuestionar esto
+
+> "Everyone knows what a difference it makes to the prosperity of the population in general and the prince in particular whether or not a state abounds in gold and silver."
+**[Antonio Serra, 1613]**
+
+**El error**: confundir variaciones en M → variaciones en Y (lo que creían) con variaciones en M → variaciones en P (lo que ocurría)
+
+## La revolución de los precios
+
+- Entre 1500 y 1750 los precios en Europa se **sextuplicaron** en promedio
+- Causa principal: entrada masiva de oro y plata de América
+- Jean Bodin (1530-1596) fue el primero en identificar esta relación
+
+Este fenómeno empírico puso en evidencia la **relación entre cantidad de dinero y precios**, preparando el terreno para la teoría cuantitativa.
+
+## El mecanismo precio-flujo de metales
+
+Descrito por **David Hume**, mostró que la acumulación de metales era **autolimitante**:
+
+1. Mayor superávit comercial en país A → 
+2. Mayor entrada de metales que al monetizarse → 
+3. Aumento en M en país A →
+4. Aumento en P en país A y disminución de P en país B →
+5. **Reducción** del superávit comercial de A
+
+::: {.importante}
+Este mecanismo fue devastador para la doctrina mercantilista.
+:::
+
+## Mercantilismo: variantes nacionales
+
+| **Inglaterra** | **Francia** |
+|----------------|-------------|
+| Monarquía constitucional | Monarquía absolutista |
+| Poder menos centralizado | Estado como garantía de unidad |
+| Coaliciones Estado-comerciantes | Colbert como figura central |
+| Regulación local vs nacional | Regulación centralizada |
+
+## Reevaluación del mercantilismo
+
+- La escuela clásica **devastó** intelectualmente al mercantilismo
+- Pero hubo intentos de rescatarlo:
+
+**Escuela histórica alemana**: sistema racional para objetivos de su época
+
+**Keynes**: reconoció "fragmentos de sabiduría práctica"
+
+> Detrás de la obsesión con las entradas de *bullion* había una "intuición de la conexión entre la abundancia de dinero y las bajas tasas de interés".
+**[J.M. Keynes]**
+
+# **3.3 El concepto de ley natural** {background="#390040"}
+
+## El iusnaturalismo y sus implicaciones
+
+La doctrina del **derecho natural** (iusnaturalismo) tuvo profundas implicaciones para el pensamiento económico:
+
+- Existencia de **leyes naturales** que rigen la sociedad
+- Los derechos individuales son **anteriores** al Estado
+- El orden social puede surgir **espontáneamente** sin diseño central
+
+::: {.importante}
+La ley natural proporcionó el fundamento filosófico para la crítica al intervencionismo mercantilista.
+:::
+
+## Dos visiones del Estado
+
+**Visión hobbesiana**: 
+- El Estado como *Leviatán* necesario para evitar el caos
+- Sin autoridad central: "guerra de todos contra todos"
+- Justifica el absolutismo
+
+**Visión lockeana**:
+- El Estado como protector de derechos **preexistentes**
+- La propiedad privada como derecho natural
+- Límites al poder estatal
+
+## La ley natural y la economía
+
+Los pensadores iusnaturalistas (Grocio, Pufendorf, Locke) establecieron:
+
+1. Que existen **regularidades naturales** en la vida económica
+2. Que la **propiedad privada** tiene fundamento en la naturaleza humana
+3. Que el **intercambio voluntario** es mutuamente beneficioso
+4. Que la **intervención estatal** puede perturbar el orden natural
+
+::: {.cita}
+El mercado como orden espontáneo que no requiere dirección central.
+:::
+
+# **3.4 La filosofía política del liberalismo** {background="#390040"}
+
+## John Locke (1632-1704)
+
+Filósofo inglés, autor del *Ensayo sobre el entendimiento humano* (1689) y los *Dos tratados sobre el gobierno* (1690).
+
+**Contribución central**: teoría de la propiedad basada en el trabajo
+
+> "Aunque la tierra y todas las criaturas inferiores han sido dadas a todos los hombres en común... cada hombre tiene una propiedad en su propia persona. El trabajo de su cuerpo y la obra de sus manos son propiamente suyos."
+**[John Locke, *Two Treatises of Government*]**
+
+## Locke: trabajo, propiedad y libertad
+
+**Tres ideas fundamentales**:
+
+1. **El trabajo como fuente de propiedad**: mezclar trabajo con recursos naturales crea título legítimo
+2. **Los derechos naturales preceden al Estado**: "vidas, libertades y patrimonio"
+3. **Límites al poder político**: el Estado debe proteger derechos, no crearlos
+
+::: {.importante}
+Locke fue un defensor de los derechos del individuo contra el absolutismo, no un apologista del capitalismo *per se*.
+:::
+
+## Locke y la economía
+
+Más allá de la filosofía política, Locke contribuyó a debates económicos:
+
+- **Teoría monetaria**: debate sobre tipos de interés con Josiah Child
+- **Velocidad de circulación**: una de las primeras formulaciones claras
+- **Crítica del intervencionismo**: los tipos de interés no pueden fijarse por ley
+
+> "Es la prosperidad la que favorece un nivel moderado de los tipos de interés, y cualquier intento de reducirlos por ley está condenado al fracaso."
+**[John Locke]**
+
+## Bernard de Mandeville (1670-1733)
+
+Médico holandés radicado en Londres. Autor de *La fábula de las abejas: o vicios privados, beneficios públicos* (1714).
+
+::: {.cita}
+"Los vicios privados, mediante la dirección hábil de un político diestro, pueden convertirse en beneficios públicos."
+**[Bernard de Mandeville]**
+:::
+
+Provocador y polémico, fue condenado por "impiedad" por el Gran Jurado de Middlesex.
+
+## Mandeville: vicios privados, beneficios públicos
+
+**La tesis central**: el comportamiento egoísta puede conducir al bienestar colectivo
+
+**Pero con matices cruciales**:
+
+- No es automático: requiere "la dirección hábil de un político diestro"
+- No es defensa del vicio *per se*: es reconocimiento realista de la naturaleza humana
+- Es crítica al moralismo ingenuo de Shaftesbury
+
+::: {.importante}
+Mandeville NO puede considerarse un teórico del laissez-faire puro.
+:::
+
+## Mandeville: sociedad pequeña vs sociedad comercial
+
+Mandeville contrapuso dos tipos de sociedad:
+
+**Sociedad tradicional a pequeña escala**:
+- Idealizada por los moralistas
+- "No tendrán artes o ciencias... deben ser pobres, ignorantes"
+
+**Sociedad comercial con división del trabajo**:
+- Necesariamente a mayor escala
+- La división del trabajo favorece el progreso técnico
+- Mayor riqueza material
+
+## La importancia de Mandeville
+
+1. **Anticipó a Smith**: el interés propio como motor de la prosperidad
+2. **Secularizó el análisis**: separó economía de moralismo
+3. **Planteó la paradoja central**: cómo el egoísmo puede producir orden social
+
+Pero a diferencia de Smith, Mandeville requería un "político hábil" para canalizar las pasiones. Smith confiaría en el mercado mismo.
+
+## David Hume (1711-1776)
+
+Filósofo escocés, amigo cercano de Adam Smith. Autor de los *Ensayos políticos* (1752).
+
+**Contribuciones clave**:
+
+1. Mecanismo precio-flujo de metales (crítica al mercantilismo)
+2. Teoría del dinero y los precios
+3. Vínculo entre libertades económicas y políticas
+4. Optimismo moderado sobre la naturaleza humana
+
+## Hume: una posición intermedia
+
+Hume se diferenció tanto del mercantilismo como de la escuela clásica posterior:
+
+> Un aumento gradual de M puede aumentar la producción real al menos durante un cierto período de tiempo.
+**[David Hume]**
+
+**Contribución filosófica**: una visión moderadamente optimista de la sociedad, donde el comportamiento egoísta puede conducir al bien colectivo sin necesidad de dirección central.
+
+## La transición de ideas: síntesis
+
+| Autor | Tesis central | Rol del Estado |
+|-------|---------------|----------------|
+| **Locke** | Derechos naturales | Protector de derechos preexistentes |
+| **Mandeville** | Vicios → beneficios (con guía) | Director hábil de pasiones |
+| **Hume** | Orden espontáneo moderado | Mínimo, no nulo |
+
+Esta progresión preparó el terreno para Adam Smith y la "mano invisible".
+
+# **3.5 William Petty y la aritmética política** {background="#390040"}
+
+## Sir William Petty (1623-1687)
+
+> "Instead of using only comparative and superlative Words, and intellectual Arguments, I have taken the course to express myself in Terms of Number, Weight, or Measure."
+**[William Petty]**
+
+- Hijo de sastre pobre, se formó como médico, matemático, ingeniero
+- Miembro fundador de la Royal Society
+- Fundador de la **aritmética política** (estadística económica)
+
+## Petty: vida extraordinaria
+
+- A los 14 años fue abandonado en las costas de Francia; se educó con jesuitas
+- Participó en el famoso caso de la "resurrección" de Anne Greene (1650)
+- Dirigió el relevamiento territorial de Irlanda para Cromwell
+- Se enriqueció con la distribución de tierras irlandesas
+
+::: {.importante}
+Marx lo consideró "el padre de la economía política inglesa".
+:::
+
+## Petty: contribuciones metodológicas
+
+**Aritmética política**: uso sistemático de datos cuantitativos
+
+> "By Political Arithmetick we mean the art of reasoning by figures upon things relating to government."
+**[Davenant, sobre Petty]**
+
+No concebía teorización aislada de hechos: ciencia = medición + análisis.
+
+## Petty: conceptos económicos clave
+
+1. **Velocidad de circulación del dinero**: primera formulación clara
+2. **Ingreso nacional**: reconoció su importancia analítica
+3. **"Father and mother"**: trabajo y tierra como factores originales
+
+> "El trabajo es el padre de la riqueza y la tierra es la madre."
+**[William Petty, citado por Marx]**
+
+## Petty: valor, renta y excedente
+
+> "Supongamos que un hombre puede plantar cierta tierra con maíz... cuando haya deducido su semilla, y lo que él mismo ha comido y dado a otros... el resto del maíz es la renta natural y verdadera de la tierra."
+**[Petty, *Treatise on Taxes*, 1662]**
+
+Aquí hay una **anticipación de la teoría del valor-trabajo** y del concepto de excedente económico.
+
+## Petty: mercancía y mercado
+
+En su *Diálogo sobre diamantes*, Petty distinguió:
+
+- El intercambio como **evento casual** (visión del inexperto)
+- El intercambio como **episodio en una red de relaciones regulares** (visión del experto)
+
+::: {.importante}
+La existencia de un mercado permite transformar actos únicos en regularidades con precios predecibles.
+:::
+
+## Petty: precio natural y precio político
+
+**Precio natural**: determinado por el trabajo necesario para producir
+
+**Precio político**: el precio efectivo de mercado, afectado por circunstancias
+
+Esta distinción entre precio "fundamental" y precio de mercado sería retomada por Smith, Ricardo y Marx.
+
+# **3.6 Richard Cantillon** {background="#390040"}
+
+## Richard Cantillon (1680-1734)
+
+> "Si Petty es el padre de la economía política, Cantillon es su primer arquitecto sistemático."
+**[Adaptado de Jevons]**
+
+- Nació en Irlanda, vivió en París, murió misteriosamente en Londres
+- Banquero internacional que hizo fortuna con la burbuja de Mississippi
+- Autor del *Essai sur la nature du commerce en général* (1755)
+
+## El *Essai*: estructura y originalidad
+
+El ensayo de Cantillon es **puramente analítico**, dividido en tres partes:
+
+1. **Organización interna del sistema económico**
+2. **Dinero y circulación monetaria**
+3. **Comercio exterior y cambios**
+
+::: {.importante}
+Influyó profundamente en Quesnay y los fisiócratas, y a través de ellos en Smith.
+:::
+
+## Cantillon: el sistema económico como circulación
+
+Mientras Petty veía al "cuerpo político" como unificado por el poder estatal, Cantillon lo vio como conectado por la **circulación de mercancías**.
+
+> La idea del dinero como "grasa" y las mercancías como "sangre" del cuerpo político.
+
+Cantillon fue el primero en destacar el vínculo entre circulación de mercancías y producción.
+
+## Cantillon: teoría del valor
+
+> "El precio o valor intrínseco de una cosa es la medida de la cantidad de tierra y trabajo que entran en su producción."
+**[Cantillon, *Essai*]**
+
+Distinguió entre:
+
+- **Valor intrínseco**: determinado por factores de producción
+- **Precio de mercado**: determinado por oferta y demanda
+
+## Cantillon: el empresario (*entrepreneur*)
+
+Cantillon introdujo el término en sentido técnico:
+
+> "La circulación e intercambio de bienes es llevada a cabo por empresarios y bajo riesgo."
+**[Cantillon]**
+
+Dividió la sociedad en:
+- Quienes reciben retribución **cierta** (contratados a precio fijo)
+- Quienes especulan sobre el futuro (**empresarios**)
+
+## Cantillon: teoría monetaria
+
+Sobre la relación dinero-precios:
+
+> "De todo esto concluyo que al doblar la cantidad de dinero en un Estado los precios de productos y mercancías no siempre se doblan. Un río que corre y serpentea por su cauce no fluirá con el doble de velocidad cuando la cantidad de agua se duplique."
+**[Cantillon]**
+
+Entendió el **mecanismo de transmisión monetaria**: importa a qué manos llega primero el dinero.
+
+## El "efecto Cantillon"
+
+La forma en que el aumento de dinero afecta los precios depende de **quién recibe el dinero primero**:
+
+- Si llega a quienes tienen baja demanda de dinero → circula rápido → precios suben rápido
+- Si llega a quienes acumulan → precios suben más lento
+
+::: {.importante}
+Esta idea sigue siendo relevante para entender la política monetaria moderna.
+:::
+
+# **3.7 Los fisiócratas** {background="#390040"}
+
+## El contexto de Francia (siglo XVIII)
+
+- Las condiciones eran brutales para la mayoría de la población
+- La política económica dominada por Colbert y el colbertismo
+- Críticas al sistema desde Boisguillebert (1646-1714)
+
+> "[En la campiña] podían observarse animales débiles y maltratados... y de repente una de las criaturas alza la mirada —sorpresa, es un hombre!"
+**[La Bruyère, *The Characters*]**
+
+## François Quesnay (1694-1774)
+
+- Médico de profesión, escribió sobre la circulación de la sangre
+- Asistente personal de Madame de Pompadour en Versailles
+- Líder intelectual de los fisiócratas
+- Creador del *Tableau Économique*
+
+::: {.cita}
+El *Tableau* no era sobre la circulación de la sangre... sino de la riqueza.
+:::
+
+## Rasgos distintivos de la fisiocracia
+
+1. **Posición pro-agricultura** (y anti-manufactura como fuente de riqueza)
+2. **Laissez-faire** relativo frente al gobierno
+3. **Fundamento en la ley natural** (versión simplista)
+
+> "You simply obey the laws of nature" era respuesta común a muchas inquietudes.
+
+## La clasificación fisiocrática
+
+| Clase | Característica | Papel |
+|-------|----------------|-------|
+| **Agricultores** | Productiva | Aplican trabajo a la tierra |
+| **Terratenientes** | Productiva | Aportan "adelantos" (capital) |
+| **Artesanos** | Estéril | No producen nuevo valor |
+
+::: {.importante}
+Solo la agricultura producía un **excedente** (*produit net*).
+:::
+
+## El *Tableau Économique*
+
+El *Tableau* representaba la economía como un **sistema de flujos circulares**:
+
+- Tres columnas: clase productiva, terratenientes, clase estéril
+- El *produit net* se distribuye año tras año
+- Cada clase gasta parte de su ingreso en productos de las otras
+
+**Mérito principal**: ver a la economía como sistema interconectado, tanto en el espacio como en el tiempo.
+
+## Implicaciones de política
+
+De la teoría fisiocrática se deducía que:
+
+- **Todos los impuestos** deberían recaer sobre el *produit net*
+- Los **impuestos intermedios** debían eliminarse
+- Solo los terratenientes debían pagar impuestos
+
+Esta conclusión, aparentemente conservadora, fue de hecho subversiva para el *ancien régime*.
+
+## Turgot (1727-1781)
+
+- Escribió en lenguaje más accesible que Quesnay
+- Simplificó y amplió las ideas fisiocráticas
+- Trató sobre dinero, capital, adelantos
+
+> "There is another way of being wealthy without working and without possessing land... It is necessary to explain its origin."
+**[Turgot, *Reflections*, 1770]**
+
+## ¿Cuál es el estatus del *Tableau*?
+
+| Comparación | Resultado |
+|-------------|-----------|
+| ¿Precedente de Walras? | No: no hay mecanismo de equilibrio |
+| ¿Precedente de Keynes? | No: hay flujo circular pero no multiplicador |
+| ¿Sistema de Leontief? | **Sí**: puede reescribirse como matriz insumo-producto |
+
+# **3.8 La Ilustración y la economía política** {background="#390040"}
+
+## El siglo de las luces
+
+- El siglo XVIII conocido como la **edad de la razón**
+- Fe en el progreso material y cívico guiado por la Razón
+- París como centro de la vida cultural europea
+
+::: {.importante}
+La propia naturaleza humana puede progresar y mejorar.
+:::
+
+## Corrientes de la Ilustración
+
+| Corriente | Características |
+|-----------|-----------------|
+| **Francesa** | Esprit de système, racionalismo cartesiano |
+| **Escocesa** | Moderación, orden espontáneo, empirismo |
+| **Italiana** | Reformismo práctico (Beccaria, Verri) |
+| **Alemana** | Cameralismo, administración estatal |
+
+## Contribuciones económicas de la Ilustración
+
+- Crítica de los **gremios** medievales
+- Revalorización de la **agricultura** sobre el comercio
+- Conceptos de **excedente** y **valor** como fundamentos
+- Preferencia por **salarios altos** (por razones económicas y humanitarias)
+
+# **Cierre y balance** {background="#390040"}
+
+## Síntesis del período
+
+| Autor/Escuela | Aporte principal |
+|---------------|------------------|
+| **Mercantilismo** | Primera política económica sistemática |
+| **Locke** | Propiedad como derecho natural |
+| **Mandeville** | Vicios privados → beneficios públicos |
+| **Hume** | Crítica monetaria al mercantilismo |
+| **Petty** | Aritmética política, medición |
+| **Cantillon** | Primer tratado sistemático |
+| **Fisiócratas** | Economía como sistema circular |
+
+## Preguntas para reflexionar
+
+1. ¿Por qué la obsesión con la balanza comercial persiste a pesar de 250 años de críticas?
+2. ¿Qué se gana y qué se pierde cuando la economía se separa de la filosofía moral?
+3. Si Petty y Cantillon fueron tan brillantes, ¿por qué Adam Smith se lleva todo el crédito?
+4. ¿Qué aspectos del mercantilismo podrían tener sentido en países en desarrollo hoy?
+
+# **Bibliografía** {background="#390040"}
+
+## Lectura base
+
+- **Roncaglia, A. (2006).** *La riqueza de las ideas*. Capítulos 3-4.
+
+## Lecturas complementarias
+
+- **Ekelund, R.B. y Hébert, R.F. (2005).** *Historia de la teoría económica y de su método*. Capítulos 3-5.
+- **Schumpeter, J.A. (1954).** *History of Economic Analysis*. Part II, Caps. 3-6.
+- **Heckscher, E. (1935).** *Mercantilism*.
+- **Locke, J. (1690).** *Two Treatises of Government*.
+- **Mandeville, B. (1714).** *The Fable of the Bees*.

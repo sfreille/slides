@@ -1,0 +1,188 @@
+---
+title: "Historia del Pensamiento y del Análisis Económico"
+subtitle: "U2 (versión Roncaglia). La prehistoria de la economía política"
+author: "Sebastián Freille"
+institute: "Facultad de Ciencias Económicas, UNC"
+date: today
+format:
+  revealjs:
+    theme: theme-hpae.scss
+    embed-resources: true
+    slide-number: true
+    toc: true
+    toc-depth: 1
+    toc-title: "Contenidos"
+    width: 1500
+    height: 900
+lang: es
+execute:
+  echo: false
+  warning: false
+---
+
+# **2. La prehistoria de la economía política** {background="#390040"}
+
+## 2.1 ¿Por qué "prehistoria"?
+
+- La economía política **no nace de golpe**: se forma lentamente entre Antigüedad y siglos XVII-XVIII
+- En esta etapa, la reflexión económica todavía **no es disciplina autónoma**
+- Predomina la mezcla entre:
+  - pregunta **moral**: qué conducta es justa
+  - pregunta **científica**: cómo funciona una sociedad basada en división del trabajo
+
+::: {.importante}
+La tesis de Roncaglia: no hay "vacío" absoluto, hay un proceso largo y desigual de maduración.
+:::
+
+## Del problema moral al problema científico
+
+- Antigüedad y Medioevo: fuerte enfoque deontológico (reglas absolutas)
+- Con la modernidad: creciente interés por relaciones causales y regularidades
+- La economía política heredará ambos registros: **normativo** y **positivo**
+
+## Coordenadas del capítulo 2
+
+1. Antigüedad clásica
+2. Patrística
+3. Escolástica
+4. Usura y precio justo
+5. Bullonistas y mercantilistas
+6. Nacimiento en Italia: Antonio Serra
+
+# **2.2 La Antigüedad clásica** {background="#390040"}
+
+## Huellas tempranas del pensamiento económico
+
+- Mesopotamia: reglas normativas (Código de Hammurabi)
+- Biblia: trabajo, propiedad, deuda, justicia
+- India y China: Estado, administración, precios, escasez
+
+## Grecia: economía como oikonomía
+
+- "Economía" = administración de la casa (oikos + nomos)
+- La reflexión económica aparece dentro de filosofía política y ética
+- Enfoque dominante: **administrativo**, no teoría de mercados en sentido moderno
+
+## Platón
+
+- División del trabajo basada en diferencias "naturales"
+- Visión de orden social rígido
+- Desconfianza frente al comercio y la movilidad social
+
+## Aristóteles
+
+- Distinción valor de uso / valor de cambio
+- Dinero: medio de cambio y medida
+- Condena de la usura y de la crematística "antinatural"
+
+::: {.importante}
+Aporta categorías potentes, pero no una teoría sistemática del valor/precio.
+:::
+
+# **2.3 El pensamiento patrístico** {background="#390040"}
+
+## Del cristianismo primitivo a religión de Estado
+
+- Padres de la Iglesia: prioridad en salvación y moral
+- Menor interés en mecanismos económicos, mayor en reglas de conducta
+- Tema clave: diferencia entre ideales de perfección y normas para la comunidad
+
+## Propiedad, limosna y esclavitud
+
+- Tendencia a ver la propiedad privada como institución histórica, no absoluta
+- Limosna: deber moral, pero sin cuestionar plenamente jerarquías sociales
+- Esclavitud: aceptada como hecho de época, con igualdad solo en plano espiritual
+
+## Comercio y trabajo
+
+- Trabajo valorado positivamente como deber
+- Comercio tolerado con cautela moral
+- Se prepara el terreno para discusiones medievales sobre precio justo/usura
+
+# **2.4 Los escolásticos** {background="#390040"}
+
+## Método y problema central
+
+- Objetivo principal: norma moral del comportamiento económico
+- Método de autoridad y casuística
+- Se preserva y reelabora herencia aristotélica
+
+## Aportes relevantes
+
+- Mayor precisión conceptual en intercambio, contrato, propiedad
+- Reconocimiento de que vida social requiere cooperación e instituciones
+- Discusión sofisticada sobre comunidad, individuo y bien común
+
+# **2.5 Usura y precio justo** {background="#390040"}
+
+## Usura
+
+- Condena general del interés, con excepciones prácticas graduales
+- Distinción entre:
+  - *damnum emergens*
+  - *lucrum cessans*
+- Transición lenta hacia tolerancia de formas de interés
+
+## Precio justo
+
+- Referencia frecuente al precio de mercado "común" en ausencia de fraude
+- Mercado medieval no competitivo en sentido moderno
+- Importan utilidad, escasez, costos y jerarquía social
+
+::: {.cita}
+El problema no era describir "equilibrio", sino evaluar justicia del intercambio.
+:::
+
+# **2.6 Bullonistas y mercantilistas** {background="#390040"}
+
+## Nuevo actor: el consejero del príncipe
+
+- Cambia el foco: poder del Estado y riqueza nacional
+- El debate económico sale parcialmente del marco teológico
+- Comercio exterior, moneda, balanza comercial y manufacturas ganan centralidad
+
+## Más que "amor al oro"
+
+- Lectura simplista: riqueza = metales preciosos
+- Lectura más fina: dinero como indicador de dinamismo productivo y comercial
+- Aporte histórico: construcción institucional del Estado nacional
+
+# **2.7 El nacimiento en Italia: Antonio Serra** {background="#390040"}
+
+## Antonio Serra (1613)
+
+- Analiza por qué Nápoles pierde dinero frente a otras economías
+- Conecta escasez monetaria con **debilidad productiva**
+- Enfatiza manufacturas, comercio e instituciones
+
+## ¿Por qué importa Serra?
+
+- No identifica mecánicamente riqueza con oro/plata
+- Vincula frente real y monetario
+- Anticipa una mirada de economía política más sistemática
+
+# **Cierre del capítulo 2** {background="#390040"}
+
+## Balance general
+
+- La "prehistoria" deja conceptos clave: trabajo, valor, precio, dinero, justicia
+- También deja ambigüedades metodológicas entre moral y ciencia
+- El siguiente paso será la formalización inicial con **William Petty**
+
+## Preguntas para discusión
+
+1. ¿Qué se gana y qué se pierde cuando economía y ética se separan?
+2. ¿Tiene sentido recuperar hoy una versión del "precio justo"?
+3. ¿Mercantilismo: error teórico o etapa funcional del desarrollo estatal?
+
+# **Bibliografía** {background="#390040"}
+
+## Lectura base
+
+- **Roncaglia, A. (2006).** *La riqueza de las ideas*. Capítulo 2.
+
+## Complementarias
+
+- **Schumpeter, J.A. (1954).** *History of Economic Analysis*.
+- **Lowry, S.T. (2003).** Ancient and Medieval Economics.
+- **Ekelund, R.B. y Hébert, R.F. (2005).** *Historia de la teoría económica y de su método*.

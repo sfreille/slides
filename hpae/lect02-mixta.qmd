@@ -1,0 +1,204 @@
+---
+title: "Historia del Pensamiento y del Análisis Económico"
+subtitle: "U2 (versión mixta). Desde los inicios hasta fines de la Edad Media"
+author: "Sebastián Freille"
+institute: "Facultad de Ciencias Económicas, UNC"
+date: today
+format:
+  revealjs:
+    theme: theme-hpae.scss
+    embed-resources: true
+    slide-number: true
+    toc: true
+    toc-depth: 1
+    toc-title: "Contenidos"
+    width: 1500
+    height: 900
+lang: es
+execute:
+  echo: false
+  warning: false
+---
+
+# **El pensamiento económico antes del capitalismo** {background="#390040"}
+
+## ¿Economía antes del capitalismo?
+
+::: {.cita}
+"Wealth consists not in having great possessions but in having few wants." \
+**[Epicteto]**
+:::
+
+- Durante milenios, la "economía" no era una disciplina separada
+- Los pensadores antiguos se enfocaban en consecuencias morales y políticas
+- No había marco científico en sentido moderno
+
+## ¿Por qué nos importa este período?
+
+- Nacen conceptos que aún usamos: valor, precio justo, dinero, división del trabajo
+- La economía queda ligada a ética, religión y política
+- Se construye el puente hacia la economía política moderna
+
+# **Marco Roncaglia: por qué "prehistoria"** {background="#390040"}
+
+## Dos preguntas que nacen juntas
+
+1. **Pregunta moral**: qué conducta económica es justa
+2. **Pregunta científica**: cómo funciona una sociedad con división del trabajo
+
+::: {.importante}
+Roncaglia insiste en que la disciplina nace de la tensión entre estas dos preguntas.
+:::
+
+## "Prehistoria" no significa "vacío"
+
+- No hay teoría sistemática moderna
+- Sí hay discusiones sustantivas sobre intercambio, propiedad, dinero, trabajo
+- El cambio clave ocurre cuando los problemas económicos pasan a formularse como problemas analíticos
+
+# **Contexto y características del período** {background="#390040"}
+
+## La actividad económica en el mundo antiguo
+
+- Economía de autosuficiencia predominante
+- Mercados limitados e irregulares
+- Esclavitud y servidumbre como base del orden productivo
+- Fuerte peso de tradición, autoridad y jerarquía
+
+## Tres tradiciones fundamentales
+
+| Tradición | Enfoque | Ejemplos |
+|-----------|---------|----------|
+| **Administrativa** | Gestión estatal | Egipto, Mesopotamia, China |
+| **Moral** | Religión y ética | Profetas hebreos, Aristóteles, escolásticos |
+| **Analítica** | Valor, intercambio, especialización | Aristóteles, algunos escolásticos |
+
+# **La tradición administrativa** {background="#390040"}
+
+## Egipto, Mesopotamia y monarquías antiguas
+
+- Registros, tributación y control estatal temprano
+- Coordinación de producción agrícola
+- Contabilidad pública y capacidad administrativa
+
+## China e India
+
+- En China aparecen intuiciones sobre escasez y precios (Guan Zhong)
+- En India (*Arthashastra*), Estado y riqueza se piensan de manera integrada
+
+# **Grecia clásica** {background="#390040"}
+
+## Platón
+
+- División del trabajo como base de la polis
+- Sociedad rígida y ordenada por funciones
+- Desconfianza hacia comercio, lujo e innovación
+
+## Aristóteles
+
+- Defensa de propiedad privada frente al comunalismo platónico
+- Distinción entre economía natural y crematística
+- Valor de uso/valor de cambio y funciones del dinero
+
+::: {.importante}
+Gran productividad conceptual, pero sin teoría completa de precios/distribución.
+:::
+
+# **Del "gran vacío" a las tradiciones olvidadas** {background="#390040"}
+
+## Schumpeter y su tesis
+
+- Schumpeter minimiza siglos intermedios entre Grecia y escolástica tardía
+- La investigación reciente relativiza esa lectura
+
+## Ibn Jaldún
+
+- División del trabajo, precios, impuestos y ciclos
+- Relación entre cohesión social y prosperidad
+- Aporte crucial para romper la idea de discontinuidad total
+
+# **Patrística (bloque incorporado)** {background="#390040"}
+
+## Padres de la Iglesia
+
+- Propiedad privada: tolerada como institución histórica
+- Limosna: obligación moral
+- Esclavitud: aceptada como hecho social, no como ideal
+- Comercio: permitido con cautela ética
+
+::: {.importante}
+No construyen teoría económica autónoma, pero moldean el marco normativo medieval.
+:::
+
+# **La escolástica y el pensamiento medieval** {background="#390040"}
+
+## Método y foco
+
+- Debate por autoridad, comentario y casuística
+- Tema central: justicia del intercambio
+- Santo Tomás y tradición tomista en el centro
+
+## Precio justo
+
+- Referencia al precio de mercado "común" (sin fraude/monopolio)
+- Mercado medieval no competitivo en sentido moderno
+- Relevan utilidad, escasez y costo socialmente aceptado
+
+## Usura
+
+- Condena general, luego excepciones y gradaciones
+- Distinciones como *damnum emergens* y *lucrum cessans*
+- Proceso lento de flexibilización
+
+# **Transición mercantil (bloque incorporado)** {background="#390040"}
+
+## Bullonistas y mercantilistas
+
+- Nuevo centro: riqueza del Estado y competencia internacional
+- Comercio exterior, balanza comercial, manufacturas
+- Intervención pública como instrumento de poder nacional
+
+## Lectura fina
+
+- No todos reducen riqueza a metales preciosos
+- En varios autores, el frente monetario refleja fortaleza productiva
+
+# **Antonio Serra (bloque incorporado)** {background="#390040"}
+
+## Serra como bisagra
+
+- Analiza Nápoles: escasez monetaria vinculada a estructura productiva débil
+- Incluye comercio, manufactura e instituciones en un mismo diagnóstico
+- Señala pasaje hacia economía política más analítica
+
+# **Valoración e importancia** {background="#390040"}
+
+## Aportes del período
+
+- Valor de uso/valor de cambio
+- Funciones del dinero
+- División del trabajo
+- Precio justo y justicia conmutativa
+
+## Límites del período
+
+- Fuerte mezcla de análisis positivo y normativo
+- Ausencia de teoría sistemática integrada
+- Debilidad de instrumentos empíricos y estadísticos
+
+# **Cierre de la clase** {background="#390040"}
+
+## Tres preguntas para pensar
+
+1. ¿Por qué tardó tanto en separarse economía de moral y política?
+2. ¿Qué parte del debate medieval sobre precio justo sigue viva hoy?
+3. ¿Qué hereda Petty de esta "prehistoria" y qué rompe?
+
+# **Bibliografía** {background="#390040"}
+
+## Lecturas principales
+
+- **Roncaglia, A. (2006).** *La riqueza de las ideas*. Capítulo 2.
+- **Ekelund, R.B. y Hébert, R.F. (2005).** *Historia de la teoría económica y de su método*. Cap. 1-2.
+- **Schumpeter, J.A. (1954).** *History of Economic Analysis*.
+- **Lowry, S.T. (2003).** Ancient and Medieval Economics.
