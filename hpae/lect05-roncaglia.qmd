@@ -1,0 +1,463 @@
+---
+title: "Historia del Pensamiento y del Análisis Económico"
+subtitle: "U4 (versión Roncaglia). La economía política clásica: Smith, Malthus, Bentham, Ricardo, Mill"
+author: "Sebastián Freille"
+institute: "Facultad de Ciencias Económicas, UNC"
+date: today
+format:
+  revealjs:
+    theme: theme-hpae.scss
+    embed-resources: true
+    slide-number: true
+    toc: true
+    toc-depth: 1
+    toc-title: "Contenidos"
+    width: 1500
+    height: 900
+lang: es
+execute:
+  echo: false
+  warning: false
+---
+
+# **4. La economía política clásica** {background="#390040"}
+
+## El nacimiento de la economía como disciplina
+
+- La economía política **nace como disciplina autónoma** en el siglo XVIII
+- Adam Smith sintetiza y supera las contribuciones previas
+- Se pasa de observaciones aisladas a un **sistema analítico coherente**
+- Aparece la noción de **leyes económicas** que gobiernan la sociedad
+
+::: {.importante}
+La escuela clásica establece los fundamentos del análisis económico moderno.
+:::
+
+## Coordenadas del pensamiento clásico
+
+1. **Adam Smith**: División del trabajo, precios y crecimiento
+2. **Malthus y Bentham**: Población y utilidad
+3. **David Ricardo**: Renta, valor-trabajo, distribución
+4. **J.S. Mill**: Síntesis y reformismo
+
+# **5. Adam Smith (1723-1790)** {background="#390040"}
+
+## 5.1 Vida y formación
+
+- Nació en Kirkaldy, Escocia, en 1723
+- **Universidad de Glasgow (1737)**: Alumno de Francis Hutcheson
+- **Balliol College, Oxford (1740-1746)**: Experiencia negativa, sistema autoritario
+- 1751: Profesor de Filosofía Moral en Glasgow
+- 1759: Publica *La Teoría de los Sentimientos Morales*
+- 1776: Publica *La Riqueza de las Naciones*
+
+## El viaje al continente
+
+- En 1764 renuncia a su cátedra para ser tutor del duque de Buccleuch
+- Viaja a Francia y conoce a:
+  - **Voltaire** en Ginebra
+  - **D'Alembert** y **Quesnay** en París
+- La viveza de los salones parisinos estimuló su trabajo posterior
+- Entre 1767 y 1776 escribe *La Riqueza de las Naciones* en Kirkaldy
+
+## 5.2 Método
+
+- Smith adopta una **metodología flexible y ecléctica**
+- Los "sistemas filosóficos" son "meras invenciones de la imaginación"
+- Rechaza la idea de **leyes naturales objetivas** al estilo de Galileo
+- Sigue a David Hume en su escepticismo epistemológico
+
+::: {.cita}
+El intelectual tiene un papel activo: **crea** más que descubre las teorías.
+:::
+
+## 5.3 El principio moral de la simpatía
+
+- La **simpatía** es la capacidad de compartir los sentimientos de otros
+- "La parte principal de la felicidad humana procede de la conciencia de ser amado"
+- El **espectador imparcial** como juez de nuestras acciones
+
+::: {.importante}
+La sociedad no puede subsistir entre aquellos que siempre están dispuestos a dañar y perjudicar a otro.
+:::
+
+## Dos libros, un sistema
+
+| **Teoría de los Sentimientos Morales (1759)** | **La Riqueza de las Naciones (1776)** |
+|-----------------------------------------------|---------------------------------------|
+| La simpatía como base de la moral | El interés propio como motor económico |
+| El "espectador imparcial" | La "mano invisible" |
+| La naturaleza humana es social | El mercado coordina decisiones |
+
+::: {.importante}
+No hay contradicción: el interés personal incluye el deseo de ser amado por los demás.
+:::
+
+## 5.4 La riqueza de las naciones
+
+- **Riqueza** = renta per cápita = nivel de vida de los ciudadanos
+- Abandona la visión mercantilista (riqueza = poder del Estado)
+- La renta nacional ($Y$) depende de:
+  - Productividad del trabajo ($\pi$)
+  - Número de trabajadores ($L$)
+
+$$Y = \pi \cdot L \quad \Rightarrow \quad \frac{Y}{N} = \pi \cdot \frac{L}{N}$$
+
+## La división del trabajo
+
+- La productividad depende del **nivel de división del trabajo**
+- La división del trabajo depende de la **dimensión de los mercados**
+- Famoso ejemplo de la **fábrica de alfileres**:
+  - Un trabajador solo: 10-20 alfileres/día
+  - Diez trabajadores especializados: 48,000 alfileres/día
+
+## Tres causas del aumento de productividad
+
+1. **Mayor destreza** del trabajador especializado
+2. **Ahorro de tiempo** que se pierde cambiando de tarea
+3. **Progreso técnico** inducido por la especialización
+
+::: {.cita}
+"El mayor progreso en las fuerzas productivas del trabajo parece haber sido efecto de la división del trabajo."
+:::
+
+## 5.5 Teoría del valor
+
+- Distinción entre **valor de uso** y **valor de cambio**
+- La **paradoja del valor**: el agua es útil pero barata; el diamante es inútil pero caro
+- Los clásicos no pudieron resolverla (faltaba el concepto de **utilidad marginal**)
+
+## Precio natural y precio de mercado
+
+- **Precio natural**: costo de producción a largo plazo
+  - Salarios + beneficios + rentas a tasas "naturales"
+- **Precio de mercado**: determinado por oferta y demanda a corto plazo
+- El precio de mercado **gravita** hacia el precio natural
+
+::: {.importante}
+Aquí juega el rol del egoísmo y la competencia para ajustar el mercado.
+:::
+
+## 5.6 Distribución de la renta
+
+Smith dividió a la sociedad en **tres clases**:
+
+| Clase | Factor | Retribución |
+|-------|--------|-------------|
+| Trabajadores | Trabajo | Salario (w) |
+| Capitalistas | Capital | Beneficio (π) |
+| Terratenientes | Tierra | Renta (r) |
+
+## Salarios
+
+- A largo plazo: tienden al **nivel de subsistencia**
+- A corto plazo: pueden variar según oferta y demanda
+- En economías en crecimiento: salarios pueden estar por encima de subsistencia
+- Diferencias salariales por: riesgo, aprendizaje, confianza, probabilidad de éxito
+
+## Beneficio y renta
+
+**Beneficio**:
+- Retorno del capital + compensación por riesgo
+- Tiende a **bajar** con la acumulación (más competencia)
+
+**Renta**:
+- Es un **residuo** después de salarios y beneficios
+- La renta alta es **consecuencia** del precio, no su causa
+
+## 5.7 Teoría del crecimiento
+
+- La **división del trabajo** pone en marcha el proceso
+- La **acumulación de capital** lo mantiene
+- La acumulación amplía el fondo de salarios → más trabajadores → más producto
+
+::: {.importante}
+El crecimiento es un fenómeno continuo; la restricción última es encontrar inversiones rentables.
+:::
+
+## 5.8 Liberalismo económico y político
+
+- Todo obstáculo al comercio frena la división del trabajo
+- La competencia limita el egoísmo y asegura el bienestar social
+- Pero Smith **no era un apologista del capitalismo sin restricciones**:
+  - Criticó monopolios y coaliciones empresariales
+  - Advirtió sobre la influencia de comerciantes en el gobierno
+
+# **6. La época de la Revolución Francesa** {background="#390040"}
+
+## 6.1 Perfectibilidad vs. conservadurismo
+
+- La Revolución Francesa planteó preguntas decisivas:
+  - ¿Puede un cambio institucional mejorar la sociedad?
+  - ¿Justifican los costes (violencia) las ventajas?
+- **Reformistas**: Turgot, Condorcet, Smith
+- **Conservadores**: Necker, Malthus
+
+## 6.2 Malthus y el principio de población
+
+- Thomas Robert Malthus (1766-1834)
+- **Ensayo sobre el principio de población** (1798)
+- Respuesta conservadora a las ideas de Godwin
+
+## El principio de población
+
+> La producción agrícola crece en **proporción aritmética**, mientras que la población crece en **proporción geométrica**.
+
+- El crecimiento de la población está limitado por los medios de subsistencia
+- Si hay excedente → crece la población → presión sobre recursos → vuelta al equilibrio
+
+## Mecanismo del ajuste
+
+1. Población por encima de subsistencia → crece
+2. Aumenta demanda de alimentos → sube precio
+3. Caen salarios reales → mayor mortalidad / menor natalidad
+4. Población vuelve al equilibrio
+
+## Frenos preventivos
+
+- Senda de la **"virtud"**: castidad y continencia
+- Senda del **"vicio"**: anticoncepción (neomaltusianos)
+
+::: {.importante}
+Para Malthus, las medidas contra la pobreza son contraproducentes.
+:::
+
+## 6.3 La "ley de bronce de los salarios"
+
+- Ricardo y otros usaron el principio maltusiano para defender que:
+  - El salario tiende a oscilar alrededor del **nivel de subsistencia**
+  - Nivel interpretado en términos **sociales**, no meramente biológicos
+
+## Críticas al principio de población
+
+- **Desfase temporal**: efectos solo visibles 14-16 años después
+- Presupone **ausencia de progreso tecnológico** agrícola
+- La historia refuta la teoría: hoy menos población produce más alimentos
+
+## La "ciencia lúgubre"
+
+- El pesimismo maltusiano identificó a la economía como "ciencia lúgubre"
+- Contribuyó a la separación entre teoría económica y cuestiones sociales
+- Preparó el camino para la revolución marginalista
+
+## 6.4 La "ley de Say"
+
+- Jean-Baptiste Say (1767-1832)
+- Formulación simple: **"la oferta crea su propia demanda"**
+
+## Dos versiones de la ley
+
+| **Identidad de Say** | **Igualdad de Say** |
+|----------------------|---------------------|
+| Oferta agregada = demanda agregada (siempre) | Desequilibrios temporales posibles |
+| No hay crisis de sobreproducción | Fuerzas equilibradoras los corrigen |
+
+## 6.5 Jeremy Bentham y el utilitarismo
+
+- Jeremy Bentham (1748-1832)
+- **Principio de utilidad**: la mayor felicidad para el mayor número
+- Placer y dolor como únicos motivos de acción humana
+- "Felicific calculus": cálculo de placeres y dolores
+
+::: {.importante}
+El utilitarismo benthamita reduce las motivaciones humanas a una sola dimensión.
+:::
+
+# **7. David Ricardo (1772-1823)** {background="#390040"}
+
+## 7.1 Vida
+
+- Hijo de un agente de bolsa judío sefardí
+- Hizo fortuna en la bolsa antes de los 30 años
+- 1799: Lee *La Riqueza de las Naciones* y se convierte en economista
+- 1817: Publica *Principios de Economía Política y Tributación*
+- Desde 1819: Miembro del Parlamento
+
+## Enfoque metodológico
+
+- Más **abstracto y riguroso** que Smith
+- Construyó un "edificio analítico meticuloso"
+- Concentró su atención en problemas específicos
+- Priorizó el rigor lógico y la precisión
+
+## 7.2 La teoría de la renta diferencial
+
+- La renta surge porque la tierra es **escasa y de calidad desigual**
+- Se cultivan primero las mejores tierras
+- La renta de las mejores tierras = diferencia de productividad con la **tierra marginal**
+
+::: {.cita}
+"La renta es la porción del producto de la tierra que se paga al terrateniente por el uso de las fuerzas originales e indestructibles del suelo."
+:::
+
+## Margen extensivo e intensivo
+
+- **Margen extensivo**: ampliación a tierras nuevas (menos fértiles)
+- **Margen intensivo**: más factores aplicados a la misma tierra
+
+::: {.importante}
+Ricardo demostró que existen rendimientos decrecientes en ambos márgenes.
+:::
+
+## 7.3 La teoría del valor-trabajo
+
+- El valor de las mercancías es proporcional al **trabajo necesario** para producirlas
+- Incluye el trabajo "incorporado" en el capital (trabajo indirecto)
+- Crítica a Smith: un aumento del salario no aumenta el precio
+
+## Problemas de la teoría
+
+- El capital tiene diferentes durabilidades → afecta precios relativos
+- Diferentes proporciones capital/trabajo en sectores
+- A lo sumo, es una teoría **aproximada** de los precios relativos
+
+## 7.4 Distribución y crecimiento
+
+- El problema central: **distribución del excedente** entre rentas y beneficios
+- Los trabajadores reciben salario de subsistencia
+- Las rentas y beneficios forman el **excedente**
+
+## Conflicto distributivo
+
+- **Terratenientes**: consumen rentas en lujo
+- **Capitalistas**: invierten sus beneficios
+- El **desarrollo económico** depende de los beneficios
+- A medida que crece la economía: suben rentas, bajan beneficios
+
+## El estado estacionario
+
+- El crecimiento lleva a cultivar tierras peores
+- Aumentan los costes → aumentan las rentas → caen los beneficios
+- Eventualmente se llega a un **estado estacionario**
+
+::: {.importante}
+El resultado lógico del crecimiento es el estancamiento (sin progreso técnico).
+:::
+
+## 7.5 La teoría de la ventaja comparativa
+
+- Incluso si un país es **menos eficiente en todo**, puede beneficiarse del comercio
+- Lo que importa son los **costos relativos**, no absolutos
+
+| País | Vino (horas) | Tela (horas) |
+|------|--------------|--------------|
+| Portugal | 80 | 90 |
+| Inglaterra | 120 | 100 |
+
+Portugal debe especializarse en vino; Inglaterra en tela.
+
+## Política económica
+
+- Ricardo abogaba por eliminar obstáculos al comercio internacional
+- Particularmente los derechos sobre productos agrícolas (Leyes de Granos)
+- Su teoría expresaba el **conflicto** entre terratenientes y burguesía manufacturera
+
+# **8. John Stuart Mill (1806-1873)** {background="#390040"}
+
+## 8.1 Vida y formación
+
+- Hijo de James Mill (economista y filósofo)
+- Educación extraordinaria: griego a los 3 años, economía a los 13
+- 1848: Publica *Principios de Economía Política*
+- También filósofo político: defensor del utilitarismo, la libertad y los derechos de las mujeres
+
+## 8.2 Mill como sintetizador
+
+- Objetivo: **sistematizar y actualizar** la economía clásica
+- Incorporó elementos de críticos como Malthus y los socialistas
+- Su obra fue el principal texto de economía durante varias décadas
+
+## 8.3 La distinción producción/distribución
+
+> "Las leyes de la producción participan del carácter de verdades físicas. No hay nada opcional en ellas. No es así con la distribución de la riqueza. Esa es una cuestión de instituciones humanas."
+
+::: {.importante}
+La distribución puede ser modificada por la **política**.
+:::
+
+## 8.4 El estado estacionario
+
+- Mill aceptó que el crecimiento eventualmente se detendría
+- Pero **no lo vio como algo negativo**:
+
+> "No me encanta el ideal de vida de aquellos que piensan que el estado normal del ser humano es una lucha por avanzar."
+
+- En el estado estacionario: dedicarse a la cultura y el bienestar
+
+## 8.5 Reformismo de Mill
+
+- Abrió la puerta a reformas sociales sin rechazar el capitalismo
+- Defendió:
+  - Educación pública
+  - Derechos de las mujeres
+  - Cooperativas de trabajadores
+  - Reformas agrarias
+
+# **9. Valoración e importancia** {background="#390040"}
+
+## Contribuciones perdurables
+
+| Autor | Contribución principal |
+|-------|------------------------|
+| **Smith** | Sistema económico como orden espontáneo |
+| **Malthus** | Principio de población (aunque criticado) |
+| **Ricardo** | Ventaja comparativa, renta diferencial |
+| **Mill** | Distinción producción/distribución |
+
+## Ideas que perduran
+
+- División del trabajo y especialización
+- Ventaja comparativa en comercio
+- Precios como señales de escasez
+- Competencia como disciplinador
+
+## Ideas superadas
+
+- Teoría del valor-trabajo → utilidad marginal
+- Salarios de subsistencia → refutados por la historia
+- Pesimismo sobre crecimiento → el progreso técnico cambió todo
+
+## Caminos abiertos
+
+- El mercado como mecanismo de coordinación
+- El comercio internacional como juego de suma positiva
+- La distribución como cuestión política
+
+## Caminos cerrados (temporalmente)
+
+- Teoría subjetiva del valor (redescubierta por marginalistas)
+- Rol de la demanda en determinación de precios
+- Análisis del equilibrio general
+
+# **10. Resumiendo** {background="#390040"}
+
+## Ideas clave (I)
+
+- **Smith fundó la economía como sistema**: mostró cómo el mercado coordina decisiones descentralizadas
+- **La mano invisible tiene condiciones**: funciona bajo competencia, no con monopolios
+- **El principio de población** dominó el debate pero fue refutado por la historia
+
+## Ideas clave (II)
+
+- **Ricardo formalizó el análisis**: ventaja comparativa y renta diferencial siguen vigentes
+- **La distribución es política**: Mill mostró que podemos cambiar las reglas del juego
+- **Los clásicos dejaron problemas sin resolver**: la teoría del valor esperaría a la revolución marginalista
+
+## Preguntas para reflexionar
+
+1. ¿Por qué la "mano invisible" se usa para defender políticas que Smith habría rechazado?
+2. ¿Por qué hay tanta oposición al libre comercio si Ricardo tenía razón?
+3. ¿Es sostenible la distinción de Mill entre producción y distribución?
+4. ¿Por qué los clásicos no pudieron resolver la paradoja del valor?
+
+# **Bibliografía** {background="#390040"}
+
+## Lectura base
+
+- **Roncaglia, A. (2006).** *La riqueza de las ideas*. Capítulos 5-8.
+
+## Complementarias
+
+- **Schumpeter, J.A. (1954).** *History of Economic Analysis*.
+- **Ekelund, R.B. y Hébert, R.F. (2005).** *Historia de la teoría económica y de su método*.
+- **Blaug, M. (1985).** *Economic Theory in Retrospect*.
