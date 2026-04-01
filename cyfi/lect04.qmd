@@ -23,7 +23,7 @@ subtitle: Comercio y Finanzas Internacionales
 
 ## El modelo de Heckscher-Ohlin
 
-- Tabmién conocidocomo **modelo de proporciones factoriales***, el
+- También conocido como **modelo de proporciones factoriales**, el
   modelo o de Heckscher-Ohlin propone que las diferencias de factores
   son la *única* fuente de comercio entre los países. Dos elementos
   son claves:
@@ -451,17 +451,67 @@ V=P_{T}Q_{T}+P_{A}Q_{A}
   bienes capital-intensivo e importar bienes trabajo-intensivo
   - estudio encontró justo lo opuesto $\longrightarrow$ de 1945 a 1970
     $X$ de EEUU menos intensivas en capital que las $M$ 
-	- conocida como la **paradoja de Leontieff**
-- 
+	- conocida como la **paradoja de Leontief**
 
 
 ## Argumentos y predicciones del modelo H-O (cont.)
 
-| **Variable**                             	| **IMP**   	| **ExP**   	|
+| **Variable**                             	| **IMP**   	| **EXP**   	|
 |------------------------------------------	|-----------	|-----------	|
 | K (por millón U\$S)                       	| 2.132.000 	| 1.876.000 	|
 | L (persona/año, millón U\$S)              	| 119       	| 131       	|
-| K/L (U$S por trabajador)                 	| 17916     	| 14321     	|
-| Promedio años educacion (por trabajador) 	| 9.9       	| 10.1      	|
-| Prop. Ing. y Cientif. sobre total L      	| 0.0189    	| 0.0255    	|
+| K/L (U\$S por trabajador)                 	| 17916     	| 14321     	|
+| Promedio años educación (por trabajador) 	| 9.9       	| 10.1      	|
+| Prop. Ing. y Científ. sobre total L      	| 0.0189    	| 0.0255    	|
+
+## La paradoja de Leontief: explicaciones
+
+- La paradoja generó un intenso debate académico. Varias explicaciones
+  fueron propuestas:
+  1. **Capital humano** $\longrightarrow$ EEUU es abundante en trabajo
+     *calificado*, no en trabajo en general. Las $X$ de EEUU son
+     intensivas en trabajo calificado
+  2. **Recursos naturales** $\longrightarrow$ muchas $M$ de EEUU son
+     intensivas en recursos naturales (petróleo, minerales) que
+     requieren mucho capital para su extracción
+  3. **Barreras comerciales** $\longrightarrow$ EEUU protegía sectores
+     intensivos en trabajo no calificado, distorsionando el patrón de
+     comercio
+
+## La paradoja de Leontief: explicaciones (cont.)
+
+- La evidencia en la tabla anterior muestra que las $X$ de EEUU
+  utilizan más trabajo por unidad de capital, pero:
+  - Mayor promedio de años de educación por trabajador (10.1 vs 9.9)
+  - Mayor proporción de ingenieros y científicos (2.55% vs 1.89%)
+- Esto sugiere que EEUU exporta bienes intensivos en **trabajo
+  calificado** (capital humano) e importa bienes intensivos en
+  **trabajo no calificado**
+  
+## Contrastes empíricos modernos
+
+- Estudios posteriores incorporaron el **capital humano** como factor
+  separado y encontraron resultados más consistentes con H-O
+- El modelo H-O funciona mejor cuando se consideran:
+  1. Múltiples factores (no sólo $K$ y $L$)
+  2. Diferencias tecnológicas entre países
+  3. Costos de comercio y barreras
+- Evidencia reciente usando **comercio en valor agregado** muestra que
+  el contenido factorial del comercio se ajusta mejor a las
+  predicciones de H-O
+
+## Resumen del modelo H-O
+
+- El modelo H-O explica el comercio a partir de las **diferencias en
+  dotaciones factoriales** entre países
+- Predicciones clave:
+  1. Países exportan bienes intensivos en su factor abundante
+  2. El comercio afecta la distribución de la renta --beneficia al
+     factor abundante, perjudica al factor escaso
+  3. Tendencia a la igualación de precios de factores
+- Limitaciones:
+  - Supuestos muy restrictivos (tecnología idéntica, sin costos de
+    transporte)
+  - Paradoja de Leontief mostró necesidad de considerar capital humano
+  - No explica comercio intraindustrial
 

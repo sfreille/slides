@@ -240,3 +240,244 @@ P_{T}Q_{T}+P_{A}Q_{A}=P_{T}D_{T}+P_{A}D_{A}
 ## OR mundial y relación de intercambio (cont.)
 
 ![Crecimiento sesgado y OR](../_shared/images/cyfi/fig-diagram-optimal-tariff.png) 
+
+## Efectos del crecimiento en el resto del mundo
+
+- ¿Qué pasa si el crecimiento sesgado ocurre en el **país extranjero**
+  en lugar del nuestro?
+- Si el extranjero tiene crecimiento sesgado hacia $A$ (su bien de
+  exportación):
+  - Aumenta la OR mundial de $A$ relativo a $T$
+  - Disminuye $\frac{P_{A}}{P_{T}}$ $\longrightarrow$ aumenta
+    $\frac{P_{T}}{P_{A}}$
+  - **Mejora** la relación de intercambio de nuestro país
+- Si el extranjero tiene crecimiento sesgado hacia $T$ (su bien de
+  importación):
+  - **Empeora** la relación de intercambio de nuestro país
+
+## Efectos del crecimiento: resumen
+
+| Tipo de crecimiento | Efecto en relación de intercambio |
+|---------------------|-----------------------------------|
+| Sesgado hacia exportaciones (local) | Empeora |
+| Sesgado hacia importaciones (local) | Mejora |
+| Sesgado hacia exportaciones (extranjero) | Mejora |
+| Sesgado hacia importaciones (extranjero) | Empeora |
+
+- El crecimiento sesgado hacia las exportaciones tiende a empeorar la
+  relación de intercambio del país que crece
+- El crecimiento sesgado hacia las importaciones tiende a mejorarla
+
+## Crecimiento empobrecedor
+
+- En casos extremos, un país puede empeorar su situación como
+  resultado de su propio crecimiento $\longrightarrow$ **crecimiento
+  empobrecedor** (*immiserizing growth*)
+- Condiciones necesarias:
+  1. Crecimiento fuertemente sesgado hacia las exportaciones
+  2. País es "grande" en el mercado mundial (afecta precios)
+  3. Demanda mundial muy inelástica para el bien exportado
+  4. País muy dependiente del comercio internacional
+- En este caso, el deterioro de la relación de intercambio es tan
+  grande que supera las ganancias directas del crecimiento
+
+## Crecimiento empobrecedor (cont.)
+
+- Ejemplo clásico: países en desarrollo que expanden producción de
+  materias primas
+  - Aumento de producción de café en Brasil $\longrightarrow$ caída
+    del precio mundial del café
+  - Si la caída de precios es muy grande, el valor total de las
+    exportaciones puede caer
+- Este resultado es teóricamente posible pero empíricamente raro
+  - Requiere condiciones muy específicas
+  - Históricamente más relevante para economías pequeñas muy
+    especializadas
+
+# **Transferencias internacionales** {background="#4b6e5c"}
+
+## Transferencias de renta
+
+- Las transferencias internacionales de renta son comunes:
+  - Ayuda externa (países desarrollados a países en desarrollo)
+  - Reparaciones de guerra
+  - Remesas de trabajadores migrantes
+- Pregunta clave: ¿Cómo afectan las transferencias a la relación de
+  intercambio y al bienestar de los países involucrados?
+
+## Efectos de una transferencia
+
+- Suponga que nuestro país realiza una transferencia al extranjero
+- Efectos directos obvios:
+  - Nuestro país puede gastar menos $\longrightarrow$ menor bienestar
+  - País extranjero puede gastar más $\longrightarrow$ mayor bienestar
+- Pero también hay efectos indirectos a través de la relación de
+  intercambio que pueden reforzar o contrarrestar los efectos directos
+
+## Transferencias y demanda relativa
+
+- La transferencia reduce el ingreso de nuestro país y aumenta el del
+  extranjero
+- Efecto sobre la DR mundial depende de las **propensiones marginales
+  a gastar** en cada bien:
+  - Si nuestro país tiene mayor propensión a gastar en $T$ (su
+    exportación), la transferencia reduce la DR de $T$
+  - Si el extranjero tiene mayor propensión a gastar en $A$ (su
+    exportación), la transferencia aumenta la DR de $A$
+
+## Transferencias y relación de intercambio
+
+- Caso normal: cada país tiene preferencia por su propio bien de
+  exportación
+  - Nuestro país gasta más en $T$, extranjero gasta más en $A$
+- Cuando nuestro país transfiere al extranjero:
+  - Cae demanda de $T$, sube demanda de $A$
+  - $\frac{P_{T}}{P_{A}}$ cae $\longrightarrow$ **empeora** relación
+    de intercambio de nuestro país
+- El deterioro de la relación de intercambio **refuerza** el efecto
+  negativo de la transferencia sobre nuestro país
+
+## Transferencias y relación de intercambio (cont.)
+
+- ¿Puede la transferencia beneficiar al país que la realiza?
+  - Teóricamente sí, si el país receptor tiene mayor propensión a
+    gastar en el bien que exporta el país donante
+  - En ese caso, la transferencia mejoraría la relación de intercambio
+    del donante
+- Este caso es conocido como **transferencia paradójica** pero es
+  empíricamente improbable
+  
+## El problema de la transferencia
+
+- En la práctica, se espera que:
+  - El país donante sufra una pérdida adicional por el deterioro de su
+    relación de intercambio
+  - El país receptor obtenga una ganancia adicional por la mejora de
+    su relación de intercambio
+- Esto implica que el "costo" real de la ayuda externa puede ser mayor
+  que el monto nominal transferido
+- Y el "beneficio" real puede ser mayor que el monto recibido
+
+
+# **Aranceles y subsidios a la exportación** {background="#4b6e5c"}
+
+## Instrumentos de política comercial
+
+- Los gobiernos intervienen frecuentemente en el comercio
+  internacional mediante:
+  - **Aranceles** $\longrightarrow$ impuestos a las importaciones
+  - **Subsidios a la exportación** $\longrightarrow$ pagos a los
+    exportadores
+- Estos instrumentos afectan los precios relativos y, por ende, la
+  asignación de recursos y el bienestar
+
+## Efectos de un arancel: país pequeño
+
+- Un **país pequeño** no puede afectar los precios mundiales
+- Si impone un arancel sobre las importaciones de $A$:
+  - Precio interno de $A$ sube (por el monto del arancel)
+  - Precio mundial de $A$ no cambia
+  - Relación de intercambio no cambia
+- El arancel genera una **pérdida neta de bienestar** para el país
+  pequeño (triángulos de pérdida)
+
+## Efectos de un arancel: país grande
+
+- Un **país grande** sí puede afectar los precios mundiales
+- Si nuestro país (grande) impone un arancel sobre $A$:
+  - Reduce demanda de importaciones de $A$
+  - Precio mundial de $A$ cae
+  - Relación de intercambio de nuestro país **mejora**
+- El arancel tiene dos efectos contrapuestos:
+  1. Distorsión en la asignación de recursos (negativo)
+  2. Mejora en la relación de intercambio (positivo)
+
+## Aranceles y oferta/demanda relativas
+
+- El arancel afecta los precios relativos internos
+- Si nuestro país importa $A$ y exporta $T$:
+  - Arancel sobre $A$ $\longrightarrow$ sube $\frac{P_{A}}{P_{T}}$
+    internamente
+  - Producción de $A$ aumenta, producción de $T$ cae
+  - Consumo de $A$ cae, consumo de $T$ sube
+- Resultado: caen las importaciones de $A$ y las exportaciones de $T$
+
+## Aranceles y relación de intercambio
+
+- En el mercado mundial:
+  - Menor demanda de $A$ por parte de nuestro país
+  - Menor oferta de $T$ por parte de nuestro país
+- Esto reduce el precio mundial de $A$ relativo a $T$
+- La relación de intercambio de nuestro país,
+  $\frac{P_{T}}{P_{A}}$, **mejora**
+
+> Un arancel impuesto por un país grande mejora su relación de
+> intercambio a expensas del país extranjero
+
+## El arancel óptimo
+
+- Si un país grande puede mejorar su relación de intercambio con un
+  arancel, ¿cuál es el arancel óptimo?
+- El **arancel óptimo** balancea:
+  - Ganancias por mejora en relación de intercambio
+  - Pérdidas por distorsión interna
+- El arancel óptimo es positivo pero finito
+  - Un arancel demasiado alto reduce tanto el comercio que las
+    pérdidas por distorsión dominan
+- Para un país pequeño, el arancel óptimo es cero
+
+## Subsidios a la exportación
+
+- Un **subsidio a la exportación** es un pago del gobierno a los
+  exportadores
+- Efectos opuestos al arancel:
+  - Aumenta el precio interno del bien exportado
+  - Fomenta la producción y exportación de ese bien
+  - **Empeora** la relación de intercambio del país que subsidia
+
+## Subsidios y relación de intercambio
+
+- Si nuestro país subsidia sus exportaciones de $T$:
+  - Aumenta la producción de $T$
+  - Aumenta la oferta mundial de $T$
+  - Cae el precio mundial de $T$ relativo a $A$
+  - Relación de intercambio de nuestro país **empeora**
+- El subsidio a la exportación siempre reduce el bienestar de un país
+  grande (a diferencia del arancel)
+  - Distorsiona la producción Y empeora la relación de intercambio
+
+## Subsidios a la exportación (cont.)
+
+- ¿Por qué los países subsidian exportaciones si es perjudicial?
+  - Beneficia a sectores específicos (productores del bien exportado)
+  - Objetivos de empleo o desarrollo industrial
+  - Consideraciones estratégicas (ganar cuota de mercado)
+- Los subsidios a la exportación están limitados por acuerdos
+  internacionales (OMC)
+
+## Aranceles vs. subsidios: resumen
+
+| Instrumento | Precio interno | Relación de intercambio | Bienestar (país grande) |
+|-------------|----------------|-------------------------|-------------------------|
+| Arancel a importaciones | Sube P del bien importado | Mejora | Ambiguo (puede mejorar) |
+| Subsidio a exportaciones | Sube P del bien exportado | Empeora | Empeora |
+
+- El arancel puede beneficiar a un país grande; el subsidio no
+- Ambos instrumentos generan distorsiones internas
+- Ambos perjudican al país extranjero
+
+# **Resumen del modelo estándar** {background="#4b6e5c"}
+
+## Ideas clave
+
+1. **Relación de intercambio y bienestar**: Una mejora en la relación
+   de intercambio aumenta el bienestar; un deterioro lo reduce
+2. **Crecimiento económico**: El crecimiento sesgado hacia
+   exportaciones tiende a empeorar la relación de intercambio; hacia
+   importaciones tiende a mejorarla
+3. **Transferencias**: Normalmente empeoran la relación de intercambio
+   del donante y mejoran la del receptor
+4. **Aranceles**: Un país grande puede mejorar su relación de
+   intercambio con un arancel, pero genera distorsiones
+5. **Subsidios**: Siempre empeoran la relación de intercambio del país
+   que los aplica
