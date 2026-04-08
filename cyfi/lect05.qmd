@@ -3,481 +3,674 @@ title: U4. El modelo estándar de comercio
 subtitle: Comercio y Finanzas Internacionales
 ---
 
-# **El modelo estándar de comercio** {background="#4b6e5c"}
+# **Introducción al modelo estándar** {background="#4b6e5c"}
 
-## ¿Cuál modelo?
+## Modelos previos: un repaso
 
-- Hasta ahora hemos visto 3 (tres) modelos distintos de comercio
-  internacional. Difieren en supuestos y también en
-  conclusiones. Repasemos sus características
-  1. **Modelo ricardiano** $\longrightarrow$ 1 (un) sólo factor --$L$-,
-     y 2 (sectores). La asignación de $L$ entre sectores determina la
-     FPP. Aporta idea de ventaja comparativa pero no avanza en
-     distribución de la renta
-  2. **Modelo factores específicos** $\longrightarrow$ 3 (tres)
-     factores --$L$, $K$ y $T$. Foco en consecuencias distributivas *a
-     corto plazo*
-  3. **Modelo de Heckscher-Ohlin** $\longrightarrow$ 2 (dos) factores
-     --$L$, $K$- con libre movilidad. Diferencias en dotacion relativa
-     determina patrón de comercio. Foco en consecuencias distributivas
-     *a largo plazo*
-	 
-## Todos!
+| Modelo | Factores | Fuente de comercio | Foco principal |
+|--------|----------|-------------------|----------------|
+| **Ricardiano** | 1 ($L$) | Diferencias de productividad | Ventaja comparativa |
+| **Factores específicos** | 3 ($L$, $K$, $T$) | Factores inmóviles | Distribución CP |
+| **Heckscher-Ohlin** | 2 ($L$, $K$) | Dotación relativa | Distribución LP |
 
-- Cuando analizamos problemas, solemos tomar una combinación de los
-  mismos. Para analizar un rapido crecimiento de $X$ de nuevos países
-  industrializados por razones de productividad, el modelo ricardiano
-  es util. Para analizar consecuencias distributivas, los modelos de
-  factores específicos y H-O son más utiles que el ricardiano
-- Características compartidas
-  1. Todos parten de posibilidades de producción (FPP) --diferencias
-     en las FPP origen del comercio
-  2. FPP determinan funcion de OR de un país
-  3. Equilibrio mundial determinado por cruce de DR y OR *mundiales*,
-     estas ultimas situadas entre OR nacionales
+. . .
 
-## Modelo general
+- Cada modelo aporta una perspectiva diferente
+- En la práctica, combinamos elementos de todos según el problema
 
-- El **modelo estándar de comercio** se construye a partir de 4
-  (cuatro) relaciones clave
-  1. Relación entre FPP y curva de OR
-  2. Relación entre precios relativos y curva de DR
-  3. Determinación de equilibrio mundial a través de OR y DR mundiales
-  4. Efecto de la relación de intercambio --$\frac{P_{X}}{P_{M}}$
-     sobre bienestar nacional
-- Modelo estándar supone:
-  - Cada país produce 2 (dos) bienes --$A$ y $T$
-  - FPP es una curva *cóncava*
-  
-## Modelo general: FPP (producción) y OR
+## ¿Por qué un modelo "estándar"?
 
+- Los tres modelos comparten características fundamentales:
+  1. Parten de una **Frontera de Posibilidades de Producción** (FPP)
+  2. La FPP determina la **Oferta Relativa** (OR) del país
+  3. El equilibrio mundial surge del cruce de **OR y DR mundiales**
+
+. . .
+
+- El **modelo estándar** unifica estas características
+- Añade el análisis de la **relación de intercambio** y el bienestar
+
+## Estructura del modelo estándar
+
+El modelo se construye sobre **4 relaciones clave**:
+
+::: {.incremental}
+1. **FPP → Oferta Relativa**: cómo la producción responde a precios
+2. **Precios → Demanda Relativa**: cómo el consumo responde a precios
+3. **Equilibrio mundial**: intersección de OR y DR mundiales
+4. **Relación de intercambio → Bienestar**: $\frac{P_X}{P_M}$ y utilidad
+:::
+
+## Supuestos del modelo
+
+- Cada país produce **2 bienes**: Tela ($T$) y Alimentos ($A$)
+- La FPP es una curva **cóncava** (costo de oportunidad creciente)
+- Los consumidores tienen **preferencias bien comportadas** (curvas de indiferencia convexas)
+- Existe **comercio libre** entre países
+
+# **Producción y oferta relativa** {background="#4b6e5c"}
+
+## La decisión de producción
+
+:::: {.columns}
+::: {.column width="55%"}
+**Problema del productor:**
+
+- Maximizar el valor de la producción
+- Sujeto a la restricción de la FPP
+
+$$V = P_T \cdot Q_T + P_A \cdot Q_A$$
+
+- La economía produce donde la FPP es **tangente** a la recta de isovalor más alta posible
+:::
+
+::: {.column width="45%"}
 ![](../_shared/images/cyfi/fig-diagram-isovalue-lines-production.png){fig-align="center"}
+:::
+::::
 
-## Modelo general: FPP (producción) y OR (cont.)
+## ¿Qué es una recta de isovalor?
 
-- La economía produce en el punto de tangencia entre FPP y el relativo
-  de precios, $\frac{P_{T}}{P_{A}}$. Para precios de mercado *dados*
-  economía elegirá punto de producción que aumente al máximo el valor
-  de producción --$P_{T}Q_{T}+P_{A}Q_{A}$
-- La recta de isovalor es línea a lo largo de la cual valor de
-  producción es constante
-  --$Q_{A}=\frac{V}{P_{A}}-\frac{P_{T}}{P_{A}}Q_{T}$, donde $V$ es el
-  valor de la producción
-- Si $\frac{P_{T}}{P_{A}}$ aumenta, recta de isovalor mayor pendiente
-  y se produce más $T$ y menos $A$ $\longrightarrow$ **aumenta la OR
-  de tela, $T$**
+> **Recta de isovalor**: línea a lo largo de la cual el valor de producción es constante
 
-## Modelo general: FPP (producción) y OR (cont.)
+- Despejando de $V = P_T Q_T + P_A Q_A$:
 
+$$Q_A = \frac{V}{P_A} - \frac{P_T}{P_A} Q_T$$
+
+- **Pendiente**: $-\frac{P_T}{P_A}$ (precio relativo de la tela)
+- **Intercepto**: $\frac{V}{P_A}$ (mayor V → recta más alejada del origen)
+
+## Efecto de un cambio en precios relativos
+
+:::: {.columns}
+::: {.column width="50%"}
+**Si aumenta $\frac{P_T}{P_A}$:**
+
+1. La recta de isovalor se vuelve **más empinada**
+2. Nuevo punto de tangencia con la FPP
+3. Se produce **más $T$** y **menos $A$**
+
+**Conclusión**: la **Oferta Relativa de $T$** aumenta cuando sube su precio relativo
+:::
+
+::: {.column width="50%"}
 ![](../_shared/images/cyfi/fig-diagram-consumption-production-choice.png){fig-align="center"}
+:::
+::::
 
-## Modelo general: precios relativos y demanda
+## La curva de Oferta Relativa
 
-- En una economía sin comercio, el valor de la producción debe igualar
-  el valor del consumo --por lo tanto *producción* y *consumo* deben
-  estar en la misma curva de isovalor
+```{r}
+#| echo: false
+#| fig-width: 6
+#| fig-height: 4
+#| fig-align: center
 
-\begin{equation}
-P_{T}Q_{T}+P_{A}Q_{A}=P_{T}D_{T}+P_{A}D_{A}
-\end{equation}
+library(ggplot2)
 
-- el punto de consumo depende de las preferencias de consumidores
-  --curvas de indiferencia [supuestos de las CI]
+# Create OR curve data
+or_data <- data.frame(
+  q_ratio = seq(0.2, 3, length.out = 100)
+)
+or_data$p_ratio <- 0.3 + 0.5 * or_data$q_ratio
 
-## Modelo general: precios relativos y demanda (cont.)
+ggplot(or_data, aes(x = q_ratio, y = p_ratio)) +
+  geom_line(color = "#4b6e5c", linewidth = 1.5) +
+  labs(
+    x = expression(paste("Cantidad relativa (", Q[T]/Q[A], ")")),
+    y = expression(paste("Precio relativo (", P[T]/P[A], ")"))
+  ) +
+  annotate("text", x = 2.5, y = 1.4, label = "OR", size = 6, color = "#4b6e5c") +
+  theme_minimal(base_size = 14) +
+  theme(
+    panel.grid.minor = element_blank(),
+    axis.title = element_text(size = 12)
+  )
+```
 
+- La OR tiene **pendiente positiva**: mayor precio → mayor producción relativa
+
+# **Consumo y demanda relativa** {background="#4b6e5c"}
+
+## La restricción presupuestaria
+
+- **Sin comercio**: el valor del consumo = valor de la producción
+
+$$P_T \cdot D_T + P_A \cdot D_A = P_T \cdot Q_T + P_A \cdot Q_A$$
+
+- **Con comercio**: el país puede consumir combinaciones diferentes a las que produce
+- La **recta de isovalor** se convierte en la **restricción presupuestaria**
+
+## La elección del consumidor
+
+:::: {.columns}
+::: {.column width="55%"}
+- Los consumidores maximizan utilidad
+- Eligen el punto donde la **curva de indiferencia** más alta es tangente a la restricción presupuestaria
+
+**Con comercio:**
+
+- Producción en $Q$
+- Consumo en $D$
+- Exporta $T$, importa $A$
+:::
+
+::: {.column width="45%"}
 ![](../_shared/images/cyfi/fig-diagram-terms-of-trade-welfare.png){fig-align="center"}
+:::
+::::
 
-## Modelo general: precios relativos y demanda (cont.)
+## Efecto de un aumento en $\frac{P_T}{P_A}$
 
-- En la figura puede verse que tanto la elección de consumo como de
-  producción están en la misma curva de isovalor (y la más alta
-  posible) pero $\longrightarrow$ la economía exporta $T$ e importa
-  $A$ [¿por qué?]
-- Interesa saber que pasa cuando aumenta $\frac{P_{T}}{P_{A}}$
-  - Economía produce más $T$ y menos $A$ --producción de
-    $Q_{1}$ a $Q_{2}$ (cambia recta de isovalor)
-  - Pero también cambia el consumo --consumo de $D_{1}$ a $D_{2}$
+:::: {.columns}
+::: {.column width="50%"}
+Dos efectos simultáneos:
 
-## Modelo general: precios relativos y demanda (cont.)
+1. **Efecto ingreso** (+): el país puede alcanzar una CI más alta (más $M$ por unidad de $X$)
 
+2. **Efecto sustitución** (-): $T$ es ahora relativamente más cara, se consume menos $T$
+
+**Resultado neto**: la **Demanda Relativa de $T$** cae cuando sube su precio
+:::
+
+::: {.column width="50%"}
 ![](../_shared/images/cyfi/fig-diagram-growth-terms-of-trade.png){fig-align="center"}
+:::
+::::
 
-## Modelo general: precios relativos y demanda (cont.)
+## La curva de Demanda Relativa
 
-- Existen 2 (dos) efectos que hacen que suceda este movimiento
-  - Economía se traslada a CI más alta porque al subir precio
-    relativo de $T$ puede tener más $M$ para una cantidad dada
-    de $X$ $\longrightarrow$ **efecto ingreso**
-  - Economía se traslada a lo a largo de la CI hacia más consumo de
-    $A$ y menos de $T$ dado que tela es ahora relativamente más cara
-    $\longrightarrow$ **efecto sustitución**
-- Lo importante aquí es que la DR de $T$ disminuye cuando aumenta
-  $P_{T}$; mientras que la OR de $T$ aumenta cuando aumenta $P_{T}$
-  - el hecho de que la DR de tela caiga sugiere que domina el efecto
-    sustitución 
-- ¿Si la economía no puede comerciar? Consume en el punto 3 ($D_{3}$)
-  donde $OR=DR$
+```{r}
+#| echo: false
+#| fig-width: 6
+#| fig-height: 4
+#| fig-align: center
 
-## Modelo general: efectos de cambios en la relación de intercambio sobre el bienestar
+# Create DR curve data
+dr_data <- data.frame(
+  q_ratio = seq(0.3, 3, length.out = 100)
+)
+dr_data$p_ratio <- 2 / dr_data$q_ratio
 
-- Hemos visto que cuando aumenta $\frac{P_{T}}{P_{A}}$ en un país que
-  inicialmente exporta $T$ mejora su situación. 
-- Ahora, si el país fuera inicialmente exporta $A$ el efecto se
-  invierte $\longrightarrow$ un aumento de $\frac{P_{T}}{P_{A}}$
-  equivale a una disminución de $\frac{P_{A}}{P_{T}}$
-  $\longrightarrow$ país empeora porque baja el precio relativo del
-  bien que exporta
-- Podemos definir ahora la **relación de intercambio** como el precio
-  del bien que el país exporta (inicialmente) dividido el precio del
-  bien que el país importa (inicialmente)
+ggplot(dr_data, aes(x = q_ratio, y = p_ratio)) +
+  geom_line(color = "#8B4513", linewidth = 1.5) +
+  labs(
+    x = expression(paste("Cantidad relativa (", D[T]/D[A], ")")),
+    y = expression(paste("Precio relativo (", P[T]/P[A], ")"))
+  ) +
+  annotate("text", x = 2.5, y = 1.0, label = "DR", size = 6, color = "#8B4513") +
+  theme_minimal(base_size = 14) +
+  theme(
+    panel.grid.minor = element_blank(),
+    axis.title = element_text(size = 12)
+  ) +
+  coord_cartesian(ylim = c(0, 3))
+```
 
-## Modelo general: efectos de cambios en la relación de intercambio sobre el bienestar
+- La DR tiene **pendiente negativa**: mayor precio → menor demanda relativa
 
-> Un aumento en la relacion de intercambio incrementa el bienestar de
-> un país mientras que una reducción de la relación de intercambio
-> disminuye su bienestar
+# **Equilibrio mundial** {background="#4b6e5c"}
 
-> Cambios en la relación de intercambio, sin embargo, no reducen el
-> bienestar por debajo del nivel de bienestar que tendría sin comercio
-> --en el gráfico representado por punto $D_{3}$. Note que es el peor
-> nivel de bienestar posible
+## Determinación del precio mundial
 
-## Determinación de los precios relativos
+:::: {.columns}
+::: {.column width="55%"}
+**OR mundial:**
+$$\frac{Q_T + Q_T^*}{Q_A + Q_A^*}$$
 
-- Nuestro país exporta $T$ y país extranjero exporta $A$. Relación de
-  intercambio en nuestro país es $\frac{P_{T}}{P_{A}}$; la del país
-  extranjero es $\frac{P_{A}}{P_{T}}$
-- Si ambos comparten mismas curvas de DR, para cualquier precio dado
-	$\frac{P_{T}}{P_{A}}$, nuestro país produce $Q_{T}$ y $Q_{A}$ y
-	país extranjero produce $Q_{T}^{*}$ y $Q_{A}^{*}$ donde
-	$\frac{Q_{T}}{Q_{A}} > \frac{Q_{T}^{*}}{Q_{A}^{*}}$
-- Y de esa manera se obtiene la OR mundial: $\frac{(Q_{T}+Q_{T}^{*})}{(Q_{A}+Q_{A}^{*})}$
-- La DR se obtiene de manera similar, $\frac{(D_{T}+D_{T}^{*})}{(D_{A}+D_{A}^{*})}$
+**DR mundial:**
+$$\frac{D_T + D_T^*}{D_A + D_A^*}$$
 
+El precio relativo de equilibrio se determina donde **OR = DR** mundial
+:::
 
-## Determinación de los precios relativos (cont.)
+::: {.column width="45%"}
+```{r}
+#| echo: false
+#| fig-width: 5
+#| fig-height: 4
+#| fig-align: center
 
+# Create equilibrium diagram
+eq_data <- data.frame(q = seq(0.3, 2.5, length.out = 100))
+eq_data$or <- 0.3 + 0.6 * eq_data$q
+eq_data$dr <- 1.8 / eq_data$q
 
-![Precio relativo con comercio](../_shared/images/cyfi/fig-diagram-immiserizing-growth.png) 
+ggplot(eq_data) +
+  geom_line(aes(x = q, y = or), color = "#4b6e5c", linewidth = 1.5) +
+  geom_line(aes(x = q, y = dr), color = "#8B4513", linewidth = 1.5) +
+  geom_point(aes(x = 1.35, y = 1.1), size = 4, color = "black") +
+  geom_segment(aes(x = 1.35, y = 0, xend = 1.35, yend = 1.1), 
+               linetype = "dashed", color = "gray50") +
+  geom_segment(aes(x = 0, y = 1.1, xend = 1.35, yend = 1.1), 
+               linetype = "dashed", color = "gray50") +
+  annotate("text", x = 2.2, y = 1.7, label = "OR", size = 5, color = "#4b6e5c") +
+  annotate("text", x = 2.2, y = 0.9, label = "DR", size = 5, color = "#8B4513") +
+  labs(x = "Cantidad relativa", y = "Precio relativo") +
+  theme_minimal(base_size = 14) +
+  coord_cartesian(ylim = c(0, 2.5), xlim = c(0, 2.5))
+```
+:::
+::::
 
-## Determinación de los precios relativos (cont.)
+## Patrón de comercio
 
-- $DR$ son igual al ser iguales las preferencias. Precio relativo via
-  intersección de $OR$ y $DR$. Este precio determina el perfil de
-  exportación e importación de cada país
-  - las exportaciones de tela de nuestro país, $Q_{T}-D_{T}$ son
-    iguales a las importaciones de tela del extranjero
-    $D_{T}^{*}-Q_{T}^{*}$; del mismo modo, las importaciones de
-    alimentos de nuestro país, $D_{A}-Q_{A}$ son iguales a las
-    exportaciones de alimentos del extranjero, $Q_{A}^{*}-D_{A}^{*}$. 
-- De esta manera vemos como se determinan la $OR$, $DR$, la relación
-  de intercambio y el bienestar en el **modelo estándar de comercio**
+- **Nuestro país** (abundante en $L$, exporta $T$):
+  - Exportaciones de $T$: $Q_T - D_T$
+  - Importaciones de $A$: $D_A - Q_A$
 
+- **País extranjero** (abundante en $K$, exporta $A$):
+  - Exportaciones de $A$: $Q_A^* - D_A^*$
+  - Importaciones de $T$: $D_T^* - Q_T^*$
 
-# **Crecimiento económico** {background="#4b6e5c"}	
+- **Equilibrio**: $X_T = M_T^*$ y $M_A = X_A^*$
 
-## Desplazmiento de la OR
+# **Relación de intercambio y bienestar** {background="#4b6e5c"}
 
-- Dos temas relevantes cuando hay crecimiento económico mundial
-  1. ¿Crecimiento económico en otros países es positivo o negativo
-     para nuestro país?
-  2. ¿Crecimiento económico en un país es más o menos valioso cuando
-     el país forma parte de un mundo integrado?
-- Ambas preguntas dan lugar a respuestas que no terminan siendo
-  concluyentes --i.e. ambigüedades en los efectos, hay beneficios y
-  costos en ambos casos
-  
-## Crecimiento y FPP
+## ¿Qué es la relación de intercambio?
 
-- Sabemos que el crecimiento puede ser visto como un desplazamiento
-  hacia afuera de la FPP de un país --FPP puede desplazarse por
-  aumento de factores o por cambio tecnológico
-- El crecimiento no siempre suele ser paralelo --es decir, todos los
-  sectores iguales- sino que suele ser **sesgado**
-- Dos razones principales detrás del **crecimiento sesgado**
-  1. Progreso tecnológico sesgado $\longrightarrow$ progreso técnico
-     es sólo o mayor en un sector
-  2. Aumento oferta de factor de producción $\longrightarrow$ sesgo a
-     favor del bien cuya producción es intensiva en factor que aumentó
+> **Relación de intercambio (RI)** = $\frac{\text{Precio de exportaciones}}{\text{Precio de importaciones}}$
 
-## Crecimiento sesgado
+- Para nuestro país (exporta $T$): $RI = \frac{P_T}{P_A}$
+- Para el extranjero (exporta $A$): $RI^* = \frac{P_A}{P_T}$
 
-![Crecimiento sesgado](../_shared/images/cyfi/fig-diagram-tariff-effects-small-country.png) 
+. . .
 
+**Nota**: $RI \times RI^* = 1$ (si uno mejora, el otro empeora)
 
-## Crecimiento sesgado (cont.)
+## Relación de intercambio y bienestar
 
-![Crecimiento sesgado y OR](../_shared/images/cyfi/fig-diagram-tariff-effects-large-country.png) 
+:::: {.columns}
+::: {.column width="60%"}
+**Proposición fundamental:**
 
-## Crecimiento sesgado y OR
+> Un **aumento** en la relación de intercambio **incrementa** el bienestar del país
 
-- Con el crecimiento sesgado la economía puede en principio **producir
-  más de ambos bienes** pero para un *precio relativo constante* la
-  producción de $T$ se reduce cuando el sesgo favorece a $A$ y la
-  producción de $A$ se reduce cuando el sesgo favorece a $T$ [¿por
-  qué?]
-- Esto quiere decir que la curva de $OR$ se desplazará hacia la
-  derecha si el crecimiento es aunque sea levemente sesgado hacia $T$
-  --aumento de producción de $T$ relativo a la de $A$ (de $OR1$ a
-  $OR2$). Algo similar si el movimiento es en la otra dirección
+> Una **reducción** de la relación de intercambio **disminuye** el bienestar
 
-## OR mundial y relación de intercambio
+- Intuitivamente: si el precio de lo que vendes sube (o el de lo que compras baja), estás mejor
+:::
 
-- Suponga que nuestro país tiene un **crecimiento sesgado hacia la
-  tela** producción relativa de $T$ aumenta a nivel mundial y se
-  desplaza $OR$ a la derecha
-- La consecuencia de esto es una **reducción del precio relativo de la
-  $T$** $\longrightarrow$ deterioro de la relación de intercambio para
-  nuestro país
-  - importante $\longrightarrow$ no es **qué** país experimenta el
-    crecimiento sesgado sino **cuál es el sesgo** 
-- De ahí que surgen las nociones de **crecimiento sesgado hacia la
-  exportación** y **crecimiento sesgado hacia la importacion**
-  - el primero empeora la relación de intercambio para nuestro país y
-    beneficia al otro; el segundo es al revés!
+::: {.column width="40%"}
+![](../_shared/images/cyfi/fig-diagram-terms-of-trade-welfare.png){fig-align="center"}
+:::
+::::
 
-## OR mundial y relación de intercambio (cont.)
+## El límite inferior del bienestar
 
-![Crecimiento sesgado y OR](../_shared/images/cyfi/fig-diagram-optimal-tariff.png) 
+- ¿Puede el comercio empeorar a un país respecto a la autarquía?
 
-## Efectos del crecimiento en el resto del mundo
+. . .
 
-- ¿Qué pasa si el crecimiento sesgado ocurre en el **país extranjero**
-  en lugar del nuestro?
-- Si el extranjero tiene crecimiento sesgado hacia $A$ (su bien de
-  exportación):
-  - Aumenta la OR mundial de $A$ relativo a $T$
-  - Disminuye $\frac{P_{A}}{P_{T}}$ $\longrightarrow$ aumenta
-    $\frac{P_{T}}{P_{A}}$
-  - **Mejora** la relación de intercambio de nuestro país
-- Si el extranjero tiene crecimiento sesgado hacia $T$ (su bien de
-  importación):
-  - **Empeora** la relación de intercambio de nuestro país
+**No.** El peor escenario posible es volver a la autarquía:
 
-## Efectos del crecimiento: resumen
+- Si la RI empeora mucho, el país puede siempre **dejar de comerciar**
+- El punto de autarquía ($D_3$ en el gráfico) es el "piso" de bienestar
+- Cualquier comercio voluntario debe ser al menos tan bueno como no comerciar
 
-| Tipo de crecimiento | Efecto en relación de intercambio |
-|---------------------|-----------------------------------|
-| Sesgado hacia exportaciones (local) | Empeora |
-| Sesgado hacia importaciones (local) | Mejora |
-| Sesgado hacia exportaciones (extranjero) | Mejora |
-| Sesgado hacia importaciones (extranjero) | Empeora |
+# **Crecimiento económico** {background="#4b6e5c"}
 
-- El crecimiento sesgado hacia las exportaciones tiende a empeorar la
-  relación de intercambio del país que crece
-- El crecimiento sesgado hacia las importaciones tiende a mejorarla
+## Crecimiento y la FPP
+
+- El crecimiento económico desplaza la FPP **hacia afuera**
+- Causas del crecimiento:
+  - Aumento en la dotación de factores ($L$, $K$, $T$)
+  - Progreso tecnológico
+
+. . .
+
+- El crecimiento raramente es **neutral** (paralelo)
+- Generalmente es **sesgado** hacia un sector
+
+## Tipos de crecimiento sesgado
+
+:::: {.columns}
+::: {.column width="50%"}
+**Sesgado hacia $T$:**
+
+- Progreso técnico mayor en sector $T$
+- Aumento del factor usado intensivamente en $T$
+- FPP se expande más en dirección de $T$
+
+![](../_shared/images/cyfi/fig-diagram-tariff-effects-small-country.png){fig-align="center" width="90%"}
+:::
+
+::: {.column width="50%"}
+**Sesgado hacia $A$:**
+
+- Progreso técnico mayor en sector $A$
+- Aumento del factor usado intensivamente en $A$
+- FPP se expande más en dirección de $A$
+:::
+::::
+
+## Crecimiento sesgado y oferta relativa
+
+:::: {.columns}
+::: {.column width="55%"}
+- **Crecimiento sesgado hacia $T$**:
+  - A precios constantes, se produce más $T$ relativo a $A$
+  - La curva OR se desplaza a la **derecha**
+
+- **Crecimiento sesgado hacia $A$**:
+  - A precios constantes, se produce más $A$ relativo a $T$
+  - La curva OR se desplaza a la **izquierda**
+:::
+
+::: {.column width="45%"}
+![](../_shared/images/cyfi/fig-diagram-tariff-effects-large-country.png){fig-align="center"}
+:::
+::::
+
+## Crecimiento y relación de intercambio
+
+```{r}
+#| echo: false
+#| fig-width: 7
+#| fig-height: 4.5
+#| fig-align: center
+
+# Biased growth effect on world equilibrium
+growth_data <- data.frame(q = seq(0.3, 3, length.out = 100))
+growth_data$or1 <- 0.3 + 0.5 * growth_data$q
+growth_data$or2 <- 0.1 + 0.5 * growth_data$q  # Shifted right
+growth_data$dr <- 2 / growth_data$q
+
+ggplot(growth_data) +
+  geom_line(aes(x = q, y = or1), color = "#4b6e5c", linewidth = 1.2) +
+  geom_line(aes(x = q, y = or2), color = "#4b6e5c", linewidth = 1.2, linetype = "dashed") +
+  geom_line(aes(x = q, y = dr), color = "#8B4513", linewidth = 1.2) +
+  annotate("text", x = 2.7, y = 1.7, label = expression(OR[1]), size = 4, color = "#4b6e5c") +
+  annotate("text", x = 2.7, y = 1.45, label = expression(OR[2]), size = 4, color = "#4b6e5c") +
+  annotate("text", x = 2.7, y = 0.8, label = "DR", size = 4, color = "#8B4513") +
+  geom_point(aes(x = 1.45, y = 1.025), size = 3) +
+  geom_point(aes(x = 1.7, y = 0.95), size = 3) +
+  geom_segment(aes(x = 1.5, y = 1.05, xend = 1.65, yend = 0.98),
+               arrow = arrow(length = unit(0.2, "cm")), color = "gray40") +
+  labs(
+    x = "Cantidad relativa mundial",
+    y = "Precio relativo",
+    title = "Crecimiento sesgado hacia T: OR se desplaza a la derecha"
+  ) +
+  theme_minimal(base_size = 13) +
+  coord_cartesian(ylim = c(0, 2.5), xlim = c(0, 3))
+```
+
+- Si nuestro país (exportador de $T$) crece sesgado hacia $T$: **empeora su RI**
+
+## Crecimiento sesgado: exportaciones vs importaciones
+
+| Tipo de crecimiento | Efecto en OR de $T$ | Efecto en $\frac{P_T}{P_A}$ | Efecto en RI (exp. $T$) |
+|---------------------|---------------------|------------------------------|-------------------------|
+| Sesgado hacia $X$ (nuestro) | OR → derecha | Cae | **Empeora** |
+| Sesgado hacia $M$ (nuestro) | OR → izquierda | Sube | **Mejora** |
+| Sesgado hacia $X$ (extranjero) | OR → izquierda | Sube | **Mejora** |
+| Sesgado hacia $M$ (extranjero) | OR → derecha | Cae | **Empeora** |
+
+. . .
+
+> El crecimiento sesgado hacia las **exportaciones** tiende a **empeorar** la RI del país que crece
 
 ## Crecimiento empobrecedor
 
-- En casos extremos, un país puede empeorar su situación como
-  resultado de su propio crecimiento $\longrightarrow$ **crecimiento
-  empobrecedor** (*immiserizing growth*)
-- Condiciones necesarias:
-  1. Crecimiento fuertemente sesgado hacia las exportaciones
-  2. País es "grande" en el mercado mundial (afecta precios)
-  3. Demanda mundial muy inelástica para el bien exportado
-  4. País muy dependiente del comercio internacional
-- En este caso, el deterioro de la relación de intercambio es tan
-  grande que supera las ganancias directas del crecimiento
+- En casos extremos, el crecimiento puede **reducir** el bienestar
 
-## Crecimiento empobrecedor (cont.)
+**Condiciones necesarias:**
 
-- Ejemplo clásico: países en desarrollo que expanden producción de
-  materias primas
-  - Aumento de producción de café en Brasil $\longrightarrow$ caída
-    del precio mundial del café
-  - Si la caída de precios es muy grande, el valor total de las
-    exportaciones puede caer
-- Este resultado es teóricamente posible pero empíricamente raro
-  - Requiere condiciones muy específicas
-  - Históricamente más relevante para economías pequeñas muy
-    especializadas
+::: {.incremental}
+1. Crecimiento **fuertemente sesgado** hacia exportaciones
+2. País es "**grande**" (afecta precios mundiales)
+3. Demanda mundial **muy inelástica** para el bien exportado
+4. País **muy dependiente** del comercio
+:::
+
+. . .
+
+- El deterioro de la RI supera las ganancias directas del crecimiento
+- Ejemplo histórico: expansión cafetera en Brasil
+
+## Crecimiento empobrecedor: ilustración
+
+![](../_shared/images/cyfi/fig-diagram-immiserizing-growth.png){fig-align="center"}
+
+- Caso teóricamente posible pero **empíricamente raro**
+- Requiere condiciones muy específicas y extremas
 
 # **Transferencias internacionales** {background="#4b6e5c"}
 
-## Transferencias de renta
+## Tipos de transferencias
 
-- Las transferencias internacionales de renta son comunes:
-  - Ayuda externa (países desarrollados a países en desarrollo)
-  - Reparaciones de guerra
-  - Remesas de trabajadores migrantes
-- Pregunta clave: ¿Cómo afectan las transferencias a la relación de
-  intercambio y al bienestar de los países involucrados?
+Las transferencias internacionales de renta son comunes:
 
-## Efectos de una transferencia
+- **Ayuda externa** (países desarrollados → países en desarrollo)
+- **Reparaciones de guerra** (perdedor → ganador)
+- **Remesas** de trabajadores migrantes
 
-- Suponga que nuestro país realiza una transferencia al extranjero
-- Efectos directos obvios:
-  - Nuestro país puede gastar menos $\longrightarrow$ menor bienestar
-  - País extranjero puede gastar más $\longrightarrow$ mayor bienestar
-- Pero también hay efectos indirectos a través de la relación de
-  intercambio que pueden reforzar o contrarrestar los efectos directos
+. . .
+
+**Pregunta clave**: ¿Cómo afectan las transferencias a la RI y al bienestar?
+
+## Efectos directos de una transferencia
+
+Supongamos que **nuestro país transfiere** al extranjero:
+
+| País | Ingreso disponible | Efecto directo en bienestar |
+|------|-------------------|----------------------------|
+| Nuestro (donante) | Disminuye | Empeora |
+| Extranjero (receptor) | Aumenta | Mejora |
+
+. . .
+
+Pero también hay **efectos indirectos** a través de la relación de intercambio...
 
 ## Transferencias y demanda relativa
 
-- La transferencia reduce el ingreso de nuestro país y aumenta el del
-  extranjero
-- Efecto sobre la DR mundial depende de las **propensiones marginales
-  a gastar** en cada bien:
-  - Si nuestro país tiene mayor propensión a gastar en $T$ (su
-    exportación), la transferencia reduce la DR de $T$
-  - Si el extranjero tiene mayor propensión a gastar en $A$ (su
-    exportación), la transferencia aumenta la DR de $A$
+- La transferencia **redistribuye el ingreso** entre países
+- El efecto sobre la DR mundial depende de las **propensiones a gastar**:
 
-## Transferencias y relación de intercambio
+. . .
 
-- Caso normal: cada país tiene preferencia por su propio bien de
-  exportación
-  - Nuestro país gasta más en $T$, extranjero gasta más en $A$
-- Cuando nuestro país transfiere al extranjero:
-  - Cae demanda de $T$, sube demanda de $A$
-  - $\frac{P_{T}}{P_{A}}$ cae $\longrightarrow$ **empeora** relación
-    de intercambio de nuestro país
-- El deterioro de la relación de intercambio **refuerza** el efecto
-  negativo de la transferencia sobre nuestro país
+**Caso normal** (cada país prefiere su bien de exportación):
 
-## Transferencias y relación de intercambio (cont.)
+- Nuestro país gasta más en $T$ → cae demanda de $T$
+- Extranjero gasta más en $A$ → sube demanda de $A$
+- $\frac{P_T}{P_A}$ **cae** → empeora RI de nuestro país
 
-- ¿Puede la transferencia beneficiar al país que la realiza?
-  - Teóricamente sí, si el país receptor tiene mayor propensión a
-    gastar en el bien que exporta el país donante
-  - En ese caso, la transferencia mejoraría la relación de intercambio
-    del donante
-- Este caso es conocido como **transferencia paradójica** pero es
-  empíricamente improbable
-  
-## El problema de la transferencia
+## Transferencias: efecto total
 
-- En la práctica, se espera que:
-  - El país donante sufra una pérdida adicional por el deterioro de su
-    relación de intercambio
-  - El país receptor obtenga una ganancia adicional por la mejora de
-    su relación de intercambio
-- Esto implica que el "costo" real de la ayuda externa puede ser mayor
-  que el monto nominal transferido
-- Y el "beneficio" real puede ser mayor que el monto recibido
+:::: {.columns}
+::: {.column width="50%"}
+**Para el país donante:**
 
+1. Efecto directo: pierde ingreso (-)
+2. Efecto indirecto: empeora RI (-)
 
-# **Aranceles y subsidios a la exportación** {background="#4b6e5c"}
+**Efecto total: NEGATIVO** (se refuerzan)
+:::
+
+::: {.column width="50%"}
+**Para el país receptor:**
+
+1. Efecto directo: gana ingreso (+)
+2. Efecto indirecto: mejora RI (+)
+
+**Efecto total: POSITIVO** (se refuerzan)
+:::
+::::
+
+. . .
+
+> El "costo real" de la ayuda externa puede ser **mayor** que el monto nominal transferido
+
+## ¿Transferencia paradójica?
+
+- ¿Puede una transferencia **beneficiar** al donante?
+- Teóricamente sí: si el receptor gasta mucho en el bien que exporta el donante
+
+. . .
+
+- **Empíricamente improbable**: requiere que el receptor tenga preferencia por importaciones más fuerte que el donante por su exportación
+- En la práctica, esperamos que el efecto normal domine
+
+# **Aranceles y subsidios** {background="#4b6e5c"}
 
 ## Instrumentos de política comercial
 
-- Los gobiernos intervienen frecuentemente en el comercio
-  internacional mediante:
-  - **Aranceles** $\longrightarrow$ impuestos a las importaciones
-  - **Subsidios a la exportación** $\longrightarrow$ pagos a los
-    exportadores
-- Estos instrumentos afectan los precios relativos y, por ende, la
-  asignación de recursos y el bienestar
+| Instrumento | Definición | Efecto en precio interno |
+|-------------|------------|--------------------------|
+| **Arancel** | Impuesto a importaciones | Sube precio del bien importado |
+| **Subsidio a exportación** | Pago a exportadores | Sube precio del bien exportado |
 
-## Efectos de un arancel: país pequeño
+- Ambos distorsionan los precios relativos y afectan la asignación de recursos
 
-- Un **país pequeño** no puede afectar los precios mundiales
-- Si impone un arancel sobre las importaciones de $A$:
-  - Precio interno de $A$ sube (por el monto del arancel)
-  - Precio mundial de $A$ no cambia
-  - Relación de intercambio no cambia
-- El arancel genera una **pérdida neta de bienestar** para el país
-  pequeño (triángulos de pérdida)
+## Aranceles: país pequeño vs grande
 
-## Efectos de un arancel: país grande
+:::: {.columns}
+::: {.column width="50%"}
+**País pequeño:**
 
-- Un **país grande** sí puede afectar los precios mundiales
-- Si nuestro país (grande) impone un arancel sobre $A$:
-  - Reduce demanda de importaciones de $A$
-  - Precio mundial de $A$ cae
-  - Relación de intercambio de nuestro país **mejora**
-- El arancel tiene dos efectos contrapuestos:
-  1. Distorsión en la asignación de recursos (negativo)
-  2. Mejora en la relación de intercambio (positivo)
+- No afecta precios mundiales
+- Solo cambia precio interno
+- RI no cambia
+- **Pérdida neta** de bienestar
+:::
 
-## Aranceles y oferta/demanda relativas
+::: {.column width="50%"}
+**País grande:**
 
-- El arancel afecta los precios relativos internos
-- Si nuestro país importa $A$ y exporta $T$:
-  - Arancel sobre $A$ $\longrightarrow$ sube $\frac{P_{A}}{P_{T}}$
-    internamente
-  - Producción de $A$ aumenta, producción de $T$ cae
-  - Consumo de $A$ cae, consumo de $T$ sube
-- Resultado: caen las importaciones de $A$ y las exportaciones de $T$
+- Afecta precios mundiales
+- Reduce demanda de importaciones
+- Precio mundial del bien importado **cae**
+- RI **mejora**
+- Efecto neto: **ambiguo**
+:::
+::::
 
-## Aranceles y relación de intercambio
+## Arancel de un país grande: mecanismo
 
-- En el mercado mundial:
-  - Menor demanda de $A$ por parte de nuestro país
-  - Menor oferta de $T$ por parte de nuestro país
-- Esto reduce el precio mundial de $A$ relativo a $T$
-- La relación de intercambio de nuestro país,
-  $\frac{P_{T}}{P_{A}}$, **mejora**
+```{r}
+#| echo: false
+#| fig-width: 7
+#| fig-height: 4
+#| fig-align: center
 
-> Un arancel impuesto por un país grande mejora su relación de
-> intercambio a expensas del país extranjero
+# Tariff effect diagram
+tariff_data <- data.frame(q = seq(0.3, 3, length.out = 100))
+tariff_data$or <- 0.3 + 0.5 * tariff_data$q
+tariff_data$dr1 <- 2 / tariff_data$q
+tariff_data$dr2 <- 1.6 / tariff_data$q  # DR shifts left (less demand for T)
+
+ggplot(tariff_data) +
+  geom_line(aes(x = q, y = or), color = "#4b6e5c", linewidth = 1.2) +
+  geom_line(aes(x = q, y = dr1), color = "#8B4513", linewidth = 1.2) +
+  geom_line(aes(x = q, y = dr2), color = "#8B4513", linewidth = 1.2, linetype = "dashed") +
+  annotate("text", x = 2.7, y = 1.65, label = "OR", size = 4, color = "#4b6e5c") +
+  annotate("text", x = 2.7, y = 0.8, label = expression(DR[1]), size = 4, color = "#8B4513") +
+  annotate("text", x = 2.7, y = 0.6, label = expression(DR[2]), size = 4, color = "#8B4513") +
+  labs(
+    x = "Cantidad relativa mundial",
+    y = "Precio relativo",
+    title = "Arancel sobre A: reduce demanda de M, mejora RI del importador"
+  ) +
+  theme_minimal(base_size = 13) +
+  coord_cartesian(ylim = c(0, 2), xlim = c(0, 3))
+```
+
+- El arancel reduce las importaciones → cae precio mundial del bien importado → sube RI
+
+## Efectos de un arancel (país grande)
+
+| Efecto | Descripción | Signo |
+|--------|-------------|-------|
+| **Distorsión** | Mala asignación de recursos internos | (-) |
+| **Mejora RI** | Precio de importaciones cae | (+) |
+| **Neto** | Depende de magnitudes | **?** |
+
+. . .
+
+- Existe un **arancel óptimo** positivo pero finito
+- Balancea ganancias de RI con pérdidas por distorsión
+- Para país pequeño: arancel óptimo = 0
 
 ## El arancel óptimo
 
-- Si un país grande puede mejorar su relación de intercambio con un
-  arancel, ¿cuál es el arancel óptimo?
-- El **arancel óptimo** balancea:
-  - Ganancias por mejora en relación de intercambio
-  - Pérdidas por distorsión interna
-- El arancel óptimo es positivo pero finito
-  - Un arancel demasiado alto reduce tanto el comercio que las
-    pérdidas por distorsión dominan
-- Para un país pequeño, el arancel óptimo es cero
+![](../_shared/images/cyfi/fig-diagram-optimal-tariff.png){fig-align="center"}
+
+- El arancel óptimo **no es cero** para un país grande
+- Pero un arancel demasiado alto reduce tanto el comercio que domina la distorsión
 
 ## Subsidios a la exportación
 
-- Un **subsidio a la exportación** es un pago del gobierno a los
-  exportadores
-- Efectos opuestos al arancel:
-  - Aumenta el precio interno del bien exportado
-  - Fomenta la producción y exportación de ese bien
-  - **Empeora** la relación de intercambio del país que subsidia
+- **Efecto opuesto** al arancel:
+  - Aumenta producción del bien exportado
+  - Aumenta oferta mundial
+  - Precio mundial del bien exportado **cae**
+  - RI **empeora**
 
-## Subsidios y relación de intercambio
+. . .
 
-- Si nuestro país subsidia sus exportaciones de $T$:
-  - Aumenta la producción de $T$
-  - Aumenta la oferta mundial de $T$
-  - Cae el precio mundial de $T$ relativo a $A$
-  - Relación de intercambio de nuestro país **empeora**
-- El subsidio a la exportación siempre reduce el bienestar de un país
-  grande (a diferencia del arancel)
-  - Distorsiona la producción Y empeora la relación de intercambio
+> A diferencia del arancel, el subsidio a la exportación **siempre reduce** el bienestar de un país grande
 
-## Subsidios a la exportación (cont.)
+- Distorsiona la producción **Y** empeora la RI
 
-- ¿Por qué los países subsidian exportaciones si es perjudicial?
-  - Beneficia a sectores específicos (productores del bien exportado)
-  - Objetivos de empleo o desarrollo industrial
-  - Consideraciones estratégicas (ganar cuota de mercado)
-- Los subsidios a la exportación están limitados por acuerdos
-  internacionales (OMC)
+## ¿Por qué subsidiar exportaciones?
 
-## Aranceles vs. subsidios: resumen
+Si es perjudicial para el país, ¿por qué se hace?
 
-| Instrumento | Precio interno | Relación de intercambio | Bienestar (país grande) |
-|-------------|----------------|-------------------------|-------------------------|
-| Arancel a importaciones | Sube P del bien importado | Mejora | Ambiguo (puede mejorar) |
-| Subsidio a exportaciones | Sube P del bien exportado | Empeora | Empeora |
+::: {.incremental}
+- **Beneficios sectoriales**: productores del bien exportado ganan
+- **Objetivos de empleo**: mantener trabajos en industrias específicas
+- **Desarrollo industrial**: sectores "estratégicos"
+- **Consideraciones políticas**: grupos de presión
+:::
 
-- El arancel puede beneficiar a un país grande; el subsidio no
-- Ambos instrumentos generan distorsiones internas
-- Ambos perjudican al país extranjero
+. . .
 
-# **Resumen del modelo estándar** {background="#4b6e5c"}
+- Los subsidios a exportaciones están **limitados** por la OMC
 
-## Ideas clave
+## Aranceles vs subsidios: resumen
 
-1. **Relación de intercambio y bienestar**: Una mejora en la relación
-   de intercambio aumenta el bienestar; un deterioro lo reduce
-2. **Crecimiento económico**: El crecimiento sesgado hacia
-   exportaciones tiende a empeorar la relación de intercambio; hacia
-   importaciones tiende a mejorarla
-3. **Transferencias**: Normalmente empeoran la relación de intercambio
-   del donante y mejoran la del receptor
-4. **Aranceles**: Un país grande puede mejorar su relación de
-   intercambio con un arancel, pero genera distorsiones
-5. **Subsidios**: Siempre empeoran la relación de intercambio del país
-   que los aplica
+| Instrumento | P interno | Rel. intercambio | Bienestar (país grande) |
+|-------------|-----------|------------------|------------------------|
+| Arancel a M | ↑ P importado | **Mejora** | Ambiguo (+/-) |
+| Subsidio a X | ↑ P exportado | **Empeora** | Negativo (-) |
+
+. . .
+
+- El arancel **puede** beneficiar a un país grande
+- El subsidio a exportaciones **nunca** beneficia
+- Ambos perjudican al socio comercial
+
+# **Resumen** {background="#4b6e5c"}
+
+## Ideas clave del modelo estándar
+
+::: {.incremental}
+1. **FPP y OR**: la producción responde positivamente a los precios relativos
+
+2. **Preferencias y DR**: el consumo responde negativamente a los precios relativos
+
+3. **Relación de intercambio**: $\frac{P_X}{P_M}$ determina bienestar
+   - Mejora → mayor bienestar
+   - Empeora → menor bienestar
+
+4. **Crecimiento sesgado**: hacia $X$ empeora RI; hacia $M$ mejora RI
+
+5. **Política comercial**: aranceles pueden mejorar RI (país grande); subsidios siempre la empeoran
+:::
+
+## Aplicaciones del modelo
+
+El modelo estándar es útil para analizar:
+
+- **Shocks de términos de intercambio** (ej: caída del precio del petróleo)
+- **Efectos del crecimiento en otros países** sobre nuestro bienestar
+- **Evaluación de políticas comerciales** y sus efectos indirectos
+- **Transferencias internacionales** (ayuda, remesas, reparaciones)
+
+## Para la próxima clase
+
+- Leer capítulo 7: Economías de escala y comercio
+- El modelo estándar asume competencia perfecta y rendimientos constantes
+- ¿Qué pasa cuando hay **economías de escala**?
+- ¿Por qué países similares comercian bienes similares?
