@@ -7,13 +7,11 @@ subtitle: Comercio y Finanzas Internacionales
 
 ## Modelos previos: un repaso
 
-| Modelo | Factores | Fuente de comercio | Foco principal |
-|--------|----------|-------------------|----------------|
-| **Ricardiano** | 1 ($L$) | Diferencias de productividad | Ventaja comparativa |
-| **Factores específicos** | 3 ($L$, $K$, $T$) | Factores inmóviles | Distribución CP |
+| Modelo | Factores | Fuente de comercio | Foco |
+|--------|----------|-------------------|------|
+| **Ricardiano** | 1 ($L$) | Dif. productividad | Ventaja comparativa |
+| **Fact. específicos** | 3 ($L$, $K$, $T$) | Factores inmóviles | Distribución CP |
 | **Heckscher-Ohlin** | 2 ($L$, $K$) | Dotación relativa | Distribución LP |
-
-. . .
 
 - Cada modelo aporta una perspectiva diferente
 - En la práctica, combinamos elementos de todos según el problema
@@ -265,6 +263,14 @@ ggplot(eq_data) +
 
 - **Equilibrio**: $X_T = M_T^*$ y $M_A = X_A^*$
 
+## Determinación de los precios relativos
+
+![Precio relativo con comercio](../_shared/images/cyfi/fig-diagram-immiserizing-growth.png){fig-align="center"}
+
+- $DR$ iguales al ser iguales las preferencias. Precio relativo vía intersección de $OR$ y $DR$
+- Las exportaciones de tela de nuestro país, $Q_{T}-D_{T}$, igualan a las importaciones de tela del extranjero $D_{T}^{*}-Q_{T}^{*}$
+- Las importaciones de alimentos de nuestro país, $D_{A}-Q_{A}$, igualan a las exportaciones de alimentos del extranjero, $Q_{A}^{*}-D_{A}^{*}$
+
 # **Relación de intercambio y bienestar** {background="#4b6e5c"}
 
 ## ¿Qué es la relación de intercambio?
@@ -325,22 +331,22 @@ ggplot(eq_data) +
 ## Tipos de crecimiento sesgado
 
 :::: {.columns}
-::: {.column width="50%"}
+::: {.column width="55%"}
 **Sesgado hacia $T$:**
 
 - Progreso técnico mayor en sector $T$
 - Aumento del factor usado intensivamente en $T$
 - FPP se expande más en dirección de $T$
 
-![](../_shared/images/cyfi/fig-diagram-tariff-effects-small-country.png){fig-align="center" width="90%"}
-:::
-
-::: {.column width="50%"}
 **Sesgado hacia $A$:**
 
 - Progreso técnico mayor en sector $A$
 - Aumento del factor usado intensivamente en $A$
 - FPP se expande más en dirección de $A$
+:::
+
+::: {.column width="45%"}
+![](../_shared/images/cyfi/fig-diagram-tariff-effects-small-country.png){fig-align="center"}
 :::
 ::::
 
@@ -400,16 +406,24 @@ ggplot(growth_data) +
 
 ## Crecimiento sesgado: exportaciones vs importaciones
 
-| Tipo de crecimiento | Efecto en OR de $T$ | Efecto en $\frac{P_T}{P_A}$ | Efecto en RI (exp. $T$) |
-|---------------------|---------------------|------------------------------|-------------------------|
-| Sesgado hacia $X$ (nuestro) | OR → derecha | Cae | **Empeora** |
-| Sesgado hacia $M$ (nuestro) | OR → izquierda | Sube | **Mejora** |
-| Sesgado hacia $X$ (extranjero) | OR → izquierda | Sube | **Mejora** |
-| Sesgado hacia $M$ (extranjero) | OR → derecha | Cae | **Empeora** |
-
-. . .
+| Crecimiento | Efecto OR | Precio rel. | RI (exp. $T$) |
+|-------------|-----------|-------------|---------------|
+| Sesgado $X$ (nuestro) | → derecha | Cae | **Empeora** |
+| Sesgado $M$ (nuestro) | → izquierda | Sube | **Mejora** |
+| Sesgado $X$ (extranjero) | → izquierda | Sube | **Mejora** |
+| Sesgado $M$ (extranjero) | → derecha | Cae | **Empeora** |
 
 > El crecimiento sesgado hacia las **exportaciones** tiende a **empeorar** la RI del país que crece
+
+## Efectos del crecimiento en el resto del mundo
+
+- ¿Qué pasa si el crecimiento sesgado ocurre en el **país extranjero** en lugar del nuestro?
+- Si el extranjero tiene crecimiento sesgado hacia $A$ (su bien de exportación):
+  - Aumenta la OR mundial de $A$ relativo a $T$
+  - Disminuye $\frac{P_{A}}{P_{T}}$ $\longrightarrow$ aumenta $\frac{P_{T}}{P_{A}}$
+  - **Mejora** la relación de intercambio de nuestro país
+- Si el extranjero tiene crecimiento sesgado hacia $T$ (su bien de importación):
+  - **Empeora** la relación de intercambio de nuestro país
 
 ## Crecimiento empobrecedor
 
@@ -516,10 +530,10 @@ Pero también hay **efectos indirectos** a través de la relación de intercambi
 
 ## Instrumentos de política comercial
 
-| Instrumento | Definición | Efecto en precio interno |
-|-------------|------------|--------------------------|
-| **Arancel** | Impuesto a importaciones | Sube precio del bien importado |
-| **Subsidio a exportación** | Pago a exportadores | Sube precio del bien exportado |
+| Instrumento | Definición | Efecto en P interno |
+|-------------|------------|---------------------|
+| **Arancel** | Impuesto a $M$ | Sube P del bien importado |
+| **Subsidio a $X$** | Pago a exportadores | Sube P del bien exportado |
 
 - Ambos distorsionan los precios relativos y afectan la asignación de recursos
 
@@ -630,12 +644,10 @@ Si es perjudicial para el país, ¿por qué se hace?
 
 ## Aranceles vs subsidios: resumen
 
-| Instrumento | P interno | Rel. intercambio | Bienestar (país grande) |
-|-------------|-----------|------------------|------------------------|
-| Arancel a M | ↑ P importado | **Mejora** | Ambiguo (+/-) |
-| Subsidio a X | ↑ P exportado | **Empeora** | Negativo (-) |
-
-. . .
+| Instrumento | P interno | Rel. intercambio | Bienestar |
+|-------------|-----------|------------------|-----------|
+| Arancel a $M$ | ↑ P importado | **Mejora** | Ambiguo |
+| Subsidio a $X$ | ↑ P exportado | **Empeora** | Negativo |
 
 - El arancel **puede** beneficiar a un país grande
 - El subsidio a exportaciones **nunca** beneficia
