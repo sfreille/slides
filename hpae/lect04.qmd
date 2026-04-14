@@ -372,9 +372,6 @@ El utilitarismo benthamita reduce las motivaciones humanas a una sola dimensión
 - Se cultivan primero las mejores tierras; luego las peores
 - La renta de las mejores tierras = diferencia de productividad con la tierra marginal
 
-## La renta diferencial
-
-![](../_shared/images/hpae/fig-table-ricardo-rent-calculation.png){fig-align="center"}
 
 ## Margen extensivo e intensivo
 
@@ -384,6 +381,37 @@ El utilitarismo benthamita reduce las motivaciones humanas a una sola dimensión
 ::: {.importante}
 Ricardo demostró que existían rendimientos decrecientes tanto en el margen intensivo como en el margen extensivo.
 :::
+
+
+## La renta diferencial
+
+![](../_shared/images/hpae/fig-table-ricardo-land-yields.png){fig-align="center"}
+
+## La renta en el margen intensivo 
+
+- David Ricardo define como renta "la diferencia entre el producto
+  obtenido por el empleo de dos cantidades iguales de capital y
+  trabajo"
+  - si solo se cultiva tierra N1, aparecía una renta real de 10 luego de la segunda dosis de K/L (margen intensivo)
+	- al introducir tercera dosis de K/L la renta real es de 30 --100
+      menos 80 para la primera  unidad y 90-80 para la segunda unidad
+  - 
+
+## La renta en el margen extensivo 
+
+- En el margen extensivo, la renta es la diferencia entre el producto
+  de la mejor tierra y el de la peor tierra en cultivo, para
+  cantidades iguales de K/L en ambas
+  - si se usan tierras N1, N2 y N3, y todas reciben una dosis de K/L,
+    la renta de N1 es igual a 60 (270-210), y la renta de N2 es igual
+    a 30 (240-210). 
+- Una vez conocidos los precios de bienes y factores, tendremos
+  asignación optima de gastos totales entre tierras
+  - suponga precio de bien igual a $1$ y precio de cada dosis capital
+    trabajo es igual a $100$ --¿que pasa? y ahora suponga que cada
+    dosis de capital-trabajo es igual a $60$?
+  
+
 
 ## La teoría del valor-trabajo
 
@@ -422,6 +450,32 @@ Ricardo demostró que existían rendimientos decrecientes tanto en el margen int
 - Los salarios permanecen en subsistencia
 
 **Pesimismo ricardiano**: el crecimiento económico beneficia principalmente a los terratenientes.
+
+## La renta diferencial y la teoría del valor
+
+- Suponga con los datos del cuadro anterior que tres dosis de K/L
+  producen 270 bushels de cereal
+- Cada unidad del factor trabajo es un gasto en capital circulante;
+  cada unidad del factor capital es un gasto en capital fijo
+- Los beneficios totales son iguales al ingreso total menos la suma de
+  gastos en capital fijo y circulante
+- Supongamos que:
+  - precio de cereal= 1
+  - tasa de salarios= 10 bushels de cereal y 10 por otras necesidades
+  - depreciacion anual=10
+  
+
+## La renta diferencial y la teoría del valor
+
+![](../_shared/images/hpae/fig-table-ricardo-rent-calculation.png){fig-align="center"}
+
+## La renta diferencial y la teoría del valor
+
+- Al ponerse en produccion N2, tres dosis de K/L producen solo 240 de
+  producto, entonces para obtener el mismo producto equivalente al de
+  la tierra N1 el precio debería aumentar a 1.125
+- Esto hace que aumente el precio del producto para todas las tierras,
+  y que disminuyan los beneficios en todas las tierras
 
 ## Disminución de los beneficios
 
