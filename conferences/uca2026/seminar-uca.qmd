@@ -1,6 +1,5 @@
 ---
-title: "Measuring the Ideology-Policy Gap"
-subtitle: "Empirical Evidence from Argentina's 2023 Election"
+title: "Ideological compasses around a presidential election: the ideology-policy gap"
 author: "<div class=\"author-main\"><strong>Sebastián Freille</strong><br>Instituto de Economía y Finanzas (UNC)</div><hr style=\"width: 50%; margin: 15px auto;\"><div style=\"font-size: 0.5em;\"><strong>Collaborators:</strong> Rubio, M; Jaroszewski, V.; Hofmann, R.; Albarracin, C.; Prazoni, G.; Larovere, S.; Seia, L; Bachiglione, C.; Balbo, S.</div>"
 date: "May 2026"
 format:
