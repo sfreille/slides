@@ -24,6 +24,10 @@ format:
 
 ## A Familiar Paradox
 
+![Preferences about spending on health and education](../output/figures/fig_pulsar_uba.png){fig-align="center" width="75%"}
+
+## A Familiar Paradox
+
 > 90% of Argentines reject cuts to public health and education.
 > Yet Milei won promising exactly that.
 
