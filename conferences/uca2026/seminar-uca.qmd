@@ -1,0 +1,395 @@
+---
+title: "Measuring the Ideology-Policy Gap"
+subtitle: "Empirical Evidence from Argentina's 2023 Election"
+author: "<div class=\"author-main\"><strong>Sebastián Freille</strong><br>Instituto de Economía y Finanzas (UNC)</div><hr style=\"width: 50%; margin: 15px auto;\"><div style=\"font-size: 0.5em;\"><strong>Collaborators:</strong> Rubio, M; Jaroszewski, V.; Hofmann, R.; Albarracin, C.; Prazoni, G.; Larovere, S.; Seia, L; Bachiglione, C.; Balbo, S.</div>"
+date: "May 2026"
+format:
+  revealjs:
+    slide-number: true
+    preview-links: auto
+    width: 1500
+    center-title-slide: true
+    center: true
+    tbl-cap-location: bottom
+    toc: true
+    toc-depth: 1
+    toc-title: Outline
+    link-external-newwindow: true
+    theme: default
+    embed-resources: true
+    self-contained: true
+---
+
+# The Puzzle {background=#00345E}
+
+## A Familiar Paradox
+
+> 90% of Argentines reject cuts to public health and education.
+> Yet Milei won promising exactly that.
+
+. . .
+
+> 4 in 10 US Republicans support universal healthcare.
+> Yet they vote for candidates who oppose it.
+
+. . .
+
+**The question**: Why do voters choose candidates whose *policies* they oppose?
+
+## The Standard Model Fails
+
+**Median Voter Theorem** predicts convergence and policy-based voting.
+
+**Reality**:
+
+- Increasing polarization
+- "Identity" voting
+- Apparent contradictions between beliefs and behavior
+
+. . .
+
+**This paper**: We *measure* the disconnect—and show it predicts voting.
+
+## Ideology vs. Policy: A Distinction
+
+| | Ideology | Policy |
+|---|---|---|
+| **Nature** | Abstract, symbolic | Concrete, operational |
+| **Example** | "Smaller government is better" | "Privatize Aerolíneas Argentinas" |
+| **Literature** | Converse (1964); Ellis & Stimson (2012) | Alesina et al. (2020) |
+
+. . .
+
+**Ellis & Stimson (2012)**: 25-32% of Americans are "conflicted conservatives"—identify conservative but support liberal policies.
+
+**Our contribution**: Measure this *spatially* in two dimensions, link to vote choice.
+
+# Research Design {background=#00345E}
+
+## Two Parallel Questionnaires
+
+:::: {.columns}
+::: {.column width="50%"}
+**Ideology Survey**
+
+- 17 items (8 economic, 9 social)
+- Abstract, identitarian language
+- *"Countries with smaller governments tend to be more successful"*
+:::
+
+::: {.column width="50%"}
+**Policy Survey**
+
+- 17 parallel items
+- Concrete, operational language  
+- *"Privatize Aerolíneas, BNA, and ARSAT"*, *"Eliminate Tarjeta
+Alimentar and use those funds to reduce taxes on PyMEs"*
+:::
+::::
+
+. . .
+
+Each respondent gets **two positions** on the political compass → the **gap** between them is our key variable.
+
+## Sample: Two Survey Waves
+
+| | 2024 Wave | 2025 Wave | Combined |
+|---|:---:|:---:|:---:|
+| N | 25 | 23 | **48** |
+| Milei voters | 15 | 19 | 34 |
+| Massa voters | 4 | 3 | 7 |
+| Blank/No vote | 6 | 1 | 7 |
+
+- FCE-UNC students surveyed around 2023 election
+- 2025 wave includes **self-reported political identities** (16 categories)
+- Pooled analysis with year controls
+
+## Candidate Positions via LLM
+
+We locate candidates on the same compass using **LLM-based inference**:
+
+1. Fed Gemini 2.5 Pro transcripts of presidential debates
+2. Asked it to answer *our two surveys* as each candidate --we "asked"
+   all 34 questions to each candidate
+3. Required verbatim quotes as justification
+
+. . .
+
+**Result** (ballotage candidates):
+
+| Candidate | Economic | Social |
+|-----------|:--------:|:------:|
+| **Milei** | +9.0 | +3.0 |
+| **Massa** | -6.75 | -1.0 |
+
+# Main Results {background=#00345E}
+
+## The Political Compass: Where Voters Stand
+
+![Policy positions with candidate locations. Blue = Milei voters, Red = Massa voters.](../output/figures/fig_compass_with_candidates.png){fig-align="center" width="75%"}
+
+## The Gap: Ideology → Policy
+
+![Arrows show direction and magnitude of each voter's ideology-policy gap.](../output/figures/fig_compass_arrows.png){fig-align="center" width="75%"}
+
+## The Representation Paradox
+
+![Voters are systematically more centrist than the candidates they vote for. Dashed arrows show distance to "own" candidate.](../output/figures/fig_voter_centroid_distance.png){fig-align="center" width="80%"}
+
+. . .
+
+::: {.callout-important}
+## Inverse Median Voter?
+**Milei voters** average 8.66 units from Milei. **Massa voters** average 3.04 units from Massa. Candidates are more extreme than their supporters!
+:::
+
+## Key Finding #1: The Gap Predicts Voting
+
+**Logistic regression**: Distance to candidates in ideology and policy space
+
+| Model | Accuracy | N |
+|-------|:--------:|:-:|
+| Ideology distance only | 58.5% | 41 |
+| Policy distance only | 48.8% | 41 |
+| Logistic (ideology) | 92.7% | 41 |
+| Logistic (policy) | 90.2% | 41 |
+| **Full model (ideology + policy)** | **92.7%** | 41 |
+
+. . .
+
+**Robustness**: Leave-one-out CV = 87.8%; Bootstrap 95% CI = [82.9%, 97.6%]
+
+## The Econometric Model
+
+We transform the **probabilistic voting model** into a spatial loss function:
+
+$$L^{ij} = \alpha \sqrt{(\sigma^{ij} - \sigma^A)^2} + \beta \sqrt{(q^{ij} - q^A)^2}$$
+
+. . .
+
+The **logistic specification** for vote probability:
+
+$$P(V_i = \text{Milei}) = \frac{1}{1 + \exp\left( -\gamma_0 - \alpha \cdot \Delta d_{\text{ideo}}^{i} - \beta \cdot \Delta d_{\text{pol}}^{i} \right)}$$
+
+Where $\Delta d = d^{Massa} - d^{Milei}$ (positive = closer to Milei)
+
+## Predicted Probabilities: The S-Curve
+
+![Probability of voting Milei as a function of ideological and policy distance differentials. Steeper curves = stronger predictive power.](../output/figures/fig_predicted_probabilities.png){fig-align="center" width="85%"}
+
+## Model Validation: Confusion Matrix
+
+![Confusion matrix showing predicted vs. observed votes. 38 of 41 votes correctly classified (92.7% accuracy).](../output/figures/fig_confusion_matrix.png){fig-align="center" width="70%"}
+
+. . .
+
+::: {.callout-tip}
+## Key Insight
+The model correctly identifies **all 7 Massa voters** and misclassifies only **3 of 34 Milei voters** as Massa supporters.
+:::
+
+## Key Finding #2: Milei Voters Have Larger Gaps
+
+![Gap magnitude by vote choice. Milei voters show systematically larger ideology-policy divergence.](../output/figures/fig_gap_by_vote.png){fig-align="center" width="75%"}
+
+## Quantifying the Gap Asymmetry
+
+| Vote | Mean Gap | Median Gap | SD |
+|------|:--------:|:----------:|:--:|
+| **Milei** | 3.21 | 2.60 | 1.77 |
+| **Massa** | 2.06 | 2.44 | 1.32 |
+
+. . .
+
+**Interpretation**: Milei voters are more likely to be "conflicted"—their ideology and policy positions diverge more.
+
+- Connects to Ellis & Stimson's "conflicted conservatism"
+- Extends finding to multidimensional space
+
+## Key Finding #3: Voter Typology
+
+![Four types of voters based on gap direction. "Conflicted" voters show ideology-policy mismatch.](../output/figures/fig_conflicted_voters.png){fig-align="center" width="75%"}
+
+## The Four Types
+
+| Type | Description | % of Sample |
+|------|-------------|:-----------:|
+| Consistent Right | Right ideology, right policy | 39% |
+| Consistent Left | Left ideology, left policy | 17% |
+| **Conflicted Right** | Right ideology, *left* policy | 27% |
+| **Conflicted Left** | Left ideology, *right* policy | 17% |
+
+. . .
+
+**~44% of voters show some form of ideological conflict**—their policy stance doesn't match their stated ideology.
+
+# Interpretation {background=#00345E}
+
+## What Have We Learned?
+
+::: {.incremental}
+1. **Ideology ≠ Policy** — 44% of voters show meaningful divergence between their ideological identity and policy preferences
+
+2. **Asymmetric conflict** — Right-wing voters exhibit larger gaps, consistent with "symbolic conservatism" (Ellis & Stimson)
+
+3. **Predictive power** — Spatial distances outperform simple proximity models by 35+ percentage points
+
+4. **Inverse MVT** — Candidates are more extreme than their voters, not the reverse
+:::
+
+## Connecting to the Literature
+
+| Finding | Related Work |
+|---------|--------------|
+| Ideology-policy gap exists | Ellis & Stimson (2012); Claassen et al. (2015) |
+| Gap varies by partisanship | Achen & Bartels (2016); Mason (2018) |
+| Voters more centrist than candidates | Fiorina (2017); elite polarization |
+| Policy misperceptions | Alesina, Stantcheva & Teso (2018) |
+
+. . .
+
+**Our contribution**: First *spatial measurement* of the gap at individual level, linked to vote choice.
+
+# Limitations & Next Steps {background=#00345E}
+
+## Limitations
+
+1. **Sample**: University students (FCE-UNC), not representative
+2. **Single election**: Argentina 2023 (high-stakes, polarized)
+3. **LLM validation**: Candidate positions need expert cross-validation
+
+. . .
+
+**But**: Proof of concept for methodology; replication underway.
+
+## Research Agenda
+
+1. **Scale up**: Online panels, cross-university, representative samples
+2. **Identity mechanisms**: 2025 wave has 16 identity categories—analysis in progress
+3. **Panel design**: Track same individuals across elections
+
+. . .
+
+**Ultimate goal**: Understand when and why ideology decouples from policy in voter decision-making.
+
+# Conclusion {background=#00345E}
+
+## Summary
+
+1. **Methodology**: Separate ideology from policy using parallel questionnaires; locate voters and candidates in 2D space
+
+2. **Main finding**: The ideology-policy gap predicts voting with 92.7% accuracy (robust to cross-validation)
+
+3. **Substantive insight**: ~44% of voters are "conflicted"—Milei voters especially show large gaps
+
+4. **Implication**: Voters may choose candidates based on *identity* despite disagreeing on *policy*
+
+## The Takeaway
+
+> Voters don't vote their interests. They don't even vote their stated beliefs.
+> They vote the *gap* between who they think they are and what they actually want.
+
+. . .
+
+**Thank you.**
+
+sfreille@unc.edu.ar
+
+# Appendix {background=#00345E}
+
+## A1: Full Regression Results
+
+![Coefficient estimates with 95% bootstrap confidence intervals.](../output/figures/fig_coefficient_forest.png){fig-align="center" width="80%"}
+
+## A2: Bootstrap Accuracy Distribution
+
+![1,000 bootstrap replications. 95% CI: [82.9%, 97.6%].](../output/figures/fig_bootstrap_accuracy.png){fig-align="center" width="80%"}
+
+## A3: Compass by Survey Year
+
+![Policy positions faceted by 2024 vs 2025 cohort. Results stable across waves.](../output/figures/fig_compass_by_year.png){fig-align="center" width="90%"}
+
+## A4: Gap Distribution
+
+![Distribution of ideology-policy gap magnitude across all voters.](../output/figures/fig_gap_distribution.png){fig-align="center" width="80%"}
+
+## A5: Gap Direction Patterns
+
+![Scatterplot of economic vs. social gap direction. Quadrants show conflict types.](../output/figures/fig_gap_direction.png){fig-align="center" width="80%"}
+
+## A6: Political Identity Distribution (2025 Wave)
+
+![Self-reported political identities. Multiple selections allowed.](../output/figures/fig_identity_distribution.png){fig-align="center" width="80%"}
+
+## A7: Axes by Political Identity
+
+![Ideology and policy positions grouped by self-reported identity.](../output/figures/fig_axes_by_identity.png){fig-align="center" width="80%"}
+
+## A8: Voter Centroids vs. Candidates
+
+![Average position of Milei and Massa voters vs. candidate positions. Dashed lines show distance to "own" candidate.](../output/figures/fig_voter_centroid_distance.png){fig-align="center" width="80%"}
+
+## A9: Model Accuracy Comparison
+
+| Model | Correct | Total | Accuracy |
+|-------|:-------:|:-----:|:--------:|
+| Ideology-based (nearest candidate) | 24 | 41 | 58.5% |
+| Policy-based (nearest candidate) | 20 | 41 | 48.8% |
+| Combined (average distance) | 22 | 41 | 53.7% |
+| Logistic regression (ideology) | 38 | 41 | 92.7% |
+| Logistic regression (policy) | 37 | 41 | 90.2% |
+| **Logistic regression (full)** | **38** | **41** | **92.7%** |
+
+## A10: Descriptive Statistics by Vote
+
+| Group | N | Econ Ideo | Social Ideo | Econ Policy | Social Policy |
+|-------|:-:|:---------:|:-----------:|:-----------:|:-------------:|
+| Milei | 34 | +1.54 | +0.22 | +0.47 | +1.53 |
+| Massa | 7 | -3.57 | -3.47 | -4.11 | -2.52 |
+| **Overall** | **41** | **+0.67** | **-0.41** | **-0.31** | **+0.84** |
+
+## A11: LLM Methodology
+
+We used **Google Gemini 2.5 Pro** to locate candidates:
+
+1. Fed transcript of first presidential debate (Oct 1, 2023)
+2. Asked model to answer our survey *as each candidate*
+3. Required verbatim quotes as justification
+4. Cross-validated with CNE platforms and interviews
+
+. . .
+
+**Advantages**: Replicable, low-cost, transparent
+
+**Limitation**: Requires validation against expert surveys
+
+## A12: Survey Instruments
+
+:::: {.columns}
+::: {.column width="50%"}
+![Ideology questionnaire](../imagenes/preguntas-encuesta-ideologia.png){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![Policy questionnaire](../imagenes/preguntas-encuesta-policies.png){fig-align="center"}
+:::
+::::
+
+## A13: Year Stability Check
+
+| Year | Accuracy | N |
+|------|:--------:|:-:|
+| 2024 | 100.0% | 20 |
+| 2025 | 100.0% | 21 |
+| **Pooled** | **92.7%** | **41** |
+
+Model performs well in both cohorts separately.
+
+## A14: Alternative Distance Metrics
+
+| Metric | Accuracy |
+|--------|:--------:|
+| Euclidean distance | 92.7% |
+| Manhattan distance | 90.2% |
+
+Results robust to distance specification.
