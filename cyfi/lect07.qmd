@@ -63,7 +63,7 @@ Y=C+I+G
   exportaciones $X$ que se vende a extranjeros son gastos en nuestros bienes y añaden al PNB
 
 \begin{equation}
-Y=C+I+G+X-N
+Y=C+I+G+X-M
 \end{equation}
 
 ## Identidad nacional en economía abierta (cont.)
@@ -71,6 +71,33 @@ Y=C+I+G+X-N
 > El ingreso nacional de una economía abierta es la suma del gasto
 > efectuado por los residentes y no residentes en bienes y servicios
 > producidos por los factores de producción nacionales
+
+## PNB vs PIB: una distinción importante
+
+- **Producto Interno Bruto (PIB)**: valor de todos los bienes y
+  servicios producidos **dentro del territorio** de un país
+- **Producto Nacional Bruto (PNB)**: valor de todos los bienes y
+  servicios producidos por **factores de producción nacionales**
+  
+\begin{equation}
+PNB = PIB + \text{Rentas netas del exterior}
+\end{equation}
+
+- Las **rentas netas** incluyen:
+  - Intereses y dividendos recibidos menos pagados
+  - Salarios de residentes trabajando en el exterior menos salarios de
+    extranjeros trabajando localmente
+
+## PNB vs PIB: ejemplo Argentina
+
+> **Ejemplo:** Una empresa argentina tiene una filial en Brasil que
+> genera ganancias. Esas ganancias se cuentan en el PIB de Brasil
+> (producidas allí), pero también en el PNB de Argentina (propiedad de
+> factores argentinos). Si Argentina paga intereses de deuda externa,
+> eso **reduce** el PNB argentino pero no afecta el PIB.
+
+- Para países muy endeudados, $PNB < PIB$
+- Para países acreedores netos, $PNB > PIB$
 
 ## Identidad nacional: ejemplo
 
@@ -99,6 +126,14 @@ Y=C+I+G+X-N
   doméstico ($C+I+G$) es igual a 110, si restamos 20 de $M$ y sumamos
   10 de $X$ el gasto total es igual al $PNB$
 
+## Intuición: vivir por encima de los medios
+
+> **Caja de intuición:** Campestre produce 100 kg de trigo pero consume
+> bienes por valor de 110 kg (75+25+10). ¿Cómo es posible? El país
+> **importa** más de lo que **exporta** ($M=20 > X=10$). La diferencia
+> de 10 kg la financia con **deuda externa** o reduciendo **activos
+> externos**. Campestre está "viviendo por encima de sus medios".
+
 ## Balanza de cuenta corriente (CC)
 
 - La balanza de cuenta corriente o simplemente cuenta corriente es la
@@ -110,7 +145,7 @@ Y=C+I+G+X-N
   -esto implica a **aumentar el endeudamiento exterior neto** en la
   magnitud del déficit de CC
 - En resumen, **la balanza de cuenta corriente (CC) iguala a la
-  variación del nivel de riqueza exterior neta de un país*
+  variación del nivel de riqueza exterior neta de un país**
 
 ## Balanza de cuenta corriente (CC) (cont.)
 
@@ -123,6 +158,17 @@ Y-(C+I+G)=X-M=CC
 > Un país con *déficit de CC* importa consumo presente y exporta
 > consumo futuro. Un país con *superavit de CC* exporta consumo
 > presente e importa consumo futuro
+
+## Ejemplo: Argentina y la cuenta corriente
+
+- Argentina históricamente ha tenido períodos de déficit de CC:
+  - **1990s (Convertibilidad):** déficit persistente, financiado con
+    entrada de capitales y privatizaciones
+  - **2001:** crisis cuando el financiamiento externo se cortó
+  - **Post-2002:** superávit de CC por devaluación y boom de commodities
+- El déficit de CC no es "malo" per se, pero debe ser **sostenible**:
+  - ¿Se usa para inversión productiva o para consumo?
+  - ¿Hay capacidad de repago futura?
 
 ## Balanza de cuenta corriente (CC) (cont.)
 
@@ -165,7 +211,15 @@ S=I+CC
   ser prestado a otro país
   - un país importa consumo presente (se endeuda con otro) y exporta
     consumo futuro (cuando devuelva el prestamo)
-	
+
+## La relación S = I + CC
+
+| Situación | Ahorro vs Inversión | CC | Interpretación |
+|-----------|---------------------|-----|----------------|
+| $S > I$ | Ahorro excede inversión | Superávit | País presta al resto del mundo |
+| $S < I$ | Inversión excede ahorro | Déficit | País se endeuda con el resto del mundo |
+| $S = I$ | Iguales | Equilibrio | Sin flujos netos de capital |
+
 ## Ahorro público y privado
 
 - El **ahorro privado, $S^{P}$** es la parte del $Y$ que se ahorra. El
@@ -192,6 +246,37 @@ S^{P}&=I+CC-S^{G}=I+CC-(T-G)=I+CC+(G-T)
 > ellos (cuenta corriente). En tercer lugar, del sector público a
 > través de comprarle bonos y crédito público (gobierno). 
 
+## Los déficits gemelos
+
+- De la identidad $S^{P}=I+CC+(G-T)$ se deriva:
+
+\begin{equation}
+CC = (S^{P}-I) - (G-T)
+\end{equation}
+
+> **Déficits gemelos:** Si el sector privado mantiene constante su
+> balance $(S^{P}-I)$, un aumento del déficit fiscal $(G-T)$ se traduce
+> en un aumento del déficit de cuenta corriente. El gobierno gasta más
+> de lo que recauda, y el país importa más de lo que exporta.
+
+- Ejemplo clásico: EEUU en los años 1980s con Reagan
+
+## Ejemplo numérico: tres escenarios
+
+| Variable | Escenario A | Escenario B | Escenario C |
+|----------|-------------|-------------|-------------|
+| $Y$ | 1000 | 1000 | 1000 |
+| $C$ | 600 | 650 | 600 |
+| $I$ | 200 | 200 | 250 |
+| $G$ | 150 | 150 | 150 |
+| $X-M$ (CC) | 50 | 0 | 0 |
+| $S=Y-C-G$ | 250 | 200 | 250 |
+| $S-I$ | 50 | 0 | 0 |
+
+- **A:** Superávit de CC, el país presta al exterior
+- **B:** Más consumo, CC balanceada
+- **C:** Más inversión (financiada con ahorro interno)
+
 # **Contabilidad de la balanza de pagos** {background="#4b6e5c"}
 
 ## La balanza de pagos
@@ -204,9 +289,43 @@ S^{P}&=I+CC-S^{G}=I+CC-(T-G)=I+CC+(G-T)
   bueno o malo? ¿Qué significa una salida de divisas?
   - En otras palabras, las cuentas de la BP representan pagos e
     ingresos procedentes del exterior
-	- **Crédito** $\longrightarrow$ ingreso procendente del exterior
+	- **Crédito** $\longrightarrow$ ingreso procedente del exterior
 	- **Débito** $\longrightarrow$ pago/egreso al exterior
    
+## Estructura de la balanza de pagos
+
+```{mermaid}
+%%| fig-align: center
+%%{init: {'theme': 'base', 'themeVariables': { 'fontSize': '14px'}}}%%
+flowchart TB
+    BP["<b>BALANZA DE PAGOS</b>"]
+    
+    subgraph CC["<b>CUENTA CORRIENTE (CC)</b>"]
+        CC1["Bienes (balanza comercial)"]
+        CC2["Servicios"]
+        CC3["Rentas primarias<br/>(intereses, dividendos)"]
+        CC4["Rentas secundarias<br/>(transferencias)"]
+    end
+    
+    subgraph CK["<b>CUENTA CAPITAL (CK)</b>"]
+        CK1["Transferencias de capital"]
+    end
+    
+    subgraph CF["<b>CUENTA FINANCIERA (CF)</b>"]
+        CF1["Inversión directa"]
+        CF2["Inversión de cartera"]
+        CF3["Otra inversión"]
+        CF4["Variación de reservas"]
+    end
+    
+    BP --> CC
+    BP --> CK
+    BP --> CF
+    
+    style CC fill:#d4edda,stroke:#28a745
+    style CK fill:#fff3cd,stroke:#856404
+    style CF fill:#cce5ff,stroke:#004085
+```
 
 ## La balanza de pagos (cont.)
 
@@ -269,8 +388,21 @@ S^{P}&=I+CC-S^{G}=I+CC-(T-G)=I+CC+(G-T)
 | Tipo                                      | Crédito | Débito |
 |-------------------------------------------|---------|--------|
 | Compra de acción de PBR [CF/ARG/M activos]|         | 95     |
-| Deposito pago en bancoo [CF/ARG/X activos]| 95      |        |
- 
+| Deposito pago en banco [CF/ARG/X activos] | 95      |        |
+
+## Ejemplo adicional: exportación con pago diferido
+
+- Una bodega argentina vende vino a EEUU por USD 50,000 con pago a 90
+  días
+
+| Tipo                                      | Crédito | Débito |
+|-------------------------------------------|---------|--------|
+| Exportación de vino [CC/ARG/X bien]       | 50000   |        |
+| Crédito comercial [CF/ARG/M activo]       |         | 50000  |
+
+- Argentina **exporta** un bien (crédito CC) y **adquiere** un activo
+  financiero (derecho de cobro = débito CF)
+
 ## La balanza de pagos: identidad fundamental
 
 - Recuerde que cualquier transacción internacional da lugar a dos
@@ -301,6 +433,15 @@ CC+CK=CF
 - Tambien existe cuenta de transferencias unilaterales --incluye
   donaciones sin contraprestacion alguna; también algun tipo de ayuda
 
+## Balanza comercial vs cuenta corriente
+
+> **Caja de intuición:** La **balanza comercial** (sólo bienes) puede
+> mostrar superávit mientras la **cuenta corriente** (total) muestra
+> déficit. ¿Cómo? Si un país exporta muchos bienes pero paga mucho en
+> intereses de deuda externa, la CC será peor que la balanza comercial.
+> Esto ocurrió en Argentina en los 1990s: exportaciones crecían pero el
+> pago de intereses deterioraba la CC.
+
 ## La balanza de pagos: en la práctica (cont.)
 
 ![](../_shared/images/cyfi/fig-diagram-trade-costs-distance.png){fig-align="center"}
@@ -317,6 +458,15 @@ CC+CK=CF
 ## La balanza de pagos: en la práctica (cont.)
 
 ![](../_shared/images/cyfi/fig-diagram-border-effects.png){fig-align="center"}
+
+## Tipos de flujos financieros
+
+| Tipo | Descripción | Ejemplo |
+|------|-------------|---------|
+| **IED** | Inversión directa, control > 10% | Toyota instala fábrica |
+| **Cartera** | Acciones y bonos sin control | Fondo compra bonos soberanos |
+| **Otra inversión** | Préstamos, depósitos | Banco presta a empresa |
+| **Reservas** | Activos del banco central | BCRA compra dólares |
 
 ## Transacciones de reservas oficiales
 
@@ -340,6 +490,28 @@ CC+CK=CF
 > pagarle a Saab Motors. Las reservas internacionales del BCRA
 > disminuirán en el monto de la venta. Esto implica un crédito en la
 > $CF$ de Argentina y un débito en la $CC$ por la adquisición de autos 
+
+## Reservas internacionales: ¿para qué sirven?
+
+- Las **reservas internacionales** cumplen varias funciones:
+  1. **Intervenir en el mercado cambiario** para suavizar volatilidad
+  2. **Respaldar la moneda** y generar confianza
+  3. **Financiar importaciones** en momentos de crisis
+  4. **Pagar deuda externa** cuando no hay acceso a mercados
+- Regla práctica: reservas deberían cubrir 3-6 meses de importaciones
+
+## Ejemplo: intervención del BCRA
+
+- Suponga que el peso se está depreciando rápidamente
+- El BCRA decide vender USD 500 millones para defender el tipo de cambio
+
+| Tipo                                      | Crédito | Débito |
+|-------------------------------------------|---------|--------|
+| Venta de reservas [CF/ARG/X activo]       | 500     |        |
+| Compra de pesos [no registra, es interno] |         |        |
+
+- Las reservas **bajan**, el BCRA "pierde" activos externos
+- A cambio, retira pesos del mercado (reduce oferta de pesos)
  
 ## La balanza de pagos
 
@@ -352,5 +524,51 @@ CC+CK=CF
   pagos puede llevar a un crisis de la balanza de pagos que requieren
   fuertes ajustes internos (i.e. devaluación brusca) para reequilibrar
   los flujos
-  
-  
+
+## Crisis de balanza de pagos: el mecanismo
+
+```{mermaid}
+%%| fig-align: center
+%%{init: {'theme': 'base', 'themeVariables': { 'fontSize': '15px'}}}%%
+flowchart TB
+    A["<b>Déficit CC persistente</b>"] --> B["Necesidad de financiamiento externo"]
+    B --> C["Acumulación de deuda /<br/>pérdida de reservas"]
+    C --> D["Pérdida de confianza<br/>de inversores"]
+    D --> E["<b>Salida de capitales</b><br/>('sudden stop')"]
+    E --> F["Presión sobre el tipo de cambio"]
+    F --> G["<b>Devaluación y/o<br/>ajuste recesivo</b>"]
+    
+    style A fill:#fff3cd,stroke:#856404
+    style E fill:#f8d7da,stroke:#721c24
+    style G fill:#f8d7da,stroke:#721c24
+```
+
+## Ejemplo histórico: crisis argentina 2001
+
+- **1990s:** déficit de CC financiado con entrada de capitales
+- **1998-2001:** caen flujos de capital, reservas se agotan
+- **Diciembre 2001:** 
+  - Reservas < USD 15 mil millones
+  - Corralito bancario
+  - Default de deuda
+  - Abandono de la convertibilidad
+- **Lección:** los déficits de CC deben ser sostenibles
+
+# **Resumen del capítulo** {background="#4b6e5c"}
+
+## Conceptos clave
+
+1. **Identidad de economía abierta:** $Y = C + I + G + X - M$
+2. **Cuenta corriente:** $CC = X - M = S - I$
+3. **Ahorro privado:** $S^P = I + CC + (G-T)$
+4. **Partida doble:** toda transacción tiene dos registros
+5. **Identidad BP:** $CC + CK = CF$
+
+## Preguntas de repaso
+
+1. ¿Por qué un país puede consumir más de lo que produce?
+2. ¿Qué relación hay entre déficit fiscal y déficit de CC?
+3. Si Argentina exporta soja y paga intereses de deuda, ¿cómo se
+   registra en la BP?
+4. ¿Por qué un déficit de CC no es necesariamente "malo"?
+5. ¿Qué indica una caída persistente de reservas internacionales?

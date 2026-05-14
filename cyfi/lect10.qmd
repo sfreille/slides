@@ -1,4 +1,4 @@
-﻿---
+---
 title: Niveles de precios y tipo de cambio en el largo plazo
 subtitle: Comercio y Finanzas Internacionales
 ---
@@ -36,7 +36,7 @@ P_{i}=E \times P_{i}^{*}
   - $E$ es el tipo de cambio (unidades de moneda local por unidad de
     moneda extranjera)
 - Ejemplo: si una camiseta cuesta $20 en EEUU y el tipo de cambio es
-  $E=100$ pesos por dólar, la camiseta debería costar $2000 pesos en
+  $E=1000$ pesos por dólar, la camiseta debería costar $20.000 pesos en
   Argentina
 
 ## Arbitraje y la ley del precio único
@@ -48,6 +48,17 @@ P_{i}=E \times P_{i}^{*}
   - Si $P_{i}<E \times P_{i}^{*}$: conviene comprar localmente y
     exportar $\longrightarrow$ presión al alza sobre $P_{i}$
 - El arbitraje continúa hasta que $P_{i}=E \times P_{i}^{*}$
+
+## Ejemplo: arbitraje de bienes
+
+> **Ejemplo numérico:** iPhone cuesta USD 1,000 en Miami. Tipo de
+> cambio: 1,000 pesos/dólar. Precio en Argentina: 1,500,000 pesos.
+>
+> - Precio "equivalente" en Argentina debería ser: 1,000 × 1,000 =
+>   1,000,000 pesos
+> - iPhone está 50% más caro en Argentina
+> - Oportunidad de arbitraje: comprar en Miami, vender en Argentina
+> - Pero: aranceles, costos de envío, garantía, tiempo...
 
 ## Limitaciones de la ley del precio único
 
@@ -62,6 +73,21 @@ P_{i}=E \times P_{i}^{*}
   4. **Diferenciación de productos** $\longrightarrow$ marcas,
      preferencias locales
   5. **Rigidez de precios** $\longrightarrow$ contratos, menúes
+
+## Los costos de transporte crean "bandas"
+
+- Si el costo de transportar el bien $i$ es $c$, entonces:
+
+\begin{equation}
+P_{i}^{*} \times E - c \leq P_{i} \leq P_{i}^{*} \times E + c
+\end{equation}
+
+- Dentro de esta "banda" no hay arbitraje
+- El arbitraje solo es rentable si la diferencia de precios supera $c$
+
+> **Intuición:** Aunque la Coca-Cola sea más barata en Paraguay, no
+> conviene traerla si el costo del viaje supera el ahorro. Por eso
+> precios pueden diferir sin que haya arbitraje.
 
 # **La paridad del poder adquisitivo (PPA)** {background="#4b6e5c"}
 
@@ -92,12 +118,12 @@ E=\frac{P}{P^{*}}
 ## PPA absoluta (cont.)
 
 - Ejemplo numérico:
-  - Canasta de bienes cuesta $10.000 pesos en Argentina
-  - Misma canasta cuesta $100 dólares en EEUU
-  - Tipo de cambio PPA: $E=\frac{10000}{100}=100$ pesos por dólar
+  - Canasta de bienes cuesta $1,000,000 pesos en Argentina
+  - Misma canasta cuesta $1,000 dólares en EEUU
+  - Tipo de cambio PPA: $E=\frac{1,000,000}{1,000}=1,000$ pesos por dólar
 - Si el tipo de cambio de mercado difiere del tipo de cambio PPA:
-  - $E_{mercado}>E_{PPA}$: peso está **subvaluado**
-  - $E_{mercado}<E_{PPA}$: peso está **sobrevaluado**
+  - $E_{mercado}>E_{PPA}$: peso está **subvaluado** (dólar caro)
+  - $E_{mercado}<E_{PPA}$: peso está **sobrevaluado** (dólar barato)
 
 ## El índice Big Mac
 
@@ -105,21 +131,30 @@ E=\frac{P}{P^{*}}
 - Usa el precio de un Big Mac como "canasta" estandarizada
 - Permite comparar si monedas están sobre/subvaluadas respecto a PPA
 - Ejemplo (hipotético):
-  - Big Mac en EEUU: $5
-  - Big Mac en Argentina: $1500 pesos
-  - Tipo de cambio PPA: $300 pesos por dólar
-  - Si tipo de cambio mercado es $500: peso subvaluado 40%
+  - Big Mac en EEUU: $5.50
+  - Big Mac en Argentina: $5,000 pesos
+  - Tipo de cambio PPA: 5,000/5.50 = 909 pesos por dólar
+  - Si tipo de cambio mercado es 1,100: peso subvaluado 21%
 
-## Indice Big Mac
+## ¿Por qué el Big Mac?
+
+> **Caja de intuición:** El Big Mac es casi idéntico en todo el mundo:
+> mismos ingredientes, mismo proceso, misma marca. Es un producto
+> "estandarizado" que permite comparaciones internacionales. Además,
+> incorpora tanto bienes comerciables (carne, pan) como no comerciables
+> (alquiler del local, salarios de empleados). Es imperfecto, pero
+> útil como indicador rápido.
+
+## Índice Big Mac
 
 ![](../_shared/images/cyfi/fig-table-big-mac-index.png){fig-align="center" width="55%"}
 
-## Indice Big Mac (cont.)
+## Índice Big Mac (cont.)
 
-- La tabla muestra precios del Big Mac en distintos paises
-- Columna "PPA implicita" indica tipo de cambio segun ley precio unico
-- Columna "Infra/sobre valoracion" compara con tipo de cambio de mercado
-- Permite identificar monedas sub o sobrevaluadas respecto al dolar
+- La tabla muestra precios del Big Mac en distintos países
+- Columna "PPA implícita" indica tipo de cambio según ley precio único
+- Columna "Infra/sobre valoración" compara con tipo de cambio de mercado
+- Permite identificar monedas sub o sobrevaluadas respecto al dólar
 
 ## PPA relativa
 
@@ -140,9 +175,9 @@ E=\frac{P}{P^{*}}
     $\longrightarrow$ moneda local se deprecia
   - La depreciación compensa exactamente el diferencial de inflación
 - Ejemplo:
-  - Inflación en Argentina: 50% anual
+  - Inflación en Argentina: 100% anual
   - Inflación en EEUU: 3% anual
-  - Depreciación esperada del peso: 47% anual (aproximadamente)
+  - Depreciación esperada del peso: 97% anual (aproximadamente)
 
 ## Derivación de la PPA relativa
 
@@ -159,6 +194,17 @@ E=\frac{P}{P^{*}}
 \begin{equation}
 \frac{\Delta E}{E} \approx \pi - \pi^{*}
 \end{equation}
+
+## Ejemplo numérico: PPA relativa
+
+| Año | Inflación ARG | Inflación EEUU | Diferencial | Depreciación E |
+|-----|---------------|----------------|-------------|----------------|
+| 1 | 50% | 3% | 47% | ~47% |
+| 2 | 100% | 4% | 96% | ~96% |
+| 3 | 25% | 2% | 23% | ~23% |
+
+- La depreciación del peso sigue de cerca al diferencial de inflación
+- Esto es PPA relativa "en acción"
 
 # **Modelo monetario a largo plazo** {background="#4b6e5c"}
 
@@ -195,6 +241,16 @@ E=\frac{M^{s}/L(R,Y)}{M^{s*}/L^{*}(R^{*},Y^{*})}=\frac{M^{s}}{M^{s*}} \times \fr
     inflación esperada (efecto Fisher)
   - Mayor inflación esperada $\longrightarrow$ depreciación
 
+## ¿Contradicción aparente?
+
+| Horizonte | ↑R local | Explicación |
+|-----------|----------|-------------|
+| **Corto plazo** | Apreciación | Depósitos locales más atractivos |
+| **Largo plazo** | Depreciación | Mayor R refleja mayor inflación esperada |
+
+> La clave es distinguir si el aumento de R es **temporal** (política
+> monetaria contractiva) o **permanente** (mayor inflación esperada).
+
 ## Versión en tasas de crecimiento
 
 - Tomando tasas de crecimiento del modelo:
@@ -210,16 +266,28 @@ E=\frac{M^{s}/L(R,Y)}{M^{s*}/L^{*}(R^{*},Y^{*})}=\frac{M^{s}}{M^{s*}} \times \fr
 \frac{\Delta E}{E}=(\mu-\mu^{*})-\eta_{Y}(g_{Y}-g_{Y}^{*})
 \end{equation}
 
-## Dinamica del tipo de cambio e inflacion
+## Interpretación de la fórmula
+
+- La depreciación del peso depende de:
+  1. **Diferencial de crecimiento monetario** ($\mu - \mu^*$): más
+     emisión en Argentina → más depreciación
+  2. **Diferencial de crecimiento del PIB** ($g_Y - g_Y^*$): más
+     crecimiento en Argentina → menos depreciación (más demanda de
+     pesos para transacciones)
+
+> Si Argentina emite 50% más dinero y EEUU 5%, pero Argentina crece
+> igual que EEUU, el peso se deprecia ~45%.
+
+## Dinámica del tipo de cambio e inflación
 
 ![](../_shared/images/cyfi/fig-diagram-inflation-increase-dynamics.png){fig-align="center" width="70%"}
 
-## Dinamica del tipo de cambio e inflacion (cont.)
+## Dinámica del tipo de cambio e inflación (cont.)
 
-- La figura muestra trayectorias tras aumento permanente de inflacion
-- (a) Oferta monetaria crece mas rapido (pendiente mayor)
-- (b) Tipo de interes salta al nuevo nivel (efecto Fisher)
-- (c) Precios suben mas rapido
+- La figura muestra trayectorias tras aumento permanente de inflación
+- (a) Oferta monetaria crece más rápido (pendiente mayor)
+- (b) Tipo de interés salta al nuevo nivel (efecto Fisher)
+- (c) Precios suben más rápido
 - (d) Tipo de cambio salta y luego se deprecia continuamente
 
 # **Evidencia empírica sobre la PPA** {background="#4b6e5c"}
@@ -239,6 +307,17 @@ E=\frac{M^{s}/L(R,Y)}{M^{s*}/L^{*}(R^{*},Y^{*})}=\frac{M^{s}}{M^{s*}} \times \fr
   y 1985, luego se depreció
 - Las desviaciones de PPA pueden ser **grandes y persistentes**
 
+## Tipo de cambio real: ¿qué nos dice?
+
+| $q$ | Interpretación | Implicancia |
+|-----|----------------|-------------|
+| $q > 1$ | Bienes locales baratos | Competitividad alta |
+| $q < 1$ | Bienes locales caros | Competitividad baja |
+| $q = 1$ | Equilibrio PPA | Precios igualados |
+
+- Si $q$ cambia mucho, la competitividad cambia mucho
+- Esto afecta exportaciones, importaciones, empleo
+
 ## Velocidad de convergencia a PPA
 
 - Estudios empíricos estiman la **vida media** de desviaciones de PPA
@@ -247,6 +326,15 @@ E=\frac{M^{s}/L(R,Y)}{M^{s*}/L^{*}(R^{*},Y^{*})}=\frac{M^{s}}{M^{s*}} \times \fr
   - Después de 3-5 años, la desviación se habrá reducido a la mitad
 - Esto es **muy lento** comparado con la velocidad de ajuste de activos
   financieros
+
+## ¿Por qué es lenta la convergencia?
+
+> **Caja de intuición:** Si un iPhone está 30% más caro en Argentina
+> que en EEUU, ¿por qué no converge rápido el precio? Porque: (1)
+> importar tiene costos y restricciones, (2) Apple puede discriminar
+> precios por mercado, (3) hay impuestos y regulaciones diferentes, (4)
+> los consumidores no arbitran fácilmente. Los mercados de bienes son
+> mucho menos eficientes que los mercados financieros.
 
 ## PPA en países de alta inflación
 
@@ -257,6 +345,16 @@ E=\frac{M^{s}/L(R,Y)}{M^{s*}/L^{*}(R^{*},Y^{*})}=\frac{M^{s}}{M^{s*}} \times \fr
   las grandes variaciones de precios
 - Ejemplo: durante hiperinflaciones, tipo de cambio y precios se mueven
   casi uno a uno
+
+## Ejemplo: Argentina 1989-1990
+
+- Durante la hiperinflación:
+  - Inflación mensual llegó a 200%
+  - El tipo de cambio se depreciaba a tasas similares
+  - La PPA se cumplía casi día a día
+- Cuando la inflación es extrema, los precios y el tipo de cambio se
+  ajustan simultáneamente
+- No hay lugar para desviaciones persistentes de PPA
 
 ## PPA en el muy largo plazo
 
@@ -274,7 +372,7 @@ E=\frac{M^{s}/L(R,Y)}{M^{s*}/L^{*}(R^{*},Y^{*})}=\frac{M^{s}}{M^{s*}} \times \fr
 - La PPA se basa en la ley del precio único para todos los bienes
 - Pero esta ley no se cumple por varias razones:
 
-## Costos de transporte y barreras
+## 1. Costos de transporte y barreras
 
 - Trasladar bienes entre países tiene **costos**
 - Estos costos crean una "banda" dentro de la cual los precios pueden
@@ -291,6 +389,14 @@ E=\frac{M^{s}/L(R,Y)}{M^{s*}/L^{*}(R^{*},Y^{*})}=\frac{M^{s}}{M^{s*}} \times \fr
   - Servicios públicos locales
 - Estos bienes pueden tener precios muy diferentes entre países
 
+## Ejemplo: bienes no comerciables
+
+> **El corte de pelo:** Un corte de pelo cuesta USD 30 en Nueva York y
+> USD 5 en Buenos Aires. ¿Por qué no hay arbitraje? Porque no puedes
+> "importar" un corte de pelo. Tienes que ir al lugar. Y aunque el
+> vuelo fuera gratis, ¿quién volaría a Buenos Aires solo por un corte
+> de pelo? Los servicios son no comerciables por naturaleza.
+
 ## 3. Competencia imperfecta y diferenciación
 
 - Los mercados no son perfectamente competitivos
@@ -298,6 +404,14 @@ E=\frac{M^{s}/L(R,Y)}{M^{s*}/L^{*}(R^{*},Y^{*})}=\frac{M^{s}}{M^{s*}} \times \fr
   - Cobrar diferentes precios en diferentes países
   - "Pricing to market"
 - Los productos no son idénticos (marcas, calidad percibida)
+
+## Pricing to market
+
+> **Ejemplo:** Toyota vende el mismo Corolla más caro en Chile que en
+> EEUU. ¿Por qué? Porque puede: hay barreras comerciales, los
+> consumidores chilenos no pueden arbitrar fácilmente, y Toyota conoce
+> la elasticidad-precio de cada mercado. Las empresas multinacionales
+> optimizan precios por mercado, no globalmente.
 
 ## 4. Rigidez de precios
 
@@ -320,6 +434,22 @@ E=\frac{M^{s}/L(R,Y)}{M^{s*}/L^{*}(R^{*},Y^{*})}=\frac{M^{s}}{M^{s*}} \times \fr
   4. Esto encarece los bienes no comerciables (intensivos en trabajo)
   5. Por lo tanto, el nivel de precios general es más alto
 
+## Efecto Balassa-Samuelson: mecanismo
+
+```{mermaid}
+%%| fig-align: center
+%%{init: {'theme': 'base', 'themeVariables': { 'fontSize': '15px'}}}%%
+flowchart TB
+    A["<b>Alta productividad en manufactura</b><br/>(comerciables)"] --> B["Altos salarios en manufactura"]
+    B --> C["Salarios en servicios deben subir<br/>(para atraer trabajadores)"]
+    C --> D["Pero productividad en servicios<br/>no subió igual"]
+    D --> E["<b>Precios de servicios suben</b><br/>(corte de pelo, restaurante)"]
+    E --> F["<b>Nivel de precios general<br/>más alto</b>"]
+    
+    style A fill:#d4edda,stroke:#28a745
+    style F fill:#f8d7da,stroke:#721c24
+```
+
 ## El efecto Balassa-Samuelson (cont.)
 
 - Implicancia para la PPA:
@@ -328,6 +458,15 @@ E=\frac{M^{s}/L(R,Y)}{M^{s*}/L^{*}(R^{*},Y^{*})}=\frac{M^{s}}{M^{s*}} \times \fr
   - El tipo de cambio real se **aprecia** con el desarrollo
 - Esto no es una desviación de equilibrio, sino un cambio en el
   equilibrio mismo
+
+## Ejemplo: China y el renminbi
+
+> Durante décadas se dijo que el renminbi estaba "subvaluado" porque
+> los productos chinos eran muy baratos. Pero parte de esa "subvaluación"
+> era simplemente el efecto Balassa-Samuelson: China era un país de
+> bajos ingresos con bajos salarios en servicios. A medida que China se
+> desarrolló, sus precios subieron y el renminbi se apreció en términos
+> reales.
 
 # **Modelo del tipo de cambio real** {background="#4b6e5c"}
 
@@ -355,7 +494,7 @@ q=\frac{E \times P^{*}}{P}
   - Bienes extranjeros se abaratan para residentes locales
   - Empeora la competitividad del país local
 
-## Factores del tipo de cambio real
+## Factores que determinan el tipo de cambio real
 
 1. **Productividad relativa** (efecto Balassa-Samuelson)
    - Mayor productividad local $\longrightarrow$ apreciación real
@@ -369,6 +508,14 @@ q=\frac{E \times P^{*}}{P}
    - Cambio en composición de demanda entre bienes locales y
      extranjeros
 
+## Ejemplo: boom de commodities
+
+> Cuando el precio de la soja subió fuertemente en 2007-2012, Argentina
+> recibió más dólares por sus exportaciones. Esto apreció el peso en
+> términos reales (Argentina se volvió "más cara"). Es el fenómeno de
+> la **enfermedad holandesa**: un boom de commodities puede perjudicar
+> la competitividad de otros sectores exportadores.
+
 ## Equilibrio del tipo de cambio real
 
 ![](../_shared/images/cyfi/fig-diagram-real-exchange-rate-equilibrium.png){fig-align="center" width="60%"}
@@ -377,7 +524,7 @@ q=\frac{E \times P^{*}}{P}
 
 - OR: oferta relativa de producto (vertical a largo plazo)
 - DR: demanda relativa de producto (pendiente positiva)
-- El equilibrio determina el tipo de cambio real q y el ratio de produccion
+- El equilibrio determina el tipo de cambio real q y el ratio de producción
 - Cambios en productividad o demanda desplazan las curvas
 
 ## Diferenciales de tasas reales y q
@@ -423,13 +570,22 @@ r-r^{*}=\frac{q^{e}-q}{q}
   cumplirse la **condición Marshall-Lerner**:
 
 \begin{equation}
-\eta_{X}+\eta_{M}>1
+|\eta_{X}|+|\eta_{M}|>1
 \end{equation}
 
 - donde $\eta_{X}$ es la elasticidad-precio de las exportaciones y
   $\eta_{M}$ es la elasticidad-precio de las importaciones
 - Si las demandas son suficientemente elásticas, la depreciación mejora
   la CC
+
+## ¿Por qué necesitamos Marshall-Lerner?
+
+> **Intuición:** Cuando el peso se deprecia, las importaciones se
+> encarecen en pesos. Si seguimos importando la misma cantidad, gastamos
+> más en pesos en importaciones, lo que empeora la CC. Para que la CC
+> mejore, las cantidades importadas deben caer lo suficiente para
+> compensar el mayor precio unitario. Eso requiere que la demanda sea
+> suficientemente elástica.
 
 ## La curva J
 
@@ -443,70 +599,90 @@ r-r^{*}=\frac{q^{e}-q}{q}
   - La cuenta corriente mejora
 - Este patrón temporal se llama **curva J**
 
-# **Apéndice: Derivaciones formales** {background="#4b6e5c"}
+## La curva J: representación gráfica
 
-## Modelo monetario extendido
+```{r}
+#| fig-align: center
+#| fig-width: 8
+#| fig-height: 5
 
-- Incorporando el tipo de cambio real:
+library(ggplot2)
 
-\begin{equation}
-e=(\bar{m}-\bar{m}^{*})-\phi(\bar{y}-\bar{y}^{*})+\lambda(\pi^{e}-\pi^{*e})+\bar{q}
-\end{equation}
+# J-curve data
+t <- seq(-1, 6, length.out = 200)
+# J-curve: initial dip then recovery
+cc <- ifelse(t < 0, 0, -0.8 * exp(-0.5 * t) + 0.3 * t - 0.2 * t^0.3)
+cc <- cc - cc[which.min(abs(t - 0))]  # normalize to start at 0
 
-- donde variables con barra son valores de largo plazo, $e=\ln E$,
-  $\bar{q}=\ln\bar{Q}$
-- El tipo de cambio nominal depende de:
-  - Fundamentos monetarios (masa monetaria, ingreso)
-  - Diferencial de inflación esperada
-  - Tipo de cambio real de equilibrio
+df <- data.frame(t = t, cc = cc)
 
-## Modelo monetario: diagrama completo
+ggplot(df, aes(x = t, y = cc)) +
+  geom_hline(yintercept = 0, linetype = "dashed", color = "gray60") +
+  geom_vline(xintercept = 0, linetype = "dashed", color = "#c53030") +
+  geom_line(linewidth = 1.3, color = "#2c5282") +
+  annotate("text", x = 0.3, y = -0.65, label = "Depreciación", 
+           color = "#c53030", size = 4, hjust = 0) +
+  annotate("text", x = 5.5, y = 0.6, label = "Mejora CC", 
+           color = "#2c5282", size = 4) +
+  annotate("text", x = 1.2, y = -0.45, label = "Empeora CC\n(corto plazo)", 
+           color = "#2c5282", size = 3.5) +
+  labs(x = "Tiempo", y = "Cuenta Corriente") +
+  scale_x_continuous(limits = c(-1, 6.5), breaks = NULL) +
+  scale_y_continuous(limits = c(-0.8, 0.8), breaks = NULL) +
+  theme_minimal(base_size = 14) +
+  theme(
+    axis.title = element_text(size = 13),
+    panel.grid = element_blank(),
+    axis.line = element_line(color = "black", linewidth = 0.5,
+                             arrow = arrow(type = "closed", length = unit(0.12, "inches")))
+  )
+```
 
-![](../_shared/images/cyfi/fig-diagram-monetary-model-four-quadrant.png){fig-align="center" width="55%"}
+## Ejemplo: Argentina 2002
 
-## Modelo monetario: diagrama (cont.)
+> Tras la devaluación de 2002, la cuenta corriente argentina no mejoró
+> inmediatamente. Durante los primeros meses, el déficit de CC incluso
+> se profundizó porque el valor de las importaciones (en pesos) subió
+> mientras los volúmenes no se ajustaban. Recién después de 6-12 meses
+> la CC comenzó a mejorar significativamente, mostrando el patrón de
+> la curva J.
 
-- Cuatro cuadrantes integran mercado monetario, forex y PPA
-- Cuadrante inferior derecho: mercado de dinero de EE.UU.
-- Cuadrante superior derecho: mercado de divisas
-- Cuadrante superior izquierdo: relacion E nominal y real
-- Cuadrante inferior izquierdo: relacion PPA
+# **Resumen del capítulo** {background="#4b6e5c"}
 
-## Test de raíz unitaria para PPA
+## Conceptos clave
 
-- Para testear la PPA, se estima:
+1. **Ley del precio único:** $P_i = E \times P_i^*$
+2. **PPA absoluta:** $E = P / P^*$
+3. **PPA relativa:** $\Delta E / E = \pi - \pi^*$
+4. **Tipo de cambio real:** $q = E P^* / P$
+5. **Efecto Balassa-Samuelson:** países ricos tienen precios más altos
+6. **Condición Marshall-Lerner:** $|\eta_X| + |\eta_M| > 1$
+7. **Curva J:** depreciación empeora CC a corto plazo
 
-\begin{equation}
-q_{t}=\alpha + \rho q_{t-1}+\epsilon_{t}
-\end{equation}
+## ¿Cuándo funciona la PPA?
 
-- Si $\rho=1$: el tipo de cambio real tiene raíz unitaria, no hay
-  reversión a la media, PPA no se cumple
-- Si $|\rho|<1$: hay reversión a la media, PPA se cumple en el largo
-  plazo
-- La vida media de desviaciones es: $\tau=-\ln 2/\ln\rho$
+| Condición | PPA funciona... |
+|-----------|-----------------|
+| Corto plazo | Mal |
+| Largo plazo | Mejor |
+| Alta inflación | Muy bien |
+| Bienes comerciables | Mejor |
+| Bienes no comerciables | Mal |
 
-## Evidencia de cointegración
+## Fórmulas importantes
 
-- Un enfoque alternativo: testear si $P$, $E$, y $P^{*}$ están
-  **cointegradas**
-- Si existe una relación de largo plazo $P=E \times P^{*}$ (más
-  constante), las series están cointegradas
-- La evidencia sugiere cointegración en horizontes largos
-- Pero la velocidad de ajuste es lenta
+| Concepto | Fórmula |
+|----------|---------|
+| PPA absoluta | $E = P / P^*$ |
+| PPA relativa | $\Delta E / E = \pi - \pi^*$ |
+| Tipo cambio real | $q = EP^* / P$ |
+| Marshall-Lerner | $\|\eta_X\| + \|\eta_M\| > 1$ |
 
-## El tipo de cambio real de largo plazo
+## Preguntas de repaso
 
-- El tipo de cambio real de equilibrio puede modelarse como:
-
-\begin{equation}
-\bar{q}=f(prod, tot, nfa, gexp)
-\end{equation}
-
-- donde:
-  - $prod$: productividad relativa
-  - $tot$: términos de intercambio
-  - $nfa$: posición neta de activos externos
-  - $gexp$: composición del gasto público
-- Este enfoque se conoce como **BEER** (Behavioral Equilibrium Exchange
-  Rate)
+1. ¿Por qué un Big Mac cuesta más en Suiza que en India?
+2. ¿Qué diferencia hay entre PPA absoluta y relativa?
+3. ¿Por qué la PPA funciona mejor con alta inflación?
+4. Explique el efecto Balassa-Samuelson.
+5. ¿Qué es la curva J y por qué ocurre?
+6. Si Argentina devalúa, ¿mejora automáticamente la cuenta corriente?

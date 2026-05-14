@@ -1,4 +1,4 @@
-﻿---
+---
 title: Dinero, tasas de interés y tipos de cambio
 subtitle: Comercio y Finanzas Internacionales
 ---
@@ -46,17 +46,39 @@ subtitle: Comercio y Finanzas Internacionales
 ## Agregados monetarios
 
 - Los bancos centrales definen diferentes **agregados monetarios**:
-  - **M1** $\longrightarrow$ efectivo + depósitos a la vista (dinero
-    más líquido)
-  - **M2** $\longrightarrow$ M1 + depósitos de ahorro + depósitos a
-    plazo pequeños
+  - **M1** $\longrightarrow$ efectivo + depósitos a la vista
+  - **M2** $\longrightarrow$ M1 + depósitos de ahorro + plazo pequeños
   - **M3** $\longrightarrow$ M2 + depósitos a plazo grandes + otros
-    instrumentos
 - La **oferta monetaria, $M^{s}$** se refiere típicamente a M1 o M2
-  - controlada (principalmente) por el **banco central** a través de:
-    - operaciones de mercado abierto
-    - tasa de encaje (reservas requeridas)
-    - tasa de descuento (préstamos a bancos)
+
+## Control de la oferta monetaria
+
+- El **banco central** controla $M^{s}$ a través de:
+  - **Operaciones de mercado abierto** $\longrightarrow$ compra/venta de bonos
+  - **Tasa de encaje** $\longrightarrow$ reservas requeridas a bancos
+  - **Tasa de descuento** $\longrightarrow$ préstamos a bancos comerciales
+
+## El banco central y la creación de dinero
+
+> **Caja de intuición:** El banco central no imprime todo el dinero
+> que circula. Cuando depositas $1000 en un banco, el banco presta
+> $900 (guardando $100 de encaje). Ese préstamo se deposita en otro
+> banco que presta $810, y así sucesivamente. El dinero "se multiplica"
+> por el sistema bancario. El **multiplicador monetario** depende de la
+> tasa de encaje.
+
+## Ejemplo: multiplicador monetario
+
+- Si la tasa de encaje es $\theta = 10\%$:
+
+\begin{equation}
+\text{Multiplicador} = \frac{1}{\theta} = \frac{1}{0.10} = 10
+\end{equation}
+
+- Un depósito inicial de $1000 puede generar hasta $10,000 de dinero
+  en la economía
+- El banco central controla la **base monetaria** (efectivo + reservas
+  bancarias), y el sistema bancario la "multiplica"
 
 # **La demanda de dinero** {background="#4b6e5c"}
 
@@ -82,17 +104,21 @@ subtitle: Comercio y Finanzas Internacionales
   - a mayor $R$, mayor costo de oportunidad de mantener dinero
   - por lo tanto, menor demanda de dinero
 
-## Factores que afectan la demanda de dinero
+## El costo de oportunidad del dinero
 
-- La demanda de dinero de un individuo depende de:
-  1. **Tipo de interés, $R$** $\longrightarrow$ costo de oportunidad
-     - relación negativa: $\uparrow R \Rightarrow \downarrow M^{d}$
-  2. **Nivel de precios, $P$** $\longrightarrow$ a mayor $P$, se
-     necesita más dinero nominal para las mismas transacciones
-     - relación positiva: $\uparrow P \Rightarrow \uparrow M^{d}$
-  3. **Ingreso real, $Y$** $\longrightarrow$ a mayor ingreso, mayor
-     volumen de transacciones
-     - relación positiva: $\uparrow Y \Rightarrow \uparrow M^{d}$
+> **Ejemplo:** Si tienes $100,000 en la cuenta corriente (tasa 0%) y la
+> tasa de plazo fijo es 50% anual, estás "perdiendo" $50,000 por año en
+> intereses. Ese es el **costo de oportunidad** de mantener liquidez.
+> Por eso, cuando las tasas de interés suben, la gente tiende a tener
+> menos dinero en efectivo y más en inversiones.
+
+## Determinantes de la demanda de dinero
+
+| Factor | Efecto sobre $M^d$ | Razón |
+|--------|:------------------:|-------|
+| ↑ Tipo de interés $R$ | ↓ | Mayor costo de oportunidad |
+| ↑ Nivel de precios $P$ | ↑ | Más dinero para mismas transacciones |
+| ↑ Ingreso real $Y$ | ↑ | Mayor volumen de transacciones |
 
 ## Demanda agregada de dinero
 
@@ -110,25 +136,15 @@ M^{d}=P \times L(R,Y)
   - $L$ es decreciente en $R$: $\frac{\partial L}{\partial R}<0$
   - $L$ es creciente en $Y$: $\frac{\partial L}{\partial Y}>0$
 
-## Demanda agregada de dinero (cont.)
+## Formas funcionales de $L(R,Y)$
 
-- La función $L(R,Y)$ puede tomar diferentes formas específicas
-- Una especificación común es la forma **lineal**:
-
-\begin{equation}
-L(R,Y)=kY-hR
-\end{equation}
-
-- donde $k>0$ mide la sensibilidad de la demanda de dinero al ingreso y
-  $h>0$ mide la sensibilidad al tipo de interés
-- Otra especificación común es la forma **log-lineal**:
-
-\begin{equation}
-\ln L=\alpha + \beta \ln Y - \gamma R
-\end{equation}
-
-- donde $\beta$ es la elasticidad-ingreso y $\gamma$ es la
-  semi-elasticidad-interés de la demanda de dinero
+- **Forma lineal:** $L(R,Y)=kY-hR$
+  - $k>0$: sensibilidad al ingreso
+  - $h>0$: sensibilidad al tipo de interés
+  
+- **Forma log-lineal:** $\ln L=\alpha + \beta \ln Y - \gamma R$
+  - $\beta$: elasticidad-ingreso
+  - $\gamma$: semi-elasticidad-interés
 
 ## Demanda de saldos reales
 
@@ -145,6 +161,15 @@ L(R,Y)=kY-hR
   - si $P$ se duplica, $M^{d}$ también se duplica
   - los agentes se preocupan por el valor real del dinero, no el
     nominal
+
+## Intuición: ilusión monetaria
+
+> **Sin ilusión monetaria:** Si todos los precios (incluyendo tu
+> salario) se duplican de la noche a la mañana, necesitarás el doble de
+> dinero nominal para hacer exactamente las mismas compras. Tu demanda
+> de dinero *nominal* se duplica, pero tu demanda de dinero *real*
+> (poder adquisitivo) permanece igual. La inflación no cambia cuánto
+> poder adquisitivo quieres mantener líquido.
 
 # **El equilibrio en el mercado monetario** {background="#4b6e5c"}
 
@@ -176,20 +201,63 @@ M^{s}=M^{d}=P \times L(R,Y)
     (respecto a $R$)
   - El equilibrio se encuentra en la intersección
 
+## Representación gráfica del mercado monetario
+
+```{r}
+#| fig-align: center
+#| fig-width: 7
+#| fig-height: 5
+
+library(ggplot2)
+
+# Money market equilibrium diagram
+df_demand <- data.frame(
+  x = seq(0.5, 3, length.out = 100),
+  y = 2.5 - 0.6 * seq(0.5, 3, length.out = 100)
+)
+
+ggplot() +
+  # Demand curve L(R,Y)
+  geom_line(data = df_demand, aes(x = x, y = y), 
+            color = "#2c5282", linewidth = 1.2) +
+  # Supply curve Ms/P (vertical)
+  geom_segment(aes(x = 1.8, xend = 1.8, y = 0.2, yend = 2.3),
+               color = "#c53030", linewidth = 1.2) +
+  # Equilibrium point
+  geom_point(aes(x = 1.8, y = 2.5 - 0.6*1.8), size = 4, color = "#2d3748") +
+  # Dashed lines to axes
+  geom_segment(aes(x = 0, xend = 1.8, y = 2.5 - 0.6*1.8, yend = 2.5 - 0.6*1.8),
+               linetype = "dashed", color = "gray50") +
+  geom_segment(aes(x = 1.8, xend = 1.8, y = 0, yend = 2.5 - 0.6*1.8),
+               linetype = "dashed", color = "gray50") +
+  # Labels
+  annotate("text", x = 2.9, y = 0.85, label = "L(R,Y)", size = 5, color = "#2c5282") +
+  annotate("text", x = 1.95, y = 2.35, label = expression(M^s/P), size = 5, color = "#c53030") +
+  annotate("text", x = 0.15, y = 2.5 - 0.6*1.8, label = expression(R^"*"), size = 5) +
+  annotate("text", x = 1.8, y = -0.15, label = expression(M^s/P), size = 4) +
+  # Axis labels
+  labs(x = "M/P (saldos reales)", y = "R (tipo de interés)") +
+  scale_x_continuous(limits = c(0, 3.2), expand = c(0, 0)) +
+  scale_y_continuous(limits = c(0, 2.5), expand = c(0, 0)) +
+  theme_minimal(base_size = 14) +
+  theme(
+    axis.title = element_text(size = 14),
+    axis.text = element_blank(),
+    axis.ticks = element_blank(),
+    panel.grid = element_blank(),
+    axis.line = element_line(color = "black", linewidth = 0.5,
+                             arrow = arrow(type = "closed", length = unit(0.15, "inches")))
+  )
+```
 
 ## Mecanismo de ajuste al equilibrio
 
-- ¿Cómo se ajusta el mercado al equilibrio?
-- **Exceso de oferta de dinero** (si $R$ es muy alto):
-  - demanda de dinero es baja (agentes prefieren bonos)
-  - agentes usan el exceso de dinero para comprar bonos
-  - sube el precio de los bonos $\longrightarrow$ baja el tipo de
-    interés
-- **Exceso de demanda de dinero** (si $R$ es muy bajo):
-  - demanda de dinero es alta (costo de oportunidad bajo)
-  - agentes venden bonos para obtener más dinero
-  - baja el precio de los bonos $\longrightarrow$ sube el tipo de
-    interés
+| Situación | Acción | Resultado |
+|-----------|--------|-----------|
+| **Exceso de oferta** de dinero | Agentes compran bonos | ↑ precio bonos → ↓$R$ |
+| **Exceso de demanda** de dinero | Agentes venden bonos | ↓ precio bonos → ↑$R$ |
+
+- El mercado se ajusta hasta que $M^s/P = L(R,Y)$
 
 ## Mecanismo de ajuste al equilibrio (cont.)
 
@@ -200,6 +268,23 @@ M^{s}=M^{d}=P \times L(R,Y)
 
 - Este mecanismo de ajuste asegura que el mercado monetario siempre
   tiende hacia el equilibrio
+
+## Ejemplo numérico: bono y tasa de interés
+
+- Bono paga $100 en un año (valor nominal $F = 100$)
+- Si el precio del bono hoy es $P_B = 95$:
+
+\begin{equation}
+R = \frac{100 - 95}{95} = \frac{5}{95} = 5.26\%
+\end{equation}
+
+- Si el precio sube a $P_B = 98$:
+
+\begin{equation}
+R = \frac{100 - 98}{98} = \frac{2}{98} = 2.04\%
+\end{equation}
+
+- **Mayor precio del bono = menor tasa de interés**
 
 ## Efectos de cambios en la oferta monetaria
 
@@ -224,6 +309,22 @@ M^{s}=M^{d}=P \times L(R,Y)
   - en el largo plazo, $P$ se ajusta y el efecto puede revertirse
   - veremos esto con más detalle más adelante
 
+## Expansión monetaria: secuencia de eventos
+
+```{mermaid}
+%%| fig-align: center
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#e8f4ea', 'primaryBorderColor': '#4b6e5c', 'fontSize': '16px'}}}%%
+flowchart TB
+    A["<b>BCRA aumenta Mˢ</b><br/>(compra bonos en mercado abierto)"] --> B["Hay más dinero en la economía<br/>que el deseado"]
+    B --> C["Agentes intentan comprar bonos<br/>con exceso de dinero"]
+    C --> D["<b>↑ Precio de bonos</b><br/>(mayor demanda)"]
+    D --> E["<b>↓ Tipo de interés</b>"]
+    E --> F["<b>Nuevo equilibrio:</b><br/>Mˢ/P más alto, R más bajo"]
+    
+    style A fill:#d4edda,stroke:#28a745
+    style F fill:#cce5ff,stroke:#004085
+```
+
 ## Efectos de cambios en el ingreso
 
 - ¿Qué sucede si aumenta el **ingreso real $Y$**?
@@ -242,9 +343,17 @@ M^{s}=M^{d}=P \times L(R,Y)
 ## Aumento del ingreso (cont.)
 
 - La figura muestra el mercado de dinero con oferta real fija
-- Equilibrio inicial (punto 1) con ingreso Y1, tipo de interes R1
+- Equilibrio inicial (punto 1) con ingreso Y1, tipo de interés R1
 - Si Y sube, la curva de demanda se desplaza a la derecha
-- Nuevo equilibrio (punto 2): el tipo de interes sube a R2
+- Nuevo equilibrio (punto 2): el tipo de interés sube a R2
+
+## Resumen de estática comparativa
+
+| Shock | Efecto sobre R | Mecanismo |
+|-------|---------------|-----------|
+| ↑ $M^s$ | ↓ | Exceso oferta → compra bonos → ↑ precio bonos |
+| ↑ $Y$ | ↑ | Exceso demanda → venta bonos → ↓ precio bonos |
+| ↑ $P$ | ↑ | Cae $M^s/P$ → exceso demanda |
 
 # **La oferta monetaria y el tipo de cambio a corto plazo** {background="#4b6e5c"}
 
@@ -273,6 +382,31 @@ R=R^{*}+\frac{E^{e}-E}{E}
   - Cambios en $M^{s}$ afectan $R$
   - Cambios en $R$ afectan $E$ vía paridad de intereses
 
+## El modelo de dos mercados
+
+```{mermaid}
+%%| fig-align: center
+%%{init: {'theme': 'base', 'themeVariables': { 'fontSize': '15px'}}}%%
+flowchart TB
+    subgraph MM["<b>MERCADO MONETARIO</b>"]
+        eq1["Mˢ/P = L(R,Y)"]
+    end
+    
+    subgraph FX["<b>MERCADO DE DIVISAS</b>"]
+        eq2["R = R* + (Eᵉ-E)/E"]
+    end
+    
+    IN["Mˢ (BCRA)"] --> MM
+    MM --> R["<b>R</b><br/>(tasa interés)"]
+    R --> FX
+    FX --> E["<b>E</b><br/>(tipo cambio)"]
+    
+    style MM fill:#e8f4ea,stroke:#4b6e5c
+    style FX fill:#fff3cd,stroke:#856404
+    style R fill:#cce5ff,stroke:#004085
+    style E fill:#f8d7da,stroke:#721c24
+```
+
 ## Interacción de mercados
 
 ![](../_shared/images/cyfi/fig-diagram-monetary-transmission-flowchart.png){fig-align="center" width="70%"}
@@ -292,21 +426,18 @@ R=R^{*}+\frac{E^{e}-E}{E}
 
 - Dos cuadrantes muestran el equilibrio conjunto
 - El cuadrante superior muestra el mercado de divisas
-- El cuadrante inferior muestra el mercado monetario de EE.UU.
+- El cuadrante inferior muestra el mercado monetario de EEUU
 - La línea vertical punteada conecta ambos equilibrios
 
-## Efectos de un aumento de OM sobre E
+## Efectos de un aumento de Ms sobre E
 
-1. Banco central aumenta $M^{s}$
-2. Exceso de oferta de dinero $\longrightarrow$ cae $R$
-3. Si $R<R^{*}+\frac{E^{e}-E}{E}$, depósitos en moneda extranjera son
-   más atractivos
-4. Agentes venden moneda local y compran moneda extranjera
-5. **Se deprecia la moneda local** (sube $E$)
-6. La depreciación continúa hasta que se restablece la paridad de
-   intereses
+1. Banco central aumenta $M^{s}$ $\longrightarrow$ cae $R$
+2. Depósitos en moneda extranjera se vuelven más atractivos
+3. Agentes venden moneda local, compran extranjera
+4. **Se deprecia la moneda local** (sube $E$)
+5. Depreciación continúa hasta restablecer paridad de intereses
 
-## Efectos de un aumento de OM sobre E (cont.)
+## Efectos de un aumento de Ms sobre E (cont.)
 
 > **Resultado clave.** A corto plazo (con $P$ fijo), un aumento de la
 > oferta monetaria reduce el tipo de interés y deprecia la moneda local
@@ -316,6 +447,24 @@ R=R^{*}+\frac{E^{e}-E}{E}
 - Explica por qué los anuncios del banco central afectan inmediatamente
   el tipo de cambio
 
+## Ejemplo: expansión monetaria en Argentina
+
+```{mermaid}
+%%| fig-align: center
+%%{init: {'theme': 'base', 'themeVariables': { 'fontSize': '15px'}}}%%
+flowchart TB
+    A["<b>BCRA expande Mˢ</b><br/>(baja tasa de LELIQs)"] --> B["<b>↓ Tasa de interés en pesos</b>"]
+    B --> C["Depósitos en pesos<br/>menos atractivos vs dólares"]
+    C --> D["Inversores compran dólares<br/>(venden pesos)"]
+    D --> E["<b>↑ E</b> (peso se deprecia)"]
+    E --> F["<b>Nuevo equilibrio:</b><br/>menor R, mayor E"]
+    
+    style A fill:#d4edda,stroke:#28a745
+    style B fill:#fff3cd,stroke:#856404
+    style E fill:#f8d7da,stroke:#721c24
+    style F fill:#cce5ff,stroke:#004085
+```
+
 ## Aumento de Ms en EE.UU.
 
 ![](../_shared/images/cyfi/fig-diagram-us-money-supply-increase.png){fig-align="center" width="60%"}
@@ -323,9 +472,9 @@ R=R^{*}+\frac{E^{e}-E}{E}
 ## Aumento de Ms en EE.UU. (cont.)
 
 - La figura muestra el efecto de un aumento de la oferta monetaria de EE.UU.
-- Cuadrante inferior: la oferta monetaria real aumenta, cae el tipo de interes
-- Cuadrante superior: la curva de rentabilidad de dolares se desplaza
-- Resultado: el dolar se deprecia
+- Cuadrante inferior: la oferta monetaria real aumenta, cae el tipo de interés
+- Cuadrante superior: la curva de rentabilidad de dólares se desplaza
+- Resultado: el dólar se deprecia (para Argentina, E baja)
 
 ## Aumento de Ms en Europa
 
@@ -333,10 +482,10 @@ R=R^{*}+\frac{E^{e}-E}{E}
 
 ## Aumento de Ms en Europa (cont.)
 
-- Un aumento de la oferta monetaria europea reduce el tipo de interes del euro
+- Un aumento de la oferta monetaria europea reduce el tipo de interés del euro
 - La curva de rentabilidad esperada de euros se desplaza a la izquierda
-- El tipo de cambio baja: el dolar se aprecia
-- Simetria: expansion monetaria deprecia la propia moneda
+- El tipo de cambio euro/dólar baja: el dólar se aprecia respecto al euro
+- Simetría: expansión monetaria deprecia la propia moneda
 
 ## El papel de las expectativas
 
@@ -350,6 +499,15 @@ R=R^{*}+\frac{E^{e}-E}{E}
 - Las expectativas pueden ser **autocumplidas**:
   - si todos esperan depreciación $\longrightarrow$ venden moneda local
     $\longrightarrow$ depreciación
+
+## Expectativas y credibilidad
+
+> **Caja de intuición:** Si el BCRA anuncia que va a imprimir dinero
+> para financiar déficit fiscal, los inversores anticiparán mayor
+> inflación futura y depreciación. Venderán pesos hoy, depreciando el
+> peso antes de que la emisión ocurra. Las expectativas importan tanto
+> o más que las acciones presentes. Por eso la **credibilidad** del
+> banco central es tan importante.
 
 # **Dinero, nivel de precios y tipo de cambio a largo plazo** {background="#4b6e5c"}
 
@@ -403,15 +561,21 @@ E=\frac{P}{P^{*}}
 
 ## Ajuste dinámico: del corto al largo plazo
 
-- El ajuste del corto al largo plazo no es instantáneo
-- **Secuencia de eventos:**
-  1. Aumento de $M^{s}$ $\longrightarrow$ cae $R$, sube $E$
-     (sobrerreacción)
-  2. Precios comienzan a subir gradualmente
-  3. $M^{s}/P$ comienza a caer $\longrightarrow$ $R$ comienza a subir
-  4. A medida que $R$ sube, $E$ comienza a apreciarse
-  5. Largo plazo: $P$ ha subido proporcionalmente, $R$ y $q$ vuelven a
-     niveles iniciales
+- El ajuste del corto al largo plazo **no es instantáneo**
+- **Secuencia:**
+  1. ↑$M^{s}$ → ↓$R$, ↑$E$ (sobrerreacción)
+  2. $P$ comienza a subir gradualmente
+  3. ↓$M^{s}/P$ → ↑$R$ → ↓$E$ (apreciación gradual)
+  4. **Largo plazo:** $P$ sube proporcionalmente, $R$ y $q$ vuelven a niveles iniciales
+
+## El fenómeno del overshooting
+
+> **Overshooting (sobrerreacción):** A corto plazo, el tipo de cambio
+> se deprecia **más** de lo que finalmente se depreciará en el largo
+> plazo. ¿Por qué? Porque los precios de bienes se ajustan lentamente,
+> mientras que los tipos de cambio se ajustan instantáneamente. El tipo
+> de cambio "compensa" temporalmente la rigidez de precios. Este modelo
+> fue propuesto por Rudiger Dornbusch en 1976.
 
 ## Corto plazo vs. largo plazo
 
@@ -429,11 +593,11 @@ E=\frac{P}{P^{*}}
 
 ## Trayectorias temporales (cont.)
 
-- La figura muestra la dinamica temporal tras aumento permanente de Ms
+- La figura muestra la dinámica temporal tras aumento permanente de Ms
 - (a) Oferta monetaria: salta y permanece
-- (b) Tipo de interes: cae y luego sube gradualmente
+- (b) Tipo de interés: cae y luego sube gradualmente
 - (c) Nivel de precios: sube gradualmente
-- (d) Tipo de cambio: overshooting inicial, luego apreciacion gradual
+- (d) Tipo de cambio: overshooting inicial, luego apreciación gradual
 
 # **Inflación y dinámica del tipo de cambio** {background="#4b6e5c"}
 
@@ -469,6 +633,25 @@ R=r+\pi^{e}
 > uno a uno con la inflación esperada, dejando inalterado el tipo de
 > interés real
 
+## Ejemplo: efecto Fisher en Argentina
+
+- Supongamos:
+  - Tasa de interés real de equilibrio: $r = 5\%$
+  - Si inflación esperada es $\pi^e = 100\%$:
+  
+\begin{equation}
+R = 5\% + 100\% = 105\%
+\end{equation}
+
+- Si inflación esperada sube a $\pi^e = 150\%$:
+
+\begin{equation}
+R = 5\% + 150\% = 155\%
+\end{equation}
+
+- Las altas tasas nominales en Argentina reflejan alta inflación
+  esperada, no alta rentabilidad real
+
 ## El efecto Fisher en economía abierta
 
 - Combinando el efecto Fisher con la paridad de intereses:
@@ -490,7 +673,7 @@ R-R^{*}=\pi^{e}-\pi^{*e}
 ## El efecto Fisher en economía abierta (cont.)
 
 - Implicancia importante:
-  - Si Argentina tiene $R=40\%$ y EEUU tiene $R^{*}=5\%$
+  - Si Argentina tiene $R=50\%$ y EEUU tiene $R^{*}=5\%$
   - No significa que invertir en Argentina sea más rentable
   - El diferencial refleja expectativa de **mayor inflación** en
     Argentina
@@ -531,6 +714,20 @@ M^{s}=P \times L(R,Y)
 - Explica por qué países con alto crecimiento monetario tienen alta
   inflación
 
+## Ejemplo: teoría cuantitativa
+
+- Supongamos:
+  - Crecimiento monetario: $\mu = 50\%$
+  - Crecimiento del PIB: $g_Y = 3\%$
+  - Elasticidad-ingreso de demanda de dinero: $\eta_Y = 1$
+
+\begin{equation}
+\pi = 50\% - 1 \times 3\% = 47\%
+\end{equation}
+
+- La inflación será aproximadamente 47%
+- Para reducir inflación, debe reducirse el crecimiento monetario
+
 ## Inflación y tipo de cambio
 
 - Combinando la teoría cuantitativa con la PPA relativa:
@@ -548,64 +745,65 @@ M^{s}=P \times L(R,Y)
 
 ## Hiperinflación y tipo de cambio
 
-- En **hiperinflaciones**, la relación dinero-precios-tipo de cambio se
-  vuelve muy evidente
-- Ejemplos históricos:
-  - Alemania 1922-23
-  - Zimbabwe 2007-08
-  - Venezuela 2016-presente
-- En estos casos:
-  - el tipo de cambio se deprecia a tasas diarias/semanales
-  - los precios se ajustan casi instantáneamente
-  - la demanda de dinero colapsa (huida hacia dólares u otros activos)
+- En **hiperinflaciones**, la relación dinero-precios-tipo de cambio es evidente
+- Ejemplos: Alemania 1922-23, Zimbabwe 2007-08, Venezuela 2016+, Argentina 1989-90
+- Características:
+  - Tipo de cambio se deprecia a tasas diarias/semanales
+  - Precios se ajustan casi instantáneamente
+  - Demanda de dinero colapsa ("huida hacia el dólar")
 
-# **Apéndice: Modelo formal del mercado monetario** {background="#4b6e5c"}
+## Lecciones de las hiperinflaciones
 
-## Especificación matemática
+> **Caja de intuición:** Durante la hiperinflación argentina de 1989,
+> los precios llegaron a aumentar 200% en un mes. La gente corría a
+> gastar su salario el mismo día que lo cobraba. Los comercios cambiaban
+> precios varias veces por día. La demanda de pesos colapsó porque nadie
+> quería mantener una moneda que perdía valor tan rápido. La "huida del
+> dinero" aceleró aún más la inflación.
 
-- Función de demanda de dinero (forma Cagan):
+# **Resumen del capítulo** {background="#4b6e5c"}
 
-\begin{equation}
-\frac{M^{d}}{P}=Y^{\alpha}e^{-\beta R}
-\end{equation}
+## Conceptos clave
 
-- En logaritmos:
+1. **Demanda de dinero:** $M^d = P \times L(R, Y)$
+2. **Equilibrio monetario:** $M^s/P = L(R,Y)$
+3. **Efecto liquidez:** ↑$M^s$ → ↓$R$ (corto plazo)
+4. **Paridad de intereses:** $R = R^* + (E^e - E)/E$
+5. **Efecto Fisher:** $R = r + \pi^e$
+6. **Neutralidad del dinero:** efectos sólo nominales en largo plazo
 
-\begin{equation}
-m-p=\alpha y - \beta R
-\end{equation}
+## Mecanismo de transmisión completo
 
-- donde $m=\ln M$, $p=\ln P$, $y=\ln Y$
+```{mermaid}
+%%| fig-align: center
+%%{init: {'theme': 'base', 'themeVariables': { 'fontSize': '14px'}}}%%
+flowchart LR
+    subgraph CP["<b>CORTO PLAZO</b>"]
+        direction LR
+        A1["↑ Mˢ"] --> B1["↓ R"] --> C1["↑ E<br/>(depreciación)"]
+        C1 -.-> D1["+ overshooting"]
+    end
+    
+    subgraph LP["<b>LARGO PLAZO</b>"]
+        direction LR
+        A2["↑ Mˢ"] --> B2["↑ P<br/>(proporcional)"]
+        B2 --> C2["R vuelve<br/>al inicial"]
+        B2 --> D2["E sube<br/>proporcionalmente"]
+        C2 --> E2["Variables reales<br/>sin cambio"]
+        D2 --> E2
+    end
+    
+    style CP fill:#fff3cd,stroke:#856404
+    style LP fill:#d4edda,stroke:#28a745
+```
 
-## Equilibrio y determinación del tipo de interés
+## Preguntas de repaso
 
-- Condición de equilibrio:
-
-\begin{equation}
-m^{s}-p=\alpha y - \beta R
-\end{equation}
-
-- Resolviendo para $R$:
-
-\begin{equation}
-R=\frac{1}{\beta}(\alpha y - m^{s} + p)
-\end{equation}
-
-- Estática comparativa:
-  - $\frac{\partial R}{\partial m^{s}}=-\frac{1}{\beta}<0$
-  - $\frac{\partial R}{\partial y}=\frac{\alpha}{\beta}>0$
-  - $\frac{\partial R}{\partial p}=\frac{1}{\beta}>0$
-
-## Velocidad del dinero
-
-- La **velocidad del dinero**, $V$, mide cuántas veces circula cada
-  unidad monetaria por año:
-
-\begin{equation}
-V=\frac{PY}{M}
-\end{equation}
-
-- De la ecuación cuantitativa: $MV=PY$
-- La velocidad no es constante; depende de $R$, tecnología financiera,
-  etc.
-- En el modelo: $V=Y/L(R,Y)$
+1. ¿Por qué la demanda de dinero depende negativamente del tipo de
+   interés?
+2. Si el BCRA aumenta la oferta monetaria, ¿qué pasa con el tipo de
+   cambio a corto y largo plazo?
+3. ¿Qué es el overshooting y por qué ocurre?
+4. ¿Por qué un país con alta inflación tiene altas tasas de interés
+   nominales?
+5. ¿Qué implica la neutralidad del dinero para la política monetaria?

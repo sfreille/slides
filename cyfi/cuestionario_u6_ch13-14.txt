@@ -1,0 +1,156 @@
+// ============================================
+// Cuestionario Unidad 6 - Capítulos 13 y 14
+// Comercio y Finanzas Internacionales
+// Formato GIFT para Moodle
+// ============================================
+
+// =====================
+// VERDADERO O FALSO
+// =====================
+
+// Capítulo 13 - Contabilidad Nacional y Balanza de Pagos
+
+::VF01 - Identidad economía abierta::En una economía abierta, el producto nacional bruto (PNB) es igual a la suma del consumo, la inversión, el gasto público y las exportaciones netas (X-M).{TRUE#¡Correcto! La identidad fundamental es Y \= C + I + G + X - M.#Incorrecto. La identidad de economía abierta establece que Y \= C + I + G + X - M, donde X-M son las exportaciones netas.}
+
+::VF02 - Déficit de cuenta corriente::Un país con déficit de cuenta corriente necesariamente está "viviendo por encima de sus medios" y esto es siempre perjudicial para la economía.{FALSE#¡Correcto! Un déficit de CC puede financiar inversión productiva que genere crecimiento futuro. Lo importante es que sea sostenible.#Incorrecto. Un déficit de CC no es necesariamente malo; puede financiar inversión productiva. Lo relevante es si es sostenible y cómo se usan los recursos importados.}
+
+::VF03 - Ahorro e inversión::En una economía cerrada, el ahorro nacional siempre es igual a la inversión, pero en una economía abierta pueden diferir.{TRUE#¡Correcto! En economía abierta S \= I + CC, por lo que S puede ser mayor o menor que I dependiendo del saldo de cuenta corriente.#Incorrecto. En economía cerrada S \= I siempre. En economía abierta, la relación es S \= I + CC, permitiendo que difieran.}
+
+::VF04 - Partida doble::El principio de partida doble en la balanza de pagos implica que toda transacción internacional genera dos registros que se compensan\: un crédito y un débito.{TRUE#¡Correcto! Cada transacción tiene dos lados\: si compramos un bien debemos pagarlo, generando un registro en CC y otro en CF.#Incorrecto. El principio de partida doble establece que toda transacción se registra dos veces\: como crédito y como débito.}
+
+::VF05 - Reservas internacionales::Cuando el banco central vende reservas internacionales para defender el tipo de cambio, esto se registra como un débito en la cuenta financiera.{FALSE#¡Correcto! La venta de reservas es una exportación de activos, lo cual se registra como CRÉDITO en la cuenta financiera.#Incorrecto. La venta de reservas implica que el BC está "exportando" activos al exterior, lo cual es un crédito en CF.}
+
+// Capítulo 14 - Mercado de Divisas y Tipo de Cambio
+
+::VF06 - Tipo de cambio y depreciación::Con cotización directa (pesos por dólar), si el tipo de cambio sube de 900 a 1000, el peso se ha apreciado.{FALSE#¡Correcto! Si E sube (más pesos por dólar), el peso se DEPRECIA, no se aprecia. Se necesitan más pesos para comprar un dólar.#Incorrecto. Con cotización directa, un aumento de E significa depreciación del peso (se necesitan más pesos por dólar).}
+
+::VF07 - Paridad de intereses::La condición de paridad de intereses establece que en equilibrio, los depósitos en diferentes monedas deben ofrecer la misma tasa de rentabilidad esperada cuando se expresan en una moneda común.{TRUE#¡Correcto! Esta es la definición exacta de la paridad de intereses\: R \= R* + (Eᵉ - E)/E.#Incorrecto. La paridad de intereses requiere que las rentabilidades esperadas sean iguales para evitar oportunidades de arbitraje.}
+
+::VF08 - Tasa de interés y tipo de cambio::A corto plazo, un aumento del tipo de interés local siempre provoca una depreciación de la moneda local.{FALSE#¡Correcto! A corto plazo, un aumento del tipo de interés local APRECIA la moneda, ya que los depósitos locales se vuelven más atractivos.#Incorrecto. A corto plazo, mayor tasa local atrae capitales, aumenta la demanda de moneda local y provoca APRECIACIÓN.}
+
+::VF09 - Expectativas y tipo de cambio::Si los inversores esperan que el peso se deprecie en el futuro, esto no afecta el tipo de cambio de hoy porque las expectativas son solo predicciones.{FALSE#¡Correcto! Las expectativas afectan las decisiones de HOY. Si esperan depreciación, venden pesos hoy, causando depreciación presente.#Incorrecto. Las expectativas son fundamentales\: si esperan depreciación futura, venden pesos hoy, depreciando la moneda en el presente.}
+
+::VF10 - Tipo de cambio real::El tipo de cambio real mide el precio relativo de los bienes de un país en términos de los bienes de otro país, y es igual a q \= EP*/P.{TRUE#¡Correcto! El tipo de cambio real q \= EP*/P mide la competitividad relativa de los bienes entre países.#Incorrecto. El tipo de cambio real se define como q \= EP*/P, donde E es el tipo de cambio nominal, P* es el nivel de precios extranjero y P es el local.}
+
+
+// =====================
+// OPCIÓN MÚLTIPLE
+// =====================
+
+// Capítulo 13 - Contabilidad Nacional y Balanza de Pagos
+
+::MC01 - Componentes del PNB::¿Cuál de las siguientes ecuaciones representa correctamente la identidad del ingreso nacional en una economía abierta?{
+~Y \= C + I + G#Incorrecto. Esta es la identidad de economía CERRADA, falta el sector externo.
+~Y \= C + I + G + X#Incorrecto. Falta restar las importaciones (M).
+=Y \= C + I + G + X - M#¡Correcto! Esta es la identidad fundamental de economía abierta.
+~Y \= C + I + G + M - X#Incorrecto. Las exportaciones suman y las importaciones restan, no al revés.
+~Y \= C + I + G + (M - X)#Incorrecto. El orden correcto es (X - M), no (M - X).
+}
+
+::MC02 - Cuenta corriente y ahorro::La relación entre ahorro nacional (S), inversión (I) y cuenta corriente (CC) en una economía abierta es\:{
+~S \= I, siempre#Incorrecto. Esta igualdad solo se cumple en economía cerrada.
+~S \= I - CC#Incorrecto. La relación correcta es S \= I + CC.
+=S \= I + CC#¡Correcto! El ahorro puede destinarse a inversión doméstica (I) o a adquisición de activos externos (CC).
+~S \= I × CC#Incorrecto. No hay relación multiplicativa entre estas variables.
+~CC \= S × I#Incorrecto. La cuenta corriente es la diferencia S - I, no el producto.
+}
+
+::MC03 - Déficit gemelos::Los "déficits gemelos" se refieren a la relación entre\:{
+~El déficit comercial y el déficit de servicios#Incorrecto. Ambos son componentes de la cuenta corriente.
+~El déficit de cuenta corriente y el déficit de cuenta capital#Incorrecto. La cuenta capital es generalmente marginal.
+=El déficit fiscal (G-T) y el déficit de cuenta corriente#¡Correcto! Si el ahorro privado neto es constante, mayor déficit fiscal implica mayor déficit de CC.
+~El déficit de reservas y el déficit de inversión#Incorrecto. No existe tal relación conocida como "déficits gemelos".
+}
+
+::MC04 - Balanza de pagos - registro::Una empresa argentina exporta vino a Estados Unidos por USD 50,000 con pago a 90 días. ¿Cómo se registra esta transacción en la balanza de pagos de Argentina?{
+~Crédito en CC por exportación; crédito en CF por el derecho de cobro#Incorrecto. No pueden ser ambos créditos por el principio de partida doble.
+=Crédito en CC por exportación; débito en CF por adquisición de activo financiero (derecho de cobro)#¡Correcto! Argentina exporta un bien (crédito CC) y adquiere un derecho de cobro, que es un activo (débito CF).
+~Débito en CC por exportación; crédito en CF por el pago futuro#Incorrecto. Las exportaciones son créditos, no débitos.
+~Solo se registra en CC; la CF no se afecta#Incorrecto. Por partida doble, toda transacción genera dos registros.
+}
+
+::MC05 - Identidad de balanza de pagos::La identidad fundamental de la balanza de pagos establece que\:{
+~CC + CF \= 0#Incorrecto. Falta la cuenta capital.
+~CC \= CF + CK#Incorrecto. El orden correcto es CC + CK \= CF.
+=CC + CK \= CF#¡Correcto! La suma de cuenta corriente y cuenta capital iguala a la cuenta financiera.
+~CC × CK \= CF#Incorrecto. No hay relación multiplicativa.
+~CF - CC \= CK#Incorrecto. Despejando correctamente\: CK \= CF - CC.
+}
+
+::MC06 - Ahorro privado::El ahorro privado (Sᴾ) de un país puede destinarse a financiar\:{
+~Solo la inversión doméstica#Incorrecto. En economía abierta hay más opciones.
+~La inversión doméstica y el gasto público#Incorrecto. Falta la opción de financiar al exterior.
+~La inversión doméstica y las exportaciones netas#Incorrecto. No se "financia" las exportaciones netas directamente.
+=La inversión doméstica (I), la adquisición de riqueza externa (CC) y la deuda pública (G-T)#¡Correcto! Sᴾ \= I + CC + (G-T). El ahorro privado tiene tres destinos posibles.
+~Solo el déficit fiscal del gobierno#Incorrecto. El ahorro privado tiene múltiples destinos.
+}
+
+::MC07 - Crisis de balanza de pagos::¿Cuál de las siguientes secuencias describe correctamente el mecanismo de una crisis de balanza de pagos?{
+~Superávit de CC → acumulación de reservas → apreciación → crisis#Incorrecto. Un superávit no genera crisis.
+=Déficit de CC persistente → pérdida de reservas → pérdida de confianza → salida de capitales → devaluación#¡Correcto! Esta es la secuencia típica de una crisis de balanza de pagos.
+~Aumento de exportaciones → entrada de capitales → inflación → crisis#Incorrecto. El aumento de exportaciones no genera crisis.
+~Superávit fiscal → apreciación → déficit de CC → crisis inmediata#Incorrecto. La secuencia causal no es correcta.
+}
+
+// Capítulo 14 - Mercado de Divisas y Tipo de Cambio
+
+::MC08 - Rentabilidad de depósitos en dólares::Un inversor argentino evalúa depositar en dólares. Si la tasa de interés en dólares es 5% anual, el tipo de cambio hoy es 1000 pesos/dólar y espera que sea 1100 pesos/dólar en un año, ¿cuál es la rentabilidad aproximada en pesos de invertir en dólares?{
+~5%#Incorrecto. Falta considerar la ganancia por depreciación del peso.
+~10%#Incorrecto. Este es solo el componente de depreciación esperada.
+=15%#¡Correcto! R(pesos) ≈ R(USD) + depreciación esperada \= 5% + (1100-1000)/1000 \= 5% + 10% \= 15%.
+~20%#Incorrecto. La fórmula correcta da 15%.
+~50%#Incorrecto. La suma de tasa de interés más depreciación esperada es 15%.
+}
+
+::MC09 - Paridad de intereses - equilibrio::Según la condición de paridad de intereses, si el tipo de interés en Argentina es 10%, el tipo de interés en EEUU es 5%, y el tipo de cambio actual es 1000 pesos/dólar, ¿cuál debería ser el tipo de cambio futuro esperado para que el mercado esté en equilibrio?{
+~950 pesos/dólar#Incorrecto. Esto implicaría apreciación del peso, lo cual no es consistente con mayor tasa en Argentina.
+~1000 pesos/dólar#Incorrecto. Si las tasas difieren, debe haber expectativa de variación del tipo de cambio.
+=1050 pesos/dólar#¡Correcto! De R \= R* + (Eᵉ-E)/E\: 10% \= 5% + (Eᵉ-1000)/1000. Entonces (Eᵉ-1000)/1000 \= 5%, y Eᵉ \= 1050.
+~1100 pesos/dólar#Incorrecto. Esto implicaría depreciación esperada de 10%, mayor a la necesaria.
+~1150 pesos/dólar#Incorrecto. La depreciación esperada sería excesiva.
+}
+
+::MC10 - Efecto de suba de tasa local::Si el Banco Central de Argentina aumenta el tipo de interés de referencia (manteniendo todo lo demás constante), ¿qué efecto se espera a corto plazo sobre el tipo de cambio?{
+~El peso se deprecia porque las tasas altas indican problemas económicos#Incorrecto. A corto plazo, el efecto directo es apreciación.
+=El peso se aprecia porque los depósitos en pesos se vuelven más atractivos#¡Correcto! Mayor tasa local atrae capitales, aumenta demanda de pesos y causa apreciación.
+~El tipo de cambio no se ve afectado por la política monetaria#Incorrecto. El tipo de cambio está estrechamente vinculado a las tasas de interés.
+~El efecto es ambiguo y no puede determinarse#Incorrecto. El modelo predice claramente apreciación a corto plazo.
+}
+
+::MC11 - Efecto de suba de tasa externa::Si la Reserva Federal de EEUU aumenta el tipo de interés (manteniendo todo lo demás constante), ¿qué efecto se espera sobre el peso argentino?{
+=El peso se deprecia porque los depósitos en dólares se vuelven más atractivos#¡Correcto! Mayor tasa en EEUU hace más atractivo el dólar, generando salida de capitales de Argentina.
+~El peso se aprecia por efecto contagio#Incorrecto. El efecto es depreciación del peso.
+~No hay efecto porque son economías independientes#Incorrecto. Los mercados financieros están interconectados.
+~El peso se aprecia porque Argentina debe competir subiendo su tasa#Incorrecto. Eso sería una respuesta de política, no el efecto inicial.
+}
+
+::MC12 - Tipo de cambio real::Si el tipo de cambio nominal es E \= 1000 pesos/dólar, el nivel de precios en Argentina es P \= 5000, y el nivel de precios en EEUU es P* \= 5, ¿cuál es el tipo de cambio real (q)?{
+~0.5#Incorrecto. Verifique el cálculo\: q \= EP*/P.
+=1#¡Correcto! q \= (1000 × 5) / 5000 \= 5000/5000 \= 1. Los bienes cuestan lo mismo en ambos países.
+~2#Incorrecto. El cálculo correcto da q \= 1.
+~1000#Incorrecto. El tipo de cambio real es adimensional, no puede ser tan alto.
+~5000#Incorrecto. Está confundiendo el tipo de cambio real con el nivel de precios.
+}
+
+::MC13 - Carry trade::El "carry trade" es una estrategia que consiste en\:{
+~Comprar y vender divisas simultáneamente para eliminar riesgo#Incorrecto. Eso sería cobertura (hedging), no carry trade.
+~Invertir solo en monedas de países desarrollados#Incorrecto. El carry trade puede involucrar cualquier par de monedas.
+=Pedir prestado en una moneda con baja tasa de interés e invertir en una moneda con alta tasa#¡Correcto! Se busca ganar el diferencial de tasas, asumiendo riesgo cambiario.
+~Comprar divisas en el mercado spot y venderlas en el mercado forward#Incorrecto. Eso sería arbitraje de tasas forward.
+~Mantener reservas en múltiples monedas para diversificar#Incorrecto. Eso es diversificación de cartera, no carry trade.
+}
+
+::MC14 - Expectativas y profecías autocumplidas::Si todos los participantes del mercado esperan que el peso se deprecie fuertemente, ¿qué sucede?{
+~Nada, porque las expectativas no afectan los precios de mercado#Incorrecto. Las expectativas son fundamentales en mercados financieros.
+~El peso se aprecia porque los inversores compran pesos baratos#Incorrecto. Si esperan depreciación, venden pesos, no los compran.
+=El peso se deprecia hoy porque los inversores venden pesos anticipándose a la pérdida de valor#¡Correcto! Las expectativas pueden ser autocumplidas\: si todos esperan depreciación, venden pesos, causando la depreciación.
+~El banco central interviene automáticamente para evitar la depreciación#Incorrecto. La intervención es una decisión de política, no automática.
+}
+
+::MC15 - Mercado forward::Una empresa argentina debe pagar USD 100,000 a un proveedor extranjero en 90 días. Para eliminar el riesgo cambiario, la empresa puede\:{
+~Esperar y comprar dólares al tipo de cambio spot dentro de 90 días#Incorrecto. Esto no elimina el riesgo; el tipo de cambio puede variar.
+~Pedir un préstamo en dólares hoy#Incorrecto. Esto no elimina directamente el riesgo cambiario del pago futuro.
+=Comprar dólares forward, fijando hoy el tipo de cambio para la entrega en 90 días#¡Correcto! El mercado forward permite fijar el tipo de cambio futuro, eliminando la incertidumbre.
+~Vender pesos forward para compensar#Incorrecto. Necesita comprar dólares, no vender pesos forward.
+~No hay forma de eliminar el riesgo cambiario#Incorrecto. El mercado forward existe precisamente para esto.
+}
