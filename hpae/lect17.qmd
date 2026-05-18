@@ -1,0 +1,630 @@
+---
+title: "Historia del Pensamiento y del Análisis Económico"
+subtitle: "U7. Reacciones críticas al marginalismo"
+author: "Sebastián Freille"
+institute: "Facultad de Ciencias Económicas, UNC"
+date: today
+format:
+  revealjs:
+    theme: theme-hpae.scss
+    embed-resources: true
+    slide-number: true
+    toc: true
+    toc-depth: 1
+    toc-title: "Contenidos"
+    width: 1500
+    height: 900
+lang: es
+execute:
+  echo: false
+  warning: false
+---
+
+# **Introducción: Las grietas del edificio neoclásico** {background="#390040"}
+
+## El marginalismo triunfante... y cuestionado
+
+- A principios del siglo XX, el marginalismo parecía haber conquistado la economía
+- Marshall en Cambridge, Walras en Lausana, y la escuela austríaca dominaban el panorama
+- Sin embargo, surgieron **críticas profundas** desde diferentes frentes:
+  - Críticas al **método**: ¿es válido el individualismo metodológico?
+  - Críticas a los **supuestos**: ¿es realista el *homo economicus*?
+  - Críticas a las **conclusiones**: ¿funciona realmente la competencia perfecta?
+
+> "La economía ortodoxa está construida sobre arena."
+**[Thorstein Veblen]**
+
+## Plan de la clase
+
+Esta unidad está organizada en cuatro grandes bloques:
+
+1. **Parte I: El institucionalismo americano**
+   - Thorstein Veblen: el crítico radical
+   - John R. Commons: el reformista pragmático
+   - Wesley C. Mitchell: el empirista
+
+2. **Parte II: Veblen en profundidad**
+   - Crítica al homo economicus
+   - Los instintos y los hábitos
+   - La clase ociosa y el consumo ostentoso
+
+3. **Parte III: La revolución de la competencia imperfecta**
+   - Joan Robinson y la competencia imperfecta
+   - Edward Chamberlin y la competencia monopolística
+
+4. **Parte IV: Otras voces críticas**
+   - Piero Sraffa y la crítica a Marshall
+   - El legado de las críticas
+
+## ¿Por qué importan estas críticas?
+
+- Las críticas al marginalismo no fueron meras curiosidades académicas
+- Anticiparon desarrollos que hoy son centrales:
+  - **Economía del comportamiento** (behavioral economics)
+  - **Economía institucional** (nueva y vieja)
+  - **Organización industrial** moderna
+  - **Críticas heterodoxas** contemporáneas
+
+- Además, revelaron **limitaciones reales** de la teoría neoclásica:
+  - El consumidor no es puramente racional
+  - Las empresas no operan en competencia perfecta
+  - Las instituciones importan
+
+# **Parte I: El institucionalismo americano** {background="#390040"}
+
+## El contexto americano de fin de siglo
+
+- Estados Unidos a fines del siglo XIX experimentaba:
+  - Rápida industrialización y urbanización
+  - Surgimiento de grandes corporaciones (*trusts*)
+  - Conflictos laborales y movimiento obrero
+  - Corrupción política y reformismo progresista
+  
+- La economía marginalista europea parecía **ajena** a estas realidades
+- Surgió una tradición distintivamente americana: el **institucionalismo**
+
+## ¿Qué es el institucionalismo?
+
+> **Institucionalismo.** Corriente de pensamiento económico que enfatiza el rol de las instituciones (normas, hábitos, leyes, organizaciones) en la configuración del comportamiento económico, en contraposición al individualismo metodológico de la economía neoclásica.
+
+- Características comunes:
+  - Rechazo del *homo economicus* racional
+  - Énfasis en la historia y la evolución
+  - Importancia de los hábitos y convenciones sociales
+  - Orientación empírica y reformista
+  - Escepticismo hacia la teoría abstracta
+
+## Los tres padres del institucionalismo
+
+| Autor | Vida | Enfoque principal | Obra clave |
+|-------|------|-------------------|------------|
+| **Thorstein Veblen** | 1857-1929 | Crítica cultural y antropológica | *The Theory of the Leisure Class* (1899) |
+| **John R. Commons** | 1862-1945 | Derecho, instituciones y reforma laboral | *Legal Foundations of Capitalism* (1924) |
+| **Wesley C. Mitchell** | 1874-1948 | Ciclos económicos y estadísticas | *Business Cycles* (1913) |
+
+- Veblen fue el **crítico radical**, Commons el **reformista pragmático**, Mitchell el **empirista**
+
+## John R. Commons [1862-1945]
+
+- Profesor en la Universidad de Wisconsin
+- Asesor del movimiento obrero y del gobierno
+- Arquitecto de la legislación laboral y de seguridad social en EE.UU.
+
+- Sus contribuciones principales:
+  - Teoría de las **transacciones** como unidad de análisis
+  - Énfasis en las **reglas del juego** (derechos de propiedad, contratos)
+  - Conexión entre economía y **derecho**
+  - Importancia de la **acción colectiva**
+
+> "La unidad última de la actividad económica debe contener en sí misma los tres principios de conflicto, dependencia y orden."
+**[John R. Commons]**
+
+## Wesley C. Mitchell [1874-1948]
+
+- Estudiante de Veblen, pero más pragmático
+- Fundador del **National Bureau of Economic Research** (NBER)
+- Pionero en el estudio empírico de los **ciclos económicos**
+
+- Sus contribuciones principales:
+  - Recopilación sistemática de **datos económicos**
+  - Estudio empírico (no teórico) de los ciclos
+  - Énfasis en la **observación** sobre la teoría
+  - Precursor de la macroeconomía empírica
+
+> "Los hechos son más importantes que las teorías."
+**[Wesley C. Mitchell]**
+
+# **Parte II: Thorstein Veblen - el crítico radical** {background="#390040"}
+
+## Thorstein Veblen [1857-1929]: Vida
+
+- Nació en Wisconsin, hijo de inmigrantes noruegos
+- Educación atípica: estudió filosofía, no economía
+- Vida académica errática y marginada:
+  - Doctorado en Yale (1884) con una tesis sobre Kant
+  - Posiciones en Cornell, Chicago, Stanford, Missouri
+  - Nunca obtuvo una cátedra estable
+- Personalidad excéntrica y vida personal turbulenta
+- Murió en 1929, poco antes del crack que parecía confirmar sus teorías
+
+## Veblen: El outsider permanente
+
+- Veblen fue un **marginal** en todos los sentidos:
+  - Hijo de inmigrantes en la América WASP
+  - Filósofo entre economistas
+  - Escéptico entre creyentes del progreso
+  - Solitario entre académicos sociables
+
+- Esta marginalidad le dio una **perspectiva única**:
+  - Podía ver lo que los demás daban por sentado
+  - Cuestionaba los supuestos más básicos
+  - Escribía con ironía devastadora
+
+> "Veblen fue el más penetrante y original de los economistas americanos."
+**[Joseph Schumpeter]**
+
+## Veblen: Obras fundamentales
+
+| Año | Obra | Contenido central |
+|-----|------|-------------------|
+| **1899** | *The Theory of the Leisure Class* | Consumo ostentoso, clase ociosa, emulación |
+| **1904** | *The Theory of Business Enterprise* | Conflicto entre industria y negocios |
+| **1914** | *The Instinct of Workmanship* | Los instintos humanos básicos |
+| **1919** | *The Vested Interests and the Common Man* | Crítica del capitalismo |
+| **1921** | *The Engineers and the Price System* | Tecnocracia y planificación |
+
+- *The Theory of the Leisure Class* es su obra más famosa e influyente
+
+## La crítica al *homo economicus*
+
+- Veblen rechazó frontalmente la concepción neoclásica del individuo:
+
+> "La concepción hedonística del hombre es la de un calculador de placeres y dolores que oscila como un glóbulo homogéneo de deseo de felicidad bajo el impulso de estímulos que lo desplazan, pero lo dejan intacto."
+**[Thorstein Veblen, *Why is Economics Not an Evolutionary Science?* (1898)]**
+
+- El *homo economicus* es:
+  - **Pasivo**: responde a estímulos externos
+  - **Aislado**: no tiene historia ni sociedad
+  - **Calculador**: maximiza utilidad conscientemente
+  - **Inmutable**: sus preferencias son dadas
+
+## La alternativa vebleniana: instintos y hábitos
+
+- Para Veblen, el ser humano es un **agente activo** moldeado por:
+  1. **Instintos** heredados biológicamente
+  2. **Hábitos** adquiridos socialmente
+  3. **Instituciones** que canalizan ambos
+
+- Los instintos básicos según Veblen:
+  - **Instinto de trabajo eficaz** (*instinct of workmanship*): tendencia a hacer bien las cosas
+  - **Instinto parental**: cuidado de la descendencia y la comunidad
+  - **Curiosidad ociosa** (*idle curiosity*): búsqueda desinteresada de conocimiento
+
+## Los instintos de Veblen
+
+> **Instinto de trabajo eficaz.** Es la disposición humana a realizar trabajo útil, a crear cosas que funcionen, a sentir satisfacción por la tarea bien hecha. Es un instinto *constructivo*.
+
+> **Instinto depredador.** Es la tendencia a la competencia, la dominación y la apropiación del trabajo ajeno. Es un instinto *destructivo* que se desarrolló en ciertas condiciones históricas.
+
+- La **tensión** entre estos instintos es central en la historia humana
+- El capitalismo moderno exacerba el instinto depredador sobre el constructivo
+
+## Las instituciones como hábitos cristalizados
+
+- Para Veblen, las **instituciones** son:
+  - Hábitos de pensamiento **compartidos** por una comunidad
+  - Formas de actuar que se han vuelto **automáticas**
+  - Productos de la **historia**, no de la razón
+
+> "Las instituciones son en sustancia hábitos mentales prevalentes, formas de pensar con respecto a relaciones particulares y funciones particulares del individuo y de la comunidad."
+**[Thorstein Veblen, *The Theory of the Leisure Class*]**
+
+- Las instituciones **preceden** al individuo y lo moldean
+- Esto invierte la lógica neoclásica: no son los individuos quienes crean las instituciones
+
+## La teoría de la clase ociosa
+
+- En *The Theory of the Leisure Class* (1899), Veblen analiza el **consumo** desde una perspectiva antropológica
+- Tesis central: el consumo no se explica por la utilidad sino por la **emulación social**
+
+> "Con la excepción del instinto de autopreservación, la propensión a la emulación es probablemente el motivo más fuerte y persistente de la acción económica."
+**[Thorstein Veblen]**
+
+- El consumo es un **acto social**, no individual
+- Consumimos para **demostrar estatus**, no para satisfacer necesidades
+
+## La clase ociosa
+
+- Veblen identificó una **clase ociosa** en todas las sociedades estratificadas:
+  - Aristocracia guerrera en sociedades feudales
+  - Burguesía rentista en el capitalismo moderno
+
+- Características de la clase ociosa:
+  - **No trabaja** productivamente
+  - Demuestra su estatus mediante el **ocio ostensible**
+  - Exhibe su riqueza mediante el **consumo ostentoso**
+  - Establece los **estándares de reputación** para toda la sociedad
+
+> "La abstención ostensible del trabajo se convierte en la marca convencional del logro pecuniario superior."
+**[Thorstein Veblen]**
+
+## El consumo ostentoso (*conspicuous consumption*)
+
+- El concepto más famoso de Veblen:
+
+> **Consumo ostentoso.** Es el gasto en bienes y servicios cuyo propósito principal es exhibir riqueza y estatus social, más que satisfacer necesidades materiales.
+
+- Ejemplos veblenianos:
+  - Joyas y vestimenta lujosa
+  - Sirvientes y lacayos
+  - Educación clásica "inútil"
+  - Deportes aristocráticos
+  - Perros de raza pura
+
+- El consumo ostentoso es **despilfarrador** pero **racional** en términos de estatus
+
+## El ocio ostensible (*conspicuous leisure*)
+
+- Junto al consumo ostentoso, Veblen identificó el **ocio ostensible**:
+
+> **Ocio ostensible.** Es la abstención visible del trabajo productivo como demostración de estatus superior.
+
+- Formas de ocio ostensible:
+  - Modales refinados y etiqueta elaborada
+  - Conocimiento de artes "inútiles"
+  - Deportes que requieren tiempo libre
+  - Viajes prolongados de placer
+
+- El ocio ostensible demuestra que uno **no necesita trabajar**
+- Es un **desperdicio de tiempo** socialmente valorado
+
+## La emulación pecuniaria
+
+- Veblen argumentó que la emulación social opera en **todas las clases**:
+  - La clase ociosa establece el estándar
+  - Las clases medias imitan a la clase ociosa
+  - Las clases bajas imitan a las medias
+  
+- Esto crea una **cascada de emulación**:
+
+> "Cada clase envidia y emula a la clase inmediatamente superior en la escala social, mientras trata de distanciarse de la inmediatamente inferior."
+**[Thorstein Veblen]**
+
+- El resultado es un sistema de consumo **competitivo** e **ineficiente**
+
+## Implicaciones para la teoría del consumo
+
+- La teoría vebleniana contradice la neoclásica en varios puntos:
+
+| Aspecto | Teoría neoclásica | Teoría vebleniana |
+|---------|-------------------|-------------------|
+| **Motivación** | Maximizar utilidad | Demostrar estatus |
+| **Preferencias** | Dadas e individuales | Socialmente determinadas |
+| **Independencia** | Cada consumidor decide solo | El consumo es relativo y comparativo |
+| **Precio y demanda** | Relación inversa | Posible relación directa (*bienes Veblen*) |
+
+## Los bienes Veblen
+
+- Un **bien Veblen** es aquel cuya demanda aumenta cuando sube su precio
+- Razón: el precio alto es parte del atractivo (señala exclusividad)
+- Ejemplos:
+  - Relojes de lujo
+  - Vinos de marca
+  - Ropa de diseñador
+  - Automóviles de alta gama
+
+- Esto viola la ley de la demanda pero es **racional** en términos veblenianos
+- El consumidor no compra el bien, compra el **estatus** asociado
+
+## Industria vs. negocios
+
+- En *The Theory of Business Enterprise* (1904), Veblen distinguió:
+
+::: {.columns}
+::: {.column width="50%"}
+**Industria**
+
+- Producción de bienes útiles
+- Guiada por el instinto de trabajo eficaz
+- Ingenieros y técnicos
+- Eficiencia y servicio
+- Orientada a la **comunidad**
+:::
+::: {.column width="50%"}
+**Negocios**
+
+- Obtención de beneficios pecuniarios
+- Guiada por el instinto depredador
+- Financieros y especuladores
+- Beneficio y sabotaje
+- Orientada al **individuo**
+:::
+:::
+
+## El conflicto industria-negocios
+
+- Para Veblen, existe un **conflicto fundamental** entre industria y negocios:
+  - Los ingenieros quieren producir eficientemente
+  - Los financieros quieren maximizar beneficios
+  - A menudo, maximizar beneficios requiere **restringir** la producción
+
+> "El negocio de hacer dinero no es el mismo que el negocio de hacer bienes."
+**[Thorstein Veblen]**
+
+- Este conflicto genera **desperdicio institucionalizado**:
+  - Capacidad ociosa deliberada
+  - Obsolescencia planificada
+  - Publicidad y diferenciación artificial
+
+## Valoración de Veblen
+
+**Fortalezas:**
+
+- Crítica devastadora al *homo economicus*
+- Anticipó la economía del comportamiento
+- Insights sobre consumo, estatus y emulación
+- Perspectiva institucional e histórica
+- Estilo literario brillante e irónico
+
+**Debilidades:**
+
+- Nunca desarrolló una teoría alternativa sistemática
+- Sus "instintos" son vagos y difíciles de operacionalizar
+- Tendencia al sarcasmo sobre el análisis riguroso
+- Poca influencia en la corriente principal
+
+# **Parte III: La revolución de la competencia imperfecta** {background="#390040"}
+
+## El contexto de los años 1930
+
+- A principios de los 1930s, la teoría marshalliana enfrentaba **anomalías**:
+  - Las empresas reales no eran tomadoras de precios
+  - La publicidad y la diferenciación eran ubicuas
+  - Los mercados estaban dominados por pocas empresas
+  - La Gran Depresión cuestionaba la autorregulación del mercado
+
+- En 1933, dos libros aparecieron casi simultáneamente:
+  - Joan Robinson: *The Economics of Imperfect Competition*
+  - Edward Chamberlin: *The Theory of Monopolistic Competition*
+
+## Piero Sraffa y la crítica a Marshall
+
+- Antes de Robinson y Chamberlin, **Piero Sraffa** (1898-1983) había preparado el terreno
+- En 1926 publicó "*The Laws of Returns under Competitive Conditions*" en el *Economic Journal*
+
+- Crítica central: la teoría marshalliana de la competencia perfecta es **inconsistente**:
+  - Los rendimientos crecientes son incompatibles con competencia perfecta
+  - Los rendimientos decrecientes requieren factores fijos (imposible en largo plazo)
+  - Solo quedan los rendimientos constantes (caso trivial)
+
+> "Es necesario abandonar el camino de la libre competencia y volverse hacia el del monopolio."
+**[Piero Sraffa, 1926]**
+
+## Joan Robinson [1903-1983]: Vida
+
+- Economista británica, figura central de la **Escuela de Cambridge**
+- Estudiante y luego colega de Keynes
+- Una de las primeras mujeres prominentes en economía
+- Vida académica en Cambridge (nunca obtuvo cátedra plena hasta tarde)
+- Evolución intelectual: de neoclásica a post-keynesiana a marxista
+
+> "La primera función de una teoría es aclarar lo que no entendemos."
+**[Joan Robinson]**
+
+## Robinson: *The Economics of Imperfect Competition* (1933)
+
+- Robinson sistematizó el análisis de mercados donde las empresas **tienen poder de mercado**
+- Herramientas analíticas:
+  - **Ingreso marginal**: el ingreso de vender una unidad adicional
+  - **Curva de demanda con pendiente negativa** para la empresa individual
+  - **Discriminación de precios** de primer, segundo y tercer grado
+
+- Resultado clave: en competencia imperfecta:
+  - $P > CMg$ (precio mayor que costo marginal)
+  - Hay **pérdida de eficiencia** (peso muerto)
+  - Las empresas obtienen **beneficios extraordinarios**
+
+## La curva de ingreso marginal
+
+- En competencia perfecta: $IM = P$ (la empresa es tomadora de precios)
+- En competencia imperfecta: $IM < P$ (para vender más, debe bajar el precio)
+
+$$IM = P + Q \cdot \frac{dP}{dQ} = P \left(1 - \frac{1}{|\varepsilon|}\right)$$
+
+- Donde $\varepsilon$ es la elasticidad-precio de la demanda
+- El monopolista produce donde $IM = CMg$
+- Esto implica $P > CMg$: hay una **brecha de ineficiencia**
+
+## La discriminación de precios
+
+- Robinson analizó sistemáticamente la **discriminación de precios**:
+
+| Grado | Descripción | Ejemplo |
+|-------|-------------|---------|
+| **Primero** | Precio personalizado para cada unidad | Subasta perfecta |
+| **Segundo** | Precio según cantidad comprada | Descuentos por volumen |
+| **Tercero** | Precio según grupo de consumidores | Descuentos a estudiantes |
+
+- La discriminación puede ser más eficiente que el precio único
+- Pero redistribuye excedente hacia la empresa
+
+## Edward Chamberlin [1899-1967]
+
+- Economista estadounidense, profesor en Harvard
+- Su tesis doctoral se convirtió en *The Theory of Monopolistic Competition* (1933)
+- A diferencia de Robinson, Chamberlin enfatizó la **diferenciación del producto**
+
+> "Los productos de los vendedores competidores no son idénticos, sino que difieren en aspectos que son importantes para los compradores."
+**[Edward Chamberlin]**
+
+## La competencia monopolística
+
+- Chamberlin identificó una estructura de mercado intermedia:
+
+| Aspecto | Competencia perfecta | Competencia monopolística | Monopolio |
+|---------|---------------------|---------------------------|-----------|
+| **Empresas** | Muchas | Muchas | Una |
+| **Producto** | Homogéneo | Diferenciado | Único |
+| **Entrada** | Libre | Libre | Bloqueada |
+| **Poder de mercado** | Ninguno | Limitado | Total |
+
+- Ejemplos: restaurantes, peluquerías, ropa, refrescos
+
+## Características de la competencia monopolística
+
+1. **Muchos vendedores**: cada uno pequeño respecto al mercado total
+2. **Diferenciación del producto**: cada empresa vende un producto ligeramente diferente
+3. **Libre entrada y salida**: no hay barreras significativas
+4. **Competencia no-precio**: publicidad, calidad, servicio
+
+- Cada empresa enfrenta una **curva de demanda con pendiente negativa**
+- Pero la libre entrada elimina los beneficios extraordinarios en el largo plazo
+
+## Equilibrio en competencia monopolística
+
+- **Corto plazo**: como monopolio
+  - Maximiza donde $IM = CMg$
+  - Puede obtener beneficios extraordinarios
+
+- **Largo plazo**: la entrada de competidores desplaza la demanda hacia la izquierda
+  - Equilibrio donde $P = CMe$ (beneficio cero)
+  - Pero $P > CMg$ (ineficiencia)
+
+- Resultado: **exceso de capacidad**
+  - Las empresas no producen en el mínimo de su curva de costo medio
+  - Hay más variedad pero más ineficiencia
+
+## Robinson vs. Chamberlin
+
+| Aspecto | Robinson | Chamberlin |
+|---------|----------|------------|
+| **Énfasis** | Poder de mercado | Diferenciación del producto |
+| **Herramientas** | Ingreso marginal, discriminación | Curvas de demanda, grupos de productos |
+| **Enfoque** | Más formal y técnico | Más descriptivo e institucional |
+| **Tradición** | Cambridge (Marshall-Keynes) | Harvard |
+| **Legado** | Organización industrial | Marketing y estrategia |
+
+## Implicaciones de la competencia imperfecta
+
+- La "revolución" de la competencia imperfecta tuvo implicaciones profundas:
+
+1. **Fin del paradigma de competencia perfecta** como caso general
+2. **Justificación de intervención estatal**: si $P > CMg$, hay espacio para política
+3. **Teoría de la publicidad**: gasto racional en mercados diferenciados
+4. **Poder de mercado ubicuo**: no es anomalía sino norma
+
+- Sin embargo, la teoría neoclásica **absorbió** estas críticas:
+  - La competencia imperfecta se volvió un caso más del análisis microeconómico
+  - No se cuestionaron los fundamentos (maximización, equilibrio)
+
+# **Parte IV: Otras voces críticas y legado** {background="#390040"}
+
+## Otras críticas al marginalismo
+
+- Además del institucionalismo y la competencia imperfecta, hubo otras voces críticas:
+
+1. **Escuela histórica alemana** (Schmoller): rechazo de la teoría abstracta
+2. **Socialistas fabianos** (Webb): crítica distributiva
+3. **John A. Hobson**: subconsumismo y imperialismo
+4. **Karl Polanyi**: crítica a la "sociedad de mercado"
+
+- Cada uno atacó diferentes aspectos del marginalismo
+
+## John A. Hobson [1858-1940]
+
+- Economista británico heterodoxo
+- Anticipó ideas keynesianas sobre subconsumo y demanda efectiva
+- Críticas principales:
+  - La distribución desigual genera **subconsumo**
+  - El ahorro excesivo deprime la demanda
+  - El imperialismo es válvula de escape del capitalismo
+
+> "El defecto estructural del sistema es una distribución viciosa del ingreso."
+**[John A. Hobson]**
+
+- Influenció a Keynes y a Lenin
+
+## El legado de las críticas
+
+- Las críticas al marginalismo tuvieron destinos diversos:
+
+| Crítica | Destino |
+|---------|---------|
+| Institucionalismo | Marginado, pero revivió como "nueva economía institucional" |
+| Competencia imperfecta | Absorbido por la corriente principal |
+| Críticas metodológicas | Ignoradas por la formalización |
+| Veblen | Redescubierto por economía del comportamiento |
+
+- La economía neoclásica demostró ser **extraordinariamente resiliente**
+
+## La nueva economía institucional
+
+- A partir de los 1970s, surgió una **nueva economía institucional** que:
+  - Rescata preocupaciones del viejo institucionalismo
+  - Pero usa herramientas neoclásicas (maximización, equilibrio)
+
+- Figuras principales:
+  - **Ronald Coase**: costos de transacción
+  - **Douglass North**: instituciones y cambio económico
+  - **Oliver Williamson**: gobernanza económica
+
+- La NEI es **más aceptable** para la corriente principal que Veblen
+
+## La economía del comportamiento
+
+- Desde los 1980s, la **economía del comportamiento** (behavioral economics) ha:
+  - Cuestionado la racionalidad perfecta
+  - Documentado sesgos cognitivos sistemáticos
+  - Propuesto "empujones" (*nudges*) como política
+
+- Figuras principales:
+  - **Daniel Kahneman** y **Amos Tversky**: teoría prospectiva
+  - **Richard Thaler**: finanzas conductuales
+  - **Robert Shiller**: burbujas y exuberancia irracional
+
+- Estos autores **vindicaron** muchas intuiciones veblenianas
+
+## ¿Qué queda de las críticas?
+
+- Las críticas al marginalismo dejaron un **legado mixto**:
+
+**Ideas que perduraron:**
+
+- La importancia de las instituciones
+- La competencia imperfecta como caso relevante
+- Los límites de la racionalidad perfecta
+- El consumo como fenómeno social
+
+**Ideas que fueron marginadas:**
+
+- El rechazo total al equilibrio
+- Los "instintos" veblenianos
+- La crítica radical al capitalismo
+- El método inductivo puro
+
+# **Bibliografía** {background="#390040"}
+
+## Lecturas principales
+
+- **Roncaglia, A.** (2006). *La riqueza de las ideas*. Capítulo 11: "Críticas al marginalismo".
+- **Ekelund, R.B. y Hébert, R.F.** (2005). *Historia de la teoría económica y de su método*. Capítulo 16: "Institucionalismo" y Capítulo 17: "Competencia imperfecta".
+- **Schumpeter, J.A.** (1954). *History of Economic Analysis*. Part IV, Capítulo 8.
+
+## Lecturas complementarias
+
+- **Veblen, T.** (1899). *The Theory of the Leisure Class*. Capítulos 1-4 sobre la clase ociosa y el consumo ostentoso.
+- **Robinson, J.** (1933). *The Economics of Imperfect Competition*. Capítulos 1-3.
+- **Chamberlin, E.** (1933). *The Theory of Monopolistic Competition*. Capítulos 1-5.
+- **Hodgson, G.** (2004). *The Evolution of Institutional Economics*. [Sobre el legado del institucionalismo]
+
+## Preguntas para reflexionar
+
+1. ¿Tenía razón Veblen al rechazar el *homo economicus*? ¿Qué evidencia contemporánea apoya o refuta su posición?
+
+2. ¿Por qué el institucionalismo americano fue marginado mientras la competencia imperfecta fue absorbida por la corriente principal?
+
+3. ¿Es el "consumo ostentoso" un fenómeno universal o específico del capitalismo tardío que Veblen observaba?
+
+4. ¿Cómo cambiaría la teoría económica si aceptáramos que las preferencias son socialmente determinadas?
+
+5. ¿La economía del comportamiento moderna es heredera legítima de Veblen, o es una versión domesticada de sus críticas?
