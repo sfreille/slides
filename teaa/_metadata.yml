@@ -6,3 +6,4 @@ format:
       data-background-image: ../_shared/images/backgrounds/bg-teaa-01.png
       data-background-size: stretch
       data-background-opacity: "0.85"
+  pdf: default
