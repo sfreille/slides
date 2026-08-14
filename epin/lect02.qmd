@@ -324,11 +324,11 @@ $B \succ C$ (C no es)
 
 ## ¿Son relevantes en la práctica?
 
-![Probabilidad de ocurrencia de ciclos](../fig/fig_ciclos_condorcet.png)
+![Probabilidad de ocurrencia de ciclos](fig/fig_ciclos_condorcet.png)
 
 ## Pero cómo que no sabías!
 
-![Teorema de la imposibilidad versión argenta](../fig/fig_meme_milei.jpg)
+![Teorema de la imposibilidad versión argenta](fig/fig_meme_milei.jpg)
 
 ## Consecuencias de los ciclos 
 
@@ -411,7 +411,7 @@ alternativas irrelevantes y no dictadura.
 
 ## AP: Preferencias s/ aborto
 
-![Polarización y preferencias de pico único](../fig/fig_roewade.jpeg){height=400}
+![Polarización y preferencias de pico único](fig/fig_roewade.jpeg){height=400}
 
 ## Teorema de pico único
 
@@ -428,7 +428,7 @@ grupo transitivas
 
 ## Forma de preferencias
 
-![Tipología de preferencias individuales](../fig/fig_single_peaked_preferences.jpg)
+![Tipología de preferencias individuales](fig/fig_single_peaked_preferences.jpg)
 
 ## Restricción de dominio: preferencias
 
@@ -460,7 +460,7 @@ u_i=1-\lvert g-b_i \rvert\end{aligned}$$
 
 ## Ejemplos de preferencias de pico único (cont.)
 
-![Funciones de utilidad de pico único](../fig/fig_utility_single_peaked.jpeg)
+![Funciones de utilidad de pico único](fig/fig_utility_single_peaked.jpeg)
 
 ## Preferencias sociales: ¿de pico único?
 
@@ -538,7 +538,7 @@ de ese punto en cualquier dirección
 
 ## Preferencias espaciales (cont.)
 
-![Preferencias a lo largo de una linea](../fig/fig_tvm1.jpg)
+![Preferencias a lo largo de una linea](fig/fig_tvm1.jpg)
 
 ## Preferencias espaciales (cont.)
 
@@ -555,7 +555,7 @@ de ese punto en cualquier dirección
 
 ## Preferencias espaciales (cont.)
 
-![Conjuntos preferidos](../fig/fig_tvm2.jpg)
+![Conjuntos preferidos](fig/fig_tvm2.jpg)
 
 
 ## Preferencias espaciales (cont.)
@@ -572,7 +572,7 @@ de ese punto en cualquier dirección
 
 ## Preferencias espaciales (cont.)
 
-![Superponiendo los conjuntos preferidos](../fig/fig_tvm3.jpg)
+![Superponiendo los conjuntos preferidos](fig/fig_tvm3.jpg)
 
 
 ## Preferencias espaciales (cont.)
@@ -596,7 +596,7 @@ de ese punto en cualquier dirección
 
 ## El rol del mediano
 
-![El rol del votante mediano](../fig/fig_tvm4.jpg)
+![El rol del votante mediano](fig/fig_tvm4.jpg)
 
 
 ## El rol del mediano (cont.)
