@@ -1,0 +1,9 @@
+format:
+  revealjs:
+    theme:
+      - ../_shared/css/theme-classic-helvetica.scss
+      - hiea-overrides.scss
+    embed-resources: true
+    height: 900
+    center: false
+    margin: 0.03

@@ -1,0 +1,19 @@
+format:
+  revealjs:
+    theme: theme-hpae.scss
+    embed-resources: true
+    height: 900
+    center: false
+    controls: true
+    progress: true
+    history: true
+    toc-title: "Contenidos"
+    transition: slide
+    transition-speed: default
+    title-slide-attributes:
+      data-background-image: ../_shared/images/backgrounds/bg-hpae-02.png
+      data-background-size: stretch
+      data-background-opacity: "0.85"
+
+execute:
+  freeze: auto

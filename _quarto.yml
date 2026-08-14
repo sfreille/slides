@@ -2,7 +2,17 @@ project:
   type: default
   output-dir: docs
   render:
+    - cyfi/*.qmd
+    - epin/*.qmd
     - epol/*.qmd
+    - epol-uns/*.qmd
+    - fpub/*.qmd
+    - gpre/*.qmd
+    - hear/*.qmd
+    - hpae/*.qmd
+    - lpfp/*.qmd
+    - teaa/*.qmd
+    - tepm/*.qmd
 
 metadata-files:
   - _shared/templates/_metadata.yml

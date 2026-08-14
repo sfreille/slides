@@ -1,0 +1,10 @@
+format:
+  revealjs:
+    embed-resources: true
+    css:
+      - ../_shared/css/theme-highlight.scss
+      - cyfi-overrides.scss
+    title-slide-attributes:
+      data-background-image: ../_shared/images/backgrounds/bg-cyfi-01.png
+      data-background-size: stretch
+      data-background-opacity: "0.85"
