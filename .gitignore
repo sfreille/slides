@@ -1,0 +1,36 @@
+# Quarto render output in source directories
+*_files/
+*.html
+*.pdf
+**/_output/
+
+# Track docs/ output for GitHub Pages
+!docs/
+!docs/**
+
+# Node.js
+node_modules/
+
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Editor backups
+*~
+*.bak
+.#*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Quarto cache
+.quarto/
+_freeze/
+
+# Agent/session logs
+.agent-shell/
+
+/.quarto/
