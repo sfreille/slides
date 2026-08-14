@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 540" font-family="'Source Sans Pro', Arial, sans-serif">
+  <defs>
+    <marker id="arw" markerWidth="10" markerHeight="8" refX="8" refY="4" orient="auto">
+      <path d="M0,0 L9,4 L0,8 Z" fill="#1f4e79"/>
+    </marker>
+    <marker id="arw2" markerWidth="10" markerHeight="8" refX="8" refY="4" orient="auto">
+      <path d="M0,0 L9,4 L0,8 Z" fill="#9bb3cc"/>
+    </marker>
+  </defs>
+
+  <!-- arrows: core -> mecanismos -->
+  <line x1="242" y1="266" x2="396" y2="92"  stroke="#1f4e79" stroke-width="2.5" marker-end="url(#arw)"/>
+  <line x1="242" y1="266" x2="396" y2="266" stroke="#1f4e79" stroke-width="2.5" marker-end="url(#arw)"/>
+  <line x1="242" y1="266" x2="396" y2="440" stroke="#1f4e79" stroke-width="2.5" marker-end="url(#arw)"/>
+  <!-- arrows: mecanismos -> resultados -->
+  <line x1="672" y1="92"  x2="726" y2="92"  stroke="#9bb3cc" stroke-width="2.5" marker-end="url(#arw2)"/>
+  <line x1="672" y1="266" x2="726" y2="266" stroke="#9bb3cc" stroke-width="2.5" marker-end="url(#arw2)"/>
+  <line x1="672" y1="440" x2="726" y2="440" stroke="#9bb3cc" stroke-width="2.5" marker-end="url(#arw2)"/>
+
+  <!-- core -->
+  <rect x="22" y="206" width="220" height="120" rx="12" fill="#1f4e79"/>
+  <text x="132" y="260" text-anchor="middle" font-size="22" font-weight="700" fill="#ffffff">
+    <tspan x="132">Bien primario</tspan><tspan x="132" dy="28">exportable</tspan>
+  </text>
+
+  <!-- mecanismos -->
+  <rect x="400" y="40"  width="272" height="104" rx="10" fill="#dce6f1" stroke="#1f4e79" stroke-width="2"/>
+  <text x="536" y="84" text-anchor="middle" font-size="20" fill="#1f3a5f">
+    <tspan x="536">Eslabonamientos</tspan><tspan x="536" dy="26" font-weight="700">hacia atrás</tspan>
+  </text>
+  <rect x="400" y="214" width="272" height="104" rx="10" fill="#dce6f1" stroke="#1f4e79" stroke-width="2"/>
+  <text x="536" y="258" text-anchor="middle" font-size="20" fill="#1f3a5f">
+    <tspan x="536">Eslabonamientos</tspan><tspan x="536" dy="26" font-weight="700">hacia adelante</tspan>
+  </text>
+  <rect x="400" y="388" width="272" height="104" rx="10" fill="#dce6f1" stroke="#1f4e79" stroke-width="2"/>
+  <text x="536" y="432" text-anchor="middle" font-size="20" fill="#1f3a5f">
+    <tspan x="536">Eslabonamientos</tspan><tspan x="536" dy="26" font-weight="700">de demanda final</tspan>
+  </text>
+
+  <!-- resultados -->
+  <rect x="728" y="40"  width="308" height="104" rx="10" fill="#ffffff" stroke="#9bb3cc" stroke-width="2"/>
+  <text x="882" y="84" text-anchor="middle" font-size="19" fill="#2c3e50">
+    <tspan x="882">Insumos, maquinaria</tspan><tspan x="882" dy="26">y ferrocarriles</tspan>
+  </text>
+  <rect x="728" y="214" width="308" height="104" rx="10" fill="#ffffff" stroke="#9bb3cc" stroke-width="2"/>
+  <text x="882" y="258" text-anchor="middle" font-size="19" fill="#2c3e50">
+    <tspan x="882">Procesamiento:</tspan><tspan x="882" dy="26">frigoríficos y molinos</tspan>
+  </text>
+  <rect x="728" y="388" width="308" height="104" rx="10" fill="#ffffff" stroke="#9bb3cc" stroke-width="2"/>
+  <text x="882" y="432" text-anchor="middle" font-size="19" fill="#2c3e50">
+    <tspan x="882">Mercado interno,</tspan><tspan x="882" dy="26">urbanización e industria</tspan>
+  </text>
+</svg>

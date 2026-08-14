@@ -1,0 +1,471 @@
+---
+format:
+  pdf:
+    documentclass: article
+    geometry: "top=1.5cm, bottom=1.5cm, left=1.8cm, right=1.8cm"
+    fontsize: 10pt
+    number-sections: false
+    pdf-engine: pdflatex
+    include-in-header:
+      text: |
+        \usepackage{lmodern}
+        \usepackage[T1]{fontenc}
+        \usepackage{tcolorbox}
+        \tcbuselibrary{skins}
+        \usepackage{amsmath}
+        \usepackage{amssymb}
+        \usepackage{tikz}
+        \usetikzlibrary{positioning,arrows.meta,calc}
+        \usepackage{xcolor}
+        \usepackage{enumitem}
+        \usepackage{microtype}
+        \usepackage{booktabs}
+        \usepackage{colortbl}
+        \usepackage{array}
+
+        %% ── Paleta de colores ───────────────────────────────────────────
+        \definecolor{azul}{RGB}{31,58,95}
+        \definecolor{azulcl}{RGB}{219,229,245}
+        \definecolor{verde}{RGB}{22,110,52}
+        \definecolor{verdecl}{RGB}{215,242,225}
+        \definecolor{naranja}{RGB}{175,75,15}
+        \definecolor{naranjacl}{RGB}{255,238,215}
+        \definecolor{rojo}{RGB}{148,22,22}
+        \definecolor{rojocl}{RGB}{252,218,218}
+        \definecolor{gris}{RGB}{80,80,80}
+        \definecolor{grisc}{RGB}{215,215,215}
+
+        %% ── Cajas tcolorbox ─────────────────────────────────────────────
+        \newtcolorbox{cajaN}[1]{
+          enhanced, arc=3pt, boxrule=0.6pt, left=6pt, right=6pt, top=10pt, bottom=6pt,
+          fontupper=\small, colback=azulcl, colframe=azul, coltitle=white,
+          title={\small\bfseries\sffamily #1},
+          attach boxed title to top left={yshift=-3mm, xshift=6mm},
+          boxed title style={colback=azul, arc=2pt, boxrule=0pt,
+            left=4pt, right=4pt, top=1pt, bottom=1pt}
+        }
+        \newtcolorbox{cajaV}[1]{
+          enhanced, arc=3pt, boxrule=0.6pt, left=6pt, right=6pt, top=10pt, bottom=6pt,
+          fontupper=\small, colback=verdecl, colframe=verde, coltitle=white,
+          title={\small\bfseries\sffamily #1},
+          attach boxed title to top left={yshift=-3mm, xshift=6mm},
+          boxed title style={colback=verde, arc=2pt, boxrule=0pt,
+            left=4pt, right=4pt, top=1pt, bottom=1pt}
+        }
+        \newtcolorbox{cajaO}[1]{
+          enhanced, arc=3pt, boxrule=0.6pt, left=6pt, right=6pt, top=10pt, bottom=6pt,
+          fontupper=\small, colback=naranjacl, colframe=naranja, coltitle=white,
+          title={\small\bfseries\sffamily #1},
+          attach boxed title to top left={yshift=-3mm, xshift=6mm},
+          boxed title style={colback=naranja, arc=2pt, boxrule=0pt,
+            left=4pt, right=4pt, top=1pt, bottom=1pt}
+        }
+        \newtcolorbox{cajaR}[1]{
+          enhanced, arc=3pt, boxrule=0.6pt, left=6pt, right=6pt, top=10pt, bottom=6pt,
+          fontupper=\small, colback=rojocl, colframe=rojo, coltitle=white,
+          title={\small\bfseries\sffamily #1},
+          attach boxed title to top left={yshift=-3mm, xshift=6mm},
+          boxed title style={colback=rojo, arc=2pt, boxrule=0pt,
+            left=4pt, right=4pt, top=1pt, bottom=1pt}
+        }
+
+        %% Billete: caja estilo documento histórico
+        \newtcolorbox{billete}{
+          enhanced, arc=4pt, boxrule=1.2pt,
+          left=10pt, right=10pt, top=7pt, bottom=7pt,
+          colback=naranjacl!35, colframe=naranja!70!brown,
+          fontupper=\small\sffamily,
+          before upper={\centering},
+          overlay={
+            \draw[naranja!50, line width=0.5pt, dashed]
+              ([xshift=4pt,  yshift=-4pt]frame.north west) rectangle
+              ([xshift=-4pt, yshift=4pt]frame.south east);
+          }
+        }
+
+        \setlength{\parindent}{0pt}
+        \setlength{\parskip}{3pt}
+        \setlist[itemize]{noitemsep, topsep=1pt, partopsep=0pt, leftmargin=1.2em}
+        \pagestyle{empty}
+
+        %% Encabezado de sección: barra vertical + título
+        \newcommand{\secheader}[2]{%
+          \vspace{7pt}\noindent%
+          {\color{#1!80}\rule[-3pt]{3.5pt}{16pt}}\hspace{6pt}%
+          {\large\bfseries\sffamily\color{#1}#2}%
+          \par\vspace{4pt}%
+        }
+---
+
+```{=latex}
+%% ════════════════════════════════════════════════════════════════════
+%%  ENCABEZADO
+%% ════════════════════════════════════════════════════════════════════
+\noindent
+{\sffamily\LARGE\bfseries\color{azul}Regímenes Monetarios en Argentina}
+\hfill
+{\footnotesize\color{gris}\sffamily HIEA · 2026}\\[2pt]
+{\small\color{gris}\sffamily El sistema internacional y Argentina, 1880\,--\,1914}
+
+\vspace{3pt}
+\noindent\textcolor{azul!65}{\rule{\linewidth}{0.8pt}}
+\vspace{4pt}
+
+%% ════════════════════════════════════════════════════════════════════
+%%  PARTE I: EL SISTEMA DEL PATRÓN ORO
+%% ════════════════════════════════════════════════════════════════════
+\secheader{azul}{I.\enspace El Sistema del Patrón Oro}
+
+\noindent
+\begin{minipage}[t]{0.487\textwidth}
+\begin{cajaN}{El Patrón Oro Clásico (1880\,--\,1914)}
+Cada moneda estaba definida como una cantidad fija de oro, lo que fijaba
+\textit{mecánicamente} los tipos de cambio entre países:
+
+\medskip
+{\footnotesize\renewcommand{\arraystretch}{1.25}
+\begin{tabular}{@{}lll@{}}
+\rowcolor{azulcl!80}
+\textbf{Moneda} & \textbf{Contenido en oro} & \textbf{Tipo de cambio} \\
+£1 esterlina & 113,0 granos puros & \\
+US\$1 dólar  & 23,2 granos puros & £1 = \textbf{US\$4,87} (fijo) \\
+\end{tabular}}
+
+\medskip
+\textbf{Ajuste automático} (Hume, s.~XVIII): déficit comercial $\to$ \textbf{oro sale} $\to$ oferta monetaria $\downarrow$ $\to$ precios $\downarrow$ (deflación) $\to$ exportaciones más baratas $\to$ balanza se corrige sola.
+
+\smallskip
+{\scriptsize Las ``\textit{reglas del juego}'': cuando sale el oro, se permite deflacionar; cuando entra, inflacionar. Doloroso pero \textit{sin} intervención discrecional.}
+\end{cajaN}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.487\textwidth}
+\begin{cajaN}{Las Tres Formas del Oro}
+\begin{itemize}
+  \item \textbf{Monedas de oro (specie):} el \textit{peso de oro} argentino existía pero
+    casi no circulaba. Se atesoraba o se usaba en grandes transacciones. Como los
+    billetes de \$100 hoy: existen, pero no se compra pan con ellos.
+  \item \textbf{Lingotes (bullion):} barras en las bóvedas del Banco Central o la
+    Caja de Conversión. El respaldo \textit{real} del sistema.
+  \item \textbf{Billetes convertibles:} la forma más importante para la vida cotidiana.
+\end{itemize}
+
+\vspace{4pt}
+\begin{billete}
+\textsc{Billete de la Caja de Conversión}\\[4pt]
+\textit{``El portador de este billete tiene derecho}\\
+\textit{a recibir en cualquier momento 1 peso oro.''}\\[4pt]
+{\scriptsize Palabra clave: \textbf{convertible.}
+Si nadie creía en esta promesa\\
+$\to$ corrida bancaria $\to$ colapso del sistema.\\
+(Exactamente lo que ocurrió en 1890.)}
+\end{billete}
+\end{cajaN}
+\end{minipage}
+
+\vspace{7pt}
+
+%% ════════════════════════════════════════════════════════════════════
+%%  PARTE II: LAS MONEDAS DE ARGENTINA
+%% ════════════════════════════════════════════════════════════════════
+\secheader{azul}{II.\enspace Las Monedas de Argentina}
+
+\noindent
+\begin{minipage}[t]{0.487\textwidth}
+\begin{cajaN}{Tres unidades monetarias (Ley 1130, 1881)}
+\begin{itemize}
+  \item \textbf{Peso oro:} 1,6129\,g de oro puro (25 granos). Unidad de cuenta para
+    deuda externa y comercio internacional. Rara vez moneda física; los contratos decían
+    ``pagadero en pesos oro'' como hoy se dice ``pagadero en USD''.
+  \item \textbf{Peso plata:} 25\,g de plata (0,900 fino). En teoría bimetálico; en la
+    práctica, la \textit{Ley de Gresham} lo expulsó: cuando la plata cayó frente al oro
+    en los años 1880\,--\,90, la gente atesoró el metal valioso y gastó el barato.
+  \item \textbf{Peso moneda nacional (m\$n):} el que \textit{realmente circulaba.}
+    Billete de papel. Debía estar fijo al oro pero en la práctica flotaba —y con
+    frecuencia se depreciaba.
+\end{itemize}
+\end{cajaN}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.487\textwidth}
+\begin{cajaN}{Depreciación del peso papel: m\$n por 1 peso oro}
+
+{\footnotesize\renewcommand{\arraystretch}{1.3}
+\begin{tabular}{@{}r>{\raggedright\arraybackslash}p{5.0cm}@{}}
+\rowcolor{azulcl!80}
+\textbf{Año} & \textbf{m\$n / peso oro · Contexto} \\
+1883 & $\approx\!1{,}00$ — Brevemente en patrón oro \\
+1885 & $1{,}28$ — Convertibilidad suspendida \\
+1889 & $\approx\!1{,}70$ — Boom especulativo (BNG) \\
+\rowcolor{rojocl!70}
+1890 & $\approx\!2{,}80$ — \textbf{Crisis; el peso colapsa} \\
+\rowcolor{verdecl!80}
+\textbf{1899} & \textbf{2,27 — Fijado por Ley 3871} \\
+\end{tabular}}
+
+\medskip
+{\scriptsize
+\textbf{Ley 1130 (1881):} define el peso oro y plata como unidades legales.\\[1pt]
+\textbf{Ley 2741 (1890):} \textit{crea} la Caja de Conversión como institución.\\[1pt]
+\textbf{Ley 3871 (1899):} fija la paridad al valor de mercado:\\[1pt]
+\quad\textbf{1 peso oro = 2,27 pesos moneda nacional}\\[1pt]
+\quad(paridad mantenida hasta agosto de 1914).}
+\end{cajaN}
+\end{minipage}
+
+\vspace{9pt}
+
+%% ════════════════════════════════════════════════════════════════════
+%%  PARTE III: LOS REGÍMENES MONETARIOS
+%% ════════════════════════════════════════════════════════════════════
+\secheader{naranja}{III.\enspace Los Regímenes Monetarios, 1887\,--\,1914}
+
+%% ── BNG (ancho completo, dos columnas internas) ──────────────────────
+\begin{cajaO}{Los Bancos Nacionales Garantidos (1887\,--\,1890) --- La máquina de emisión circular}
+\noindent
+\begin{minipage}[t]{0.455\linewidth}
+{\small\bfseries\sffamily\color{naranja!80!black} El diseño (la intención)}
+
+\medskip
+{\small El banco deposita \textbf{bonos de oro} en el Tesoro $\to$ el Tesoro emite billetes
+respaldados en oro. Aparentemente sólido.}
+\end{minipage}%
+\hfill
+\begin{tikzpicture}[baseline=0pt]
+  \draw[naranja!50, line width=0.6pt] (0,-1.0) -- (0,1.0);
+\end{tikzpicture}%
+\hfill
+\begin{minipage}[t]{0.455\linewidth}
+{\small\bfseries\sffamily\color{rojo} La realidad — el vicio fatal}
+
+\medskip
+{\small El gobierno emite \textbf{bonos en papel} (m\$n) $\to$ el banco los deposita $\to$
+el Tesoro emite billetes $\to$ \textbf{no hay un gramo de oro en ningún paso.}
+
+\smallskip
+La oferta monetaria se \textbf{duplicó} entre 1885 y 1890. Burbuja de tierras,
+ferrocarriles y crédito fácil — todo en papel.}
+\end{minipage}
+\end{cajaO}
+
+\vspace{7pt}
+
+%% ── Crisis de 1890 + Caja de Conversión ──────────────────────────────
+\noindent
+\begin{minipage}[t]{0.487\textwidth}
+\begin{cajaR}{La Crisis de 1890 --- El Shock Baring}
+\textbf{Tres desencadenantes simultáneos:}
+\begin{itemize}
+  \item \textbf{Fiscal:} 2/3 de los ingresos en oro, gastos en papel. Con el peso
+    cayendo, el déficit explotó.
+  \item \textbf{Confianza:} Baring Brothers dejó de comprar bonos argentinos. El capital
+    externo se revirtió.
+  \item \textbf{Corridas bancarias:} tres corridas en 1889\,--\,90. La Caja de
+    Conversión —recién creada por \textbf{Ley 2741}— no pudo sostener la
+    convertibilidad.
+\end{itemize}
+
+\medskip
+\textbf{Respuesta de Pellegrini (fines de 1890):}
+\begin{itemize}
+  \item Suspensión de la convertibilidad
+  \item Renegociación con Baring (\textit{Acuerdo de Londres})
+  \item Ajuste fiscal brutal: recorte del gasto, alza de impuestos
+  \item Creación del \textbf{BNA (1891)} para reemplazar los bancos garantidos
+\end{itemize}
+
+\medskip
+{\scriptsize \textbf{El costo:} depósitos cayeron 270\%; inflación pico de 163,7\%.
+Una década de ajuste y dolor.}
+\end{cajaR}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.487\textwidth}
+\begin{cajaV}{La Caja de Conversión (1899\,--\,1914)}
+{\scriptsize \textbf{Ley 2741 (1890):} crea la institución \quad\textbullet\quad
+\textbf{Ley 3871 (1899):} fija la paridad: \textbf{2,27 m\$n por 1 peso oro}}
+
+\medskip
+\textbf{Mecanismo (\textit{currency board}):}
+
+\smallskip
+{\footnotesize\renewcommand{\arraystretch}{1.4}
+\begin{tabular}{@{}>{\color{verde}\bfseries\sffamily}r@{\enspace$\boldsymbol{\to}$\enspace}l@{}}
+Usted trae ORO  & recibe 2,27 pesos moneda nacional \\
+Usted trae PAPEL & recibe 1 peso oro \\
+\end{tabular}}
+
+\smallskip
+{\small\textbf{Regla de 100\% de reservas:} cada m\$n en circulación exige 1 peso oro
+en la bóveda. Sin discreción monetaria — la oferta de dinero la determinan los flujos
+de oro:}
+
+\smallskip
+{\footnotesize\renewcommand{\arraystretch}{1.25}
+\begin{tabular}{@{}l>{\centering\arraybackslash}c>{\raggedright\arraybackslash}l@{}}
+\rowcolor{verdecl!80}
+\textbf{Flujo (1900\,--\,1913)} & \textbf{Dir.} & \\
+Inversión brit. (FFCC, bonos) & {\color{verde}$+$} & Grande \\
+Exportaciones (trigo, carne) & {\color{verde}$+$} & Grande \\
+Pagos de importaciones & {\color{rojo}$-$} & Moderado \\
+Remesas de utilidades & {\color{rojo}$-$} & Moderado \\
+\rowcolor{verdecl!60}
+\textbf{Resultado neto} & {\color{verde}$+$} & \textbf{Reservas crecen} \\
+\end{tabular}}
+
+\smallskip
+{\scriptsize Resultado: 1900\,--\,1913, peso fijo en 2,27; PIB crece $\approx$6\%
+anual; Argentina alcanza el 5.\textordmasculine{} ingreso per cápita mundial (1913).}
+\end{cajaV}
+\end{minipage}
+
+\vspace{9pt}
+
+%% ── Línea de tiempo tikz (ancho completo) ────────────────────────────
+\begin{cajaV}{Línea de tiempo: Argentina y el patrón oro, 1880\,--\,1914}
+\centering
+\begin{tikzpicture}[x=1cm, y=1cm]
+  %% Escala: 15 cm / 34 años = 0.4412 cm/año
+  %% 1880=0.00  1887=3.09  1890=4.41  1891=4.85  1899=8.38  1914=15.00
+
+  %% Barras de fase (altura 0.5cm)
+  \fill[grisc,    draw=gris!40, line width=0.3pt] (0.00,0) rectangle (3.09,0.5);
+  \fill[naranjacl,draw=naranja!50, line width=0.3pt] (3.09,0) rectangle (4.41,0.5);
+  \fill[rojocl,   draw=rojo!60, line width=0.4pt] (4.41,0) rectangle (4.85,0.5);
+  \fill[azulcl,   draw=azul!40, line width=0.3pt] (4.85,0) rectangle (8.38,0.5);
+  \fill[verdecl,  draw=verde!50, line width=0.3pt] (8.38,0) rectangle (15.00,0.5);
+
+  %% Etiquetas dentro de las barras
+  \node[font=\tiny\bfseries\sffamily, color=gris]              at (1.55,0.25) {CAOS};
+  \node[font=\tiny\bfseries\sffamily, color=naranja!80!black]  at (3.75,0.25) {AUGE};
+  \node[font=\tiny\bfseries\sffamily, color=rojo]              at (4.63,0.25) {\tiny CR.};
+  \node[font=\tiny\bfseries\sffamily, color=azul]              at (6.62,0.25) {AJUSTE};
+  \node[font=\tiny\bfseries\sffamily, color=verde!70!black]   at (11.69,0.25) {ESTABILIDAD};
+
+  %% Marcadores de año y etiquetas
+  \foreach \yr/\pos in {1880/0.00,1887/3.09,1890/4.41,1891/4.85,1899/8.38,1914/15.00}{
+    \draw[gris!60, line width=0.4pt] (\pos,-0.07) -- (\pos,0);
+    \node[below=1pt, font=\tiny\sffamily, color=gris] at (\pos,-0.07) {\yr};
+  }
+
+  %% Descripciones bajo las barras
+  \node[below=0.5cm, font=\tiny\sffamily, color=gris!70!black,
+        text width=1.5cm, align=center] at (1.55,0)
+    {Múltiples monedas provinciales};
+  \node[below=0.5cm, font=\tiny\sffamily, color=naranja!80!black,
+        text width=1.5cm, align=center] at (3.75,0)
+    {BNG: papel\$ explota; burbuja crediticia};
+  \node[below=0.5cm, font=\tiny\sffamily, color=rojo,
+        text width=1.4cm, align=center] at (4.63,0)
+    {Shock Baring; corridas};
+  \node[below=0.5cm, font=\tiny\sffamily, color=azul,
+        text width=1.5cm, align=center] at (6.62,0)
+    {Pellegrini; BNA (1891); deflación};
+  \node[below=0.5cm, font=\tiny\sffamily, color=verde!70!black,
+        text width=2.8cm, align=center] at (11.69,0)
+    {Ley 3871: 2,27 fijo; crecimiento 6\%/año; 5.\textordmasculine{} per cápita mundial};
+\end{tikzpicture}
+\end{cajaV}
+
+\vspace{9pt}
+
+%% ════════════════════════════════════════════════════════════════════
+%%  PARTE IV: CONCEPTOS FUNDAMENTALES
+%% ════════════════════════════════════════════════════════════════════
+\secheader{azul}{IV.\enspace Conceptos Fundamentales}
+
+\noindent
+\begin{minipage}[t]{0.487\textwidth}
+\begin{cajaN}{La Trinidad Imposible (Trilemma)}
+{\small Un país puede tener \textbf{a lo sumo dos} de estas tres
+propiedades simultáneamente:}
+
+\vspace{5pt}
+\centering
+\begin{tikzpicture}[x=1cm, y=1cm]
+  %% Triángulo equilátero: base 4.5cm, altura 3.897cm
+  \coordinate (TC) at (2.25, 3.9);
+  \coordinate (BL) at (0.0,  0.0);
+  \coordinate (BR) at (4.5,  0.0);
+
+  \fill[azulcl!25] (TC) -- (BL) -- (BR) -- cycle;
+  \draw[azul!50, line width=1.2pt] (TC) -- (BL) -- (BR) -- cycle;
+
+  %% Vértices: círculos coloreados
+  \filldraw[fill=azul,    draw=azul!70]    (TC) circle (3.5pt);
+  \filldraw[fill=verde,   draw=verde!70]   (BL) circle (3.5pt);
+  \filldraw[fill=naranja, draw=naranja!70] (BR) circle (3.5pt);
+
+  %% Etiquetas de vértices
+  \node[above=4pt, font=\scriptsize\bfseries\sffamily, color=azul, align=center]
+    at (TC) {TC Fijo};
+  \node[below=4pt, font=\scriptsize\bfseries\sffamily, color=verde!80!black, align=center,
+        text width=1.5cm]
+    at (BL) {Libre\\movilidad\\de capital};
+  \node[below=4pt, font=\scriptsize\bfseries\sffamily, color=naranja, align=center,
+        text width=1.5cm]
+    at (BR) {Autonomía\\monetaria};
+
+  %% Lados: cada lado = una combinación viable
+  %% Lado TC–BL (izquierdo): currency board
+  \node[font=\tiny\sffamily, color=verde!70!black, rotate=60,
+        fill=verdecl!60, inner sep=1.5pt, rounded corners=1pt]
+    at (1.25, 2.0) {Arg. 1899--1914};
+
+  %% Lado TC–BR (derecho): control de capitales
+  \node[font=\tiny\sffamily, color=azul!80, rotate=-60,
+        fill=azulcl!60, inner sep=1.5pt, rounded corners=1pt]
+    at (3.25, 2.0) {Control de cap.};
+
+  %% Lado BL–BR (base): tipo de cambio flexible
+  \node[below=5pt, font=\tiny\sffamily, color=gris]
+    at (2.25, 0) {TC Flexible};
+
+  %% Estrella: elección de Argentina 1899--1914 (midpoint TC–BL)
+  \filldraw[fill=yellow!80!naranja, draw=naranja!80]
+    (1.125, 1.95) circle (3pt);
+\end{tikzpicture}
+
+\raggedright
+\vspace{4pt}
+{\small\textbf{Argentina 1899--1914} eligió:}
+{\footnotesize
+\begin{itemize}[leftmargin=1.0em]
+  \item \textcolor{verde}{\textbf{Sí}} \; TC fijo (2,27 — el ancla)
+  \item \textcolor{verde}{\textbf{Sí}} \; Libre movilidad de capital (inversión brit.)
+  \item \textcolor{naranja}{\textbf{No}} \; Autonomía monetaria
+\end{itemize}
+\textbf{Los años 1880:} intentó los tres a la vez $\to$ crisis inevitable.}
+\end{cajaN}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.487\textwidth}
+\begin{cajaV}{Argentina en la Periferia del Patrón Oro}
+Argentina era un \textbf{\textit{tomador} de reglas}, no un \textit{hacedor.} El Banco
+de Inglaterra fijaba las tasas de interés globales; las condiciones monetarias argentinas
+seguían mecánicamente a través de la Caja.
+
+\medskip
+\textbf{¿Circulaban las monedas de oro en la vida cotidiana?}
+
+{\small\textbf{Raramente.}}
+\begin{itemize}
+  \item Un peón en Entre Ríos cobraba y gastaba en m\$n. Jamás veía una moneda de oro.
+  \item Un exportador de trigo facturaba en pesos oro pero liquidaba en libras a través
+    de un banco londinense. Sin oro físico en ningún paso.
+  \item La Caja de Conversión tenía \textbf{lingotes} (bullion), no monedas.
+\end{itemize}
+
+\medskip
+\textbf{La lección del período:} Argentina aprendió a la fuerza que no se puede emitir
+papel sin respaldo y mantener simultáneamente un tipo de cambio fijo. El colapso de 1890
+fue la lección; la Caja de 1899 fue la respuesta institucional: regla automática,
+cero discreción, ancla de oro.
+
+\medskip
+{\scriptsize\textbf{La fragilidad oculta:} esa dependencia fue también la fuente de la
+vulnerabilidad de agosto de 1914. Cuando el entorno externo cambió, Argentina no tenía
+herramientas monetarias propias para responder $\to$ convertibilidad suspendida.}
+\end{cajaV}
+\end{minipage}
+```

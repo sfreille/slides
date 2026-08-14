@@ -1,0 +1,306 @@
+---
+title: "Money, Gold, and Argentina's Monetary Regimes"
+subtitle: "The International Economy and Argentina, 1880–1914"
+date: "2026"
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    toc-title: "Contents"
+    number-sections: true
+    embed-resources: true
+    fontsize: 1.1em
+    linestretch: 1.6
+    css: note-styles.css
+---
+
+# Why Money Matters
+
+Think of money as the *lubricant* of the economy. When it works well, trade flows, investment happens, and prices are stable. When it breaks down — too much of it, too little, or nobody trusts it — commerce seizes up.
+
+Between 1880 and 1914, the central question every country faced was: **what backs your money?** The dominant answer among the world's rich countries was gold. Argentina tried to answer that question too — and mostly failed until 1899.
+
+---
+
+# The International Gold Standard
+
+## How It Worked
+
+The period 1880–1914 is often called the **Classical Gold Standard** era. Britain, France, Germany, and the United States all defined their currencies in fixed quantities of gold.
+
+The basic idea was straightforward: each currency was tied to a specific weight of gold, so exchange rates between currencies were mechanically fixed.
+
+| Currency | Gold content | Implication |
+|----------|-------------|-------------|
+| £1 sterling | 113.0 grains of pure gold | |
+| $1 US dollar | 23.2 grains of pure gold | |
+| Exchange rate | 113.0 ÷ 23.2 | **£1 = $4.87 (fixed)** |
+
+This wasn't merely a convention — it was enforceable. If you walked into the Bank of England with £1, they were legally obligated to hand you 113 grains of gold. This made exchange rates mechanically stable.
+
+## The Automatic Adjustment Mechanism
+
+David Hume described this logic in the 18th century: the **price-specie flow mechanism**. Imagine Argentina sells less wheat abroad one year and runs a trade deficit:
+
+::: {.flow-box}
+Argentina runs a trade deficit
+        ↓
+Gold flows OUT (to pay for imports)
+        ↓
+Money supply SHRINKS (less gold = fewer notes in circulation)
+        ↓
+Prices FALL (deflation)
+        ↓
+Argentine exports become CHEAPER for foreigners
+Argentine imports become MORE EXPENSIVE for Argentines
+        ↓
+Trade balance corrects itself
+:::
+
+Beautiful in theory. The gold standard was supposed to be *self-correcting*, requiring no government intervention. The so-called "rules of the game": when gold left, you let your economy deflate; when gold came in, you let it inflate.
+
+In practice this was painful — deflation means unemployment and wage cuts. But in the Victorian era, this was considered the natural and proper order of things.
+
+---
+
+# What Form Did Gold Actually Take?
+
+Here is where students often get confused. Gold in the monetary system came in **three distinct forms**.
+
+## Gold Coins (Specie)
+
+Actual physical coins minted from gold. In Argentina the *peso de oro* (gold peso) was a coin — but it rarely circulated day-to-day. People saved them, used them for large transactions or foreign trade, or hoarded them. Think of them like today's \$100 bills: they exist, but you don't use them to buy bread.
+
+## Gold Bullion (Reserves)
+
+Gold bars held in vaults — at the central bank, the treasury, or a conversion office. This was the *real* backing of the system. When Argentina established the Caja de Conversión in 1899, it held gold bars, not gold coins, as reserves.
+
+## Paper Notes Convertible to Gold
+
+This is the most important form for understanding everyday life. A **convertible banknote** was essentially a government IOU:
+
+::: {.banknote}
+BILLETE DE LA CAJA DE CONVERSIÓN
+
+"El portador de este billete tiene derecho
+ a recibir en cualquier momento
+ 1 peso oro en especie."
+
+[Firma del Presidente de la Caja]
+:::
+
+The key word: **convertible**. The note's value held only because you could exchange it for gold on demand. If people stopped believing this, they would all rush to convert at once — a bank run — and the system would collapse. This is precisely what happened in Argentina in 1890.
+
+---
+
+# Argentina's Own Currencies: Peso Oro, Peso Plata, Peso Papel
+
+Argentina had a confusing tangle of currency units. The following untangles them.
+
+## Peso Fuerte / Peso Boliviano (Silver-Based, Colonial Era)
+
+Before unification, Argentina — like most of Latin America — used silver-based coins, mainly Spanish colonial currency and Bolivian silver pesos. *1 peso fuerte = 8 reales.* This was the legacy system, rooted in silver, not gold.
+
+## Peso Oro (Gold Peso)
+
+Defined by law, denominated in gold. After the **Ley 1130 of 1881**, the gold peso was legally defined as:
+
+::: {.callout-note icon=false}
+## Definition: Peso Oro
+**1 peso oro = 1.6129 grams of pure gold** (25 grains)
+:::
+
+This became the standard unit for foreign debt contracts (borrowing abroad meant borrowing in *pesos oro*), international trade invoices, and the nominal anchor that the Caja de Conversión would later use.
+
+The crucial point: the peso oro was often a **unit of account** rather than a physical coin you carried. Contracts said "payable in pesos oro" the way today some Argentine contracts say "payable in USD" even if executed domestically.
+
+## Peso Plata (Silver Peso)
+
+Also defined in Ley 1130: **1 peso plata = 25 grams of silver (0.900 fineness)**. With bimetallism, both were legal tender. But Gresham's Law ("bad money drives out good") applied: when the market value of silver fell relative to gold in the 1880s–90s, silver coins disappeared from circulation. People hoarded the more valuable metal and spent the less valuable one.
+
+## Peso Moneda Nacional (Paper Peso, m\$n)
+
+This is what *actually circulated*. Paper notes issued by the government or authorized banks. The m\$n's value was *supposed* to be fixed to gold, but in practice it floated — and frequently depreciated.
+
+The key exchange rate to track is how many paper pesos per gold peso:
+
+| Year | Paper pesos per 1 peso oro | Context |
+|------|---------------------------|---------|
+| 1883 | ~1.00 | Briefly on gold |
+| 1885 | 1.28 | Convertibility suspended |
+| 1889 | ~1.70 | Speculation boom |
+| 1890 | ~2.80 | Crisis peak — peso crashes |
+| 1899 | **2.27** | Fixed by the Caja (holds until 1914) |
+
+When Argentina was *not* on gold, the paper peso floated — and often fell. A peso oro debt contracted in 1887 became much heavier to repay in 1890, when you needed 2.80 paper pesos to buy each gold peso you owed.
+
+---
+
+# Argentina's Monetary Regimes, 1880–1914
+
+## Phase 1: The Bancos Nacionales Garantidos (1887–1890) — The Experiment That Blew Up
+
+The government of Juárez Celman launched an ambitious plan: let provinces create banks that could issue paper notes, backed by gold bonds deposited at the national treasury. The law seemed sound on the surface.
+
+::: {.callout-important icon=false}
+## The Fatal Flaw (*El Vicio*)
+
+**How it was supposed to work:**
+Bank deposits gold bonds → Treasury issues paper notes backed by gold.
+
+**How it actually worked:**
+Government issues paper *bonds* (paid in paper pesos) → Bank deposits those paper bonds → Treasury issues paper notes → **No actual gold involved at any step.**
+
+This was a circular money-printing machine.
+:::
+
+The money supply roughly doubled between 1885 and 1890. Everyone was getting rich on paper — land prices soared, railways were built on credit, the government spent lavishly. It was a bubble.
+
+## Phase 2: The Crisis of 1890 — The Baring Shock
+
+Three things triggered the collapse almost simultaneously:
+
+**1. The fiscal problem.** Two-thirds of government revenue came from import tariffs, paid in gold. But when the government spent, it spent in paper. As the paper peso fell, the real value of gold revenues fell too. The deficit exploded.
+
+**2. The confidence collapse.** Foreign investors — led by Baring Brothers, the London bank — stopped buying Argentine bonds. Capital inflows reversed.
+
+**3. The bank runs.** Depositors, seeing the peso falling, tried to convert paper to gold. Three distinct bank runs in 1889–90. The Caja de Conversión couldn't hold.
+
+**President Pellegrini's emergency response (late 1890):**
+
+- Suspended convertibility (paper pesos no longer redeemable for gold)
+- Negotiated debt restructuring with Baring (the "London Agreement")
+- Brutal fiscal adjustment: cut spending, raise taxes
+- Created the Banco de la Nación Argentina (1891) to replace the failed guaranteed banks
+
+The toll was severe: deposits fell 270%, inflation peaked at 163.7%. A decade of pain followed.
+
+## Phase 3: The Caja de Conversión (1899–1914) — The Gold Standard That Worked
+
+By the late 1890s, the paper peso had *stabilized* around 2.27 per gold peso. Why? Agricultural exports boomed (wheat, beef), gold flowed in, the fiscal position improved.
+
+The government made a decision: **lock the exchange rate where it is**.
+
+The **Ley 3871 of 1899** re-established convertibility at a fixed rate:
+
+::: {.callout-note icon=false}
+## The Anchor
+**1 peso oro = 2.27 pesos moneda nacional** (fixed, legally binding)
+:::
+
+The **Caja de Conversión** managed this mechanically:
+
+::: {.flow-box}
+┌──────────────────────────────────────────────────────────┐
+│                   CAJA DE CONVERSIÓN                     │
+│                                                          │
+│  YOU BRING GOLD IN  →  Caja issues 2.27 paper pesos      │
+│                        per peso oro                      │
+│                                                          │
+│  YOU BRING PAPER IN →  Caja gives you gold               │
+│                        (1 peso oro per 2.27 paper pesos) │
+│                                                          │
+│  RULE: Every paper peso in circulation MUST be backed    │
+│        by a gold peso in the vault. 100% reserve.        │
+└──────────────────────────────────────────────────────────┘
+:::
+
+This is what economists call a **currency board** — arguably the strictest form of the gold standard. There was no discretionary monetary policy. The money supply was entirely determined by gold flows:
+
+::: {.flow-box}
+Gold IN (export revenues, foreign investment)
+  → More paper pesos issued → economy expands
+
+Gold OUT (import payments, profit repatriation)
+  → Paper pesos withdrawn → economy contracts
+:::
+
+### How Argentina Stayed on Gold
+
+Argentina typically ran current account deficits (importing capital goods for infrastructure). How did it stay on gold? Through **capital inflows**. British investors were pouring money into Argentine railways, utilities, and bonds. This gold inflow more than offset the trade deficit, keeping the Caja's reserves growing.
+
+| Flow | Direction | Amount (rough) |
+|------|-----------|----------------|
+| British capital investment | + inflow | Large |
+| Export revenues (wheat, beef) | + inflow | Large |
+| Import payments | − outflow | Moderate |
+| Profit/dividend repatriation | − outflow | Moderate |
+| **Net result 1900–1913** | **positive** | **Caja reserves grew** |
+
+The result: 1900–1913 was a period of remarkable stability. The peso held at 2.27. Prices were stable. GDP grew at roughly 6% annually. Argentina ranked 5th in the world in per capita income by 1913.
+
+---
+
+# The Impossible Trinity (Trilemma)
+
+This is perhaps the most important conceptual tool for understanding all of this. A country can have **at most two** of the following three properties simultaneously:
+
+::: {.trilema-box}
+```
+                    FIXED EXCHANGE RATE
+                           △
+                          /|\
+                         / | \
+               ✅       /  |  \       ❌
+                       /   |   \
+                      / Argentina\
+                     /  1899–1914 \
+                    /              \
+FREE CAPITAL ──────────────────── MONETARY
+MOBILITY ✅                       POLICY AUTONOMY
+```
+
+**Argentina under the Caja chose:**
+
+- ✅ Fixed exchange rate (2.27 — the anchor)
+- ✅ Free capital mobility (British investment flowed freely)
+- ❌ Monetary policy autonomy (could NOT print money to fight recessions)
+
+**Compare the 1880s disaster:** Argentina tried to have all three — print money (❌ policy), maintain the peg (❌ exchange rate), and keep capital flows open (✅). That is mathematically impossible. The crisis of 1890 was the inevitable result.
+:::
+
+When a recession hit under the Caja regime — say, a drought cut wheat exports — the government could *not* stimulate the economy. Gold left, money supply contracted, wages fell, and eventually competitiveness returned. Painful, but "automatic" by design.
+
+---
+
+# Did People Actually Use Gold Coins?
+
+The honest answer: **rarely, in everyday life.**
+
+- A farmworker in Entre Ríos got paid in paper pesos (m\$n). He bought bread, wine, and yerba in paper pesos. He never saw a gold coin.
+- A British merchant house invoicing a wheat shipment used *pesos oro* as the unit of account in the contract — but settled in sterling through London banks. No physical gold changed hands.
+- The Caja de Conversión held gold **bars** (bullion) in its vault.
+
+When people said Argentina was "on gold," they meant the *possibility* of converting paper to gold if you wanted to — not that gold coins jangled in your pocket.
+
+**The exceptions** where gold physically appeared:
+
+- Large commercial transactions between wholesale merchants
+- International trade settlements between banks
+- Wealthy families hoarding gold coins as a store of value (especially during crises)
+- Government payments on foreign debt service
+
+---
+
+# The Big Picture: A Timeline
+
+```
+1880      1887      1890      1891      1899            1914
+ |         |         |         |         |               |
+ | CHAOS   |  BOOM   | CRISIS  | ADJUST  |  STABILITY    |
+ |         |         |         |         |               |
+ | Multiple| BNG:    | Baring  |Pellegrini| Caja de      | WWI:
+ | provin- | paper $ | shock;  | reforms; | Conversión:  | convert-
+ | cial    | explodes| peso→   | BNA est. | 2.27 fixed;  | ibility
+ | curren- | infla-  | 2.80    | deflation| currency     | suspended
+ | cies    | tion    |         | 1891     | board        |
+```
+
+The arc of this period is a story of **institutional learning** — Argentina discovered the hard way that you cannot print paper money without gold backing and simultaneously hold a fixed exchange rate. The crash of 1890 was the lesson. The Caja de Conversión (1899) was the institutional response: a rule-based, automatic, zero-discretion gold anchor.
+
+::: {.callout-tip icon=false}
+## The Deeper Insight
+
+Argentina was a **peripheral country on the gold standard** — not a rule-setter like Britain, but a rule-taker. The Bank of England set global interest rates; Argentine monetary conditions followed mechanically through the Caja. That dependency was both the source of the 1900–1913 stability *and* the source of its fragility: when the external environment changed in August 1914, Argentina had no monetary tools of its own to respond.
+:::
