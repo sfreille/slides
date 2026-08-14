@@ -6,4 +6,3 @@ format:
       data-background-image: ../_shared/images/backgrounds/bg-epol-01.png
       data-background-size: stretch
       data-background-opacity: "0.85"
-  pdf: default

@@ -15,7 +15,6 @@ format:
       data-background-size: stretch
       data-background-opacity: "0.85"
 
-  pdf: default
 
 execute:
   freeze: auto

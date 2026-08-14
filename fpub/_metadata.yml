@@ -2,4 +2,3 @@ format:
   revealjs:
     embed-resources: true
     css: ../_shared/css/theme-minimalist.scss
-  pdf: default
