@@ -1,0 +1,296 @@
+---
+title: "Del tâtonnement walrasiano a la fijación de precios"
+subtitle: "El paper de Lorenzoni y Werning (2025) y el legado de Walras"
+---
+
+# Introducción {background="#43464B"}
+
+## Motivación
+
+- ¿Cómo se determinan los precios en una economía de mercado?
+- Esta pregunta fundamental tiene más de 150 años de historia
+- **Léon Walras** (1874) propuso el mecanismo del *tâtonnement*
+  (tanteo) como respuesta teórica
+- Sin embargo, una cuestión central quedó sin resolver:
+  - ¿Es el equilibrio walrasiano **estable**?
+  - ¿Convergen los precios hacia el equilibrio?
+- El paper de **Lorenzoni y Werning (2025)** propone una resolución
+
+## Objetivo de esta clase
+
+- Revisar el marco teórico walrasiano y el tâtonnement
+- Presentar los principales desarrollos del paper de Lorenzoni-Werning
+- Comparar ambos enfoques y evaluar las innovaciones
+- Discutir las implicancias para la teoría del equilibrio general
+
+# El marco walrasiano clásico {background="#43464B"}
+
+## Léon Walras [1834-1910]: el sistema
+
+- Walras desarrolló el primer modelo completo de **equilibrio general**
+- Su objetivo: mostrar cómo los precios de *todos* los bienes y
+  factores se determinan *simultáneamente*
+- Elementos del sistema walrasiano:
+  1. $N$ mercados de bienes y factores
+  2. Consumidores que maximizan utilidad
+  3. Productores que maximizan beneficios
+  4. Precios que equilibran oferta y demanda en cada mercado
+
+## El sistema de ecuaciones walrasiano
+
+- Para cada mercado $n$, la demanda neta es:
+\begin{equation}
+z_{n}(p) = x_{n}(p) - y_{n}(p)
+\end{equation}
+- donde $x_{n}$ es cantidad demandada, $y_{n}$ es cantidad ofrecida
+- El **equilibrio** requiere que para todo $n$:
+\begin{equation}
+z_{n}(p^{*}) = 0
+\end{equation}
+- La **Ley de Walras** establece que:
+\begin{equation}
+\sum_{n} p_{n} z_{n}(p) = 0 \quad \forall p
+\end{equation}
+
+## El problema de la determinación de precios
+
+- El sistema walrasiano muestra la *existencia* de un equilibrio
+- Pero Walras enfrentó una pregunta difícil:
+  - ¿**Cómo** llega la economía al equilibrio?
+  - ¿Quién o qué ajusta los precios?
+- Su respuesta: el mecanismo del **tâtonnement**
+
+# El tâtonnement walrasiano {background="#43464B"}
+
+## El mecanismo del tanteo
+
+- Walras imaginó un proceso de ajuste de precios:
+  1. Un **subastador** (commissaire-priseur) anuncia precios
+  2. Los agentes comunican sus demandas y ofertas
+  3. Si hay exceso de demanda $\longrightarrow$ el precio sube
+  4. Si hay exceso de oferta $\longrightarrow$ el precio baja
+  5. No hay intercambio hasta alcanzar el equilibrio
+
+## Formalización del tâtonnement
+
+- **Samuelson (1941)** formalizó el tâtonnement como:
+\begin{equation}
+\dot{p}_{n} = \lambda_{n} z_{n}(p), \quad \lambda_{n} > 0
+\end{equation}
+- Los precios se ajustan proporcionalmente al exceso de demanda
+- Esta es una ecuación diferencial que describe la dinámica de precios
+- **Pregunta central**: ¿Converge $p(t)$ hacia $p^{*}$?
+
+## El rol del subastador walrasiano
+
+- El subastador es una figura **ficticia** pero crucial:
+  - Centraliza toda la información sobre excesos de demanda
+  - Ajusta precios de manera coordinada
+  - Prohíbe transacciones a precios de desequilibrio
+- **Crítica fundamental**: 
+  - En la realidad, no existe tal subastador
+  - Los precios son fijados por agentes descentralizados
+  - Las transacciones ocurren continuamente, no sólo en equilibrio
+
+## El problema de la estabilidad
+
+- **Arrow, Hurwicz y otros (1958-60)** estudiaron condiciones de estabilidad
+- Resultados iniciales fueron optimistas bajo ciertas condiciones:
+  - Sustitutos brutos: $\frac{\partial z_{i}}{\partial p_{j}} > 0$ para $i \neq j$
+  - Axioma débil de preferencias reveladas (WARP)
+- Sin embargo, **Scarf (1960)** construyó un contraejemplo devastador
+- **Mantel (1971), Sonnenschein, Debreu**: resultados "anything goes"
+  - Casi cualquier dinámica de precios es posible
+
+## El contraejemplo de Scarf
+
+> **Economía de Scarf (1960)**. Scarf construyó un ejemplo con 3
+> bienes y 3 consumidores donde el tâtonnement no converge al
+> equilibrio sino que los precios oscilan indefinidamente en un ciclo.
+> Este resultado mostró que la estabilidad no está garantizada bajo
+> supuestos generales.
+
+- Implicancia: el tâtonnement como teoría de ajuste de precios
+  quedó seriamente cuestionado
+- La profesión abandonó gradualmente esta línea de investigación
+
+# El paper de Lorenzoni y Werning (2025) {background="#43464B"}
+
+## Una nueva propuesta
+
+- **"Tâtonnement and Price Setting in General Equilibrium"**
+- Autores: Guido Lorenzoni (Chicago) e Iván Werning (MIT)
+- Objetivo: resolver el problema de estabilidad que quedó abierto
+  durante más de un siglo
+- Estrategia: **reemplazar al subastador** por agentes que fijan
+  precios con poder de mercado
+
+## La innovación central
+
+- En lugar del subastador ficticio, los precios son fijados por
+  **agentes económicos reales**
+- Introducen **poder de mercado** à la Dixit-Stiglitz (1977):
+  - Cada productor tiene cierto poder monopólico
+  - Cada comprador puede tener poder monopsónico
+- Los precios se ajustan según decisiones descentralizadas de
+  maximización de beneficios
+
+## Estructura del modelo
+
+- $N$ bienes/mercados (bienes finales, intermedios, factores)
+- Cantidades demandadas $x_{n}$ y ofrecidas $y_{n}$
+- Demanda neta: $z_{n} = x_{n} - y_{n}$
+- **Diferencia clave**: los precios $p_{n}$ son elegidos por agentes
+  con poder de mercado, no por un subastador
+- Los agentes enfrentan curvas de demanda/oferta con pendiente
+
+## De Walras a la competencia monopolística
+
+| **Aspecto** | **Walras** | **Lorenzoni-Werning** |
+|-------------|------------|----------------------|
+| Fijación de precios | Subastador centralizado | Agentes descentralizados |
+| Estructura de mercado | Competencia perfecta | Competencia monopolística |
+| Poder de mercado | Ninguno (tomadores de precios) | Positivo (Dixit-Stiglitz) |
+| Transacciones | Sólo en equilibrio | Continuas |
+| Información | Centralizada | Dispersa |
+
+: {tbl-colwidths="[30,35,35]"}
+
+## El mecanismo de ajuste
+
+- Cada firma ajusta su precio según su **demanda residual**
+- Cuando enfrenta exceso de demanda $\longrightarrow$ sube precio
+- Cuando enfrenta exceso de oferta $\longrightarrow$ baja precio
+- **Pero**: el ajuste es óptimo desde el punto de vista individual
+  - No es una regla ad-hoc como en el tâtonnement clásico
+  - Surge de la maximización de beneficios
+
+## Resultados principales
+
+- Bajo competencia monopolística, el equilibrio es **estable**
+- El poder de mercado actúa como un **mecanismo de estabilización**
+- Intuición:
+  - Un monopolista que enfrenta exceso de demanda sube el precio
+  - Pero lo hace de manera **moderada** (no quiere perder clientes)
+  - Este "amortiguamiento" previene las oscilaciones de Scarf
+
+## ¿Por qué funciona?
+
+> **Intuición económica**. En competencia perfecta, los precios
+> responden mecánicamente al exceso de demanda. En competencia
+> monopolística, las firmas internalizan el efecto de sus precios
+> sobre las cantidades. Este "suavizado" de la respuesta de precios
+> genera estabilidad.
+
+- El poder de mercado introduce una forma de **fricción** que
+  estabiliza la dinámica
+- Paradójicamente: una "imperfección" resuelve el problema
+
+# Comparación de los enfoques {background="#43464B"}
+
+## Supuestos sobre los agentes
+
+| **Dimensión** | **Tâtonnement clásico** | **Lorenzoni-Werning** |
+|---------------|------------------------|----------------------|
+| Agentes | Tomadores de precios | Fijadores de precios |
+| Comportamiento | Pasivo (comunican $D$ y $O$) | Activo (eligen $p$) |
+| Racionalidad | Limitada (siguen regla) | Plena (maximizan) |
+| Coordinación | Centralizada | Descentralizada |
+
+: {tbl-colwidths="[30,35,35]"}
+
+## Supuestos sobre el mercado
+
+| **Dimensión** | **Tâtonnement clásico** | **Lorenzoni-Werning** |
+|---------------|------------------------|----------------------|
+| Competencia | Perfecta | Monopolística |
+| Transacciones | Prohibidas fuera de eq. | Continuas |
+| Información | Completa y centralizada | Dispersa |
+| Realismo | Bajo | Mayor |
+
+: {tbl-colwidths="[30,35,35]"}
+
+## Resultados sobre estabilidad
+
+- **Walras/Samuelson**: estabilidad bajo condiciones restrictivas
+  - Sustitutos brutos, WARP
+  - Contraejemplo de Scarf rompe la generalidad
+- **Lorenzoni-Werning**: estabilidad bajo condiciones más generales
+  - El poder de mercado es suficiente
+  - No requiere sustitutos brutos
+  - Resuelve el problema de Scarf
+
+## Implicancias teóricas
+
+- El paper sugiere una **reconciliación** entre:
+  - La teoría del equilibrio general (Walras, Arrow-Debreu)
+  - La teoría de la organización industrial (Dixit-Stiglitz)
+- La competencia imperfecta no es sólo un "realismo"
+  - Es **necesaria** para la estabilidad del sistema
+- Esto tiene implicancias para:
+  - Modelos macroeconómicos (NK, DSGE)
+  - Política de competencia
+  - Teoría del bienestar
+
+# Reflexiones finales {background="#43464B"}
+
+## El largo camino desde Walras
+
+- 1874: Walras propone el tâtonnement
+- 1941: Samuelson formaliza la dinámica
+- 1958-60: Arrow-Hurwicz estudian estabilidad
+- 1960: Scarf presenta contraejemplo
+- 1970s: "Anything goes" desalienta la investigación
+- 2025: Lorenzoni-Werning proponen resolución
+
+## ¿Qué aprendemos para la HPE?
+
+- Las grandes preguntas pueden tardar más de un siglo en resolverse
+- Las "imperfecciones" del mercado pueden ser funcionales
+- El progreso en economía no es siempre lineal:
+  - Períodos de optimismo (1950s)
+  - Períodos de pesimismo (post-Scarf)
+  - Nuevas soluciones desde direcciones inesperadas
+
+## Limitaciones y extensiones
+
+- El paper asume competencia monopolística "suave"
+- ¿Qué pasa con oligopolio o colusión?
+- ¿Cómo interactúa con fricciones nominales?
+- ¿Implicancias para la política monetaria?
+- Agenda de investigación abierta
+
+## Conclusión
+
+> La pregunta de Walras --¿cómo se determinan los precios?-- sigue
+> siendo central en economía. El paper de Lorenzoni y Werning muestra
+> que, paradójicamente, la respuesta puede requerir abandonar el
+> supuesto de competencia perfecta que Walras asumía. El poder de
+> mercado, lejos de ser una distorsión, puede ser el mecanismo que
+> garantiza la estabilidad del sistema de precios.
+
+# Bibliografía {background="#43464B"}
+
+## Referencias principales
+
+- Lorenzoni, G. & Werning, I. (2025). Tâtonnement and Price Setting in
+  General Equilibrium. Working Paper.
+- Walras, L. (1874). *Éléments d'économie politique pure*. 
+- Arrow, K.J. & Hurwicz, L. (1958). On the Stability of the
+  Competitive Equilibrium. *Econometrica*, 26(4), 522-552.
+- Scarf, H. (1960). Some Examples of Global Instability of the
+  Competitive Equilibrium. *International Economic Review*, 1(3),
+  157-172.
+
+## Referencias complementarias
+
+- Samuelson, P.A. (1941). The Stability of Equilibrium: Comparative
+  Statics and Dynamics. *Econometrica*, 9(2), 97-120.
+- Dixit, A.K. & Stiglitz, J.E. (1977). Monopolistic Competition and
+  Optimum Product Diversity. *American Economic Review*, 67(3),
+  297-308.
+- Mantel, R.R. (1974). On the Characterization of Aggregate Excess
+  Demand. *Journal of Economic Theory*, 7(3), 348-353.
+- Sonnenschein, H. (1973). Do Walras' Identity and Continuity
+  Characterize the Class of Community Excess Demand Functions?
+  *Journal of Economic Theory*, 6(4), 345-354.

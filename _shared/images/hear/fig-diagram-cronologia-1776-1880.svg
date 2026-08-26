@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 440" font-family="'Source Sans Pro', Arial, sans-serif">
+  <!-- axis -->
+  <line x1="55" y1="220" x2="960" y2="220" stroke="#9bb3cc" stroke-width="3"/>
+  <polygon points="960,220 948,214 948,226" fill="#9bb3cc"/>
+
+  <!-- 1776 (above) -->
+  <line x1="60" y1="220" x2="60" y2="150" stroke="#9bb3cc" stroke-width="2"/>
+  <circle cx="60" cy="220" r="6" fill="#1f4e79"/>
+  <text x="60" y="138" text-anchor="middle" font-size="19" font-weight="700" fill="#1f3a5f">1776</text>
+  <text x="60" y="118" text-anchor="middle" font-size="13" fill="#444">Virreinato del</text>
+  <text x="60" y="103" text-anchor="middle" font-size="13" fill="#444">Río de la Plata</text>
+
+  <!-- 1810 (below) -->
+  <line x1="348" y1="220" x2="348" y2="290" stroke="#9bb3cc" stroke-width="2"/>
+  <circle cx="348" cy="220" r="6" fill="#1f4e79"/>
+  <text x="348" y="312" text-anchor="middle" font-size="19" font-weight="700" fill="#1f3a5f">1810</text>
+  <text x="348" y="332" text-anchor="middle" font-size="13" fill="#444">Revolución de Mayo</text>
+
+  <!-- 1824 (above) -->
+  <line x1="466" y1="220" x2="466" y2="150" stroke="#9bb3cc" stroke-width="2"/>
+  <circle cx="466" cy="220" r="6" fill="#1f4e79"/>
+  <text x="466" y="138" text-anchor="middle" font-size="19" font-weight="700" fill="#1f3a5f">1824</text>
+  <text x="466" y="118" text-anchor="middle" font-size="13" fill="#444">Empréstito Baring</text>
+
+  <!-- 1835 (below) -->
+  <line x1="559" y1="220" x2="559" y2="290" stroke="#9bb3cc" stroke-width="2"/>
+  <circle cx="559" cy="220" r="6" fill="#1f4e79"/>
+  <text x="559" y="312" text-anchor="middle" font-size="19" font-weight="700" fill="#1f3a5f">1835</text>
+  <text x="559" y="332" text-anchor="middle" font-size="13" fill="#444">Ley de Aduanas</text>
+
+  <!-- 1845 (above) -->
+  <line x1="644" y1="220" x2="644" y2="150" stroke="#9bb3cc" stroke-width="2"/>
+  <circle cx="644" cy="220" r="6" fill="#1f4e79"/>
+  <text x="644" y="138" text-anchor="middle" font-size="19" font-weight="700" fill="#1f3a5f">1845</text>
+  <text x="644" y="118" text-anchor="middle" font-size="13" fill="#444">Vuelta de Obligado</text>
+
+  <!-- 1852-53 (below) -->
+  <line x1="710" y1="220" x2="710" y2="290" stroke="#9bb3cc" stroke-width="2"/>
+  <circle cx="710" cy="220" r="6" fill="#1f4e79"/>
+  <text x="710" y="312" text-anchor="middle" font-size="19" font-weight="700" fill="#1f3a5f">1852–53</text>
+  <text x="710" y="332" text-anchor="middle" font-size="13" fill="#444">Caseros · Constitución</text>
+
+  <!-- 1861 (above) -->
+  <line x1="790" y1="220" x2="790" y2="150" stroke="#9bb3cc" stroke-width="2"/>
+  <circle cx="790" cy="220" r="6" fill="#1f4e79"/>
+  <text x="790" y="138" text-anchor="middle" font-size="19" font-weight="700" fill="#1f3a5f">1861</text>
+  <text x="790" y="118" text-anchor="middle" font-size="13" fill="#444">Pavón · unificación</text>
+
+  <!-- 1865-70 (below) -->
+  <line x1="838" y1="220" x2="838" y2="360" stroke="#9bb3cc" stroke-width="2"/>
+  <circle cx="838" cy="220" r="6" fill="#1f4e79"/>
+  <text x="838" y="382" text-anchor="middle" font-size="19" font-weight="700" fill="#1f3a5f">1865–70</text>
+  <text x="838" y="402" text-anchor="middle" font-size="13" fill="#444">Guerra del Paraguay</text>
+
+  <!-- 1880 (above, endpoint highlighted) -->
+  <line x1="940" y1="220" x2="940" y2="150" stroke="#1f4e79" stroke-width="2.5"/>
+  <circle cx="940" cy="220" r="8" fill="#a02234"/>
+  <text x="940" y="138" text-anchor="middle" font-size="20" font-weight="700" fill="#a02234">1880</text>
+  <text x="940" y="118" text-anchor="middle" font-size="13" font-weight="700" fill="#a02234">Federalización</text>
+  <text x="940" y="103" text-anchor="middle" font-size="13" font-weight="700" fill="#a02234">de Buenos Aires</text>
+</svg>

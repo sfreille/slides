@@ -1,0 +1,439 @@
+---
+title: "CyFI - Unidad 8"
+subtitle: "Instrumentos de política comercial"
+format: revealjs
+---
+
+## Introducción
+
+- El libre comercio maximiza el bienestar mundial pero los países aplican barreras
+- Los gobiernos intervienen en el comercio internacional por diversas razones:
+  - Proteger industrias nacionales
+  - Generar ingresos fiscales
+  - Corregir "fallas de mercado"
+  - Objetivos estratégicos
+- Este capítulo analiza los **instrumentos** y sus **efectos económicos**
+
+## Introducción (cont.)
+
+- Principales instrumentos de política comercial:
+  - **Aranceles**: impuestos a las importaciones
+  - **Subsidios a la exportación**: pagos a exportadores
+  - **Cuotas de importación**: límites cuantitativos
+  - **Restricciones voluntarias de exportación** (RVE)
+  - **Requisitos de contenido local**
+- Cada instrumento tiene efectos distintos sobre precios, cantidades y bienestar
+
+# Análisis básico del arancel
+
+## Tipos de aranceles
+
+- **Arancel específico**: cantidad fija por unidad importada
+  - Ejemplo: $100 por tonelada de acero
+- **Arancel ad valorem**: porcentaje del valor del bien
+  - Ejemplo: 25% del valor CIF
+- **Arancel compuesto**: combinación de ambos
+  - Ejemplo: 10% + $50 por unidad
+
+## Tipos de aranceles (cont.)
+
+- Aranceles **ad valorem** son más comunes actualmente
+- Ventajas del arancel ad valorem:
+  - Se ajusta automáticamente a cambios de precios
+  - Más transparente para comparaciones
+- Ventajas del arancel específico:
+  - Más fácil de administrar
+  - Protección no disminuye con deflación
+
+## Oferta, demanda y comercio en una sola industria
+
+- Modelo de equilibrio parcial: analiza un solo mercado
+- Supuestos básicos:
+  - Dos países: Nacional (N) y Extranjero (E)
+  - Un bien homogéneo
+  - Competencia perfecta
+  - Costos de transporte nulos (inicialmente)
+
+## Oferta, demanda y comercio (cont.)
+
+- Sin comercio, cada país tiene su propio precio de equilibrio
+- Si $P_N > P_E$ (precio nacional mayor que extranjero):
+  - El país Nacional importará el bien
+  - El país Extranjero exportará el bien
+- El comercio iguala los precios (sin barreras ni costos de transporte)
+
+## Curvas de oferta y demanda de importaciones
+
+- **Demanda de importaciones**: $D_M = D_N - S_N$
+  - Exceso de demanda nacional al precio mundial
+- **Oferta de exportaciones**: $S_X = S_E - D_E$
+  - Exceso de oferta extranjera al precio mundial
+- Equilibrio mundial: $D_M = S_X$
+
+## Representación gráfica
+
+- Tres paneles:
+  1. Mercado del país importador (Nacional)
+  2. Mercado mundial (importaciones/exportaciones)
+  3. Mercado del país exportador (Extranjero)
+- El precio de libre comercio $P_W$ iguala:
+  - Importaciones del país N = Exportaciones del país E
+
+## Efectos de un arancel
+
+- Un arancel $t$ crea una brecha entre precios:
+  - $P_N = P_W + t$ (precio en país importador sube)
+  - $P_E = P_W$ o menor (precio en país exportador puede bajar)
+- Si el país importador es **pequeño**:
+  - No afecta el precio mundial
+  - Todo el arancel se traslada a consumidores nacionales
+
+## Efectos de un arancel: país pequeño
+
+- El precio interno sube exactamente en el monto del arancel
+- Consecuencias:
+  - Producción nacional aumenta (de $S_1$ a $S_2$)
+  - Consumo nacional disminuye (de $D_1$ a $D_2$)
+  - Importaciones caen (de $D_1 - S_1$ a $D_2 - S_2$)
+  - Gobierno recauda ingresos arancelarios
+
+## Efectos de un arancel: país grande
+
+- Un país **grande** puede afectar el precio mundial
+- El arancel reduce la demanda mundial del bien
+- El precio mundial cae: de $P_W$ a $P_W'$
+- El precio interno sube menos que el arancel:
+  - $P_N = P_W' + t < P_W + t$
+- Parte del arancel es "pagado" por exportadores extranjeros
+
+## Términos de intercambio
+
+- **Términos de intercambio**: precio de exportaciones / precio de importaciones
+- Un arancel en país grande **mejora** sus términos de intercambio
+- El país importador obtiene sus importaciones más baratas
+- Este es el argumento del **arancel óptimo**
+
+# Costos y beneficios de un arancel
+
+## Excedente del consumidor y productor
+
+- **Excedente del consumidor**: diferencia entre disposición a pagar y precio pagado
+  - Área bajo la curva de demanda y sobre el precio
+- **Excedente del productor**: diferencia entre precio recibido y costo de producción
+  - Área sobre la curva de oferta y bajo el precio
+
+## Medición de costos y beneficios
+
+- Un arancel afecta a tres grupos:
+  1. **Consumidores**: pierden (pagan precio más alto)
+  2. **Productores**: ganan (reciben precio más alto)
+  3. **Gobierno**: gana (recauda aranceles)
+- El efecto neto depende de la magnitud de cada cambio
+
+## Análisis de bienestar: país pequeño
+
+:::: {.columns}
+::: {.column width="55%"}
+- Pérdida de consumidores: áreas $a + b + c + d$
+- Ganancia de productores: área $a$
+- Recaudación del gobierno: área $c$
+- **Pérdida neta**: áreas $b + d$
+:::
+::: {.column width="45%"}
+![](../_shared/images/cyfi/fig-diagram-tariff-welfare-small-country.svg){width="100%"}
+:::
+::::
+
+## Los triángulos de pérdida de bienestar
+
+- **Triángulo $b$**: pérdida por distorsión en producción
+  - Recursos se desvían a producción ineficiente
+  - Se produce domésticamente lo que sería más barato importar
+- **Triángulo $d$**: pérdida por distorsión en consumo
+  - Consumidores reducen compras por precio artificialmente alto
+  - Pérdida de utilidad de unidades no consumidas
+
+## Análisis de bienestar: país grande
+
+- Un país grande puede mejorar sus términos de intercambio
+- Ganancia adicional: área $e$ (caída del precio mundial)
+- **Efecto neto**: $(e) - (b + d)$
+- Si $e > b + d$: el arancel puede ser beneficioso para el país
+- Pero: genera pérdida de bienestar **mundial**
+
+## El arancel óptimo
+
+- El **arancel óptimo** maximiza el bienestar nacional
+- Depende de la elasticidad de la oferta de exportaciones extranjera
+- Fórmula del arancel óptimo:
+$$t^* = \frac{1}{\epsilon_X - 1}$$
+- Donde $\epsilon_X$ es la elasticidad de oferta de exportaciones
+
+## El arancel óptimo (cont.)
+
+- Si $\epsilon_X \to \infty$ (país pequeño): $t^* \to 0$
+- A menor elasticidad, mayor arancel óptimo
+- **Problemas del argumento**:
+  - Ignora represalias de socios comerciales
+  - Reduce el bienestar mundial
+  - Puede desencadenar guerras comerciales
+
+# Otros instrumentos de política comercial
+
+## Subsidios a la exportación
+
+- Pago del gobierno a empresas que exportan
+- Pueden ser específicos o ad valorem
+- Efectos en país exportador (grande):
+  - Precio interno sube
+  - Precio mundial baja
+  - **Empeoran** los términos de intercambio
+
+## Subsidios a la exportación: análisis de bienestar
+
+- Efectos sobre el bienestar del país exportador:
+  - Consumidores pierden (precio interno más alto)
+  - Productores ganan (mayor precio)
+  - Gobierno gasta (costo del subsidio)
+- **Pérdida neta** para el país que subsidia
+- Beneficia a consumidores extranjeros
+
+## Caso: Subsidios agrícolas
+
+- Los países desarrollados subsidian fuertemente la agricultura
+- EE.UU., UE, Japón: subsidios de miles de millones anuales
+- Efectos:
+  - Sobreproducción en países ricos
+  - Deprime precios mundiales agrícolas
+  - Perjudica a agricultores de países en desarrollo
+- Tema central en negociaciones de la OMC
+
+## Cuotas de importación
+
+- **Cuota**: límite máximo a la cantidad importada
+- A diferencia del arancel, restringe cantidad directamente
+- Puede tener efectos similares a un arancel "equivalente"
+- Diferencia clave: no genera ingresos fiscales directamente
+
+## Cuotas de importación: rentas de la cuota
+
+- La cuota crea escasez artificial
+- Genera **rentas de la cuota**: ganancia por comprar al precio mundial y vender al precio interno elevado
+- ¿Quién captura las rentas?
+  - Depende de cómo se administre la cuota
+
+## Administración de cuotas
+
+- **Licencias de importación**: gobierno las asigna
+  - Por orden de llegada
+  - Por historial de importaciones
+  - Por subasta (captura rentas para el gobierno)
+- Si licencias se dan gratuitamente: rentas van a importadores
+- Si se subastan: similar a un arancel
+
+## Cuota vs. arancel: diferencias importantes
+
+- Con **competencia perfecta**: efectos equivalentes
+- Con **monopolio nacional**: la cuota es peor
+  - El arancel mantiene competencia potencial del exterior
+  - La cuota elimina toda competencia: el monopolista puede subir precios
+- En presencia de **incertidumbre**: efectos distintos
+
+## Restricciones voluntarias de exportación (RVE)
+
+- El país **exportador** limita sus propias exportaciones
+- "Voluntarias" por presión del país importador
+- Ejemplos históricos:
+  - Autos japoneses a EE.UU. (1981)
+  - Acero de varios países a EE.UU.
+  - Textiles bajo el Acuerdo Multifibras
+
+## RVE: análisis económico
+
+- Efectos similares a una cuota de importación
+- Diferencia crucial: **las rentas van al país exportador**
+- El país importador pierde doblemente:
+  - Pérdida de bienestar por restricción
+  - Transferencia de rentas al extranjero
+- Peor que un arancel equivalente para el importador
+
+## Caso: Autos japoneses en EE.UU.
+
+- RVE impuesta en 1981 por presión de EE.UU.
+- Limitó exportaciones japonesas a 1.68 millones de autos/año
+- Efectos:
+  - Precio de autos japoneses subió ~$1,000
+  - Rentas estimadas: $2-3 mil millones/año a Japón
+  - Fabricantes japoneses se movieron a autos de lujo
+  - Aceleró inversión japonesa en plantas en EE.UU.
+
+## Requisitos de contenido local
+
+- Obligan a que parte del producto sea de origen nacional
+- Común en industria automotriz
+- Efectos:
+  - Aumenta demanda de insumos nacionales
+  - Eleva costos de producción
+  - Puede reducir calidad del producto final
+- Más difíciles de analizar que aranceles simples
+
+## Otros instrumentos
+
+- **Compras gubernamentales**: preferencia por proveedores nacionales
+- **Barreras técnicas**: normas, estándares, certificaciones
+- **Barreras administrativas**: procedimientos aduaneros complicados
+- **Políticas antidumping**: aranceles contra "precios injustos"
+- Muchas barreras son **no arancelarias** (BNA)
+
+## Créditos a la exportación
+
+- Préstamos subsidiados a compradores extranjeros
+- Garantías de crédito a exportadores
+- Funcionan como subsidios encubiertos
+- Disputas internacionales frecuentes:
+  - Boeing vs. Airbus
+  - Agricultura
+
+# Los efectos de la política comercial: resumen
+
+## Efectos sobre precios
+
+| Instrumento | Precio interno | Precio mundial |
+|-------------|----------------|----------------|
+| Arancel | Sube | Baja (si país grande) |
+| Subsidio exportación | Sube | Baja |
+| Cuota importación | Sube | Baja (si país grande) |
+| RVE | Sube | Baja |
+
+## Efectos sobre cantidades
+
+- Todos los instrumentos proteccionistas:
+  - Aumentan producción nacional
+  - Reducen consumo nacional
+  - Reducen volumen de comercio
+- Magnitud depende de elasticidades de oferta y demanda
+
+## Efectos sobre bienestar: país pequeño
+
+| Instrumento | Consumidores | Productores | Gobierno | Neto |
+|-------------|--------------|-------------|----------|------|
+| Arancel | Pierden | Ganan | Gana | Negativo |
+| Subsidio exp. | Pierden | Ganan | Pierde | Negativo |
+| Cuota | Pierden | Ganan | Depende | Negativo |
+| RVE | Pierden | Ganan | Pierde | Muy negativo |
+
+## Efectos sobre bienestar: país grande
+
+- Un país grande puede mejorar sus términos de intercambio
+- **Arancel óptimo**: maximiza bienestar nacional
+- Pero esto genera:
+  - Reducción del bienestar mundial
+  - Riesgo de represalias
+  - Posible guerra comercial
+- Argumento para **cooperación internacional**
+
+## Protección efectiva
+
+- Los aranceles nominales no miden bien la protección real
+- **Tasa de protección efectiva**: protección al **valor agregado**
+- Fórmula:
+$$g = \frac{t - a \cdot t_i}{1 - a}$$
+- Donde:
+  - $t$ = arancel sobre el bien final
+  - $t_i$ = arancel sobre insumos importados
+  - $a$ = participación de insumos en valor del producto
+
+## Protección efectiva: ejemplo
+
+- Suponga: automóvil vale $20,000
+- Componentes importados: $12,000 (60% del valor)
+- Valor agregado nacional: $8,000 (40%)
+- Si arancel a autos = 25% y arancel a componentes = 10%:
+$$g = \frac{0.25 - 0.6 \times 0.10}{0.4} = \frac{0.25 - 0.06}{0.4} = 47.5\%$$
+- La protección **efectiva** es casi el doble de la nominal
+
+## Escalada arancelaria
+
+- Los países suelen aplicar aranceles más altos a bienes procesados
+- Ejemplo: cacao en grano (bajo) vs. chocolate (alto)
+- Esto implica protección efectiva muy alta para procesamiento
+- Dificulta la industrialización de países en desarrollo
+- Mantiene a países pobres como exportadores de materias primas
+
+# Apéndice: derivaciones matemáticas
+
+## Equilibrio con arancel: país pequeño
+
+- Precio mundial dado: $P_W$ (constante)
+- Precio interno con arancel: $P = P_W + t$
+- Demanda nacional: $D(P) = D(P_W + t)$
+- Oferta nacional: $S(P) = S(P_W + t)$
+- Importaciones: $M = D(P) - S(P)$
+
+## Cambio en bienestar: país pequeño
+
+- Pérdida de excedente del consumidor:
+$$\Delta EC = -\int_{P_W}^{P_W+t} D(P) dP \approx -(D_1 + D_2)(t)/2$$
+- Ganancia de excedente del productor:
+$$\Delta EP = \int_{P_W}^{P_W+t} S(P) dP \approx (S_1 + S_2)(t)/2$$
+- Recaudación: $R = t \cdot M_2 = t \cdot (D_2 - S_2)$
+
+## Pérdida neta de bienestar
+
+- Pérdida neta = $\Delta EC - \Delta EP - R$
+- Para cambios pequeños:
+$$DWL \approx \frac{1}{2} t \cdot \Delta S + \frac{1}{2} t \cdot |\Delta D|$$
+- Donde:
+  - $\Delta S = S_2 - S_1$ (aumento en producción)
+  - $\Delta D = D_2 - D_1$ (caída en consumo)
+
+## Equilibrio con arancel: país grande
+
+- El país importador afecta el precio mundial
+- Condición de equilibrio:
+$$D(P_W + t) - S(P_W + t) = S^*(P_W) - D^*(P_W)$$
+- El nuevo precio mundial $P_W'$ satisface:
+$$D(P_W' + t) - S(P_W' + t) = S^*(P_W') - D^*(P_W')$$
+
+## Arancel óptimo: derivación
+
+- Bienestar nacional: $W = EC(P) + EP(P) + t \cdot M$
+- Condición de primer orden: $\frac{dW}{dt} = 0$
+- Resolviendo:
+$$t^* = \frac{P_W}{\epsilon_X^* - 1}$$
+- En términos ad valorem:
+$$\frac{t^*}{P_W} = \frac{1}{\epsilon_X^* - 1}$$
+
+## Equivalencia cuota-arancel
+
+- Una cuota $\bar{M}$ es equivalente al arancel $t$ si:
+$$D(P_W + t) - S(P_W + t) = \bar{M}$$
+- Bajo competencia perfecta, mismo efecto sobre:
+  - Precios
+  - Cantidades producidas y consumidas
+  - Bienestar (si rentas van al gobierno)
+- La diferencia está en quién captura las rentas
+
+## Protección efectiva: derivación general
+
+- Valor agregado sin protección: $V = P - \sum_i a_i P_i$
+- Valor agregado con protección: $V' = P(1+t) - \sum_i a_i P_i(1+t_i)$
+- Tasa de protección efectiva:
+$$g = \frac{V' - V}{V} = \frac{t - \sum_i a_i t_i}{1 - \sum_i a_i}$$
+- Si $t > \sum_i a_i t_i$: protección efectiva > nominal
+- Si $t < \sum_i a_i t_i$: protección efectiva puede ser negativa
+
+## Subsidio a exportaciones y términos de intercambio
+
+- País exportador grande subsidia exportaciones
+- Precio de exportación cae de $P_X$ a $P_X'$
+- Precio de importación (dado): $P_M$
+- Términos de intercambio: $\frac{P_X'}{P_M} < \frac{P_X}{P_M}$
+- El subsidio **empeora** los términos de intercambio
+- Transferencia de bienestar hacia el país importador
+
+## Referencias
+
+- Krugman, Obstfeld y Melitz, cap. 9
+- Feenstra y Taylor, cap. 8
+- WTO: "World Tariff Profiles"

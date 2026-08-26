@@ -1,7 +1,7 @@
 format:
   revealjs:
     embed-resources: true
-    css: ../_shared/css/theme-default.scss
+    theme: ../_shared/css/theme-default.scss
     title-slide-attributes:
       data-background-image: ../_shared/images/backgrounds/bg-tepm-01.png
       data-background-size: stretch

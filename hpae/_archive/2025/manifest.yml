@@ -1,0 +1,44 @@
+# HPAE Archive Manifest - 2025
+# This file describes how to build the 2025 version of slides
+
+year: 2025
+master_year: current  # Compare against root (master)
+
+# Files that differ from master - use archived versions
+changed_files:
+  - lect00.qmd
+  - lect01.qmd
+  - lect02.qmd
+  - lect03.qmd
+  - lect04.qmd
+  - lect05.qmd
+  - lect06.qmd
+  - lect07.qmd
+  - lect08.qmd
+  - lect09.qmd
+  - lect10.qmd
+  - lect11.qmd
+  - lect12.qmd
+  - lect13.qmd
+  - lect14.qmd
+  - lect19.qmd
+
+# Files unique to this year (not in master)
+unique_files:
+  - lect01-het-main-themes-map.qmd
+  - lect04-annex-01.qmd
+  - lect10-add.qmd  # Note: master has lect10_add.qmd (underscore)
+  - lect15.qmd
+
+# Files from master to exclude for this year
+excluded_files:
+  - lect10_add.qmd  # Replaced by lect10-add.qmd in this year
+  - lect18.qmd
+  - concurso-2023.qmd
+
+# Notes
+notes: |
+  2025 version uses hyphenated naming (lect10-add vs lect10_add).
+  Has unique files: lect15, lect01-het-main-themes-map.
+  Annex files (lect01-annex-01, lect02-annex-01, lect05-annex-01) were
+  blended into their respective main lecture files in master.

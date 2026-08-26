@@ -1,0 +1,341 @@
+% Auriga theme
+% https://github.com/anishathalye/auriga
+
+\documentclass[14pt,aspectratio=169]{beamer}
+\usepackage{pgfpages}
+\usepackage{fancyvrb}
+\usepackage{booktabs,dcolumn}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta, positioning, quotes}
+\usepackage{pgfplots}
+
+% \ifnotes
+% \setbeamertemplate{note page}[plain]
+% \setbeameroption{show notes on second screen=right}
+% \fi
+
+\usetheme{auriga}
+\usecolortheme{auriga}
+
+% define some colors for a consistent theme across slides
+\definecolor{red}{RGB}{181, 23, 0}
+\definecolor{blue}{RGB}{0, 118, 186}
+\definecolor{gray}{RGB}{146, 146, 146}
+
+\title{Historia Económica Argentina}
+
+\author{\underline{Sebastián Freille} \inst{1}}
+
+\institute[shortinst]{\inst{1} IEF-UNC \\ UCC}
+\date{}
+
+\AtBeginSection[]{
+    \begin{frame}
+    \vfill
+    \centering
+    \begin{beamercolorbox}[sep=8pt,center,shadow=true,rounded=true]{title}
+        \usebeamerfont{title}\insertsectionhead\par%
+    \end{beamercolorbox}
+    \vfill
+    \end{frame}
+}
+
+
+\AtBeginSubsection[]{
+    \begin{frame}
+    \vfill
+    \centering
+    \begin{beamercolorbox}[sep=6pt,center,shadow=true,rounded=true]{title}
+        \usebeamerfont{title}\insertsubsectionhead\par%
+    \end{beamercolorbox}
+    \vfill
+    \end{frame}
+}
+
+
+\AtBeginSubsubsection[]{
+    \begin{frame}
+    \vfill
+    \centering
+    \begin{beamercolorbox}[sep=4pt,center,shadow=true,rounded=true]{title}
+        \usebeamerfont{title}\insertsubsubsectionhead\par%
+    \end{beamercolorbox}
+    \vfill
+    \end{frame}
+}
+
+
+
+\begin{document}
+\maketitle
+
+{
+  % rather than use the frame options [noframenumbering,plain], we make the
+  % color match, so that the indicated page numbers match PDF page numbers
+  \setbeamercolor{page number in head/foot}{fg=background canvas.bg}
+  \begin{frame}
+    \titlepage
+  \end{frame}
+}
+
+\section{Aspectos generales y administrativos}
+
+ \begin{frame}\frametitle{Objetivos}
+   \begin{block}{Objetivo general}
+     Analizar la evolución de la economía argentina durante el período
+    que comienza con la consolidación del Estado Nacional en 1880
+    hasta la década de 1990. Se buscará ofrecer a los alumnos la
+    información necesaria sobre el funcionamiento de la economía
+    argentina, así como también brindar una explicación de sus cambios
+    mediante el uso de la teoría económica como base. El énfasis
+    estará puesto en el examen de las políticas económicas aplicadas y
+    los resultados alcanzados
+    \end{block}
+  \end{frame}
+
+
+ \begin{frame}\frametitle{Equipo de la cátedra}
+   \begin{itemize}
+   \item Profesor a cargo: Dr. Sebastián Freille (Prof. Adjunto por
+     concurso) --en reemplazo temporario de Prof. Titular Mónica Gómez
+     (licencia por año sabático)
+   \item Profesor ayudante: Lic. Lucas Tossolini
+   \item Adscriptos: Lic. Martín Calvo / Lic. Fernando Kühn
+          \end{itemize}
+  \end{frame}
+  
+
+  \begin{frame}\frametitle{Metodología de evaluación}
+     \begin{itemize}
+     \item Habrá 2 (dos) evaluaciones parciales y 1 (un) parcial
+       recuperatorio. Las fechas tentativas y propuestas a Dirección
+       de Enseñanza: 
+       \begin{itemize} \medskip
+       \item Jueves 01/OCT de 17:00 a 19:00
+       \item Martes 03/NOV de 17:00 a 19:00
+         \item Martes 11/NOV de 17:00 a 19:00
+         \end{itemize}
+       \item La regularidad se obtiene aprobando 2 (dos) parciales con
+         nota de 4 (50 puntos sobre 100) o superior
+         \item Debido a las circunstancias excepcionales de evaluación
+           no presencial, no habrá régimen de promoción indirecta
+           durante este semestre
+       \end{itemize}
+     \end{frame}
+
+
+     \begin{frame}\frametitle{Metodología de evaluación (cont.)}
+     \begin{itemize}
+     \item Alumnos regulares $\longrightarrow$ el examen será
+       escrito y versara sobre la totalidad del programa. Contemplará
+       preguntas de multiple choice y ensayos
+       \item Alumnos libres $\longrightarrow$ el examen sera escrito
+         especial y versará sobre la totalidad del programa. Tendrá
+         una estructura similar al examen regular con algo más de
+         preguntas. 
+       \end{itemize}
+  \end{frame}
+
+
+  
+  
+  
+\begin{frame}\frametitle{Bibliografía}
+     \begin{itemize}
+     \item Se compone de libros y articulos seleccionados. Los libros
+       más consultados son: Gerchunoff y Llach (2007), Díaz Alejandro
+       (1970), Arnaudo (1986) y Gómez (2018)
+       \item El material de lectura es abundante y complejo en su
+         cobertura y lenguaje. Se recomienda que las clases y
+         las diapositivas sean consideradas como un esqueleto básico y
+         mínimo a partir del cual encarar la lectura de los textos.
+         \item Toda la bibliografía estará disponible en el aula
+           virtual de la materia:
+           \url{https://aulavirtual.eco.unc.edu.ar/enrol/index.php?id=597} 
+       \end{itemize}
+  \end{frame}
+
+
+  \begin{frame}\frametitle{Bibliografía}
+     \begin{itemize}
+     \item Gerchunoff, P. y Llach, L. (2007). \textit{El ciclo de la
+         ilusión y el desencanto. Un siglo de políticas económicas
+         argentinas}, Buenos Aires, Ariel, Edición 2007
+       \item Díaz Alejandro, Carlos (1970). \textit{Ensayos sobre la
+           historia económica argentina}, Buenos Aires, Amorrortu.
+                \item Arnaudo, Aldo (1986). \textit{Cincuenta años de
+               política financiera}, Buenos Aires, El Ateneo.
+             \item Gómez, Mónica (2018). \textit{Los avatares de la
+                 primera Caja de Conversión Argentina y sus
+                 transformación final en Banco Central, 1890-1935},
+               Buenos Aires, Teseo. 
+       \end{itemize}
+  \end{frame}
+
+  
+
+\begin{frame}\frametitle{Canales de comunicación}
+     \begin{itemize}
+     \item Proponemos tres canales principales de comunicación
+       \begin{itemize}\itemsep 10pt \medskip
+       \item Aula virtual $\longrightarrow$ uso como repositorio de
+         bibliografía en formato digital y contenidos de la
+         materia. Algún tipo de comunicaciones entre docentes y
+         alumnos
+         \item Correo de catedra $\longrightarrow$
+           \url{hea.fce.unc@gmail.com} a través del cual se enviarán
+           comunicaciones regulares a alumnos
+           \item Clases interactivas $\longrightarrow$ plataforma Zoom
+         \end{itemize}
+       \end{itemize}
+  \end{frame}
+
+
+  
+   \begin{frame}\frametitle{Programa abreviado}
+     \begin{enumerate}
+     \item Capítulo 1. El período de progreso (1880-1914)
+     \item Capítulo 2. Los años entre la dos guerras (1914-1945)
+       \item Capítulo 3. La economía política del peronismo
+         (1946-1955)
+         \item Capítulo 4. Hacia la liberalización de los mercados en
+           los años que siguieron al peronismo (1955-1963)
+         \item Capítulo 5. La década de expansión (1963-1973)
+           \item Capítulo 6. El período de estancamiento y declinación
+             (1973-1989)
+             \item Capítulo 7. La década de los 90. 
+       \end{enumerate}
+  \end{frame}
+
+
+  \begin{frame}\frametitle{Programa abreviado: Capítulo 1}
+     \begin{enumerate}
+     \item Capítulo 1. El período de progreso (1880-1914)
+       \begin{enumerate}
+       \item De Roca a Saenz Peña
+         \end{enumerate}
+       \item Temas
+         \begin{enumerate}
+           \item Crecimiento económico a través de la teoría del bien
+             primario exportable (BPE) [``staple theory'']
+           \item Funcionamiento monetario y crisis de 1890-91
+             \item Nuevo modelo monetario: el sistema de Caja de Conversión
+             \end{enumerate}
+             \end{enumerate}
+  \end{frame}
+
+
+\begin{frame}\frametitle{Programa abreviado: Capítulo 2}
+     \begin{enumerate}
+     \item Capítulo 2. Los años entre las dos guerras (1914-1945)
+       \begin{enumerate}
+       \item Los últimos años del Partido Autonomista Nacional
+       \item Los gobiernos radicales
+       \item La Década infame
+         \item La Revolución del 43
+         \end{enumerate}
+       \item Temas
+         \begin{enumerate}
+           \item Efectos de la primera GM en la economía y las
+             respuestas de politica economica
+           \item Cambios en la estructura en la década del 20
+             (industria)
+             \item Impactos de la Gran Depresión en la economía y
+               respuestas de politica economica
+             \end{enumerate}
+             \end{enumerate}
+  \end{frame}
+
+
+\begin{frame}\frametitle{Programa abreviado: Capítulo 3}
+     \begin{enumerate}
+     \item Capítulo 3. La economía política del peronismo (1946-1955)
+       \begin{enumerate}
+       \item El primer gobierno de Perón (1946-1952)
+       \item El segundo gobierno de Perón (1952-1955)
+       \end{enumerate}
+     \item Temas
+       \begin{enumerate}
+         \item La economía política del peronismo y la política
+           económica (1946-1949)
+         \item El origen de los problemas: ``stop-go'' e inflación
+           \item Cambios en la politica económica (1952-1955)
+           \end{enumerate}
+           \end{enumerate}
+  \end{frame}
+
+
+  
+\begin{frame}\frametitle{Programa abreviado: Capítulo 4}
+     \begin{enumerate}
+     \item Capítulo 4. Hacia la liberalización de los mercados en los
+       años que siguieron al peronismo (1955-1963)
+       \begin{enumerate}
+       \item La Revolucion Libertadora
+       \item El régimen de Frondizi
+         \item El gobierno de Guido
+       \end{enumerate}
+     \item Temas
+       \begin{enumerate}
+       \item El plan de Prebisch y la política económica
+       \item La estrategia desarrollista de Frondizi
+         \item El programa económico de 1959-63 y la crisis del 1962-1963
+         \end{enumerate}
+         \end{enumerate}
+  \end{frame}
+
+
+  \begin{frame}\frametitle{Programa abreviado: Capítulo 5}
+     \begin{enumerate}
+     \item Capítulo 5. La década de expansión (1963-1973)
+       \begin{enumerate}
+       \item El gobierno de Illia
+       \item La Revolución Argentina: El gobierno de Onganía
+      \end{enumerate}
+     \item Temas
+       \begin{enumerate}
+       \item El crecimiento económico en la década de los 60
+       \item La política económica durante el gobierno de Illia
+         \item El plan de Krieger Vasena
+         \end{enumerate}
+         \end{enumerate}
+  \end{frame}
+  
+
+ \begin{frame}\frametitle{Programa abreviado: Capítulo 6}
+     \begin{enumerate}
+     \item Capítulo 6. El período de estancamiento y declinación (1973-1989)
+       \begin{enumerate}
+       \item La vuelta del peronismo
+       \item El gobierno militar
+         \item El radicalismo
+      \end{enumerate}
+     \item Temas
+       \begin{enumerate}
+       \item El trienio peronista: el plan anti-inflacionario 1973-1975
+       \item La política económica del gobierno militar y la situación
+         de la economía en 1976.
+       \item Crisis de la deuda y decada de los 80. Programas anti-inflacionarios
+         \end{enumerate}
+         \end{enumerate}
+  \end{frame}
+
+
+ \begin{frame}\frametitle{Programa abreviado: Capítulo 7}
+     \begin{enumerate}
+     \item Capítulo 7. La decada de los 90 
+       \begin{enumerate}
+       \item El primer gobierno de Menem
+             \end{enumerate}
+     \item Temas
+       \begin{enumerate}
+       \item Las transformaciones económicas de los 90.
+         \item La Convertibilidad en persepctiva comparada con la Caja
+           de Conversión
+         \end{enumerate}
+         \end{enumerate}
+  \end{frame}
+  
+
+\end{document}
+  

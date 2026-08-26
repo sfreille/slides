@@ -1,0 +1,489 @@
+---
+title: "Historia del Pensamiento y del Análisis Económico"
+subtitle: "U2. Desde los inicios hasta fines de la Edad Media"
+author: "Sebastián Freille"
+institute: "Facultad de Ciencias Económicas, UNC"
+date: today
+format:
+  revealjs:
+    theme: theme-hpae.scss
+    embed-resources: true
+    slide-number: true
+    toc: true
+    toc-depth: 1
+    toc-title: "Contenidos"
+    width: 1500
+    height: 900
+lang: es
+execute:
+  echo: false
+  warning: false
+---
+
+# **El pensamiento económico antes del capitalismo** {background="#390040"}
+
+## ¿Economía antes del capitalismo?
+
+::: {.cita}
+"Wealth consists not in having great possessions but in having few wants." \
+**[Epicteto]**
+:::
+
+- Durante milenios, la "economía" no era una disciplina separada
+- Los pensadores antiguos se preocupaban por las **consecuencias** de la actividad económica — justicia, virtud — más que por sus **causas**
+- No había marco científico en el sentido moderno
+
+## ¿Por qué nos importa este período?
+
+- Aquí nacen conceptos que **todavía usamos**: valor, precio justo, dinero, división del trabajo
+- La estructura económica básica **no cambió radicalmente hasta el siglo XV**
+- Las preocupaciones éticas sobre la economía **nunca desaparecieron** $\longrightarrow$ pensemos en debates actuales sobre desigualdad, usura financiera, comercio justo
+
+## La concepción antigua de la riqueza
+
+| **Antigüedad** | **Modernidad** |
+|----------------|----------------|
+| Riqueza = tener pocas necesidades | Riqueza = acumulación de bienes |
+| Actividad económica subordinada a la ética | Ética subordinada (¿o ignorada?) en economía |
+| El lucro es sospechoso | El lucro es legítimo y deseable |
+| No hay "economía" como campo separado | Economía como ciencia autónoma |
+
+## Ubicación temporal
+
+![Línea de tiempo mostrando las principales etapas del pensamiento económico antiguo y medieval](../../slides/_shared/images/hpae/fig-diagram-ancient-overview.png){fig-align="center" height="650" fig-alt="Diagrama de línea de tiempo que muestra la evolución del pensamiento económico desde la antigüedad hasta el medioevo, incluyendo Grecia, Roma, el mundo islámico y la escolástica"}
+
+# **Contexto y características del período** {background="#390040"}
+
+## La actividad económica en el mundo antiguo
+
+- **Economía de autosuficiencia**: pocas interacciones, casi sin mercados
+- **Asignación centralizada**: la autoridad gobernante decidía
+- **Propiedad privada limitada**: existía pero con restricciones importantes
+- **Esclavitud generalizada**: la mano de obra no era "libre"
+
+A diferencia de los últimos dos siglos, los pensadores antiguos se preocuparon por las **consecuencias morales** de la actividad económica.
+
+## De la sociedad tribal a la sociedad de clases
+
+:::: {.columns}
+::: {.column style="width: 50%;"}
+**Sociedades primitivas y tribales**
+
+- Propiedad comunal
+- Actividad económica básica de subsistencia
+- No hay disociación entre producción y producto
+:::
+
+::: {.column style="width: 50%;"}
+**Sociedades de clases y castas**
+
+- Aparece la propiedad privada
+- Actividad económica más compleja
+- Surgen tensiones y problemas distributivos
+:::
+::::
+
+## Los dos grandes temas del período
+
+1. **No especialización del análisis social**
+   - La actividad económica no se separa de lo político, lo social, lo moral
+   - Esto fue constante en autores de diversas épocas y tradiciones
+
+2. **Énfasis en cuestiones filosóficas y éticas**
+   - La motivación para estudiar comercio y precios era **evaluar su justicia**
+   - La administración pública se discutía dentro de un marco ético
+
+## Tres tradiciones fundamentales
+
+Siguiendo a **Lowry (2003)**, el pensamiento económico antiguo y medieval puede estructurarse en:
+
+| Tradición | Enfoque | Ejemplos |
+|-----------|---------|----------|
+| **Administrativa** | Gestión estatal | Egipto, Mesopotamia, China |
+| **Moral** | Religión y ética | Profetas hebreos, **Aristóteles**, escolásticos |
+| **Analítica** | Valor, intercambio, especialización | **Aristóteles**, algunos escolásticos |
+
+# **La tradición administrativa** {background="#390040"}
+
+## Las civilizaciones fluviales [circa 2500 a.C.]
+
+- **Egipto y Mesopotamia**: primeros registros de organización económica formal
+  - Agricultura coordinada con inundaciones anuales
+  - Graneros estatales y contabilidad centralizada
+  - Necesidad de **medición de tierras y regulación pública**
+
+- **Tablas de Erlenmeyer** (2200 a.C., Sumeria)
+  - Registros de producción agrícola y eficiencia laboral
+  - Sistema sexagesimal para cálculos administrativos
+
+## La monarquía hebrea [1047-722 a.C.]
+
+- Período de monarquía unida y dividida
+- Introducción de propiedad privada y comercio
+- Primera posibilidad documentada de **acumulación**
+- Sociedad con marcada división ricos/pobres
+- Los profetas condenaban los excesos de las nuevas clases
+
+::: {.importante}
+Aquí aparece por primera vez una **clase desposeída** y la crítica moral a la desigualdad.
+:::
+
+## El pensamiento griego: características
+
+- **Visión antropocéntrica**: la economía es administración del hogar (*oikonomía*)
+- **Intercambio como mecanismo aislado**: economía básica y simple
+- **Exaltación de artes militares y agricultura**; desprecio por trabajo y comercio
+- **Prevalencia de consideraciones morales y éticas**
+- Sociedad "congelada": poco rol del emprendedor y la creatividad
+
+## Platón: el Estado ideal
+
+- **Platón (428-348 a.C.)** describió su Estado ideal en *La República*
+- Creía que todo cambio es regresivo $\longrightarrow$ sociedad rígida y estática
+- Estructura de tres clases:
+  1. Filósofos (gobernantes)
+  2. Guardianes (soldados)
+  3. Productores (trabajadores)
+
+## La división del trabajo en Platón
+
+::: {.cita}
+"No somos todos iguales; hay muchas diversidades de naturaleza entre nosotros que se adaptan a diferentes ocupaciones." \
+**[Platón]**
+:::
+
+- Las diferencias entre individuos son **originarias, no adquiridas**
+- Dado que individuos diferentes producen bienes diferentes:
+  - La especialización fundamenta el comercio
+  - La especialización es el fundamento económico de la *polis*
+
+## Platón: la división del trabajo
+
+![Diagrama ilustrando la concepción platónica de la división del trabajo](../../slides/_shared/images/hpae/fig-02-plato-division-of-labour-01.png){fig-align="center" height="600" fig-alt="Diagrama mostrando cómo Platón concebía la división del trabajo como fundamento de la polis, con diferentes ocupaciones surgiendo de las diversas naturalezas humanas"}
+
+## Platón y el comercio
+
+- **Despreciaba el uso de oro y plata como moneda** $\longrightarrow$ amenaza a la regulación económica y moral
+- Abogaba por mantener la población constante (¡5040 ciudadanos!)
+- Poco espacio para innovación, dinámica empresaria y crecimiento económico
+
+::: {.importante}
+Para Platón, la sociedad ideal debía ser **rígida y estática**. El cambio era visto como regresivo.
+:::
+
+## China: la tradición oriental
+
+- Entre 771 y 249 a.C. hubo una revolución del pensamiento económico en China
+- Cuatro escuelas: confucianistas, moístas, taoístas, legalistas
+- **Guan Zhong (720-645 a.C.)**: filosofía del *Qing Zhong* (ligero/pesado)
+
+::: {.cita}
+"Cuando las cosas son abundantes, serán baratas; cuando son escasas, serán caras." \
+**[Guan Zhong]**
+:::
+
+Idea primitiva de **oferta y demanda** y valor relativo de todos los bienes.
+
+## Guan Zhong: anticipaciones notables
+
+- Anticipó la **escasez como determinante del precio**
+- Demanda como depósito de valor: si un bien "se guarda bajo llave", su precio tiende a subir
+- Idea sobre **estructura de mercado**: bienes concentrados son "pesados"; dispersos son "ligeros"
+- **Política fiscal contracíclica**: el gobierno debía comprar cuando los bienes eran "ligeros" y vender cuando eran "pesados"
+
+## India: la "ciencia de la riqueza"
+
+- Imperio Maurya (322-185 a.C.)
+- **Kautilya (Chanakya)**: *Arthashastra* ("ciencia de la riqueza")
+  - Tratado sobre economía y política
+  - El Estado juega rol vital en mantener el bienestar material
+- **Política económica activa** y control estatal significativo
+- La persecución de ganancia no era incompatible con vida moral
+
+# **Aristóteles: entre lo moral y lo analítico** {background="#390040"}
+
+## Aristóteles: la figura dominante
+
+- **Aristóteles (384-322 a.C.)**: la figura más influyente del período
+- Discípulo (y antagonista) de Platón
+- Dos grandes obras sobre el tema: *Ética* y *Política*
+- Su pensamiento filosófico lo hizo preocuparse por **lo natural** y **lo justo**
+
+::: {.cita}
+"Platón es mi amigo, pero más amiga es la verdad."
+:::
+
+## Aristóteles y la propiedad privada
+
+A diferencia de **Platón**, **favoreció la propiedad privada**:
+
+1. Es **más productiva** que la comunal
+2. La propiedad comunal genera **conflictos**
+3. Está implantada en la **naturaleza humana**
+4. Ha existido **siempre y en todos lados**
+
+::: {.importante}
+Postuló que sólo la propiedad privada le provee al individuo la **oportunidad de actuar moralmente** — i.e. practicar las virtudes de la benevolencia y filantropía.
+:::
+
+## La crematística
+
+- **Aristóteles** distinguió entre:
+  - **Economía natural** (*oikonomía*): satisfacer necesidades básicas
+  - **Economía antinatural** (*chrematistiké*): acumulación de riqueza
+
+::: {.cita}
+"En el intercambio natural, el dinero es un medio para un fin; en el intercambio artificial, el dinero es tanto un medio como un fin."
+:::
+
+Rechazó el intercambio artificial porque implicaba ganar dinero por sí mismo.
+
+## Aristóteles y el dinero
+
+Comprendió las **tres funciones del dinero**:
+
+1. Patrón de valor
+2. Medio de cambio
+3. Depósito de valor
+
+. . .
+
+Pero **condenó moralmente el préstamo de dinero** (usura).
+
+::: {.importante}
+Aquí vemos la contradicción entre lo analítico y lo moral que caracteriza a todo el período.
+:::
+
+## Valor en uso vs. valor en cambio
+
+::: {.cita}
+"Las cosas que tienen gran valor en uso frecuentemente apenas tienen valor en cambio; y las que tienen gran valor en cambio apenas tienen valor en uso."
+:::
+
+- **Aristóteles** **distinguió** entre valor de uso y valor en cambio
+- Sugirió que el segundo deriva del primero
+- Pero **no ofreció teoría del precio**
+- Foco en el problema ético de la **justicia en el intercambio**
+
+## El principio de reciprocidad
+
+![Diagrama del principio aristotélico de reciprocidad en el intercambio](../../slides/_shared/images/hpae/fig-diagram-ancient-10.png){fig-align="center" height="550" fig-alt="Diagrama geométrico mostrando el principio de reciprocidad de Aristóteles: el intercambio justo requiere proporcionalidad entre lo que cada parte da y recibe"}
+
+## Aristóteles: evaluación
+
+| **Logros** | **Limitaciones** |
+|------------|------------------|
+| Distinción uso/cambio | No hay teoría del valor |
+| Funciones del dinero | Confusión moral/analítica |
+| División del trabajo | Condena de usura |
+| Defensa propiedad privada | Sociedad estática |
+
+::: {.importante}
+Aristóteles ofrece ideas y discusiones aisladas, pero no una teoría del valor y/o distribución.
+:::
+
+# **El "gran vacío" y el mundo islámico** {background="#390040"}
+
+## La tesis de Schumpeter
+
+::: {.cita}
+"En lo que respecta a nuestro tema, podemos saltar 500 años hasta Santo Tomás de Aquino." \
+**[Joseph Schumpeter, 1954]**
+:::
+
+- **Schumpeter** minimizó las contribuciones entre la caída de Grecia y el siglo XIII
+- Esta tesis ha sido **cuestionada recientemente**
+- Hubo contribuciones importantes del **mundo islámico**
+
+## Ibn Jaldún (1332-1406)
+
+- Historiador, sociólogo y economista árabe
+- **Anticipó varias teorías económicas modernas**:
+  - Teoría del valor-trabajo
+  - División del trabajo y especialización
+  - Determinación de precios por oferta y demanda
+  - Oposición a impuestos excesivos
+  - Naturaleza cíclica del crecimiento económico
+
+::: {.importante}
+La prosperidad económica depende del grado de **cohesión social**, el cual disminuye a medida que las sociedades se vuelven más ricas.
+:::
+
+## Roma: el legado jurídico
+
+- Gran contribución del imperio romano no económica $\longrightarrow$ **el derecho**
+- El *ius gentium* suministró marco legal para la actividad económica contemporánea y posterior
+- Pensamiento cristiano primitivo se centró en el recto uso de bienes materiales (moral)
+
+::: {.importante}
+Llamativa **ausencia de pensamiento económico** durante la Roma Republicana e Imperial y durante la Cristiandad temprana.
+:::
+
+# **La escolástica y el pensamiento medieval** {background="#390040"}
+
+## El contexto medieval europeo
+
+- **Feudalismo**: sistema de producción basado en propiedad de la tierra
+- **Servidumbre**: trabajadores atados a la tierra
+- **Economía de autosuficiencia**: comercio limitado o prohibido
+- Transición lenta hacia el mercado como fenómeno de la vida diaria
+
+## Los escolásticos: método y preocupaciones
+
+- **Tradición escolástica**: preservar y desarrollar ideas aristotélicas
+- **Método**: formular un tema, examinar opiniones contrarias, producir documento
+- Basado en fe y peso de autoridad
+- Principal interés: la **justicia**, no el intercambio
+
+::: {.cita}
+"We next have to consider the sins which have to do with voluntary exchanges..." \
+**[Santo Tomás de Aquino, *Summa Theologica*]**
+:::
+
+## Santo Tomás de Aquino (1225-1274)
+
+- Principal figura del movimiento escolástico
+- Obra clave: *Summa Theologica*
+- Centro de la discusión: el **precio justo**
+
+::: {.definicion}
+**Precio justo**
+
+Precio que, considerando el trabajo incorporado, permite mantener el *status* en la jerarquía social. Los gremios debían velar por el cobro del precio justo.
+:::
+
+## Santo Tomás y el intercambio
+
+- Si el precio de mercado es competitivo $\longrightarrow$ es [justo]{.positive}
+- Pero condenó precios de monopolio
+- Valor justo es "objetivo" solo en el sentido de que individuos no pueden alterarlo
+- Retoma a **Aristóteles** pero no resuelve la determinación del valor
+
+::: {.importante}
+Argumenta que no es "un pecado" vender al precio vigente aún sabiendo que hay más vendedores potenciales entrando al mercado.
+:::
+
+## San Bernardino de Siena (1380-1444)
+
+- A diferencia de **Santo Tomás**, encuentra útil el comercio y la industria
+- Sigue a **Aristóteles** sobre propiedad privada
+- Ofreció **tres elementos que determinan el valor**:
+  1. Utilidad *intrínseca* del objeto
+  2. Escasez del objeto
+  3. Deseabilidad del objeto
+
+## La paradoja del valor en San Bernardino
+
+::: {.cita}
+"De otra manera, un vaso de agua sería prácticamente impagable... pero es abundante."
+:::
+
+- El precio se determina por **estimación colectiva** (valuación de mercado)
+- Anticipación de la teoría de la **utilidad marginal**
+- Condena las prácticas monopólicas
+- Las reglas de precios aplican también a salarios
+
+## El interés y la usura
+
+- **Condena casi total de la usura** entre los escolásticos
+- Discusión en la *Summa Theologica*, Pregunta 78
+- La oposición no era a la ganancia de sociedades
+- Era **inflexible** respecto del interés sobre préstamos de dinero
+
+**Excepciones toleradas**:
+
+- *Damnum emergens* (daño emergente)
+- *Lucrum cessans* (lucro cesante)
+
+## ¿Por qué condenaban la usura?
+
+::: {.cita}
+"Si un hombre quisiera vender vino y el uso del vino por separado, estaría vendiendo lo mismo dos veces, o vendiendo lo que no existe." \
+**[Santo Tomás de Aquino]**
+:::
+
+- El dinero se "consume" al usarse (como el vino)
+- A diferencia de una casa, cuyo uso no la destruye
+- Por lo tanto, cobrar por el "uso" del dinero es [injusto]{.negative}
+
+# **Valoración e importancia** {background="#390040"}
+
+## Contribuciones al desarrollo de la economía
+
+**Conceptos que perduran**:
+
+- Distinción **valor en uso / valor en cambio**
+- **Funciones del dinero**
+- **División del trabajo**
+- **Precio justo** (antecedente del precio de equilibrio)
+
+**Limitaciones metodológicas**:
+
+- No separación de economía positiva y normativa
+- Ausencia de análisis sistemático de causa-efecto
+- Condena moral que obstruye análisis
+
+## Validez a través del tiempo
+
+| Concepto | Antigüedad | Actualidad |
+|----------|------------|------------|
+| División del trabajo | **Platón**, **Aristóteles** | Microeconomía, comercio internacional |
+| Funciones del dinero | **Aristóteles** | Teoría monetaria |
+| Precio justo | Escolásticos | Debates sobre precios predatorios, comercio justo |
+| Usura | Condena moral | Regulación de tasas de interés |
+
+## Caminos abiertos y cerrados
+
+:::: {.columns}
+::: {.column style="width: 50%;"}
+**Ideas que [abrieron]{.positive} caminos**:
+
+- El intercambio puede generar ganancias mutuas (**Aristóteles**)
+- La especialización aumenta la productividad (**Platón**)
+- Los precios reflejan escasez y utilidad (**San Bernardino**)
+:::
+
+::: {.column style="width: 50%;"}
+**Ideas que [cerraron]{.negative} caminos**:
+
+- La riqueza es un juego de suma cero
+- El comercio y el lucro son moralmente sospechosos
+- La usura debe prohibirse absolutamente
+:::
+::::
+
+# **Preguntas para reflexionar** {background="#390040"}
+
+## Tres preguntas para pensar
+
+::: {.v-center-container}
+1. **¿Por qué tardó tanto en surgir una "ciencia económica" separada de la moral?**
+
+2. **¿Tiene sentido hablar de "precio justo" hoy?** ¿En qué contextos?
+
+3. **¿La condena de la usura era simplemente ignorancia o reflejaba algo más profundo?**
+:::
+
+# **Bibliografía** {background="#390040"}
+
+## Lecturas principales
+
+::: {.smaller}
+- **Ekelund, R.B. y Hébert, R.F. (2005).** *Historia de la teoría económica y de su método*. Capítulos 1-2.
+
+- **Roncaglia, A. (2006).** *La riqueza de las ideas*. Capítulo 2.
+
+- **Schumpeter, J.A. (1954).** *History of Economic Analysis*. Part II, Capítulos 1-2.
+
+- **Lowry, S.T. (2003).** Ancient and Medieval Economics. En *A Companion to the History of Economic Thought*.
+:::
+
+## Lecturas complementarias
+
+::: {.smaller}
+- **Langholm, O. (1998).** *The Legacy of Scholasticism in Economic Thought*.
+
+- **Rothbard, M. (1995).** *Economic Thought Before Adam Smith*. Capítulos 1-4.
+
+- **Gordon, B. (1975).** *Economic Analysis Before Adam Smith*.
+:::

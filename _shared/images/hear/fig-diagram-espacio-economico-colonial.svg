@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 540" font-family="'Source Sans Pro', Arial, sans-serif">
+  <defs>
+    <marker id="ah" markerWidth="9" markerHeight="9" refX="7" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#1f4e79"/>
+    </marker>
+    <marker id="ahg" markerWidth="9" markerHeight="9" refX="7" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#9bb3cc"/>
+    </marker>
+  </defs>
+
+  <!-- flows: interior regions -> Potosí (goods) -->
+  <path d="M255,95 C330,120 360,150 392,178" fill="none" stroke="#9bb3cc" stroke-width="2.5" marker-end="url(#ahg)"/>
+  <path d="M255,255 C315,250 345,250 378,250" fill="none" stroke="#9bb3cc" stroke-width="2.5" marker-end="url(#ahg)"/>
+  <path d="M255,415 C330,390 360,360 392,322" fill="none" stroke="#9bb3cc" stroke-width="2.5" marker-end="url(#ahg)"/>
+
+  <!-- flow: Potosí -> Buenos Aires (plata) -->
+  <path d="M520,270 C600,310 640,335 672,360" fill="none" stroke="#1f4e79" stroke-width="3.5" marker-end="url(#ah)"/>
+  <!-- flow: Buenos Aires -> Europa (plata + cueros) -->
+  <path d="M770,345 C800,270 800,210 785,168" fill="none" stroke="#1f4e79" stroke-width="3.5" marker-end="url(#ah)"/>
+  <!-- return: Europa -> Buenos Aires (manufacturas / contrabando) -->
+  <path d="M735,168 C705,215 705,290 725,345" fill="none" stroke="#a02234" stroke-width="2" stroke-dasharray="6 5" marker-end="url(#ah)"/>
+
+  <!-- center: Potosí -->
+  <circle cx="450" cy="250" r="72" fill="#1f4e79" stroke="#14324f" stroke-width="2"/>
+  <text x="450" y="243" text-anchor="middle" font-size="24" font-weight="700" fill="#ffffff">Potosí</text>
+  <text x="450" y="270" text-anchor="middle" font-size="16" fill="#dbe5f0">la plata</text>
+
+  <!-- interior region: Cuyo -->
+  <rect x="40" y="60" width="215" height="70" rx="10" fill="#ffffff" stroke="#1f4e79" stroke-width="2"/>
+  <text x="147" y="88" text-anchor="middle" font-size="18" font-weight="700" fill="#1f3a5f">Cuyo</text>
+  <text x="147" y="112" text-anchor="middle" font-size="14" fill="#444">vino · aguardiente</text>
+
+  <!-- interior region: Córdoba -->
+  <rect x="40" y="215" width="215" height="70" rx="10" fill="#ffffff" stroke="#1f4e79" stroke-width="2"/>
+  <text x="147" y="243" text-anchor="middle" font-size="18" font-weight="700" fill="#1f3a5f">Córdoba</text>
+  <text x="147" y="267" text-anchor="middle" font-size="14" fill="#444">mulas · tejidos</text>
+
+  <!-- interior region: Tucumán / Salta -->
+  <rect x="40" y="370" width="215" height="70" rx="10" fill="#ffffff" stroke="#1f4e79" stroke-width="2"/>
+  <text x="147" y="398" text-anchor="middle" font-size="18" font-weight="700" fill="#1f3a5f">Tucumán · Salta</text>
+  <text x="147" y="422" text-anchor="middle" font-size="14" fill="#444">carretas · textiles · mulas</text>
+
+  <!-- Buenos Aires (puerto) -->
+  <rect x="672" y="352" width="196" height="74" rx="10" fill="#eaf0f7" stroke="#1f4e79" stroke-width="2"/>
+  <text x="770" y="382" text-anchor="middle" font-size="18" font-weight="700" fill="#1f3a5f">Buenos Aires</text>
+  <text x="770" y="406" text-anchor="middle" font-size="14" fill="#444">puerto · cueros</text>
+
+  <!-- Europa / Atlántico -->
+  <rect x="700" y="98" width="168" height="70" rx="10" fill="#1f3a5f" stroke="#14324f" stroke-width="2"/>
+  <text x="784" y="128" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">Europa</text>
+  <text x="784" y="150" text-anchor="middle" font-size="13" fill="#dbe5f0">Atlántico</text>
+
+  <!-- legend -->
+  <line x1="300" y1="500" x2="345" y2="500" stroke="#1f4e79" stroke-width="3.5"/>
+  <text x="352" y="505" font-size="13" fill="#444">plata / bienes</text>
+  <line x1="470" y1="500" x2="515" y2="500" stroke="#a02234" stroke-width="2" stroke-dasharray="6 5"/>
+  <text x="522" y="505" font-size="13" fill="#444">manufacturas (contrabando)</text>
+</svg>

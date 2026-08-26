@@ -1,0 +1,595 @@
+---
+title: "Historia del Pensamiento y del Análisis Económico"
+subtitle: "U6. El apogeo del marginalismo: Alfred Marshall"
+author: "Sebastián Freille"
+institute: "Facultad de Ciencias Económicas, UNC"
+date: today
+format:
+  revealjs:
+    theme: theme-hpae.scss
+    embed-resources: true
+    slide-number: true
+    toc: true
+    toc-depth: 1
+    toc-title: "Contenidos"
+    width: 1500
+    height: 900
+lang: es
+execute:
+  echo: false
+  warning: false
+---
+
+# **Introducción: Marshall en contexto** {background="#390040"}
+
+## De la revolución marginalista a la síntesis marshalliana
+
+- En las unidades anteriores estudiamos el surgimiento de la **revolución marginalista** de la mano de Jevons, Menger y Walras
+- Cada uno de estos autores desarrolló versiones similares de la teoría de la utilidad marginal de manera independiente
+- Sin embargo, fue **Alfred Marshall** (1842-1924) quien logró la **síntesis** que dominaría la economía durante medio siglo
+- Marshall no solo consolidó el marginalismo sino que lo hizo *accesible* y *aplicable*
+
+> "El libro de Marshall, más que ningún otro trabajo, proporcionó la fundación para la economía del siglo XX."
+**[Paul Samuelson]**
+
+## Plan de la clase
+
+Esta unidad está organizada en cuatro grandes bloques:
+
+1. **Parte I: Alfred Marshall - vida, obra y método**
+   - Formación y contexto victoriano
+   - Los *Principios de Economía* (1890)
+   - Su particular visión metodológica
+
+2. **Parte II: Las contribuciones de Marshall**
+   - Teoría de la demanda y excedente del consumidor
+   - Teoría de la oferta y costos
+   - El equilibrio parcial
+
+3. **Parte III: Marshall versus Walras**
+   - Método: equilibrio parcial vs. equilibrio general
+   - Ajuste: cantidades vs. precios
+   - Tiempo: estática comparativa vs. dinámica
+
+4. **Parte IV: Legado y valoración crítica**
+
+## ¿Por qué Marshall importa?
+
+- Marshall fue el **economista más influyente** de su generación
+- Su libro *Principios de Economía* (1890) fue el texto estándar durante **50 años**
+- Fundó la **Escuela de Cambridge** que dominó la economía británica
+- Creó herramientas analíticas que usamos hasta hoy:
+  - Curvas de oferta y demanda tal como las conocemos
+  - Excedente del consumidor y del productor
+  - Elasticidad-precio de la demanda
+  - Distinción entre corto y largo plazo
+  - Economías externas e internas
+
+# **Parte I: Alfred Marshall - vida y obra** {background="#390040"}
+
+## Alfred Marshall [1842-1924]: Vida
+
+- Nació en Londres en 1842, hijo de un cajero del Banco de Inglaterra
+- Educado inicialmente para el clero, pero se volcó a las matemáticas en Cambridge
+- Estudió en St. John's College, Cambridge, donde fue *Second Wrangler* en matemáticas (1865)
+- Tras una crisis espiritual, encontró en la economía su vocación
+- Profesor en Cambridge desde 1885 hasta su retiro en 1908
+- Casado con Mary Paley, también economista
+
+## Marshall: Formación intelectual
+
+- Sus principales influencias fueron:
+  - **John Stuart Mill** $\longrightarrow$ heredó su preocupación por la pobreza y la reforma social
+  - **Cournot** $\longrightarrow$ adoptó el uso de matemáticas y gráficos
+  - **von Thünen** $\longrightarrow$ el principio equimarginal y análisis de localización
+  - **Darwin** $\longrightarrow$ la idea de evolución gradual, no revolución
+  - **Kant y Hegel** $\longrightarrow$ viaje formativo a Alemania en 1868
+
+> "Mi único rival es Ricardo, pero a él lo compadezco porque no tuvo matemáticas."
+**[Alfred Marshall]**
+
+## Marshall: Obras fundamentales
+
+| Período | Obras principales | Contenido central |
+|---------|-------------------|-------------------|
+| **1879** | *Economics of Industry* (con Mary Paley) | Primer esbozo de sus ideas |
+| **1890** | *Principles of Economics* | Su obra maestra, revisada 8 veces |
+| **1919** | *Industry and Trade* | Análisis institucional e histórico |
+| **1923** | *Money, Credit and Commerce* | Teoría monetaria y comercio |
+
+- Los *Principios* tuvieron 8 ediciones en vida de Marshall (la última en 1920)
+- Cada edición incluía revisiones y adiciones sustanciales
+
+## Marshall: El contexto victoriano
+
+- Marshall escribió en la **Inglaterra victoriana tardía**:
+  - Auge del Imperio Británico
+  - Industrialización madura
+  - Creciente "cuestión social" y movimiento obrero
+  - Debates sobre libre comercio vs. proteccionismo
+  
+- A diferencia de Walras (reformador social) o Menger (teórico puro), Marshall buscaba una economía **práctica y reformista**
+
+> "El estudio de las causas de la pobreza es el estudio de las causas de la degradación de gran parte de la humanidad."
+**[Alfred Marshall, *Principles of Economics*]**
+
+## Marshall: Sobre el método
+
+- Marshall tenía una visión **ecléctica** del método económico:
+  - Usaba matemáticas pero las relegaba a notas al pie y apéndices
+  - Prefería la exposición verbal y los ejemplos concretos
+  - Desconfiaba de las teorías demasiado abstractas
+
+> "Una buena notación matemática es muy útil para presentar un argumento; pero no tengo fe en tratar los problemas económicos como si fueran problemas de mecánica."
+**[Alfred Marshall]**
+
+## Las reglas metodológicas de Marshall
+
+Marshall dio estas instrucciones a sus estudiantes:
+
+1. Usar las matemáticas como **atajo**, no como fin
+2. Traducir todo a **lenguaje ordinario** cuando sea posible
+3. Ilustrar con **ejemplos de la vida real**
+4. Si no puede ilustrarse, **quemar las matemáticas**
+5. Si no puede traducirse al inglés, **quemar las matemáticas**
+
+> "(1) Use mathematics as a shorthand language, rather than as an engine of inquiry. (2) Keep to them till you have done. (3) Translate into English. (4) Then illustrate by examples that are important in real life. (5) Burn the mathematics."
+**[Marshall, carta a Bowley, 1906]**
+
+## El organicismo marshalliano
+
+- Marshall concebía la economía como un **organismo vivo**, no como una máquina
+- Prefería las analogías biológicas a las mecánicas:
+  - Las empresas nacen, crecen, maduran y mueren
+  - Los mercados evolucionan gradualmente
+  - El cambio es continuo, no discontinuo
+
+> "La Meca del economista está en la biología económica más que en la dinámica económica."
+**[Alfred Marshall, *Principles of Economics*]**
+
+- Esta visión lo diferenciaba de Walras, cuyo modelo era más cercano a la física newtoniana
+
+# **Parte II: Las contribuciones de Marshall** {background="#390040"}
+
+## La teoría de la demanda
+
+- Marshall perfeccionó y popularizó la **curva de demanda** derivada de la utilidad marginal
+- Innovación clave: colocó el **precio en el eje vertical** y la **cantidad en el horizontal**
+  - Esto invierte la convención de Cournot y Walras
+  - Razón: Marshall veía al precio como la variable *dependiente* de la cantidad
+
+> "La cantidad que se comprará de una mercancía depende de su precio."
+
+- Pero Marshall razonaba así: dado un stock de mercancía, ¿qué precio pagará el mercado?
+
+## La ley de la demanda
+
+- Marshall formuló la **ley de la demanda** de manera precisa:
+
+> "Cuanto mayor sea la cantidad que se ha de vender, menor será el precio al que se ofrecerá, para que pueda encontrar compradores."
+**[Alfred Marshall, *Principles of Economics*]**
+
+- Condiciones para que la ley se cumpla:
+  1. Gustos y preferencias constantes
+  2. Ingresos monetarios constantes
+  3. Precios de otros bienes constantes
+  4. Período de tiempo suficiente para el ajuste
+
+## El excedente del consumidor
+
+- Una de las contribuciones más célebres de Marshall fue la formalización del **excedente del consumidor**
+- Idea originalmente de Dupuit, pero Marshall le dio forma analítica precisa
+
+> **Excedente del consumidor.** Es la diferencia entre lo que un consumidor estaría dispuesto a pagar por una cantidad de un bien y lo que efectivamente paga.
+
+- Geométricamente: el área entre la curva de demanda y la línea de precio
+- Utilidad: medida del bienestar ganado por participar en el mercado
+
+## El excedente del consumidor (cont.)
+
+- Suponga que un consumidor compra $q$ unidades al precio $p$
+- El excedente del consumidor es:
+
+$$EC = \int_0^q [D(x) - p] dx$$
+
+- Donde $D(x)$ es la función de demanda inversa (precio en función de cantidad)
+- Marshall usó este concepto para analizar:
+  - Efectos de impuestos y subsidios
+  - Bienestar social de diferentes estructuras de mercado
+  - Justificación de intervención estatal
+
+## La elasticidad de la demanda
+
+- Marshall introdujo y popularizó el concepto de **elasticidad-precio de la demanda**:
+
+$$\varepsilon = \frac{\Delta Q / Q}{\Delta P / P} = \frac{dQ}{dP} \cdot \frac{P}{Q}$$
+
+- Clasificación:
+  - $|\varepsilon| > 1$: demanda elástica
+  - $|\varepsilon| < 1$: demanda inelástica
+  - $|\varepsilon| = 1$: elasticidad unitaria
+
+- Determinantes de la elasticidad según Marshall:
+  1. Disponibilidad de sustitutos
+  2. Proporción del ingreso gastada en el bien
+  3. Tiempo disponible para ajustar el consumo
+  4. Si el bien es de necesidad o de lujo
+
+## La teoría de la oferta: costos de producción
+
+- Marshall desarrolló una teoría completa de los **costos de producción**
+- Distinguió entre:
+  - **Costos fijos**: no varían con la producción (alquiler, maquinaria)
+  - **Costos variables**: varían con la producción (materias primas, trabajo)
+  - **Costo marginal**: costo de producir una unidad adicional
+  - **Costo medio**: costo total dividido por cantidad
+
+## Los rendimientos y la oferta
+
+- Marshall analizó sistemáticamente los **rendimientos**:
+
+| Tipo | Descripción | Pendiente de CMg |
+|------|-------------|------------------|
+| **Rendimientos constantes** | Costo por unidad no varía con escala | Horizontal |
+| **Rendimientos decrecientes** | Costo por unidad aumenta con escala | Positiva |
+| **Rendimientos crecientes** | Costo por unidad disminuye con escala | Negativa |
+
+- Los rendimientos decrecientes dominan en el **corto plazo** (factores fijos)
+- Los rendimientos crecientes pueden aparecer en el **largo plazo** (economías de escala)
+
+## Economías internas y externas
+
+- Una distinción crucial de Marshall:
+
+> **Economías internas.** Dependen de los recursos de las empresas individuales, de su organización y de la eficiencia de su gestión.
+
+> **Economías externas.** Dependen del desarrollo general de la industria, de la concentración de empresas similares, de la infraestructura común.
+
+- Las economías externas explican por qué ciertas industrias se concentran geográficamente
+- Anticipó la literatura moderna sobre *clusters* y aglomeraciones industriales
+
+## La distinción temporal: corto vs. largo plazo
+
+- Marshall introdujo la distinción fundamental entre **períodos de tiempo**:
+
+| Período | Características | Variables de ajuste |
+|---------|-----------------|---------------------|
+| **Período de mercado** | Oferta fija, sin producción | Solo precio |
+| **Corto plazo** | Algunos factores fijos (capital) | Precio y cantidad (vía trabajo) |
+| **Largo plazo** | Todos los factores variables | Precio, cantidad y capacidad |
+| **Período secular** | Cambios en gustos, tecnología, población | Todo cambia |
+
+- Esta clasificación permitió integrar análisis estáticos con intuiciones dinámicas
+
+## El equilibrio parcial
+
+- La herramienta analítica central de Marshall es el **equilibrio parcial**:
+  - Analiza **un mercado a la vez**
+  - Supone *ceteris paribus* (todo lo demás constante)
+  - La "tijera" de oferta y demanda determina precio y cantidad
+
+> "Es imposible progresar mucho en el estudio de cualquier problema complejo excepto dividiéndolo en sus partes componentes."
+**[Alfred Marshall]**
+
+- Ventajas: simplicidad, aplicabilidad práctica
+- Desventajas: ignora interdependencias entre mercados
+
+## La "tijera" marshalliana
+
+- El precio de equilibrio se determina donde la **oferta iguala a la demanda**
+- Marshall usó la famosa analogía de las **tijeras**:
+
+> "Podríamos discutir razonablemente si es la hoja superior o la inferior de una tijera la que corta un pedazo de papel, como si el valor está gobernado por la utilidad o por el costo de producción."
+**[Alfred Marshall, *Principles of Economics*]**
+
+- En el corto plazo, la demanda (utilidad) domina
+- En el largo plazo, la oferta (costos) domina
+- En equilibrio, **ambas determinan el precio conjuntamente**
+
+## La empresa representativa
+
+- Para analizar industrias con muchas empresas heterogéneas, Marshall introdujo el concepto de **empresa representativa**:
+
+> "Una empresa que tiene una cuota justa de las economías internas y externas que pertenecen al volumen agregado de producción."
+
+- Es una construcción teórica: la empresa "típica" o "promedio"
+- Permite derivar curvas de oferta de la industria a partir del comportamiento de una empresa representativa
+- Fue criticado por su ambigüedad (Robbins, Sraffa)
+
+# **Parte III: Marshall versus Walras** {background="#390040"}
+
+## Dos gigantes, dos visiones
+
+- Alfred Marshall (1842-1924) y Léon Walras (1834-1910) fueron los dos grandes sistematizadores del marginalismo
+- Ambos buscaban explicar la determinación de precios y cantidades
+- Pero sus **enfoques metodológicos** fueron radicalmente diferentes:
+
+| Aspecto | Marshall | Walras |
+|---------|----------|--------|
+| Formación | Matemático convertido a economista | Ingeniero, hijo de economista |
+| País | Inglaterra | Suiza (Lausana) |
+| Obra principal | *Principles of Economics* (1890) | *Éléments d'économie politique pure* (1874) |
+| Influencia | Dominó la economía anglosajona | Dominó la teoría del equilibrio general |
+
+## Diferencia 1: El método de análisis
+
+::: {.columns}
+::: {.column width="50%"}
+**Marshall: Equilibrio parcial**
+
+- Analiza **un mercado aislado**
+- Supuesto *ceteris paribus*
+- Interdependencias ignoradas
+- Más "realista" y aplicable
+- Analogía: el **microscopio**
+:::
+::: {.column width="50%"}
+**Walras: Equilibrio general**
+
+- Analiza **todos los mercados simultáneamente**
+- Sistema de ecuaciones simultáneas
+- Interdependencias explícitas
+- Más "riguroso" pero abstracto
+- Analogía: el **sistema solar**
+:::
+:::
+
+## Diferencia 2: El mecanismo de ajuste
+
+::: {.columns}
+::: {.column width="50%"}
+**Marshall: Ajuste por cantidades**
+
+- Ante desequilibrio, **las cantidades se ajustan**
+- Precio de demanda vs. precio de oferta
+- Si $P_D > P_O$: productores aumentan $Q$
+- Si $P_D < P_O$: productores reducen $Q$
+- Estabilidad: curva de $O$ más inclinada que $D$
+:::
+::: {.column width="50%"}
+**Walras: Ajuste por precios**
+
+- Ante desequilibrio, **los precios se ajustan**
+- Exceso de demanda vs. exceso de oferta
+- Si $Q_D > Q_O$: precio sube
+- Si $Q_D < Q_O$: precio baja
+- Estabilidad: condición de pendientes opuestas
+:::
+:::
+
+## Diferencia 2: Ilustración gráfica
+
+- En el **ajuste marshalliano**, dado un nivel de cantidad $Q_0$:
+  - Si el precio de demanda $P_D(Q_0) > P_O(Q_0)$: hay incentivo a producir más
+  - El ajuste es vía **cambios en la cantidad producida**
+
+- En el **ajuste walrasiano**, dado un nivel de precio $P_0$:
+  - Si $Q_D(P_0) > Q_O(P_0)$: hay exceso de demanda
+  - El ajuste es vía **cambios en el precio**
+
+- Ambos convergen al mismo equilibrio pero por **caminos diferentes**
+
+## Diferencia 3: El tratamiento del tiempo
+
+::: {.columns}
+::: {.column width="50%"}
+**Marshall: Tiempo explícito**
+
+- Distinción entre períodos temporales
+- Período de mercado, corto y largo plazo
+- La oferta varía según el horizonte
+- Proceso de ajuste gradual
+- Visión **evolutiva** y **biológica**
+:::
+::: {.column width="50%"}
+**Walras: Tiempo implícito**
+
+- Análisis esencialmente **atemporal**
+- *Tâtonnement* (tanteo) instantáneo
+- No hay producción fuera del equilibrio
+- Ajuste simultáneo de todos los mercados
+- Visión **mecánica** y **física**
+:::
+:::
+
+## Diferencia 4: La estabilidad del equilibrio
+
+- **Estabilidad marshalliana**: el equilibrio es estable si la curva de oferta es más empinada que la de demanda
+  - Condición: $\frac{dP_O}{dQ} > \frac{dP_D}{dQ}$
+
+- **Estabilidad walrasiana**: el equilibrio es estable si la demanda tiene pendiente negativa y la oferta positiva
+  - Condición: $\frac{dQ_D}{dP} < 0$ y $\frac{dQ_O}{dP} > 0$
+
+- En casos "normales" ambas condiciones coinciden
+- Pero pueden diferir con curvas de oferta de pendiente negativa (rendimientos crecientes)
+
+## Diferencia 5: La teoría del valor
+
+::: {.columns}
+::: {.column width="50%"}
+**Marshall: Síntesis clásico-marginalista**
+
+- El valor depende de **utilidad y costos**
+- En el corto plazo: utilidad domina
+- En el largo plazo: costos dominan
+- Metáfora de la tijera
+- Continuidad con los clásicos
+:::
+::: {.column width="50%"}
+**Walras: Subjetivismo puro**
+
+- El valor depende solo de la **utilidad marginal**
+- Los costos son precios de factores
+- Los precios de factores dependen de utilidad de productos
+- Ruptura con la tradición clásica
+- Circularidad resuelta por sistema simultáneo
+:::
+:::
+
+## Diferencia 6: El rol de las matemáticas
+
+::: {.columns}
+::: {.column width="50%"}
+**Marshall: Matemáticas como herramienta**
+
+- Las matemáticas son un **atajo**
+- Deben traducirse a lenguaje ordinario
+- Relegadas a apéndices y notas
+- Énfasis en la **intuición económica**
+- Estilo: verbal con gráficos auxiliares
+:::
+::: {.column width="50%"}
+**Walras: Matemáticas como lenguaje**
+
+- Las matemáticas son el **lenguaje natural** de la economía
+- Sistema de ecuaciones simultáneas
+- Demostraciones formales de existencia
+- Énfasis en el **rigor lógico**
+- Estilo: algebraico y formal
+:::
+:::
+
+## Diferencia 7: Visión del equilibrio
+
+::: {.columns}
+::: {.column width="50%"}
+**Marshall: Equilibrio como tendencia**
+
+- El equilibrio es un **centro de gravedad**
+- La economía tiende hacia él pero raramente lo alcanza
+- Los desequilibrios son la norma
+- Análisis de **procesos** de ajuste
+- Realismo metodológico
+:::
+::: {.column width="50%"}
+**Walras: Equilibrio como estado**
+
+- El equilibrio es un **estado lógico**
+- Condiciones para su existencia
+- Preocupación por unicidad y estabilidad
+- Análisis de **condiciones** de equilibrio
+- Idealismo metodológico
+:::
+:::
+
+## Tabla comparativa: Marshall vs. Walras
+
+| Dimensión | Marshall | Walras |
+|-----------|----------|--------|
+| **Método** | Equilibrio parcial | Equilibrio general |
+| **Ajuste** | Vía cantidades | Vía precios |
+| **Tiempo** | Explícito (CP, LP) | Implícito (*tâtonnement*) |
+| **Matemáticas** | Auxiliares | Centrales |
+| **Analogía** | Biología | Mecánica |
+| **Valor** | Utilidad + costos | Utilidad pura |
+| **Equilibrio** | Tendencia | Estado |
+| **Énfasis** | Aplicabilidad | Rigor |
+
+## ¿Quién tenía razón?
+
+- No hay una respuesta simple: **ambos enfoques son complementarios**
+
+- El **equilibrio parcial marshalliano** es útil para:
+  - Análisis de política sectorial
+  - Estudios de mercados específicos
+  - Intuición económica básica
+  - Enseñanza introductoria
+
+- El **equilibrio general walrasiano** es útil para:
+  - Teoría del bienestar
+  - Análisis de interdependencias
+  - Fundamentos de la macroeconomía
+  - Teoría económica avanzada
+
+> "El enfoque marshalliano y el walrasiano son como el análisis de equilibrio parcial y general: cada uno ilumina aspectos que el otro deja en sombra."
+
+# **Parte IV: Legado y valoración crítica** {background="#390040"}
+
+## El legado de Marshall
+
+1. **Herramientas analíticas perdurables**
+   - Curvas de oferta y demanda
+   - Excedente del consumidor
+   - Elasticidad
+   - Distinción corto/largo plazo
+
+2. **La Escuela de Cambridge**
+   - Formó a Pigou, Keynes, Robertson, Sraffa
+   - Dominó la economía británica hasta los 1930s
+   - Tradición de economía aplicada y reformista
+
+3. **Estilo de hacer economía**
+   - Matemáticas al servicio de la intuición
+   - Ejemplos concretos
+   - Preocupación por la relevancia práctica
+
+## Críticas a Marshall
+
+1. **Ambigüedad conceptual**
+   - La "empresa representativa" nunca fue definida con precisión
+   - El tratamiento del tiempo es confuso en algunos pasajes
+   - Sraffa (1926) criticó la inconsistencia de rendimientos crecientes con competencia perfecta
+
+2. **Limitaciones del equilibrio parcial**
+   - Ignora efectos de retroalimentación entre mercados
+   - Puede dar resultados erróneos con grandes cambios
+   - El supuesto *ceteris paribus* es irreal
+
+3. **Falta de fundamentos microeconómicos rigurosos**
+   - La teoría del consumidor no está completamente desarrollada
+   - La teoría de la empresa es informal
+   - Fue superado por la revolución formalista posterior
+
+## Marshall y la economía moderna
+
+- A pesar de las críticas, la influencia de Marshall perdura:
+  - Los libros de texto de microeconomía siguen su estructura básica
+  - El análisis de oferta y demanda es *la* herramienta del economista
+  - La preocupación por la aplicabilidad sigue siendo valorada
+
+> "Todos los economistas modernos son, en algún sentido, herederos de Marshall."
+**[Mark Blaug]**
+
+- Sin embargo, la teoría económica formal siguió más a Walras que a Marshall
+- El equilibrio general de Arrow-Debreu es walrasiano, no marshalliano
+
+## La síntesis marshalliana
+
+- Marshall logró una **síntesis notable**:
+  - Integró la teoría clásica del valor-costo con el marginalismo
+  - Combinó rigor analítico con relevancia práctica
+  - Unió preocupación teórica con reforma social
+
+- Su visión de la economía como disciplina:
+  - Ni pura matemática ni mera descripción
+  - Un **motor de análisis** para entender y mejorar el mundo
+  - Una ciencia al servicio de la humanidad
+
+> "Los economistas deben estudiar los hechos tal como son, y no como desearían que fueran."
+**[Alfred Marshall]**
+
+# **Bibliografía** {background="#390040"}
+
+## Lecturas principales
+
+- **Roncaglia, A.** (2006). *La riqueza de las ideas*. Capítulo 10: "Alfred Marshall y la escuela de Cambridge".
+- **Ekelund, R.B. y Hébert, R.F.** (2005). *Historia de la teoría económica y de su método*. Capítulo 14: "Alfred Marshall y la teoría neoclásica".
+- **Schumpeter, J.A.** (1954). *History of Economic Analysis*. Part IV, Capítulo 5.
+
+## Lecturas complementarias
+
+- **Marshall, A.** (1890). *Principles of Economics*. Libro V (especialmente capítulos 1-5 sobre equilibrio de oferta y demanda).
+- **Groenewegen, P.** (1995). *A Soaring Eagle: Alfred Marshall 1842-1924*. [Biografía definitiva]
+- **Whitaker, J.K.** (ed.) (1975). *The Early Economic Writings of Alfred Marshall, 1867-1890*.
+
+## Preguntas para reflexionar
+
+1. ¿Por qué Marshall eligió el equilibrio parcial en lugar del equilibrio general de Walras? ¿Fue una elección metodológica o sustantiva?
+
+2. ¿Es posible reconciliar los rendimientos crecientes con la competencia perfecta, como intentó Marshall?
+
+3. ¿Qué perdemos al ignorar las interdependencias entre mercados que el equilibrio parcial supone constantes?
+
+4. ¿Sigue siendo relevante la distinción marshalliana entre corto y largo plazo en la economía contemporánea?
+
+5. Si Marshall hubiera conocido las técnicas matemáticas modernas, ¿habría adoptado el enfoque de equilibrio general?

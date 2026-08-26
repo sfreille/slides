@@ -1,0 +1,71 @@
+---
+title: Sample Slides 2
+subtitle: Using Original Quarto CSS with Preferred Settings
+author: Sebastian Freille
+institute: Universidad Nacional de Córdoba
+format:
+  revealjs:
+    embed-resources: true
+    slide-number: true
+    preview-links: auto
+    css: quarto1.css
+    width: 1500
+    center-title-slide: true
+    center: true
+    tbl-cap-location: bottom
+    toc: true
+    toc-depth: 1
+    toc-title: Outline
+    link-external-newwindow: true
+lang: es
+---
+
+# Introduction {background="#43464B"}
+
+## What is this?
+
+- This is a **sample slide** using the original Quarto CSS
+- It uses `quarto.css` and `quarto2.css` for styling
+- Helvetica/Arial font family
+
+## Features
+
+1. Clean, simple styling
+2. Black text on white background
+3. Large 40px base font size
+4. Compact line spacing
+
+# Content Examples {background="#43464B"}
+
+## Text and Lists
+
+Here's some sample content:
+
+- First bullet point
+  - Nested item
+  - Another nested item
+- Second bullet point
+- Third bullet point
+
+## Blockquotes
+
+> "The only way to do great work is to love what you do."
+**[Steve Jobs]**
+
+## Math and Code
+
+The quadratic formula: $x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$
+
+```python
+def hello_world():
+    print("Hello, World!")
+```
+
+# Conclusion {background="#43464B"}
+
+## Summary
+
+- This theme uses your original CSS styling
+- Helvetica/Arial fonts throughout
+- Clean, minimal design
+- Good for general presentations

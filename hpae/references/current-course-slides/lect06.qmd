@@ -1,0 +1,390 @@
+---
+title: Historia del Pensamiento y del Análisis Económico
+subtitle: U4.
+---
+
+# **Economía y sociedad en la escuela clásica** {background="#390040"}
+
+## La segunda generación de economistas clásicos
+
+- Si uno puede distinguir generacionalmente a los clásicos, podemos
+  decir que Smith, Ricardo y Malthus pertenecieron a la primera
+  generacion (también James Mill) mientras que Senior, JS Mill y Cairnes
+- Dos cosas son importantes de notar
+  - La distinción generacional es tanto a nivel de la madurez y
+    desarrollo de las ideas pero también de contexto histórico
+  - En general se mantuvieron dentro de un mismo cuerpo de principios
+    generales sobre los que todos acordaban en mayor o menor medida
+	
+## La tradición ricardiana: contexto
+
+- Ricardo poseía indudablemente una autoridad muy fuerte en la época
+  --tal es así que constituyó el modelo canónico durante 50 años luego
+  de la publicación de sus *Principios*
+- Surgió intensa actividad de debate político y económico --el
+  *Political Economy Club*; incluso cuestionando cuánto de la
+  contribución ricardiana quedaba en pie
+  - debate económico entrecruzado con debate político (líneas
+    reformistas, conservadoras)
+- Debate económico sin embargo acotado a Inglaterra --centro de
+  cultura europea y mundial era Londres, no París [industrialización,
+  anglocentrismo de historiadores, personalidades influyentes]
+  
+## Los "ricardianos": Robert Torrens 
+
+- Crítico de la teoría del valor trabajo, este oficial de los Royal
+  Marines y miembro del Parlamento fue uno de los fundadores del
+  *Political Economy Club* y uno de sus miembros más activos
+- Intervino en debate sobre efectos económicos del bloqueo napoleónico
+  y atacó a la Fisiocracia --el sector manufacturero también produce
+  excedente no sólo la agricultura
+  - destacó las ventajas del comercio al favorecer la división del
+    trabajo
+- Sus ideas sobre la teoría de la renta no fueron superiores a las de
+  Ricardo
+
+## Los "ricardianos": Robert Torrens (cont.)
+
+- Contribuyó una teoría del comercio internacional basada en los
+  costes comparados --misma mercancía en diferentes países- a
+  diferencia de Ricardo --estructura de costes entre diferentes
+  mercancías. 
+- Criticó la rígida proporcionalidad entre precios relativos y la
+  cantidad de trabajo contenida en las mercancías; resaltaba las
+  "excepciones" 
+  - $TVT$ ricardiana debía rechazarse y reemplazarse por una teoría
+    general
+- "Es siempre la cantidad de capital, y nunca la cantidad de
+  trabajo...lo que determina el valor de cambio de las mercancías"
+
+## Los "ricardianos": Robert Torrens (cont.)
+
+- Cayó en razonamiento circular $\longrightarrow$ si los precios
+  relativos de las mercancías se explican por los valores de los
+  capitales, ¿cómo determinamos el valor de los capitales?
+- Acercó ejemplos e intuiciones pertinentes pero fue poco riguroso e
+  impreciso en su análisis
+- Su teoría de los precios basada en la dificultad de producción
+  expresada en términos físicos (cantidad de medios de producción
+  usados para un $Y$ dado más que cantidad de trabajo directa e
+  indirectamente incoporado)
+
+## Los "ricardianos": Robert Torrens (cont.)
+
+- Promovía una política comercial de tipo recíproca, no acordaba con
+  la posición librecambista unilateral
+- Fue uno de los principales proponentes de la *Currency School* en
+  temas monetarios
+  - convertibilidad de papel moneda (en oro) necesaria pero no
+    suficiente para mantener sistema estable; proponía limitación
+    rigurosa a la emisión de papel moneda; división del BoE en
+    emisión y banca (Peel Act en 1844)
+	
+## Los "ricardianos": Samuel Bailey
+
+- Samuel Bailey fue más allá de la idea de que había una "sustancia de
+  valor" o un "valor absoluto" incorporado en los bienes
+  - sostenía que el valor de cambio dependía de la valoración de los
+    agentes económicos en el acto de intercambio
+- Distinguía bienes de: 1) lmonopolio; 2) costos
+  crecientes; y 3) costos constantes. Teoría ricardiana sólo válida
+  para los terceros 
+- Bailey decía que los segundos eran más relevantes en el mundo real 
+  - para estos la relación entre valoración relativa de compradores y
+    escasez (relativa) era la clave
+	- precursor de pensamiento utilitarista y marshalliano!
+   
+## Los "ricardianos": Samuel Bailey (cont.)
+
+- Fue de los pocos que avanzaron en la tradición del valor subjetivo
+  - crítica de Bailey "los economistas intentan demasiado cuando
+    quieren resolver todas las causas del valor en una, reduciendo así
+    la ciencia a una simplicidad que ella no admite" $\longrightarrow$
+    pretensión de la economía *reductio ad unum* 
+- Esto era esencialmente una crítica directa a los exponentes de las
+  explicaciones metafísicas para la noción de valor (que estaba
+  presente en todas las variantes de la TVT)
+
+## Los "ricardianos": Thomas de Quincey
+
+## Los "ricardianos": John Ramsey McCulloch
+
+## Los "ricardianos": los socialistas y cooperativistas
+
+## William Nassau Senior y el anti-ricardianismo
+
+## John Stuart Mill [1806-1873]
+
+- Publicó su principal obra económica en 1848 con el libro *Principles
+  of Political Economy*
+  - En muchos aspectos, JS Mill representa la culminación (y
+    actualización) de una larga línea de evolución del pensamiento
+    económico desde Adam Smith 
+- No sólo fue economista sino un lógico sobresaliente y un referente
+  de la filosofía --escribió sobre moral, ciencia política 
+  - Fue la figura más dominante del pensamiento contemporáneo en
+    círculos políticos y académicos
+
+## John Stuart Mill [1806-1873] (cont.)
+
+- Su *Autobiografía* de 1873 es una lectura imperdible y relevante
+  para cualquier estudiante del amplio campo de las disciplinas
+  sociales
+- No tuvo una infancia feliz debido a la rigidez impuesta en su
+  crianza por su padre $\longrightarrow$ desde muy corta edad estudió
+  Latín y Griego
+  - James Mill era proponente de *in-house education* y eso utilizó
+    con JS Mill
+- Era una persona brillante pero con una desconexión emocional
+  significativa $\longrightarrow$ tuvo un colapso nervioso en su
+  juventud
+  
+  
+## John Stuart Mill [1806-1873] (cont.)
+
+![La humildad de un gran pensador](../_shared/images/hpae/fig-quote-mill-humility.png){#fig-precios}
+
+  
+## John Stuart Mill [1806-1873] (cont.)
+
+- Eventualmente luego de un período difícil en sus 20's, tuvo un
+  despertar espiritual y emocional de la mano de la poesía
+  --fundamentalmente a Wordsworth y Coleridge. 
+- Adicionalmente logró estabilidad emocional cuando se enamoró
+  (*platónicamente* en sentido literal) de Harriet Taylor y luego de
+  un tiempo se casaron
+  - tal es el amor y la influencia que Harriet tuvo sobre JS Mill que
+    la inscripción sobre la tumba de su esposa es famosa por lo
+    extensa y extravagante
+	
+## John Stuart Mill [1806-1873] (cont.)
+
+![La extravagante tumba de Harriet Taylor](../_shared/images/hpae/fig-photo-harriet-taylor-tomb.png){#fig-precios}
+
+
+## John Stuart Mill [1806-1873] (cont.)
+
+- Escribió muchas de sus mejores obras en los últimos años de su vida
+  - *Liberty* en 1859
+  - *Utilitarianism* en 1877
+  - *Representative Government* en 1861
+  - *The Subjection of Women* en 1870
+- Sus aportes fueron tanto a nivel de teoría económica como de sus
+  aplicaciones 
+- Los *Principles* estan compuestos por dos voúmenes y cinco libros en
+  total: 1) *Production*, 2) *Distribution*, 3) *Exchange and money*,
+  4) *Influence of the Progress of Society on Production and Distribution*, 5) *The Influence of Government*
+  
+## John Stuart Mill [1806-1873] (cont.)
+
+- Como pensador político y social, Mill tocó cuatro areas principales
+  1. el problema del método en las ciencias sociales
+  2. la clarificación del principio de utilidad (benthamita)
+  3. la libertad individual
+  4. la teoría del gobierno representativo
+- La exposición a la poesía y literatura también influyó en su
+  posición y sentimientos no en forma de apoyo a las críticas de los
+  románticos al industrialismo y la economía política sino como
+  catalizador de ideas y revisiones de ideas pasadas
+
+## John Stuart Mill [1806-1873] (cont.)
+
+- Distinguió entre las *leyes económicas de la producción* y las
+  *leyes sociales de la distribución* porque
+  consideró que las primeran era de aplicación
+  universal ("leyes naturales") mientras que las segundas no eran
+  invariables y no sólo sujetas a fuerzas económicas --función de
+  arreglos institucionales (instituciones que a su vez son función de
+  culturas, normas, etc)
+- Aquí puede verse claramente la influencia de Comte y sus ideas sobre
+  las leyes históricas --etapa tecnológica, etapa metafísica y etapa
+  positiva
+  
+## John Stuart Mill [1806-1873] (cont.)
+
+- De hecho a pesar de la influencia de Comte --quien acuñó el termino
+  *sociología* y fue el padre del positivismo en el sentido de
+  empirismo/inducción, Mill fue crítico de Comte
+- Defendió la economía como una ciencia independiente y valorizó el
+  método hipotético deductivo ricardiano como algo útil
+  - Valoraba el método empírico/inductivo pero decía que no podía sólo
+    brindar explicación de fenómenos complejos entrelazados
+- Logró así conciliar un delicado equilibrio entre los extremos
+  inductivo y deductivo del método económico
+  
+## John Stuart Mill [1806-1873] (cont.)
+
+- En consecuencia con lo que pensaba, en *teoría* reforzó y amplió el
+  esquema ricardiano --y su obra y sistematización prevaleció aún más
+  que el de Ricardo (era mucho más digerible); sus *Principios* se
+  usaron durante 40 años para enseñar economía --al menos hasta que
+  Marshall publicase sus *Principios de Economía* en 1890
+- Ese eclecticismo económico de que imprimera a su obra sería
+  importante para poder darle una flexibilidad al tratamiento de
+  muchos temas 
+  
+  
+## John Stuart Mill [1806-1873] (cont.)
+
+- Mill tuvo ideas sobre la **producción** en línea con el núcleo de la
+  escuela clásica $\longrightarrow$ dada la **ley de Say**, el empleo
+  y los aumentos de producción dependían de la acumulación e inversión
+  del capital
+- El desempleo de recursos simplemente no era considerado una
+  posibilidad por la Ley de Say --Mill, a diferencia de Malthus, nunca
+  consideró que pudiera producirse una falta de demanda agregada en el sistema 
+  
+## John Stuart Mill [1806-1873] (cont.)
+
+> **La Ley de Say**. Conocida escuetamente como la proposición de que
+> **toda oferta crea su propia demanda** -en términos de agregados, la
+> idea es que en el proceso de producción se genera exactamente la
+> renta necesaria para adquirir la producción obtenida y que toda la
+> renta así generada se gastará para comprar esa producción
+> ("vaciamiento del mercado"), fue enunciada por el economista francés
+> Jean Baptiste Say que era discípulo de Smith. Practicamente toda la
+> escuela clásica con la notable excepción de Malthus admitía esta ley
+> como una de las premisas básicas. 
+
+# **Contribuciones económicas de John Stuart Mill** {background="#390040"}
+
+## Sobre la producción
+
+- Mill tuvo ideas sobre la **producción** en línea con el núcleo de la
+  escuela clásica $\longrightarrow$ dada la **ley de Say**, el empleo
+  y los aumentos de producción dependían de la acumulación e inversión
+  del capital
+- El desempleo de recursos simplemente no era considerado una
+  posibilidad por la Ley de Say --Mill, a diferencia de Malthus, nunca
+  consideró que pudiera producirse una falta de demanda agregada en el sistema 
+
+## Sobre el crecimiento económico
+
+- En temas de **crecimiento económico**, coincidió con Ricardo que una
+  gran limitante al crecimiento eran los rendimientos decrecientes en
+  la agricultura; otro límite era la disminución del incentivo a
+  invertir
+- Pero a diferencia de Ricardo, Mill se centró en las variables
+  fundamentales de la acumulación de capital: 1) crecimiento
+  poblacional, 2) tecnología
+- Coincidió en que la economía se veía empujada desde un estado
+  progresivo a un estado estacionario 
+  - pero no lo consideró algo indeseable porque ese estado permitía un
+    **programa de reforma social**!
+
+## Sobre la determinación del precio de equilibrio
+
+- Avanzó la **teoría de la determinación del precio de equilibrio
+  estático** en   varios frentes
+  - sugirió aislar (abstraer) todos los factores que incidían
+    *exógenamente* sobre precio y cantidad
+  - formuló $O$ y $D$ como *listas* de $p$ y $q$ con aplicación del
+    *ceteris paribus*
+  - casi toda esta discusión (ver cita siguiente) es novedosa y
+    moderna en el sentido de que rompe con la circularidad típica de
+    la escuela clásica $\longrightarrow$ $D$ depende en parte del
+    valor pero que el valor viene determinado por la $D$
+
+## Sobre la determinación del precio de equilibrio (cont.)
+
+![Sobre relaciones y ecuaciones](../_shared/images/hpae/fig-text-mill-relations-equations.png){#fig-precios}
+
+
+## Sobre la determinación del precio de equilibrio (cont.)
+
+- Entendió y presentó claramente las diferencias entre *variaciones en
+  la demanda* y *variaciones en la cantidad demandada*  aunque no lo
+  hizo gráfica sino verbalmente
+- Fue basicamente un precursor en este sentido hasta que Jenkin y
+  Marshall lo presentaron y explicaron graficamente
+  
+
+## Sobre la oferta conjunta
+
+- Una contribución importante fue la de los **bienes ofrecidos
+  conjuntamente** en el marco de la discusión de algunos casos
+  especiales en la teoría del valor --el carbón de coque y el gas;
+  carnero y la lana; carne, cuero y sebo
+- Su pregunta era ¿dada una función de costo qué parte de los
+  beneficios de las dos producciones por separado debe atribuirse a
+  los bienes producidos conjuntamente?
+- Supuso que los bienes se *producían conjuntamente en proporciones
+  fijas* y argumentó que el precio de cada producto debía ser el que
+  despeje a *su* mercado sujeto a la *condición de que la suma de los
+  precios sea igual a sus costos conjuntos (promedio)*. 
+
+## Sobre la oferta conjunta (cont.)
+
+![La oferta conjunta](../_shared/images/hpae/fig-diagram-ricardo-additional.png){#fig-precios}
+
+## Sobre la oferta conjunta (cont.)
+
+- Marshall terminó aplicando todo el análisis gráfico que Mill no
+  utilizó pero su comprensión fue no obstante muy aguda. Es util
+  anticiparse a su análisis en este punto
+- Hay una oferta conjunta de bueyes $SS$ --función de coste medio- y y
+  una demanda total de bueyes $DD$ --suma vertical de $D$ de carne ($dd$) y
+  pieles (residuo, resta)
+- Para una cantidad $OM$ de bueyes, $MB$ es el precio de $D$ de carne
+  y $AB$ el precio de demanda de pieles
+  - pero también hay una *curva de oferta de carne* --restando el $p$
+    de demanda de pieles (AB) del $p$ de oferta de bueyes y resulta ME
+    --precio de oferta de carnes- y EC --precio de oferta de pieles. 
+	
+## Sobre la oferta conjunta (cont.)
+
+- El equilibrio competitivo se alcanza cuando se producen ON bueyes
+  --precio de la carne NF se por intersección de $dd$ y $ss$ y precio
+de las pieles GF de manera similar
+- Note:
+  - Un aumento de la $D$ de uno de los bienes (pieles) aumenta la oferta del
+    otro (carne) y reduce su precio
+  - Un aumento del costo medio global ($SS$) eleva el precio de ambos
+    bienes
+- Este modelo de Mill-Marshall es muy relevante en relación a modelos
+  de producción de bienes conjuntos como es el caso en muchos
+  servicios públicos, economía del transporte.
+
+
+## Sobre la estática y la dinámica
+
+- Otra distinción fundamental que Mill hace es entre la *estática* y
+  la *dinámica* en la economía política --tal vez lo tomó de la
+  influencia que ejercio Augusto Comte en él $\longrightarrow$ esta
+  distinción aún con sus matices ha persistido hasta la economía de
+  nuestros días
+- Existe una cierta idea de que JS Mill no fue un autor original, que
+  en el mejor de los casos un brillante
+  sistematizador de la economía política 
+  - difícil de sostener $\longrightarrow$ eminencias como George
+    Stigler han destacado la originalidad de Mill en temas económicos
+  
+## Sobre el mercado de trabajo y salarios
+
+- Mill elabora una gran contribución en el análisis del mercado de
+  trabajo y salarios 
+  - Se interesó por el rol de los sindicatos $\longrightarrow$
+    argumentó que había dos tipos de combinaciones
+	1. aquellas orientadas a **subir el nivel general de salarios**
+	2. aquellas orientadas a **subir salarios en ciertas ocupaciones** 
+- En esencia, vio que la acción de los sindicatos --*trade unions*-
+  era parte y esencia del mecanismo de formación de precios en los
+  mercados de trabajo
+  
+## Sobre el mercado de trabajo y salarios
+
+![Discusión de rol de sindicatos](../_shared/images/hpae/fig-text-mill-unions.png){#fig-precios}
+
+## Sobre el mercado de trabajo y salarios
+
+- Argumenta en forma optimista usando la doctrina del fondo de
+  salarios que los trabajadores, si logran organizarse, podrían
+  **reducir las horas trabajadas** y seguir obteniendo el mismo salario
+  - pero reconoce que la clase trabajadora es demasiado numerosa y
+    dispersa como para lograrlo
+- No obstante cuando argumenta sobre el **nivel de salarios** es mas
+  cauto sobre beneficios a trabajadores
+  - "si apuntan a un salario mayor al determinado por $O$ y $D$, eso
+    sólo podría lograrse a costa de un número de personas que
+    permanezcan permanentemente en desempleo"
+	

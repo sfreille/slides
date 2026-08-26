@@ -1,0 +1,145 @@
+---
+title: "UXX. [Tema de la clase]"
+subtitle: "Historia del Pensamiento y del Análisis Económico"
+author: "Sebastian Freille"
+---
+
+# Apertura y hoja de ruta {background="#43464B"}
+
+## [1/8] Pregunta guia de la clase
+
+- Pregunta central que organiza toda la clase
+- En una frase: por que este tema importa para entender la historia del analisis economico
+- Puente con el presente: "si esto te suena actual, no es casualidad"
+
+## [1/8] Mapa de navegacion
+
+- Bloque 1: contexto historico
+- Bloque 2: problema teorico
+- Bloque 3: autores y argumentos
+- Bloque 4: debate y legado
+- Cierre: que nos deja para la siguiente unidad
+
+## [1/8] Conexion con la clase anterior
+
+- Dos ideas que deben estar frescas
+- Una tension que sigue abierta
+- Aviso: que vamos a corregir/expandir hoy
+
+# Bloque 1. Contexto historico {background="#43464B"}
+
+## [2/8] Coordenadas historicas minimas
+
+- Cuando y donde estamos parados
+- Shock politico/social/institucional relevante
+- Restricciones materiales (comercio, tecnologia, Estado, guerra, etc.)
+
+## [2/8] Evidencia visual del contexto
+
+![](../_shared/images/hpae/[fig-contexto.png]){fig-align="center"}
+
+## [2/8] Conceptos que entran en juego
+
+- Concepto A: definicion operativa corta
+- Concepto B: definicion operativa corta
+- Concepto C: definicion operativa corta
+
+# Bloque 2. Problema teorico {background="#43464B"}
+
+## [3/8] El problema economico que intentan resolver
+
+- Pregunta teorica explicita
+- Que observaban en la realidad
+- Que no podian explicar con marcos previos
+
+## [3/8] Supuestos clave (sin maquillar anacronismos)
+
+- Supuesto 1
+- Supuesto 2
+- Supuesto 3
+
+## [4/8] Mecanismo causal propuesto
+
+- Paso 1 -> paso 2 -> paso 3
+- Donde aparece la intuicion economica fuerte
+- Donde aparece el limite del enfoque
+
+# Bloque 3. Autores y argumentos {background="#43464B"}
+
+## [5/8] Autor 1: tesis central y aporte
+
+- Tesis en una linea
+- Argumento principal
+- Implicancia para politica economica / orden social
+
+## [5/8] Autor 2: tesis central y aporte
+
+- Tesis en una linea
+- Continuidad o ruptura respecto de Autor 1
+- Que agrega al debate
+
+## [6/8] Comparacion rapida
+
+::: {.columns}
+::: {.column width="50%"}
+**Coincidencias**
+
+- Punto comun 1
+- Punto comun 2
+:::
+::: {.column width="50%"}
+**Diferencias**
+
+- Ruptura 1
+- Ruptura 2
+:::
+:::
+
+# Bloque 4. Debate historiografico {background="#43464B"}
+
+## [7/8] Lectura de Roncaglia (espina dorsal)
+
+- Que rescata Roncaglia de este episodio
+- Que problema de metodo ayuda a evitar
+- Como conecta con la evolucion de la disciplina
+
+## [7/8] Complementos (Schumpeter / Ekelund-Colander)
+
+- Donde complementan a Roncaglia
+- Donde tensionan su lectura
+- Que gana/perde cada enfoque
+
+## [7/8] Malentendidos frecuentes (cont.)
+
+- "Mito 1" -> correccion breve
+- "Mito 2" -> correccion breve
+- "Mito 3" -> correccion breve
+
+# Cierre operativo {background="#43464B"}
+
+## [8/8] Que queda claro al terminar esta clase
+
+- Idea fuerza 1
+- Idea fuerza 2
+- Idea fuerza 3
+
+## [8/8] Preguntas para llevarse
+
+- Pregunta de comparacion historica
+- Pregunta de actualidad economica
+- Pregunta para abrir la siguiente unidad
+
+## [8/8] Bibliografia base y sugerida
+
+- Roncaglia, capitulo/seccion [x]
+- Schumpeter, tomo/capitulo [x]
+- Ekelund y Colander, capitulo [x]
+- Lectura extra (paper o fuente primaria)
+
+<!--
+Notas de uso (no proyectar):
+- Mantener encabezados [n/8] para que el curso sea navegable.
+- Usar "(cont.)" solo cuando se retoma una secuencia inmediata.
+- Priorizar densidad conceptual y ejemplos antes que "resumir por resumir".
+- Evitar reconstruccion cosmetica: cada bloque debe responder a una pregunta analitica.
+-->

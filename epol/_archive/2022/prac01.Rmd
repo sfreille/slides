@@ -1,0 +1,81 @@
+---
+title: Economía Política
+subtitle: Unidad 2. En la vida hay que elegir. ¿Cómo eligen las sociedades?
+author: |
+  | **Sebastián Freille**
+  | sfreille@unc.edu.ar
+  | Licenciatura en Economía
+  | FCE-UNC
+output:
+  html_document:
+    center: true
+    highlight: pygments
+    transition: slide
+    css: ..\style.css
+runtime: shiny_prerendered
+header-includes:
+  - \usepackage{amsmath}
+  - \usepackage{amsthm}
+  - \usepackage{cancel}
+  - \usepackage{tcolorbox}
+  - \newtcolorbox{myquote}{colback=cyan!35!white, colframe=cyan!85!black}
+  - \renewenvironment{quote}{\begin{myquote}}{\end{myquote}}
+---
+
+```{r setup, include=FALSE}
+library(shiny)
+library(learnr)
+```
+
+Ejercitación, práctica y ensayos
+
+1. Considere 3 (tres) votantes indexadas por $i \in {1,2,3}$, cada una caracterizada por un parámetro intrínseco $\alpha^{i}$, donde $\alpha^{1}<\alpha^^{2}<\alpha^{3}$. El agente $i$ deriva utilidad $W(q_{j};\alpha^{i}$ de la política $q_{j}$. Se pueden implementar 3 (tres) posibles políticas, $q_{j} \in {q_{1},q_{2},q_{3}}$. La política se elige usando la regla de mayoría simple.
+  a. Las preferencias del agente $i \in {1,2,3}$ son tales que:
+$$\begin{aligned}
+W(q_{1};\alpha^{1}) > W(q_{3};\alpha^{1}) > W(q_{2};\alpha^{1})\\
+W(q_{2};\alpha^{2}) > W(q_{1};\alpha^{2}) > W(q_{3};\alpha^{2})\\
+W(q_{3};\alpha^{3}) > W(q_{2};\alpha^{3}) > W(q_{1};\alpha^{3})
+\end{aligned}$$
+
+Además, la agenda es *abierta* y el voto es sincero. Pruebe que no existe un ganador bajo regla de mayoría simple. Discuta
+
+2. Suponga que los agentes tienen las mismas preferencias que en el inciso anterior pero ahora el agente 1 es quien fija agenda. El selecciona 2 (dos) rondas de votación en las que todos los agentes votan sinceramente. ¿Cuál es la agenda óptima de votación desde las perspectivas del agente 1?
+
+3. Suponga ahora que el agente 1 fija la agenda y los agentes 2 y 3 votan sinceramente. ¿Puede el agente 3 mejorar su bienestar votando estratégicamente? Discuta
+
+4. Suponga que los agentes tienen la siguientes preferencias
+
+$$\begin{aligned}
+W(q_{1};\alpha^{1}) > W(q_{2};\alpha^{1}) > W(q_{3};\alpha^{1}) \\
+W(q_{2};\alpha^{2}) > W(q_{1};\alpha^{2}) > W(q_{3};\alpha^{2}) \\
+W(q_{3};\alpha^{3}) > W(q_{2};\alpha^{3}) > W(q_{1};\alpha^{3})
+\end{aligned}$$
+
+con $q_{1} < q_{2} < q_{3}$. ¿Existe un ganador de Condorcet? Explique
+
+5. Suponga que las preferencias del agente 2 son tales que:
+$$\begin{aligned}
+W(q_{2};\alpha^{2}) > W(q_{1};\alpha^{2}) > W(q_{3};\alpha^{2})
+\end{aligned}$$
+
+con $q_{1} < q_{2} < q_{3}$. Construya las preferencias (ordenamiento) de los agentes 1 y 3 de modo que verifiquen la propiedad de cruce único. Luego, muestre que el votante mediano es un ganador de Condorcet.
+
+6. Muestre que la existencia de un ganador de Condorcet no requiere que cada votante tenga preferencias de pico único construyendo un modelo simulado de3 (tres) votantes -$A$, $B$, y $C$- y 3 (tres) alternativas, $x$, $y$, y $z$. Suponga que la preferencia de cada votante no exhibe indiferencia entre ningún par posible de alternativas y use la notacion $\succ$ para denotar su ordenamiento de preferencias
+
+7.
+
+```{r addition, exercise=TRUE}
+1 + 1
+```
+
+
+```{r letter-a, echo=FALSE}
+question("What number is the letter A in the English alphabet?",
+  answer("8"),
+  answer("14"),
+  answer("1", correct = TRUE),
+  answer("23")
+)
+```
+
+

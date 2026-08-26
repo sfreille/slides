@@ -1,0 +1,479 @@
+---
+title: Economía Política
+subtitle: Unidad 3. La Democracia es el peor sistema de gobierno (con excepción de todas las demas)
+author: |
+  | **Sebastián Freille**
+  | sfreille@unc.edu.ar
+  | Licenciatura en Economía
+  | FCE-UNC
+
+output:
+  revealjs::revealjs_presentation:
+    center: true
+    highlight: pygments
+    transition: slide
+    css: ..\style.css
+header-includes:
+  - \usepackage{amsmath}
+  - \usepackage{amsthm}
+  - \usepackage{cancel}
+  - \usepackage{tcolorbox}
+  - \newtcolorbox{myquote}{colback=cyan!35!white, colframe=cyan!85!black}
+  - \renewenvironment{quote}{\begin{myquote}}{\end{myquote}}
+  - \usepackage{hyperref}
+  - \hypersetup{colorlinks=TRUE,linkcolor=black,urlcolor=blue}
+---
+
+> El poder no es un medio, sino un fin en si mismo. No se establece una dictadura para salvaguardar una revolución; se hace la revolución para establecer una dictadura\
+**[George Orwell, *1984* (1949)]**
+
+# Democracia en el mundo
+
+- Hechos estilizados
+- Indices de democracia y democratización
+- Democracia y desarrollo económico
+
+## La democracia no es una constante
+
+- No siempre ni en todo momento y lugar hubo democracia.
+  - En 1800, sólo 4% eran democracias
+  - En 1900, 22% de países eran democracias
+  - En 2020, más del 60% son democracias
+- El fin de la 1GM recuperó muchas democracias pero fueron de corta duración --entre 1920 y 1940, muchas reviertieron al autoritarismo
+- Episodios de desestabilización democrática frecuentes en últimas décadas --no sólo en LATAM, Asia y Africa sino en América del Norte y Europa
+  - *Democratic backsliding*
+
+## La democracia se ha expandido...
+
+![El ascenso de la democracia en los últimos 200 años](fig/fig-03-001.png){#fig:03001 width=100%}
+
+## ...pero no tan rápido ni sostenido
+
+![La "edad" de las democracias electorales](fig/fig-03-002.png){#fig:03002 width=100%}
+
+## ¿Cómo mueren las democracias?
+
+- Dos formas en que las democracias mueren
+  - A manos de *hombres con armas*
+    - Argentina, Brasil, Ghana, Grecia, Guatemala, Nigeria, Pakistan, Tailandia, Turquía y Uruguay durante guerra fría
+    - Egipto y Tailandia en 2013/2014
+  - A manos de *líderes electos*
+    - Hitler en Alemania, Chávez en Venezuela
+    - Pero también en Hungría, Nicaragua, Perú, Filipinas, Polonia, Rusia, y Turquia.
+- Levitsky and Ziblatt (2018), *How democracies die*
+
+## Clasificación de las democracias
+
+- Desafiante comparar y clasificar diferentes países. Esfuerzos como V-Dem (https://www.v-dem.net/):
+  1. **Autocracias cerradas** $\longrightarrow$ sin derecho a elegir ni al ejecutivo ni al legislativo
+  2. **Autocracias electorales** $\longrightarrow$ con derecho a elegir ejecutivo y legislativo via elecciones pero carecen de varias libertades
+  3. **Democracias electorales** $\longrightarrow$ ciudadanos tienen derecho a aparticipar en elecciones relevantes, libres, justas y multipartido
+  4. **Democracias liberales** $\longrightarrow$ indiviuos y minorías tienen derechos adicionales, son iguales ante la ley, y el PE está restringido por PL y PJ
+
+## Indicadores y fuentes
+
+- Hay varias fuentes de datos relevantes:
+  1. Varieties of Democracy (V-Dem): https://www.v-dem.net/vdemds.html
+  2. Regimes of the World (RoW)
+  3. Lexical Index of Electoral Democracy (LIE): https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WPKNIT
+  4. Polity: https://www.systemicpeace.org/inscrdata.html
+  5. Freedom House: https://freedomhouse.org/report/freedom-world
+  6. EIU: https://www.eiu.com/n/campaigns/democracy-index-2021/?utm_source=eiu-website&utm_medium=blog&utm_campaign=democracy-index-2021
+
+## Indicadores y fuentes (cont.)
+
+![Indices y cobertura](fig/fig-03-007.png){#fig:03007 width=90%}
+
+## Democratización
+
+- Teoría tradicional de ciencia política argumenta que educación es un determinante clave de la emergencia y sostenibilidad democrática
+  - Educación promueve y alienta participación política y dedsarrolla un settido colectivo de deber cívico
+- Deberíamos esperar una correlación entre educación en el pasado y condiciones democráticas hoy
+- También hay evidencias sobre la relación entre:
+  - Democracia y PIB per capita
+  - Democracia y resultados sanitarios
+  
+## Democratización (cont.)
+
+![Grado de democracia liberal (hoy) y educación (hace 50 años)](fig/fig-03-003.png){#fig:03003 width=80%}
+
+## Democratización (cont.)
+
+![Democracia y PIB per capita](fig/fig-03-005.png){#fig:03005 width=80%}
+
+## Democratización (cont.)
+
+![Democracia y resultados sanitarios](fig/fig-03-006.png){#fig:03006 width=80%}
+
+# Transiciones democráticas
+
+- Actores y decisiones en no-democracia
+- Redistribución y revolución
+- El problema de la credibilidad
+
+## Contextualización
+
+- En las primeras democracias el voto no era universal ni extendido --primeros ciudadanos con derecho al voto fueron ricos. ¿Por qué se extendió el derecho al voto?
+  - Elite debería oponorse --i.e recuerde TVM
+- Acemoglu and Robinson (2000,2006) $\longrightarrow$ democratización es una respuesta de élites a la amenaza de revolución por parte de los pobrs
+- 
+
+## Modelo simple de no democracia
+
+- Sociedad formada por 2 (dos) grupos: pobres con proporciónn $1-\delta$ y ricos $\delta$. Supuesto: $\delta<\frac{1}{2}$.
+- Parámetro $\theta$ captura desigualdad --proporción de ingreso total de los ricos. Ingreso son:
+\begin{align}
+y^{p}=\frac{(1-\theta)y}{1-\delta}  \qquad y^{r}=\frac{\theta y}{\delta}
+\end{align}
+- Supuesto: $\theta>\delta$. Todos pagan $\tau$, reciben $T$ netas de DWL $c(\tau)$ tal que $c''()>0$. La U individual:
+\begin{align}
+V(y^{i}|\tau)=(1-\tau)y^{i}+(\tau-c(\tau))y
+\end{align}
+- Equilibrio: $\tau^{r}=0$ y $\tau^{p}$ es creciente en el nivel de desigualdad
+
+## Toma de decisiones
+
+- Naturaleza determina si *poder de facto* de pobres es H (amenaza creíble)o L (amenaza no creíble). Luego, ricos eligen la política redistributiva: $\hat{\tau}$. Pobres deciden si hacer revolución (R) o no (NR)
+- Revolución siempre es exitosa (supuesto) y se termina el juego pero se destruye una fracción $\mu^{S}$ [para $S=L,H$] del ingreso total. El ingreso de los pobres luego de R es:
+\begin{align}
+V^{p}(R,\mu^{S})&=\frac{(1-\mu^{S})y}{1-\delta} \\
+V^{r}(R,\mu^{H})&=V^{r}(R,\mu^{L})=0
+\end{align}
+- y no depende del estado de la naturaleza
+
+
+## Arbol de decisiones y pagos
+
+![Decisiones y *payoffs* en no democracia](fig/fig-03-004.png){#fig:03004 width=75%}
+
+## Resolución del juego
+
+- Supuesto $\longrightarrow$ $\mu^{L}=1$ y $\mu^{H}=\mu \in (0,1)$
+  - Si $\mu^{S}=\mu^{L}=1$ destrucción total e ingresos igual a 0
+  - Pobres nunca hacen R [¿por qué?]
+- Siempre que naturaleza elija $S=L$, amenaza de R de pobres no creíble --ie *poder de facto* bajo
+- Si pobres eligen NR, ricos pueden cumplir ($\hat{\tau}$)
+ con prob $p$ o incumplir ($\tau^{r}=0$) con prob $1-p$
+  - Intución $\longrightarrow$ *poder de facto* es transitorio y ricos tienen *poder de iure* no pueden comprometerse a cumplir creíblemente
+
+## Resolución del juego (cont.)
+
+- Si ricos:
+  - Cumplen $\longrightarrow$ $V^{i}(y|\hat{\tau})=(1-\hat{\tau})y^{i}+(\hat{\tau}-c(\hat{\tau}))y$ para $i \in {p,r}$
+  - No cumplen $\longrightarrow$ $V^{p}(N)=y^{p}$ y $V^{r}(N)=y^{r}$
+- Inducción para atrás
+  - Pobres deciden si R o NR
+\begin{align}
+V^{p}(N,\hat{\tau})&=pV^{p}(y|\hat{\tau})+(1-p)V^{p}(N) \\
+V^{p}(N,\hat{\tau})&=p[(1-\hat{\tau})y^{p}+(\hat{\tau}-c(\hat{\tau}))y]+(1-p)y^{p} \\
+V^{p}(N,\hat{\tau})&=p[y^{p}-\hat{\tau}y^{p}+\hat{\tau}y-c(\hat{\tau})y]+y^{p}-py^{p} \\
+V^{p}(N,\hat{\tau})&=y^{p}+p[\hat{\tau}(y-y^{p})-c(\hat{\tau}y) > 0
+\end{align}
+
+## Resolución del juego (cont.)
+
+- Naturaleza elige *poder de facto* bajo $S=L$ p/ pobres. Acá pobres siempre peor con R que con NR $\longrightarrow$ eligen NR
+\begin{align}
+V^{p}(N,\hat{\tau})>V^{p}(R,\mu^{L})=0
+\end{align}
+- Ricos anticipan que pobres nunca eligen R por lo que anuncia su punto ideal $\tau^{N}(\mu^{L})=0$
+- Naturaleza elige *poder de facto* alto $S=H$ p/ pobres. Restricción de revolución es
+\begin{align}
+V^{p}(R,\mu^{H})&>V^{p}(N,\tau^{N}=0)=V^{p}(N) \\
+\frac{(1-\mu)y}{1-\delta} &> \frac{(1-\theta)y}{1-\delta} \\
+\theta &> \mu
+\end{align}
+
+## Resolución del juego (cont.)
+
+- NOTE: $R$ sólo es atractiva para pobres si lo que expropian a ricos ($\theta$) es mayor a lo que se destruye en el proceso ($\mu$). Entonces ricos eligen su tasa preferida, $\tau^{N}(\mu^{H})=\tau^{r}=0$.
+- Si se cumple la condición, pobres prefieren $R$ a $NR$. Ricos prefieren evitar $R$ y permanecer en no democracia $\longrightarrow$ sólo viable si ofrecen redistribución positiva
+- ¿Pueden los pobres preferir $R$ aún con redistribución?
+  - Si --comparar pago de pobres permaneciendo en no democracia con $\tau^{p}$ versus pago de realizar $R$
+
+## Resolución del juego (cont.)
+
+\begin{align}
+V^{p}(N,\tau^{N}=\tau^{p}) &\geq V^{p}(R,\mu^{H}) \\
+y^{p}+p(\tau^{p}(y-y^{p})-c(\tau^{p})y) &\geq \frac{(1-\mu)y}{1-\delta} \\
+\frac{(1-\theta)y}{1-\delta}+p(\tau^{p}(y-\frac{(1-\theta)y}{1-\delta})-c(\tau^{p}y)) &\geq \frac{(1-\mu)y}{1-\delta} \\
+(1-\theta)+p\tau^{p}(\theta-\delta)-p(1-\delta)c(\tau^{p}) &\geq (1-\mu) \\
+\mu \geq \theta-p(\tau^{p}(\theta-\delta)-(1-\delta)c(\tau^{p})) \equiv \mu^{*}
+\end{align}
+
+## Resolución del juego (cont.)
+
+- Promesas de redistribución logran evitar $R$ siempre que $R$ sea lo suficientemente costosa
+  - Si $\mu < \mu^{*}$ $\longrightarrow$ ni siquera $\tau^{p}$ evita $R$ [hay $R$ en equilibrio]
+  - Si $\mu \geq \mu^{*}$  $\longrightarrow$ ricos ofrecen redistribución y se evita $R$. ¿A qué tasa? $\tilde{\tau}$ que hace indiferente a pobres
+\begin{align}
+\mu=\theta-p(\tilde{\tau}(\theta-\delta)-(1-\delta)c(\tilde{\tau}))
+\end{align}
+
+## Resolución del juego (cont.)
+
+> PROPOSICION 1. Hay un equilibrio perfecto en subjuegos único para el juego representado en la figura descrito por los siguientes resultados
+
+## Resolución del juego (cont.)
+
+- Si $\theta \leq \mu$ la RdR no se cumple, ricos no ofrecen redistribución ($\tau^{N}(\mu)=0$) y pobres eligen $NR$
+- Si $\theta > \mu$:
+  1. **Si $\mu<\mu^{*}$**
+      + En estado $S=L$ las elites no redistribuyen ($\tau^{N}(\mu^{L})=0$) y pobres hacen $NR$
+      + En estado $S=H$, pobres hacen $R$ 
+  2. **Si $\mu \geq \mu^{*}$** pobres deciden $NR$.
+      + En estado $S=L$, ricos fijan $\tau^{r}=0$
+      + En estado $S=H$ prometen $\tilde{\tau}$
+
+## Resolución del juego (cont.)
+
+- **Costo de revoluciones** $\longrightarrow$ mientras menos $y$ destruya una $R$ ($\mu$ relativamente bajo) más atractiva resultará una revolución
+- **Desigualdad** $\longrightarrow$ a mayor desigualdad:
+  - más probable que se cumpla RdR
+  - más probable que promesas de redistribución sean insuficientes
+  
+## Resolución del juego (cont.)
+
+- En este simple modelo, hay situaciones en que los pobres deciden hacer una revolución -para ricos, el peor resultado posible
+  - son expropiados
+  - terminan con $y=0$
+- No siempre promesas de redistribución *creíbles*
+- ¿Alguna otra opción?
+  - Pasar de no democracia a democracia
+
+
+## Modelo de democratización
+
+- ¿Qué pasaría si los ricos pudieran ofrecer **democratización** como alternativa? Ahora ricos tienen mas opciones para evitar la revolución
+- Si $S=L$ $\longrightarrow$ revolución muy costosa ($\mu^{L}=1$), ricos no redistribuyen ($\tau^{N}(\mu^{L})=0$) y no hay cambio de régimen
+- Resultado mas interesante $S=H$:
+  - No democracia, redistribuir a ($\hat{\tau}$) pero elegir la política económica
+  - Democracia y delegar la elección de política económica a los pobres [¿por qué]
+- Los pobres eligen si R o NR una vez que observan el régimen político y el nivel de redistribución
+
+## Modelo de democratización (cont.)
+
+![Decisiones y *payoffs* en democratización](fig/fig-03-012.png){#fig:03012 width=75%}
+
+## Modelo de democratización (cont.)
+
+- Recordar que decisión de ricos es $D$, $N$.
+- **Si pobres eligen $R$** $\longrightarrow$ el juego termina y los pagos son iguales que en no democracia:
+\begin{align}
+V^{p}(R,\mu)&=\frac{(1-\mu)y}{1-\delta} \\
+V^{r}(R,\mu)&=0
+\end{align}
+
+
+## Modelo de democratización (cont.)
+
+- **Si pobres eligen $NR$** $\longrightarrow$ pagos dependen del régimen político elegido por ricos inicialmente
+  - **Democracia (D)** $\longrightarrow$ fija el mediano ($\tau^{p}$)
+\begin{align}
+V^{p}(D)&=y^{p}+[\tau^{p}(y-y^{p})-c(\tau^{p})y] \\
+V^{r}(D)&=y^{r}+[\tau^{p}(y-y^{r})-c(\tau^{p})y]
+\end{align}
+  - **No-democracia (N)** $\longrightarrow$ ricos deciden política y sólo tienen que cumplir promesa de redistribuir con probabilidad $p$. Pago esperado de pobres:
+\begin{align}
+V^{p}(N,\tau^{N})=y^{p}+p[\tau^{N}(y-y^{p})-c(\tau^{N})y]
+\end{align}
+
+## Modelo de democratización (cont.)
+
+- Diferencia entre $V^{p}(D)$ y $V^{p}(N)$
+  - En $D$ los pobres reciben *transferencia positiva con certeza* a $\tau^{p}$ [ponele...]
+  - En $N$ los pobres reciben *transferencia positiva con probabilidad $p$*
+    - Dos problemas: a) *commitment*, b) no certeza que $\tau^{N} \neq \tau^{p}$
+- Resolución por inducción hacia atras
+
+## Resolución del juego
+
+- Restricción de revolución (amenaza creíble)
+\begin{align}
+V^{p}(R,\mu) &> V^{p}(N) = y^{p} \\
+\theta &> \mu
+\end{align}
+- Siempre que la desigualdad sea mayor a la destrucción causada por $R$, ricos deben: 1) hacer concesiones y prometer redistribución en $N$, 2) democratizar
+
+## Resolución del juego (cont.)
+
+- Ricos siempre prefieren $(N,NR) \succ (D,NR)$. ¿Qué pasa si prometen $\tau^{p}$:
+\begin{align}
+V^{p}(N,\tau^{N}=\tau^{p}) &\geq V^{p}(R,\mu^{H}) \\
+\mu \geq \theta-p(\tau^{p}(\theta-\delta)-(1-\delta)c(\tau^{p})) &\equiv \mu^{*}
+\end{align}
+- Siempre que $\mu < \mu^{*}$ como antes, ricos no pueden evitar $R$ aún redistribuyendo
+- La única posibilidad es que puedan evitar $R$ ofreciendo democratización [¿podrán?]
+
+## Resolución del juego (cont.)
+
+\begin{align}
+V^{p}(D) &\geq V^{p}(R,\mu^{H}) \\
+y^{p}+[\tau^{p}(y-y^{p})-c(\tau^{p})y] &\geq \frac{(1-\mu)y}{1\delta} \\
+\frac{(1-\theta)y}{1-\delta}+[\tau^{p}(y-\frac{(1-\theta)y}{1-\delta})-c(\tau^{p})y] &\geq \frac{(1-\mu)y}{1\delta} \\
+y[{(1-\theta)y}{1-\delta}+(\tau^{p}\frac{(\theta-\delta)}{1-\delta}-c(\tau^{p}))] &\geq \frac{(1-\mu)y}{1\delta} \\
+(1-\theta)+\tau^{p}(\theta-\delta)-(1-\delta)c(\tau^{p}) &\geq (1-\mu)\\
+\
+\mu \geq \theta-(\tau^{p}(\theta-\delta)-(1-\delta)c(\tau^{p}))  \equiv \mu^{**}
+\end{align}
+
+## Resolución del juego (cont.)
+
+- Siempre que $\mu \geq \mu^{**}$ la democratización logra evitar $R$. Note que además $\mu^{**}  \mu^{*}$. Por ello, siempre que $\mu^{**} < \mu  < \mu^{*}$, democratización evita $R$.
+- El equilibrio entonces puede ser resumido:
+
+## Resolución del juego (cont.)
+
+> PROPOSICION 2. Hay un equilibrio perfecto en subjuegos único para el juego representado en la figura descrito por los siguientes resultados
+
+- Si $\theta \leq \mu$ la RdR no se cumple, ricos no ofrecen redistribución ($\tau^{N}(\mu)=0$) y pobres eligen $NR$
+- Si $\theta > \mu$:
+
+## Resolución del juego (cont.)
+
+
+  1. **Si $\mu < \mu^{**}$**
+      + En estado $S=L$ elites no redistribuyen y $NR$
+      + En estado $S=H$, pobres hacen $R$ 
+  2. **Si $\mu^{**} \leq \mu < \mu^{*}$** pobres deciden $NR$
+      + En estado $S=L$, ricos fijan $\tau^{r}=0$
+      + En estado $S=H$ transicion a democracia ($\tau^{p}$)
+  3. **Si $\mu \geq \mu^{*}$** pobres deciden $NR$
+      + En estado $S=L$ ricos eligen $N$ sin concesiones($\tau^{r}=0$)
+      + En estado $S=H$ ricos eligen $N$ pero promente $\tilde{\tau}$
+
+## Resolución del juego (cont.)
+
+- La democratización es más probable cuanto menor sea la capacidad de compromiso de ricos en una no-democracia
+- Tres resultados claves:
+  1. Democratización ocurre como respuesta de elite para evitar $R$
+  2. Elite sólo democratiza cuando concesiones/redistribución son insuficientes (debido al problema de *commitment*)
+  3. Nivel de redistribución aumenta con transición a democracia porque el mediano es pobre
+  
+
+## Democracia, dictadura y revolución
+
+> Thus, the relationship between income distribution and growth should be stronger in democracies than in dictatorships. However, dictator's policy decisions are also influenced by social demands and social conflicts. For instance, a large group of impoverished workers or landless peasants may threaten the stability of the regime and force the leadership to implement growth-retarding redistributions. \
+**[Alesina and Rodrik (1994)]**
+
+# No democracia, revolución y transiciones democráticas
+
+- La historia como laboratorio
+- Revolución real versus amenaza de revolución
+- ¿Reversión del proceso?
+
+## Democratización en perspectiva
+
+- **Industrialización y desigualdad** $\longrightarrow$ aumentó desigualdad más creíble amenaza de $R$
+- **Industrialización y costo de revolución** $\longrightarrow$ más costosa para la elita
+- **Industrialización y costo de represión** $\longrightarrow$ acumulación de K --físico y humano- sube costo de represión
+- **Urbanización y acción colectiva** $\longrightarrow$ facilitó la congregación de masas (acción colectiva)
+- **Ideología** $\longrightarrow$ atmósfera favorable a democratización
+
+## Democratización en perspectiva (cont.)
+
+- En UK se extendió el derecho al voto en 1832, 1867 y 1884
+- Extensiones adicionales en 1919 y 1928 --incluyendo a todas las mujeres
+- Citas y frases de época sugieren que elites pensaban de manera similar al modelo de democratización
+
+## Democratización en perspectiva (cont.)
+
+> No hay nadie más decididamente en contra de los parlamentos anuales, el sufragio universal y la balota que yo. Lo fundamental en mi reforma es prevenir la necesidad de una revolución. Estoy reformando para conservar, no para derrocar. \
+[*Earl Grey, Primer Ministro en 1831*]
+
+## Democratización en perspectiva (cont.)
+
+> Donde sea que miremos --adentro, alrededor- la voz de los grandes eventos nos está proclamando, "reformen" para poder conservar [...] Salven la propiedad, dividida en contra de sí misma. Salven a la multitud, en peligro por sus propias pasiones ingobernables. Salven a la aristocracia, en peligro por su propio poder impopular. El peligro es terrible, el tiempo es corto. Si esta ley es rechazada, pido a Dios que ninguno de los que concurran a rechazarla puedan alguna vez recordar sus votos con remordimiento en medio del desastre de las leyes, la confusión de los rangos, el daño a la propiedad y la disolución del orden social \
+[*Thomas Babington Macaulay, historiador británico, 1832*]
+
+## Democratización en perspectiva (cont.)
+
+- Descontento social fue no sólo motor de la reforma de 1832 sino también de las siguientes
+- Extensión del voto y mayor redistribución es una predicción clave del modelo de Acemoglu y Robinson
+- Algunas reformas
+  - Incremento de legislación laboral
+  - Programas de protección social
+  - Sistema educativo masivo
+  - Aumentó progresividad de impuestos
+
+## Democratización en perspectiva (cont.)
+
+![Evolución democratización (Polity)](fig/fig-03-008.png){#fig:03008 width=100%}
+
+## Democratización en perspectiva (cont.)
+
+![Evolución desigualdad en UK/US)](fig/fig-03-009.png){#fig:03009 width=80%}
+
+## Democratización en perspectiva (cont.)
+
+![Evolución participación del top-1% en varios países)](fig/fig-03-010.png){#fig:03010 width=80%}
+
+## Democratización en perspectiva (cont.)
+
+![Evolución participación del ingreso total: top-1% dentro del top-10%)](fig/fig-03-011.png){#fig:03011 width=65%}
+
+## Evidencia
+
+- Varios papers recientes ofrecen apoyo a las teorías desarrolladas
+- Aidt and Leon (2016) $\longrightarrow$ democratización en Africa subsahariana entre 1990 y 2007. Profundización de huelgas y conflictos a causa de sequías provocó concesiones democráticas por parte de líderes
+- Aidt and Jensen (2014) $\longrightarrow$ panel de países europeos en primera ola de democratización estudian cómo revoluciones reales en países vecinos aumentaron la probabilidad de introducir reformas en sufragio en países propios
+
+## Evidencia (cont.)
+
+![Huelgas y conflictos en Africa, 1990-2007](fig/fig-03-014.png){#fig:03014 width=65%}
+
+## Evidencia (cont.)
+
+![Huelgas y transiciones](fig/fig-03-013.png){#fig:03013 width=80%}
+
+## Evidencia (cont.)
+
+![Revoluciones y concesiones: propios y vecinos](fig/fig-03-015.png){#fig:03015 width=100%}
+
+## Democracia y represión
+
+- Acemoglu and Robinson (2006) reconocen que la relación entre desigualdad ($\theta$) y democratización ($D$) no es monotónica
+  - A bajos niveles de $\theta$ no hay revolución [no se cumple RdR]
+  - A altos niveles de $\theta$ no hay ni revolución ni democratización $\longrightarrow$ **represión**
+- En otras palabras, la democratización surge en determinada "ventana" $\longrightarrow$ niveles intermedios de desigualdad
+  - Supuestos: 1) represión siempre evita $R$, 2) costo de represión $\kappa$ no es excesivamente alto, 3) siempre que ricos prefieren represión a hacer concesiones, también prefieren reprimir a democratizar (costo de reprimir $\kappa$ bajo)
+
+## Democracia y represión (cont.)
+
+![Arbol de decisiones con 3 opciones](fig/fig-03-017.png){#fig:03017 width=75%}
+
+## Democracia y represión (cont.)
+
+![Relación entre democracia y represión](fig/fig-03-016.png){#fig:03016 width=90%}
+
+## Democracia y represión (cont.)
+
+- Modelo aplicable a varios países (UK, Singapur, Argentina y Sudáfrica)
+- Singapur $\longrightarrow$ $\theta < \theta^{*}$ revolución no es rentable (amenaza de revolución no creíble). Estabilidad sin transición democrática
+- UK rango $\theta \in (\theta^{*},\hat{\theta})$ pero democratización para evitar revolución [$\theta$ no tan alto como para represión]
+- Sudáfrica pre-caída Apartheid $\longrightarrow$ desigualdad muy alta ($\theta > \hat{\theta}$) perpetúa no democracia
+
+## Democracia y represión (cont.)
+
+- Argentina rango $\theta \in (\theta^{*},\hat{\theta})$ pero mayor desigualdad que UK. Pero:
+  - Democratización $\longrightarrow$ pero es costosa para la elite por alta desigualdad
+  - Represión $\longrightarrow$ evita concesiones/redistribución con el costo de no democracia
+      + Democracia inestable!
+- Interrupciones en 1930-46, 1955-73, 1976,83
+
+## Democracia y represión (cont.)
+
+> **¿Qué son $\mu$ y $\kappa$ en la práctica?** Piense en lo que ponen en juego las élites. Dos tipos de élites: 1) terrateniente, 2) $K$ físico y $K$ humano. Democracia más amenazante para élites terratenientes [¿por qué?]. Revolución (y represión), por su parte, más costosa para dueños de $K$ físico y humano [¿por qué?] Ricos terratenientes más inclinados a usar represión por amenaza de revolución en contextos de alta desigualdad. 
+
+## ¿Las democracias mueren?
+
+> It is not hard to subvert a democracy. First, subvert the electoral system. Second, capture the referees (judiciary, tax authorities, intelligence agencies & law enforcement). Third, sideline or eliminate political opponents and, above all, the media. \
+**[Levitsky and Ziblatt (2019), *How democracies die*]**
+
+
+
+
+
+
+
+

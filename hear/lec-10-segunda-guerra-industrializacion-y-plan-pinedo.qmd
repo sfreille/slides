@@ -1,0 +1,399 @@
+---
+title: "U2. Segunda Guerra, industrialización y Plan Pinedo"
+subtitle: "Historia Económica Argentina · Clase 10"
+---
+
+# Apertura y hoja de ruta {background="#1f3a5f"}
+
+## Dónde quedamos
+
+- Recuperación de los treinta: **real pero incompleta**, dependió de precios mundiales.
+- El Estado aprendió a **administrar la escasez**, no a **impulsar el desarrollo**.
+- Industrialización **espontánea**; estructura fiscal intacta.
+- En **1939** estalla la Segunda Guerra Mundial. ¿Qué hace una economía agroexportadora ante el cierre del comercio mundial?
+
+::: {.callout-tip icon=false title="Idea clave"}
+Por primera vez, un gobierno formuló un **programa de desarrollo industrial** consciente: el Plan Pinedo (1940).
+:::
+
+## La pregunta de hoy
+
+> ¿Por qué el **Plan Pinedo** —la propuesta más elaborada de industrialización con apertura— fracasó políticamente? ¿Y cómo un golpe militar "nacionalista" (1943) terminó abriendo el camino al **peronismo**?
+
+## Mapa de la clase
+
+1. **Bloque 1 — La Segunda Guerra y el shock externo:** división de mercados, excedentes invendibles.
+2. **Bloque 2 — El Plan Pinedo (1940):** diagnóstico, medidas, debate y fracaso.
+3. **Bloque 3 — La "polémica industrial":** mercado interno vs. apertura, 1940–1943.
+4. **Bloque 4 — La Revolución del 43:** nacionalismo militar y política económica.
+5. **Bloque 5 — Del 43 al peronismo:** 1943–1946.
+
+# Bloque 1. La Segunda Guerra y el shock externo {background="#1f3a5f"}
+
+## [1.1] El estallido de la guerra
+
+- En **septiembre de 1939** estalla la Segunda Guerra Mundial. Golpe a la "vuelta a la normalidad" que algunos esperaban desde 1933.
+- Comercio mundial contraído; mercados europeos cerrados; **fletes marítimos** disparados y luego inexistentes.
+- Problema inmediato: **excedentes invendibles** de trigo, maíz y carnes.
+
+::: {.callout-important icon=false title="La repetición del shock"}
+En 1914–18 la demanda de alimentos sostuvo precios; en 1939–45 hubo bloqueos, submarinos e imposibilidad de exportar a Europa.
+:::
+
+::: {.fuente}
+Llach (1984); Gerchunoff y Llach (2007), cap. 3.
+:::
+
+## [1.2] Tres compartimentos estancos
+
+- Comercio exterior dividido en **tres áreas inconexas**:
+  1. **Área esterlina**: saldos favorables, pero Gran Bretaña no podía proveer importaciones.
+  2. **Área dólar**: déficit creciente, ruptura del "esquema triangular".
+  3. **América Latina**: superávit tradicional, pero volumen insuficiente.
+
+::: {.callout-note icon=false title="El fin del triángulo"}
+El esquema triangular colapsó. Argentina quedó con **libras inconvertibles** y **escasez de dólares**.
+:::
+
+::: {.fuente}
+Llach (1984); Prebisch (1944).
+:::
+
+## [1.3] Impacto económico inmediato
+
+- Caída de las **exportaciones** y acumulación de stocks agrícolas.
+- Crisis de la **construcción** y del nivel de actividad general.
+- Desocupación creciente en las ciudades y malestar en el campo.
+- Inflación incipiente por escasez de importaciones y aumento de la demanda interna.
+
+::: {.fuente}
+Llach (1984).
+:::
+
+# Bloque 2. El Plan Pinedo (1940) {background="#1f3a5f"}
+
+## [2.1] La coyuntura y el equipo
+
+- El **14 de noviembre de 1940**, el vicepresidente **Ramón S. Castillo** (en ejercicio de la presidencia) envió al Congreso el **"Programa de reactivación de la economía nacional"**, firmado por los ministros de Agricultura (Videla) y de Hacienda (**Federico Pinedo**).
+- El equipo técnico incluía a **Raúl Prebisch**, Guillermo W. Klein y Ernesto Malaccorto.
+- El Plan surgió de una **situación de emergencia**, pero contenía **medidas de largo plazo**.
+
+::: {.fuente}
+Llach (1984); Hacienda (1940a y 1940b).
+:::
+
+## [2.2] El diagnóstico
+
+- **Corto plazo**: excedentes agrarios invendibles, desocupación, zozobra social.
+- **Largo plazo**: desde antes de 1929, Argentina **no tenía la opción** de exportar cantidades crecientes de productos agrarios.
+- Oportunidad de la guerra: **sustituir importaciones** y desarrollar industrias localmente.
+
+::: {.callout-tip icon=false title="La rueda maestra"}
+Pinedo: "No estamos en condiciones de reemplazar la rueda maestra exportadora, pero sí de crear ruedas menores que permitan cierta circulación de la riqueza".
+:::
+
+::: {.fuente}
+Llach (1984); Hacienda (1940b).
+:::
+
+## [2.3] Las medidas del Plan (I)
+
+- **A. Reactivación inmediata**:
+  - Compra de excedentes agrarios por entes públicos.
+  - Fomento de la **construcción**.
+- **B. Desarrollo industrial**:
+  - Control selectivo de importaciones de la "zona de divisas libres".
+  - Garantías de estabilidad industrial postguerra.
+  - Crédito para adquisición de equipos.
+
+::: {.fuente}
+Llach (1984); Hacienda (1940a).
+:::
+
+## [2.3b] Las medidas del Plan (II)
+
+- **C. Comercio exterior**:
+  - Aproximación a **Estados Unidos** y países limítrofes.
+  - Creación de un **mercado de capitales** local.
+- **D. Financiamiento**:
+  - Bancos comerciales entregarían fondos al BCRA (hasta 10% de su cartera) para financiación industrial.
+
+## [2.4] ¿Audaz o gatopardista?
+
+- Plan **moderado en lo político**, **audaz en lo técnico**:
+  - No cuestionaba propiedad privada ni estructura agraria.
+  - Pero proponía **industrialización deliberada** con apertura.
+- Pinedo: "es indispensable que el Estado cree las condiciones favorables".
+
+::: {.callout-note icon=false title="Un neocapitalismo argentino"}
+Martínez defendió el Plan invocando el "neocapitalismo": legitimación de la intervención estatal sin socialismo.
+:::
+
+::: {.fuente}
+Llach (1984); Hacienda (1940b).
+:::
+
+## [2.5] El fracaso político
+
+- Aprobado en el Senado… pero **nunca ejecutado** con amplitud.
+- Razones del fracaso:
+  1. **Resistencia terrateniente**: la aproximación a EE.UU. inquietaba a la oligarquía.
+  2. **Falta de alianza social**: la Concordancia no movilizaba a los nuevos sectores urbanos.
+  3. **Sospecha nacionalista**: el Plan se veía como sumisión al imperialismo yanqui.
+
+::: {.callout-important icon=false title="El precio de la exclusión"}
+Llach: fracaso político, no técnico. La elite no supo **forjar una alianza social más amplia**.
+:::
+
+::: {.fuente}
+Llach (1984).
+:::
+
+## Principales aspectos
+
+::: {style="font-size: 0.7em;"}
+
+| Dimensión | Medidas | Objetivos/Metas | Cambios Inst. |
+|-----------|------------------------|-------------------|------------------------|
+| **Diagnóstico y contexto** | Crisis de exportaciones agrarias; quiebra del esquema triangular (Argentina–Gran Bretaña–EE.UU.); déficit creciente con el área del dólar; excedentes invendibles | Determinar si Argentina podía seguir basando su crecimiento en exportaciones agropecuarias crecientes; evitar la depresión y el desempleo | — |
+| **Sector externo y comercio** | Control selectivo de importaciones (prohibiciones, cuotas, licitaciones de cambio); promoción de exportaciones industriales; incentivos cambiarios para exportaciones a EE.UU.; generalización del *draw-back*; tratado comercial con Brasil y reducción de aranceles con países vecinos; legislación antidumping para la posguerra | Sustituir importaciones con "recursos propios del país"; diversificar mercados externos; industrializar las exportaciones; romper el esquema triangular creando oferta adicional de divisas libres | Creación de la **Corporación para la Promoción del Intercambio (CPI)** con virtual monopolio de operaciones cambiarias vinculadas a exportaciones de artículos nuevos |
+| **Política industrial** | Promoción selectiva de "industrias naturales" (elaboradoras de materias primas nacionales); evitar la "protección al revés" (eliminación de protección efectiva negativa); restricción de industrias "artificiales" que compitieran con exportaciones de países compradores argentinos | Desarrollar una industrialización especializada y exportadora compatible con economía abierta; mantener posibilidades de importación de insumos para la posguerra | — |
+
+:::
+
+## Principales aspectos (cont.)
+
+::: {style="font-size: 0.7em;"}
+
+| Dimensión | Medidas | Objetivos/Metas | Cambios Inst. |
+|-----------|------------------------|-------------------|------------------------|
+| **Financiamiento y reforma bancaria** | Creación de un organismo de financiación del Banco Central; conversión de depósitos de corto plazo en préstamos a 15 años (industria) y 25 años (construcción); tope de $360 millones (10% de cartera activa bancaria); garantía del Estado sobre obligaciones del organismo; emisión de obligaciones nominativas o al portador para después de la emergencia | Resolver el "problema permanente de financiación de la industria" y de la construcción; crear un mercado de capitales de largo plazo; movilizar recursos ociosos bancarios | Ampliación de facultades del **Banco Central**: modificar efectivos mínimos, operaciones de mercado abierto, fijar tasas máximas de interés para plazos fijos; **Comisión Organizadora** presidida por el Ministro de Hacienda |
+| **Construcción y vivienda** | Financiamiento para construcciones económicas, "especialmente para empleados y obreros", con uso preferente de materiales nacionales | Reactivar la economía mediante la industria de la construcción por sus efectos multiplicadores y rápida incidencia en el nivel de actividad | — |
+| **Sector agropecuario** | Compra de excedentes de productos invendibles por entes públicos; financiamiento para la compra de cosechas (priorizado por el Senado) | Aliviar el "intenso malestar en la campaña"; sostener el poder de compra de la población rural | — |
+
+:::
+
+## Principales aspectos (cont.)
+
+::: {style="font-size: 0.7em;"}
+
+| Dimensión | Medidas | Objetivos/Metas | Cambios Inst. |
+|-----------|------------------------|-------------------|------------------------|
+| **Art. 10º (Exportaciones)** | Autorización al PEN para garantizar créditos bancarios de promoción de exportaciones; recepción de títulos de la deuda argentina o acciones de empresas de servicios públicos en pago o garantía de exportaciones | Facilitar el acceso a mercados externos mediante garantías estatales y operaciones de *swap* de deuda por exportaciones | Intervención estatal directa en la garantía de operaciones privadas de comercio exterior |
+| **Precios y política monetaria** | Reactivación no inflacionaria basada en recursos ociosos bancarios (no emisión); control de cambios para evitar desvío de demanda hacia importaciones | Priorizar la resolución de la depresión sobre el equilibrio fiscal inmediato; evitar inflación de costos | — |
+| **Rol del Estado** | El Estado como creador de "condiciones favorables" e incentivador de actividad privada; establecimiento de "orientaciones generales de política económica y social" | Superar la inercia gubernamental y el "individualismo egoísta"; articular un "neocapitalismo" que subordine el interés individual al social sin caer en el socialismo de Estado o el totalitarismo | Fortalecimiento del rol del Estado como árbitro entre Capital y Trabajo; control de precios y ajuste de salarios al costo de vida |
+
+:::
+
+## Principales aspectos (cont.)
+
+::: {style="font-size: 0.7em;"}
+
+| Dimensión | Medidas | Objetivos/Metas | Cambios Inst. |
+|-----------|------------------------|-------------------|------------------------|
+| **Estrategia geopolítica** | Reconocimiento del predominio mundial de EE.UU.; acercamiento económico y comercial a EE.UU. y América Latina; condiciones para radicaciones industriales norteamericanas y remesa de utilidades | Asegurar la viabilidad de la posguerra mediante una alianza comercial con el nuevo líder del capitalismo mundial; obtener insumos y reequipamiento industrial | — |
+| **Estudio Armour (CPI)** | Identificación de industrias con ventajas "naturales": alimentos, textiles, químicos, cuero, confecciones, calzado, papel, frigorífico, cemento, algunas base metalúrgica (plomo, zinc); industrias desfavorables: siderurgia y metalurgia (excepto hierro viejo), industrias intensivas en energía | Orientar la industrialización hacia ramas competitivas internacionalmente basadas en dotación de materias primas nacionales | — |
+
+:::
+
+
+# Bloque 3. La "polémica industrial" {background="#1f3a5f"}
+
+## [3.1] El debate sobre el modelo
+
+- Entre 1940 y 1943, el debate económico alcanzó intensidad inusual.
+- Temas centrales:
+  - ¿Apertura o mercado interno?
+  - ¿Gran Bretaña o Estados Unidos?
+  - ¿Industrialización espontánea o planificada?
+
+::: {.callout-tip icon=false title="Un debate sin dos bandos"}
+Llach: no había bandos claros. Defensores y críticos combinaban los temas en distintas proporciones.
+:::
+
+::: {.fuente}
+Llach (1984).
+:::
+
+## [3.2] Industrialistas y mercado interno
+
+- Durante la guerra, la industria tuvo un **auge espectacular**.
+- Empresarios, militares y técnicos convergieron: el futuro era el **mercado interno**.
+- Razones:
+  - 1929–1933 mostró la **vulnerabilidad de la apertura**.
+  - La guerra demostró capacidad de producir localmente.
+  - La **demanda urbana** crecía.
+
+::: {.callout-note icon=false title="El triunfo del mercado interno"}
+El **mercado interno ofrecía certidumbre**.
+:::
+
+::: {.fuente}
+Llach (1984).
+:::
+
+## [3.3] La aproximación a Estados Unidos
+
+- El Plan Pinedo fue el **primer reconocimiento oficial** del predominio mundial de EE.UU. y de la necesidad de acercarse económicamente a ese país.
+- Pinedo mismo, en su libro *La Argentina en la vorágine* (1943), expresó arrepentimiento por haber mirado a Europa como modelo "casi exclusivo".
+- Pero esta posición **pronorteamericana** no era obvia ni consensuada: chocaba con los lazos culturales, comerciales y financieros con Gran Bretaña.
+
+::: {.fuente}
+Llach (1984); Pinedo (1943).
+:::
+
+# Bloque 4. La Revolución del 43 {background="#1f3a5f"}
+
+## [4.1] El golpe de 1943
+
+- El **4 de junio de 1943**, un grupo de militares nacionalistas —encabezado por los generales **Ramírez** y **Rawson**, con fuerte influencia de la **GOU (Grupo de Oficiales Unidos)**— derrocó a Castillo.
+- El golpe puso fin a la Década Infame… pero no inauguró la democracia. Fue un gobierno **militar nacionalista** con retórica antioligárquica y antiimperialista.
+- En materia económica, el gobierno de Ramírez (y luego de **Farrell**) continuó muchas políticas de la década anterior… pero con un **sesgo más intervencionista** y más hostil a Gran Bretaña.
+
+::: {.fuente}
+Gerchunoff y Llach (2007), cap. 4.
+:::
+
+## [4.2] Política del nacionalismo militar
+
+- **Control de cambios reforzado**: administración centralizada de divisas.
+- **Política comercial**: ruptura del Roca-Runciman (1944); acuerdos con **EE.UU.**
+- **Industrialización**: sustitución de importaciones; **Secretaría de Industria y Comercio** (1944).
+- **Relaciones laborales**: intervención en sindicatos; ascenso de **Perón** en Trabajo (1943).
+
+::: {.callout-important icon=false title="Perón en Trabajo"}
+Desde 1943, Perón construyó alianza con los sindicatos, impulsó convenios colectivos, aguinaldo, vacaciones pagas… y su base política.
+:::
+
+::: {.fuente}
+Gerchunoff y Llach (2007), cap. 4.
+:::
+
+## [4.3] ¿Ruptura o continuidad?
+
+- El gobierno de 1943 **heredó** controles de cambios, Juntas Reguladoras y BCRA.
+- Pero le dio un **sesgo distinto**:
+  - Menos apego a Gran Bretaña; más pragmatismo hacia EE.UU.
+  - Mayor atención a **sindicatos** y **redistribución**.
+  - Mayor protagonismo del **Estado como empresario**.
+
+::: {.callout-tip icon=false title="Idea clave"}
+La Revolución del 43 fue **reconfiguración política** del intervencionismo, con sindicatos como nuevo actor.
+:::
+
+::: {.fuente}
+Gerchunoff y Llach (2007), cap. 4.
+:::
+
+# Bloque 5. Del 43 al peronismo {background="#1f3a5f"}
+
+## [5.1] La consolidación de Perón
+
+- Perón utilizó la Secretaría de Trabajo para construir una **red de lealtades** en el movimiento obrero.
+- En **1944** fue ascendido a **vicepresidente** y ministro de Guerra.
+- Su relación con los otros militares de la GOU se deterioró: lo veían como demasiado ambicioso y populista.
+- En **octubre de 1945**, Perón fue **detenido** por orden de los generales. La **movilización obrera** del 17 de octubre lo liberó y lo catapultó como líder indiscutido.
+
+::: {.fuente}
+Gerchunoff y Llach (2007), cap. 4.
+:::
+
+## [5.2] La posguerra inmediata
+
+- Hacia **1945**, la economía mundial comenzaba a normalizarse.
+- Dilema: ¿**volver** al modelo agroexportador o **seguir** con industrialización y mercado interno?
+- EE.UU. presionaba por **apertura comercial** (Bretton Woods, ITO).
+- Los industriales argentinos temían la competencia postguerra.
+
+::: {.callout-note icon=false title="El miedo a la posguerra"}
+Para empresarios que crecieron detrás de controles de cambios, la "normalidad" postbélica era una amenaza. El mercado interno ofrecía protección.
+:::
+
+::: {.fuente}
+Llach (1984).
+:::
+
+## [5.3] El programa económico del peronismo
+
+- Antes de **1946**, Perón definió las líneas maestras:
+  - **Mercado interno** como eje del crecimiento.
+  - **Industrialización** como política de Estado.
+  - **Redistribución del ingreso** a favor de los trabajadores.
+  - **Soberanía económica**: nacionalizaciones.
+
+::: {.callout-important icon=false title="¿De dónde venía el plan?"}
+Bebía del **debate de los cuarenta**, del fracaso de Pinedo, y de la necesidad de una **alianza social más amplia**.
+:::
+
+::: {.fuente}
+Llach (1984); Gerchunoff y Llach (2007), cap. 4.
+:::
+
+## [5.4] Elecciones de 1946
+
+- En **febrero de 1946**, Perón ganó con el **54% de los votos**.
+- La Unión Democrática (antiperonista) reunió a radicales, socialistas, comunistas y conservadores… pero no pudo con la **movilización obrera**.
+- **24 de febrero de 1946**: inicio de una **nueva era** en la historia económica argentina.
+
+::: {.callout-tip icon=false title="Un cambio de régimen"}
+Gerchunoff y Llach: 1946 fue un **cambio de régimen económico**. De acumulación vía exportación a vía mercado interno; de laissez-faire a intervencionismo planificado.
+:::
+
+::: {.fuente}
+Gerchunoff y Llach (2007), cap. 4.
+:::
+
+# Cierre {background="#1f3a5f"}
+
+## Ideas fuerza {.tight}
+
+1. La Segunda Guerra Mundial fue **shock sin boom exportador**: bloqueo y escasez.
+2. El **Plan Pinedo (1940)** propuso cambiar el rumbo hacia la industrialización. Fracaso **político**, no técnico.
+3. El **debate industrial** se inclinó hacia el **mercado interno**.
+4. La **Revolución del 43** reconfiguró el intervencionismo con **sindicatos** como actor político.
+5. Perón construyó una **alianza obrera** desde la Secretaría de Trabajo.
+6. **1946** es punto de quiebre: el modelo agroexportador deja de ser el **eje** de la política económica.
+
+## Preguntas para llevarse
+
+- ¿Por qué fracasó el Plan Pinedo si era técnicamente superior a las políticas de los años treinta? ¿Qué nos dice sobre los **límites políticos** de la elite conservadora?
+- ¿Fue la industrialización por sustitución de importaciones **inevitable** después de 1929, o hubo alternativas viables de industrialización exportadora?
+- ¿Qué le debía el peronismo al **intervencionismo de los años treinta** y qué le debía a la **experiencia de la guerra**?
+- ¿Por qué el peronismo pudo construir una **alianza social amplia** donde la Concordancia fracasó? ¿Qué papel jugó la **promesa de redistribución**?
+
+## Bibliografía de la clase
+
+**Obligatoria**
+
+- **Llach, J. J. (1984).** El Plan Pinedo de 1940, su significado histórico y los orígenes de la economía política del peronismo. *Desarrollo Económico*, 23(92).
+- **Gerchunoff, P. y Llach, L. (2007).** *El ciclo de la ilusión y el desencanto*, **caps. 3 y 4**.
+
+**Complementaria**
+
+- **Pinedo, F. (1943).** *La Argentina en la vorágine*.
+- **Prebisch, R. (1944).** *Introducción a la política económica*.
+
+::: {.fuente}
+La bibliografía completa por unidad está en el programa de la asignatura.
+:::
+
+<!--
+Notas de uso (no proyectar):
+- Cierra la Unidad 2. Fuentes: Llach (1984) para bloques 2, 3 y 5 (Plan Pinedo,
+  polémica industrial, camino al peronismo) + Gerchunoff y Llach (2007) caps. 3-4
+  para bloques 1, 4 y 5 (shock de la guerra, Revolución del 43, peronismo).
+- FIGURAS A SCREENCAPEAR (nuevas, paths pendientes):
+  [1.2] Llach (1984) / Hacienda (1940a) → esquema de los tres compartimentos
+        comerciales
+        → guardar como: fig-diagram-tres-compartimentos-comercio-1940.png
+  [2.3] Hacienda (1940a) → cuadro de medidas del Plan Pinedo
+        → guardar como: fig-table-medidas-plan-pinedo-1940.png
+  [4.2] Gerchunoff y Llach (2007) / fuentes diversas → línea de tiempo 1943-1946
+        (golpe, persecución, 17 de octubre, elecciones)
+        → guardar como: fig-timeline-1943-1946-peronismo.png
+- Hilo narrativo: shock de la guerra (1939) → excedentes invendibles → Plan Pinedo
+  (1940): diagnóstico audaz, fracaso político → debate industrial → predominio del
+  mercado interno → Revolución del 43 (1943): nacionalismo militar + peronismo
+  sindical → elecciones de 1946 → cambio de régimen.
+- Overflow: verificar con `node _check-overflow.mjs lec-10-*.html`; aplicar .tight/.smaller.
+-->

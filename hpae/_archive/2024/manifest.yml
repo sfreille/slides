@@ -1,0 +1,39 @@
+# HPAE Archive Manifest - 2024
+# This file describes how to build the 2024 version of slides
+
+year: 2024
+master_year: current  # Inherit unchanged files from root (master)
+
+# Files that differ from master - use archived versions
+changed_files:
+  - lect00.qmd
+  - lect01.qmd
+
+# Files that didn't exist in this year (present in master but not 2024)
+# These will be excluded when rendering for 2024
+excluded_files:
+  - lect02.qmd
+  - lect03.qmd
+  - lect04.qmd
+  - lect05.qmd
+  - lect06.qmd
+  - lect07.qmd
+  - lect08.qmd
+  - lect09.qmd
+  - lect10.qmd
+  - lect10_add.qmd
+  - lect11.qmd
+  - lect12.qmd
+  - lect13.qmd
+  - lect14.qmd
+  - lect18.qmd
+  - lect19.qmd
+  - lect01-annex-01.qmd
+  - lect02-annex-01.qmd
+  - lect05-annex-01.qmd
+  - concurso-2023.qmd
+
+# Notes
+notes: |
+  2024 was a partial year with only 2 lectures archived.
+  Most content for 2024 may have been similar to root/master.

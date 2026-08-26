@@ -1,0 +1,444 @@
+---
+title: "U4. La economía política clásica I: Smith, Ricardo, Mill"
+subtitle: "Historia del Pensamiento y del Análisis Económico"
+author: "Sebastián Freille"
+---
+
+# Motivación {background="#43464B"}
+
+## La mano invisible y el nacimiento de una disciplina
+
+> "No es de la benevolencia del carnicero, del cervecero o del panadero que esperamos nuestra cena, sino de su atención a su propio interés."
+**[Adam Smith, *La Riqueza de las Naciones* (1776)]**
+
+- En 1776, mientras Estados Unidos declaraba su independencia, **Adam Smith** publicaba el libro que fundaría la economía moderna
+- Por primera vez, alguien ofrecía una **visión sistemática** de cómo funciona una economía de mercado
+- Las preguntas que planteó **Smith** siguen siendo las preguntas centrales de la economía
+
+## ¿Por qué nos importan los clásicos?
+
+- **Smith** estableció que el mercado puede coordinar millones de decisiones individuales
+- **Ricardo** mostró por qué el comercio internacional beneficia a todos los países
+- **Mill** intentó reconciliar eficiencia económica con justicia social
+
+Estas ideas **moldean los debates actuales** sobre globalización, desigualdad y rol del Estado.
+
+## El padre de la criatura
+
+![](../_shared/images/hpae/fig-diagram-ricardo-02.png){fig-align="center"}
+
+# Contexto y problemáticas {background="#43464B"}
+
+## Un mundo en transformación
+
+- **Revolución Industrial**: producción mecanizada, fábricas, urbanización
+- **Comercio internacional en expansión**: colonias, nuevos mercados
+- **Cambios sociales**: nueva clase obrera, burguesía industrial
+- **Debates políticos**: liberalismo vs. mercantilismo, derechos individuales
+
+Los clásicos escribían en medio de estos cambios y trataban de **entenderlos y orientarlos**.
+
+## Las preguntas fundamentales
+
+La economía clásica se organizó alrededor de tres preguntas:
+
+1. **¿Qué determina el valor de las cosas?** (Teoría del valor)
+2. **¿Cómo se reparte el producto entre clases sociales?** (Teoría de la distribución)
+3. **¿Qué hace que una nación sea rica o pobre?** (Teoría del crecimiento)
+
+## De la economía pre-científica a la científica
+
+**Antes de los clásicos**:
+
+- Ausencia de concepción sistémica e interdependiente
+- Ausencia de identificación de leyes y regularidades
+
+**Con los clásicos**:
+
+- La economía como **sistema** de mercados interconectados
+- Identificación de **leyes naturales** que gobiernan la actividad económica
+
+# Adam Smith (1723-1790) {background="#43464B"}
+
+## Vida y formación
+
+- Nació en Kirkaldy, Escocia, en 1723
+- **Universidad de Glasgow (1737)**: estudiantes pagaban directamente a profesores $\longrightarrow$ incentivos para buena enseñanza
+- **Balliol College, Oxford (1740-1746)**: visión crítica del sistema autoritario y memorístico
+- **1751**: Profesor de Filosofía Moral en Glasgow
+- **1759**: Publica *La Teoría de los Sentimientos Morales*
+- **1776**: Publica *La Riqueza de las Naciones*
+
+## El viaje que cambió todo
+
+- En 1764, **Smith** renuncia a su cátedra para ser tutor del duque de Buccleuch
+- Viaja a Francia y conoce a:
+  - **Voltaire** en Ginebra
+  - **D'Alembert** y **Quesnay** en París
+- Pensó en dedicar *La Riqueza de las Naciones* a **Quesnay**
+- Entre 1767 y 1776 escribe el libro en Kirkaldy
+
+## Dos libros, un sistema
+
+| **Teoría de los Sentimientos Morales (1759)** | **La Riqueza de las Naciones (1776)** |
+|-----------------------------------------------|---------------------------------------|
+| La simpatía como base de la moral | El interés propio como motor económico |
+| El "espectador imparcial" | La "mano invisible" |
+| La naturaleza humana es social | El mercado coordina decisiones |
+| **La simpatía refrena el egoísmo** | **La competencia limita el egoísmo** |
+
+## La filosofía de Smith
+
+- **Derecho natural**: los individuos tienen derechos *antes* de la existencia del Estado
+- **Armonía natural**: la intervención gubernamental es innecesaria e indeseable en la mayoría de los casos
+- **Escepticismo del burócrata**: el individuo conoce sus intereses mejor que cualquier funcionario
+
+## La mano invisible
+
+> "Dirigiendo esa actividad de forma que consiga el mayor valor, sólo busca su propia ganancia, y en esto como en otros casos está conducido por una **mano invisible** que promueve un objetivo que no entraba en sus propósitos."
+**[Adam Smith, *La Riqueza de las Naciones*, Libro IV]**
+
+- El mercado **coordina** millones de decisiones individuales sin planificación central
+- La búsqueda del interés propio, bajo competencia, genera bienestar social
+- **Pero**: **Smith** no era un apologista del capitalismo sin restricciones
+
+## Smith crítico del capitalismo
+
+> "Rara vez se reúnen personas del mismo oficio, aunque sea para divertirse, sin que la conversación termine en una conspiración contra el público o en alguna maquinación para subir los precios."
+**[Adam Smith]**
+
+- Criticó duramente los **monopolios** y las **coaliciones empresariales**
+- Advirtió sobre la influencia de los comerciantes en el gobierno
+- La "mano invisible" funciona **solo bajo competencia**
+
+## Valor en uso vs. valor en cambio
+
+> "Las cosas que tienen gran valor en uso frecuentemente apenas tienen valor en cambio; y las que tienen gran valor en cambio apenas tienen valor en uso. Pocas cosas hay más útiles que el agua, pero con ella no se puede comprar casi nada. Por el contrario, un diamante apenas tiene valor en uso y sin embargo se puede cambiar por una gran cantidad de bienes."
+**[Adam Smith, *La Riqueza de las Naciones*, Libro I]**
+
+Esta es la famosa **paradoja del valor** que los clásicos no pudieron resolver.
+
+## Tres preguntas sobre el valor
+
+**Smith** distinguió entre:
+
+1. **Fuente del valor**: ¿de dónde viene?
+2. **Medida del valor**: ¿cómo comparar valores?
+3. **Determinación del precio**: ¿cómo se fijan los precios?
+
+Usó el trabajo para las tres, pero de maneras diferentes.
+
+## Teoría del trabajo "ordenado"
+
+> "El valor de cualquier bien, para la persona que lo posee y que no piensa usarlo sino cambiarlo por otros, es igual a la cantidad de trabajo que pueda adquirir."
+**[Adam Smith]**
+
+- El trabajo ordenado da el número de horas de trabajo requeridas para ganar un salario igual al precio del bien
+- Es una **medida** del valor, no una explicación de qué lo determina
+
+## Teoría del trabajo "necesario"
+
+> "En el estado primitivo y rudo de la sociedad, la única circunstancia que puede servir de norma para el cambio parece ser la proporción entre las distintas cantidades de trabajo que se necesitan para adquirirlos."
+**[Adam Smith]**
+
+- En sociedades primitivas, el valor de las cosas es proporcional al trabajo necesario para producirlas
+- **Pero**: **Smith** reconoció que esto no funciona en sociedades capitalistas donde hay capital y tierra
+
+## La teoría de la suma de componentes
+
+> "Los salarios, el beneficio y la renta son las tres fuentes originarias de todo ingreso, así como de todo valor de cambio."
+**[Adam Smith]**
+
+El precio de una mercancía = salarios + beneficios + renta
+
+$$p = w + \pi + r$$
+
+**Problema**: esto explica precios con precios (circularidad).
+
+## El problema de la circularidad
+
+![](../_shared/images/hpae/fig-04-adam-smith-loop.png){fig-align="center"}
+
+## Precio natural vs. precio de mercado
+
+- **Precio natural**: costo de producción a largo plazo (salarios + beneficios + rentas "naturales")
+- **Precio de mercado**: determinado por oferta y demanda a corto plazo
+
+> "El precio natural es el precio central hacia el que gravitan continuamente los precios de todas las mercancías."
+**[Adam Smith]**
+
+## El ajuste del mercado
+
+![](../_shared/images/hpae/fig-diagram-ricardo-03.png){fig-align="center"}
+
+## Los factores de producción
+
+**Smith** dividió a la sociedad en **tres clases**:
+
+| Clase | Factor | Retribución |
+|-------|--------|-------------|
+| Trabajadores | Trabajo | Salario (w) |
+| Capitalistas | Capital | Beneficio (π) |
+| Terratenientes | Tierra | Renta (r) |
+
+## Salarios
+
+- A largo plazo: **salario de subsistencia** (mínimo para reproducción)
+- A corto plazo: puede variar según oferta y demanda
+- En economías en crecimiento: salarios pueden estar *por encima* de subsistencia
+
+**Diferencias salariales** por:
+
+1. Ingratitud del empleo
+2. Costo de aprendizaje
+3. Continuidad del empleo
+4. Confianza requerida
+5. Probabilidad de éxito
+
+## Beneficio y renta
+
+**Beneficio**: retorno del capital + compensación por riesgo
+
+- Es **incierto** (a diferencia del salario)
+- Tiende a bajar con la acumulación de capital (más competencia)
+
+**Renta**: pago residual después de salarios y beneficios
+
+> "La renta entra en la composición del precio de manera distinta a salarios y beneficio. Salarios y beneficios altos son **causa** de precios altos; renta alta es **consecuencia** del precio."
+
+## La teoría del crecimiento
+
+> "La mayor mejora en las fuerzas productivas del trabajo parece haber sido efecto de la división del trabajo."
+**[Adam Smith]**
+
+El nivel de vida ($Y/N$) depende de:
+
+1. La **productividad del trabajo** ($\pi$)
+2. La **proporción de empleados** ($L/N$)
+
+$$\frac{Y}{N} = \pi \times \frac{L}{N}$$
+
+## La fábrica de alfileres
+
+- Un trabajador solo podría hacer 1-20 alfileres por día
+- **Diez trabajadores especializados** producen 48,000 alfileres por día
+- La división del trabajo aumenta la productividad por:
+  1. Mayor destreza individual
+  2. Ahorro de tiempo entre tareas
+  3. Invención de máquinas
+
+## El mecanismo del crecimiento
+
+![](../_shared/images/hpae/fig-04-adam-smith-growth.png){fig-align="center"}
+
+## La dinámica del crecimiento
+
+![](../_shared/images/hpae/fig-diagram-ricardo-04.png){fig-align="center"}
+
+## La extensión del mercado
+
+> "La división del trabajo está limitada por la extensión del mercado."
+**[Adam Smith]**
+
+- Mercados más grandes $\longrightarrow$ más especialización $\longrightarrow$ mayor productividad
+- Por eso **Smith** favoreció el **libre comercio**
+- Toda restricción al tamaño del mercado frena el crecimiento
+
+# David Ricardo (1772-1823) {background="#43464B"}
+
+## El economista financiero
+
+- Hijo de un corredor de bolsa judío-portugués
+- Hizo fortuna en la bolsa antes de los 30 años
+- Leyó *La Riqueza de las Naciones* en 1799 y se convirtió en economista
+- **1817**: Publica *Principios de Economía Política y Tributación*
+
+## El método de Ricardo
+
+- Más **abstracto y riguroso** que **Smith**
+- Usó modelos simplificados para derivar conclusiones claras
+- Método de **abstracción sucesiva**: empezar con el caso más simple, luego agregar complejidades
+
+> "Ricardo es más sistemático que Smith, pero menos rico en observaciones."
+**[Joseph Schumpeter]**
+
+## La teoría del valor-trabajo
+
+- **Ricardo** intentó resolver lo que **Smith** dejó incompleto
+- El valor de las mercancías es proporcional al **trabajo necesario** para producirlas
+- Incluyó el trabajo "incorporado" en el capital (trabajo indirecto)
+
+**Problema de Ricardo**: el capital tiene diferentes durabilidades y esto afecta los precios relativos.
+
+## La teoría de la renta
+
+> "La renta es la porción del producto de la tierra que se paga al terrateniente por el uso de las fuerzas originales e indestructibles del suelo."
+**[David Ricardo]**
+
+- La renta surge porque la tierra es **escasa y de calidad desigual**
+- Se cultivan primero las mejores tierras; luego las peores
+- La renta de las mejores tierras = diferencia de productividad con la tierra marginal
+
+## La renta diferencial
+
+![](../_shared/images/hpae/fig-table-ricardo-rent-calculation.png){fig-align="center"}
+
+## La distribución del ingreso
+
+Para **Ricardo**, la distribución entre clases era el **problema central** de la economía política
+
+- A medida que crece la población, se cultivan tierras peores
+- La renta aumenta (terratenientes ganan)
+- El beneficio cae (capitalistas pierden)
+- Los salarios permanecen en subsistencia (trabajadores estancados)
+
+**Pesimismo ricardiano**: el crecimiento económico beneficia principalmente a los terratenientes.
+
+## La teoría de la ventaja comparativa
+
+> "En un sistema de comercio perfectamente libre, cada país dedica naturalmente su capital y trabajo a los empleos que le son más beneficiosos."
+**[David Ricardo]**
+
+- Incluso si un país es **menos eficiente en todo**, puede beneficiarse del comercio
+- Lo que importa son los **costos relativos**, no absolutos
+- Esta es probablemente la idea más contraintuitiva y poderosa de toda la economía
+
+## Ejemplo de ventaja comparativa
+
+| País | Vino (horas/unidad) | Tela (horas/unidad) |
+|------|---------------------|---------------------|
+| Portugal | 80 | 90 |
+| Inglaterra | 120 | 100 |
+
+- Portugal es más eficiente en **ambos** productos
+- Pero su ventaja es mayor en vino (80 vs 120) que en tela (90 vs 100)
+- **Portugal debe especializarse en vino; Inglaterra en tela**
+- Ambos países ganan con el comercio
+
+# John Stuart Mill (1806-1873) {background="#43464B"}
+
+## El último clásico
+
+- Hijo de **James Mill** (economista y filósofo)
+- Educación extraordinaria: griego a los 3 años, economía política a los 13
+- **1848**: Publica *Principios de Economía Política*
+- También filósofo político: defensor del utilitarismo, la libertad individual y los derechos de las mujeres
+
+## Mill como sintetizador
+
+- Su objetivo era **sistematizar** y **actualizar** la economía clásica
+- Incorporó elementos de críticos como **Malthus** y los socialistas
+- Distinguió entre **leyes de producción** (inmutables) y **leyes de distribución** (modificables por la sociedad)
+
+## La distinción producción/distribución
+
+> "Las leyes y condiciones de la producción de la riqueza participan del carácter de verdades físicas. No hay nada opcional o arbitrario en ellas. [...] No es así con la distribución de la riqueza. Esa es una cuestión de instituciones humanas."
+**[John Stuart Mill]**
+
+- La distribución puede ser modificada por **política**
+- Esto abrió la puerta a reformas sociales sin rechazar el capitalismo
+
+## El estado estacionario
+
+- **Mill** aceptó la idea ricardiana de que el crecimiento eventualmente se detendría
+- Pero no lo vio como algo negativo:
+
+> "Confieso que no me encanta el ideal de vida de aquellos que piensan que el estado normal del ser humano es una lucha por avanzar."
+**[John Stuart Mill]**
+
+- En el estado estacionario, la humanidad podría dedicarse a la **cultura y el bienestar** en lugar de la acumulación
+
+## Mill y el método
+
+- Promovió el método **hipotético-deductivo** en economía
+- Reconoció que la economía estudia solo **una parte** de las motivaciones humanas
+- Defendió la abstracción pero reconoció sus límites
+
+![](../_shared/images/hpae/fig-quote-mill-humility.png){fig-align="center"}
+
+# Valoración e importancia {background="#43464B"}
+
+## Contribuciones al desarrollo de la economía
+
+| Autor | Contribución principal | Impacto duradero |
+|-------|------------------------|------------------|
+| **Smith** | Sistema económico como orden espontáneo | Fundamento del liberalismo económico |
+| **Ricardo** | Ventaja comparativa, renta diferencial | Comercio internacional, análisis riguroso |
+| **Mill** | Distinción producción/distribución | Economía del bienestar, reformismo |
+
+## Validez a través del tiempo
+
+**Ideas que perduran**:
+
+- División del trabajo y especialización
+- **Ventaja comparativa** en comercio
+- Precios como señales de escasez
+- Competencia como disciplinador
+
+**Ideas superadas**:
+
+- Teoría del valor-trabajo (reemplazada por **utilidad marginal**)
+- Salarios de subsistencia (refutados por la historia)
+- Pesimismo sobre crecimiento (el progreso técnico cambió todo)
+
+## Caminos abiertos y cerrados
+
+**Caminos abiertos**:
+
+- El mercado como mecanismo de coordinación
+- El comercio internacional como juego de suma positiva
+- La distribución como cuestión política
+
+**Caminos cerrados** (temporalmente):
+
+- Teoría subjetiva del valor (tendrían que redescubrirla los marginalistas)
+- Rol de la demanda en determinación de precios
+- Análisis del equilibrio general
+
+## Capacidad explicativa y predictiva
+
+**Aciertos**:
+
+- Predijeron correctamente los beneficios del libre comercio
+- Explicaron el crecimiento económico mediante acumulación y especialización
+- Identificaron conflictos distributivos reales
+
+**Errores**:
+
+- No anticiparon el progreso tecnológico sostenido
+- Subestimaron la capacidad del capitalismo de elevar salarios
+- No resolvieron la **paradoja del valor** (tuvieron que esperar a 1870)
+
+# Resumiendo: puntos principales {background="#43464B"}
+
+## Ideas clave (I)
+
+- **Smith fundó la economía como sistema** $\longrightarrow$ mostró cómo el mercado coordina decisiones descentralizadas
+- **La mano invisible tiene condiciones** $\longrightarrow$ funciona bajo competencia, no con monopolios
+- **Ricardo formalizó el análisis** $\longrightarrow$ su teoría de la ventaja comparativa sigue siendo central
+
+## Ideas clave (II)
+
+- **La distribución es política** $\longrightarrow$ **Mill** mostró que podemos cambiar las reglas del juego
+- **Los clásicos dejaron problemas sin resolver** $\longrightarrow$ la teoría del valor esperaría a la revolución marginalista
+
+## Preguntas para reflexionar
+
+1. ¿Por qué la idea de la mano invisible se usa tanto para defender políticas que **Smith** habría rechazado?
+2. Si **Ricardo** tenía razón sobre la ventaja comparativa, ¿por qué hay tanta oposición al libre comercio?
+3. ¿Es sostenible la distinción de **Mill** entre producción y distribución?
+4. ¿Por qué los clásicos no pudieron resolver la paradoja del valor?
+
+# Bibliografía {background="#43464B"}
+
+## Lecturas principales
+
+- **Ekelund, R.B. y Hébert, R.F.** (2005). *Historia de la teoría económica y de su método*. Capítulos 5-7.
+- **Roncaglia, A.** (2006). *La riqueza de las ideas*. Capítulos 5-8.
+- **Schumpeter, J.A.** (1954). *History of Economic Analysis*. Part III, Capítulos 3-6.
+
+## Lecturas complementarias
+
+- **Smith, A.** (1776). *La Riqueza de las Naciones*. Libros I y IV (selecciones).
+- **Ricardo, D.** (1817). *Principios de Economía Política*. Capítulos 1-2, 7.
+- **Mill, J.S.** (1848). *Principios de Economía Política*. Libro II, Capítulo 1.

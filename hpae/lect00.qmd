@@ -1,0 +1,152 @@
+---
+title: "Historia del Pensamiento y del Analisis Economico"
+subtitle: "U0. Presentacion de la materia"
+author: "Sebastian Freille"
+institute: "Facultad de Ciencias Economicas, UNC"
+date: today
+format:
+  revealjs:
+    theme: theme-hpae.scss
+    embed-resources: true
+    slide-number: true
+    toc: true
+    toc-depth: 1
+    toc-title: "Contenidos"
+    width: 1500
+    height: 900
+lang: es
+execute:
+  echo: false
+  warning: false
+---
+
+# **Fundamentacion y objetivos** {background="#390040"}
+
+## Fundamentacion
+
+> Este curso presenta una aproximacion cronologica y sistematica al estudio de las principales teorias y doctrinas economicas. Los alumnos tendran la posibilidad de vincular conceptos economicos familiares con diferentes etapas en la evolucion de las ideas economicas a partir de la contribucion de los grandes pensadores y podran asimismo tener una vision mas completa del proceso de desarrollo de la ciencia economica.
+
+## Caracterizacion
+
+::: {.importante}
+La materia tiene caracteristicas que la diferencian en naturaleza, abordaje y alcance en relacion de la mayoria de las materias de la carrera. Involucra el estudio del surgimiento, maduracion y refinamiento de las principales teorias, ideas y razonamientos involucrados en el pensar economico.
+:::
+
+- **No es una historia de los acontecimientos** sino de la evolucion del
+pensamiento y analisis economico desde la antiguedad hasta nuestros
+dias.
+- **No es una mera cronología y listado de autores y sus ideas** sino
+una historia dinámica e interrelacionada de problemas, ideas y debates
+que ayudaron al desarrollo de la economía como la conocemos hoy
+- **No es una materia directamente intuitiva y sencilla** por cuanto requiere comprender, pensar y reflexionar en base a conceptos e ideas que en muchos casos han sido abandonados
+
+## Objetivos
+
+El objetivo de la materia es:
+
+- **Introducir y exponer** a los estudiantes a las principales corrientes del pensamiento economico
+- Realizar una **exposicion rigurosa y analitica** de las principales teorias y doctrinas economicas
+- **Promover la reflexion critica** sobre la evolucion y devenir de la disciplina
+- Lograr una mejor **comprension de los alcances, limitaciones y carencias** de la economia como ciencia
+
+# **Equipo, materiales y dictado** {background="#390040"}
+
+## Equipo docente
+
+- **Sebastian Freille**
+  - Email: [sfreille@unc.edu.ar](mailto:sfreille@unc.edu.ar)
+  - Horario de consulta: martes 17 a 18 (presencial) [Box 262]
+
+- **Melisa Luc**
+  - Email: [melisa.luc@unc.edu.ar](mailto:melisa.luc@unc.edu.ar)
+  - Horario de consulta: a definir
+
+- **Franco Godino**
+  - Email: [franco.godino@mi.unc.edu.ar](mailto:franco.godino@mi.unc.edu.ar)
+  - Horario de consulta: a definir
+
+## Bibliografia
+
+::: {.definicion}
+**Textos principales:**
+
+- Ekelund, R. B., Hebert, R. F. (2005). *Historia de la teoria economica y de su metodo*, Tercera Edicion. McGraw-Hill.
+- Landreth, H. y Colander, D. (2006). *Historia del pensamiento economico*, Cuarta edicion. McGraw-Hill.
+:::
+
+Adicionalmente, se recomiendan como textos integrales:
+
+::: {.definicion}
+**Textos complementarios (recomendados):**
+
+- Roncaglia, A. (2006). *The wealth of ideas: a history of economic thought*. Cambridge University Press.
+- Schumpeter, J. A. (2006). *History of economic analysis*. Routledge.
+:::
+
+## Recursos y materiales
+
+- [Aula virtual de la materia](https://eco.aulavirtual.unc.edu.ar/course/view.php?id=292)
+- [Pagina web personal](https://sfreille.github.io/teaching/hpae)
+- Copias digitalizadas de los principales materiales
+- Foros de unidades en aula virtual para consultas de contenidos
+
+# **Metodologia de evaluacion** {background="#390040"}
+
+## Evaluacion y aprobacion
+
+| Requisito | Detalle |
+|-----------|---------|
+| Regularizacion | Aprobar 2 (dos) parciales |
+| Recuperatorio | Se puede recuperar un solo parcial |
+| Aprobacion regular | Examen final en condicion de regular |
+| Aprobacion libre | Dos examenes (libre + regular) |
+
+::: {.importante}
+**Examen final especial** $\longrightarrow$ accederán quiénes 
+
+1. Aprueben los 2 (dos) primeros parciales
+2. Obtengan promedio de notas igual a 7.5
+3. Obtengan nota no menor a 7 en ambos parciales aprobados
+
+:::
+
+# **Contenidos del curso** {background="#390040"}
+
+## Programa abreviado (Unidades 1-5)
+
+| Unidad | Contenido |
+|--------|-----------|
+| U1 | Pensamiento y analisis economico: historia, metodos y desarrollo |
+| U2 | Desde los inicios hasta fines de la Edad Media |
+| U3 | Economia pre-clasica: mercantilismo y transicion liberal |
+| U4 | Economia politica clasica I: Smith, Ricardo, Mill |
+| U5 | Economia politica clasica II: Reacciones y criticas |
+
+## Programa abreviado (Unidades 6-10)
+
+| Unidad | Contenido |
+|--------|-----------|
+| U6 | Escuela neoclasica: revolucion marginalista |
+| U7 | Reacciones en el siglo XX: criticas al metodo |
+| U8 | Nacimiento de la macroeconomia: Keynes |
+| U9 | Renovacion teorica desde el periodo interguerras |
+| U10 | Nueva economia institucional y revolucion de la credibilidad |
+
+## Bienvenidos!
+
+::: {.v-center-container}
+> "Si he visto mas lejos es porque estoy sentado sobre los hombros de gigantes." \
+**[Isaac Newton (1675), citando a Bernardo de Chartres]**
+:::
+
+# **Miscelanea** {background="#390040"}
+
+## Sobre la imagen del curso
+
+::: {.ejemplo}
+La imagen de fondo elegida como simbolo de los contenidos de la materia es una reproduccion digital del cuadro **La Fundicion** (*Das Eisenwalzwerk*) de Adolph von Menzel (1875).
+
+El cuadro retrata con precision realista la intensa actividad en una fundicion del siglo XIX, evocando la fragua de Hefesto. Los obreros, comparados con ciclopes modernos, trabajan en torno a una maquina incandescente.
+:::
+
+Sin embargo, tras esta vision casi epica de la industrializacion, subyace una cruda realidad: jornadas agotadoras, condiciones inhumanas y explotacion extrema.

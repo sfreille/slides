@@ -104,7 +104,7 @@ format:
 \noindent
 {\sffamily\LARGE\bfseries\color{azul}Regímenes Monetarios en Argentina}
 \hfill
-{\footnotesize\color{gris}\sffamily HIEA · 2026}\\[2pt]
+{\footnotesize\color{gris}\sffamily HEAR · 2026}\\[2pt]
 {\small\color{gris}\sffamily El sistema internacional y Argentina, 1880\,--\,1914}
 
 \vspace{3pt}

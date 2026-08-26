@@ -1,4 +1,4 @@
 format:
   revealjs:
     embed-resources: true
-    css: ../_shared/css/theme-minimalist.scss
+    theme: ../_shared/css/theme-minimalist.scss

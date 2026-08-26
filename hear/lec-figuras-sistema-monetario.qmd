@@ -1,0 +1,32 @@
+---
+title: "U2. Figuras: sistema monetario y financiero"
+subtitle: "Historia Económica Argentina · Material complementario"
+---
+
+## Dinero, TDC e interés (1861–1881)
+
+![](../_shared/images/hear/fig-chart-money-exchange-rate-interest-1861-1881.png){fig-align="center" width="90%"}
+
+## Especie por sector (1883–1898)
+
+![](../_shared/images/hear/fig-chart-specie-holding-by-group-1883-1898.png){fig-align="center" width="90%"}
+
+## Especie por sector (1899–1914)
+
+![](../_shared/images/hear/fig-chart-specie-holding-by-group-1899-1914.png){fig-align="center" width="90%"}
+
+## Stock de especie (1883–1899)
+
+![](../_shared/images/hear/fig-table-argentine-specie-stock-holdings-1883-1899.png){fig-align="center" width="90%"}
+
+
+
+## Billetes, metálico y depósitos
+
+![](../_shared/images/hear/fig-chart-currency-specie-bank-money-1884-1914.png){fig-align="center" width="90%"}
+
+## Precios y tipo de cambio (1884–1914)
+
+![](../_shared/images/hear/fig-chart-prices-exchange-rate-1884-1914.png){fig-align="center" width="90%"}
+
+

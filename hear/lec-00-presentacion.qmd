@@ -1,0 +1,97 @@
+
+---
+title: "Introducción y presentación de la materia"
+subtitle: "Historia Económica Argentina. Clase 00 (intro)"
+---
+
+# Fundamentacion y objetivos {background="#1f3a5f"}
+
+## Fundamentacion y objetivo
+
+> Este curso se propone como objetivo analizar la evolución de la economía argentina durante el período que comienza con la consolidación del Estado Nacional en 1880 hasta la década de 1990. En el curso, se buscará ofrecer al alumno la información necesaria sobre el funcionamiento de la economía argentina, así como también brindar una explicación de sus cambios mediante el uso de la teoría económica como base. El énfasis estará puesto en el examen de las políticas económicas aplicadas y los resultados alcanzados. 
+
+## Caracterizacion
+
+> El curso se desarrollará a través de un ciclo de clases teórico- aplicadas. En las clases teóricas, el profesor abordará el programa, ordenado por capítulos y temas. En las aplicadas, se discutirán detalladamente algunas de las lecturas obligatorias y ocasionalmente se promoverán la discusión de temas en formatos estructurados. 
+
+# Equipo, materiales y dictado {background="#1f3a5f"}
+
+## Equipo docente
+
+- **Sebastian Freille**
+  - Email: [sfreille@unc.edu.ar](mailto:sfreille@unc.edu.ar)
+  - Horario de consulta: a definir
+
+- **Franco Godino**
+  - Email: [franco.godino@unc.edu.ar](mailto:franco.godino@unc.edu.ar)
+  - Horario de consulta: a definir
+
+
+## Bibliografia
+
+::: {.definicion}
+**Textos principales:**
+
+- Gerchunoff, Pablo y Llach Lucas, El ciclo de la ilusión y el desencanto. Un siglo de políticas económicas argentinas, Buenos Aires, Ariel, Edición 2007.
+- Gómez Mónica, Los avatares de la Primera Caja de Conversión argentina y su transformación final en Banco Central, 1890- 1935. Buenos Aires: Editorial Teseo, 2018.
+:::
+
+## Bibliografia (cont.)
+
+Adicionalmente, se recomiendan como textos integrales:
+
+::: {.definicion}
+**Textos complementarios (recomendados):**
+
+- Díaz Alejandro, Carlos, Ensayos sobre la historia económica argentina, Buenos Aires, Amorrortu, 1970.  
+- Schumpeter, J. A. (2006). *History of economic analysis*. Routledge.
+:::
+
+## Recursos y materiales (en construcción)
+
+- [Aula virtual de la materia](https://eco.aulavirtual.unc.edu.ar/course/view.php?id=292)
+- [Pagina web personal](https://sfreille.github.io/teaching/hear)
+- Copias digitalizadas de los principales materiales
+- Foros de unidades en aula virtual para consultas de contenidos
+
+# Metodologia de evaluacion {background="#1f3a5f"}
+
+## Evaluacion y aprobacion
+
+| Requisito | Detalle |
+|-----------|---------|
+| Regularizacion | Aprobar 2 (dos) parciales |
+| Recuperatorio | Se puede recuperar un solo parcial |
+| Aprobacion regular | Examen final en condicion de regular |
+| Aprobacion libre | Dos examenes (libre + regular) |
+
+## Evaluacion y aprobacion (cont.)
+
+::: {.importante}
+**Promoción indirecta** $\longrightarrow$ accederán quiénes 
+
+1. Aprueben los 2 (dos) primeros parciales
+2. Obtengan promedio de notas igual a 7
+3. Obtengan nota no inferior a 6 en ambos parciales aprobados
+
+:::
+
+# Contenidos del curso {background="#1f3a5f"}
+
+## Programa abreviado (Unidades 1-4)
+
+| Unidad | Contenido |
+|--------|-----------|
+| U1 | El período de progreso (1880-1914) |
+| U2 | Los años entre las dos guerras (1914-1945) |
+| U3 | La economía política del peronismo (1946-1955) |
+| U4 | Hacia la liberalización de los mercados en los años que siguieron al peronismo (1955-1963) |
+
+## Programa abreviado (Unidades 5-7)
+
+| Unidad | Contenido |
+|--------|-----------|
+| U5 | La década de expansión (1963-1973) |
+| U6 | El período de estancamiento y declinación (1973-1989) |
+| U7 | La década de los 90 |
+

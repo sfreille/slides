@@ -1,7 +1,7 @@
 format:
   revealjs:
     embed-resources: true
-    css:
+    theme:
       - ../_shared/css/theme-highlight.scss
       - cyfi-overrides.scss
     title-slide-attributes:

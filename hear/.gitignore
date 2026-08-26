@@ -1,0 +1,6 @@
+/.quarto/
+
+# Emacs lock/backup files
+\#*\#
+.#*
+*~

@@ -1,0 +1,498 @@
+---
+date: Marzo-Junio 2021
+title: |
+  Finanzas Públicas\
+  Cátedra: Prof. Dr. Sebastián Freille
+---
+
+::: {.frame}
+### Programa Analítico
+
+1.  Unidad 1.La economía del sector público: Introducción, conceptos y
+    alcance
+
+2.  Unidad 2. Las decisiones colectivas: Agregación de preferencias y
+    decisiones sociales
+
+3.  Unidad 3. El gasto público. El presupuesto público.
+
+4.  Unidad 4. Los recursos del sector público.
+
+5.  Unidad 5. Impuestos a los ingresos
+
+6.  **Unidad 6. Impuestos a los consumos**
+
+7.  Unidad 7. Impuestos a la riqueza y otros impuestos.
+
+8.  Unidad 8. Sostenibilidad fiscal: déficit público, endeudamiento y
+    emisión monetaria.
+
+9.  Unidad 9. Federalismo fiscal y relaciones financieras
+    inter-gubernamentales
+
+10. Unidad 10. Temas especiales: Tributación y gasto internacional,
+    sistemas de pensiones y programas de redistribución
+:::
+
+::: {.frame}
+### Bibliografia
+
+-   Due, J. & Friedlaender, A. (1977). Análisis Económico de los
+    Impuestos y del Sector Público (4ta Edición). Buenos Aires: El
+    Ateneo. Capítulos 10 a 13. Solicitar por: T 336 D 29576
+
+-   Cetrángolo, O., & Gómez Sabaini, J. C. (2007). La tributación
+    directa en América Latina y los desafíos a la imposición sobre la
+    renta. CEPAL. Capítulo II, págs. 45-92. Disponible:
+
+-   Musgrave y Musgrave (1992). Hacienda Pública Teórica y Aplicada (5a.
+    edición). Madrid: Mc. Graw Hill. Capítulo 21. Solicitar por: T 336 M
+    38730
+
+-   Albi, E., González-Páramo, J. M., & Zubiri, I. (2009). Economía
+    Pública II (3ra. edición). Barcelona: Ariel. Capítulos 4 y 5.
+    Solicitar por: T 336 A 53015 T.2
+
+-   Rosen, H. S. (2008). Hacienda Pública (7ma. edición). Madrid:
+    McGraw-Hill/Interamericana. Capítulo 15, págs 359 a 400. Disponible:
+
+-   Nuñez Miñana H. Finanzas Públicas. Buenos Aires: Ed. Macchi.
+    Capítulo 7, páginas 210-232. Solicitar por: T 336.2 N 44058
+:::
+
+# Unidad 6. Impuestos a los consumos
+
+# Introducción: aspectos generales
+
+::: {.frame}
+### Preguntas
+
+-   ¿Gravar a la renta o a los consumos no es lo mismo?
+
+-   ¿La imposición al consumo distorsiona la decisión consumo-ahorro?
+
+-   ¿Qué tipos de impuestos al consumo existen?
+
+-   ¿Son eficientes y equitativos los impuestos al consumo?
+
+-   ¿Por qué son atractivos los impuestos al consumo
+:::
+
+# Ingreso versus consumo
+
+::: {.frame}
+### Ingreso versus consumo
+
+-   El consumo es otra manifestación de capacidad contributiva, tal como
+    lo es el ingreso o el patrimonio.
+
+-   Podría ser instrumentado entonces un principio de equidad donde los
+    que más consuman más paguen -- progresividad. Para ello se
+    requeriría gravar en forma directa el consumo --impuesto al gasto
+    total de las personas en bienes de consumo.
+
+-   En términos de eficiencia, la diferencia fundamental entre un
+    impuesto a la renta y un impuesto al consumo es que el segundo no
+    distorsiona la decisión consumo/ahorro.
+
+-   En otras palabras, esta forma de imposición consiste en gravar el
+    **consumo real** en lugar del **consumo potencial** --recuerde que
+    $Y=C+S$
+:::
+
+::: {.frame}
+### Ingreso versus consumo (cont.)
+
+-   Sabemos que:
+
+    $$\begin{aligned}
+            C+S=Y \\
+            C=Y-S
+          \end{aligned}$$
+
+-   ¿Qué pasa con la renta que se ahorra? Dos personas pueden ganar lo
+    mismo pero consumir una mas que la otra. Con un impuesto a la Y
+    pagarían lo mismo, con un impuesto al C pagarian diferente.
+
+-   En otras palabras, ¿debemos eximir al ahorro del pago de impuestos?
+    $\longrightarrow$ equivale a preguntar si debe eximirse los ingresos
+    generados por el ahorro (intereses, dividendos, ganancias de
+    capital)
+:::
+
+::: {.frame}
+### Tipos de imposición al consumo
+
+Los impuestos al consumo pueden ser:
+
+-   De carácter personal
+
+    -   Impuesto al gasto
+
+-   De carácter no personal
+
+    -   Determinados bienes
+
+        -   Impuestos específicos
+
+    -   Consumo en general
+
+        -   Impuesto generales sobre las ventas
+:::
+
+::: {.frame}
+### Tipos de imposición al consumo (cont.)
+
+![Modalidades de imposición al
+consumo](uni6_tiposconsumo.pdf){#fig:fig1}
+:::
+
+::: {.frame}
+### Enfoques para gravar el consumo
+
+-   Imposición directa sobre el gasto personal $\longrightarrow$ se
+    aplica un impuesto sobre los gastos que realizan las familias en
+    bienes de consumo --no alcanza el ahorro, salvo cuando éste es
+    consumido
+
+-   Imposición proporcional sobre la renta con exención del rendimiento
+    normal del ahorro $\longrightarrow$ se aplica un impuesto sobre la
+    renta que exime expresamente el rendimiento normal del ahorro.
+
+-   Imposición proporcional sobre la renta con desgravación de la
+    inversión de capital $\longrightarrow$ Se aplica un impuesto sobre
+    la renta que permite deducir el 100% de las inversiones realizadas,
+    en el mismo momento en que éstas se realizan. Luego, cuando la
+    inversión se realiza se grava por el total de la misma. Este
+    impuesto generaría los mismos efectos que un impuesto al consumo
+
+-   Imposición indirecta sobre el consumo (mercado de bienes)
+:::
+
+::: {.frame}
+### Ingreso versus consumo: Efectos sobre ahorro
+
+::: {.block}
+Dos gemelos idénticos Modesto y Presunto, ambos ganan lo mismo a lo
+largo de la vida. Sin embargo, Modesto ahorra el 20% de sus ingresos
+durante su vida y logra acumular un ahorro importante para su
+jubilación. Presunto gasta todo su ingreso y cuando se jubila debe
+acudir al Estado. Si hay un impuesto a la renta, Modesto pagará mucho
+más impuesto que Presunto --debe pagar impuestos sobre los intereses que
+generan sus ahorros) y recibe mucho menos prestaciones. Obviamente,
+Modesto no esetará muy contento con esta situación ya que percibe que se
+penaliza el ahorro (ingreso futuro).
+:::
+:::
+
+::: {.frame}
+### Equivalencia de impuestos
+
+-   Se dice que dos impuestos son equivalentes si su incidencia es
+    exactamente la misma --impuesto sobre el consumo e impuesto sobre el
+    salario equivalentes
+
+-   
+
+-   Que dos impuestos sean equivalentes no implica que no haya efectos
+    cuando se sustituye uno por otro --equivalencia en este sentido
+    implica **mismos efectos a largo plazo**
+
+-   Ejemplo $\longrightarrow$ si se sustituye un impuesto sobre el $Y$ a
+    lo largo de toda la vida por un impuesto sobre el $C$ a lo largo de
+    toda la vida, los ancianos deberán pagar impuestos dos veces!
+:::
+
+::: {.frame}
+### Ingreso durante toda la vida
+
+-   ¿Qué pasaria si en vez de pagar impuesto a la renta anual lo
+    pagaramos por todo el período de ingresos de la vida?
+    $\longrightarrow$ el Y obtenido a lo largo de la vida es el *valor
+    actual descontado* de los ingresos salariales del individuo
+
+-   Si una persona vive durante dos períodos y recibe un salario $w_0$
+    en el primero y $w_1$ en el segundo, el valor actual descontado
+    sera: $$y*=w_0+\frac{w_1}{1+r}$$
+
+-   Y notese que el valor descontado del consumo de esa persona a lo
+    largo de su vida debe ser igual al valor descontado del ingreso (si
+    no hay herencias, donaciones.
+:::
+
+::: {.frame}
+### Ingreso durante toda la vida (cont.)
+
+-   En otras palabras, si $c_0$ es el consumo en el primer período y
+    $c_1$ el consumo en en l segundo período, entonces:
+    $$y*=c_0+\frac{c_1}{1+r}$$
+
+-   Puede comprobarse que si la base tributaria es el ingreso a lo largo
+    de su vida entonces es lo mismo que hacer que la base tributaria sea
+    el consumo a lo largo de toda su vida.
+
+-   Independientemente de cómo se reparta la renta o el consumo,
+    pagarían lo mismo si se cumpliera lo anterior $\longrightarrow$ no
+    afecta decisión consumo ahorro.
+
+-   Implicancia $\longrightarrrow$ la renta procedente de intereses debe
+    estar exenta!
+:::
+
+::: {.frame}
+### Efectos decisión consumo-ahorro
+
+-   Dos períodos --1 y 2- y dos casos --A y B. La alícuota es igual a
+    $t=10\%$.
+
+-   Sean $Y_1=100$, $Y_2=0$ y la tasa de interés, $i=10\%$. SUPUESTO: No
+    hay ahorro al final de la vida.
+
+-   Casos alternativos de uso del ingreso:
+
+    -   Caso A (gastador miope) $\longrightarrow$ $Y_1=C_1=100$ e
+        $Y_2=C_2=0$
+
+    -   Caso B (ahorrador ascético) $\longrightarrow$ $Y_1=100$, $C_1=0$
+        e $Y_2=10$, $C_2=110$
+
+-   Veamos que pasa con los impuestos al consumo e impuesto al ingreso
+    en ambos casos.
+:::
+
+::: {.frame}
+### Efectos decisión consumo-ahorro (cont.)
+
+-   Impuesto al consumo
+
+    -   Caso A $\longrightarrow$ impuesto en período 1, $T_1=C_1*t$ es
+        decir $T_1=100*0.1=10$; impuesto en período 2, $T_2=C_2*t$ es
+        decir $T_2=0*0.1=0$. $T_1$ llevado al período 2 con interés es
+        igual a $11$. Impuesto total: $T_1+T_2=11$
+
+    -   Caso B $\longrightarrow$ impuesto en período 1, $T_1=C_1*t$ es
+        decir $T_1=0*0.1=0$; impuesto en período 2, $T_2=C_2*t$ es decir
+        $T_2=110*0.1=11$. Impuesto total: $T_1+T_2=11$
+:::
+
+::: {.frame}
+### Efectos decisión consumo-ahorro (cont.)
+
+-   Impuesto al ingreso
+
+    -   Caso A $\longrightarrow$ impuesto en período 1, $T_1=Y_1*t$ es
+        decir $T_1=100*0.1=10$; impuesto en período 2, $T_2=Y_2*t$ es
+        decir $T_2=0*0.1=0$. $T_1$ llevado al período 2 con interés es
+        igual a $11$. Impuesto total: $T_1+T_2=11$
+
+    -   Caso B $\longrightarrow$ impuesto en período 1, $T_1=Y_1*t$ es
+        decir $T_1=100*0.1=10$; impuesto en período 2, $T_2=Y_2*t$ es
+        decir $T_2=10*0.1=1$. $T_1$ llevado al periodo 2 con interes es
+        igual a $11$. Impuesto total: $T_1+T_2=11+1=12$
+
+-   Puede observarse como el impuesto al consumo no distorsiona la
+    decisión consumo-ahorro mientras que el impuesto a la renta si lo
+    hace --i.e. conviene consumir todo antes y no ahorrar nada.
+:::
+
+::: {.frame}
+### Impuesto personal al gasto
+
+-   Permite gravar una manifestación de capacidad contributiva aplicando
+    progresividad. Posibilidad de deducciones y aspectos específicos de
+    las familias. Puede definirse un criterio "amplio" o "estrecho" de
+    consumo --el último incluiría donaciones y herencias dadas.
+
+-   Sujeción espacial $\longrightarrow$ para garantizar equidad entre
+    contribuyentes la potestad tributaria debería recaer en el país
+    donde reside la persona y gravarse los consumos hechos en el país y
+    fuera del país.
+
+-   Delimitación temporal $\longrightarrow$ Por ser variable flujo, debe
+    definirse el período sobre el que se van a acumular los gastos para
+    determinar la base del impuesto.
+
+-   Unidad contribuyente $\longrightarrow$ Enfoque individual vs
+    familiar. Mismos problemas de incentivos que en impuesto a la renta.
+
+-   Su gran problema es la complejidad administrativa.
+:::
+
+::: {.frame}
+### Impuesto plano: Flat Tax
+
+Combina dos impuestos:
+
+-   Un impuesto sobre las empresas $\longrightarrow$ base consiste en
+    las ventas netas de materias primas, materiales, insumos,
+    inversiones, sueldos y jornales. Como se permite restar las
+    inversiones en el momento en que se realizan, el impuesto se asemeja
+    en sus efectos a un impuesto que grava el consumo (se desgrava el
+    rendimiento normal de las inversiones).
+
+-   Un impuesto sobre las personas $\longrightarrow$ base son los
+    sueldos/salarios/jubilaciones, incluyendo una deducción personal.
+
+-   Se aplica con alícuota plana sobre ambos niveles, aunque también
+    podrían aplicarse alícuotas progresivas.
+
+-   Ventajas $\longrightarrow$ grava una sola vez los distintos tipos de
+    rentas; simplicidad administrativa; capacidad recaudadora.
+:::
+
+::: {.frame}
+### Impuesto indirectos: Impuesto a las transacciones
+
+-   Gravan el consumo en forma indirecta. Poco usado en el mundo excepto
+    en\...Argentina! $\longrightarrow$ impuesto a los ingresos brutos.
+
+-   Grava las **ventas** de todos los productos y en todas las fases de
+    la producción y comercialización $\longrightarrow$ es por ello que
+    es de carácter general y plurifásico.
+
+-   Genera el famoso **efecto cascada** (o efecto acumulación)
+    $\longrightarrow$ grava ventas brutas de distintas etapas.
+
+-   La BI se conforma de las ventas del contribuyente acumuladas durante
+    un período de tiempo determinado; puede aplicarse con alícuota única
+    (la misma alícuota para todas las etapas) o con alícuotas
+    diferenciales (usualmente crecientes hacia el consumo final)
+:::
+
+::: {.frame}
+### Impuestos indirectos: Efecto cascada
+
+![Valor agregado y efecto cascada](uni6_cascada.pdf){#fig:fig1}
+:::
+
+::: {.frame}
+### Impuesto a las transacciones: Eficiencia
+
+-   Presenta muchas deficiencias desde el punto de vista de la
+    eficiencia. Entre sus desventajas estan:
+
+    -   Genera cambios en precios relativos $\longrightarrow$ bienes mas
+        gravados aquellos de mas etapas
+
+    -   Lesiona la competitividad externa de bienes de exportación
+
+    -   Penaliza a los bienes de producción nacional que compiten con
+        importaciones
+
+    -   Grava doblemente a los bienes de K --cuando se venden y cuando
+        se incorporan como insumos al proceso productivo.
+
+    -   Incentiva integracion vertical de las empresas
+
+-   Tampoco es un buen impuesto desde el punto de vista de la equidad
+    $\longrightarrow$ incide más fuerte sobre aquellos que más consumen
+
+-   ¿Por qué se usa entonces? Amplísima base imponible permite alícuotas
+    bajas; baja visibilidad ante votantes/consumidores; facil de
+    recaudar.
+:::
+
+::: {.frame}
+### Impuestos indirectos monofásicos
+
+-   Existen impuestos indirectos de tipo **monofásicos**
+    $\longrightarrow$ gravan sólo una etapa del proceso de producción.
+    Algunos ejemplos son el Impuesto a las Ventas Mayoristas o Impuesto
+    a las Ventas Minoristas (IVM).
+
+-   La BI va creciendo a medida que se llega a las etapas finales por lo
+    que permite usar alicuotas bajas para obtener mayor recaudación (o
+    misma recaudación con menor alícuota)
+
+-   Desde la eficiencia $\longrightarrow$ el "mejor" sería un Impuesto a
+    las Ventas Finales (IVF) \[¿Por qué?\]
+
+-   El IVF grava solo ventas para consumo final; a diferencia del IVM
+    que podría gravar bienes no destinados a consumo final.
+
+-   Desventaja del IVF $\longrightarrow$ dificil control, fiscalización
+    y "ocultamiento" de ventas finales
+:::
+
+::: {.frame}
+### Impuestos monofásicos: Ejemplos
+
+![Comparación de impuestos monofásicos](uni6_monofasicos.pdf){#fig:fig1}
+:::
+
+::: {.frame}
+### Impuestos indirectos monofásicos: resumen
+
+-   Para un mismo tipo impositivo, el efecto es mayor sobre el precio
+    cuanto más nos acercamos a la fase minorista, pero la recaudación
+    también es mayor.
+
+-   Los monofásicos minoristas son más neutrales. El impacto en el
+    precio no depende del número de fases de producción y distribución.
+
+-   Los monofásicos no permiten una ajuste en frontera adecuado (salvo
+    el minorista)
+
+-   En los monofásicos es difícil delimitar quienes son fabricante,
+    mayorista o minorista. Ademas, el control cruzado no es posible.
+:::
+
+::: {.frame}
+### El valor agregado
+
+![La cadena de valor agregado](uni6_valoragregado.pdf){#fig:fig1}
+:::
+
+::: {.frame}
+### El impuesto al valor agregado
+
+-   Es un impuesto indirecto sobre el consumo que grava las ventas de
+    bienes en general, en todas sus etapas, pero que es no acumulativo
+    $\longrightarrow$ la BI es el valor agregado en cada etapa. El VA en
+    toda etapa puede determinarse a partir de dos métodos:
+
+    -   por adición --suma de pagos a los factores
+
+    -   por sustracción --diferencia entre valor de venta del bien en
+        etapa "i" y el valor de insumos adquiridos en etapa "i'. En este
+        método, hay dos variantes: a) sustracción real --diferencia
+        valor producido menos insumos usados (requiere valuar
+        inventarios); b) sustracción financiera --valor de ventas menos
+        valor de compra de insumos.
+
+-   El problema de las diferencias entre estos tres metodos se dan a
+    corto plazo y generalmente por la variación de existencias
+    (acumulación de stocks insumos/productos)
+:::
+
+::: {.frame}
+### El impuesto al valor agregado (cont.)
+
+-   En la práctica hay dos métodos de cálculo operativo frecuentemente
+    usados.
+
+    -   IVA metodo valor añadido bruto $\longrightarrow$ valor agregado
+        como diferencia entre valor de ventas y valor de compras de
+        insumos y bienes de K: $VA_i=Vtas_{i}-Cpras_{i}$
+
+    -   IVA método credito en el impuesto $\longrightarrow$ el IVA a
+        ingresar por una empresa es igual al IVA facturado en sus ventas
+        menos el IVA soportado en sus compras: $VA_i=IVA_i^V-IVA_i^C$
+:::
+
+::: {.frame}
+### IVA en relación a otros impuestos indirectos
+
+-   Ventajas respecto a otros multifasicos
+
+    -   reparte su carga con uniformidad con independencia del numero de
+        fases
+
+    -   no crea "rentas fiscales"
+
+-   Ventajas respecto a monofasico sobre minoristas
+
+    -   No es preciso definir que se entiende por minorista
+
+    -   Facilita mas informacion a la administracion tributaria
+:::

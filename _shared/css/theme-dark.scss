@@ -1,0 +1,222 @@
+// ============================================
+// THEME: DARK
+// Dark mode theme for presentations
+// ============================================
+
+/*-- scss:defaults --*/
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500&display=swap');
+
+// Fonts
+$font-family-sans: 'Source Sans Pro', 'Helvetica', 'Arial', sans-serif;
+$font-family-mono: 'Fira Code', 'Consolas', monospace;
+$font-family-base: $font-family-sans;
+$font-family-headings: $font-family-sans;
+
+// Font sizes
+$font-size-base: 40px;
+$font-size-title: 2em;
+$font-size-h1-h2: 1.5em;
+$font-size-h3-h6: 1em;
+$font-size-code: 0.7em;
+$title-slide-title-size: 3.5em;
+$title-slide-subtitle-size: 1.5em;
+$title-slide-author-size: 1.2em;
+
+// Colors - Dark theme
+$color-primary: #e0e0e0;
+$color-secondary: #b0b0b0;
+$color-accent: #64b5f6;
+$color-background: #1a1a2e;
+$color-text: #e0e0e0;
+
+// Title slide
+$title-slide-title-color: #ffffff;
+$title-slide-subtitle-color: #64b5f6;
+$title-slide-author-color: #b0b0b0;
+$title-slide-date-color: #b0b0b0;
+
+// Content colors
+$heading-color: #ffffff;
+$link-color: #64b5f6;
+$link-hover-color: lighten(#64b5f6, 15%);
+$code-bg: #2d2d44;
+$code-color: #ff79c6;
+$blockquote-color: #888888;
+
+// Spacing
+$paragraph-margin: 0 0 0 1em;
+$paragraph-margin-bottom: 10px;
+$list-margin: 0 0 0 0.25em;
+$list-padding: 0.25em;
+$list-item-margin: 3px;
+$list-item-padding: 3px;
+$line-height: 1.2;
+
+/*-- scss:rules --*/
+
+// Global
+.reveal {
+  font-family: $font-family-base;
+  font-size: $font-size-base;
+  color: $color-text;
+  background-color: $color-background;
+}
+
+// Headings
+.reveal h1.title {
+  color: $heading-color;
+  font-family: $font-family-headings;
+  font-size: $font-size-title;
+  text-transform: none;
+}
+
+.reveal h2.author,
+.reveal h3.date {
+  color: $color-secondary;
+  font-size: $font-size-title;
+  text-transform: none;
+}
+
+.reveal h1,
+.reveal h2 {
+  color: $heading-color;
+  font-family: $font-family-headings;
+  font-size: $font-size-h1-h2;
+  text-transform: none;
+}
+
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  color: $heading-color;
+  font-size: $font-size-h3-h6;
+  text-transform: none;
+}
+
+// Text elements
+.reveal p {
+  margin: $paragraph-margin;
+  line-height: $line-height;
+  margin-bottom: $paragraph-margin-bottom;
+}
+
+.reveal ul {
+  list-style-type: disc;
+  margin: $list-margin;
+  padding: $list-padding;
+  line-height: $line-height;
+}
+
+.reveal ol {
+  margin: $list-margin;
+  padding: $list-padding;
+  line-height: $line-height;
+}
+
+.reveal li {
+  margin: $list-item-margin;
+  padding: $list-item-padding;
+  line-height: $line-height;
+}
+
+// Title slide
+#title-slide {
+  .title {
+    font-size: $title-slide-title-size;
+    color: $title-slide-title-color;
+    font-family: $font-family-headings;
+  }
+
+  .subtitle {
+    font-size: $title-slide-subtitle-size;
+    color: $title-slide-subtitle-color;
+  }
+
+  .author {
+    font-size: $title-slide-author-size;
+    color: $title-slide-author-color;
+  }
+
+  .date {
+    color: $title-slide-date-color;
+  }
+}
+
+// Links
+.reveal a {
+  color: $link-color;
+  text-decoration: none;
+
+  &:hover {
+    color: $link-hover-color;
+    text-decoration: underline;
+  }
+}
+
+// Code - dark mode optimized
+.reveal code {
+  font-family: $font-family-mono;
+  font-size: $font-size-code;
+  background-color: $code-bg;
+  color: $code-color;
+  padding: 0.1em 0.3em;
+  border-radius: 3px;
+}
+
+.reveal pre {
+  font-family: $font-family-mono;
+  font-size: $font-size-code;
+  background-color: $code-bg;
+  padding: 0.5em;
+  border-radius: 5px;
+}
+
+.reveal pre code {
+  background-color: transparent;
+  padding: 0;
+}
+
+// Blockquotes
+.reveal blockquote {
+  border-left: 4px solid $color-accent;
+  padding-left: 1em;
+  margin: 1em 0;
+  color: $blockquote-color;
+  font-style: italic;
+}
+
+// Tables
+.reveal table {
+  border-collapse: collapse;
+  margin: 1em auto;
+}
+
+.reveal table th,
+.reveal table td {
+  border: 1px solid #444466;
+  padding: 0.5em 1em;
+}
+
+.reveal table th {
+  background-color: #2d2d44;
+  font-weight: 600;
+}
+
+// Slide backgrounds for dark theme
+.reveal .slides section {
+  background-color: $color-background;
+}
+
+// Utilities
+.v-center-container {
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+  height: 60%;
+}
+
+.small { font-size: 0.8em; }
+.large { font-size: 1.2em; }
+.muted { color: $blockquote-color; }

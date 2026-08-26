@@ -1,0 +1,579 @@
+
+
+% Auriga theme
+% https://github.com/anishathalye/auriga
+
+\documentclass[14pt,aspectratio=169]{beamer}
+\usepackage{pgfpages}
+\usepackage{fancyvrb}
+\usepackage{booktabs,dcolumn}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta, positioning, quotes}
+\usepackage{pgfplots}
+
+% \ifnotes
+% \setbeamertemplate{note page}[plain]
+% \setbeameroption{show notes on second screen=right}
+% \fi
+
+\usetheme{auriga}
+\usecolortheme{auriga}
+
+% define some colors for a consistent theme across slides
+\definecolor{red}{RGB}{181, 23, 0}
+\definecolor{blue}{RGB}{0, 118, 186}
+\definecolor{gray}{RGB}{146, 146, 146}
+
+\title{Historia EconÃ³mica Argentina}
+
+\author{\underline{SebastiÃ¡n Freille} \inst{1}}
+
+\institute[shortinst]{\inst{1} IEF-UNC \\ UCC}
+\date{}
+
+\AtBeginSection[]{
+    \begin{frame}
+    \vfill
+    \centering
+    \begin{beamercolorbox}[sep=8pt,center,shadow=true,rounded=true]{title}
+        \usebeamerfont{title}\insertsectionhead\par%
+    \end{beamercolorbox}
+    \vfill
+    \end{frame}
+}
+
+
+
+\AtBeginSubsection[]{
+    \begin{frame}
+    \vfill
+    \centering
+    \begin{beamercolorbox}[sep=6pt,center,shadow=true,rounded=true]{title}
+        \usebeamerfont{title}\insertsubsectionhead\par%
+    \end{beamercolorbox}
+    \vfill
+    \end{frame}
+}
+
+
+\AtBeginSubsubsection[]{
+    \begin{frame}
+    \vfill
+    \centering
+    \begin{beamercolorbox}[sep=4pt,center,shadow=true,rounded=true]{title}
+        \usebeamerfont{title}\insertsubsubsectionhead\par%
+    \end{beamercolorbox}
+    \vfill
+    \end{frame}
+}
+
+
+\begin{document}
+
+{
+  % rather than use the frame options [noframenumbering,plain], we make the
+  % color match, so that the indicated page numbers match PDF page numbers
+  \setbeamercolor{page number in head/foot}{fg=background canvas.bg}
+  \begin{frame}
+    \titlepage
+  \end{frame}
+}
+
+
+\section{Cap 5. La dÃ©cada de expansiÃ³n}
+
+\begin{frame}\frametitle{Un nuevo intento de democracia}
+                 \begin{itemize}\itemsep 5pt \medskip
+                 \item La elecciÃ³n de 1963 fue restringida
+                   --candidatos peronistas proscriptos. Nuevamente la
+                   explicaciÃ³n el profundo anti-peronismo del ala
+                   militar
+                   \item Pero la influencia de PerÃ³n era importante
+                     --20\% de votos en blanco fue la segunda minorÃ­a
+                     \item Illia pertenecÃ­a a un radicalismo diferente
+                       al de Frondizi (linea Yrigoyenista)
+                   \end{itemize}
+               \end{frame}
+
+
+               \begin{frame}\frametitle{Un nuevo intento de democracia
+                 (cont.)}
+                 \begin{itemize}\itemsep 5pt \medskip
+                 \item Illia tuvo un posiciÃ³n difÃ­cil --tanto el
+                   peronismo (sindicalismo) como el ``partido militar'' condicionaban
+                   la autoridad del presidente
+                   \item La relaciÃ³n entre el gobierno y el
+                     sindicalismo (CGT) fue
+                     complicada --toma de fÃ¡bricas, paros generales
+                     \item El frente militar fue benigno al principio
+                       pero luego radicalizÃ³ el discurso en pocos aÃ±os
+                       --convivencia dificultada por la posiciÃ³n ante
+                       el regreso y ``habilitaciÃ³n'' del peronismo
+                   \end{itemize}
+               \end{frame}
+
+
+                \begin{frame}\frametitle{Un nuevo intento de democracia
+                 (cont.)}
+                 \begin{itemize}\itemsep 5pt \medskip
+                 \item El fantasma de un nuevo golpe cÃ­vico-militar
+                   siempre sobrevolÃ³ la presidencia de Illia --medios
+                   de comunicaciÃ³n sumaban tensiÃ³n.
+                   \item Hacia mediados de 1966, la tensiÃ³n era
+                     creciente y a finales de junio Illia (UCRP) es
+                     derrocado.
+                     \item Los jefes de las tres fuerzas militares
+                       declararon el inicio de la RevoluciÃ³n Argentina
+                       y Juan Carlos OnganÃ­a asume el poder. 
+                   \end{itemize}
+               \end{frame}
+
+               
+
+
+                \begin{frame}\frametitle{La economÃ­a de \textit{stop
+                      and go}}
+                 \begin{itemize}\itemsep 5pt \medskip
+                 \item El contexto econÃ³mico en que asume Illia era de
+                   recesiÃ³n prolongada (2 aÃ±os) --desempleo en aumento
+                   y salario real disminuido
+                   \item Un tema central era la iliquidez y escasez de
+                     crÃ©dito $\longrightarrow$ corte abrupto de K
+                     exterior mÃ¡s polÃ­tica monetaria ortodoxa
+                     \item Dadas las cosas, el objetivo prioritario de
+                       Illia fue la reactivaciÃ³n econÃ³mica --desafÃ­o
+                       era superar definitivamente el esquema de
+                       \textit{stop and go} que aquejaba a la economÃ­a
+                       desde hacÃ­a mÃ¡s de 15 aÃ±os --aumento de PBI pc
+                       entre 1948-63 sÃ³lo de 4\% (promedio mundial del 50\%)
+                   \end{itemize}
+               \end{frame}
+
+               
+          
+ 
+  \begin{frame}\frametitle{La economÃ­a de \textit{stop and go} (cont.)}
+\begin{figure}[hxtbp]\vspace{0cm}
+  \centering
+  \includegraphics[scale=0.7]{uni5_illia01}
+   \label{fig:uni1_01}
+\end{figure} 
+  \end{frame}
+
+
+ \begin{frame}\frametitle{La economÃ­a de \textit{stop and go} (cont.)}
+                 \begin{itemize}\itemsep 5pt \medskip
+                 \item Condiciones de \textit{stop and go} una mezcla
+                   de decisiones forzadas (dÃ©cada del 30) y voluntarias
+                   (dÃ©cada del 40) $\longrightarrow$ extrema
+                   vulnerabilidad exterior
+                   \item La ISI se habÃ­a completado para muchas ramas
+                     industriales pero habÃ­a fuerte dependencia
+                     exterior en provisiÃ³n de insumos,
+                     maquinarias y equipo
+                     \item Se necesitaban divisas para poder $M$ estos
+                       bienes y las divisas dependÃ­an de lo que el
+                       paÃ­s pudiera $X$ --sesgo anti-exportador era un
+                       gran problema
+                   \end{itemize}
+               \end{frame}
+
+  \begin{frame}\frametitle{La economÃ­a de \textit{stop and go} (cont.)}
+                 \begin{itemize}\itemsep 5pt \medskip
+                 \item Ciclo de \textit{stop and go} aparecerÃ­a
+                   cada vez que las necesidades de
+                   divisas para M superaran a las que podÃ­an generarse
+                   por X --devaluaciÃ³n era la salida frecuente
+                 \item Pero la devaluaciÃ³n tiene varios efectos:
+                   \begin{itemize}\itemsep 5pt \medskip
+                   \item Estimular X y desestimular M
+                     \item Disminuir consumo privado tanto de $T$ como
+                       de $NT$ dada la caÃ­da de
+                       salario real --esto era particularmente
+                       cierto en Argentina. 
+                     \end{itemize}
+                     \item La devaluaciÃ³n
+                       generalmente venÃ­a acompaÃ±ada de cierta
+                       recesiÃ³n --disminuÃ­a ``M'' y se revertÃ­a
+                       dÃ©ficit
+                       \item Aumento de salario nominal gradual volvÃ­a
+                         a estimular la econÃ³mÃ­a al tiempo que
+                         aumentaba costos domÃ©sticos. 
+                   \end{itemize}
+               \end{frame}
+
+
+\begin{frame}\frametitle{La economÃ­a de \textit{stop and go} (cont.)}
+  \begin{block}{Retardando el \textit{stop and go}}
+En condiciones excepcionales --flujo sostenido de K- podÃ­a sostenerse
+el crecimiento y fundamentalmente alterarse la estructura
+productiva. Frondizi habÃ­a sido un experimento a gran escala en esa
+direcciÃ³n: capitalizar el paÃ­s por la vÃ­a de prÃ©stamos/inversiones
+extranjeras. La recesiÃ³n de 1962/63 (al igual que la de 1952 y 1959)
+--causada por una creciente escasez de divisas causÃ³ el cuello de
+botella y un nuevo ``stop''. 
+    \end{block}
+               \end{frame}
+               
+\section{El gobierno de Illia}
+
+
+                \begin{frame}\frametitle{El gobierno de Illia}
+                 \begin{itemize}\itemsep 5pt \medskip
+                 \item Las primeras medidas apuntar a estimular la
+                   demanda en el corto plazo: expansiÃ³n fiscal y
+                   emisiÃ³n monetaria para estimular liquidez y crÃ©dito
+                   \item Se congelaron tarifas de empresas de
+                     servicios pÃºblicos $\longrightarrow$ para mejorar
+                     salario real
+                     \item Se sancionÃ³ la Ley de Salario MÃ­nimo, Vital
+                       y MÃ³vil (1964) que llega hasta nuestros dÃ­as
+                       \item Crecimiento de salario nominal por encima
+                         de inflaciÃ³n --aumento 10\% en tÃ©rminos reales
+                   \end{itemize}
+               \end{frame}
+
+
+
+                \begin{frame}\frametitle{El gobierno de Illia (cont.)}
+                 \begin{itemize}\itemsep 5pt \medskip
+                 \item Para evitar un empeoramiento de las cuentas
+                   externas se optÃ³ por renegociar deuda con paÃ­ses
+                   acreedores (1965)
+                   \item Medidas puntuales: crÃ©dito facilitado a
+                     industrias intensivas en insumos nacionales,
+                     suspensiÃ³n de facilidades (fciamiento) a M
+                     \item PolÃ­tica cambiaria fue adecuada a las
+                       necesidades $\longrightarrow$ ni TCFi ni
+                       TCFl sino \textit{crawling peg}
+                       \item Hubo nueve devaluaciones pero no fueron
+                         bruscas sino para ajustar a inflaciÃ³n interna
+                   \end{itemize}
+               \end{frame}
+
+
+               \begin{frame}\frametitle{El gobierno de Illia (cont.)}
+                 \begin{itemize}\itemsep 5pt \medskip
+                 \item La estrategia \textit{crawling peg} garantiza
+                   poder de compra el tipo de cambio efectivo de los
+                   exportadores (gran problema)
+                   \item Las X que habÃ­an estado estancadas durante
+                     los Ãºltimos 35 aÃ±os --en 1961 Argentina habÃ­a
+                     exportado \textit{menos} dÃ³lares en 1928!-, ven un crecimiento muy
+                     promisorio
+                     \item No todo fue mÃ©rito de la polÃ­tica cambiaria
+                       sino que tambiÃ©n ayudaron los altos precios
+                       internacionales de 1964-65 y los factores climÃ¡ticos
+                   \end{itemize}
+               \end{frame}
+               
+
+
+  \begin{frame}\frametitle{El gobierno de Illia (cont.)}
+\begin{figure}[hxtbp]\vspace{0cm}
+  \centering
+  \includegraphics[scale=0.7]{uni5_illia02}
+   \label{fig:uni1_01}
+\end{figure} 
+  \end{frame}
+
+
+
+
+  
+               \begin{frame}\frametitle{El gobierno de Illia (cont.)}
+                 \begin{itemize}\itemsep 5pt \medskip
+                 \item Fue tal el aumento de las cantidades exportadas
+                   (y producidas) que aumentÃ³ la participaciÃ³n de
+                   actividades primarias en el PBI.
+                   \item Este aumento de las X representÃ³ un punto de
+                     inflexiÃ³n en el frente externo --una barrea (1000
+                     millÃ³nes de dÃ³lares) que habÃ­a resultado de
+                     dificil superaciÃ³n anteriormente
+                     \item ProducciÃ³n agropecuaria mÃ¡s alta que el
+                       promedio histÃ³rico --60\% de aumento en
+                       cereales, 20\% aumento en ganado entre 1963 y 1965
+                   \end{itemize}
+                 \end{frame}
+
+
+                   \begin{frame}\frametitle{El gobierno de Illia (cont.)}
+                 \begin{itemize}\itemsep 5pt \medskip
+                 \item Una de las excepciones al manejo moderado de la
+                   polÃ­tica econÃ³mica de Illia fue la cuestiÃ³n del
+                   petrÃ³leo $\longrightarrow$ anulaciÃ³n de contratos
+                   con firmas extranjeras
+                   \item Medida coherente con ideologÃ­a pero problema
+                     en tÃ©rminos de credibilidad internacional
+                     $\longrightarrow$ mÃ¡s aÃºn, se detuvo bruscamente el
+                     crecimiento del sector
+                     \item Reaparece una fuente de drenaje de divisas
+                       (M de petrÃ³leo)
+                   \end{itemize}
+               \end{frame}
+
+
+
+                \begin{frame}\frametitle{El gobierno de Illia (cont.)}
+                 \begin{itemize}\itemsep 5pt \medskip
+                 \item A pesar de las crÃ­ticas al plan del gobierno,
+                   la estrategia de reactivaciÃ³n (PF y PM expansivas)
+                   sumada a una polÃ­tica cambiaria sensata, los aÃ±os
+                   1964 y 1965 vieron un crecimiento promedio del 10\%
+                   \item AdemÃ¡s, la inversiÃ³n como porcentaje del PBI
+                     estuvo cerca del 20\%
+                     \item El desempleo bajÃ³ de 8.8\% a 4.6\%. El
+                       saldo comercial entre 1963-66 fue casi el de un
+                       aÃ±o total de X
+                       \item No habÃ­a indicios de problemas externos
+                   \end{itemize}
+               \end{frame}
+
+
+
+ \begin{frame}\frametitle{El gobierno de Illia (cont.)}
+\begin{figure}[hxtbp]\vspace{0cm}
+  \centering
+  \includegraphics[scale=0.7]{uni5_illia03}
+   \label{fig:uni1_01}
+\end{figure} 
+  \end{frame}
+
+
+                \begin{frame}\frametitle{El gobierno de Illia (cont.)}
+                 \begin{itemize}\itemsep 5pt \medskip
+                 \item Sin embargo, habÃ­a una doble sensaciÃ³n a
+                   principios de 1966 $\longrightarrow$ crisis
+                   econÃ³mica y polÃ­tica en ciernes
+                   \item Se aludÃ­a al deterioro de la BP para
+                     anticipar la recesiÃ³n --PBI aumentÃ³ sÃ³lo un 1\%
+                     pero no hubo crisis de BP [temor de nuevo
+                     \textit{stop and go} se alejaba]
+                     \item En el frente polÃ­tico, sin embargo, el fin
+                       de Illia estaba cerca luego de mucho desgaste
+                    en las relaciones polÃ­ticas. 
+                   \end{itemize}
+               \end{frame}
+
+
+
+         \section{La RevoluciÃ³n Argentina: 1966-73}
+      
+
+
+             \begin{frame}\frametitle{La RevoluciÃ³n Argentina}
+                 \begin{itemize}\itemsep 5pt \medskip
+                 \item La caÃ­da forzada de Illia no puede atribuirse a
+                   razones de Ã­ndole econÃ³mica
+                   \item La llegada de OnganÃ­a fue de algÃºn modo la
+                     culminaciÃ³n de un proceso de modernizaciÃ³n de las
+                     fuerzas de las fuerzas armadas
+                     \item El golpe tuvo objetivos ambiciosos
+                       $\longrightarrow$ se buscaba el desarrollo
+                       econÃ³mico para luego normalizaciÃ³n
+                       institucional
+                       \item Diferentes tiempos $\longrightarrow$ 1)
+                         econÃ³mico; 2) social; 3) polÃ­tico
+                   \end{itemize}
+               \end{frame}
+
+
+  \begin{frame}\frametitle{La RevoluciÃ³n Argentina (cont.)}
+                 \begin{itemize}\itemsep 5pt \medskip
+                 \item En medio aÃ±o de gobierno, la imagen de OnganÃ­a
+                   habia caido por razones polÃ­ticas fundamentalmente
+                   (noche de bastones largos, mayo FrancÃ©s, Cordobazo)
+                   \item De 1969 a 1973, Argentina tuvo una creciente
+                     conflictividad polÃ­tica, social y sindical (ERP,
+                     Montoneros) y los militares reconocÃ­an que era
+                     necesaria un regreso a la institucionalidad
+                     polÃ­tica
+                     \item Todo estaba dado para el regreso de PerÃ³n a
+                       la vida polÃ­tica luego de 17 aÃ±os en el exilio
+                   \end{itemize}
+               \end{frame}
+
+
+\begin{frame}\frametitle{La RevoluciÃ³n Argentina (cont.)}
+  \begin{itemize}\itemsep 5pt \medskip
+    \item Puede dividirse en tres fases/etapas el perÃ­odo de la
+      RevoluciÃ³n Argentina:
+      \begin{itemize}\itemsep 5pt \medskip
+      \item Preparativos (1966-67)
+      \item EstabilizaciÃ³n (1967-70) con el plan Krieger Vasena
+        \item DeclinaciÃ³n (1970-73) con devaluaciones, estimulos al
+          crecimiento e inflaciÃ³n
+        \end{itemize}
+      \item Hacia finales de la RevoluciÃ³n Argentina, el ``tiempo
+        polÃ­tico'' habÃ­a llegado pero sin cumplir adecuadamente la
+        pretensiÃ³n de desarrollo econÃ³mico
+        \end{itemize}
+               \end{frame}
+
+               
+\begin{frame}\frametitle{La RevoluciÃ³n Argentina (cont.)}
+                 \begin{itemize}\itemsep 5pt \medskip
+                 \item A pesar de toda la inestabilidad polÃ­tica
+                   durante 1963 a 1973, Argentina contÃ³ con una
+                   economÃ­a mundial floreciente
+                   \item Entre 1950 y 1973, PBI per capita mundial creciÃ³
+                     2.9\% anual --entre 1963-73 al 3.3\%
+                     \item Fue uno de los mayores periodos de
+                       crecimiento del siglo XX --en gran parte
+                       impulsado por el aumento del comercio mundial
+                       de ByS y de flujos de capital [acuerdo Bretton-Woods]
+                   \end{itemize}
+               \end{frame}
+
+
+
+
+ \begin{frame}\frametitle{La RevoluciÃ³n Argentina (cont.)}
+\begin{figure}[hxtbp]\vspace{0cm}
+  \centering
+  \includegraphics[scale=0.7]{uni5_onga02}
+   \label{fig:uni1_01}
+\end{figure} 
+  \end{frame}
+
+
+
+  
+
+ \begin{frame}\frametitle{La RevoluciÃ³n Argentina (cont.)}
+\begin{figure}[hxtbp]\vspace{0cm}
+  \centering
+  \includegraphics[scale=0.7]{uni5_onga01}
+   \label{fig:uni1_01}
+\end{figure} 
+  \end{frame}
+
+\begin{frame}\frametitle{La RevoluciÃ³n Argentina (cont.)}
+                 \begin{itemize}\itemsep 5pt \medskip
+                 \item Resulta extraÃ±o considerar a la dÃ©cada de los
+                   60s como parte de las dÃ©cadas perdidas
+                   $\longrightarrow$ hubo algunas revisiones
+                   estadÃ­sticas pero tambiÃ©n era parte del clima
+                   intelectual de Ã©poca
+                   \item La \textit{teorÃ­a de la dependencia}
+                     --economÃ­as perifÃ©ricas sujetas a las necesidades
+                     de las economÃ­as centrales- influyÃ³ negativamente
+                     en la percepciÃ³n de crecimiento economico
+                     \end{itemize}
+               \end{frame}
+
+
+
+\begin{frame}\frametitle{La RevoluciÃ³n Argentina (cont.)}
+                 \begin{itemize}\itemsep 5pt \medskip
+                 \item Â¿QuÃ© factores estuvieron detrÃ¡s del gran
+                   crecimiento econÃ³mico de la dÃ©cada?
+                   \begin{itemize}\itemsep 5pt \medskip
+                   \item Avances en productividad rural
+                     $\longrightarrow$ modernizaciÃ³n del agro
+                     \item RecuperaciÃ³n de la inversiÃ³n de tiempos de Frondizi
+                     \end{itemize}
+                     \item En este sentido, el fuerte crecimiento de
+                       esta dÃ©cada fue producto de una conjunciÃ³n de
+                       factores externos, transformaciones de periodos
+                       anteriores y polÃ­ticas econÃ³micas acertadas
+                   \end{itemize}
+               \end{frame}
+               
+
+\begin{frame}\frametitle{La RevoluciÃ³n Argentina (cont.)}
+                 \begin{itemize}\itemsep 5pt \medskip
+                 \item Importante impulso de la agricultura (no
+                   tanto ganaderÃ­a) --aumento de casi 50\% de
+                   producciÃ³n de cultivos (trigo, maiz, soja, sorgo y
+                   girasol)
+                   \item Gran responsable de esto fue la
+                     ``mecanizaciÃ³n del agro'' (tractores, tanto en
+                     cantidad como calidad); ademÃ¡s, uso de semillas
+                     mejoradas y variedades hÃ­bridas
+                     \item Tipo de cambio efectivo de agricultura sin
+                       grandes oscilaciones bruscas
+                   \end{itemize}
+               \end{frame}
+
+
+
+
+
+ \begin{frame}\frametitle{La RevoluciÃ³n Argentina (cont.)}
+\begin{figure}[hxtbp]\vspace{0cm}
+  \centering
+  \includegraphics[scale=0.7]{uni5_ong03}
+   \label{fig:uni1_01}
+\end{figure} 
+  \end{frame}
+               
+
+               \begin{frame}\frametitle{La RevoluciÃ³n Argentina (cont.)}
+                 \begin{itemize}\itemsep 5pt \medskip
+                 \item Esta polÃ­tica mÃ¡s predecible (buenos precios
+                   externos mas uso discrecional de retenciones) dio
+                   un gran impulso a la balanza comercial y de pagos
+                   de Argentina
+                   \item Diez de once aÃ±os entre 1963-73 cerraron con
+                     superavit --excedente se explica mÃ¡s por aumento
+                     de X que por disminuciÃ³n de M (mejora tardÃ­a se
+                     debe a fenomenal aumento de TIE en 1973)
+                     \item Importante aumento de exportaciones no
+                       tradicionales (industriales) como proporciÃ³n
+                       del total exportado, de 10\% a 20\%
+                   \end{itemize}
+               \end{frame}
+               
+
+
+ \begin{frame}\frametitle{La RevoluciÃ³n Argentina (cont.)}
+\begin{figure}[hxtbp]\vspace{0cm}
+  \centering
+  \includegraphics[scale=0.7]{uni5_onga04}
+   \label{fig:uni1_01}
+\end{figure} 
+  \end{frame}
+
+
+
+               \begin{frame}\frametitle{La RevoluciÃ³n Argentina (cont.)}
+                 \begin{itemize}\itemsep 5pt \medskip
+                 \item En este sentido, durante este perÃ­odo hubo
+                   algÃºn intento de fomentar las exportaciones
+                   industriales a travÃ©s algunas medidas no ortodoxas
+                   (tipos de cambio mÃºltiples)
+                 \item TambiÃ©n hubo polÃ­ticas diferenciales a las X
+                   tradicionales y no tradicionales (retenciones a las
+                   primeras y reembolsos a las segundas)
+                   \item AsÃ­ y todo, la performace de exportaciones
+                     industriales en su conjunto fue dispar y mediocre
+                     en relaciÃ³n a la brasileÃ±a, por ejemplo.
+                     \item Casi toda la producciÃ³n industrial
+                       destinada la mercado interno
+                 \end{itemize}
+               \end{frame}
+               
+
+    \begin{frame}\frametitle{La RevoluciÃ³n Argentina (cont.)}
+                 \begin{itemize}\itemsep 5pt \medskip
+                 \item Nuevamente se puso en discusiÃ³n el tipo de
+                   industrias que debÃ­an favorecerse y estimularse
+                   desde la polÃ­tica econÃ³mica
+                   \item Las propuestas mÃ¡s audaces tenian que ver con
+                     promover un patrÃ³n de industrias naturales, en el
+                     sentido de aquellas con ventajas comparativas
+                     \item Debian concentrarse en aquellas que
+                       requerÃ­an factores de produciÃ³n
+                       (capital/trabajo) similares a las existentes en Argentina
+                 \end{itemize}
+               \end{frame}
+               
+  
+               
+\end{document}
+
+%%% Local Variables:
+%%% TeX-engine: lualatex
+%%% TeX-master: t
+%%% End:

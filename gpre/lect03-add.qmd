@@ -1,0 +1,98 @@
+
+
+
+
+# Cuenta de Inversión {background="#390040"}
+
+## Cuenta de Inversión
+
+**Marco Legal, Plazos y Contenidos**
+
+## Cuenta de Inversión
+
+- La **Cuenta de Inversión** es un instrumento central para la rendición de cuentas de un gobierno, que presenta la ejecución presupuestaria anual del Sector Público bajo diferentes clasificadores de ingresos y gastos, permitiendo analizar y evaluar la gestión fiscal durante determinado período de tiempo.
+- La Cuenta de Inversión debe ser presentada por el Poder Ejecutivo ante la Legislatura y el Tribunal de Cuentas, durante el segundo mes del período de sesiones (es decir, con fecha límite el 31 de marzo), según lo establece la normativa que regula el proceso presupuestario (art. 144 Constitución Provincial y Ley de Administración Financiera -art.90º de la ley 9.086 y art.67º de la nueva ley 10.835 vigente desde junio de este año).
+
+## Cuenta de Inversión (cont.)
+
+- El Tribunal de Cuentas debe informar a la Legislatura sobre la cuenta de inversión del presupuesto anterior, en el cuarto mes de las sesiones ordinarias, esto es durante el mes de mayo (art.127 Constitución Provincial).
+- Es atribución de la Legislatura aprobar o desechar la Cuenta de Inversión, dentro del período ordinario en que se remitan, quedando aprobada en caso de no observarse (art.104 Constitución Provincial).
+
+## Cuenta de Inversión (cont.)
+
+> La Cuenta de Inversión representa la culminación del proceso presupuestario, consistente en la etapa de la Evaluación y el Control de la gestión y ejecución del presupuesto.
+
+## Cuenta de Inversión: Contenido
+
+En cuanto al contenido de la Cuenta de Inversión según lo establece la Ley de Administración Financiera, la Cuenta de Inversión debe contar con:
+
+- Un **Informe sobre la evolución financiera** de la Administración General, y su comparación con períodos anteriores.
+- **Estados presupuestarios:** ejecución del presupuesto de ingresos y gastos de la Administración General; situación del Tesoro de la Administración Central; situación de la deuda; Cuentas Ahorro Inversión Financiamiento; estado de resultado y balance general de las entidades descentralizadas, empresas y entes públicos.
+
+## Fuentes de Información
+
+- [Síntesis Cuenta de Inversión 2022](https://legislaturacba.gob.ar/wp-content/uploads/2023/08/S%C3%ACntesis-Cuenta-de-Inversi%C3%B3n-2022.pdf)
+- **ANÁLISIS DE LA CUENTA DE INVERSIÓN DE LA PROVINCIA DE CÓRDOBA. AÑO 2022.** Trayectoria y composición de las principales variables fiscales. Agosto de 2023. Oficina Técnica de Presupuesto
+
+## Fuentes de Información (cont.)
+
+**Informe de la Cuenta de Inversión 2022**
+
+Comprende tres documentos que forman parte del expediente 37127 y a los cuales se puede acceder desde [https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=37127](https://gld.legislaturacba.gob.ar/Publics/Buscar.aspx?q=37127):
+
+- Informe de la Cuenta de Inversión
+- Anexo I – Ejecuciones Presupuestarias y Estados contables de Empresas, Agencias y Entes Estatales
+- Anexo II - Estados Financieros Administración General
+
+## Fuentes de Información (cont.)
+
+**Ministerio de Finanzas**
+
+Archivos relacionados con la Ejecución presupuestaria anual en formato Excel:
+
+- [Ejecución presupuestaria](https://finanzas.cba.gov.ar/publicacion/ejecucion-presupuestaria/)
+- [Descargas directas](https://finanzas.cba.gov.ar/download/4574/)
+
+# Contexto Económico y Resumen Fiscal {background="#390040"}
+
+## Contexto Económico
+
+::: {.callout-note}
+**[Aquí insertar contenido sobre contexto económico]**
+:::
+
+## Grandes agregados fiscales de la APNF
+
+**Administración Pública No Financiera - APNF**
+
+::: {.callout-note}
+**[Aquí insertar tabla/gráfico con grandes agregados fiscales]**
+:::
+
+# Ingresos Totales {background="#390040"}
+
+## Ingresos Totales
+
+::: {.callout-note}
+**[Aquí insertar análisis y gráficos de Ingresos Totales]**
+:::
+
+## Composición de los Ingresos
+
+::: {.callout-note}
+**[Diapositivas 25-28 - Insertar gráficos y análisis detallado de composición de ingresos]**
+:::
+
+# Gastos Totales {background="#390040"}
+
+## Gastos Totales
+
+::: {.callout-note}
+**[Aquí insertar análisis y gráficos de Gastos Totales]**
+:::
+
+## Composición de los Gastos
+
+::: {.callout-note}
+**[Diapositivas 30-37 - Insertar gráficos y análisis detallado de composición de gastos]**
+:::

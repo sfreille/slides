@@ -1,0 +1,74 @@
+// ============================================
+// EPIN — course-specific overrides
+// Layered on ../_shared/css/theme-default.scss (see _metadata.yml)
+// ============================================
+
+/*-- scss:defaults --*/
+$epin-accent: #1a5276;
+
+/*-- scss:rules --*/
+
+// Title slide: dark, readable, size-capped so long titles don't overflow
+#title-slide .title    { color: #1a3a5c; font-size: 2.4em; }
+#title-slide .subtitle { color: #34495e; font-size: 1.3em; }
+#title-slide .author,
+#title-slide .date     { color: #2c3e50; }
+
+// Headings & links
+.reveal h1, .reveal h2 { color: #1a3a5c; }
+.reveal a { color: $epin-accent; }
+
+// Section-divider slides (dark background) → white titles
+.reveal .has-dark-background h1,
+.reveal .has-dark-background h2 { color: #ffffff; }
+
+// Blockquotes: accent border, NO italics
+.reveal blockquote { font-style: normal; border-left: 4px solid $epin-accent; }
+
+// Captions & source lines kept small so the font bump doesn't overwhelm figures
+.reveal figcaption { font-size: 0.45em; color: #6c757d; line-height: 1.15; }
+.reveal .fuente     { font-size: 0.42em; color: #6c757d; }
+
+// --------------------------------------------
+// Callout palette (consistent semantics)
+//   note      (azul)    = definiciones
+//   tip       (verde)   = ideas clave
+//   important (magenta) = curiosidades / ejemplos
+// --------------------------------------------
+.reveal .callout { font-size: 0.8em; }
+
+// Utility for content-heavy slides: mild font trim + tighter vertical rhythm
+.reveal section.tight { font-size: 0.9em; }
+.reveal section.tight li { margin-top: 0.2em; margin-bottom: 0.2em; }
+.reveal section.tight .callout { margin-top: 0.4em; margin-bottom: 0.4em; }
+
+.reveal .callout.callout-note      { border-left-color: #1a5276; }
+.reveal .callout.callout-tip       { border-left-color: #2e7d32; }
+.reveal .callout.callout-important { border-left-color: #a21caf; }
+
+.reveal .callout-note      .callout-header { background-color: #e7eff7; }
+.reveal .callout-tip       .callout-header { background-color: #e7f3e8; }
+.reveal .callout-important .callout-header { background-color: #f7e6f5; }
+
+.reveal .callout-note      .callout-title-container { color: #1a5276; }
+.reveal .callout-tip       .callout-title-container { color: #2e7d32; }
+.reveal .callout-important .callout-title-container { color: #a21caf; }
+
+// --------------------------------------------
+// Meme: image with classic top/bottom Impact captions
+// Usage: ::: {.meme}  ![](img)  [top]{.meme-top}  [bottom]{.meme-bottom}  :::
+// --------------------------------------------
+.reveal .meme { position: relative; width: fit-content; margin: 0 auto; line-height: 0; }
+.reveal .meme p { margin: 0; }
+.reveal .meme img { display: block; max-height: 600px; width: auto; margin: 0; }
+.reveal .meme .meme-top,
+.reveal .meme .meme-bottom {
+  position: absolute; left: 0; right: 0; text-align: center;
+  font-family: Impact, Haettenschweiler, "Arial Narrow", sans-serif;
+  font-weight: 700; color: #ffffff; text-transform: uppercase;
+  line-height: 1.05; letter-spacing: 0.5px; padding: 0 10px; font-size: 0.7em;
+  text-shadow: 2px 2px 0 #000, -2px 2px 0 #000, 2px -2px 0 #000,
+               -2px -2px 0 #000, 0 3px 5px rgba(0,0,0,.6);
+}
+.reveal .meme .meme-top    { top: 12px; }
+.reveal .meme .meme-bottom { bottom: 12px; }

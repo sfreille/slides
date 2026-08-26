@@ -1,0 +1,489 @@
+---
+title: "Historia del Pensamiento y del Análisis Económico"
+subtitle: "U5. Reacciones sociales y críticas a la escuela clásica: utopismo, historicismo y economía social"
+author: "Sebastián Freille"
+institute: "Facultad de Ciencias Económicas, UNC"
+date: today
+format:
+  revealjs:
+    theme: theme-hpae.scss
+    embed-resources: true
+    slide-number: true
+    toc: true
+    toc-depth: 1
+    toc-title: "Contenidos"
+    width: 1500
+    height: 900
+lang: es
+execute:
+  echo: false
+  warning: false
+---
+
+# **Motivación: la cuestión social** {background="#390040"}
+
+## El lado oscuro de la Revolución Industrial
+
+> "Podían observarse animales débiles y maltratados, aparentemente despreocupados por lo que crecía en los alrededores, y de repente una de las criaturas alza la mirada --sorpresa, es un hombre!"
+**[Jean de La Bruyère, describiendo a los campesinos franceses]**
+
+- La Revolución Industrial trajo un **aumento sin precedentes** de la producción
+- Pero los beneficios no se distribuyeron equitativamente
+- La clase trabajadora enfrentaba: salarios de subsistencia, jornadas de 14-16 horas, trabajo infantil, condiciones insalubres
+- Surgió una pregunta inevitable: ¿Es este el mejor sistema posible?
+
+## El triunfo y los límites del pensamiento clásico
+
+- La economía clásica (Smith, Ricardo, Mill) había logrado una síntesis impresionante
+- Pero también había generado **críticas importantes**:
+  - ¿Por qué el progreso económico no mejora la vida de los trabajadores?
+  - ¿Son universales las "leyes económicas" o dependen del contexto histórico?
+  - ¿Puede la economía separarse de la moral y la política?
+  - ¿Es el capitalismo la etapa final de la historia económica?
+
+## La geografía de las reacciones
+
+| Origen | Corriente | Preocupación central |
+|--------|-----------|---------------------|
+| **Francia** | Socialismo utópico | Reorganización de la sociedad |
+| **Alemania** | Escuela histórica | Especificidad nacional, método |
+| **Gran Bretaña** | Reformismo social | Condiciones de los trabajadores |
+| **Estados Unidos** | Institucionalismo | Papel de las instituciones |
+
+## Plan de la clase
+
+En esta unidad cubriremos cinco grandes corrientes de pensamiento que reaccionaron, de diferentes maneras, contra la ortodoxia clásica:
+
+1. **J.S. Mill y la dimensión social**: el reformismo desde dentro
+2. **Los socialistas utópicos**: Saint-Simon, Fourier, Owen, Proudhon
+3. **Los precursores de la crítica**: Sismondi y la anticipación del conflicto
+4. **La escuela histórica alemana**: List, Roscher, Schmoller
+5. **Balance y legado**: ¿qué quedó de estas críticas?
+
+# **J.S. Mill: reforma desde dentro del sistema** {background="#390040"}
+
+## Mill como puente entre mundos
+
+- John Stuart Mill (1806-1873) es una figura única en la historia del pensamiento económico
+- Por un lado, **sistematizó y completó** la economía clásica ricardiana
+- Por otro, **abrió la puerta** a reformas sociales significativas
+- Su distinción entre **leyes de producción** (inmutables) y **leyes de distribución** (modificables) fue revolucionaria
+
+## La gran distinción milliana
+
+> "Las leyes y condiciones de la producción de la riqueza participan del carácter de verdades físicas. No hay nada opcional o arbitrario en ellas. [...] No es así con la distribución de la riqueza. Esa es una cuestión de instituciones humanas."
+**[John Stuart Mill, *Principios de Economía Política* (1848)]**
+
+- Las **leyes de producción** son como las leyes de la física
+- Las **leyes de distribución** son creaciones sociales, modificables por la política
+- Esta distinción permitió ser "clásico" en teoría y "reformista" en política
+
+## Mill sobre la herencia y los impuestos
+
+> "Imponer sobre los grandes ingresos un porcentaje más elevado que sobre los pequeños es imponer una contribución a la actividad y a la economía; imponer un castigo a los que han trabajado y han ahorrado más que sus vecinos. No son las fortunas que se han ganado, sino las que se han heredado, las que es conveniente limitar para bien del público."
+**[John Stuart Mill]**
+
+- Mill distinguió entre **riqueza ganada** (por trabajo) y **riqueza heredada**
+- Defendió impuestos progresivos sobre las herencias, no sobre los ingresos del trabajo
+- Anticipó debates modernos sobre desigualdad patrimonial
+
+## Mill y la cuestión laboral
+
+- Mill apoyó las **leyes de fábricas** que limitaban el trabajo infantil
+- A diferencia de la ortodoxia clásica, aceptó la **intervención estatal** para proteger a los trabajadores
+- Llegó a **retractarse de la doctrina del fondo de salarios** $\longrightarrow$ esto causó confusión en los círculos ortodoxos
+
+## El estado estacionario: ¿catástrofe o liberación?
+
+> "Confieso que no me encanta el ideal de vida de aquellos que piensan que el estado normal del ser humano es una lucha por avanzar."
+**[John Stuart Mill]**
+
+- Ricardo veía el estado estacionario como un destino sombrío
+- Mill lo reimaginó como una **oportunidad para el desarrollo humano**
+- Sin la presión del crecimiento, la humanidad podría dedicarse a la cultura, la educación, el bienestar
+
+## Las contribuciones reformistas de Mill
+
+| Área | Posición de Mill |
+|------|------------------|
+| **Trabajo infantil** | A favor de regulación estatal |
+| **Herencias** | Impuestos progresivos sobre riqueza heredada |
+| **Sindicatos** | Legitimidad de la organización obrera |
+| **Cooperativas** | Apoyo a empresas de trabajadores |
+| **Mujeres** | Defensa de igualdad de derechos (*The Subjection of Women*) |
+| **Educación** | Educación pública universal |
+
+## Los límites del reformismo milliano
+
+- Mill nunca abandonó los **fundamentos** de la economía clásica
+- Aceptó la Ley de Say (no hay crisis de demanda agregada)
+- Mantuvo una visión individualista del contrato social
+- Sus reformas eran **dentro del sistema**, no contra él
+- Pero abrió una puerta que otros atravesarían más radicalmente
+
+# **Los socialistas utópicos** {background="#390040"}
+
+## El contexto del socialismo utópico
+
+- El término "utópico" fue acuñado por Marx y Engels para distinguir estos pensadores de su "socialismo científico"
+- Surgieron en respuesta directa a las condiciones de la Revolución Industrial
+- Compartían una **visión moral** de la economía: el sistema debía juzgarse por sus efectos sobre las personas
+- Proponían **reorganizaciones radicales** de la sociedad, pero sin teoría del cambio histórico
+
+## Claude Henri de Saint-Simon (1760-1825)
+
+- Aristócrata francés que participó en la Revolución Americana
+- Se le considera el "profeta del industrialismo"
+- Introdujo la idea de **etapas progresivas** en el desarrollo histórico:
+  - La sociedad evoluciona de formas inferiores a superiores
+  - La cooperación y organización económica son inevitables
+  - El gobierno tradicional será reemplazado por administración industrial
+
+## Saint-Simon: la sociedad industrial
+
+- Para Saint-Simon, la sociedad se dividía en:
+  - **Productores** (industriales, científicos, artistas, trabajadores)
+  - **Ociosos** (nobles, rentistas, clero)
+- El futuro pertenecía a los **productores**
+- Una élite de expertos técnicos administraría la economía en beneficio de todos
+- Influencia enorme en Marx y en el pensamiento socialista posterior
+
+## Robert Owen (1771-1858)
+
+- Industrial galés que hizo fortuna con fábricas textiles
+- En New Lanark, Escocia, creó una **comunidad modelo**:
+  - Reducción de jornada laboral
+  - Prohibición del trabajo de niños menores de 10 años
+  - Escuelas para hijos de trabajadores
+  - Viviendas dignas
+- Demostró que era posible ser **rentable y humanitario** a la vez
+
+## Owen: de industrial a reformador social
+
+- Owen creía que el carácter humano era **producto del entorno**
+- Mejorando las condiciones, se mejorarían las personas
+- Fundó comunidades cooperativas en Gran Bretaña y Estados Unidos (New Harmony, Indiana)
+- Aunque sus experimentos fracasaron económicamente, inspiraron el **movimiento cooperativo** moderno
+- Vinculado también al **socialismo cristiano**
+
+## Charles Fourier (1772-1837)
+
+- Pensador francés con ideas extraordinariamente originales (y a veces excéntricas)
+- Propuso los **falansterios**: comunidades autosuficientes de 1,600 personas
+- En los falansterios:
+  - El trabajo sería atractivo, variado y voluntario
+  - Las "pasiones" humanas serían canalizadas productivamente
+  - La propiedad sería colectiva pero con incentivos individuales
+
+## Fourier: la crítica al trabajo alienado
+
+- Fourier fue uno de los primeros en criticar la **alienación** del trabajo industrial
+- El trabajo repetitivo y monótono era antinatural
+- Los seres humanos necesitan variedad, creatividad, autonomía
+- Su visión influyó en las críticas posteriores al capitalismo industrial
+- Aunque sus propuestas parecían fantasiosas, planteó preguntas importantes
+
+## Pierre-Joseph Proudhon (1809-1865)
+
+> "¿Qué es la propiedad? ¡La propiedad es un robo!"
+**[Pierre-Joseph Proudhon, *¿Qué es la propiedad?* (1840)]**
+
+- Tipógrafo autodidacta francés
+- Primera persona en llamarse a sí mismo "anarquista"
+- Criticó tanto al capitalismo como al socialismo autoritario
+- Propuso el **mutualismo**: intercambio justo entre productores iguales
+
+## Proudhon: el mutualismo
+
+- **Principio fundamental**: los bienes intercambiados deben tener valor igual
+- Esto requiere:
+  - Eliminación del interés y la usura
+  - Crédito gratuito mediante bancos populares
+  - Propiedad para todos (no abolición, sino universalización)
+- **Justicia conmutativa**: el intercambio debe ser entre iguales
+
+## Proudhon vs. Saint-Simon
+
+| **Saint-Simon** | **Proudhon** |
+|-----------------|--------------|
+| Administración por expertos | Rechazo de toda jerarquía |
+| Estado industrial | Abolición del Estado |
+| Planificación centralizada | Federación de productores libres |
+| Progreso a través de la organización | Progreso a través de la libertad |
+
+## Límites del socialismo utópico
+
+- **Sin teoría del cambio**: ¿cómo se pasa del sistema actual al ideal?
+- **Voluntarismo**: dependían de la buena voluntad de capitalistas o gobernantes
+- **Experimentos aislados**: las comunidades modelo no podían competir con el capitalismo
+- **Crítica de Marx**: eran "utópicos" porque no entendían las fuerzas históricas
+- Pero plantearon la **cuestión social** con fuerza moral
+
+# **Sismondi: el precursor olvidado** {background="#390040"}
+
+## Jean-Charles-Léonard Simonde de Sismondi (1773-1842)
+
+- Historiador y economista suizo de origen italiano
+- Inicialmente seguidor de Adam Smith
+- Tras observar las crisis económicas, se volvió **crítico del capitalismo**
+- Anticipó en **50 años** muchas ideas que se atribuyen a Marx
+
+## Sismondi: la economía como ciencia moral
+
+> "El bienestar físico del hombre, en tanto que pueda constituir la labor de su gobierno, es el objeto de la economía política."
+**[Jean-Charles-Léonard Simonde de Sismondi]**
+
+- Rechazó la idea de una economía "pura" separada de la moral
+- La ciencia que solo estudia el aumento de la riqueza sin estudiar su propósito es una "falsa ciencia"
+- La economía debe ocuparse del **bienestar humano**, no solo de la producción
+
+## Sismondi y el conflicto de clases
+
+- Sismondi identificó un **conflicto estructural** entre capital y trabajo
+- La mecanización desplazaba trabajadores
+- La competencia reducía salarios al mínimo
+- Los capitalistas acumulaban mientras los trabajadores sufrían
+
+**Diferencia con Marx**: Sismondi creía que este conflicto era resultado de instituciones específicas y podía eliminarse mediante reformas
+
+## Sismondi sobre las crisis económicas
+
+- Fue uno de los primeros en cuestionar la **Ley de Say**
+- Argumentó que podía haber **sobreproducción general**
+- El problema: los trabajadores no ganan lo suficiente para comprar lo que producen
+- Las crisis no eran accidentes sino características del sistema
+- Anticipó las teorías del subconsumo
+
+## La influencia olvidada de Sismondi
+
+- Sus ideas influyeron en:
+  - **Friedrich List** y su teoría del desarrollo por etapas
+  - **Karl Marx** y su análisis del conflicto de clases
+  - **John Maynard Keynes** y su crítica a la Ley de Say
+- Pero fue largamente ignorado por la ortodoxia clásica
+- Hoy se le reconoce como un **precursor importante**
+
+# **La escuela histórica alemana** {background="#390040"}
+
+## El contexto alemán
+
+- Alemania a mediados del siglo XIX era un conjunto de estados fragmentados
+- La economía clásica británica era vista con sospecha:
+  - ¿Por qué seguir recetas de un país ya industrializado?
+  - ¿Son las "leyes económicas" realmente universales?
+- La filosofía alemana (Hegel) enfatizaba la **historicidad** de todo conocimiento
+
+## Friedrich List (1789-1846)
+
+- Economista y político alemán, defensor del proteccionismo
+- Exiliado en Estados Unidos, donde estudió el desarrollo americano
+- Su obra principal: *Sistema Nacional de Economía Política* (1841)
+- Criticó a los clásicos por ignorar las diferencias entre países
+
+## List: las etapas del desarrollo económico
+
+List identificó cinco etapas en el desarrollo de las naciones:
+
+1. **Estado salvaje** (caza y recolección)
+2. **Estado pastoril** (ganadería)
+3. **Estado agrícola**
+4. **Estado agrícola-manufacturero**
+5. **Estado agrícola-manufacturero-comercial**
+
+Cada etapa requiere **políticas diferentes**
+
+## List: el argumento proteccionista
+
+- El **libre comercio** es óptimo solo para países en la etapa final
+- Los países en desarrollo necesitan **protección** para sus industrias nacientes
+- Sin protección, las industrias nuevas no pueden competir con las establecidas
+- Esto no contradice a Smith; simplemente reconoce que las condiciones importan
+
+## List: nacionalismo económico
+
+> "Entre el individuo y la humanidad está la nación."
+**[Friedrich List]**
+
+- Los clásicos pensaban en términos de individuos y del mundo
+- List introdujo la **nación** como unidad de análisis
+- La riqueza nacional no es solo la suma de riquezas individuales
+- Hay un interés nacional que puede diferir del interés individual inmediato
+
+## Wilhelm Roscher (1817-1894)
+
+- Fundador de la "vieja" escuela histórica alemana
+- Profesor en Leipzig desde 1848
+- Publicó el monumental *Sistema de Economía Política* (1854)
+- Buscaba **complementar** la teoría clásica con investigación histórica, no reemplazarla
+
+## Roscher: método histórico moderado
+
+> "Lo que es general en la economía política tiene mucho que es análogo a las ciencias matemáticas. Está llena de abstracciones... [pero] no hay que perder de vista nunca que, después de todo, no se trata más que de una abstracción, por lo que hemos de volver a la infinita variedad de la vida real."
+**[Wilhelm Roscher]**
+
+- Las leyes económicas existen, pero son **relativas** a instituciones históricamente cambiantes
+- Tanto la teoría como la historia son necesarias
+
+## Gustav Schmoller (1838-1917)
+
+- Líder de la "joven" escuela histórica
+- Posición mucho más radical que Roscher
+- Rechazó **toda** la teoría económica recibida como no solo inútil sino **perniciosa**
+- Argumentó que la economía debía construirse inductivamente desde los hechos históricos
+
+## Schmoller: el rechazo de la abstracción
+
+- Schmoller criticó:
+  - Los supuestos irrealistas de la teoría clásica
+  - La abstracción excesiva
+  - El descuido de los hechos concretos
+- Propuso una economía basada en:
+  - Investigación histórica detallada
+  - Estadísticas
+  - Estudio de instituciones específicas
+
+## El *Methodenstreit* (la batalla de los métodos)
+
+- En 1883, **Carl Menger** (fundador de la escuela austriaca) publicó un libro sobre metodología
+- **Schmoller** respondió con una reseña devastadora
+- Menger contraatacó con *Los errores del historicismo en la economía alemana* (1884)
+- Se desató una polémica que duró décadas
+
+## ¿Quién tenía razón?
+
+**Schumpeter** juzgó que la controversia fue **estéril**:
+
+> "Puesto que no se puede discutir seriamente la básica importancia de la investigación histórica para una ciencia que estudia procesos históricos, ni tampoco la necesidad de desarrollar un conjunto de instrumentos analíticos con los cuales manejar esos materiales, esta controversia nos parece carente de todo sentido."
+**[Joseph Schumpeter, *Historia del Análisis Económico*]**
+
+Obviamente se necesitan **ambos**: teoría e historia.
+
+## Contribuciones de la escuela histórica
+
+A pesar de sus limitaciones metodológicas:
+
+- Promovió la **Sozialpolitik** (política social) para mejorar condiciones obreras
+- Influyó en las reformas de Bismarck (seguro social, pensiones)
+- Contribuyó a fundar la **American Economic Association**
+- Recordó que la economía no puede separarse de su contexto institucional
+- Anticipó el **institucionalismo** americano
+
+## Los límites del historicismo
+
+- **Fracaso metodológico**: no pudieron establecer "leyes del desarrollo histórico"
+- **Anti-teoría extremo**: los datos no hablan por sí mismos sin marco teórico
+- **Nacionalismo problemático**: algunas versiones derivaron hacia el chovinismo
+- **Aislamiento**: la economía alemana quedó al margen del mainstream
+
+# **Otras corrientes críticas** {background="#390040"}
+
+## El socialismo cristiano
+
+- Movimiento que buscaba reconciliar cristianismo y reforma social
+- Figuras como **F.D. Maurice** y **Charles Kingsley** en Gran Bretaña
+- Criticaban tanto al capitalismo despiadado como al socialismo ateo
+- Defendían:
+  - Cooperativas de producción
+  - Educación para trabajadores
+  - Responsabilidad social de los ricos
+
+## La economía social católica
+
+- La Iglesia Católica desarrolló su propia doctrina social
+- Culminó en la encíclica **Rerum Novarum** (1891) de León XIII
+- Posición intermedia entre capitalismo y socialismo:
+  - Defensa de la propiedad privada
+  - Pero también del salario justo y los derechos de los trabajadores
+  - Crítica del liberalismo económico extremo
+
+## El cooperativismo
+
+- Inspirado por Owen y otros reformadores
+- Los **Pioneros de Rochdale** (1844) fundaron la primera cooperativa exitosa
+- Principios:
+  - Control democrático (un socio, un voto)
+  - Distribución de beneficios entre socios
+  - Educación y formación
+- Movimiento que persiste hasta hoy
+
+## El sindicalismo
+
+- Los sindicatos surgieron como respuesta directa a las condiciones laborales
+- Al principio ilegales, gradualmente ganaron reconocimiento
+- Mill fue uno de los primeros economistas en reconocer su **legitimidad**
+- Debate sobre si los sindicatos podían elevar salarios:
+  - Ortodoxia: no, están determinados por oferta y demanda
+  - Mill: sí, mediante negociación colectiva
+
+# **Valoración e importancia** {background="#390040"}
+
+## Lo que aportó cada corriente
+
+| Corriente | Aporte principal | Limitación |
+|-----------|------------------|------------|
+| **Mill** | Reformismo compatible con teoría clásica | No cuestionó fundamentos |
+| **Utópicos** | Visión moral, experimentos sociales | Sin teoría del cambio |
+| **Sismondi** | Crítica temprana, subconsumo | Marginado por ortodoxia |
+| **Historicistas** | Relatividad histórica, política social | Extremismo anti-teórico |
+| **Cristianos** | Dimensión ética | A veces conservadores |
+
+## Temas comunes de la crítica
+
+Todas estas corrientes compartían preocupaciones:
+
+1. **La cuestión social**: las condiciones de los trabajadores
+2. **Los límites del individualismo**: la sociedad es más que individuos aislados
+3. **La historicidad**: las "leyes económicas" dependen del contexto
+4. **La dimensión moral**: la economía no puede separarse de la ética
+5. **El papel del Estado**: necesidad de regulación y protección
+
+## ¿Por qué no desplazaron a los clásicos?
+
+- **Falta de alternativa teórica coherente**: criticaban, pero no ofrecían un sistema completo
+- **Éxito del capitalismo**: a pesar de los problemas, la producción crecía
+- **Poder institucional**: las universidades y gobiernos seguían a los clásicos
+- **Mejoras graduales**: las reformas absorbieron parte del descontento
+- Tendrían que esperar a **Marx** para una crítica sistemática
+
+## El legado para la economía moderna
+
+Estas corrientes dejaron herencias importantes:
+
+- **Economía del desarrollo**: la idea de que diferentes países necesitan diferentes políticas
+- **Economía institucional**: las instituciones importan tanto como los mercados
+- **Economía del bienestar**: la distribución es tan importante como la eficiencia
+- **Historia económica**: como disciplina con derecho propio
+- **Política social**: seguridad social, regulación laboral, educación pública
+
+## Preguntas para reflexionar
+
+1. ¿Tenía razón Mill al distinguir entre leyes de producción y distribución? ¿Puede separarse la eficiencia de la equidad?
+
+2. ¿Por qué fracasaron las comunidades utópicas? ¿Hay lecciones para proyectos alternativos hoy?
+
+3. ¿Sigue siendo válido el argumento de List sobre protección a industrias nacientes?
+
+4. ¿Resolvió el *Methodenstreit*? ¿Cuál es el balance correcto entre teoría e historia en economía?
+
+5. ¿Qué hubiera pasado si estas críticas hubieran sido tomadas más en serio antes de Marx?
+
+# **Bibliografía** {background="#390040"}
+
+## Lecturas principales
+
+- **Ekelund, R.B. y Hébert, R.F.** (2005). *Historia de la teoría económica y de su método*. Capítulos 8-10.
+- **Roncaglia, A.** (2006). *La riqueza de las ideas*. Capítulos 6 y 8.
+- **Schumpeter, J.A.** (1954). *History of Economic Analysis*. Part III, Capítulos 4-6.
+
+## Lecturas complementarias
+
+- **Mill, J.S.** (1848). *Principios de Economía Política*. Libro II (sobre distribución).
+- **List, F.** (1841). *Sistema Nacional de Economía Política*. Introducción y Libro I.
+- **Proudhon, P.-J.** (1840). *¿Qué es la propiedad?*
+- **Sismondi, J.C.L.** (1819). *Nuevos principios de economía política*.
+
+## Fuentes primarias de los utópicos
+
+- **Owen, R.** (1813). *A New View of Society*.
+- **Fourier, C.** (1808). *Théorie des quatre mouvements*.
+- **Saint-Simon, C.H.** (1825). *Nuevo cristianismo*.

@@ -1,0 +1,738 @@
+---
+title: Tipos de cambio fijos e intervención en el mercado de divisas
+subtitle: Comercio y Finanzas Internacionales
+---
+
+# **¿Por qué estudiar tipos de cambio fijos?** {background="#4b6e5c"}
+
+## Introducción
+
+- Hasta ahora hemos analizado el tipo de cambio **flotante**
+  - El mercado determina el valor de la moneda
+  - El banco central no interviene sistemáticamente
+- Pero muchos países mantienen tipos de cambio **fijos** o
+  **administrados**
+  - Argentina tuvo la Convertibilidad (1991-2001)
+  - China mantuvo el yuan fijo al dólar por años
+  - La Eurozona: tipo de cambio fijo entre países miembros
+
+## ¿Por qué fijar el tipo de cambio?
+
+- Los gobiernos eligen fijar el tipo de cambio por varias razones:
+  1. **Estabilidad y previsibilidad** para el comercio e inversión
+  2. **Disciplina monetaria** $\longrightarrow$ ancla nominal contra la
+     inflación
+  3. **Credibilidad** $\longrightarrow$ importar la política del país
+     ancla
+  4. **Evitar volatilidad excesiva** del tipo de cambio
+  5. **Coordinación internacional** (ej. sistema de Bretton Woods)
+
+## Regímenes cambiarios: el espectro
+
+```{mermaid}
+%%| fig-align: center
+%%{init: {'theme': 'base', 'themeVariables': { 'fontSize': '14px'}}}%%
+flowchart LR
+    A["<b>Flotación pura</b><br/>Sin intervención"] --> B["<b>Flotación administrada</b><br/>Intervención ocasional"]
+    B --> C["<b>Bandas cambiarias</b><br/>Fluctúa dentro de rangos"]
+    C --> D["<b>Tipo de cambio fijo</b><br/>Paridad ajustable"]
+    D --> E["<b>Caja de conversión</b><br/>(Currency board)"]
+    E --> F["<b>Dolarización</b><br/>Moneda extranjera"]
+    
+    style A fill:#d4edda,stroke:#28a745
+    style F fill:#f8d7da,stroke:#721c24
+```
+
+## Regímenes cambiarios: características
+
+| Régimen | Flexibilidad | Autonomía monetaria | Ejemplo |
+|---------|--------------|---------------------|---------|
+| Flotación pura | Máxima | Total | EEUU, Eurozona |
+| Flotación administrada | Alta | Alta | Brasil, India |
+| Bandas | Media | Media | Chile (histórico) |
+| Fijo ajustable | Baja | Limitada | China (histórico) |
+| Caja de conversión | Nula | Nula | Argentina 1991-2001 |
+| Dolarización | Nula | Nula | Ecuador, Panamá |
+
+## Ejemplos históricos relevantes
+
+> **Argentina y la Convertibilidad (1991-2001):** Un peso = un dólar,
+> por ley. El BCRA debía respaldar la base monetaria con reservas. Logró
+> eliminar la hiperinflación pero eliminó la política monetaria
+> autónoma. Cuando las condiciones cambiaron (apreciación del dólar,
+> deuda creciente), el sistema colapsó.
+
+# **La intervención del banco central** {background="#4b6e5c"}
+
+## El balance del banco central
+
+- Para entender la intervención, debemos analizar el **balance del banco
+  central**:
+
+| **Activos** | **Pasivos** |
+|-------------|-------------|
+| Reservas internacionales (divisas) | Base monetaria (M0) |
+| Bonos del gobierno (domésticos) | |
+| Otros activos | Otros pasivos |
+
+- **Activos = Pasivos** (identidad contable)
+- La base monetaria = efectivo + reservas bancarias
+
+## El balance del banco central (cont.)
+
+- Podemos expresar el balance simplificado:
+
+\begin{equation}
+\text{Reservas} + \text{Crédito doméstico} = \text{Base monetaria}
+\end{equation}
+
+- O en notación:
+
+\begin{equation}
+R^{*} + D = M_{0}
+\end{equation}
+
+- donde $R^{*}$ son reservas en divisas, $D$ es crédito doméstico
+  (bonos), y $M_{0}$ es la base monetaria
+
+## Intervención en el mercado de divisas
+
+- La **intervención** ocurre cuando el banco central compra o vende
+  divisas
+- **Compra de divisas** (por ejemplo, dólares):
+  - El BC recibe dólares (↑ $R^{*}$)
+  - Paga con pesos recién creados (↑ $M_{0}$)
+  - El peso tiende a **depreciarse** (o se evita la apreciación)
+- **Venta de divisas**:
+  - El BC entrega dólares (↓ $R^{*}$)
+  - Recibe pesos que retira de circulación (↓ $M_{0}$)
+  - El peso tiende a **apreciarse** (o se evita la depreciación)
+
+## Ejemplo: compra de dólares por el BCRA
+
+- Suponga que el BCRA compra USD 1,000 millones a $E = 1000$ pesos
+
+| **Antes** | Activos | Pasivos |
+|-----------|---------|---------|
+| Reservas | 50,000 MM | Base monetaria: 100,000 MM |
+| Crédito doméstico | 50,000 MM | |
+
+| **Después** | Activos | Pasivos |
+|-------------|---------|---------|
+| Reservas | 51,000 MM (+1,000) | Base monetaria: 101,000 MM (+1,000) |
+| Crédito doméstico | 50,000 MM | |
+
+## Intervención no esterilizada
+
+- La **intervención no esterilizada** es cuando el banco central
+  interviene sin compensar el efecto sobre la oferta monetaria
+- Si el BCRA **compra dólares** sin esterilizar:
+  - Aumentan las reservas
+  - Aumenta la base monetaria
+  - Baja la tasa de interés (más dinero)
+  - Esto refuerza la depreciación buscada
+
+## Intervención esterilizada
+
+- La **intervención esterilizada** (o esterilización) compensa el
+  efecto sobre la oferta monetaria
+- Si el BCRA compra dólares **y simultáneamente** vende bonos:
+  - ↑ $R^{*}$ (compra dólares)
+  - ↓ $D$ (vende bonos, retira pesos)
+  - $M_{0}$ permanece **sin cambios**
+- La composición del balance cambia, pero no la base monetaria
+
+## Ejemplo: intervención esterilizada
+
+| **Antes** | Activos | Pasivos |
+|-----------|---------|---------|
+| Reservas | 50,000 MM | Base monetaria: 100,000 MM |
+| Crédito doméstico | 50,000 MM | |
+
+| **Después (esterilizada)** | Activos | Pasivos |
+|----------------------------|---------|---------|
+| Reservas | 51,000 MM (+1,000) | Base monetaria: 100,000 MM (sin cambio) |
+| Crédito doméstico | 49,000 MM (-1,000) | |
+
+## ¿Es efectiva la intervención esterilizada?
+
+- Si la intervención esterilizada no cambia $M_{0}$, ¿afecta el tipo de
+  cambio?
+- En teoría, con **perfecta movilidad de capitales**: **No**
+  - La paridad de intereses determina $E$
+  - Si $R$ no cambia (porque $M_{0}$ no cambió), $E$ no cambia
+- En la práctica, puede tener **efectos limitados**:
+  - Canal de señalización (señales sobre política futura)
+  - Canal de portafolio (si activos no son sustitutos perfectos)
+
+## Efectividad de la intervención
+
+> **Caja de intuición:** Si el BCRA compra dólares pero esteriliza,
+> ¿por qué haría efecto? Posibles razones: (1) Señala que el BC está
+> dispuesto a defender un nivel de tipo de cambio. (2) Si los bonos
+> locales y extranjeros no son sustitutos perfectos, cambiar la
+> composición del portafolio puede afectar precios. Pero en general, el
+> consenso es que la intervención esterilizada tiene efectos
+> **limitados y temporales**.
+
+# **Cómo fija el banco central el tipo de cambio** {background="#4b6e5c"}
+
+## El compromiso de mantener E fijo
+
+- Para mantener un tipo de cambio fijo $\bar{E}$, el banco central debe
+  **comprometerse** a comprar o vender divisas ilimitadamente a ese
+  precio
+- Si el mercado quiere vender dólares a $\bar{E}$:
+  - El BC debe comprar todos los dólares ofrecidos
+  - Aumentan las reservas, aumenta $M_{0}$
+- Si el mercado quiere comprar dólares a $\bar{E}$:
+  - El BC debe vender todos los dólares demandados
+  - Disminuyen las reservas, disminuye $M_{0}$
+
+## Equilibrio con tipo de cambio fijo
+
+- Con tipo de cambio fijo, el banco central **pierde control sobre la
+  oferta monetaria**
+- La oferta monetaria se vuelve **endógena**:
+  - Se ajusta automáticamente para mantener el tipo de cambio fijo
+- La condición de equilibrio cambia:
+  - Ya no es $M^{s}/P = L(R,Y)$ con $M^{s}$ dado
+  - Ahora $E = \bar{E}$ está dado, y $M^{s}$ se ajusta
+
+## El mecanismo de ajuste automático
+
+```{mermaid}
+%%| fig-align: center
+%%{init: {'theme': 'base', 'themeVariables': { 'fontSize': '15px'}}}%%
+flowchart TB
+    A["<b>Exceso de oferta de pesos</b><br/>(presión a depreciar)"] --> B["Agentes quieren comprar dólares<br/>al tipo fijo Ē"]
+    B --> C["BC vende dólares,<br/>recibe pesos"]
+    C --> D["<b>↓ Reservas, ↓ M₀</b>"]
+    D --> E["↓ Oferta de pesos<br/>elimina el exceso"]
+    E --> F["<b>E se mantiene en Ē</b>"]
+    
+    style A fill:#fff3cd,stroke:#856404
+    style D fill:#f8d7da,stroke:#721c24
+    style F fill:#d4edda,stroke:#28a745
+```
+
+## Ejemplo numérico: presión a depreciar
+
+- Tipo de cambio fijo: $\bar{E} = 1000$ pesos por dólar
+- Equilibrio inicial con $M^{s} = 100,000$ MM pesos
+- Shock: aumento de demanda de dólares (por ejemplo, fuga de capitales)
+- Sin intervención: $E$ subiría a 1100
+- Con tipo fijo:
+  - BC vende dólares al público a $E = 1000$
+  - Reservas caen, $M^{s}$ cae
+  - Tasa de interés sube (menos dinero)
+  - $E$ se mantiene en 1000
+
+## La paridad de intereses bajo tipo de cambio fijo
+
+- Recordemos la paridad de intereses:
+
+\begin{equation}
+R = R^{*} + \frac{E^{e} - E}{E}
+\end{equation}
+
+- Si el tipo de cambio es fijo y **creíble** ($E^{e} = \bar{E} = E$):
+
+\begin{equation}
+R = R^{*}
+\end{equation}
+
+> Con un tipo de cambio fijo perfectamente creíble, **la tasa de
+> interés local debe igualar a la tasa de interés extranjera**
+
+## Implicancia: pérdida de autonomía monetaria
+
+- Si $R = R^{*}$ siempre, el banco central **no puede elegir** su tasa
+  de interés
+- La política monetaria del país ancla determina la del país que fija
+- Ejemplo Convertibilidad:
+  - Argentina ataba su tasa a la de EEUU
+  - Si la Fed subía tasas, Argentina también debía subirlas
+  - Aunque la economía argentina necesitara lo contrario
+
+# **Política monetaria bajo tipo de cambio fijo** {background="#4b6e5c"}
+
+## ¿Qué pasa si el BC intenta expandir?
+
+- Suponga que el BCRA intenta una **expansión monetaria** bajo tipo
+  fijo
+- Secuencia:
+  1. BCRA compra bonos domésticos $\longrightarrow$ ↑$M^{s}$
+  2. Baja la tasa de interés $R$
+  3. Ahora $R < R^{*}$ $\longrightarrow$ depósitos en dólares más
+     atractivos
+  4. Agentes compran dólares al BC al tipo fijo $\bar{E}$
+  5. El BC pierde reservas, $M^{s}$ baja de nuevo
+  6. Proceso continúa hasta que $R = R^{*}$ y $M^{s}$ vuelve al nivel
+     original
+
+## Expansión monetaria con E fijo: el ciclo
+
+```{mermaid}
+%%| fig-align: center
+%%{init: {'theme': 'base', 'themeVariables': { 'fontSize': '15px'}}}%%
+flowchart TB
+    A["BCRA compra bonos<br/>(↑ crédito doméstico)"] --> B["↑ M⁰, ↓ R"]
+    B --> C["R < R*<br/>Dólares más atractivos"]
+    C --> D["Demanda de dólares<br/>al tipo fijo Ē"]
+    D --> E["BC vende dólares<br/>↓ Reservas, ↓ M⁰"]
+    E --> F["R vuelve a subir"]
+    F --> G{"¿R = R*?"}
+    G -->|No| D
+    G -->|Sí| H["<b>Equilibrio restaurado</b><br/>Solo cambió composición<br/>de activos del BC"]
+    
+    style A fill:#fff3cd,stroke:#856404
+    style H fill:#d4edda,stroke:#28a745
+```
+
+## Resultado de la política monetaria
+
+- Con tipo de cambio fijo:
+  - La expansión monetaria **no tiene efecto duradero** sobre $M^{s}$
+  - Solo cambia la **composición** del balance del BC:
+    - ↑ Crédito doméstico
+    - ↓ Reservas internacionales
+- La política monetaria es **inefectiva** para afectar la producción
+
+## El "trilema" de la política monetaria
+
+- Un país **no puede tener simultáneamente**:
+  1. Tipo de cambio fijo
+  2. Libre movilidad de capitales
+  3. Política monetaria autónoma
+
+> **El trilema imposible:** Solo puedes elegir 2 de 3. Si fijas el tipo
+> de cambio y permites libre movilidad de capitales, pierdes autonomía
+> monetaria. Si quieres autonomía monetaria con movilidad de capitales,
+> debes dejar flotar el tipo de cambio.
+
+## El trilema: opciones de política
+
+| Opción | Fijo E | Movilidad K | Autonomía PM |
+|--------|:------:|:-----------:|:------------:|
+| A (Eurozona interior) | Sí | Sí | No |
+| B (China histórico) | Sí | No | Sí |
+| C (EEUU, Eurozona exterior) | No | Sí | Sí |
+
+- No existe la opción de tener las tres
+
+## El trilema gráficamente
+
+```{mermaid}
+%%| fig-align: center
+%%{init: {'theme': 'base', 'themeVariables': { 'fontSize': '16px'}}}%%
+flowchart TB
+    subgraph T["<b>EL TRILEMA</b>"]
+        direction TB
+        A["<b>Tipo de cambio fijo</b>"]
+        B["<b>Libre movilidad<br/>de capitales</b>"]
+        C["<b>Política monetaria<br/>autónoma</b>"]
+    end
+    
+    A ---|"Convertibilidad<br/>Eurozona"| B
+    B ---|"EEUU<br/>Flotación libre"| C
+    C ---|"Controles de capital<br/>China histórico"| A
+    
+    style A fill:#cce5ff,stroke:#004085
+    style B fill:#d4edda,stroke:#28a745
+    style C fill:#fff3cd,stroke:#856404
+```
+
+# **Política fiscal bajo tipo de cambio fijo** {background="#4b6e5c"}
+
+## Efectividad de la política fiscal
+
+- A diferencia de la política monetaria, la **política fiscal es
+  efectiva** bajo tipo de cambio fijo
+- Recordemos el modelo DD-AA:
+  - La curva DD representa equilibrio en el mercado de bienes
+  - La curva AA representa equilibrio en mercados de activos
+- Una expansión fiscal desplaza DD a la derecha
+
+## Expansión fiscal con E flotante vs. fijo
+
+- Con tipo de cambio **flotante**:
+  - DD se desplaza a la derecha
+  - Nueva intersección: ↑$Y$, ↓$E$ (apreciación)
+  - La apreciación reduce $NX$, amortiguando el efecto sobre $Y$
+- Con tipo de cambio **fijo**:
+  - DD se desplaza a la derecha
+  - Pero $E = \bar{E}$ no puede cambiar
+  - ¿Qué sucede?
+
+## Mecanismo bajo tipo de cambio fijo
+
+1. Expansión fiscal: ↑$G$ $\longrightarrow$ DD se desplaza derecha
+2. Esto presiona a **apreciar** el peso (bajar $E$)
+3. Para mantener $\bar{E}$, el BC debe **comprar dólares**
+4. Al comprar dólares: ↑ Reservas, ↑ $M^{s}$
+5. AA se desplaza hacia arriba (derecha)
+6. Nuevo equilibrio: ↑$Y$ **sin cambio en $E$**
+
+## Expansión fiscal con tipo de cambio fijo
+
+```{mermaid}
+%%| fig-align: center
+%%{init: {'theme': 'base', 'themeVariables': { 'fontSize': '15px'}}}%%
+flowchart TB
+    A["<b>↑ G</b> (expansión fiscal)"] --> B["DD se desplaza derecha<br/>Presión a apreciar peso"]
+    B --> C["BC compra dólares<br/>para mantener Ē"]
+    C --> D["↑ Reservas, ↑ M⁰"]
+    D --> E["AA se desplaza<br/>hacia arriba"]
+    E --> F["<b>Nuevo equilibrio:</b><br/>↑Y, E = Ē sin cambio"]
+    
+    style A fill:#d4edda,stroke:#28a745
+    style F fill:#cce5ff,stroke:#004085
+```
+
+## Comparación: flotante vs. fijo
+
+| Variable | E Flotante | E Fijo |
+|----------|------------|--------|
+| Producción $Y$ | Aumenta (poco) | Aumenta (mucho) |
+| Tipo de cambio $E$ | Cae (aprecia) | Sin cambio |
+| Tasa de interés $R$ | Sube | Sin cambio |
+| Exportaciones netas | Empeoran | Sin cambio |
+| Oferta monetaria | Sin cambio | Aumenta |
+
+## ¿Por qué es más efectiva la fiscal?
+
+> **Intuición:** Con tipo de cambio flotante, la expansión fiscal
+> aprecia la moneda, lo que reduce las exportaciones netas y
+> "neutraliza" parte del estímulo. Con tipo de cambio fijo, el banco
+> central impide la apreciación comprando dólares, lo que **expande la
+> oferta monetaria automáticamente**. La política fiscal "arrastra"
+> una expansión monetaria que refuerza el efecto.
+
+## Política fiscal contractiva
+
+- Por simetría, una **contracción fiscal** bajo tipo fijo:
+  - DD se desplaza a la izquierda
+  - Presión a depreciar
+  - BC vende dólares para defender $\bar{E}$
+  - ↓ Reservas, ↓ $M^{s}$
+  - AA se desplaza hacia abajo
+  - Resultado: fuerte caída de $Y$
+
+## Resumen: efectividad de políticas
+
+| Política | E Flotante | E Fijo |
+|----------|:----------:|:------:|
+| Monetaria | Efectiva | **Inefectiva** |
+| Fiscal | Parcialmente efectiva | **Muy efectiva** |
+
+- Esto se conoce como el **modelo Mundell-Fleming**
+
+# **Crisis de balanza de pagos** {background="#4b6e5c"}
+
+## ¿Qué es una crisis cambiaria?
+
+- Una **crisis de balanza de pagos** o **crisis cambiaria** ocurre
+  cuando un país no puede mantener su tipo de cambio fijo
+- Las reservas se agotan o caen a niveles críticos
+- El país se ve forzado a **devaluar** o **abandonar** el tipo fijo
+
+## Anatomía de una crisis
+
+1. **Acumulación de desequilibrios:**
+   - Déficit fiscal financiado con emisión
+   - Pérdida de competitividad (inflación mayor que socios)
+   - Déficit de cuenta corriente creciente
+2. **Pérdida gradual de reservas:**
+   - El BC defiende el tipo fijo vendiendo dólares
+3. **Ataque especulativo:**
+   - Inversores anticipan la devaluación
+   - Masiva demanda de dólares
+4. **Colapso:**
+   - Reservas se agotan
+   - Devaluación forzada
+
+## El modelo de Krugman de primera generación
+
+- Paul Krugman (1979) formalizó la lógica de las crisis
+- Supuestos:
+  - El gobierno tiene déficit fiscal y lo financia con emisión
+  - El BC intenta mantener $E$ fijo vendiendo reservas
+  - Las reservas se agotan en tiempo finito
+- Resultado:
+  - Antes de que las reservas lleguen a cero, hay un **ataque
+    especulativo**
+  - Los inversores racionales adelantan la crisis
+
+## ¿Por qué se adelanta el ataque?
+
+> **Intuición:** Si sabes que el BC se quedará sin reservas en 6 meses
+> y tendrá que devaluar, ¿esperarías 6 meses para comprar dólares? No.
+> Comprarías hoy, antes de la devaluación. Pero si todos piensan igual,
+> el ataque ocurre hoy, no en 6 meses. La expectativa de crisis futura
+> **causa** la crisis presente.
+
+## Dinámica del ataque especulativo
+
+```{mermaid}
+%%| fig-align: center
+%%{init: {'theme': 'base', 'themeVariables': { 'fontSize': '14px'}}}%%
+flowchart TB
+    A["<b>Déficit fiscal persistente</b><br/>financiado con emisión"] --> B["BC vende reservas<br/>para mantener Ē"]
+    B --> C["Reservas disminuyen<br/>gradualmente"]
+    C --> D["Inversores anticipan<br/>agotamiento de reservas"]
+    D --> E["<b>ATAQUE ESPECULATIVO</b><br/>Demanda masiva de dólares"]
+    E --> F["Reservas se agotan<br/>instantáneamente"]
+    F --> G["<b>DEVALUACIÓN</b><br/>o abandono del tipo fijo"]
+    
+    style A fill:#fff3cd,stroke:#856404
+    style E fill:#f8d7da,stroke:#721c24
+    style G fill:#f8d7da,stroke:#721c24
+```
+
+## Caso: crisis argentina 2001
+
+- **Antecedentes:**
+  - Convertibilidad desde 1991 ($1 = 1$ peso)
+  - Déficit fiscal creciente, deuda alta
+  - Apreciación del dólar (y del peso) en los 90s
+  - Pérdida de competitividad
+- **Desarrollo:**
+  - 1999-2001: recesión, fuga de capitales
+  - Diciembre 2001: corralito bancario
+  - Enero 2002: fin de la Convertibilidad, devaluación
+
+## Lecciones de la crisis argentina
+
+> **La crisis de 2001 ilustra varios problemas:**
+>
+> 1. Un tipo de cambio fijo sin política fiscal consistente es
+>    insostenible
+> 2. La rigidez cambiaria impidió el ajuste ante shocks externos
+>    (Brasil devaluó en 1999)
+> 3. La deuda en dólares amplificó la crisis (balance sheet effects)
+> 4. Una vez perdida la credibilidad, la defensa es imposible
+
+## Modelos de segunda generación
+
+- Los modelos de "segunda generación" (Obstfeld, 1994) muestran que:
+  - Las crisis pueden ser **autocumplidas**
+  - Un país con fundamentos no tan malos puede sufrir una crisis si
+    hay un ataque coordinado
+  - **Equilibrios múltiples:** el mismo país puede estar en
+    equilibrio con o sin ataque
+
+## Crisis autocumplidas
+
+- Suponga que defender el tipo de cambio tiene un **costo** (recesión,
+  desempleo)
+- Si los inversores **creen** que el gobierno abandonará el tipo fijo:
+  - Atacan la moneda
+  - Defender se vuelve muy costoso (tasas muy altas)
+  - El gobierno efectivamente abandona
+- Si los inversores **no creen** que habrá abandono:
+  - No atacan
+  - El costo de defender es bajo
+  - El gobierno mantiene el tipo fijo
+
+## Implicancia de los equilibrios múltiples
+
+> **Profecías autocumplidas:** Las expectativas del mercado pueden
+> determinar si un país mantiene o abandona su tipo de cambio. Esto
+> hace que los tipos de cambio fijos sean **inherentemente frágiles**:
+> un cambio de expectativas puede desencadenar una crisis incluso si
+> los fundamentos son razonables. La credibilidad es crucial.
+
+# **Flotación administrada y bandas cambiarias** {background="#4b6e5c"}
+
+## La flotación administrada
+
+- Muchos países no eligen ni flotación pura ni tipo fijo
+- La **flotación administrada** (managed float o dirty float):
+  - El tipo de cambio fluctúa según oferta y demanda
+  - Pero el BC interviene ocasionalmente para suavizar movimientos
+  - No hay compromiso público sobre un nivel específico
+
+## Objetivos de la flotación administrada
+
+- ¿Por qué intervenir sin fijar?
+  1. **Suavizar volatilidad excesiva** de corto plazo
+  2. **Acumular reservas** en tiempos favorables
+  3. **Evitar apreciaciones bruscas** que dañen exportadores
+  4. **Señalizar** la visión del BC sobre el tipo de cambio
+     "apropiado"
+
+## Bandas cambiarias
+
+- Las **bandas cambiarias** son un régimen intermedio:
+  - Se fija un rango $[\underline{E}, \bar{E}]$ dentro del cual el
+    tipo puede fluctuar
+  - El BC interviene solo en los **márgenes**
+  - Dentro de la banda: flotación
+
+## Bandas cambiarias (cont.)
+
+- Ejemplo: Sistema Monetario Europeo (SME) 1979-1999
+  - Monedas europeas fluctuaban en bandas de ±2.25% (luego ±15%)
+  - El marco alemán era el ancla informal
+  - Precursor del euro
+
+## Ventajas y desventajas de las bandas
+
+| Ventajas | Desventajas |
+|----------|-------------|
+| Flexibilidad dentro de la banda | Vulnerables a ataques especulativos |
+| Algo de autonomía monetaria | Compromiso difícil de mantener |
+| Señal de orientación de política | Pueden ser asimétricas en la práctica |
+
+## El crawling peg
+
+- El **crawling peg** (tipo de cambio reptante):
+  - El tipo de cambio se deprecia gradualmente según una regla
+  - Puede ser pre-anunciado o basado en diferenciales de inflación
+- Ejemplo: Argentina 1978 (tablita cambiaria)
+  - Se preanunciaba la tasa de depreciación mensual
+  - Objetivo: anclar expectativas de inflación
+
+## Crawling peg: el mecanismo
+
+```{mermaid}
+%%| fig-align: center
+%%{init: {'theme': 'base', 'themeVariables': { 'fontSize': '15px'}}}%%
+flowchart TB
+    A["<b>Anuncio:</b> E se depreciará<br/>1% mensual"] --> B["Expectativas de inflación<br/>se anclan"]
+    B --> C["Si inflación local > 1% + inflación externa"]
+    C --> D["Pérdida de competitividad<br/>(apreciación real)"]
+    D --> E["Eventual presión<br/>sobre el tipo de cambio"]
+    
+    style A fill:#d4edda,stroke:#28a745
+    style E fill:#f8d7da,stroke:#721c24
+```
+
+## La elección del régimen cambiario
+
+- No hay un régimen "óptimo" universal
+- Depende de:
+  - **Tamaño y apertura** de la economía
+  - **Historial inflacionario** y credibilidad
+  - **Flexibilidad de precios y salarios**
+  - **Movilidad de capitales**
+  - **Estructura de la deuda** (moneda)
+  - **Shocks típicos** (reales vs. nominales)
+
+## Criterios para elegir régimen
+
+| Característica | Favorece flotación | Favorece fijo |
+|----------------|:------------------:|:-------------:|
+| Shocks reales frecuentes | Sí | |
+| Alta inflación histórica | | Sí |
+| Deuda en moneda extranjera | | Sí (pero riesgoso) |
+| Comercio concentrado en un socio | | Sí |
+| Precios/salarios flexibles | Sí | |
+
+# **Reservas internacionales y su gestión** {background="#4b6e5c"}
+
+## ¿Cuántas reservas son necesarias?
+
+- Las **reservas internacionales** son activos externos del BC
+- Sirven para:
+  - Intervenir en el mercado cambiario
+  - Pagar importaciones y deuda externa
+  - Generar confianza
+- Reglas tradicionales:
+  - 3-6 meses de importaciones
+  - 100% de deuda de corto plazo (Greenspan-Guidotti)
+
+## Acumulación de reservas post-crisis asiática
+
+- Después de las crisis de los 1990s, muchos países emergentes
+  acumularon **grandes reservas**
+- Motivaciones:
+  - **Autoseguro** contra crisis
+  - **Evitar condicionalidad** del FMI
+  - **Mantener competitividad** (evitar apreciación)
+- China llegó a tener > USD 4 billones en reservas
+
+## Costos de mantener reservas
+
+- Las reservas tienen un **costo de oportunidad**:
+  - Están invertidas en activos seguros (bonos del Tesoro EEUU)
+  - Rinden poco (especialmente en época de tasas bajas)
+  - El país podría usar esos fondos para inversión productiva
+- El costo = diferencia entre rendimiento de reservas y costo de
+  financiamiento del país
+
+## El "exceso" de reservas
+
+> **Dilema de los países emergentes:** Acumular reservas da
+> tranquilidad pero tiene costo. Usarlas en crisis puede generar
+> pánico ("si están usando reservas, la cosa está mal"). Los países
+> tienden a acumular más de lo "óptimo" por precaución. Pero reservas
+> muy altas representan ahorro invertido en el exterior en lugar de
+> desarrollo interno.
+
+# **Resumen del capítulo** {background="#4b6e5c"}
+
+## Conceptos clave
+
+1. **Intervención:** compra/venta de divisas por el BC
+2. **Esterilización:** compensar efectos sobre $M^{s}$
+3. **Tipo de cambio fijo:** pérdida de autonomía monetaria
+4. **Trilema:** no se puede tener todo (fijo + movilidad + autonomía)
+5. **Crisis cambiaria:** agotamiento de reservas, devaluación forzada
+6. **Flotación administrada:** intervención sin compromiso fijo
+
+## El trilema resumido
+
+```{mermaid}
+%%| fig-align: center
+%%{init: {'theme': 'base', 'themeVariables': { 'fontSize': '15px'}}}%%
+flowchart TB
+    A["<b>ELIGE DOS:</b>"]
+    
+    B["Tipo de cambio fijo"]
+    C["Libre movilidad de K"]
+    D["Política monetaria autónoma"]
+    
+    A --> B
+    A --> C
+    A --> D
+    
+    E["Argentina 1991-2001<br/>(B + C)"] --> B
+    E --> C
+    
+    F["China histórico<br/>(B + D)"] --> B
+    F --> D
+    
+    G["EEUU hoy<br/>(C + D)"] --> C
+    G --> D
+    
+    style A fill:#e8f4ea,stroke:#4b6e5c
+```
+
+## Efectividad de políticas bajo distintos regímenes
+
+| Política | E Flotante | E Fijo |
+|----------|:----------:|:------:|
+| Monetaria expansiva | ↑Y, ↑E (deprecia) | Sin efecto duradero |
+| Fiscal expansiva | ↑Y, ↓E (aprecia) | ↑Y (muy efectiva) |
+
+## Fórmulas importantes
+
+| Concepto | Expresión |
+|----------|-----------|
+| Balance del BC | $R^{*} + D = M_{0}$ |
+| Paridad intereses (E fijo creíble) | $R = R^{*}$ |
+| Nivel crítico de reservas | Regla Greenspan-Guidotti |
+
+## Preguntas de repaso
+
+1. ¿Qué diferencia hay entre intervención esterilizada y no
+   esterilizada?
+2. ¿Por qué la política monetaria es inefectiva bajo tipo de cambio
+   fijo?
+3. Explique el trilema de la política monetaria.
+4. ¿Cómo se desarrolla un ataque especulativo según Krugman?
+5. ¿Por qué Argentina abandonó la Convertibilidad en 2002?
+6. ¿Cuáles son las ventajas y desventajas de la flotación
+   administrada?

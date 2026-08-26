@@ -3,7 +3,7 @@ title: "U2. Los años veinte y los gobiernos radicales"
 subtitle: "Historia Económica Argentina · Clase 07"
 ---
 
-# Apertura y hoja de ruta {background="#1f3a5f"}
+# Apertura y HOJA de ruta {background="#1f3a5f"}
 
 ## Dónde quedamos
 

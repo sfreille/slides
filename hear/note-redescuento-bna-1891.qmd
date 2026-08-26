@@ -1,0 +1,162 @@
+---
+format:
+  pdf:
+    documentclass: article
+    geometry: "top=1.4cm, bottom=1.4cm, left=1.8cm, right=1.8cm"
+    fontsize: 10pt
+    number-sections: false
+    include-in-header:
+      text: |
+        \usepackage{lmodern}
+        \usepackage[T1]{fontenc}
+        \usepackage{tcolorbox}
+        \tcbuselibrary{skins}
+        \usepackage{amsmath}
+        \usepackage{tikz}
+        \usetikzlibrary{positioning,arrows.meta}
+        \usepackage{xcolor}
+        \usepackage{enumitem}
+        \usepackage{microtype}
+
+        \definecolor{azul}{RGB}{31,58,95}
+        \definecolor{azulcl}{RGB}{219,229,245}
+        \definecolor{verde}{RGB}{22,110,52}
+        \definecolor{verdecl}{RGB}{215,242,225}
+        \definecolor{naranja}{RGB}{175,75,15}
+        \definecolor{naranjacl}{RGB}{255,238,215}
+        \definecolor{gris}{RGB}{80,80,80}
+
+        \newtcolorbox{cajaN}[1]{
+          enhanced, arc=3pt, boxrule=0.6pt, left=6pt, right=6pt, top=10pt, bottom=6pt,
+          fontupper=\small, colback=azulcl, colframe=azul, coltitle=white,
+          title={\small\bfseries\sffamily #1},
+          attach boxed title to top left={yshift=-3mm, xshift=6mm},
+          boxed title style={colback=azul, arc=2pt, boxrule=0pt, left=4pt, right=4pt, top=1pt, bottom=1pt}
+        }
+        \newtcolorbox{cajaV}[1]{
+          enhanced, arc=3pt, boxrule=0.6pt, left=6pt, right=6pt, top=10pt, bottom=6pt,
+          fontupper=\small, colback=verdecl, colframe=verde, coltitle=white,
+          title={\small\bfseries\sffamily #1},
+          attach boxed title to top left={yshift=-3mm, xshift=6mm},
+          boxed title style={colback=verde, arc=2pt, boxrule=0pt, left=4pt, right=4pt, top=1pt, bottom=1pt}
+        }
+        \newtcolorbox{cajaO}[1]{
+          enhanced, arc=3pt, boxrule=0.6pt, left=6pt, right=6pt, top=10pt, bottom=6pt,
+          fontupper=\small, colback=naranjacl, colframe=naranja, coltitle=white,
+          title={\small\bfseries\sffamily #1},
+          attach boxed title to top left={yshift=-3mm, xshift=6mm},
+          boxed title style={colback=naranja, arc=2pt, boxrule=0pt, left=4pt, right=4pt, top=1pt, bottom=1pt}
+        }
+
+        \setlength{\parindent}{0pt}
+        \setlength{\parskip}{3pt}
+        \setlist[itemize]{noitemsep, topsep=1pt, partopsep=0pt, leftmargin=1.2em}
+        \pagestyle{empty}
+---
+
+```{=latex}
+% ── Encabezado ───────────────────────────────────────────────────────────────
+\noindent{\sffamily\LARGE\bfseries\color{azul}Redescuento}\enspace{\sffamily\large\color{gris}qué es y cómo funciona}\\[2pt]
+{\small\color{gris}Banco de la Nación Argentina (1891)}
+
+\vspace{3pt}
+\noindent{\color{azul!60}\hrule height 0.5pt}
+\vspace{8pt}
+
+% ── Fila 1: Descuento | Redescuento ─────────────────────────────────────────
+\noindent
+\begin{minipage}[t]{0.487\textwidth}
+\begin{cajaN}{Paso 1 — El descuento (empresa $\to$ banco)}
+Una empresa tiene un pagaré firmado por su deudor pero \textbf{no quiere esperar al vencimiento}. Va al banco y lo \emph{descuenta}: el banco le paga hoy un valor menor al nominal; al vencimiento cobra el total. La diferencia es la \textbf{tasa de descuento}.
+
+\medskip
+\textit{Ejemplo:} un exportador de trigo tiene un pagaré de \$10.000 a 90 días.
+\begin{itemize}
+  \item El Banco de Londres le paga \textbf{\$9.700 hoy}
+  \item Al vencimiento el banco cobra \textbf{\$10.000}
+  \item El exportador resignó \$300 por liquidez inmediata
+  \item Tasa implícita $\approx 3\%$ en 90 días
+\end{itemize}
+\end{cajaN}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.487\textwidth}
+\begin{cajaN}{Paso 2 — El redescuento (banco $\to$ BNA)}
+El Banco de Londres tiene ese pagaré en cartera. Si \textbf{él} necesita liquidez (retiros de depósitos, contracción crediticia), lo lleva al BNA y hace la misma operación: vende el pagaré al BNA a un valor levemente menor al que pagó.
+
+\medskip
+\textit{Continuando el ejemplo:}
+\begin{itemize}
+  \item El Banco de Londres lleva el pagaré al BNA
+  \item El BNA le paga \textbf{\$9.850 hoy}
+  \item Al vencimiento el BNA cobra \textbf{\$10.000}
+  \item El banco recuperó liquidez; el BNA ganó \$150
+\end{itemize}
+\end{cajaN}
+\end{minipage}
+
+\vspace{7pt}
+
+% ── Fila 2: Cadena completa ──────────────────────────────────────────────────
+\begin{cajaV}{La cadena completa}
+\vspace{2pt}
+\centering
+\begin{tikzpicture}[
+  box/.style={rectangle, rounded corners=2pt, draw=verde!70!black, fill=white,
+    minimum height=7mm, minimum width=2.2cm, align=center,
+    font=\small\bfseries\sffamily, inner sep=3pt},
+  lbl/.style={font=\scriptsize, color=gris, align=center, text width=2.3cm},
+  albl/.style={font=\scriptsize, color=gris, above},
+  arr/.style={-{Stealth[length=3pt,width=4pt]}, thick, color=verde!80!black}
+]
+  \node[box] (D)   at (0,0)    {Deudor};
+  \node[box] (E)   at (4.2,0)  {Exportador};
+  \node[box] (B)   at (8.9,0)  {Banco de\\Londres};
+  \node[box] (BNA) at (13.6,0) {BNA};
+
+  \draw[arr] (D.east) -- node[albl] {pagaré \$10.000} (E.west);
+  \draw[arr] (E.east) -- node[albl] {descuento} (B.west);
+  \draw[arr] (B.east) -- node[albl] {redescuento} (BNA.west);
+
+  \node[lbl, below=3pt of D]   {firma el pagaré};
+  \node[lbl, below=3pt of E]   {recibe \$9.700\\cede el documento};
+  \node[lbl, below=3pt of B]   {recibe \$9.850\\cede el documento};
+  \node[lbl, below=3pt of BNA] {cobra \$10.000\\al vencimiento};
+\end{tikzpicture}
+
+\vspace{4pt}
+{\raggedright\small
+Al vencimiento, el deudor paga \$10.000 al \textbf{BNA} (último tenedor del documento). El Banco de Londres no tiene ninguna obligación remanente.}
+\end{cajaV}
+
+\vspace{7pt}
+
+% ── Fila 3: Implicancias | Tensión ──────────────────────────────────────────
+\noindent
+\begin{minipage}[t]{0.487\textwidth}
+\begin{cajaN}{Implicancias para el BNA (1891)}
+\begin{itemize}
+  \item El BNA actuaba como \textbf{prestamista de liquidez de última instancia} para los bancos en apuros
+  \item Inyectaba liquidez contra \textbf{activos genuinos} (documentos comerciales), no de la nada
+  \item Límite de \textbf{\$500.000 por banco}: ninguno podía absorber toda la capacidad del BNA
+  \item Solo bancos ``en condiciones regulares'' podían acceder; insolventes quedaban excluidos
+\end{itemize}
+\end{cajaN}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.487\textwidth}
+\begin{cajaO}{La tensión institucional}
+Esta función \textbf{chocaba con la lógica de la Caja de Conversión}: la Caja emitía solo contra oro, pero el redescuento permitía al BNA inyectar liquidez \textbf{contra documentos comerciales}.
+
+\medskip
+El sistema tenía \textbf{dos puertas}:
+\begin{itemize}
+  \item \textbf{Caja de Conversión:} emisión metálica, rígida, endógena al oro
+  \item \textbf{BNA:} crédito fiduciario, flexible pero acotado (\$500k por banco)
+\end{itemize}
+
+\medskip
+{\small Esa dualidad distingue el modelo argentino del modelo inglés puro (Peel's Act) — Gómez (2018).}
+\end{cajaO}
+\end{minipage}
+```

@@ -1,0 +1,342 @@
+---
+title: "U2. Avatares del sistema monetario"
+subtitle: "Historia Económica Argentina · Clase 08"
+---
+
+# Apertura y hoja de ruta {background="#1f3a5f"}
+
+## Dónde quedamos
+
+- En **1927** Argentina volvió al **patrón oro** a 2,27 $/£.
+- Años veinte: **monetización sin profundidad financiera**.
+- El **BNA financiaba al Estado**; el **Plan Dawes** sostenían prosperidad prestada.
+- En **1929**, el mundo se derrumba.
+
+::: {.callout-tip icon=false title="Idea clave"}
+La Gran Depresión fue una **crisis de régimen monetario**.
+:::
+
+## La pregunta de hoy
+
+> Si la Caja de Conversión fue creada para eliminar la discrecionalidad, ¿qué pasa cuando las **reglas ortodoxas** se vuelven **insostenibles**? ¿Cómo pasa Argentina del patrón oro al control de cambios, y de ahí al **Banco Central**?
+
+## Mapa de la clase
+
+1. **Bloque 1 — El shock de 1929:** la suspensión de la convertibilidad.
+2. **Bloque 2 — El patrón oro esporádico:** controles, múltiples tipos de cambio y el desdoblamiento del mercado.
+3. **Bloque 3 — La crisis bancaria:** el sistema en terapia intensiva (1930–1934).
+4. **Bloque 4 — El BNA bajo presión:** fiscal, monetario y político.
+5. **Bloque 5 — De la Caja al BCRA:** el nacimiento de una nueva institucionalidad (1935).
+
+# Bloque 1. El shock de 1929 y el fin del patrón oro {background="#1f3a5f"}
+
+## [1.1] La tormenta perfecta
+
+- **Octubre de 1929**: crisis en Wall Street.
+- **Capitales de corto plazo** salieron; largo plazo dejó de ingresar.
+- **Exportaciones** cayeron 10,7% en 1929; cuenta capital pasó de +125 a –3,4 millones de USD.
+- **Balanza de pagos**: de +133 millones (1928) a **–294 millones** (1929).
+
+::: {.callout-important icon=false title="El costo de la regla dura"}
+Bajo el patrón oro, la salida de reservas obligaba a contraer la base monetaria.
+:::
+
+::: {.fuente}
+Gómez (2018), *La Caja y el Banco 1929-1935*, Gráfico 1.
+:::
+
+## [1.2] Fin de la convertibilidad
+
+- **16 de diciembre de 1929**: Yrigoyen suspendió el art. 7° de la Ley 3871.
+- La Caja quedó **liberada de entregar oro**. Argentina abandonaba el patrón oro.
+- El oro siguió cotizándose libremente a **tipo flexible** hasta octubre de 1931.
+
+::: {.callout-note icon=false title="Un abandono sin dramatismo"}
+No hubo pánico inmediato: el sistema había operado sin convertibilidad durante la guerra. Pero esta vez el shock era **estructural**.
+:::
+
+::: {.fuente}
+Gómez (2018), *La Caja y el Banco 1929-1935*.
+:::
+
+## [1.3] La balanza de pagos en caída libre
+
+- **1930**: el déficit comercial fue el único negativo del período (–55 millones de dólares). Las exportaciones cayeron un 43,8% y las importaciones un 25,2%.
+- La caída de las cantidades exportadas (–31,7%) fue más fuerte que la de los precios (–17,7%): una **terrible cosecha de trigo** agravó el shock externo.
+- **1931**: la salida del Reino Unido del patrón oro (septiembre) profundizó la crisis. La cuenta capital volvió a ser fuertemente negativa (–93,8 millones).
+
+::: {.fuente}
+Gómez (2018), *La Caja y el Banco 1929-1935*, Gráficos 1, 2 y 3.
+:::
+
+## [1.4] El tipo de cambio flota
+
+- Sin convertibilidad ni controles, el peso se depreció más de un **20%** (1929–1931).
+- En marzo de 1931 el BNA intentó estabilizar el tipo. Fracasó: exportadores **remesaron saldos** esperando tipo más favorable.
+
+::: {.callout-important icon=false title="La lección de 1931"}
+Sin control de cambios, la intervención del BNA era **vulnerable a la especulación**.
+:::
+
+::: {.fuente}
+O'Connell (1984).
+:::
+
+# Bloque 2. El patrón oro esporádico {background="#1f3a5f"}
+
+## [2.1] Del oro al control
+
+- **Octubre de 1931**: **control de cambios**. Exportadoras debían entregar divisas a la Comisión.
+- Hueyo acuñó el **"patrón oro esporádico"**: desde 1914, sin una sola regla monetaria.
+- El control detuvo la depreciación; la Comisión **fijó el tipo en 3,8864 $/USD** hasta marzo de 1933.
+
+::: {.callout-tip icon=false title="Idea clave"}
+El control nació como **emergencia**, pero se hizo **permanente**: el Estado administraba divisas y decidía quién importaba.
+:::
+
+::: {.fuente}
+O'Connell (1984); Gómez (2018).
+:::
+
+## [2.2] El desdoblamiento de 1933
+
+- **Noviembre de 1933**: **dos mercados de cambio**:
+  - **Oficial**: importaciones con permiso y pago de deuda con el área esterlina.
+  - **Libre**: importaciones sin permiso y remesas de capital.
+- Se estableció un **margen** entre tipo vendedor y comprador en el oficial.
+- En la práctica, el sistema fue **discriminación comercial**.
+
+::: {.fuente}
+O'Connell (1984).
+:::
+
+## [2.3] La devaluación de 1933–34
+
+- **Noviembre de 1933**: devaluación. Tipo de compra pasó de 15,47 a 18,36 francos por 100 francos.
+- **Enero de 1934**: paridad en **libras**: 15 pesos por libra (devaluación del 20%).
+- Margen promedio en 1934: **13,87%**.
+- Fines de 1935: precio de venta fijado en **17 pesos la libra**.
+
+::: {.callout-note icon=false title="Devaluación 'compensada'"}
+El **margen de cambios** absorbió parte de la ganancia rural. El Estado retuvo diferencias para subsidiar precios mínimos.
+:::
+
+::: {.fuente}
+O'Connell (1984); Salera (1941).
+:::
+
+## [2.4] El margen de cambios
+
+| Período | Ganancias | Juntas de Granos | Deuda pública | Otras |
+|---------|:---------:|:----------------:|:-------------:|:-----:|
+| Nov 1933 – Sep 1934 | 91,2 M | 8,8 M | 24,6 M | — |
+| Nov 1933 – Dic 1938 | — | ~1% | ~48% | ~18% |
+
+::: {.callout-important icon=false title="Solo dos tercios"}
+Solo **dos tercios** de las ganancias por margen se usaron para el propósito original. El resto se diluyó en gasto público.
+:::
+
+::: {.fuente}
+Salera (1941), en O'Connell (1984).
+:::
+
+# Bloque 3. La crisis bancaria {background="#1f3a5f"}
+
+## [3.1] Crisis bancaria
+
+- La crisis de balanza de pagos generó **crisis bancaria**:
+  - Caída de depósitos, restricción crediticia, morosidad.
+  - Bancos **extranjeros** sufrieron menos: recurrieron a casas matrices.
+- El **BNA** usó **redescuentos** masivamente: del **15% al 30%** de las reservas (1929–1934).
+
+::: {.callout-important icon=false title="El BNA como prestamista"}
+Sin Banco Central, el BNA absorbió toda la presión… pero también **financiaba al Estado**.
+:::
+
+::: {.fuente}
+Gómez (2018), *La Caja y el Banco 1929-1935*.
+:::
+
+## [3.2] Los bancos en cifras
+
+- Hacia **1935**, el sistema contaba con **49 bancos** (excluyendo el BNA) con capital no inferior a un millón de pesos.
+- La mayoría eran **nacionales** (públicos y privados); los extranjeros eran una minoría pero concentraban gran parte del crédito al comercio exterior.
+- Entre los nacionales privados: Español del Río de la Plata, Francés del Río de la Plata, Italia y Río de la Plata, Galicia, Buenos Aires.
+- Entre los extranjeros: Londres y América del Sur, Anglo Sud Americano, Alemán Transatlántico.
+
+::: {.fuente}
+Gómez (2018), *La Caja y el Banco 1929-1935*, Cuadro 1.
+:::
+
+## [3.3] Corridas y restricción
+
+- Caída de depósitos y demanda de efectivo presionaron la liquidez.
+- El BNA respondió con **redescuentos crecientes**, expandiendo la base monetaria.
+- El sistema sobrevivió, pero **monetizando la crisis** y dejando al BNA más expuesto.
+
+::: {.callout-tip icon=false title="La paradoja"}
+El BNA actuó como banco central… pero sin herramientas ni respaldo legal. Esa contradicción impulsó el BCRA.
+:::
+
+::: {.fuente}
+Gómez (2018).
+:::
+
+# Bloque 4. El BNA bajo presión {background="#1f3a5f"}
+
+## [4.1] Las tres fuentes de presión
+
+El BNA enfrentó simultáneamente tres shocks:
+
+1. **Fiscal**: el Estado necesitaba financiamiento para cubrir déficits crecientes.
+2. **Bancario**: el sistema requería liquidez de emergencia (redescuentos).
+3. **Cambiario**: la defensa del tipo de cambio consumía reservas.
+
+::: {.callout-important icon=false title="El trilema en acción"}
+El BNA no podía sostener la convertibilidad, financiar al Estado y salvar a los bancos al mismo tiempo. Las tres funciones eran **incompatibles** bajo las reglas de la Caja.
+:::
+
+## [4.2] El financiamiento fiscal no se detiene
+
+- Las **Letras de Tesorería** siguieron siendo el principal mecanismo: redescuento de títulos del Tesoro por parte del BNA.
+- Entre **1925 y 1928** se habían reintegrado los 30 millones del Fondo de Conversión… pero el origen fue el propio Estado (giro del Tesoro convertido en deuda en pesos).
+- En los años treinta, la presión fiscal se intensificó: cayeron los ingresos aduaneros y crecieron los gastos de emergencia.
+
+::: {.fuente}
+Gómez (2018), *La Caja y el Banco 1914-1928*, Gráfico 8; *La Caja y el Banco 1929-1935*.
+:::
+
+## [4.3] El BNA en comparación: deterioro acelerado
+
+| Indicador | BNA (1920–27) | BNA (1928–34) |
+|-----------|:-------------:|:-------------:|
+| Reservas/Depósitos | 28% | Caída sostenida |
+| Capital/Activos | 9–10% | Deterioro por presión estatal |
+| Redescuentos/Reservas | 15–30% | Pico en 1931–33 |
+
+::: {.callout-tip icon=false title="Idea clave"}
+El BNA que había sido **más líquido que el Banco de Inglaterra** en los años veinte, quedó **drenado** en los treinta. La causa principal no fue la crisis bancaria, sino el **financiamiento al Estado**.
+:::
+
+::: {.fuente}
+Gómez (2018), Cuadros 9 y 10; *La Caja y el Banco 1929-1935*.
+:::
+
+# Bloque 5. De la Caja al BCRA {background="#1f3a5f"}
+
+## [5.1] El fin de un modelo
+
+- La Gran Depresión demostró que la **Caja de Conversión** no podía operar en un mundo de shocks estructurales.
+- Las reglas ortodoxas fueron **violadas una a una** entre 1929 y 1935.
+- El problema era de **gobernanza**: se necesitaba **claridad de mandato y herramientas**.
+
+::: {.callout-note icon=false title="El debate prebischiano"}
+Prebisch sostuvo que Argentina necesitaba política monetaria **autónoma** y **contracíclica**, no atada al oro.
+:::
+
+## [5.2] La Ley de Bancos de 1933
+
+- Antes de crear el BCRA, el gobierno de Justo impulsó la **Ley de Bancos de 1933**:
+  - Aumentó el encaje mínimo de los bancos.
+  - Reforzó la supervisión.
+  - Pero no resolvió el problema de fondo: la **emisión** seguía fragmentada entre la Caja y el BNA.
+
+::: {.fuente}
+Gómez (2018).
+:::
+
+## [5.3] El proyecto del BCRA
+
+- **1934**: proyecto de creación del **BCRA**, con influencia de **Prebisch**.
+- **Capital**: 300 millones de pesos (Estado, BNA y bancos privados).
+- **Objetivo**: regular crédito y circulación monetaria.
+- **Instrumentos**: redescuentos, mercado abierto, control de cambios.
+
+::: {.callout-important icon=false title="¿Independencia o soberanía?"}
+El BCRA nació como entidad **mixta** con representación de bancos extranjeros. Para los críticos, incompatible con **soberanía monetaria**.
+:::
+
+::: {.fuente}
+Gómez (2018), Cap. VI; O'Connell (1984).
+:::
+
+## [5.4] La letra y la práctica
+
+- La **Ley 12.155** de **28 de marzo de 1935** creó el BCRA.
+- En la práctica, la transición fue gradual: la Caja de Conversión no se disolvió de inmediato; sus funciones fueron **transferidas** al nuevo banco.
+- El BNA siguió existiendo como banco comercial estatal, pero perdió su rol cuasi-central.
+
+::: {.callout-tip icon=false title="Un cambio de régimen"}
+La creación del BCRA no fue solo una reforma técnica: fue el reconocimiento de que Argentina necesitaba **política monetaria propia**, discrecional y contracíclica. El precio fue abandonar definitivamente la ortodoxia de la Caja.
+:::
+
+::: {.fuente}
+Gómez (2018), Cap. VI.
+:::
+
+## [5.5] Balance de la transición
+
+| Aspecto | Caja de Conversión (1902–29) | BCRA (1935–) |
+|---------|:----------------------------:|:------------:|
+| Regla de emisión | Oro al 100% (marginal) | Discrecional |
+| Tipo de cambio | Fijo (2,27) | Administrado / controlado |
+| Prestamista de última instancia | BNA (a medias) | BCRA (formal) |
+| Financiamiento al Estado | Prohibido (sorteado) | Regulado (adelantos) |
+| Supervisión bancaria | Fragmentada | Centralizada |
+
+::: {.fuente}
+Gómez (2018); O'Connell (1984).
+:::
+
+# Cierre {background="#1f3a5f"}
+
+## Ideas fuerza {.tight}
+
+1. La **suspensión de la convertibilidad** (1929) fue consecuencia lógica de atar la moneda al oro en un mundo sin patrón oro.
+2. El **control de cambios** (1931) y el **desdoblamiento** (1933) transformaron al Estado en administrador de divisas.
+3. La **crisis bancaria** (1930–1934) mostró que el BNA no podía ser prestamista de última instancia sin respaldo legal.
+4. El **financiamiento fiscal** erosionó la solvencia del BNA más que la crisis bancaria.
+5. El **BCRA (1935)** fue un **cambio de régimen**: de ortodoxia pasiva a política monetaria activa.
+6. El BCRA nació con **tensiones de poder** (representación extranjera) que marcarían su historia.
+
+## Preguntas para llevarse
+
+- Si la Caja de Conversión funcionó en 1900–1914 pero falló en 1929, ¿el problema era la **regla** o las **condiciones externas**? ¿Podía funcionar sin un prestamista de última instancia global?
+- ¿Fue el control de cambios una **necesidad** impuesta por el shock o una **oportunidad** para expandir el poder del Estado?
+- ¿Por qué Argentina mantuvo el **servicio de la deuda externa** mientras devaluaba y controlaba cambios? ¿Quién pagó ese costo?
+- Puente a la clase 09: si la crisis monetaria encontró una salida institucional en 1935, ¿cómo se reorganizó la **política económica** en la Década Infame?
+
+## Bibliografía de la clase
+
+**Obligatoria**
+
+- **Gómez, M. (2018).** *Avatares…*, **caps. 5–6**.
+- **O'Connell, A. (1984).** La Argentina en la Depresión. *Desarrollo Económico*, 23(92).
+
+**Complementaria**
+
+- **Gerchunoff, P. y Llach, L. (2007).** *El ciclo…*, **cap. 3**.
+
+::: {.fuente}
+Bibliografía completa en el programa de la asignatura.
+:::
+
+<!--
+Notas de uso (no proyectar):
+- Unidad 2, clase 08. Fuentes: Gómez (2018) caps. 5-6 + "La Caja y el Banco 1929-1935"
+  para bloques 1, 3, 4 y 5 + O'Connell (1984) para bloques 2 y 3 (control de cambios,
+  devaluación, márgenes, Pacto Roca-Runciman en contexto).
+- FIGURAS A SCREENCAPEAR (nuevas, paths pendientes):
+  [1.1] Gómez (2018) / "La Caja y el Banco 1929-1935", Gráfico 1 → BOP cuatro series 1928-1934
+        → guardar como: fig-chart-balanza-pagos-1928-1934.png
+  [1.3] mismo doc, Gráficos 2 y 3 → precios de M y X, 1928-1934
+        → guardar como: fig-chart-precios-mx-1928-1934.png
+  [2.4] O'Connell (1984) / Salera (1941), tabla de márgenes de cambio
+        → guardar como: fig-table-margen-cambios-1933-1938.png
+  [3.2] Gómez (2018) / "La Caja y el Banco 1929-1935", Cuadro 1 → lista de bancos 1935
+        → guardar como: fig-table-lista-bancos-1935.png
+- Hilo narrativo: 1929 crash → suspensión convertibilidad → control de cambios (1931)
+  → desdoblamiento y devaluación (1933-34) → crisis bancaria → BNA bajo presión fiscal
+  → creación del BCRA (1935) como cambio de régimen monetario.
+- Overflow: verificar con `node _check-overflow.mjs lec-08-*.html`; aplicar .tight/.smaller.
+-->

@@ -1,0 +1,205 @@
+---
+title: "U1. Teoría del Bien Primario Exportable"
+subtitle: "Historia Económica Argentina · Clase 02"
+---
+
+# Apertura {background="#1f3a5f"}
+
+## Punto de partida
+
+La clase anterior introdujo el BPE como **sector líder** y mostró la evolución del exportable argentino (vaca → oveja → cereal). Ahora vamos **más adentro de la teoría**:
+
+- ¿Por qué Argentina tenía ventaja comparativa en bienes primarios?
+- ¿Quién se queda con los frutos del crecimiento exportador?
+- ¿Tiene el modelo un techo?
+
+## Mapa de la clase
+
+1. **Bloque 1 — Dotación de factores:** tierra, trabajo y capital; la ventaja comparativa del "país nuevo".
+2. **Bloque 2 — Distribución:** renta de la tierra y conflicto distributivo.
+3. **Bloque 3 — Límites del modelo:** trampa del BPE, volatilidad y casos comparados.
+
+# Bloque 1. Dotación de factores y ventaja comparativa {background="#1f3a5f"}
+
+## [1.1] El marco Heckscher-Ohlin
+
+- Un país exporta los bienes que usan **intensivamente su factor abundante**.
+- Argentina hacia 1880: **tierra abundante, trabajo y capital escasos** → ventaja comparativa en bienes primarios intensivos en tierra.
+
+::: {.callout-note icon=false title="Teorema de H-O"}
+Bajo competencia, libre comercio y tecnología idéntica, la **abundancia relativa** de factores determina la **estructura de exportaciones**.
+:::
+
+## [1.2] Los tres factores en Argentina, 1880
+
+::: {.columns}
+::: {.column width="33%"}
+::: {.callout-note icon=false title="Tierra"}
+**Abundante y barata.** La Campaña del Desierto incorpora ~30 M de ha fértiles. Precio por hectárea: mínimo.
+:::
+:::
+::: {.column width="33%"}
+::: {.callout-note icon=false title="Trabajo"}
+**Escaso al inicio.** La inmigración lo amplía vertiginosamente: de ~2 M hab. en 1880 a ~8 M en 1914.
+:::
+:::
+::: {.column width="33%"}
+::: {.callout-note icon=false title="Capital"}
+**Escaso y externo.** Lo provee la inversión británica: ferrocarriles, frigoríficos, préstamos al Estado.
+:::
+:::
+:::
+
+## [1.3] El teorema de Rybczynski
+
+> Si aumenta la dotación de **un** factor, el sector que lo usa intensivamente **crece**; el otro sector se contrae en términos relativos.
+
+- Inmigración masiva → **más trabajo** → expansión del agro, sin diversificación automática.
+- Inversión extranjera → **más capital** → infraestructura ferroviaria que *amplifica* la exportación primaria.
+
+::: {.callout-tip icon=false title="Implicación"}
+El crecimiento de factores **profundiza** la especialización primaria en lugar de diversificar la economía.
+:::
+
+## [1.4] Vent-for-surplus (Lewis)
+
+- Versión alternativa a H-O: la exportación **no reorienta** recursos, sino que **moviliza recursos ociosos**.
+- Argentina tenía tierra fértil sin explotar: la demanda externa le dio uso productivo.
+
+::: {.callout-note icon=false title="El argumento"}
+Antes del boom, la tierra era "libre" y el trabajo rural subempleado. La demanda exportadora crea un excedente vendible que antes no existía: hay **ganancia sin costo de oportunidad** significativo.
+:::
+
+# Bloque 2. Distribución: ¿quién se queda con los frutos? {background="#1f3a5f"}
+
+## [2.1] Stolper-Samuelson: el libre comercio no es neutral
+
+> El libre comercio **sube** el retorno real del factor abundante y **baja** el del factor escaso.
+
+- En Argentina: el comercio libre **eleva la renta de la tierra** (factor abundante).
+- La apertura comercial beneficia a los **terratenientes**; perjudica (relativamente) a los **trabajadores** — al menos en el corto plazo.
+
+## [2.2] La renta de la tierra (Ricardo)
+
+- La fertilidad diferencial de la pampa húmeda genera **renta económica**: un retorno que no remunera un costo de producción sino la **calidad del recurso**.
+- Cuanto más sube el precio del trigo o la carne en Londres, más sube la **renta del suelo** en la pampa.
+
+::: {.callout-important icon=false title="Consecuencia distributiva"}
+El crecimiento enriquece principalmente a quien **ya posee la tierra**, no a quien la trabaja.
+:::
+
+## [2.3] La estructura agraria: propietarios y arrendatarios {.tight}
+
+- La tierra estaba **altamente concentrada** desde el período colonial y la Conquista del Desierto.
+- La mayoría de los inmigrantes accedió al suelo como **arrendatarios** (chacareros), no como propietarios.
+- El contrato típico: corto plazo, sin compensación por mejoras, alta rotación → poco incentivo a invertir en el predio.
+
+::: {.callout-tip icon=false title="El resultado"}
+Se maximiza la renta del terrateniente; el chacarero obtiene un ingreso razonable pero **sin acumulación de capital propio**.
+:::
+
+## [2.4] Enclave vs. integración
+
+::: {.columns}
+::: {.column width="50%"}
+::: {.callout-important icon=false title="Enclave puro"}
+El sector exportador no genera eslabonamientos internos: ganancias al exterior, insumos importados. El ingreso **no circula** en la economía local.
+:::
+:::
+::: {.column width="50%"}
+::: {.callout-tip icon=false title="Integración alta"}
+Eslabonamientos fuertes: el agro necesita frigoríficos → frigoríficos necesitan trabajadores → trabajadores consumen bienes locales. El ingreso se **multiplica**.
+:::
+:::
+:::
+
+Argentina 1880–1914: **posición intermedia** — más integrada que un enclave minero, pero con renta concentrada en tierra y capital extranjero.
+
+# Bloque 3. Los límites del modelo {background="#1f3a5f"}
+
+## [3.1] La trampa del BPE (*staple trap*)
+
+- El BPE es un **motor potente pero acotado**: a medida que la frontera productiva se completa, el impulso decrece.
+- El modelo exige **transición**: pasar de primario-exportador a una estructura más diversificada.
+
+::: {.callout-important icon=false title="El peligro"}
+Si la economía **no diversifica** cuando el BPE madura —por falta de eslabonamientos, instituciones débiles o elites rentistas— queda atrapada en la especialización primaria.
+:::
+
+## [3.2] Volatilidad de términos de intercambio
+
+- El ingreso del sector exportador depende de **precios fijados en Londres**, no en Buenos Aires.
+- Shocks negativos de demanda o de oferta (sequías, guerras) golpean **directamente** el ingreso nacional.
+
+::: {.callout-tip icon=false title="Implicación macroeconómica"}
+Un país exportador de primarios tiene **ciclos económicos importados**: la política local tiene poco control sobre el ingreso agregado.
+:::
+
+## [3.3] Casos comparados: ¿es Argentina excepcional? {.smaller}
+
+| País | BPE principal | Inicio | Transición industrial |
+|------|--------------|--------|-----------------------|
+| Canadá | Trigo (Prairies) | 1870s | Sí — manufactura integrada |
+| Australia | Lana, trigo | 1850s | Sí — mercado interno ampliado |
+| Nueva Zelanda | Lana, carne | 1860s | Parcial |
+| **Argentina** | Trigo, carne | 1880s | **Trunca** |
+
+::: {.fuente}
+Elaboración propia sobre Schedvin (1990) y Di Tella y Zymelman (1967).
+:::
+
+## [3.4] ¿Por qué Argentina diverge? {.tight}
+
+- Canadá y Australia tenían **propiedad agraria más distribuida** → eslabonamientos de demanda final más fuertes.
+- La concentración de tierra en Argentina → renta hacia pocos → **menor multiplicador interno**.
+- La elite terrateniente tenía **poca motivación** para industrializar: el modelo primario la enriquecía.
+
+::: {.callout-note icon=false title="La hipótesis"}
+No es que la pampa fuera menos fértil. Es que la **estructura social** que la aprovechó frenó la diversificación productiva.
+:::
+
+# Cierre {background="#1f3a5f"}
+
+## Ideas fuerza {.tight}
+
+1. La ventaja comparativa argentina surge de una **dotación de factores específica**: tierra abundante, trabajo y capital escasos al inicio.
+2. El libre comercio **no distribuye por igual**: beneficia al factor abundante (tierra) y concentra la renta en los terratenientes.
+3. El BPE tiene un **techo**: sin diversificación, el modelo madura y se vuelve frágil. La comparación con Canadá y Australia lo muestra.
+
+::: {.callout-tip icon=false title="La idea central"}
+Argentina tenía la **dotación ideal** para un boom primario-exportador, y la estructura social que surgió de él fue, paradójicamente, un obstáculo para la diversificación posterior.
+:::
+
+## Preguntas para llevarse
+
+- ¿Qué habría cambiado si la tierra de la pampa se hubiera distribuido entre los inmigrantes, como en el Medio Oeste estadounidense?
+- ¿Podría Argentina haber transitado hacia la industria *sin* la Gran Depresión como disparador externo?
+- ¿El problema de la "trampa del BPE" es económico o político?
+
+## Bibliografía de la clase
+
+**Obligatoria**
+
+- **Díaz Alejandro, C. F. (1975).** *Ensayos sobre la historia económica argentina*. Buenos Aires: Amorrortu. **Cap. 1.**
+- **Gómez, M. (2012).** *El crecimiento económico argentino en el siglo XIX (1880–1914)*. FCE-UNC.
+
+**Complementaria**
+
+- **Gerchunoff, P. y Llach, L. (2007).** *El ciclo de la ilusión y el desencanto*. Buenos Aires: Ariel. **Cap. 1.**
+- **Schedvin, C. B. (1990).** "Staples and regions of Pax Britannica." *Economic History Review*, 43(4), 533–559.
+
+::: {.fuente}
+La bibliografía completa por unidad está en el programa de la asignatura.
+:::
+
+<!--
+Notas de uso (no proyectar):
+- Va DESPUÉS de lec-01 (introduce BPE intuitivamente, evolución vaca→oveja→cereal)
+  y ANTES de lec-03 (detalle empírico de tierra/capital/trabajo en Argentina).
+- Bloque 1 formaliza con H-O y Rybczynski lo que lec-01 presenta de forma intuitiva.
+- Bloque 2 profundiza la distribución: Stolper-Samuelson, renta ricardiana,
+  arrendatarios vs. propietarios.
+- Bloque 3 introduce los límites y la comparación internacional.
+- Marcadores [B.n] = bloque . diapositiva.
+- Callouts (icon=false): note=definición, tip=idea clave, important=advertencia.
+-->

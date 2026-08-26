@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 610" font-family="'Source Sans Pro', Arial, sans-serif">
+  <defs>
+    <marker id="dn" markerWidth="10" markerHeight="9" refX="4.5" refY="8" orient="auto">
+      <path d="M0,0 L9,0 L4.5,8 Z" fill="#555555"/>
+    </marker>
+  </defs>
+
+  <line x1="380" y1="94"  x2="380" y2="128" stroke="#555555" stroke-width="2.5" marker-end="url(#dn)"/>
+  <line x1="380" y1="214" x2="380" y2="248" stroke="#555555" stroke-width="2.5" marker-end="url(#dn)"/>
+  <line x1="380" y1="334" x2="380" y2="368" stroke="#555555" stroke-width="2.5" marker-end="url(#dn)"/>
+  <line x1="380" y1="454" x2="380" y2="488" stroke="#555555" stroke-width="2.5" marker-end="url(#dn)"/>
+
+  <rect x="100" y="10"  width="560" height="84" rx="10" fill="#dce6f1" stroke="#1f4e79" stroke-width="2"/>
+  <text x="380" y="59" text-anchor="middle" font-size="21" font-weight="700" fill="#1f3a5f">Déficit fiscal financiado con emisión</text>
+
+  <rect x="100" y="130" width="560" height="84" rx="10" fill="#dce6f1" stroke="#1f4e79" stroke-width="2"/>
+  <text x="380" y="179" text-anchor="middle" font-size="21" font-weight="700" fill="#1f3a5f">Inflación y depreciación del papel</text>
+
+  <rect x="100" y="250" width="560" height="84" rx="10" fill="#fce8cd" stroke="#cc8a2e" stroke-width="2"/>
+  <text x="380" y="299" text-anchor="middle" font-size="21" font-weight="700" fill="#7a5210">Sobreendeudamiento externo</text>
+
+  <rect x="100" y="370" width="560" height="84" rx="10" fill="#f9dde0" stroke="#c0596a" stroke-width="2"/>
+  <text x="380" y="419" text-anchor="middle" font-size="21" font-weight="700" fill="#8a2233">Freno súbito de capitales (1890)</text>
+
+  <rect x="100" y="490" width="560" height="84" rx="10" fill="#f3c5cb" stroke="#a02234" stroke-width="2"/>
+  <text x="380" y="539" text-anchor="middle" font-size="21" font-weight="700" fill="#7a1023">Corridas, caída de bancos y default</text>
+</svg>

@@ -1,0 +1,406 @@
+/*-- scss:defaults --*/
+
+// ============================================
+// THEME: HPAE (Historia del Pensamiento y Analisis Economico)
+// FCE UNC - Facultad de Ciencias Economicas, Universidad Nacional de Cordoba
+// ============================================
+
+// Institutional Colors - FCE UNC
+$primary-bordo: #390040;        // Main institutional color (bordo/burgundy)
+$secondary-dark: #43464B;       // Alternative section color
+$accent-gold: #fabc02;          // Highlights, special content
+$color-background: #ffffff;     // Slide background
+$color-text: #2c3e50;           // Body text
+$color-muted: #6c757d;          // Secondary/muted text
+
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500&display=swap');
+
+$font-family-sans: 'Source Sans Pro', 'Helvetica', 'Arial', sans-serif;
+$font-family-mono: 'Consolas', 'Monaco', monospace;
+$font-family-base: $font-family-sans;
+$font-family-headings: $font-family-sans;
+
+// Font sizes
+$font-size-base: 40px;
+$font-size-title: 2em;
+$font-size-h1-h2: 1.5em;
+$font-size-h3-h6: 1em;
+$font-size-code: 0.7em;
+$title-slide-title-size: 3em;
+$title-slide-subtitle-size: 2em;
+$title-slide-author-size: 1.2em;
+
+// Title slide colors
+$title-slide-title-color: $color-text;
+$title-slide-subtitle-color: $primary-bordo;
+$title-slide-author-color: $color-text;
+$title-slide-date-color: $color-muted;
+
+// Content colors
+$heading-color: $primary-bordo;
+$link-color: $primary-bordo;
+$link-hover-color: darken($primary-bordo, 15%);
+$code-bg: #f8f9fa;
+$code-color: #c7254e;
+$blockquote-color: $color-muted;
+$blockquote-border: $primary-bordo;
+
+// Spacing
+$paragraph-margin: 0 0 0 0.5em;
+$paragraph-margin-bottom: 10px;
+$list-margin: 0 0 0 0.25em;
+$list-padding: 0.25em;
+$list-item-margin: 5px;
+$list-item-padding: 3px;
+$line-height: 100%;
+
+
+/*-- scss:rules --*/
+
+// ============================================
+// GLOBAL STYLES
+// ============================================
+
+.reveal {
+  font-family: $font-family-base;
+  font-size: $font-size-base;
+  color: $color-text;
+}
+
+// ============================================
+// HEADINGS
+// ============================================
+
+.reveal h1.title {
+  color: $heading-color;
+  font-family: $font-family-headings;
+  font-size: $font-size-title;
+  text-transform: none;
+}
+
+.reveal h2.author,
+.reveal h3.date {
+  color: $color-text;
+  font-size: 1.2em;
+  text-transform: none;
+}
+
+.reveal h1,
+.reveal h2 {
+  color: $heading-color;
+  font-family: $font-family-headings;
+  font-size: $font-size-h1-h2;
+  text-transform: none;
+  border-bottom: 2px solid rgba($primary-bordo, 0.2);
+  padding-bottom: 0.2em;
+}
+
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  color: $secondary-dark;
+  font-size: $font-size-h3-h6;
+  text-transform: none;
+}
+
+// ============================================
+// TEXT ELEMENTS
+// ============================================
+
+.reveal p {
+  margin: $paragraph-margin;
+  line-height: $line-height;
+  margin-bottom: $paragraph-margin-bottom;
+}
+
+.reveal ul {
+  list-style-type: disc;
+  margin: $list-margin;
+  padding: $list-padding;
+  line-height: $line-height;
+}
+
+.reveal ol {
+  margin: $list-margin;
+  padding: $list-padding;
+  line-height: $line-height;
+}
+
+.reveal li {
+  margin: $list-item-margin;
+  padding: $list-item-padding;
+  line-height: $line-height;
+}
+
+.reveal li::marker {
+  color: $primary-bordo;
+}
+
+// ============================================
+// TITLE SLIDE
+// ============================================
+
+#title-slide {
+  text-align: center;
+  
+  .title {
+    font-size: $title-slide-title-size;
+    color: $title-slide-title-color;
+    font-family: $font-family-headings;
+    font-weight: 700;
+    border-bottom: none;
+  }
+
+  .subtitle {
+    font-size: $title-slide-subtitle-size;
+    color: $title-slide-subtitle-color;
+    font-style: italic;
+  }
+
+  .author {
+    font-size: $title-slide-author-size;
+    color: $title-slide-author-color;
+    font-weight: 600;
+  }
+
+  .date {
+    color: $title-slide-date-color;
+  }
+}
+
+// ============================================
+// LINKS
+// ============================================
+
+.reveal a {
+  color: $link-color;
+  text-decoration: none;
+  border-bottom: 1px dotted $primary-bordo;
+
+  &:hover {
+    color: $link-hover-color;
+    border-bottom-color: $link-hover-color;
+  }
+}
+
+// ============================================
+// CODE
+// ============================================
+
+.reveal code {
+  font-family: $font-family-mono;
+  font-size: $font-size-code;
+  background-color: $code-bg;
+  color: $code-color;
+  padding: 0.1em 0.3em;
+  border-radius: 3px;
+}
+
+.reveal pre {
+  font-family: $font-family-mono;
+  font-size: $font-size-code;
+  background-color: $code-bg;
+  padding: 0.5em;
+  border-radius: 5px;
+  border-left: 3px solid $primary-bordo;
+}
+
+.reveal pre code {
+  background-color: transparent;
+  padding: 0;
+}
+
+// ============================================
+// BLOCKQUOTES (CITAS)
+// ============================================
+
+.reveal blockquote {
+  border-left: 4px solid $blockquote-border;
+  padding-left: 1em;
+  margin: 1em 0;
+  color: $blockquote-color;
+  font-style: italic;
+  background-color: rgba($primary-bordo, 0.03);
+  padding: 0.8em 1em;
+  border-radius: 0 5px 5px 0;
+}
+
+// ============================================
+// TABLES
+// ============================================
+
+.reveal table {
+  border-collapse: collapse;
+  margin: 1em auto;
+  font-size: 0.85em;
+}
+
+.reveal table th,
+.reveal table td {
+  border: 1px solid #cccccc;
+  padding: 0.4em 0.8em;
+}
+
+.reveal table th {
+  background-color: rgba($primary-bordo, 0.1);
+  font-weight: 600;
+  color: $primary-bordo;
+}
+
+// ============================================
+// BOX ENVIRONMENTS (DIVS)
+// ============================================
+
+// Definicion - Blue bordered box for formal definitions
+.reveal .definicion {
+  background-color: rgba(#3498db, 0.08);
+  border-left: 4px solid #3498db;
+  padding: 0.8em 1em;
+  margin: 0.8em 0;
+  border-radius: 0 5px 5px 0;
+}
+
+// Ejemplo - Gray background for examples
+.reveal .ejemplo {
+  background-color: rgba($secondary-dark, 0.08);
+  border-left: 4px solid $secondary-dark;
+  padding: 0.8em 1em;
+  margin: 0.8em 0;
+  border-radius: 0 5px 5px 0;
+}
+
+// Importante - Gold accented box for key points
+.reveal .importante {
+  background-color: rgba($accent-gold, 0.12);
+  border-left: 4px solid $accent-gold;
+  padding: 0.8em 1em;
+  margin: 0.8em 0;
+  border-radius: 0 5px 5px 0;
+}
+
+// Cita - Quote box with italic
+.reveal .cita {
+  background-color: rgba($primary-bordo, 0.05);
+  border-left: 4px solid $primary-bordo;
+  padding: 0.8em 1em;
+  margin: 0.8em 0;
+  border-radius: 0 5px 5px 0;
+  font-style: italic;
+}
+
+// ============================================
+// COLOR UTILITY CLASSES
+// ============================================
+
+.reveal .bordo { color: $primary-bordo !important; }
+.reveal .destacado { color: $accent-gold !important; font-weight: 600; }
+.reveal .oscuro { color: $secondary-dark !important; }
+.reveal .muted { color: $color-muted !important; }
+
+.reveal .positive { color: #15803d !important; font-weight: 600; }
+.reveal .negative { color: #b91c1c !important; font-weight: 600; }
+
+// ============================================
+// SIZE UTILITY CLASSES
+// ============================================
+
+.reveal .smaller { font-size: 85%; }
+.reveal .small { font-size: 80%; }
+.reveal .large { font-size: 120%; }
+.reveal .larger { font-size: 140%; }
+
+// ============================================
+// LAYOUT UTILITIES
+// ============================================
+
+.reveal .v-center-container {
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+  height: 60%;
+}
+
+.reveal .text-center { text-align: center; }
+.reveal .text-left { text-align: left; }
+.reveal .text-right { text-align: right; }
+
+// ============================================
+// SECTION SLIDES (H1 headers with background)
+// ============================================
+
+.reveal section.level1 {
+  h1 {
+    border-bottom: none;
+    color: white;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+  }
+}
+
+// ============================================
+// FIGURES AND IMAGES
+// ============================================
+
+.reveal figure {
+  margin: 0.8em 0;
+  text-align: center;
+}
+
+.reveal figcaption {
+  font-size: 0.75em;
+  color: $color-muted;
+  font-style: italic;
+  margin-top: 0.5em;
+}
+
+.reveal img {
+  max-height: 70vh;
+}
+
+// ============================================
+// MATH
+// ============================================
+
+.reveal .math { font-size: 0.95em; }
+.reveal .math.display { margin: 0.8em 0; }
+
+// ============================================
+// COLUMNS
+// ============================================
+
+.reveal .columns {
+  display: flex !important;
+  align-items: flex-start;
+  gap: 1.5em;
+}
+
+.reveal .column {
+  flex: 1;
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+}
+
+// ============================================
+// SLIDE NUMBER AND NAVIGATION
+// ============================================
+
+.reveal .slide-number {
+  color: $color-muted !important;
+  font-size: 0.6em;
+}
+
+// ============================================
+// FOOTER/NOTES
+// ============================================
+
+.reveal .footnote {
+  position: absolute;
+  bottom: 1em;
+  font-size: 60%;
+  color: $color-muted;
+}
