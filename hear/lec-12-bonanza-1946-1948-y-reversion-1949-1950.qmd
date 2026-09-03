@@ -1,0 +1,362 @@
+---
+title: "U3. Bonanza 1946–1948 y reversion 1949–1950"
+subtitle: "Historia Económica Argentina · Clase 12"
+---
+
+# Apertura y hoja de ruta {background="#1f3a5f"}
+
+## Dónde quedamos
+
+- El peronismo representó un **cambio de régimen**: mercado interno, Estado empresario, salario real como variable de política.
+- La **trayectoria macro 1946–1955** muestra una bonanza inicial, una crisis 1949–1952 y una recuperación moderada posterior.
+- Hoy nos detenemos en el **primer ciclo completo**: los años de oro y su agotamiento.
+
+::: {.callout-tip icon=false title="Idea clave"}
+El éxito 1946–1948 se financió con **tres rentas transitorias** que se agotaron casi al mismo tiempo. El error fue confundir **renta coyuntural** con **capacidad estructural**.
+:::
+
+## La pregunta de hoy
+
+> ¿Cómo pudo el peronismo subir el salario real más del 60 %, sostener el pleno empleo urbano y financiar una expansión industrial sin que aparecieran de inmediato las restricciones que la teoría predice? ¿Y por qué ese esquema **se revirtió** tan abruptamente en 1949–1950?
+
+## Mapa de la clase
+
+1. **Bloque 1 — El tablero de 1946:** herencias, tres rentas y reforma monetaria.
+2. **Bloque 2 — La bonanza 1946–1948:** salarios, industria, consumo y financiamiento.
+3. **Bloque 3 — 1948, el año bisagra:** golpes externos, fiscal y giro ortodoxo.
+4. **Bloque 4 — La reversion 1949–1950:** crisis externa, recesión y nacimiento del *stop-and-go*.
+
+# Bloque 1. El tablero de 1946 {background="#1f3a5f"}
+
+## [1.1] La caja de herramientas heredada
+
+- **BCRA (1935)**, **control de cambios (1931)**, **Juntas Reguladoras**, **impuesto a los réditos**.
+- **Giros industriales previos**: Plan Pinedo (1940), redescuentos asimétricos del BCRA (1940–1943), Fabricaciones Militares (1941), Banco Industrial (1944), régimen de promoción (1944).
+- **Díaz Alejandro**: las primeras políticas peronistas "culminaron y consolidaron tendencias iniciadas ya en los primeros años de la década de 1930".
+
+::: {.callout-important icon=false title="La novedad no está en los instrumentos"}
+La novedad de 1946 no está en los objetivos ni en los instrumentos: está en la **escala** y en el **modo de financiarlos**.
+:::
+
+::: {.fuente}
+Gerchunoff y Llach (2007), cap. 4; Díaz Alejandro (1970), cap. 2.
+:::
+
+## [1.2] Las tres rentas: una síntesis
+
+| Renta | Mecanismo | Monto aproximado | ¿Por qué se agota? |
+|-------|-----------|------------------|-------------------|
+| **Agraria** | IAPI compra cosechas barato y vende caro; captura TIE excepcionales | ~5–8 % del PBI en margen | TIE caen 11 % en 1949 y siguen bajando |
+| **Previsional** | Sistema universalizado con masivos aportantes y casi cero beneficiarios | ~4 % del PBI anual | Los afiliados empiezan a jubilarse; proporción se deteriora |
+| **Monetaria** | Redescuentos del BCRA a tasas nominales fijas con inflación creciente; tasas reales negativas | Transferencia de ahorristas a prestatarios | Inflación acelerada; el público se desprende del dinero |
+
+::: {.fuente}
+Gerchunoff y Llach (2007), cap. 4; Díaz Alejandro (1970), cuadro 2-22.
+:::
+
+## [1.3] La reforma monetaria de 1946
+
+- **Decreto 8.502/1946**: el BCRA pasa a control estatal pleno.
+- **Decreto 14.957/1946**: nuevo objetivo: "máximo empleo", no ajuste monetario pasivo.
+- **Decreto-Ley 11.554/1946**: nacionalización de los depósitos bancarios.
+- Resultado: el crédito deja de ser decisión bancaria y pasa a ser **instrumento administrativo** del gobierno.
+
+::: {.callout-note icon=false title="Canal central"}
+El sistema de redescuentos permitió financiar simultáneamente salarios, crédito industrial subsidiado y déficit fiscal. Es **el mismo mecanismo** que explica el éxito y el fracaso.
+:::
+
+::: {.fuente}
+Gerchunoff y Llach (2007), cap. 4; Arnaudo (1986), cap. 3.
+:::
+
+# Bloque 2. La bonanza 1946–1948 {background="#1f3a5f"}
+
+## [2.1] Expansión salarial y consumo
+
+| Año | Salario real (1945=100) | Variación anual (%) | Consumo real (índice 1945=100) |
+|-----|------------------------|---------------------|-------------------------------|
+| 1945 | 100 | — | 100 |
+| 1946 | 103 | +3 | 110 |
+| 1947 | 129 | +25 | 135 |
+| 1948 | 156 | +21 | 148 |
+| 1949 | 162 | +4 | ~140 |
+
+- Entre 1945 y 1949 el salario real subió **+62 %** según Llach; la CEPAL estima **+55 %**.
+- El salto se concentra en **1947 y 1948**: entre 1943 y 1945 el salario real casi no se había movido.
+- Consumo de 1948: casi **50 % mayor** que el de 1945.
+
+::: {.callout-tip icon=false title="Bienestar sin precedentes"}
+En 1946, 1947 y 1948 la clase trabajadora argentina experimentó el **mayor aumento de bienestar de toda su historia**.
+:::
+
+::: {.fuente}
+Díaz Alejandro (1970), cuadro 2-22; Gerchunoff y Llach (2007), cap. 4.
+:::
+
+## [2.2] Salarios vs. productividad
+
+| Período | Salario real total neto (1935-39=100) | PBI real per cápita (1935-39=100) |
+|---------|--------------------------------------|-----------------------------------|
+| 1940–42 | 107 | 103 |
+| 1943–44 | 117 | 109 |
+| 1945–46 | 120 | 110 |
+| 1947–49 | 162 | 123 |
+| 1950–52 | 162 | 114 |
+
+- Entre 1945–46 y 1947–49 el salario real crece **35 %** y el producto per cápita **12 %**.
+- El **costo laboral por unidad de producto** en 1949 era **23 % superior** al de 1945.
+- Alguien tuvo que absorber esa diferencia: el **sector rural** (vía IAPI) y los **ahorristas** (vía tasas reales negativas).
+
+::: {.fuente}
+Díaz Alejandro (1970), cuadro 2-22.
+:::
+
+## [2.3] Desarrollo industrial: cifras y perfil
+
+| Indicador | Valor |
+|-----------|-------|
+| Crecimiento industrial anual 1937-39/1948-50 | 5,0 % (CONADE/Díaz Alejandro) |
+| Crecimiento industrial anual 1945-55 | >7 % (Hugh Schwartz) |
+| Crédito industrial / PBI | 2,6 % (1944) → 4,4 % (1948) |
+| Tasa real ex post crédito 1946 | −14,9 % |
+| Tasa real ex post crédito 1949 | −20,9 % |
+
+- **Industrialización liviana**: textiles, alimentos, bebidas, tabaco.
+- **Sustitución profunda** en bienes de consumo; **dependencia persistente** en bienes de capital e intermedios.
+- En 1948–50 los textiles alcanzan su **pico histórico** en la estructura del producto manufacturero.
+
+::: {.callout-important icon=false title="El debate de las cifras"}
+Gerchunoff y Llach señalan que las cifras de crecimiento industrial varían del 3,4 % al 7,5 % según la fuente. Buena parte del juicio histórico sobre "éxito o fracaso industrial" descansa sobre **cuál serie se elija**.
+:::
+
+::: {.fuente}
+Díaz Alejandro (1970), cuadro 2-21; Gerchunoff y Llach (2007), cap. 4.
+:::
+
+## [2.4] Estructura de la SI
+
+| Rama | Importaciones/(Prod. interna + Import.), % 1946–49 |
+|------|---------------------------------------------------|
+| Textiles | 15 % (bajó de 44 % en 1937–39) |
+| Metales (excl. eléctrica) | 37 % (bajó de 46 %) |
+| Vehículos y maquinaria | 43 % (bajó de 49 %) |
+| Maquinaria y artefactos eléctricos | 22 % (bajó de 56 %) |
+
+- Sustitución **profunda** en textiles; **limitada** en bienes de capital y metalmecánica. La caída del coeficiente importador puede reflejar sustitución genuina o simple **racionamiento administrativo** de divisas.
+
+::: {.callout-note icon=false title="Advertencia de Díaz Alejandro"}
+Las políticas desfavorables a las exportaciones obligaron a que la proporción importada cayera bruscamente para mantener el equilibrio de pagos. **Bajar el coeficiente no prueba eficiencia**.
+:::
+
+::: {.fuente}
+Díaz Alejandro (1970), cuadro 2-21.
+:::
+
+## [2.5] El triángulo redistributivo
+
+| Sector | Rol en el esquema | Instrumento |
+|--------|-------------------|-------------|
+| **Rural** | Dador de recursos | IAPI (precios internos vs. internacionales), alquileres congelados, maquinaria sin tipo preferencial |
+| **Estado** | Intermediario y receptor | Margen IAPI, aportes previsionales, emisión / redescuentos |
+| **Urbano-industrial** | Receptor | Salarios reales altos, crédito subsidiado, insumos importados con tipo preferencial |
+
+- El IAPI **desacopló** los precios internos de alimentos de los precios mundiales, sosteniendo el salario real sin erosionar rentabilidad industrial.
+- Sin el IAPI, o el salario real caía o la rentabilidad industrial se mermaba.
+
+::: {.fuente}
+Gerchunoff y Llach (2007), cap. 4; Díaz Alejandro (1970), cuadro 2-21.
+:::
+
+## [2.6] Las cuentas fiscales
+
+| Año | Gasto público (% PBI) | Déficit consolidado (% PBI) |
+|-----|----------------------|----------------------------|
+| 1945 | — | 6,2 |
+| 1946 | 20 | 5,0 |
+| 1947 | — | 5,0 |
+| 1948 | 36 | 15,3 |
+| 1949 | — | 4,6 |
+
+- Deuda pública interna: **+56 %** entre 1945 y 1948, colocada mayormente en cajas de previsión. Crédito bancario al sector público creció mucho más que el dirigido al privado.
+- **1948**: año de las nacionalizaciones concentradas y del **salto fiscal**.
+
+::: {.callout-important icon=false title="Práctica recurrente"}
+El financiamiento monetario del déficit deja de ser marginal en 1948. Gerchunoff y Llach señalan que inaugura "una práctica que sobreviviría durante años".
+:::
+
+::: {.fuente}
+Gerchunoff y Llach (2007), cap. 4.
+:::
+
+# Bloque 3. 1948, el año bisagra {background="#1f3a5f"}
+
+## [3.1] Los golpes externos
+
+- **Agosto 1947**: inconvertibilidad de la libra esterlina. El convenio Miranda-Eady queda sin efecto; las "libras bloqueadas" no se convierten en dólares.
+- **1948**: **exclusión del Plan Marshall**. Argentina queda fuera por su neutralidad en la guerra; no recibe equipos ni créditos de reconstrucción.
+- **1946–1948**: uso masivo de **reservas** en nacionalizaciones, rescate de deuda externa y compra de ferrocarriles.
+
+::: {.callout-important icon=false title="La trampa de las decisiones individuales"}
+Cada decisión era defendible por separado: independencia económica, cancelación de deuda, compra de ferrocarriles. **Juntas** significaron que, cuando apareció la restricción externa, no había ni reservas ni crédito externo.
+:::
+
+::: {.fuente}
+Gerchunoff y Llach (2007), cap. 4.
+:::
+
+## [3.2] El frente fiscal y la inflación
+
+- **Gasto público** salta al 36 % del PBI en 1948 (el pico del primer peronismo).
+- **Inflación interanual** alcanza el 17 % en octubre de 1948; sus causas ya no eran internacionales sino **netamente autóctonas**.
+- **Crédito**: los redescuentos crecieron al 80 % interanual en 1947; en 1948, por cada 70 pesos de depósitos se otorgaban 100 de redescuento.
+
+::: {.callout-note icon=false title="La teoría cualitativa del dinero"}
+Gómez Morales y Cafiero sostenían que el destino del crédito determinaba su efecto inflacionario. La realidad mostró que **la magnitud también importa**.
+:::
+
+::: {.fuente}
+Gerchunoff y Llach (2007), cap. 4; Gómez, Tossolini y Calvo (2023).
+:::
+
+## [3.3] El giro ortodoxo de 1948
+
+- **Decreto 33.425 y Circular 1.040 del BCRA** (oct-1948).
+- **Eje monetario**: reducción del límite de redescuentos al 1 % mensual; suba de tasas.
+- **Eje fiscal**: prohibición de nuevas expropiaciones de inmuebles; congelamiento de obras públicas no urgentes.
+- **Eje federal**: el sistema bancario oficial no autorizará títulos de provincias y municipalidades.
+
+::: {.callout-tip icon=false title="Diagnóstico correcto"}
+El decreto identificó bien la raíz: **exceso de medios de pago y crédito**, en particular al sector público vía redescuentos del BCRA.
+:::
+
+::: {.fuente}
+Gerchunoff y Llach (2007), cap. 4; Gómez, Tossolini y Calvo (2023).
+:::
+
+## [3.4] Resultados del giro
+
+| Variable | Antes (oct 1948) | Después (may 1949) |
+|----------|-----------------|-------------------|
+| Crecimiento interanual de redescuentos | 51 % | 36 % |
+| Crecimiento interanual de crédito total | 65 % | 38 % |
+| Déficit fiscal (% PBI) | 15,3 % | 4,6 % |
+
+- Las medidas **funcionaron en sus propios términos**: contrajo crédito y déficit.
+- Pero la **inflación se aceleró igual**, con tendencia creciente durante 1949.
+- Entre las razones: la **devaluación de mediados de 1948** ya había trasladado precios importados.
+
+::: {.fuente}
+Gerchunoff y Llach (2007), cap. 4; Rougier (2012).
+:::
+
+# Bloque 4. La reversion 1949–1950 {background="#1f3a5f"}
+
+## [4.1] El agotamiento simultáneo
+
+| Renta | 1946–1948 | 1949–1950 |
+|-------|-----------|-----------|
+| **Agraria (IAPI)** | TIE históricos altos; margen amplio | TIE caen 11 % en 1949; volumen exportado no se recupera |
+| **Previsional** | Superávit masivo (4 % PBI) | Proporción se deteriora con primeras jubilaciones |
+| **Monetaria** | Ilusión monetaria; tasas reales negativas toleradas | Inflación acelerada; público empieza a desprenderse del dinero |
+
+- El agotamiento simultáneo de las tres fuentes de financiamiento produjo una **crisis de balanza de pagos** en 1949.
+- El gobierno debió modificar su estrategia: nuevo programa en 1949 y, sobre todo, el **Plan Económico de 1952**.
+
+::: {.fuente}
+Gerchunoff y Llach (2007), cap. 4.
+:::
+
+## [4.2] Crisis externa y ajuste cambiario
+
+- **Balanza de pagos**: el saldo comercial se había evaporado en 1948; en 1949–1950 aparece **escasez de divisas** crónica.
+- **Devaluación de 1949**: intento de corregir la sobrevaluación acumulada (índice de TC real de importación 1935-39=100 cae a 79 en 1947–49).
+- **Restricción cuantitativa**: licencias de importación se vuelven cada vez más selectivas y escasas.
+
+::: {.callout-important icon=false title="Estrangulamiento externo"}
+Aparece por primera vez de manera aguda el patrón que dominará la economía argentina de posguerra: **la restricción externa como límite estructural al crecimiento**.
+:::
+
+::: {.fuente}
+Díaz Alejandro (1970), cap. 3; Gerchunoff y Llach (2007), cap. 4.
+:::
+
+## [4.3] Recesión, inflación y erosión salarial
+
+| Indicador | 1948 | 1949 | 1950 |
+|-----------|------|------|------|
+| Inflación anual (%) | 12,7 | 31,5 | 25,0 |
+| Salario real (1945=100) | 156 | 162 | ~145 |
+| PBI real (% variación) | +5 | −3 | −2 |
+
+- **Recesión**: el PBI cae por primera vez desde 1946.
+- **Inflación galopante**: pasa del 12,7 % al 31,5 % en un año.
+- **Erosión salarial**: el salario real alcanza su pico en 1949 pero comienza a caer en términos corrientes; entre 1949 y 1952 perderá más del 30 %.
+
+::: {.fuente}
+Díaz Alejandro (1970), cuadros 2-1 y 2-22; Gerchunoff y Llach (2007), cap. 4.
+:::
+
+## [4.4] Nace el stop-and-go
+
+| Fase | Período | Características |
+|------|---------|----------------|
+| **Go** | 1946–1948 | Expansión salarial, crédito laxo, déficit fiscal, crecimiento alto |
+| **Stop** | 1949–1950 | Contracción cambiaria, ajuste fiscal, recesión, inflación alta |
+| **Go** | 1951 | Recuperación pre-electoral, gasto público, rebrote |
+| **Stop** | 1952 | Plan de estabilización, recesión profunda |
+| **Go** | 1953–1955 | Recuperación moderada, apertura parcial |
+
+- Este patrón de **alternancia entre expansión y ajuste** se volvería **endémico** en la economía argentina de posguerra.
+- La causa estructural: una industria **demandante de divisas** (insumos y bienes de capital) financiada por un agro **marginado** y sin acceso a crédito externo.
+
+::: {.fuente}
+Gerchunoff y Llach (2007), caps. 4 y 5; Díaz Alejandro (1970), cap. 3.
+:::
+
+# Cierre {background="#1f3a5f"}
+
+## Ideas fuerza {.tight}
+
+1. La bonanza 1946–1948 se financió con **tres rentas transitorias**: agraria (TIE altos), previsional (superávit sin beneficiarios) y monetaria (tasas reales negativas).
+2. El salto salarial y la expansión industrial fueron **reales**, pero el costo laboral por unidad de producto creció 23 %: alguien lo pagó.
+3. **1948 fue el año bisagra**: inconvertibilidad de la libra, exclusión del Plan Marshall, déficit fiscal del 15,3 % y el giro ortodoxo de octubre.
+4. En **1949–1950** las tres rentas se agotaron a la vez, produciendo **crisis externa, recesión e inflación acelerada**.
+5. Nace el patrón de **stop-and-go**: expansión domestica → déficit externo → ajuste → recesión → recuperación.
+
+## Preguntas para llevarse
+
+- ¿Podría el peronismo haber **sostenido** el aumento salarial de 1946–1948 si hubiera ahorrado las reservas en lugar de nacionalizar ferrocarriles?
+- ¿Por qué el giro ortodoxo de octubre de 1948 **contrajo crédito y déficit** pero no frenó la inflación?
+- ¿Fue el agotamiento de 1949 una **crisis de expectativas** (se confundió renta con capacidad) o una **crisis estructural** inevitable?
+- ¿Qué lecciones dejó el primer ciclo para el **Plan Económico de 1952**?
+
+## Bibliografía de la clase
+
+**Obligatoria**
+
+- **Gerchunoff, P. y Llach, L. (2007).** *El ciclo de la ilusión y el desencanto*, **cap. 4**.
+- **Díaz Alejandro, C. (1970).** *Ensayos sobre la historia económica argentina*, **caps. 2 y 3**.
+- **Gómez, M., Tossolini, L. y Calvo, M. (2023).** "El debate acerca de los intentos de estabilización de precios en Argentina, 1948–1954", *Tiempo & economía*, 10(2), secc. 1 y 2.1.
+
+**Complementaria**
+
+- **Arnaudo, A. (1986).** *Cincuenta años de política financiera argentina*, cap. 3.
+- **Rougier, M. (2012).** *La economía del peronismo. Una perspectiva histórica*, cap. 3.
+
+::: {.fuente}
+La bibliografía completa por unidad está en el programa de la asignatura.
+:::
+
+<!--
+Notas de uso (no proyectar):
+- Unidad 3, clase 12. Fuentes: Gerchunoff y Llach (2007) cap. 4 (bonanza y crisis)
+  + Díaz Alejandro (1970) caps. 2-3 (datos cuantitativos) + Gómez, Tossolini y
+  Calvo (2023) para el giro de 1948.
+- No repetir el detalle mecánico de las tres rentas (ya cubierto en material
+  complementario 3. Primer_peronismo.pdf) pero sí presentar los números agregados
+  y la síntesis del triángulo redistributivo.
+- Hilo narrativo: tablero de 1946 → tres rentas → bonanza salarial/industrial →
+  1948 bisagra (golpes externos, fiscal, giro ortodoxo) → agotamiento 1949-50 →
+  nacimiento del stop-and-go.
+- Verificar overflow con: node _check-overflow.mjs lec-12-*.html
+-->

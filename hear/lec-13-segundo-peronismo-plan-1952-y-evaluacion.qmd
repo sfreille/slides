@@ -1,0 +1,310 @@
+---
+title: "U3. Segundo peronismo, Plan de 1952 y evaluación de conjunto"
+subtitle: "Historia Económica Argentina · Clase 13"
+---
+
+# Apertura y hoja de ruta {background="#1f3a5f"}
+
+## Dónde quedamos
+
+- La **bonanza 1946–1948** se financió con tres rentas transitorias que se agotaron en **1949–1950**.
+- Apareció el patrón de **stop-and-go**: expansión doméstica → déficit externo → ajuste → recesión.
+- Hoy analizamos la **respuesta del régimen**: el Plan Económico de 1952, la recuperación posterior y una **evaluación de conjunto** del período 1946–1955.
+
+::: {.callout-tip icon=false title="Idea clave"}
+El segundo peronismo intentó **corregir los excesos del primero** sin abandonar el modelo. La tensión entre **estabilización** y **promesas distributivas** definió su destino.
+:::
+
+## La pregunta de hoy
+
+> ¿Fue el **Plan de 1952** una ruptura con el peronismo económico o una **corrección ortodoxa dentro del mismo régimen**? ¿Qué legado estructural dejó el peronismo y qué problemas **arrastró** a las décadas siguientes?
+
+## Mapa de la clase
+
+1. **Bloque 1 — El segundo gobierno:** contexto político y económico 1951–1955.
+2. **Bloque 2 — El Plan Económico de 1952:** diagnóstico, medidas y resultados.
+3. **Bloque 3 — La recuperación 1953–1955:** apertura parcial y deterioro político.
+4. **Bloque 4 — Evaluación de conjunto 1946–1955:** logros, costos y legado.
+
+# Bloque 1. El segundo gobierno (1951–1955) {background="#1f3a5f"}
+
+## [1.1] Contexto político
+
+- **Elecciones de 1951**: Perón es reelegido con el **63,5 %** de los votos, pero la oposición ya se reorganizaba.
+- **Muerte de Eva Perón (1952)**: golpe político simbólico; debilitó la capacidad de mediación con los sindicatos.
+- **Conflicto con la Iglesia (1954)**: secularización agresiva; la Iglesia pasó de aliada a opositora.
+- **Descontento militar**: sectores oficiales veían con preocupación el crecimiento sindical y la erosión institucional.
+
+::: {.callout-important icon=false title="Paradoja política"}
+Perón ganó las elecciones de 1951 con más votos que en 1946… pero la **coalición de poder se resquebrajaba**. La economía ya no podía financiar la redistribución sin costos visibles.
+:::
+
+::: {.fuente}
+Gerchunoff y Llach (2007), cap. 5; De Pablo (2005), cap. 3.
+:::
+
+## [1.2] La herencia de 1949–1950
+
+| Indicador | 1950 | 1951 | 1952 |
+|-----------|------|------|------|
+| PBI real (% var.) | −2,0 | +4,5 | −5,0 |
+| Inflación anual (%) | 25,0 | 30,0 | 15,0 |
+| Salario real (1945=100) | ~145 | ~130 | ~110 |
+| Déficit fiscal (% PBI) | ~5 | ~8 | ~3 |
+
+- **1951**: año **pre-electoral**. El gobierno reactivó gasto e inversión pública para sostener el empleo y el consumo.
+- **Guerra de Corea (1950–1953)**: subió temporalmente los precios de algunos commodities, pero no compensó la caída estructural de los términos de intercambio.
+- La **restricción externa** seguía siendo el cuello de botella principal.
+
+::: {.fuente}
+Díaz Alejandro (1970), cuadros 2-1 y 2-5; Gerchunoff y Llach (2007), cap. 5.
+:::
+
+## [1.3] Los desafíos estructurales
+
+- **Inflación crónica**: la inflación ya no era coyuntural; se había convertido en **expectativa arraigada**.
+- **Dependencia importadora de la industria**: insumos y bienes de capital representaban ~90 % de las importaciones.
+- **Agro deteriorado**: área sembrada con cultivos tradicionales caída ~39 %; ganadería avanzaba sobre tierras agrícolas. **Escasez de divisas**: sin acceso a crédito externo ni al Plan Marshall, cada ciclo expansivo chocaba con el **techo externo**.
+
+::: {.callout-note icon=false title="El dilema"}
+Cualquier expansión de la demanda interna aumentaba las importaciones de insumos; pero el agro —único generador de divisas— había sido marginado por la política de precios.
+:::
+
+::: {.fuente}
+Gerchunoff y Llach (2007), cap. 5; Díaz Alejandro (1970), cap. 4.
+:::
+
+# Bloque 2. El Plan Económico de 1952 {background="#1f3a5f"}
+
+## [2.1] Antecedentes y diagnóstico
+
+- El **Plan Económico** se anunció en **julio de 1952**, luego de la reelección y en medio de una **crisis de balanza de pagos** aguda.
+- **Diagnóstico oficial**: el desequilibrio externo y la inflación provenían de un **exceso de demanda interna** financiado con déficit fiscal y emisión.
+- **Objetivo**: estabilizar precios, corregir la balanza de pagos y recuperar reservas, sin renunciar al pleno empleo.
+
+::: {.callout-tip icon=false title="¿Ruptura o continuidad?"}
+El Plan de 1952 no abandonó el modelo de sustitución de importaciones ni el rol del Estado. Fue una **corrección ortodoxa dentro del régimen**: ajuste cambiario, control de salarios y contención del gasto.
+:::
+
+::: {.fuente}
+Gerchunoff y Llach (2007), cap. 5; Gómez, Tossolini y Calvo (2023), secc. 2.2.
+:::
+
+## [2.2] Las medidas del Plan
+
+| Eje | Medidas |
+|-----|---------|
+| **Cambio** | Devaluación significativa; tipo de cambio múltiple simplificado; incentivos a las exportaciones agropecuarias |
+| **Salarios** | Congelamiento de salarios nominales; control de precios reforzado; negociación centralizada |
+| **Fiscal** | Reducción del gasto público de capital; postergación de obras; contención del déficit |
+| **Crédito** | Reducción de redescuentos; tasas de interés más altas; crédito selectivo prioritario para exportaciones |
+| **Ingresos** | Aumento de algunos impuestos indirectos; intento de ampliar la base tributaria |
+
+::: {.callout-important icon=false title="El costo político"}
+Por primera vez, el gobierno peronista **pidió sacrificio explícito** a los trabajadores. El congelamiento salarial en contexto inflacionario implicó una **caída abrupta del salario real**.
+:::
+
+::: {.fuente}
+Gerchunoff y Llach (2007), cap. 5.
+:::
+
+## [2.3] Resultados: inflación y recesión
+
+| Indicador | 1952 | 1953 | 1954 | 1955 |
+|-----------|------|------|------|------|
+| PBI real (% var.) | −5,0 | +3,5 | +4,0 | +3,0 |
+| Inflación anual (%) | 15,0 | 4,5 | 4,0 | 8,0 |
+| Salario real (1945=100) | ~110 | ~115 | ~120 | ~115 |
+| Saldo comercial (mill. US$) | +300 | +400 | +350 | +250 |
+
+- **Inflación**: se desaceleró fuertemente, del 30 % al 4–5 % en 1953–1954.
+- **Actividad**: recesión profunda en 1952; recuperación moderada a partir de 1953.
+- **Salario real**: entre 1949 y 1952 cayó aproximadamente un **32 %** desde su pico.
+
+::: {.fuente}
+Díaz Alejandro (1970), cuadros 2-1 y 2-5; Gerchunoff y Llach (2007), cap. 5.
+:::
+
+## [2.4] Resultados
+- **Devaluación y tipo de cambio exportador** mejoraron los precios internos del agro.
+- El **área sembrada** se recuperó parcialmente; la ganadería retomó rentabilidad.
+- Las **exportaciones** crecieron y el saldo comercial se fortaleció en 1952–1954.
+- Pero la **industria liviana** sufrió: menor demanda interna, insumos más caros, crédito menos abundante.
+
+::: {.callout-note icon=false title="Tensión estructural no resuelta"}
+El Plan de 1952 logró **estabilizar** pero no **transformar**: la industria seguía dependiente de insumos importados y el agro seguía siendo el único proveedor de divisas.
+:::
+
+::: {.fuente}
+Gerchunoff y Llach (2007), cap. 5; Díaz Alejandro (1970), cap. 4.
+:::
+
+# Bloque 3. La recuperación 1953–1955 {background="#1f3a5f"}
+
+## [3.1] Recuperación moderada
+
+- A partir de **1953** el PBI creció al **3–4 %** anual, impulsado por el agro y la recuperación industrial parcial.
+- La **inflación se mantuvo baja** (4–8 %) gracias al control de salarios y la disciplina crediticia.
+- El **salario real** recuperó parcialmente niveles de 1950 pero **nunca volvió al pico de 1949**.
+
+| Indicador | 1953 | 1954 | 1955 |
+|-----------|------|------|------|
+| PBI real (% var.) | +3,5 | +4,0 | +3,0 |
+| Inflación (%) | 4,5 | 4,0 | 8,0 |
+| Inversión / PBI (%) | ~15 | ~16 | ~16 |
+| Empleo industrial (miles) | ~1.000 | ~1.030 | ~1.050 |
+
+::: {.fuente}
+Díaz Alejandro (1970), cuadros 2-1 y 2-22; Gerchunoff y Llach (2007), cap. 5.
+:::
+
+## [3.2] Nuevo giro industrial
+
+- **Segundo Plan Quinquenal (1953–1957)**: mayor énfasis en **industrias pesadas** (siderurgia, petroquímica, maquinaria) y en **obras de infraestructura**.
+- **Apertura parcial al capital extranjero**: algunas inversiones automotrices y petroleras fueron autorizadas.
+- **Contrato con automotrices norteamericanas** (1954): inicio de la industria automotriz argentina con alto grado de integración de autopartes locales.
+
+::: {.callout-tip icon=false title="Cambio de matriz parcial"}
+El segundo peronismo intentó corregir el sesgo hacia la industria liviana. Pero las **obras de infraestructura y las radicaciones** demandaban divisas que el agro aún no generaba con soltura.
+:::
+
+::: {.fuente}
+Gerchunoff y Llach (2007), cap. 5.
+:::
+
+## [3.3] El deterioro político y el fin
+
+- **1954**: conflicto abierto con la Iglesia; derogación del voto femenino? No, actually he introduced female suffrage. Wait, he actually introduced it in 1947. The conflict with Church escalated in 1954-1955.
+- **1955**: huelgas, manifestaciones opositoras, fractura dentro de las Fuerzas Armadas.
+- **16 de septiembre de 1955**: **Revolución Libertadora**; golpe militar que derroca a Perón. Perón se exilia; el régimen económico peronista **no se restauraría intacto** hasta 1973.
+
+::: {.callout-important icon=false title="Economía y política"}
+La economía 1953–1955 no era catastrófica: crecía, la inflación estaba contenida. Pero la **tensión política** generada por el ajuste de 1952, el conflicto con la Iglesia y la desmovilización obrera debilitaron al régimen.
+:::
+
+::: {.fuente}
+Gerchunoff y Llach (2007), cap. 5; De Pablo (2005), cap. 3.
+:::
+
+# Bloque 4. Evaluación de conjunto 1946–1955 {background="#1f3a5f"}
+
+## [4.1] Logros estructurales
+
+| Área | Logro |
+|------|-------|
+| **Industria** | Participación industrial en el PBI creció del 22 % (1946) al 27 % (1955); consolidación de una base manufacturera diversificada |
+| **Trabajo** | Sindicatos legitimados como actor político; pleno empleo urbano como objetivo de política pública; derechos laborales ampliados |
+| **Estado** | Rol de empresario, regulador y redistribuidor consolidado; creación de un sistema de bienestar universalizado |
+| **Distribución** | Participación salarial aumentó sostenidamente respecto a la era agroexportadora; clase media urbana expandida |
+
+::: {.callout-tip icon=false title="Cambio de régimen irreversible"}
+Incluso los gobiernos antiperonistas posteriores **no desmantelaron** por completo el sistema de seguridad social, los convenios colectivos ni la presencia estatal en la economía.
+:::
+
+::: {.fuente}
+Gerchunoff y Llach (2007), cap. 5; Díaz Alejandro (1970), cap. 4.
+:::
+
+## [4.2] Costos y legados problemáticos
+
+| Problema | Manifestación |
+|----------|--------------|
+| **Restricción externa** | Industrialización demandante de divisas sin generación propia; patrón stop-and-go endémico |
+| **Inflación crónica** | Inflación de dos dígitos se normalizó; destrucción de la moneda como reserva de valor |
+| **Anti-export bias** | Sobrevaluación cambiaria persistente; marginación del agro; descuido de infraestructura exportadora |
+| **Productividad industrial** | Crecimiento basado en protección y subsidio, no en eficiencia; escala reducida por tamaño del mercado |
+| **Fiscalidad débil** | Dependencia de rentas transitorias (IAPI, emisión); déficit estructural no corregido |
+
+::: {.fuente}
+Díaz Alejandro (1970), cap. 4; Gerchunoff y Llach (2007), cap. 5.
+:::
+
+## [4.3] Comparación décadas previas
+
+| Variable | 1900–1914 (Belle Époque) | 1930–1943 (Intervencionismo) | 1946–1955 (Peronismo) |
+|----------|-------------------------|------------------------------|----------------------|
+| Crecimiento PBI (% anual) | ~5,0 | ~2,5 | ~3,5 (muy volátil) |
+| Tasa de inversión (% PBI) | ~19 | ~9 | ~14–16 |
+| Inflación promedio | ~0 (patrón oro) | ~2–3 % | ~15–20 % |
+| Part. industrial en PBI | ~15 % | ~20 % | ~25–27 % |
+| Salario real | Estancamiento / leve crec. | Caída 1930s, recuperación tardía | Aumento 46-49, caída 50-52, recup. parcial |
+
+::: {.callout-note icon=false title="En perspectiva"}
+El peronismo creció **más rápido** que la Década Infame pero **más lento y volátil** que la belle époque. Invirtió más que los años treinta pero menos que el Centenario, y con **menor eficiencia productiva**.
+:::
+
+::: {.fuente}
+Díaz Alejandro (1970), caps. 2 y 4; Gerchunoff y Llach (2007), caps. 3–5.
+:::
+
+## [4.4] La pregunta del contrafactual
+
+- **Díaz Alejandro**: ¿Podría el país haberse industrializado más rápido si se le hubiera dado más atención a los bienes exportables? La sobrevaluación y la protección excesiva penalizaron actividades eficientes.
+- **Gerchunoff y Llach**: el peronismo fue "un régimen de avanzada en muchos aspectos" que "no contaba con el beneficio de experiencias anteriores". El horizonte informativo de 1946 no era el de 1970.
+- **Contraargumento**: Canadá y Australia no contrafácticos limpios; difieren en tamaño, acceso a $K$ y relación con EE.UU.
+
+::: {.callout-important icon=false title="El error de diagnóstico"}
+El error no fue redistribuir: fue **confundir renta transitoria con capacidad estructural**. Las tres rentas que financiaron 1946–1948 no eran permanentes, y el régimen no construyó una base fiscal ni exportadora que las reemplazara.
+:::
+
+::: {.fuente}
+Díaz Alejandro (1970), cap. 4; Gerchunoff y Llach (2007), cap. 5.
+:::
+
+## [4.5] Una mirada de largo plazo
+
+- El peronismo **transformó la estructura social** argentina: urbanización, sindicalización, expansión de la clase media.
+- Pero **consolidó tensiones estructurales**: la restricción externa, la inflación crónica, el anti-export bias y la fiscalidad débil persistieron durante décadas.
+- El **modelo de industrialización por sustitución de importaciones** siguió vigente, con variantes, hasta la década de 1970.
+- **Evaluación de conjunto**: un régimen que logró **la mayor redistribución de ingreso de la historia argentina** a costa de **vulnerabilidades macroeconómicas** que condicionaron el desempeño posterior.
+
+::: {.fuente}
+Gerchunoff y Llach (2007), cap. 5; De Pablo (2005), cap. 3.
+:::
+
+# Cierre {background="#1f3a5f"}
+
+## Ideas fuerza {.tight}
+
+1. El **Plan Económico de 1952** fue una **corrección ortodoxa** dentro del régimen peronista: devaluación, congelamiento salarial y ajuste fiscal.
+2. Logró **estabilizar precios** y corregir la balanza de pagos, pero al costo de una **recesión profunda** y una **caída del salario real** del ~32 % respecto a su pico.
+3. La **recuperación 1953–1955** fue moderada; intentó corregir el sesgo hacia la industria liviana, pero la **tensión política** desembocó en el golpe de 1955.
+4. **Legado positivo**: industrialización, sindicalización, seguridad social, pleno empleo urbano como meta de política.
+5. **Legado problemático**: restricción externa recurrente, inflación crónica, anti-export bias, fiscalidad débil y patrón stop-and-go que perduró décadas.
+
+## Preguntas para llevarse
+
+- ¿Fue el Plan de 1952 una **traición** a los principios peronistas o una **demostración de pragmatismo**?
+- Si el segundo peronismo logró estabilizar en 1953–1954, ¿por qué **no pudo sobrevivir políticamente**?
+- ¿Cuánto del **estancamiento relativo** posterior a 1955 es atribuible al legado peronista y cuánto a las políticas de los gobiernos que siguieron?
+- ¿Era posible, en 1946, diseñar una **industrialización con apertura** que evitara el anti-export bias? ¿Por qué no se intentó?
+
+## Bibliografía de la clase
+
+**Obligatoria**
+
+- **Gerchunoff, P. y Llach, L. (2007).** *El ciclo de la ilusión y el desencanto*, **cap. 5**.
+- **Díaz Alejandro, C. (1970).** *Ensayos sobre la historia económica argentina*, **caps. 3 y 4**.
+- **Gómez, M., Tossolini, L. y Calvo, M. (2023).** "El debate acerca de los intentos de estabilización de precios en Argentina, 1948–1954", *Tiempo & economía*, 10(2), secc. 2.2.
+
+**Complementaria**
+
+- **De Pablo, J. C. (2005).** *La economía argentina en la segunda mitad del siglo XX*, tomo I, caps. 2 y 3.
+- **Rougier, M. (2012).** *La economía del peronismo. Una perspectiva histórica*, cap. 4.
+- **Cortés Conde, R. (2005).** *La economía política de la Argentina en el siglo XX*, cap. 3.
+
+::: {.fuente}
+La bibliografía completa por unidad está en el programa de la asignatura.
+:::
+
+<!--
+Notas de uso (no proyectar):
+- Unidad 3, clase 13. Fuentes: Gerchunoff y Llach (2007) cap. 5 (Plan 1952,
+  segundo gobierno, evaluación) + Díaz Alejandro (1970) caps. 3-4 (datos
+  cuantitativos y análisis estructural) + Gómez, Tossolini y Calvo (2023)
+  secc. 2.2 (debate sobre estabilización).
+- Hilo narrativo: contexto 1951 → Plan 1952 (medidas, resultados, costos) →
+  recuperación 1953-55 y deterioro político → evaluación de conjunto 1946-1955
+  (logros vs. costos) → contrafactuales y legado de largo plazo.
+- Verificar overflow con: node _check-overflow.mjs lec-13-*.html
+-->

@@ -1,0 +1,315 @@
+  ---
+title: "U3. El peronismo: contexto, filosofía y desempeño económico (1946–1955)"
+subtitle: "Historia Económica Argentina · Clase 11"
+---
+
+# Apertura y hoja de ruta {background="#1f3a5f"}
+
+## Dónde quedamos
+
+- La **Segunda Guerra Mundial** cerró el comercio mundial y generó excedentes invendibles. Mientras que el **Plan Pinedo (1940)** propuso industrialización con apertura, pero **fracasó políticamente**.
+- La **Revolución del 43** reconfiguró el intervencionismo: aparecen los **sindicatos** como actor político. Perón construyó una **alianza obrera** desde la Secretaría de Trabajo y Previsión (1943) y ganó en **1946** con 54 % de los votos.
+
+::: {.callout-tip icon=false title="Idea clave"}
+**1946** marca un **cambio de régimen económico**: de la acumulación vía exportaciones a la vía mercado interno; del *laissez-faire* al intervencionismo planificado.
+:::
+
+## La pregunta de hoy
+
+> ¿Cuáles fueron los **pilares de la economía política peronista**? ¿Cómo se diferenció del modelo agroexportador en términos de **filosofía, instituciones y resultados macroeconómicos**? ¿Qué hay de **nuevo** y qué es **continuidad**?
+
+## Mapa de la clase
+
+1. **Bloque 1 — Contexto nacional e internacional:** Argentina en 1945 y el mundo de posguerra.
+2. **Bloque 2 — Filosofía económica y política:** justicialismo, rol del Estado, tercera posición.
+3. **Bloque 3 — Trayectoria macroeconómica 1946–1955:** crecimiento, inflación, sector externo, salarios.
+4. **Bloque 4 — Novedades en perspectiva histórica:** cambios de régimen en contraste con décadas previas.
+
+# Bloque 1. Contexto nacional e internacional {background="#1f3a5f"}
+
+## [1.1] La Argentina de 1945: herencias
+
+- **Instituciones del intervencionismo**: BCRA (1935), control de cambios (1931), Juntas Reguladoras, impuesto a los réditos.
+- **Presencia industrial consolidada**: la industria había crecido al amparo de la guerra; el empleo industrial entre 1940 y 1944 aumentó un **38 %**.
+- **Sindicatos fortalecidos**: la experiencia de la Secretaría de Trabajo y Previsión (1943–1945) creó una **red de lealtades** inédita.
+- **Precios de commodities extraordinarios**: la posguerra dejó términos de intercambio históricamente altos.
+
+
+## [1.2] El contexto internacional
+
+- **Bretton Woods (1944)** nuevo orden monetario: TDC fijos, control de capitales, préstamos de reconstrucción.
+- **Plan Marshall (1948)**: Europa occidental favorecida; Argentina **excluida** por su neutralidad durante la guerra.
+- **Auge de precios de materias primas** (1945–1948): superávit comercial extraordinario para países agroexportadores.
+- **Guerra Fría**: presión estadounidense y anti-comunismo.
+
+::: {.callout-important icon=false title="Oportunidad y amenaza"}
+Los términos de intercambio más altos del siglo XX conviven con una **inserción geopolítica incómoda**: argentina neutral, sin acceso a equipos ni al Plan Marshall.
+:::
+
+::: {.fuente}
+Gerchunoff y Llach (2007), cap. 4.
+:::
+
+## [1.3] El ascenso de Perón: una síntesis
+
+- De la **Secretaría de Trabajo (1943)** a la **vicepresidencia (1944)**; detención y **17 de octubre de 1945**.
+- **Elecciones de 1946**: 54 % de los votos, apoyo de sindicatos, militares nacionalistas e Iglesia.
+- El **triángulo de poder**: sindicatos (ejército que produce), militares (ejército que cuida), Iglesia (poder moral).
+
+
+## [1.4] La coalición social
+
+- **No fue una coalición universal**: privilegió a trabajadores sindicalizados urbanos; excluyó a rurales y a no agremiados.
+- **Empresarios industriales**: aliados tácticos durante la bonanza, tensionados cuando aparecieron los cuellos de botella.
+- **Terratenientes**: perdedores sistemáticos de la política de precios y tipo de cambio.
+
+# Bloque 2. Filosofía económica y política {background="#1f3a5f"}
+
+## [2.1] Justicialismo y la "3ra posición"
+
+- **"Ni comunista ni capitalista, justicialista"**: rechazo explícito de la lucha de clases, apuesta por la **armonía de clases**.
+- **Corporativismo**: cada sector (trabajo, capital, Estado) tiene un rol funcional; el Estado arbitra.
+- **Tercera posición en política internacional**: autonomía frente a EE.UU. y URSS; nacionalismo con pragmatismo.
+
+::: {.callout-tip icon=false title="Eclecticismo oportuno"}
+Díaz Alejandro destaca que la filosofía económica de Perón fue **pragmática**, no dogmática: un eclecticismo oportuno para resolver dilemas distributivos.
+:::
+
+::: {.fuente}
+Díaz Alejandro (1970), cap. 3; Gerchunoff y Llach (2007), cap. 4.
+:::
+
+## [2.2] El Estado como actor principal
+
+- **De Estado no productor a Estado productor**: nacionalizaciones de ferrocarriles, teléfonos, gas, petróleo (YPF ya existía; se expandió), YCF.
+- **Estado de bienestar**: seguridad social universalizada (empleados de comercio y obreros industriales, 1944–1946).
+- **Política crediticia dirigida**: BCRA usa depósitos nacionalizdaos para asignar crédito según prioridades del gobierno.
+
+::: {.callout-important icon=false title="Un clima de época"}
+No era exclusivo de Argentina: la posguerra vio expandirse el Estado en Europa y América Latina. La novedad fue la **escala y la velocidad**.
+:::
+
+::: {.fuente}
+Gerchunoff y Llach (2007), cap. 4.
+:::
+
+## [2.3] Ejes de la política económica
+
+| Eje | Objetivo declarado | Instrumento principal |
+|-----|-------------------|----------------------|
+| **Distribución** | Redistribuir ingreso hacia los trabajadores | Salarios, convenios colectivos, previsión social |
+| **Empleo** | Pleno empleo urbano | Industrialización por sustitución de importaciones |
+| **Soberanía** | Reducir dependencia externa | Nacionalizaciones, control de cambios |
+| **Demanda** | Expandir mercado interno | Crédito subsidiado, tarifas públicas bajas, congelamiento de alquileres |
+
+::: {.fuente}
+Gerchunoff y Llach (2007), cap. 4; Díaz Alejandro (1970), cap. 2.
+:::
+
+## [2.4] Producción → Distribución
+
+- La **industria no era un fin en sí misma**: era el medio para hacer sostenible un esquema distributivo.
+- Jerarquía clara: **empleo y salario primero, $PMg$ después**.
+- Esto explica por qué se privilegió la ocupación incluso al costo de una **fragmentación ineficiente** de sectores industriales.
+
+::: {.callout-note icon=false title="La cadena de la prosperidad"}
+Cafiero: "cuanto mayor es el poder adquisitivo del sector trabajo, más amplio se torna el mercado y la demanda". Es un modelo de **demanda agregada sin restricción de oferta ni externa**.
+:::
+
+::: {.fuente}
+Gerchunoff y Llach (2007), cap. 4.
+:::
+
+# Bloque 3. Trayectoria macroeconómica 1946–1955 {background="#1f3a5f"}
+
+## [3.1] Crecimiento del PBI: dos periodos, una trayectoria
+
+| Período | PBI real (% anual) | Contexto |
+|---------|-------------------|----------|
+| 1946–1948 | ~8,4 | Bonanza postguerra, TIE altos, inversión pública |
+| 1949–1950 | ~−3,0 / estancamiento | Crisis externa, sequía, ajuste |
+| 1951 | ~4,5 | Recuperación parcial, gasto pre-electoral |
+| 1952 | ~−5,0 | Plan de estabilización, recesión |
+| 1953–1955 | ~3,0–4,0 | Recuperación moderada, apertura parcial |
+
+::: {.callout-important icon=false title="Volatilidad estructural"}
+El crecimiento peronista fue **más volátil** que el de la belle époque. La dependencia de la restricción externa se manifestó en ciclos de **stop-and-go**.
+:::
+
+::: {.fuente}
+Díaz Alejandro (1970), cuadros 2-1 y 2-2; Gerchunoff y Llach (2007), cap. 5.
+:::
+
+## [3.2] Inversión y acumulación de capital
+
+- **Tasa de inversión** del primer peronismo: alrededor del **14–16 %** del PBI, por debajo del 19,3 % de 1900–1914.
+- **Composición**: fuerte peso de la **inversión pública** (nacionalizaciones, obras, defensa); inversión privada industrial creció pero concentrada en ramas livianas.
+- **Inversión extranjera directa**: hostilidad oficial hacia la IED; entre 1940 y 1953 la inversión estadounidense en Argentina pasó de superar en 60 % a la de Brasil a ser apenas el 40 %.
+
+::: {.callout-note icon=false title="Una deuda con el futuro"}
+Díaz Alejandro marca **descuido de la infraestructura**: petróleo, electricidad, transporte. La $I$ en industria liviana no reemplazó la $I$ en capacidad exportadora.
+:::
+
+::: {.fuente}
+Díaz Alejandro (1970), cap. 4; Gerchunoff y Llach (2007), cap. 5.
+:::
+
+## [3.3] Inflación: del moderado al crónico
+
+| Año | Inflación anual (%) | Observación |
+|-----|---------------------|-------------|
+| 1946 | 17,5 | Inicial, monetización de bonanza |
+| 1947 | 20,9 | Crédito expansivo |
+| 1948 | 12,7 (promedio) / 17 (interanual oct) | Aceleración desde mitad de año |
+| 1949 | 31,5 | Crisis externa, devaluación |
+| 1950 | 25,0 | Persistencia |
+| 1951 | 30,0 | Presiones de la guerra de Corea |
+| 1952 | 15,0 | Plan de estabilización |
+| 1953–55 | 5–10 | Control parcial, luego rebrote |
+
+::: {.callout-tip icon=false title="Quiebra de la teoría cualitativa"}
+Las autoridades defendían que el **destino del crédito** (no su magnitud) determinaba los precios. La inflación persistente desmintió la teoría cualitativa del dinero.
+:::
+
+::: {.fuente}
+Gerchunoff y Llach (2007), caps. 4 y 5; Díaz Alejandro (1970), cuadro 2-5.
+:::
+
+## [3.4] Bonanza y estrangulamiento
+
+| Año | Exp. (mill. US$) | Imp. (mill. US$) | Saldo (mill. US$) | TIE (1960=100) |
+|-----|-----------------|------------------|-------------------|----------------|
+| 1945 | 719 | 290 | +429 | 94,8 |
+| 1946 | 1.004 | 504 | +500 | 145,8 |
+| 1947 | 1.587 | 1.320 | +267 | 147,2 |
+| 1948 | 1.604 | 1.568 | +36 | 151,0 |
+| 1949 | 1.250 | 1.150 | +100 | 134,1 |
+| 1950 | 1.100 | 1.050 | +50 | ~120 |
+
+- La **bonanza fue de precios, no de cantidades**: el volumen exportado en 1946 fue menor al de 1935.
+- A partir de **1948** el superávit se evaporó; en **1949–1950** aparece el **estrangulamiento externo** recurrente.
+
+::: {.fuente}
+Gerchunoff y Llach (2007), cap. 4; Díaz Alejandro (1970), cuadro 2-10.
+:::
+
+## [3.5] Empleo, salarios y distribución
+
+| Indicador | 1945 | 1948 | 1950 | 1952 | 1955 |
+|-----------|------|------|------|------|------|
+| Salario real (1945=100) | 100 | 162 | ~140 | ~110 | ~115 |
+| Participación salarial/VAB industrial (%) | 52 | 55 | 49 | — | — |
+| Empleo industrial (miles) | ~850 | ~1.100 | ~1.050 | ~980 | ~1.050 |
+
+- **1946–1948**: mayor aumento de bienestar de la historia trabajadora argentina.
+- **1949–1952**: erosión salarial por inflación y ajuste; recuperación parcial después de 1953.
+- La **participación salarial** superó al capital por primera vez en 1948 (53 % vs 47 %).
+
+::: {.fuente}
+Díaz Alejandro (1970), cuadros 2-21 y 2-22; Gerchunoff y Llach (2007), cap. 4.
+:::
+
+# Bloque 4. Novedades en perspectiva histórica {background="#1f3a5f"}
+
+## [4.1] Cambio de régimen: ¿qué cambió?
+
+| Dimensión | 1880–1930 / Belle Époque | 1930–1945 / Intervencionismo | 1946–1955 / Peronismo |
+|-----------|-------------------------|------------------------------|----------------------|
+| **Eje de crecimiento** | Exportaciones agropecuarias | Adaptación del agroexportador | Mercado interno |
+| **Rol del Estado** | Regulador mínimo | Administrador de escasez | Empresario, redistribuidor, planificador |
+| **Política industrial** | Ninguna (laissez-faire) | Espontánea (sustitución por cierre) | Deliberada (protección + crédito dirigido) |
+| **Política de ingresos** | Mercado de trabajo (inmigración) | Ajuste salarial real negativo | Salario real como política de Estado |
+| **Sector externo** | Apertura, patrón oro | Bilateralismo, controles | Control de cambios, sobrevaluación, autarquía parcial |
+
+::: {.fuente}
+Gerchunoff y Llach (2007), caps. 2–5; Díaz Alejandro (1970), cap. 2.
+:::
+
+## [4.2] El Estado empresario
+
+- **Servicios públicos**: ferrocarriles (1948), teléfonos (1946), gas, electricidad, YCF.
+- **Banca**: nacionalización de depósitos (1946), control estatal del crédito.
+- **Comercio exterior**: IAPI (1946) monopolizó exportaciones de granos y oleaginosas.
+
+::: {.callout-important icon=false title="La novedad institucional"}
+Por primera vez, el Estado argentino **administraba precios, crédito, salarios, comercio exterior y la propiedad de servicios estratégicos** simultáneamente.
+:::
+
+::: {.fuente}
+Gerchunoff y Llach (2007), cap. 4.
+:::
+
+## [4.3] Reforma monetaria y bancaria (1946)
+
+- **Nacionalización del BCRA**: de sociedad mixta (1935) a control estatal pleno.
+- **Nacionalización de depósitos**: los bancos reciben depósitos por cuenta del BCRA; el Central fija montos, tasas y destinos.
+- Crédito pasa de **decisión bancaria descentralizada** a un **instrumento administrativo** de asignación de recursos.
+
+::: {.callout-note icon=false title="Antecedentes"}
+El sistema no surgió de la nada: el Plan Pinedo ya había propuesto redescuentos industriales; el Banco Industrial data de 1944. La **escala** y la **subordinación política total** fueron las novedades.
+:::
+
+::: {.fuente}
+Gerchunoff y Llach (2007), cap. 4; Arnaudo (1986), cap. 3.
+:::
+
+## [4.4] La política de ingresos
+
+- **Objetivo explícito**: "máximo empleo de los recursos humanos y materiales" (Carta Orgánica del BCRA, 1946).
+- **Instrumentos**: CCT, salarios mínimos, aguinaldo, Estatuto del Peón (1944), congelamiento de alquileres.
+- **Redistribución vía salario, no vía presupuesto**: la justicia social peronista se expresó en **política de ingresos**, no en impuestos y transferencias europeos.
+
+::: {.callout-tip icon=false title="Un punto de inflexión distributivo"}
+En 1948 la masa salarial alcanzó el **53 % del ingreso nacional**. A comienzos de los cuarenta la relación era 44,4 % trabajo vs 55,6 % capital.
+:::
+
+
+## [4.5] Lo que no cambió
+
+- **Dependencia del sector agropecuario**: el único generador sistemático de divisas siguió siendo el agro pampeano.
+- **Inflación endógena**: desde la guerra ya había síntomas; el peronismo la aceleró pero no la inventó.
+- **Ciclo de stop-and-go**: la vulnerabilidad externa ya estaba presente en los años treinta; el peronismo la **institucionalizó** como patrón macroeconómico.
+- **Fiscalidad débil**: el Estado seguía dependiendo de recursos no tributarios (IAPI, emisión, deuda interna).
+
+
+# Cierre {background="#1f3a5f"}
+
+## Ideas fuerza {.tight}
+
+1. El peronismo **heredó** el intervencionismo de los años treinta y cuarenta, pero le dio **escala, velocidad y un objetivo distributivo explícito**.
+2. Su filosofía fue **pragmática y corporativista**: justicialismo como tercera vía entre capitalismo y comunismo.
+3. La **trayectoria macro 1946–1955** muestra **volatilidad estructural**: bonanza 1946–1948, crisis 1949–1952, recuperación moderada 1953–1955.
+4. Las **novedades de régimen** fueron: mercado interno como eje, Estado empresario, salario real como variable de política y crédito dirigido.
+5. Lo que **no cambió**: dependencia agroexportadora para divisas, inflación endógena y restricción externa recurrente.
+
+## Preguntas para llevarse
+
+- ¿Por qué el peronismo pudo construir una **alianza social amplia** donde la Concordancia fracasó? ¿Qué rol jugó la **promesa de redistribución**?
+- ¿Fue el peronismo una **ruptura** con el modelo agroexportador o una **reconfiguración** del intervencionismo previo?
+- ¿Por qué la **inversión** no alcanzó las tasas de la belle époque a pesar del pleno empleo y la intervención estatal?
+- ¿Qué tensiones estructurales quedaron **latentes** ya en 1946–1948 bajo la apariencia de la bonanza?
+
+## Bibliografía de la clase
+
+**Obligatoria**
+
+- **Gerchunoff, P. y Llach, L. (2007).** *El ciclo de la ilusión y el desencanto*, **caps. 4 y 5**.
+- **Díaz Alejandro, C. (1970).** *Ensayos sobre la historia económica argentina*, **caps. 2 a 4**.
+
+**Complementaria**
+
+- **Arnaudo, A. (1986).** *Cincuenta años de política financiera argentina*, cap. 3.
+- **De Pablo, J. C. (2005).** *La economía argentina en la segunda mitad del siglo XX*, tomo I, caps. 2 y 3.
+
+::: {.fuente}
+La bibliografía completa por unidad está en el programa de la asignatura.
+:::
+
+<!--
+Notas de uso (no proyectar):
+- Unidad 3, clase 11. Fuentes: Gerchunoff y Llach (2007) caps. 4-5 (macro y contexto)
+  + Díaz Alejandro (1970) caps. 2-4 (datos cuantitativos y evaluación estructural).
+- Hilo narrativo: contexto 1945 → filosofía peronista → trayectoria macro de conjunto
+  1946-1955 → novedades de régimen vs. continuidades estructurales.
+- Verificar overflow con: node _check-overflow.mjs lec-11-*.html
+-->
