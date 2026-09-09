@@ -1,0 +1,899 @@
+---
+title: "Repaso — Unidades 1, 2 y 3"
+subtitle: "Historia Económica Argentina · Clase de repaso"
+---
+
+# Apertura {background="#1f3a5f"}
+
+## ¿De qué se trata este repaso?
+
+- Un recorrido sintético por las **tres primeras unidades** del curso.
+- Enfoque en **ideas fuerza**, **mecanismos** y **articulación** entre períodos.
+- Objetivo: preparar el examen parcial con una **visión de conjunto**, no con datos sueltos.
+
+::: {.callout-important icon=false title="Regla de oro"}
+El parcial premia la **capacidad de relacionar** conceptos y períodos, no la memorización de fechas aisladas.
+:::
+
+## Mapa del repaso
+
+1. **El modelo agroexportador y el crecimiento 1880–1914** (U1)
+2. **Orden monetario, crisis y estabilidad** (U1)
+3. **Entreguerras, crisis y giro intervencionista** (U2)
+4. **La industria argentina: evolución y debate** (U2–U3)
+5. **Peronismo: economía política 1946–1955** (U3)
+
+::: {.callout-tip icon=false title="Hilo conductor"}
+Argentina pasa de **crecimiento exportador** a **industrialización espontánea** y, finalmente, a un **régimen de mercado interno** con intervención estatal planificada.
+:::
+
+# Sección 1. El modelo agroexportador y el crecimiento 1880–1914 {background="#1f3a5f"}
+
+## [1.1] El punto de partida: 1880
+
+- **Consolidación del Estado Nacional**: fin de guerras civiles, "orden y progreso".
+- **Primera globalización**: caída de costos de transporte, circulación libre de bienes, capitales y personas.
+- **Rol asignado**: Argentina como proveedora de bienes primarios para los mercados industriales (sobre todo el Reino Unido).
+
+::: {.callout-note icon=false title="Contexto político"}
+El auge ocurre bajo el **PAN** (Partido Autonomista Nacional): régimen estable pero de participación restringida.
+:::
+
+## [1.2] La teoría del Bien Primario Exportable (BPE)
+
+- Es una **teoría del crecimiento**: la exportación de un bien primario dispara la expansión del resto de la economía.
+- El motor es el **factor abundante**: en Argentina, la **tierra**.
+- Aplicada por **Innis**, **North**, **Cortés Conde** y otros a economías de reciente asentamiento.
+
+::: {.callout-note icon=false title="Staple thesis"}
+El bien primario exportable es el **sector líder**; el desarrollo es un proceso de **diversificación en torno a una base exportadora**.
+:::
+
+## [1.3] Los tres supuestos del BPE
+
+::: {.columns}
+::: {.column width="33%"}
+::: {.callout-note icon=false title="1. Espacio vacío"}
+Relación **tierra/trabajo** y **tierra/capital** muy altas.
+:::
+:::
+::: {.column width="33%"}
+::: {.callout-note icon=false title="2. Dotación específica"}
+Recursos que permiten **absorber** el crecimiento exportador.
+:::
+:::
+::: {.column width="33%"}
+::: {.callout-note icon=false title="3. Sin trabas"}
+No hay **restricciones institucionales** que frenen el uso de recursos.
+:::
+:::
+:::
+
+## [1.4] Los tres canales de eslabonamiento
+
+::: {.callout-note icon=false title="Hacia atrás"}
+Inversión en **insumos** del sector exportador: transporte, logística, bienes de capital.
+:::
+
+::: {.callout-note icon=false title="Hacia adelante"}
+Industrias que usan el bien exportable **como insumo** (frigoríficos, molinos).
+:::
+
+::: {.callout-note icon=false title="De demanda final"}
+Inversión en **bienes de consumo** para los factores empleados en el sector exportador.
+:::
+
+## [1.5] Marco teórico: Heckscher-Ohlin
+
+- Un país exporta los bienes que usan **intensivamente su factor abundante**.
+- Argentina hacia 1880: **tierra abundante, trabajo y capital escasos** → ventaja comparativa en bienes primarios intensivos en tierra.
+
+::: {.callout-note icon=false title="Teorema de H-O"}
+Bajo competencia, libre comercio y tecnología idéntica, la **abundancia relativa** de factores determina la **estructura de exportaciones**.
+:::
+
+## [1.6] Rybczynski y vent-for-surplus
+
+> Si aumenta la dotación de **un** factor, el sector que lo usa intensivamente **crece**; el otro sector se contrae en términos relativos.
+
+- Inmigración masiva → **más trabajo** → expansión del agro, sin diversificación automática.
+- Inversión extranjera → **más capital** → infraestructura ferroviaria que *amplifica* la exportación primaria.
+
+::: {.callout-note icon=false title="Vent-for-surplus (Lewis)"}
+La exportación **no reorienta** recursos, sino que **moviliza recursos ociosos**. Argentina tenía tierra fértil sin explotar: la demanda externa creó un excedente vendible que antes no existía.
+:::
+
+## [1.7] Stolper-Samuelson y la renta de la tierra
+
+> El libre comercio **sube** el retorno real del factor abundante y **baja** el del factor escaso.
+
+- En Argentina: el comercio libre **eleva la renta de la tierra** (factor abundante).
+- La fertilidad diferencial de la pampa húmeda genera **renta económica**: un retorno que no remunera un costo de producción sino la **calidad del recurso**.
+
+::: {.callout-important icon=false title="Consecuencia distributiva"}
+El crecimiento enriquece principalmente a quien **ya posee la tierra**, no a quien la trabaja.
+:::
+
+## [1.8] Estructura agraria: propietarios y arrendatarios
+
+- La tierra estaba **altamente concentrada** desde el período colonial y la Conquista del Desierto.
+- La mayoría de los inmigrantes accedió al suelo como **arrendatarios** (chacareros), no como propietarios.
+- El contrato típico: corto plazo, sin compensación por mejoras, alta rotación → poco incentivo a invertir en el predio.
+
+::: {.callout-tip icon=false title="El resultado"}
+Se maximiza la renta del terrateniente; el chacarero obtiene un ingreso razonable pero **sin acumulación de capital propio**.
+:::
+
+## [1.9] Enclave vs. integración
+
+::: {.columns}
+::: {.column width="50%"}
+::: {.callout-important icon=false title="Enclave puro"}
+El sector exportador no genera eslabonamientos internos: ganancias al exterior, insumos importados. El ingreso **no circula** en la economía local.
+:::
+:::
+::: {.column width="50%"}
+::: {.callout-tip icon=false title="Integración alta"}
+Eslabonamientos fuertes: el agro necesita frigoríficos → frigoríficos necesitan trabajadores → trabajadores consumen bienes locales. El ingreso se **multiplica**.
+:::
+:::
+:::
+
+Argentina 1880–1914: **posición intermedia** — más integrada que un enclave minero, pero con renta concentrada en tierra y capital extranjero.
+
+## [1.10] ¿Qué exportó la Argentina?
+
+Una **secuencia** de bienes primarios:
+
+| Período | Bien principal | Característica |
+|---------|---------------|----------------|
+| 1776–1860 | Ganado vacuno (cuero, sebo, tasajo) | Productos no refinados, pocos eslabonamientos |
+| 1860s–1880 | Ganado ovino (lana) | Más intensivo en trabajo, más eslabonamientos |
+| 1880–1914 | Cereales + carne refrigerada | Productos refinados, eslabonamientos fuertes |
+
+::: {.fuente}
+Fuente: Gómez (2012).
+:::
+
+## [1.11] Los tres factores en acción
+
+::: {.columns}
+::: {.column width="33%"}
+::: {.callout-note icon=false title="Tierra"}
+Abundante y barata; la Campaña del Desierto suma ~30 millones de hectáreas. La superficie cultivada pasa de <1 a ~20 millones de ha.
+:::
+:::
+::: {.column width="33%"}
+::: {.callout-note icon=false title="Capital"}
+Inversión británica; el **ferrocarril** como forma dominante: 732 → 27.994 km (1870–1910).
+:::
+:::
+::: {.column width="33%"}
+::: {.callout-note icon=false title="Trabajo"}
+**Inmigración masiva**, sobre todo de Italia y España. Población: 1,8 (1869) → 7,9 millones (1914).
+:::
+:::
+:::
+
+## [1.12] Del agro a la industria: tres tipos
+
+La expansión agroexportadora generó un **mercado interno único** por primera vez.
+
+::: {.columns}
+::: {.column width="33%"}
+::: {.callout-note icon=false title="1. Transables"}
+Demanda interna y **externa**; con ventaja comparativa en tierra. *Hacia adelante:* frigoríficos, molinos.
+:::
+:::
+::: {.column width="33%"}
+::: {.callout-note icon=false title="2. No transables"}
+Sólo demanda interna; sin ventaja comparativa. *Hacia atrás y de demanda:* muebles, herramientas, construcción.
+:::
+:::
+::: {.column width="33%"}
+::: {.callout-note icon=false title="3. Sustitutos"}
+Compiten con importaciones; sin ventaja comparativa. *De demanda:* bebidas, textiles, químicos, tabaco.
+:::
+:::
+:::
+
+## [1.13] Protección natural y ecuación de precios
+
+Sin ventaja comparativa, muchas industrias vivían de **tres formas de protección**:
+
+$$P_{d} = (P^{*}_{fob} + \tau)\,\cdot\,E\,\cdot\,(1 + t_{M})$$
+
+- **Transporte ($\tau$)**: distancia como protección "natural".
+- **Tipo de cambio ($E$)**: peso depreciado encarece lo importado.
+- **Arancel ($t_{M}$)**: ~**17,7%** en 1913; efectivo rondaba el **30%**.
+
+## [1.14] El crecimiento en perspectiva
+
+- Argentina crece al **~2,5% anual per cápita**, junto a Canadá y Australia.
+- Hacia 1913: **5.ª en PBI per cápita** (por delante de Alemania y Francia).
+- En ritmo de crecimiento (1900–1913): **2.ª** con **2,5%**, sólo detrás de Canadá (3,3%).
+
+::: {.callout-tip icon=false title="Idea clave"}
+No fue un espejismo: por nivel **y** por velocidad, Argentina jugaba en la primera división mundial.
+:::
+
+## [1.15] La trampa del BPE (*staple trap*)
+
+- El BPE es un **motor potente pero acotado**: a medida que la frontera productiva se completa, el impulso decrece.
+- El modelo exige **transición**: pasar de primario-exportador a una estructura más diversificada.
+
+::: {.callout-important icon=false title="El peligro"}
+Si la economía **no diversifica** cuando el BPE madura —por falta de eslabonamientos, instituciones débiles o elites rentistas— queda atrapada en la especialización primaria.
+:::
+
+## [1.16] Casos comparados: ¿por qué Argentina diverge?
+
+| País | BPE principal | Inicio | Transición industrial |
+|------|--------------|--------|-----------------------|
+| Canadá | Trigo (Prairies) | 1870s | Sí — manufactura integrada |
+| Australia | Lana, trigo | 1850s | Sí — mercado interno ampliado |
+| Nueva Zelanda | Lana, carne | 1860s | Parcial |
+| **Argentina** | Trigo, carne | 1880s | **Trunca** |
+
+::: {.callout-note icon=false title="Hipótesis"}
+No es que la pampa fuera menos fértil. Es que la **estructura social** que la aprovechó frenó la diversificación productiva.
+:::
+
+# Sección 2. Orden monetario, crisis y estabilidad {background="#1f3a5f"}
+
+## [2.1] La cuestión monetaria: dos clases de dinero
+
+::: {.columns}
+::: {.column width="50%"}
+::: {.callout-note icon=false title="Dinero metálico"}
+Tiene **valor intrínseco** (oro, plata). El peso y la pureza le dan valor como mercancía.
+:::
+:::
+::: {.column width="50%"}
+::: {.callout-note icon=false title="Dinero fiduciario"}
+**Sin valor intrínseco.** Su valor nominal se corresponde con el metálico; es un pagaré.
+:::
+:::
+:::
+
+Toda la historia monetaria del período es la **tensión entre ambos**.
+
+## [2.2] ¿Qué es la convertibilidad?
+
+> La convertibilidad implica que el dinero papel es **convertible legalmente a moneda dura**. Supone el respaldo del 100% (o menos) de la emisión. Si la conversión es del 100%, la **única fuente de emisión** son los saldos comerciales favorables o la entrada de capitales.
+
+::: {.fuente}
+Gómez (2018).
+:::
+
+## [2.3] Las seis convertibilidades argentinas
+
+- **1822–26** y **1867–73** — bancos provinciales de Buenos Aires.
+- **1883–85** — primera de alcance **nacional**.
+- **1899–1914** — la **Caja de Conversión**.
+- **1927–29** — su segunda etapa.
+- **1991–2001** — la **Ley de Convertibilidad**.
+
+::: {.callout-important icon=false title="El patrón común"}
+En todas se buscó que la emisión resultara **solo** de la entrada de divisas. En todas, tarde o temprano, la regla se rompió.
+:::
+
+## [2.4] Diagrama de regímenes monetarios 1880–1914
+
+```
+Pre-1880        1881           1883-85        1887-90         1899-1914
+Anarquía   →   Unificación →  Convert.   →   BNG        →   Caja de Conversión
+(multiple    (Ley 1130:      (1 papel =     (banca libre   (currency board:
+ monedas)    peso oro/plata)  1 oro)         condicionada)  2,27 papel/oro)
+```
+
+::: {.callout-tip icon=false title="Idea clave"}
+Cada régimen fue una respuesta al fracaso del anterior, acumulando lecciones que culminaron en la **Caja**.
+:::
+
+## [2.5] Anarquía monetaria pre-1880
+
+- **Múltiples monedas metálicas y bancos emisores**; billetes provinciales inconvertibles.
+- No había unidad monetaria ni medio de pago uniforme.
+
+::: {.callout-note icon=false title="El problema"}
+Cada provincia tenía sus billetes; el comercio interno enfrentaba costos de cambio y desconfianza.
+:::
+
+## [2.6] Ley 1130 de 1881: unificación sin disciplina
+
+- Crea el **peso oro** y el **peso plata** de curso legal (el *Argentino de Oro* y el *Patacón*).
+- Autoriza a **cinco bancos** a emitir, pero **sin restricción cuantitativa** sobre el monto.
+- La convertibilidad estaba prevista… pero recién arrancó a fines de **1883**.
+
+::: {.callout-important icon=false title="El talón de Aquiles"}
+La ley unificó la **denominación** pero no la **disciplina**: sin límite a la emisión, el anclaje duró apenas dos años.
+:::
+
+## [2.7] La primera convertibilidad (1883–85)
+
+- **1883**: convertibilidad efectiva (1 peso papel = 1 peso oro).
+- **Diciembre 1884**: el Banco Nacional se queda **sin reservas**.
+- **Decretos de 1885**: suspenden la conversión "por dos años" y dan al papel **curso legal**.
+
+::: {.callout-tip icon=false title="Transición clave"}
+Se pasó de un **patrón mixto a paridad fija** a un **patrón fiduciario a paridad flexible**: la puerta abierta a la emisión.
+:::
+
+## [2.8] Los Bancos Nacionales Garantidos (1887)
+
+- Sistema de **"banca libre"**: cualquier banco podía emitir billetes **si compraba títulos públicos en oro**.
+- Requisitos: capital mínimo de 250 mil pesos; reserva del **10%** en oro; tope agregado de **40 millones**.
+
+::: {.callout-note icon=false title="El mecanismo BNG"}
+El banco compra deuda pública **en oro** y, contra ese respaldo, recibe autorización para **emitir**. Emitir dinero pasa a depender de **colocar deuda**.
+:::
+
+## [2.9] El mecanismo BNG: una asimetría fatal
+
+- **"Patrón oro de mano única"**: la base monetaria **se expandía** cuando entraba oro, pero **no se contraía** automáticamente cuando salía.
+- Los bancos **no estaban obligados a convertir** sus billetes.
+- Muchos bancos **tomaron deuda en Londres al 6%** para comprar bonos al **4,5%** y emitir billetes → cobraban dos rentas sobre el mismo peso de oro.
+
+::: {.callout-important icon=false title="Banca salvaje (wildcat banking)"}
+Sólo el **50%** de los bonos se pagó realmente en oro. La emisión autorizada saltó de **85 a 295 millones** entre 1888 y 1890.
+:::
+
+## [2.10] Las cuentas fiscales: ingresos y gastos
+
+- Los ingresos venían casi enteros del **comercio exterior**: aranceles a importaciones = **2/3** de la recaudación.
+- El grueso del gasto era **obra pública** (Ministerio del Interior, 36–40%).
+- Resultado: **déficit primario durante toda la década** de 1880.
+
+::: {.callout-note icon=false title="Inconsistencia fiscal"}
+El Estado vivía de los aranceles a las importaciones; cuando el comercio se contrajo, la recaudación cayó… pero el gasto no.
+:::
+
+## [2.11] Financiamiento del déficit: deuda vs. emisión
+
+Un gobierno cubre su déficit con **deuda** (colocar bonos) o con **emisión** (imprimir dinero).
+
+| Año | Déficit fiscal | Principal fuente de financiamiento |
+|-----|---------------|-----------------------------------|
+| 1885–88 | Persistente | Deuda externa (sobre todo Londres) |
+| 1889 | Crítico | Emisión inconvertible |
+| 1890 | Colapso | Emisión casi exclusiva |
+
+::: {.callout-important icon=false title="El giro fatal de 1889"}
+Desde **1889**, con el crédito externo cortándose, el gobierno recurrió a la **emisión como fuente casi exclusiva**.
+:::
+
+## [2.12] La Crisis de Baring (1890): cronología detallada
+
+| Fecha | Evento |
+|-------|--------|
+| Fines 1888 | Emisión autorizada salta de 85 a 295 millones |
+| Enero 1889 | Gobierno propone pagar deuda en **pesos papel** → default parcial |
+| 1889 | Se desvanece el crédito externo; comienza la sangría de oro |
+| Principios 1890 | **Primera corrida**: contra Banco Nación y BPBA |
+| Junio 1890 | **Segunda corrida**: Banco Nacional suspende pago a **Baring**; renuncia Juárez Celman |
+| Abril 1891 | **Tercera corrida**: caen ambos bancos y casi todo el sistema |
+
+::: {.callout-important icon=false title="El dato"}
+Las reservas de oro pasaron de **60 a 6 millones en apenas nueve meses**.
+:::
+
+## [2.13] Anatomía de la crisis: el diagrama
+
+```
+Déficit fiscal persistente
+        ↓
+Financiamiento vía deuda externa (Londres)
+        ↓
+Crédito externo se corta (1889)
+        ↓
+Emisión inconvertible como única fuente
+        ↓
+Inflación + depreciación del papel
+        ↓
+Corridas cambiarias y bancarias (1890–91)
+        ↓
+Default ante Baring + colapso del sistema
+```
+
+## [2.14] Pellegrini y las tres medidas de salida
+
+Asume **Pellegrini**; su ministro López toma tres decisiones que definen la salida:
+
+1. **Emitir** 60 millones en pesos papel de curso legal.
+2. **Intervenir** los bancos de emisión del interior.
+3. **Crear la Caja de Conversión** — la reforma que daría estabilidad.
+
+::: {.callout-tip icon=false title="El saldo"}
+Depreciación del papel: **152,7%** (1889–91); inflación acumulada: **163,7%**. Fue la **primera gran crisis de los mercados emergentes**.
+:::
+
+## [2.15] La Caja de Conversión (1899): regla dura
+
+- **Ley 2741 (1890)** crea la Caja; **Ley 3871 (1899)** fija paridad: **2,27 pesos papel por peso oro**.
+- Toda variación de billetes en circulación **corresponde exactamente** a la variación de reservas de oro.
+
+::: {.callout-note icon=false title="Currency board"}
+Emite moneda **solo a cambio de oro**, a tipo fijo y sin discrecionalidad. Quedan **prohibidos** los redescuentos y las operaciones de mercado abierto: la oferta monetaria es **endógena**.
+:::
+
+## [2.16] El Fondo de Conversión y el BNA
+
+- **Fondo de Conversión**: reserva metálica para respaldar los casi **300 millones** de billetes ya en circulación. Se nutría de utilidades del Banco Nación, sobretasa del 5% a importaciones y otras rentas.
+- **Banco de la Nación Argentina (1891)**: creado sobre la base del viejo Banco Nacional. Debía mantener **encaje del 25%** de los depósitos. Dos privilegios: agente financiero del Estado y "banco de bancos".
+
+::: {.callout-tip icon=false title="Recuperación vía deflación"}
+La oferta monetaria creció apenas **2,6%** anual en 1892–99 (contra **21%** en los 1880), y aun así la economía creció: dinero lento y estable.
+:::
+
+## [2.17] El trilema macroeconómico
+
+De estos tres objetivos, un país puede lograr **dos** a la vez, nunca los tres:
+
+::: {.columns}
+::: {.column width="33%"}
+::: {.callout-note icon=false title="Tipo de cambio fijo"}
+Para estabilizar precios relativos.
+:::
+:::
+::: {.column width="33%"}
+::: {.callout-note icon=false title="Movilidad de capitales"}
+Para ganar eficiencia y financiamiento.
+:::
+:::
+::: {.column width="33%"}
+::: {.callout-note icon=false title="Política monetaria"}
+Para estabilizar el producto.
+:::
+:::
+:::
+
+::: {.callout-tip icon=false title="Elección argentina"}
+Bajo el patrón oro clásico (1873–1913): **tipo fijo + movilidad de capitales** ⇒ sin política monetaria propia.
+:::
+
+## [2.18] El patrón oro 1900–1913: evidencia
+
+- La paridad **2,27** se alcanza en **1902**; a partir de ahí, la base monetaria **sigue a las reservas** de oro casi uno a uno.
+- El **Fondo de Conversión** pasó de 140 mil pesos oro (1902) a **30 millones** (1910): respaldo del **73%**.
+- El BNA fue **sólido**: depósitos crecieron ~**15% anual** y mantuvo un ratio de reservas/depósitos de casi **50%**.
+
+::: {.callout-tip icon=false title="La prueba de que funcionó"}
+La correlación estrecha entre **reservas** y **base monetaria** confirma una Caja operando como tal: política monetaria endógena, sin discrecionalidad.
+:::
+
+## [2.19] Comparación de regímenes monetarios 1880–1914
+
+| Aspecto | Pre-1881 | 1881–1885 | BNG (1887–90) | Caja (1899–1914) |
+|---------|----------|-----------|---------------|------------------|
+| Regla de emisión | Ninguna | Convertibilidad prevista | Bonos públicos en oro | Oro al 100% (marginal) |
+| Tipo de cambio | Flexible | Fijo (1:1) | Flexible | Fijo (2,27) |
+| Bancos emisores | Múltiples provinciales | Cinco bancos privados | Cualquiera con capital mínimo | Centralizado en Caja |
+| Prestamista de última instancia | Ninguno | Ninguno | Ninguno | BNA (a medias) |
+| Resultado | Caos monetario | Dos años de ancla | Boom y crisis (1890) | Estabilidad 1900–13 |
+
+## [2.20] Balance de la Unidad 1: éxito y fragilidad
+
+**Éxito:**
+- Crecimiento excepcional (~2,5% per cápita) impulsado por BPE.
+- Estabilidad monetaria 1900–1913 vía Caja de Conversión.
+- Inserción en la primera globalización como economía de primer nivel.
+
+**Fragilidad:**
+- Dependencia del ciclo externo (precios, capitales, migración).
+- Concentración de la renta en tierra; estructura agraria sin reformar.
+- Ausencia de banco central y política monetaria propia.
+- Industrialización incipiente y trunca en comparación con Canadá/Australia.
+
+::: {.callout-important icon=false title="La pregunta que abre la U2"}
+¿Qué pasa con este régimen cuando el mundo entra en **guerra**?
+:::
+
+# Sección 3. Entreguerras, crisis y giro intervencionista {background="#1f3a5f"}
+
+## [3.1] El fin de la época de oro y la Primera Guerra Mundial
+
+- **1913–14**: política monetaria contractiva en Gran Bretaña se transmite a Argentina.
+- **28 de julio de 1914**: estalla la Primera Guerra Mundial. La **cuenta capital** se redujo casi **50%**.
+- La **balanza comercial** fue positiva, pero por contracción de importaciones (**–35%**), no por más exportaciones.
+- El PBI real **cayó en 1914** pero se recuperó; la manufactura **creció** durante el conflicto.
+
+::: {.callout-tip icon=false title="Idea clave"}
+La guerra no solo fue shock financiero: también **reorganizó** la estructura productiva, favoreciendo sectores orientados al mercado interno.
+:::
+
+## [3.3] La Caja en modo autorregulación (1914–1927)
+
+- La Caja dejó de convertir a 2,27 fijo; adoptó **autorregulación**: base monetaria **constante**.
+- De 24 caídas de reservas (1914–1919), **21 (87,5%)** no cambiaron la BM.
+- El ajuste pasó al **tipo de cambio** (flotante).
+
+::: {.callout-important icon=false title="Un régimen a medida"}
+Ni ancla rígida ni flotación pura: la base monetaria se **desacopló** de las reservas para amortiguar el shock.
+:::
+
+## [3.4] Los años veinte: gobiernos radicales
+
+- **Yrigoyen (1916–22)**: mediación estatal en conflictos laborales; crea **YPF** (1922).
+- **Alvear (1922–28)**: moderación; **reforma arancelaria de 1923** elevó protección efectiva.
+- **Segundo Yrigoyen (1928–30)**: crisis internacional; **golpe de 1930**.
+
+::: {.callout-important icon=false title="El límite de la reforma"}
+Los radicales ampliaron la democracia política pero **no reformaron la estructura agraria**. El modelo agroexportador siguió intacto.
+:::
+
+## [3.5] El contexto internacional de los veinte y el crash de 1929
+
+- La Primera Guerra destruyó los tres pilares del orden liberal: **patrón oro**, **libre comercio**, **hegemonía británica**.
+- **Plan Dawes (1924)**: reestructuró reparaciones alemanas y abrió flujo de capital estadounidense hacia Europa.
+- **Octubre 1929**: crisis en Wall Street. **16 de diciembre de 1929**: Yrigoyen suspende convertibilidad.
+- Exportaciones cayeron **10,7%** en 1929; balanza de pagos: de +133 millones (1928) a **–294 millones** (1929).
+
+::: {.callout-important icon=false title="La ilusión y el costo de la regla dura"}
+La prosperidad de los veinte tenía bases **prestadas**. Bajo el patrón oro, la salida de reservas obligaba a contraer la base monetaria.
+:::
+
+## [3.7] Del oro al control de cambios
+
+- **Octubre 1931**: **control de cambios**. Exportadoras debían entregar divisas a la Comisión.
+- **Noviembre 1933**: **desdoblamiento** del mercado cambiario (oficial y libre).
+- El Estado pasa a **administrar divisas** y decidir quién importa.
+
+::: {.callout-tip icon=false title="Idea clave"}
+El control nació como **emergencia**, pero se hizo **permanente**: el Estado administraba divisas.
+:::
+
+## [3.8] La crisis bancaria y el BNA bajo presión
+
+- El BNA usó **redescuentos** masivamente: del **15% al 30%** de las reservas (1929–1934).
+- Tres fuentes de presión simultáneas: **fiscal**, **bancaria** y **cambiaria**.
+
+::: {.callout-important icon=false title="El trilema en acción"}
+El BNA no podía sostener la convertibilidad, financiar al Estado y salvar a los bancos al mismo tiempo.
+:::
+
+## [3.9] De la Caja al BCRA (1935)
+
+- La **Ley 12.155** de **28 de marzo de 1935** creó el **BCRA**.
+- Capital: 300 millones de pesos (Estado, BNA y bancos privados).
+- Instrumentos: redescuentos, mercado abierto, control de cambios.
+
+::: {.callout-tip icon=false title="Un cambio de régimen"}
+De ortodoxia pasiva a **política monetaria activa**. El precio fue abandonar definitivamente la ortodoxia de la Caja.
+:::
+
+## [3.10] La Década Infame y el giro intervencionista
+
+- **Golpe de 1930**: general Uriburu; fraude electoral; "Concordancia" conservadora.
+- **Pacto Roca-Runciman (1933)**: Gran Bretaña mantiene importaciones de carne y cereales; Argentina no aplica aranceles discriminatorios contra productos británicos.
+- **Juntas Reguladoras** (1933–1936): fijaban **precios mínimos** agropecuarios.
+- **Control selectivo de importaciones** y **impuesto a los réditos (1932)**.
+
+::: {.callout-tip icon=false title="Intervencionismo de emergencia"}
+Medidas de **emergencia** se consolidaron como **política permanente**.
+:::
+
+## [3.12] Recuperación, Segunda Guerra y Revolución del 43
+
+- Recuperación a partir de **1933**: causada por aumento de **precios mundiales** de cereales.
+- La industria creció: empleo industrial aumentó **14%** entre 1930–34 y 1935–39. Pero la industrialización fue **espontánea**, no deliberada.
+- **1939**: estalla la Segunda Guerra; excedentes invendibles.
+- **Plan Pinedo (1940)**: propuso industrialización deliberada con apertura. **Fracasó políticamente**.
+- **Revolución del 43 (junio 1943)**: nacionalismo militar; Perón en Secretaría de Trabajo.
+
+::: {.callout-important icon=false title="El precio de la exclusión"}
+Llach: fracaso político, no técnico. La elite no supo **forjar una alianza social más amplia**.
+:::
+
+## [3.14] Del 43 al peronismo
+
+- Perón construyó **alianza obrera** desde la Secretaría de Trabajo (1943).
+- **17 de octubre de 1945**: movilización obrera lo libera y catapulta.
+- **Febrero 1946**: gana con **54%** de los votos. Cambio de régimen económico.
+
+::: {.callout-tip icon=false title="Un cambio de régimen"}
+De acumulación vía exportación a **vía mercado interno**; de *laissez-faire* a intervencionismo planificado.
+:::
+
+# Sección 4. La industria argentina: evolución y debate {background="#1f3a5f"}
+
+## [4.1] La versión oficial y sus problemas
+
+- Versión canónica: "la industrialización argentina **nació con la Gran Depresión** (1930)".
+- Problema: **no mira los datos** con atención.
+
+> "A los latinoamericanos, con frecuencia, nos parece que nuestra historia de uso corriente en los círculos internacionales hubiera sido escrita desde el Olimpo."
+
+::: {.fuente}
+Villanueva (1972).
+:::
+
+## [4.2] La tesis de Villanueva: la industria nació en los veinte
+
+> "La industria 'moderna' se inicia realmente en la **década del veinte** —especialmente en los últimos años de dicha década—."
+
+- En **1935**, el **78%** de la producción industrial venía de empresas fundadas **antes de 1930**.
+
+| Indicador | Dato |
+|-----------|------|
+| Empresas extranjeras instaladas (1921–1930) | **43 grandes empresas** (vs. 13 en 1900–1920) |
+| Patentes extranjeras registradas (años 20) | **8.731** — 10,5× la década anterior |
+| Consumo energía industrial (1927–1930) | **356,6 millones kWh** |
+| Participación manufactura en PBN (1925–29) | **18,4%** |
+
+::: {.callout-tip icon=false title="Idea clave"}
+El boom industrial de 1924–1930 fue real y anterior a la Gran Depresión.
+:::
+
+## [4.4] Tres tipos de industria en el agroexportador
+
+::: {.columns}
+::: {.column width="33%"}
+::: {.callout-note icon=false title="1. Transables"}
+Demanda interna y **externa**; con ventaja comparativa en tierra. *Hacia adelante:* frigoríficos, molinos.
+:::
+:::
+::: {.column width="33%"}
+::: {.callout-note icon=false title="2. No transables"}
+Sólo demanda interna; sin ventaja comparativa. *Hacia atrás y de demanda:* muebles, herramientas, construcción.
+:::
+:::
+::: {.column width="33%"}
+::: {.callout-note icon=false title="3. Sustitutos"}
+Compiten con importaciones; sin ventaja comparativa. *De demanda:* bebidas, textiles, químicos, tabaco.
+:::
+:::
+:::
+
+## [4.5] La industrialización peronista: perfil
+
+- **Industrialización liviana**: textiles, alimentos, bebidas, tabaco.
+- **Sustitución profunda** en bienes de consumo; **dependencia persistente** en bienes de capital e intermedios.
+
+| Rama | Importaciones/(Prod. interna + Import.), 1946–49 |
+|------|-------------------------------------------------|
+| Textiles | 15% (bajó de 44% en 1937–39) |
+| Metales (excl. eléctrica) | 37% (bajó de 46%) |
+| Vehículos y maquinaria | 43% (bajó de 49%) |
+
+::: {.callout-important icon=false title="Advertencia de Díaz Alejandro"}
+Bajar el coeficiente importador puede reflejar sustitución genuina o simple **racionamiento administrativo** de divisas.
+:::
+
+## [4.6] Evolución sectorial en perspectiva larga
+
+| Período | Participación agrícola | Participación manufacturera |
+|---------|----------------------|----------------------------|
+| 1900–04 | ~30% | 14,0% |
+| 1925–29 | — | 18,4% |
+| 1930–34 | — | 19,3% |
+| 1945–49 | — | 24,5% |
+
+::: {.callout-note icon=false title="Tendencia lineal"}
+No hay inflexión en 1930: la tendencia de crecimiento industrial es **continua** desde los años veinte.
+:::
+
+## [4.7] Comparación de régimenes industriales
+
+| Dimensión | Belle Époque | Intervencionismo | Peronismo |
+|-----------|-------------|------------------|-----------|
+| **Política industrial** | Ninguna (*laissez-faire*) | Espontánea (sustitución por cierre) | Deliberada (protección + crédito dirigido) |
+| **Eje de crecimiento** | Exportaciones agropecuarias | Adaptación del agroexportador | Mercado interno |
+| **Rol del Estado** | Regulador mínimo | Administrador de escasez | Empresario, redistribuidor, planificador |
+
+::: {.callout-tip icon=false title="Idea clave"}
+El peronismo no inventó la industria: le dio **escala, velocidad y un objetivo distributivo explícito**.
+:::
+
+## [4.8] El debate: ¿inevitable la ISI?
+
+- **Díaz Alejandro**: ¿Podría el país haberse industrializado más rápido si se le hubiera dado más atención a los bienes exportables?
+- **Gerchunoff y Llach**: el peronismo fue "un régimen de avanzada" que "no contaba con el beneficio de experiencias anteriores".
+- **Contraargumento**: Canadá y Australia no son contrafácticos limpios.
+
+::: {.callout-important icon=false title="El error de diagnóstico"}
+El error no fue redistribuir: fue **confundir renta transitoria con capacidad estructural**.
+:::
+
+# Sección 5. Peronismo: economía política 1946–1955 {background="#1f3a5f"}
+
+## [5.1] Contexto de 1945: herencias
+
+- **Instituciones del intervencionismo**: BCRA (1935), control de cambios (1931), Juntas Reguladoras.
+- **Presencia industrial consolidada**: empleo industrial entre 1940 y 1944 aumentó un **38%**.
+- **Precios de commodities extraordinarios**: términos de intercambio históricamente altos en posguerra.
+
+::: {.callout-important icon=false title="Oportunidad y amenaza"}
+Los TIE más altos del siglo XX conviven con una **inserción geopolítica incómoda**: Argentina neutral, sin Plan Marshall.
+:::
+
+## [5.2] Filosofía económica: justicialismo
+
+- **"Ni comunista ni capitalista, justicialista"**: rechazo de la lucha de clases, apuesta por la **armonía de clases**.
+- **Corporativismo**: cada sector tiene un rol funcional; el Estado arbitra.
+- **Tercera posición**: autonomía frente a EE.UU. y URSS.
+
+::: {.callout-tip icon=false title="Eclecticismo oportuno"}
+Díaz Alejandro: la filosofía económica de Perón fue **pragmática**, no dogmática.
+:::
+
+## [5.3] Ejes de la política económica peronista
+
+| Eje | Objetivo declarado | Instrumento principal |
+|-----|-------------------|----------------------|
+| **Distribución** | Redistribuir ingreso hacia los trabajadores | Salarios, convenios colectivos, previsión social |
+| **Empleo** | Pleno empleo urbano | Industrialización por sustitución de importaciones |
+| **Soberanía** | Reducir dependencia externa | Nacionalizaciones, control de cambios |
+| **Demanda** | Expandir mercado interno | Crédito subsidiado, tarifas públicas bajas, congelamiento de alquileres |
+
+## [5.4] Producción → Distribución
+
+- La **industria no era un fin en sí misma**: era el medio para hacer sostenible un esquema distributivo.
+- Jerarquía clara: **empleo y salario primero, productividad marginal después**.
+
+::: {.callout-note icon=false title="La cadena de la prosperidad"}
+Cafiero: "cuanto mayor es el poder adquisitivo del sector trabajo, más amplio se torna el mercado y la demanda".
+:::
+
+## [5.5] Las tres rentas transitorias
+
+| Renta | Mecanismo | ¿Por qué se agota? |
+|-------|-----------|-------------------|
+| **Agraria** | IAPI compra cosechas barato y vende caro; captura TIE excepcionales | TIE caen 11% en 1949 y siguen bajando |
+| **Previsional** | Sistema universalizado con masivos aportantes y casi cero beneficiarios | Los afiliados empiezan a jubilarse |
+| **Monetaria** | Redescuentos del BCRA a tasas reales negativas | Inflación acelerada; el público se desprende del dinero |
+
+::: {.callout-important icon=false title="Idea clave"}
+El éxito 1946–1948 se financió con **tres rentas transitorias** que se agotaron casi al mismo tiempo.
+:::
+
+## [5.6] La bonanza 1946–1948: cifras y triángulo redistributivo
+
+| Año | Salario real (1945=100) | Variación anual | Consumo real (1945=100) |
+|-----|------------------------|-----------------|------------------------|
+| 1945 | 100 | — | 100 |
+| 1946 | 103 | +3% | 110 |
+| 1947 | 129 | +25% | 135 |
+| 1948 | 156 | +21% | 148 |
+
+- Entre 1945 y 1949 el salario real subió **+62%**.
+
+| Sector | Rol | Instrumento |
+|--------|-----|-------------|
+| **Rural** | Dador de recursos | IAPI, alquileres congelados |
+| **Estado** | Intermediario | Margen IAPI, aportes previsionales, emisión/redescuentos |
+| **Urbano-industrial** | Receptor | Salarios altos, crédito subsidiado, insumos con tipo preferencial |
+
+::: {.callout-tip icon=false title="Bienestar sin precedentes"}
+En 1946–1948 la clase trabajadora argentina experimentó el **mayor aumento de bienestar de toda su historia**.
+:::
+
+## [5.8] 1948: el año bisagra
+
+- **Agosto 1947**: inconvertibilidad de la libra esterlina → "libras bloqueadas".
+- **1948**: **exclusión del Plan Marshall** por neutralidad en la guerra.
+- Uso masivo de **reservas** en nacionalizaciones, rescate de deuda externa y compra de ferrocarriles.
+- **Gasto público** salta al **36% del PBI**; déficit consolidado al **15,3%**.
+
+::: {.callout-important icon=false title="La trampa de las decisiones individuales"}
+Cada decisión era defendible por separado. **Juntas** significaron que, cuando apareció la restricción externa, no había ni reservas ni crédito externo.
+:::
+
+## [5.9] La reversion 1949–1950
+
+| Indicador | 1948 | 1949 | 1950 |
+|-----------|------|------|------|
+| Inflación anual (%) | 12,7 | 31,5 | 25,0 |
+| Salario real (1945=100) | 156 | 162 | ~145 |
+| PBI real (% var.) | +5 | −3 | −2 |
+
+- **Recesión**: el PBI cae por primera vez desde 1946.
+- **Estrangulamiento externo**: aparece el patrón que dominará la economía argentina de posguerra.
+
+::: {.callout-important icon=false title="Nace el stop-and-go"}
+Expansión doméstica → déficit externo → ajuste → recesión → recuperación.
+:::
+
+## [5.10] El Plan Económico de 1952
+
+- Anunciado en **julio de 1952**: diagnóstico de **exceso de demanda interna** financiado con déficit fiscal y emisión.
+- Medidas: devaluación significativa, congelamiento de salarios, reducción de gasto público, tasas de interés más altas.
+
+::: {.callout-tip icon=false title="¿Ruptura o continuidad?"}
+El Plan de 1952 no abandonó el modelo de sustitución de importaciones ni el rol del Estado. Fue una **corrección ortodoxa dentro del régimen**.
+:::
+
+## [5.11] Resultados del Plan de 1952
+
+| Indicador | 1952 | 1953 | 1954 | 1955 |
+|-----------|------|------|------|------|
+| PBI real (% var.) | −5,0 | +3,5 | +4,0 | +3,0 |
+| Inflación anual (%) | 15,0 | 4,5 | 4,0 | 8,0 |
+| Salario real (1945=100) | ~110 | ~115 | ~120 | ~115 |
+| Saldo comercial (mill. US$) | +300 | +400 | +350 | +250 |
+
+- Inflación se desaceleró fuertemente; actividad: recesión profunda en 1952, recuperación moderada después.
+- El salario real **nunca volvió al pico de 1949**.
+
+## [5.12] Evaluación de conjunto 1946–1955
+
+**Logros:**
+
+| Área | Logro |
+|------|-------|
+| Industria | Participación industrial en PBI: 22% (1946) → 27% (1955) |
+| Trabajo | Sindicatos legitimados; pleno empleo urbano como meta de política pública |
+| Estado | Rol de empresario, regulador y redistribuidor consolidado |
+
+**Costos:**
+
+| Problema | Manifestación |
+|----------|--------------|
+| Restricción externa | Industrialización demandante de divisas sin generación propia |
+| Inflación crónica | Inflación de dos dígitos se normalizó |
+| Anti-export bias | Sobrevaluación cambiaria persistente; marginación del agro |
+
+**En perspectiva histórica:**
+
+| Variable | 1900–1914 | 1930–1943 | 1946–1955 |
+|----------|-----------|-----------|-----------|
+| Crecimiento PBI (% anual) | ~5,0 | ~2,5 | ~3,5 (muy volátil) |
+| Tasa de inversión (% PBI) | ~19 | ~9 | ~14–16 |
+| Inflación promedio | ~0 | ~2–3% | ~15–20% |
+| Part. industrial en PBI | ~15% | ~20% | ~25–27% |
+
+::: {.callout-note icon=false title="En perspectiva"}
+El peronismo creció **más rápido** que la Década Infame pero **más lento y volátil** que la *belle époque*.
+:::
+
+## [5.14] Lo que cambió y lo que no
+
+**Cambió:**
+- Mercado interno como eje de crecimiento.
+- Estado empresario, redistribuidor y planificador.
+- Salario real como variable de política pública.
+- Crédito dirigido.
+
+**No cambió:**
+- Dependencia del sector agropecuario para divisas.
+- Inflación endógena (acelerada, no inventada).
+- Ciclo de stop-and-go (institucionalizado).
+- Fiscalidad débil.
+
+# Cierre {background="#1f3a5f"}
+
+## Ideas fuerza del repaso {.tight}
+
+1. **1880–1914**: crecimiento excepcional pero frágil, basado en BPE y dependiente del exterior.
+2. **Orden monetario**: la Caja de Conversión dio estabilidad con una regla dura, pero a costa de política monetaria propia.
+3. **1914–1945**: shocks externos forzaron el giro intervencionista; la industria creció antes de 1930 (Villanueva).
+4. **Peronismo**: cambio de régimen hacia mercado interno y redistribución, financiado con rentas transitorias que se agotaron.
+5. **Legado**: el peronismo transformó la estructura social pero consolidó tensiones estructurales (restricción externa, inflación, anti-export bias).
+
+## Preguntas para practicar
+
+- ¿Por qué el BPE explica el éxito **y** la fragilidad del crecimiento 1880–1914?
+- ¿Qué tiene en común y en qué se diferencian la Crisis de Baring (1890) y la crisis de 1929?
+- ¿Fue la industrialización argentina **espontánea** o **deliberada**? ¿Cuándo comenzó realmente?
+- ¿Por qué el Plan Pinedo fracasó políticamente? ¿Qué le debía el peronismo a esa experiencia?
+- ¿Fue el peronismo una **ruptura** con el modelo agroexportador o una **reconfiguración** del intervencionismo previo?
+
+## ¡Éxitos en el parcial!
+
+> "Analizar la evolución de la economía argentina (…) El énfasis estará puesto en el examen de las **políticas económicas aplicadas y los resultados alcanzados**."
+
+::: {.fuente}
+Programa de la asignatura.
+:::
+
+::: {.callout-tip icon=false title="Último consejo"}
+No memorices fechas: **relaciona conceptos**, **compara períodos** y **usa evidencia** para sostener tus argumentos.
+:::
+
+<!--
+Notas de uso (no proyectar):
+- Clase de repaso para examen parcial. Cubre Unidades 1, 2 y 3 del programa.
+- Estructura: 6 secciones, ~75 diapositivas. Secciones 1 y 2 ampliadas con más
+  profundidad teórica, diagramas de régimen y tablas comparativas.
+- Fuentes: lec-01 a lec-13 del curso HEAR 2024.
+-->
