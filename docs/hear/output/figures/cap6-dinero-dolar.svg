@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="440" viewBox="0 0 1400 440" role="img" aria-label="Conflicto entre control monetario y objetivo cambiario">
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M 1 1 L 9 5 L 1 9" fill="none" stroke="#1f4e79" stroke-width="1.5"/></marker></defs>
+<style>text{font-family:Helvetica,Arial,sans-serif} .title{font-size:38px;font-weight:700;fill:#1f3a5f}.detail{font-size:32px;fill:#526477}.num{font-size:27px;font-weight:700;fill:#1f4e79}.label{font-size:28px;fill:#1f4e79}</style>
+<text x="30" y="47" class="num" text-anchor="start">01</text>
+<text x="30" y="107" class="title" text-anchor="start">Restricción</text>
+<text x="30" y="152" class="title" text-anchor="start">monetaria</text>
+<text x="30" y="219" class="detail" text-anchor="start">Suben las tasas</text>
+<path d="M 370 134 H 465" fill="none" stroke="#1f4e79" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="510" y="47" class="num" text-anchor="start">02</text>
+<text x="510" y="107" class="title" text-anchor="start">Ingreso de</text>
+<text x="510" y="152" class="title" text-anchor="start">capitales</text>
+<text x="510" y="219" class="detail" text-anchor="start">Llegan dólares buscando</text>
+<text x="510" y="258" class="detail" text-anchor="start">el rendimiento en pesos</text>
+<path d="M 850 134 H 945" fill="none" stroke="#1f4e79" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="990" y="47" class="num" text-anchor="start">03</text>
+<text x="990" y="107" class="title" text-anchor="start">Intervención</text>
+<text x="990" y="152" class="title" text-anchor="start">del BCRA</text>
+<text x="990" y="219" class="detail" text-anchor="start">Compra dólares para</text>
+<text x="990" y="258" class="detail" text-anchor="start">sostener la paridad</text>
+<path d="M 1190 285 V 330 H 185 V 285" fill="none" stroke="#1f4e79" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="700" y="386" class="label" text-anchor="middle">La compra de divisas emite pesos y contrarresta la restricción</text>
+</svg>

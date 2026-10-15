@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="470" viewBox="0 0 1400 470" role="img" aria-label="Retroalimentación entre crisis bancaria y cambiaria">
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M 1 1 L 9 5 L 1 9" fill="none" stroke="#1f4e79" stroke-width="1.5"/></marker></defs>
+<style>text{font-family:Helvetica,Arial,sans-serif} .title{font-size:38px;font-weight:700;fill:#1f3a5f}.detail{font-size:32px;fill:#526477}.num{font-size:27px;font-weight:700;fill:#1f4e79}.label{font-size:28px;fill:#1f4e79}</style>
+<text x="45" y="38" class="num" text-anchor="start">01</text>
+<text x="45" y="86" class="title" text-anchor="start">Dudas sobre bancos</text>
+<text x="45" y="130" class="title" text-anchor="start">y pauta cambiaria</text>
+<text x="45" y="181" class="detail" text-anchor="start">Se debilita la confianza</text>
+<text x="810" y="38" class="num" text-anchor="start">02</text>
+<text x="810" y="86" class="title" text-anchor="start">Salida de depósitos</text>
+<text x="810" y="130" class="title" text-anchor="start">y compra de dólares</text>
+<text x="810" y="181" class="detail" text-anchor="start">Los fondos buscan cobertura</text>
+<text x="810" y="263" class="num" text-anchor="start">03</text>
+<text x="810" y="311" class="title" text-anchor="start">Pérdida de reservas</text>
+<text x="810" y="355" class="title" text-anchor="start">y suba de tasas</text>
+<text x="810" y="406" class="detail" text-anchor="start">Se encarece defender la pauta</text>
+<text x="45" y="263" class="num" text-anchor="start">04</text>
+<text x="45" y="311" class="title" text-anchor="start">Deudas impagables</text>
+<text x="45" y="355" class="title" text-anchor="start">y recesión</text>
+<text x="45" y="406" class="detail" text-anchor="start">Empeoran los balances</text>
+<path d="M 550 96 H 745" fill="none" stroke="#1f4e79" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M 1355 158 V 283" fill="none" stroke="#1f4e79" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M 745 353 H 550" fill="none" stroke="#1f4e79" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M 15 283 V 165" fill="none" stroke="#1f4e79" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="700" y="239" class="label" text-anchor="middle">La fragilidad se refuerza</text>
+</svg>

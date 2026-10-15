@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420" role="img" aria-label="Garantía de depósitos y toma de riesgos">
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M 1 1 L 9 5 L 1 9" fill="none" stroke="#1f4e79" stroke-width="1.5"/></marker></defs>
+<style>text{font-family:Helvetica,Arial,sans-serif} .title{font-size:38px;font-weight:700;fill:#1f3a5f}.detail{font-size:32px;fill:#526477}.num{font-size:27px;font-weight:700;fill:#1f4e79}.label{font-size:28px;fill:#1f4e79}</style>
+<text x="20.0" y="57" class="num" text-anchor="start">01</text>
+<path d="M 20.0 78 H 295.0" stroke="#1f4e79" stroke-width="4"/>
+<text x="20.0" y="137" class="title" text-anchor="start">Depósitos</text>
+<text x="20.0" y="182" class="title" text-anchor="start">garantizados</text>
+<text x="20.0" y="250" class="detail" text-anchor="start">El ahorrista confía</text>
+<text x="20.0" y="289" class="detail" text-anchor="start">en el respaldo público</text>
+<path d="M 305.0 162 H 355.0" fill="none" stroke="#1f4e79" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="370.0" y="57" class="num" text-anchor="start">02</text>
+<path d="M 370.0 78 H 645.0" stroke="#1f4e79" stroke-width="4"/>
+<text x="370.0" y="137" class="title" text-anchor="start">Menor control</text>
+<text x="370.0" y="182" class="title" text-anchor="start">del ahorrista</text>
+<text x="370.0" y="250" class="detail" text-anchor="start">Menos vigilancia</text>
+<text x="370.0" y="289" class="detail" text-anchor="start">sobre el banco</text>
+<path d="M 655.0 162 H 705.0" fill="none" stroke="#1f4e79" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="720.0" y="57" class="num" text-anchor="start">03</text>
+<path d="M 720.0 78 H 995.0" stroke="#1f4e79" stroke-width="4"/>
+<text x="720.0" y="137" class="title" text-anchor="start">Más riesgo</text>
+<text x="720.0" y="182" class="title" text-anchor="start">en la cartera</text>
+<text x="720.0" y="250" class="detail" text-anchor="start">Captación cara y</text>
+<text x="720.0" y="289" class="detail" text-anchor="start">préstamos riesgosos</text>
+<path d="M 1005.0 162 H 1055.0" fill="none" stroke="#1f4e79" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="1070.0" y="57" class="num" text-anchor="start">04</text>
+<path d="M 1070.0 78 H 1345.0" stroke="#2e7d32" stroke-width="4"/>
+<text x="1070.0" y="137" class="title" text-anchor="start">Pérdidas con</text>
+<text x="1070.0" y="182" class="title" text-anchor="start">respaldo público</text>
+<text x="1070.0" y="250" class="detail" text-anchor="start">El riesgo termina</text>
+<text x="1070.0" y="289" class="detail" text-anchor="start">en el Estado</text>
+<path d="M 20 365 H 1365" stroke="#c0c8d8" stroke-width="1.5"/>
+<text x="20" y="407" class="label" text-anchor="start">La garantía requiere supervisión: esta secuencia no es un resultado inevitable.</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="460" viewBox="0 0 1400 460" role="img" aria-label="Circuito bancario de la centralización de depósitos">
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M 1 1 L 9 5 L 1 9" fill="none" stroke="#1f4e79" stroke-width="1.5"/></marker></defs>
+<style>text{font-family:Helvetica,Arial,sans-serif} .title{font-size:38px;font-weight:700;fill:#1f3a5f}.detail{font-size:32px;fill:#526477}.num{font-size:27px;font-weight:700;fill:#1f4e79}.label{font-size:28px;fill:#1f4e79}</style>
+<text x="700" y="54" class="title" text-anchor="middle">Banco Central</text>
+<text x="700" y="100" class="detail" text-anchor="middle">Redescuentos, reglas y remuneración</text>
+<path d="M 700 121 V 226" fill="none" stroke="#1f4e79" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="35" y="288" class="title" text-anchor="start">Ahorrista</text>
+<text x="35" y="384" class="detail" text-anchor="start">Conserva la titularidad</text>
+<text x="35" y="422" class="detail" text-anchor="start">de su depósito</text>
+<text x="520" y="288" class="title" text-anchor="start">Banco</text>
+<text x="520" y="384" class="detail" text-anchor="start">Recibe depósitos por</text>
+<text x="520" y="422" class="detail" text-anchor="start">cuenta del BCRA</text>
+<text x="1030" y="288" class="title" text-anchor="start">Empresa</text>
+<text x="1030" y="333" class="title" text-anchor="start">o familia</text>
+<text x="1030" y="384" class="detail" text-anchor="start">Recibe el préstamo</text>
+<path d="M 315 279 H 475" fill="none" stroke="#1f4e79" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="395" y="249" class="label" text-anchor="middle">Depósito</text>
+<path d="M 820 279 H 990" fill="none" stroke="#1f4e79" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="902" y="249" class="label" text-anchor="middle">Crédito</text>
+</svg>

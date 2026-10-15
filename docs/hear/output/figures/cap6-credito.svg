@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420" role="img" aria-label="Secuencia esperada de la reforma financiera">
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M 1 1 L 9 5 L 1 9" fill="none" stroke="#1f4e79" stroke-width="1.5"/></marker></defs>
+<style>text{font-family:Helvetica,Arial,sans-serif} .title{font-size:38px;font-weight:700;fill:#1f3a5f}.detail{font-size:32px;fill:#526477}.num{font-size:27px;font-weight:700;fill:#1f4e79}.label{font-size:28px;fill:#1f4e79}</style>
+<text x="20.0" y="57" class="num" text-anchor="start">01</text>
+<path d="M 20.0 78 H 295.0" stroke="#1f4e79" stroke-width="4"/>
+<text x="20.0" y="137" class="title" text-anchor="start">Tasas reales</text>
+<text x="20.0" y="182" class="title" text-anchor="start">atractivas</text>
+<text x="20.0" y="250" class="detail" text-anchor="start">Incentivo a colocar</text>
+<text x="20.0" y="289" class="detail" text-anchor="start">fondos en bancos</text>
+<path d="M 305.0 162 H 355.0" fill="none" stroke="#1f4e79" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="370.0" y="57" class="num" text-anchor="start">02</text>
+<path d="M 370.0 78 H 645.0" stroke="#1f4e79" stroke-width="4"/>
+<text x="370.0" y="137" class="title" text-anchor="start">Más depósitos</text>
+<text x="370.0" y="182" class="title" text-anchor="start">bancarios</text>
+<text x="370.0" y="250" class="detail" text-anchor="start">Recursos para</text>
+<text x="370.0" y="289" class="detail" text-anchor="start">financiar proyectos</text>
+<path d="M 655.0 162 H 705.0" fill="none" stroke="#1f4e79" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="720.0" y="57" class="num" text-anchor="start">03</text>
+<path d="M 720.0 78 H 995.0" stroke="#1f4e79" stroke-width="4"/>
+<text x="720.0" y="137" class="title" text-anchor="start">Selección</text>
+<text x="720.0" y="182" class="title" text-anchor="start">del crédito</text>
+<text x="720.0" y="250" class="detail" text-anchor="start">Evaluar rentabilidad</text>
+<text x="720.0" y="289" class="detail" text-anchor="start">y capacidad de pago</text>
+<path d="M 1005.0 162 H 1055.0" fill="none" stroke="#1f4e79" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="1070.0" y="57" class="num" text-anchor="start">04</text>
+<path d="M 1070.0 78 H 1345.0" stroke="#2e7d32" stroke-width="4"/>
+<text x="1070.0" y="137" class="title" text-anchor="start">Inversión y</text>
+<text x="1070.0" y="182" class="title" text-anchor="start">productividad</text>
+<text x="1070.0" y="250" class="detail" text-anchor="start">Resultado esperado</text>
+<text x="1070.0" y="289" class="detail" text-anchor="start">de la reforma</text>
+<path d="M 20 365 H 1365" stroke="#c0c8d8" stroke-width="1.5"/>
+<text x="20" y="407" class="label" text-anchor="start">La conexión decisiva: captar más fondos no garantiza prestar mejor.</text>
+</svg>
